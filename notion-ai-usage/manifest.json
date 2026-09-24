@@ -1,0 +1,39 @@
+{
+  "manifest_version": 3,
+  "name": "Notion AI Usage",
+  "version": "1.1.0",
+  "description": "Jump straight to Settings → Notion AI → Usage with a keyboard shortcut.",
+  "host_permissions": ["https://app.notion.com/*", "https://www.notion.so/*"],
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Notion AI Usage",
+    "default_icon": {
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "commands": {
+    "open-ai-usage": {
+      "suggested_key": { "default": "Ctrl+Shift+U", "mac": "Command+Shift+U" },
+      "description": "Open Notion AI usage"
+    }
+  },
+  "background": { "service_worker": "background.js" },
+  "content_scripts": [
+    {
+      "matches": ["https://app.notion.com/*", "https://www.notion.so/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle",
+      "world": "ISOLATED"
+    }
+  ]
+}
