@@ -214,3 +214,64 @@ liposuc, interleukin/IL-6/cytokin, methaemoglobin spellings, contrasting, 242)
   (11445730, endothelium in sepsis), Spolarics 1998 (9581796, hepatic sinusoid), Chernik 1990 (2286697, sedation scale),
   Pfaefflin 2009 (19104782, point-of-care inflammation markers), Gabay 1999 (9971870, acute-phase proteins), Il'yasova
   2008 (17852073, CRP/IL-6 and oxidative stress), Vos 2009 (19328934, CRP after lung transplantation).
+
+## 6. Claim screen (all 320 claims)
+
+First pass (before the coordinator's note): Python regex over claim, elements, reason, proposed wording, evidence quote,
+review, section, records_read and needs_full_text, for: prilocain|citanest|propitocain|xylonest; meth?a?emoglobin|methb|
+mhb|cyanos; tumesc|liposuc; cytokin|interleukin|IL-6|IL-8|TNF|inflammat|C-reactive|CRP; guay; lindenblatt; sertdemir;
+yal[cç][iı]n; schmittner|20384691; emla|lidocaine-prilocaine|eutectic; toluidin; systemic tox|plasma/serum level/conc;
+scite|contrasting; and the reference-list authors (Mang, Rudlof, Sagoo, Vasters, Kortgen, Ash-Bernal, Dumont, Khan).
+Second pass, repeated with the masked viewer (pm_work/tools/claims_view.py grep, dose figures masked) for the same
+terms plus inflammat; EMLA|eutectic|lidocaine-prilocaine; dermatolog* surg|resection|melanoma|acne|day surgery|
+ambulatory|subcutaneous infus. Hits: prilocaine 18, methaemoglobin 4, tumescent 2, cytokine terms 0, named authors 3,
+systemic/plasma 4, contrasting/Scite 3, inflammat 5, EMLA 7, surgery/route terms 7.
+
+Kept (claim updates written):
+- C071 (own question) — narrowed → narrowed, uncertain_after false (Schmittner full text; Guay abstract as extra study).
+- D075 (Safe Doses, same sentence as C071's source note) — out-of-scope → out-of-scope; full text settles its framing.
+- C068 (prilocaine-wheals, methaemoglobin series after small-dose infiltration) — narrowed → narrowed; Schmittner is a
+  further series of ordinary patients with serial methaemoglobin, but at large doses (small-dose element unmatched).
+
+Read closely and dropped:
+- C069 (no methaemoglobin measurement after a milligram-scale intradermal dose): Schmittner is large-dose, subcutaneous;
+  outside scope, consistent with "every figure on this page comes from doses at least ten times larger".
+- C070 (repeated small doses across sessions): single session, large dose; outside scope.
+- C065, C066, C067, D006, D009, D010, D023, D024, D039, D054, D062, C039 (prilocaine or other agents' intradermal duration,
+  injection pain, comparisons): Schmittner times no anaesthesia and measures no injection pain. D009 (prilocaine with
+  epinephrine "not measured in skin") — Schmittner injected prilocaine with epinephrine into subcutaneous tissue but
+  measured no duration, so the outcome element is unmatched.
+- C049, D005, C046, D013, C054 (nerve or tissue damage): not studied.
+- D014 (skin nerve fibre density), D018 (buffering), D066–D068 (EMLA cream), E028 (topical lidocaine duration): other
+  route/outcome.
+- C084 (tissue oxygen for eight hours): Schmittner monitored arterial oxygen saturation only during surgery, no tissue
+  oxygen; dropped.
+- D038 (Gq anti-inflammatory action never tested against a clinical durability endpoint) and D028: Schmittner measured
+  systemic cytokines after a local anaesthetic but had no pain or durability endpoint and no comparator; does not bear.
+- D042 (no contrasting citation against durability claims): different page and topic.
+- C014 (clonidine, plasma levels as a vasoconstriction marker): unrelated.
+- A001/A003/A004/A006/A028/A046/A058/C005/C008/C062/C088/E015 (first-pass inflammation/cytokine word hits): unrelated
+  topics (alpha-lipoic acid, vitamin D, stem cells, GLP-1, naltrexone, diet, botulinum toxin, epinephrine tissue
+  inflammation in animals, laser Doppler, eugenol).
+
+Count lines for claims skipped under the filter rule (subject is a dose ceiling, toxicity level or injection practice):
+- Safe Doses Of Intradermal Analgesics: 2 claims not tested: dose or toxicity subject (D069, D073 — the two of the
+  page's dose-subject claims that touch this paper's topics: plasma levels after a session; epinephrine in skin
+  infiltration). The page's other dose-subject claims (D070, D071, D072, D074) do not overlap this paper. In any case the
+  paper's design (one subcutaneous tumescent session, no wheals, no cardiovascular outcome reported) is outside their scope.
+- prilocaine-wheals: 0 claims skipped; C071 answered under the own-question exception (citation and framing only, no
+  figures). Prilocaine + Lidocaine: 0 claims skipped.
+
+## 7. PubMed searches (connector; logged with pmcache.py)
+- (Mang W[Author] OR Mang WL[Author]) AND (Prilocain*[tiab] OR Liposuktion[tiab] OR liposuction[tiab] OR
+  Tumeszenz*[tiab]) — count 0 (translation recorded in pm_work/cache/s_mcp_4c341718c8bf5739.json). Mang 1999 is not in
+  PubMed.
+- All other identifications were by lookup_article_by_citation (section 4) and get_article_metadata (section 4b).
+
+## 8. Not reached / problems / instructions in documents
+- Scite connector refused (paid plan or trial required) — not pursued; the "contrasting citation" classification of
+  Guay's citers is unverified.
+- Mang 1999, Sagoo 2000 and Klein 1987 are not in PubMed; not read.
+- No instructions aimed at this agent were found in the paper, the abstracts or the Notion pages. The Safe Doses page
+  carries reader-directed caveats (quoted in 5.2) — page content, not instructions to the agent.
+- No content-filter stops.
