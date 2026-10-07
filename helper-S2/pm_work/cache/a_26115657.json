@@ -1,0 +1,18 @@
+{
+ "pmid": "26115657",
+ "year": "2015",
+ "first_author": "Egli",
+ "title": "Long-term results of therapeutic local anesthesia (neural therapy) in 280 referred refractory chronic pain patients.",
+ "journal": "BMC Complement Altern Med",
+ "pubtypes": [
+  "Clinical Trial",
+  "Journal Article"
+ ],
+ "doi": "10.1186/s12906-015-0735-z",
+ "pmcid": "PMC4483221",
+ "abstract": "Can the application of local anesthetics (Neural Therapy, NT) alone durably improve pain symptoms in referred patients with chronic and refractory pain? If the application of local anesthetics does lead to an improvement that far exceeds the duration of action of local anesthetics, we will postulate that a vicious circle of pain in the reflex arcs has been disrupted (hypothesis).\n\nCase series design. We exclusively used procaine or lidocaine. The inclusion criteria were severe pain and chronic duration of more than three months, pain unresponsive to conventional medical measures, written referral from physicians or doctors of chiropractic explicitly to NT. Patients with improvement of pain who started on additional therapy during the study period for a reason other than pain were excluded in order to avoid a potential bias. Treatment success was measured after one year follow-up using the outcome measures of pain and analgesics intake.\n\n280 chronic pain patients were included; the most common reason for referral was back pain. The average number of consultations per patient was 9.2 in the first year (median 8.0). After one year, in 60 patients pain was unchanged, 52 patients reported a slight improvement, 126 were considerably better, and 41 pain-free. At the same time, 74.1% of the patients who took analgesics before starting NT needed less or no more analgesics at all. No adverse effects or complications were observed.\n\nThe good long-term results of the targeted therapeutic local anesthesia (NT) in the most problematic group of chronic pain patients (unresponsive to all evidence based conventional treatment options) indicate that a vicious circle has been broken. The specific contribution of the intervention to these results cannot be determined. The low costs of local anesthetics, the small number of consultations needed, the reduced intake of analgesics, and the lack of adverse effects also suggest the practicality and cost-effectiveness of this kind of treatment. Controlled trials to evaluate the true effect of NT are needed.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:41:28Z",
+ "retrieved_for": "S-686-18",
+ "redacted": false
+}

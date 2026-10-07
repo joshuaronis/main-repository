@@ -1,0 +1,28 @@
+{
+ "query": "(EMLA[tiab] OR \"lidocaine-prilocaine\"[tiab] OR \"lidocaine/prilocaine\"[tiab] OR \"prilocaine-lidocaine\"[tiab] OR \"eutectic mixture\"[tiab] OR \"Lidocaine, Prilocaine Drug Combination\"[Mesh]) AND (\"carpal tunnel\"[tiab] OR \"median nerve\"[tiab] OR entrapment[tiab] OR \"compression neuropathy\"[tiab])",
+ "max_results": 40,
+ "count": 17,
+ "translation": "(\"EMLA\"[Title/Abstract] OR \"lidocaine prilocaine\"[Title/Abstract] OR \"lidocaine prilocaine\"[Title/Abstract] OR \"prilocaine-lidocaine\"[Title/Abstract] OR \"eutectic mixture\"[Title/Abstract] OR \"lidocaine, prilocaine drug combination\"[MeSH Terms]) AND (\"carpal tunnel\"[Title/Abstract] OR \"median nerve\"[Title/Abstract] OR \"entrapment\"[Title/Abstract] OR \"compression neuropathy\"[Title/Abstract])",
+ "pmids": [
+  "40107421",
+  "39545073",
+  "37279742",
+  "35342267",
+  "33708996",
+  "29173870",
+  "27403887",
+  "22118874",
+  "19845100",
+  "19251262",
+  "19163212",
+  "16352379",
+  "14571460",
+  "12367547",
+  "11560444",
+  "11062570",
+  "7486304"
+ ],
+ "date_searched": "2026-10-07T23:56:07Z",
+ "searched_for": "S-686-43",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

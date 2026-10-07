@@ -1,0 +1,12 @@
+{
+ "query": "dexamethasone AND (intradermal OR intracutaneous OR intra-cutaneous OR \"subcutaneous injection\" OR \"local infiltration\" OR \"local injection\") AND (zoster OR postherpetic)",
+ "max_results": 30,
+ "count": 1,
+ "translation": "(\"dexamethasone\"[Supplementary Concept] OR \"dexamethasone\"[All Fields] OR \"dexamethason\"[All Fields] OR \"dexamethasone\"[MeSH Terms] OR \"dexamethasone s\"[All Fields] OR \"dexamethasones\"[All Fields]) AND (\"intradermal\"[All Fields] OR \"intradermally\"[All Fields] OR \"intradermic\"[All Fields] OR \"intradermically\"[All Fields] OR (\"intracutaneous\"[All Fields] OR \"intracutaneously\"[All Fields] OR \"intracutanous\"[All Fields]) OR \"intra-cutaneous\"[All Fields] OR \"subcutaneous injection\"[All Fields] OR \"local infiltration\"[All Fields] OR \"local injection\"[All Fields]) AND (\"herpes zoster\"[MeSH Terms] OR (\"herpes\"[All Fields] AND \"zoster\"[All Fields]) OR \"herpes zoster\"[All Fields] OR \"zoster\"[All Fields] OR \"postherpetic\"[All Fields])",
+ "pmids": [
+  "35793178"
+ ],
+ "date_searched": "2026-10-07T23:40:34Z",
+ "searched_for": "S-686-05",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

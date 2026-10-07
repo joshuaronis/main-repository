@@ -1,0 +1,10 @@
+{
+ "query": "(clonidine OR dexmedetomidine OR magnesium OR buprenorphine) AND (intradermal OR intracutaneous OR intra-cutaneous OR \"subcutaneous injection\" OR \"local infiltration\") AND (zoster OR postherpetic)",
+ "max_results": 30,
+ "count": 0,
+ "translation": "(\"clonidine\"[Supplementary Concept] OR \"clonidine\"[All Fields] OR \"clonidin\"[All Fields] OR \"clonidine\"[MeSH Terms] OR \"clonidine s\"[All Fields] OR (\"dexmedetomidine\"[Supplementary Concept] OR \"dexmedetomidine\"[All Fields] OR \"dexmedetomidine\"[MeSH Terms] OR \"dexmedetomidine s\"[All Fields]) OR (\"magnesium\"[Supplementary Concept] OR \"magnesium\"[All Fields] OR \"magnesium\"[MeSH Terms] OR \"magnesium s\"[All Fields] OR \"magnesiums\"[All Fields]) OR (\"buprenorphin\"[All Fields] OR \"buprenorphine\"[Supplementary Concept] OR \"buprenorphine\"[All Fields] OR \"buprenorphine\"[MeSH Terms] OR \"buprenorphine s\"[All Fields])) AND (\"intradermal\"[All Fields] OR \"intradermally\"[All Fields] OR \"intradermic\"[All Fields] OR \"intradermically\"[All Fields] OR (\"intracutaneous\"[All Fields] OR \"intracutaneously\"[All Fields] OR \"intracutanous\"[All Fields]) OR \"intra-cutaneous\"[All Fields] OR \"subcutaneous injection\"[All Fields] OR \"local infiltration\"[All Fields]) AND (\"herpes zoster\"[MeSH Terms] OR (\"herpes\"[All Fields] AND \"zoster\"[All Fields]) OR \"herpes zoster\"[All Fields] OR \"zoster\"[All Fields] OR \"postherpetic\"[All Fields])",
+ "pmids": [],
+ "date_searched": "2026-10-07T23:40:51Z",
+ "searched_for": "S-686-05",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

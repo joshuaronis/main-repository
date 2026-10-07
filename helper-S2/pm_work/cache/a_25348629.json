@@ -1,0 +1,19 @@
+{
+ "pmid": "25348629",
+ "year": "2014",
+ "first_author": "Schmid",
+ "title": "The relationship of nerve fibre pathology to sensory function in entrapment neuropathy.",
+ "journal": "Brain",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, N.I.H., Extramural",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1093/brain/awu288",
+ "pmcid": "PMC4240296",
+ "abstract": "Surprisingly little is known about the impact of entrapment neuropathy on target innervation and the relationship of nerve fibre pathology to sensory symptoms and signs. Carpal tunnel syndrome is the most common entrapment neuropathy; the aim of this study was to investigate its effect on the morphology of small unmyelinated as well as myelinated sensory axons and relate such changes to somatosensory function and clinical symptoms. Thirty patients with a clinical and electrophysiological diagnosis of carpal tunnel syndrome [17 females, mean age (standard deviation) 56.4 (15.3)] and 26 age and gender matched healthy volunteers [18 females, mean age (standard deviation) 51.0 (17.3)] participated in the study. Small and large fibre function was examined with quantitative sensory testing in the median nerve territory of the hand. Vibration and mechanical detection thresholds were significantly elevated in patients with carpal tunnel syndrome (P<0.007) confirming large fibre dysfunction and patients also presented with increased thermal detection thresholds (P<0.0001) indicative of C and Aδ-fibre dysfunction. Mechanical and thermal pain thresholds were comparable between groups (P>0.13). A skin biopsy was taken from a median nerve innervated area of the proximal phalanx of the index finger. Immunohistochemical staining for protein gene product 9.5 and myelin basic protein was used to evaluate morphological features of unmyelinated and myelinated axons. Evaluation of intraepidermal nerve fibre density showed a striking loss in patients (P<0.0001) confirming a significant compromise of small fibres. The extent of Meissner corpuscles and dermal nerve bundles were comparable between groups (P>0.07). However, patients displayed a significant increase in the percentage of elongated nodes (P<0.0001), with altered architecture of voltage-gated sodium channel distribution. Whereas neither neurophysiology nor quantitative sensory testing correlated with patients' symptoms or function deficits, the presence of elongated nodes was inversely correlated with a number of functional and symptom related scores (P<0.023). Our findings suggest that carpal tunnel syndrome does not exclusively affect large fibres but is associated with loss of function in modalities mediated by both unmyelinated and myelinated sensory axons. We also document for the first time that entrapment neuropathies lead to a clear reduction in intraepidermal nerve fibre density, which was independent of electrodiagnostic test severity. The presence of elongated nodes in the target tissue further suggests that entrapment neuropathies affect nodal structure/myelin well beyond the focal compression site. Interestingly, nodal lengthening may be an adaptive phenomenon as it inversely correlates with symptom severity.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:41:07Z",
+ "retrieved_for": "S-686-43",
+ "redacted": false
+}

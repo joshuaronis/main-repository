@@ -349,5 +349,44 @@
   "page": 0,
   "proposed_wording": "No study has measured methaemoglobin, local tissue change or the persistence of effect across repeated sessions of injected prilocaine wheals. Repeated lidocaine-prilocaine application by the topical route has been studied on each point: methaemoglobin across repeated heel applications in preterm neonates (Essink-Tebbes 1999, no rise above baseline); plasma prilocaine across ten days of daily application to leg ulcers (Effendy 2015, no accumulation; methaemoglobin not measured) and across repeated debridement sessions (Lok 1999, no accumulation); and local reactions and analgesic effect across successive treatments (Hansson 1993, effect unchanged) and over four weeks of daily use as a wound dressing (Purcell 2017).",
   "reason": "Found in Effendy 2015's reference list (ref. 9). Hansson 1993 is a randomised controlled study of a series of repeated treatments with the cream before cleansing of venous leg ulcers: local reactions were scored at every treatment, granulation tissue, ulcer area and bacterial flora were assessed at the first and last, and the analgesic effect remained unchanged with successive treatments, with no difference from controls in local reactions or effects on granulation tissue, ulcer area or flora. So for the topical route the claim's 'not on local tissue change, not on whether the effect holds up over time' has data, and C070's current reason ('nothing reports local tissue change across sessions') is too broad. None of it is injected, and the claim is about repeated wheal sessions, so the verdict stays narrowed."
+ },
+ {
+  "claim_id": "D068",
+  "paper_id": "S-686-48",
+  "pmid": "38429571",
+  "kind": "own-question",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Presently, this pairwise meta-analysis of 10 studies pooling over 890 pediatric patients undergoing topical anesthesia with EMLA cream or amethocaine gel is the first and most comprehensive review on the topic.",
+  "page": 4,
+  "proposed_wording": "The withdrawal is administrative rather than a finding of error, and the 2006 analysis stands as published, but it is no longer a current Cochrane review. Later meta-analyses cover the same comparison in children: Pywell 2015 (3 randomised trials; first-time cannulation success, no significant difference) and Varghese 2024 (10 studies listed; child-reported absence of pain favoured amethocaine in the 5 studies reporting it, RR 0.58, 95% CI 0.41 to 0.82; first-attempt cannulation success RR 0.98, 95% CI 0.97 to 0.99, from 3 trials none of which was significant alone; no significant difference in child-reported VAS (4 studies), parent-reported VAS (2), observed pain score (3) or child-reported acceptable anaesthesia (2); study quality rated with an observational-study scale and no certainty grading). A 2025 network meta-analysis and a 2025 clinical practice guideline cover the wider question.",
+  "reason": "Own question answered from the full text: Varghese 2024 pooled 10 studies (Table 1: 8 labelled RCTs, 2 comparative studies), reported as 892 children (448 EMLA, 473 amethocaine; the arms sum to 921). Pooled estimates, EMLA vs amethocaine, random effects: first-attempt cannulation success RR 0.98 (95% CI 0.97-0.99; p = 0.017; I2 0%; 3 studies); child-reported absence of pain RR 0.58 (0.41-0.82; p = 0.011; I2 20.2%; 5 studies); child-reported VAS SMD 0.43 (-1.46 to 2.31; p = 0.525; I2 92.8%; 4 studies); parent-reported VAS SMD -0.05 (-0.64 to 0.54; p = 0.478; I2 0%; 2 studies); observed pain score SMD -0.45 (-2.27 to 1.38; p = 0.405; I2 88.6%; 3 studies); child-reported acceptable anaesthesia RR 0.73 (0.34-1.55; p = 0.118; I2 0%; 2 studies). The review matches every element D068 says is absent (a meta-analysis of EMLA versus amethocaine in children having needle procedures, published after the 2013 withdrawal, on procedural pain and cannulation success), so 'nothing has replaced it' stays refuted. Limits for the wording: one pooled study (McCafferty 1997) is a laser-treatment study in patients over 12 indexed as adolescents and adults; van Kan 1997 is listed but enters no analysis; quality was rated only with the Newcastle-Ottawa Scale and no certainty grading was given; the paper does not cite the Lander review; and the first-attempt and acceptable-anaesthesia intervals follow the Hartung-Knapp method on two or three studies (ordinary pooling of the plotted estimates gives RR 0.98, 0.89-1.09, and RR 0.73, 0.61-0.87)."
+ },
+ {
+  "claim_id": "D068",
+  "paper_id": "",
+  "pmid": "25351196",
+  "kind": "extra-study",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Three randomised controlled trials met the inclusion criteria and were included in the meta-analysis. … Amethocaine cream increased the likelihood of successful first-time cannulation (RR 1.046, CI 0.975 to 1.122), although this did not reach statistical significance (p=0.211).",
+  "page": 0,
+  "proposed_wording": "The withdrawal is administrative rather than a finding of error, and the 2006 analysis stands as published, but it is no longer a current Cochrane review. A later meta-analysis of 3 randomised trials compared amethocaine with EMLA for first-time cannulation success in children and found no significant difference (Pywell 2015, PMID 25351196).",
+  "reason": "Extra study reached through Varghese 2024 (S-686-48), which cites it as ref 26 and misdates it in its text as 'a 2017 meta-analysis'. On its own, Pywell 2015 (online 2014) is a systematic review and meta-analysis of 3 randomised trials of amethocaine versus EMLA in children with first-time cannulation success as the outcome, published after the 2013 withdrawal, so it matches every element D068 says is absent and independently refutes 'nothing has replaced it'; the standing verdict refuted is kept. Its abstract also verifies how D068's proposed wording describes it: RR 1.046 (CI 0.975 to 1.122), p = 0.211, no significant advantage for amethocaine, with a weak recommendation in its favour."
+ },
+ {
+  "claim_id": "E028",
+  "paper_id": "S-686-48",
+  "pmid": "38429571",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "lasting between 1 and 2 h after removal, although 4 h has also been reported … The duration of action for amethocaine gel is typically 4–6 h.",
+  "page": 4,
+  "proposed_wording": "The 35-45 minute figure in 5.2.5. No source located for it as a general figure across formulations; the measured durations in neuropathic pain are 8 to 24 hours.",
+  "reason": "Screened because Varghese 2024 states durations of procedural topical anaesthesia. Its figures are secondary (taken from an UpToDate chapter, not measured in the review): EMLA anaesthesia lasting 1 to 2 hours after removal, with 4 hours also reported, and amethocaine gel typically 4 to 6 hours. It gives no 35-45 minute figure for any formulation, so it supplies no source for the figure and the verdict stays confirmed; it adds nothing beyond the primary durations already in E028's reason (Bjerring 1990, Wallace 2010)."
  }
 ]

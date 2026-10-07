@@ -1,0 +1,17 @@
+{
+ "pmid": "34593669",
+ "year": "2021",
+ "first_author": "Kim",
+ "title": "Pharmacological and non-pharmacological strategies for preventing postherpetic neuralgia: a systematic review and network meta-analysis.",
+ "journal": "Korean J Pain",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.3344/kjp.2021.34.4.509",
+ "pmcid": "PMC8494957",
+ "abstract": "Postherpetic neuralgia (PHN) is a refractory complication of herpes zoster (HZ). To prevent PHN, various strategies have been aggressively adopted. However, the efficacy of these strategies remains controversial. Therefore, we aimed to estimate the relative efficacy of various strategies used in clinical practice for preventing PHN using a network meta-analysis (NMA).\n\nWe performed a systematic and comprehensive search to identify all randomized controlled trials. The primary outcome was the incidence of PHN at 3 months after acute HZ. We performed both frequentist and Bayesian NMA and used the surface under the cumulative ranking curve (SUCRA) values to rank the interventions evaluated.\n\nIn total, 39 studies were included in the systematic review and NMA. According to the SUCRA value, the incidence of PHN was lower in the order of continuous epidural block with local anesthetics and steroids (EPI-LSE), antiviral agents with subcutaneous injection of local anesthetics and steroids (AV + sLS), antiviral agents with intracutaenous injection of local anesthetics and steroids (AV + iLS) at 3 months after acute HZ. EPI-LSE, AV + sLS and AV + iLS were also effective in preventing PHN at 1 month after acute HZ. And paravertebral block combined with antiviral and antiepileptic agents was effective in preventing PHN at 1, 3, and 6 months.\n\nThe continuous epidural block with local anesthetics and steroid, antiviral agents with intracutaneous or subcutaneous injection of local anesthetics and a steroid, and paravertebral block combined with antiviral and antiepileptic agents are effective in preventing PHN.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:48:28Z",
+ "retrieved_for": "S-686-05",
+ "redacted": false
+}

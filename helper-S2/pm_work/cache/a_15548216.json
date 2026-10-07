@@ -1,0 +1,21 @@
+{
+ "pmid": "15548216",
+ "year": "2004",
+ "first_author": "Björkman",
+ "title": "Acute improvement of hand sensibility after selective ipsilateral cutaneous forearm anaesthesia.",
+ "journal": "Eur J Neurosci",
+ "pubtypes": [
+  "Clinical Trial",
+  "Comparative Study",
+  "Journal Article",
+  "Randomized Controlled Trial",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1111/j.1460-9568.2004.03742.x",
+ "pmcid": "",
+ "abstract": "The cortical representation of body parts is constantly modulated in response to the afferent input, and acute deafferentation of a body part results in bilateral cortical reorganization. To study the effects on hand function of right forearm anaesthesia, we investigated ten human subjects (group 1) for perception of touch, tactile discrimination and grip strength in the right (ipsilateral) and left (contralateral) hand before, during and 24 h after forearm skin anaesthesia with a local anaesthetic cream (EMLA). Ten age-matched controls (group 2) were investigated in the same way but received placebo. In group 1 a significant improvement was seen in tactile discrimination in the ipsilateral hand compared to base line (P = 0.009) and compared to group 2 (P = 0.006). The improvement in tactile discrimination remained for at least 24 h after anaesthesia. Perception of touch, was improved during anaesthesia compared to baseline values in group 1 (P = 0.046) and remained for at least 24 h. Grip strength did not change. These findings suggest that transient selective deafferentation of an extremity results in enhanced sensory functions of the functionally preserved parts of the same extremity, presumably as a result of expansion of adjacent cortical territories. Such rapid functional changes suggest unmasking of pre-existing synaptic connections as the mechanism underlying the acute modulation of sensory functions in the hand. Our findings open new perspectives for sensory re-education and rehabilitation following injury to the peripheral and central nervous system.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:41:07Z",
+ "retrieved_for": "S-686-43",
+ "redacted": false
+}

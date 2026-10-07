@@ -1,0 +1,288 @@
+{
+ "paper_id": "S-686-48",
+ "citation": "Varghese KS, Ahmed A, Mathew DM, Fusco PJ, Abraham MN. Eutectic mixture of local anesthetics and amethocaine as topical anesthetics in pediatrics: a meta-analysis. Pediatr Res 2024;96(1):51-56.",
+ "pmid": "38429571",
+ "doi": "10.1038/s41390-024-03113-7",
+ "right_paper": true,
+ "text_quality": "ok: all 6 PDF pages (journal pages 51-56), Table 1 and the six forest plots (Figs. 1-6) are in the text; PDF pages 3-5 were rendered and every study-level and pooled estimate was checked against the figures. The online supplement (search strategy, PRISMA flow, Newcastle-Ottawa scores, Supplementary Table 4 with the citations of the included studies, leave-one-out analyses) is not in the packet. The included studies other than van Kan 1997 are not in the reference list; they were identified in PubMed by author, year and topic, except 'Ormandy 1998', which PubMed does not hold under that name or topic.",
+ "design": "Systematic review with pairwise meta-analysis (PRISMA and MOOSE cited; no protocol registration mentioned; search end date not given in the text). PubMed, Embase, Scopus and Cochrane Library searched from inception for RCTs and comparative cohort studies of EMLA cream versus amethocaine gel in children under 18 having any skin procedure. 10 studies included: Table 1 labels 8 as RCTs and 2 (Lawson 1995, 'Ormandy 1998') as comparative studies, yet the discussion states the analysis 'was limited to observational studies'. Study quality was rated only with the Newcastle-Ottawa Scale for observational studies (all studies above seven stars, called good quality); there is no Cochrane risk-of-bias assessment of the randomised trials and no GRADE or other certainty-of-evidence rating. Random-effects pooling in R (meta, metafor), Mantel-Haenszel, risk ratios (the methods text says 'risk ratios (OR)') and standardised mean differences, I2, leave-one-out sensitivity analyses (supplementary). Worker's check, not the authors': recomputing from the plotted study estimates, a random-effects model with the Hartung-Knapp adjustment reproduces every printed pooled interval and p value; ordinary DerSimonian-Laird pooling of the same estimates gives first-attempt cannulation success RR 0.98 (95% CI 0.89-1.09, p 0.72; none of the three trials significant on its own) and child-reported acceptable anaesthesia RR 0.73 (0.61-0.87; both trials favouring amethocaine on their own), so the significance of these two outcomes depends on the pooling method, while child-reported absence of pain stays significant either way (RR 0.58, 0.46-0.73). The paper calls itself 'the first and most comprehensive review on the topic' but does not cite the 2006 Cochrane review of the same comparison (Lander 2006, PMID 16856039: 6 RCTs, 534 children); it does cite Taddio 2002 (8 studies) and Pywell 2015 (3 RCTs).",
+ "population": "Children under 18 having topical anaesthesia before a skin procedure (review inclusion criterion). Included studies per Table 1: age ranges from 3 months to 16 years, mean age 4.8 to 8 years, 29-51% female; procedures venous or intravenous cannulation (6 studies), venepuncture (2), Port-a-Cath puncture in children with cancer (Bishai 1999) and pulsed dye laser treatment of port-wine stain (McCafferty 1997). McCafferty 1997 is not a paediatric needle-procedure study: Table 1 gives its inclusion criterion as 'age more than 12 yr' while listing the age range as '<= 12', PubMed indexes it as adolescents and adults (no child MeSH term), the procedure is laser treatment, and EMLA, amethocaine and placebo were compared on areas of the same lesions; it feeds three of the six outcomes (Figs. 2, 3 and 6). No included study is in non-procedural (chronic or neuropathic) pain.",
+ "n": "10 studies in Table 1. Text: 892 children pooled (448 EMLA, 473 amethocaine); the two arms sum to 921, which equals the Table 1 arm totals, and within-patient designs (McCafferty 1997; Bishai 1999, a crossover) count the same patients in both arms. Studies per outcome: first-attempt cannulation success 3 (Arendts 2008, Newbury 2009, Ormandy 1998); child-reported absence of pain 5 (Arrowsmith 2000, Lawson 1995, McCafferty 1997, Ormandy 1998, Romsing 1999); child-reported VAS 4 (Bishai 1999, Choy 1999, McCafferty 1997, Newbury 2009); parent-reported VAS 2 (Bishai 1999, Choy 1999); observed pain score 3 contributing (Choy 1999, Lawson 1995, Romsing 1999; Ormandy 1998 listed without an estimate); child-reported acceptable anaesthesia 2 (Lawson 1995, McCafferty 1997). Van Kan 1997 (32 EMLA, 34 tetracaine; the one included trial reporting EMLA as more efficacious) contributes to none of the six analyses. Newbury 2009 is entered as 32 and 33 children (its observed-pain subset of 65), and its plotted first-attempt interval fits about 32 children per arm, although the trial analysed first-attempt success in 679 children.",
+ "setting": "Review by authors at CUNY School of Medicine and the Feinstein Institutes, New York. Included studies 1995-2009 from Wales, Ireland, Canada, New Zealand, Australia, England, Denmark, the Netherlands and Scotland (2); settings emergency department (2), clinic or day-case unit, operating room, paediatric ward, day-case surgical unit, not stated (4).",
+ "intervention": "EMLA cream (eutectic lidocaine-prilocaine, product strength [dose figure omitted]) applied to intact skin before the procedure, for the longer application time EMLA needs.",
+ "comparator": "Amethocaine (tetracaine) gel, product strength [dose figure omitted], applied for a shorter time; no placebo arm in the pooled comparisons (McCafferty 1997 also had a placebo area, not used).",
+ "route": "Topical, on intact skin under occlusion, before needle procedures (venous or intravenous cannulation, venepuncture, Port-a-Cath puncture) or, in one study, pulsed dye laser treatment.",
+ "duration": "One application before one procedure in each study; no repeated or chronic use, no follow-up beyond the procedure.",
+ "outcomes": "Six pooled outcomes, EMLA versus amethocaine, random effects, as printed: first-attempt cannulation success RR 0.98 (95% CI 0.97-0.99), p = 0.017, I2 0%, 3 studies; child-reported absence of pain RR 0.58 (0.41-0.82), p = 0.011, I2 20.2%, 5 studies; child-reported VAS SMD 0.43 (-1.46 to 2.31), p = 0.525, I2 92.8%, 4 studies; parent-reported VAS SMD -0.05 (-0.64 to 0.54), p = 0.478, I2 0%, 2 studies; observed pain score SMD -0.45 (-2.27 to 1.38), p = 0.405, I2 88.6%, 3 studies; child-reported acceptable anaesthesia RR 0.73 (0.34-1.55), p = 0.118, I2 0%, 2 studies. Study-level estimates from the forest plots: Fig. 1 Arendts 2008 RR 0.98 [0.82; 1.17], Newbury 2009 0.99 [0.75; 1.31], Ormandy 1998 0.98 [0.85; 1.13]; Fig. 2 Arrowsmith 2000 0.62 [0.41; 0.96], Lawson 1995 0.50 [0.32; 0.78], McCafferty 1997 0.33 [0.12; 0.91], Ormandy 1998 0.67 [0.54; 0.85], Romsing 1999 0.22 [0.06; 0.86]; Fig. 3 Bishai 1999 SMD -0.34 [-0.97; 0.30], Choy 1999 0.25 [-0.43; 0.92], McCafferty 1997 2.17 [1.51; 2.82], Newbury 2009 -0.35 [-0.84; 0.14]; Fig. 4 Bishai 1999 -0.09 [-0.72; 0.53], Choy 1999 0.00 [-0.67; 0.67]; Fig. 5 Choy 1999 0.00 [-0.67; 0.67], Lawson 1995 -1.26 [-1.67; -0.85], Romsing 1999 0.00 [-0.54; 0.54]; Fig. 6 Lawson 1995 RR 0.77 [0.61; 0.96], McCafferty 1997 0.68 [0.52; 0.89]. Direction labels are inconsistent: Fig. 2 places risk ratios below 1 under 'Favors amethocaine', while Fig. 6 places its two risk ratios below 1 (fewer children with acceptable anaesthesia on EMLA) under 'Favors EMLA'. Not pooled: adverse effects, erythema or blanching, time to cannulation, onset, depth or duration of anaesthesia (some were extracted to Supplementary Table 2 only).",
+ "key_results": [
+  {
+   "quote": "After applying the inclusion and exclusion criteria, 10 studies were included in the final meta-analysis (Table 1, Supplementary Table 4). At quality assessment, all reports received higher than seven asterisks, indicating good quality.",
+   "page": 2
+  },
+  {
+   "quote": "A total of 892 pediatric patients were pooled, of whom 448 underwent topical anesthesia with EMLA cream and 473 underwent topical anesthesia with amethocaine gel. The number of patients in each study ranged from 17 to 109, while the mean age ranged from 4.8 to 8 years old.",
+   "page": 2
+  },
+  {
+   "quote": "Compared to amethocaine gel, EMLA cream was associated with lower rates of first cannulation success (RR, 0.98; 95% CI, 0.97–0.99; p = 0.017). No heterogeneity was seen between the studies (I2 = 0%) (Fig. 1).",
+   "page": 2
+  },
+  {
+   "quote": "Compared to amethocaine gel, EMLA cream was associated with lower rates of child-reported absence of pain (RR, 0.58; 95% CI, 0.41–0.82; p = 0.011). Heterogeneity between the studies was low (I2 = 20.2%) (Fig. 2).",
+   "page": 2
+  },
+  {
+   "quote": "There were no significant differences between EMLA cream and amethocaine gel for child-reported VAS (SMD, 0.43; 95% CI, −1.46 to 2.31; p = 0.525). There was high heterogeneity between the studies (I2 = 92.8%) (Fig. 3).",
+   "page": 2
+  },
+  {
+   "quote": "There were no significant differences between EMLA cream and amethocaine gel for parent-reported VAS (SMD, −0.05; 95% CI, −0.64 to 0.54; p = 0.478). No heterogeneity was seen between the studies (I2 = 0%) (Fig. 4).",
+   "page": 2
+  },
+  {
+   "quote": "There were no significant differences between EMLA cream and amethocaine gel for observed pain score (SMD, −0.45; 95% CI, −2.27 to 1.38; p = 0.405). I2 was 88.6%, indicating high heterogeneity between the studies (Fig. 5).",
+   "page": 2
+  },
+  {
+   "quote": "There were no significant differences seen between EMLA cream and amethocaine gel for child-reported acceptable anesthesia (RR, … 0.73; 95% CI, 0.34 to 1.55; p = 0.118). No heterogeneity was seen between the studies (I2 = 0%) (Fig. 6).",
+   "page": 2
+  },
+  {
+   "quote": "Presently, this pairwise meta-analysis of 10 studies pooling over 890 pediatric patients undergoing topical anesthesia with EMLA cream or amethocaine gel is the first and most comprehensive review on the topic.",
+   "page": 4
+  },
+  {
+   "quote": "Amethocaine gel is superior to EMLA cream for child-reported absence of pain and first cannulation success. There were no differences seen between EMLA cream and amethocaine gel for child-reported acceptable anesthesia or observed pain score.",
+   "page": 6
+  },
+  {
+   "quote": "The PubMed, Embase, Scopus, and Cochrane Library libraries were comprehensively searched without restriction from inception to identify randomized control trials (RCTs) and comparative cohort studies comparing EMLA cream and amethocaine gel in pediatric patients undergoing topical anesthesia.",
+   "page": 2
+  },
+  {
+   "quote": "evaluated the quality of each study using the Newcastle Ottawa Scale",
+   "page": 2
+  },
+  {
+   "quote": "McCafferty/1997 … Inclusion criteria: age more than 12 yr of age, a portwine stain",
+   "page": 3
+  },
+  {
+   "quote": "Similarly, in a 2017 meta-analysis of 3 RCTs, Pywell et al. issued a weak recommendation for the use of amethocaine in the pediatric cannulation when compared with EMLA.",
+   "page": 4
+  },
+  {
+   "quote": "Taddio et al. performed a systematic review in 2001 composed of 8 studies comparing lidocaine–prilocaine with tetracaine in children for 4 different procedures: intravenous cannulation, venipuncture, Port-a-Cath puncture, and laser therapy.",
+   "page": 5
+  },
+  {
+   "quote": "Lidocaine-prilocaine and tetracaine appeared to be equally effective for procedural pain relief when used according to instructions. Tetracaine, however, is more effective when applied for the same period of time as lidocaine-prilocaine.",
+   "page": 5
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "This pairwise meta-analysis must be interpreted in the context of its limitations with respect to pain assessment. The reliance on child-reported, visual analogue, and observational pain scores, devoid of a universally accepted rating scale, introduced a limitation in the precision and comparability of the collected data.",
+   "page": 5
+  },
+  {
+   "quote": "Furthermore, many of the trials employed measurement tools that were not adequately established or evaluated through psychometric testing.",
+   "page": 5
+  },
+  {
+   "quote": "Additionally, variable application methods and durations of the two topical anesthetics, amethocaine gel [dose figure omitted] and EMLA cream [dose figure omitted], posed a limitation to this study.",
+   "page": 5
+  },
+  {
+   "quote": "This lack of standardization in application duration introduces a potential confounding factor that requires consideration when interpreting the results of this study",
+   "page": 5
+  },
+  {
+   "quote": "Due to differences in cream amounts and application durations, a double-blinded comparison could not be performed among the included trials.",
+   "page": 5
+  },
+  {
+   "quote": "First, due to a lack of randomized trials comparing amethocaine gel and EMLA cream, this analysis was limited to observational studies and any subsequent confounder or treatment allocation bias.",
+   "page": 5
+  },
+  {
+   "quote": "Second, this pooled analysis included data from multiple centers, each presenting unique operator experiences with topical anesthesia in pediatric populations and learning curves that may have influenced outcomes.",
+   "page": 5
+  },
+  {
+   "quote": "Of note, there is a high degree of heterogeneity between the two groups.",
+   "page": 5
+  },
+  {
+   "quote": "In pediatric patients undergoing topical anesthesia during a wide array of skin-related procedures, there is a scarcity of randomized control trials assessing the efficacy of EMLA cream and amethocaine gel.",
+   "page": 5
+  },
+  {
+   "quote": "These findings support the use of amethocaine gel in pediatric patients, although large, randomized trials comparing EMLA cream and amethocaine gel in pediatric patients are still needed.",
+   "page": 6
+  }
+ ],
+ "funding_conflicts": "No funding statement in the text. 'The authors declare no competing interests.' (PDF page 6). Patient consent not required (review of published studies). Two authors contributed equally; correspondence Kathryn S. Varghese, CUNY School of Medicine.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Arrowsmith J, Campbell C. A comparison of local anaesthetics for venepuncture. Arch Dis Child 2000;82:309-10.",
+   "pmid": "10735838",
+   "why": "Included trial (Table 1; Fig. 2). Single-blind randomised study in 120 children, venous cannulation, EMLA vs amethocaine gel; amethocaine gave lower pain scores. Bears on D068 and on any statement comparing the two creams in children."
+  },
+  {
+   "citation": "McCafferty DF, Woolfson AD, Handley J, Allen G. Effect of percutaneous local anaesthetics on pain reduction during pulse dye laser treatment of portwine stains. Br J Anaesth 1997;78:286-9.",
+   "pmid": "9135307",
+   "why": "Included (Figs. 2, 3, 6) although not a paediatric needle-procedure study: Table 1 inclusion criterion 'age more than 12 yr', PubMed MeSH adolescents and adults, pulsed dye laser on facial port-wine stains, EMLA vs amethocaine vs placebo on areas of the same lesions, 29 patients; amethocaine better than EMLA. Carries the largest effect in Fig. 3."
+  },
+  {
+   "citation": "Bishai R, Taddio A, Bar-Oz B, Freedman MH, Koren G. Relative efficacy of amethocaine gel and lidocaine-prilocaine cream for Port-a-Cath puncture in children. Pediatrics 1999;104:e31.",
+   "pmid": "10469814",
+   "why": "Included (Figs. 3, 4). Randomised blinded crossover in 39 children aged 5-16 with cancer, Port-a-Cath puncture; no difference in pain, amethocaine applied for half the time."
+  },
+  {
+   "citation": "Newbury C, Herd DW. Amethocaine versus EMLA for successful intravenous cannulation in a children's emergency department: a randomised controlled study. Emerg Med J 2009;26:487-91.",
+   "pmid": "19546268",
+   "why": "Included (Figs. 1, 3). Parallel double-blind RCT, children 3 months-15 years, ED; first-attempt success analysed in 679 children (75.8% vs 73.9%, no difference), pain observed in 65. Varghese enters it as 32 + 33 children. Bears on cannulation-success statements."
+  },
+  {
+   "citation": "Arendts G, Stevens M, Fry M. Topical anaesthesia and intravenous cannulation success in paediatric patients: a randomized double-blind trial. Br J Anaesth 2008;100:521-4.",
+   "pmid": "18292082",
+   "why": "Included (Fig. 1). Double-blind RCT, 177 children aged 12 months-12 years analysed, ED; first-attempt success 75% amethocaine vs 74% EMLA, no difference."
+  },
+  {
+   "citation": "Choy L, Collier J, Watson AR. Comparison of lignocaine-prilocaine cream and amethocaine gel for local analgesia before venepuncture in children. Acta Paediatr 1999;88:961-4.",
+   "pmid": "10519337",
+   "why": "Included (Figs. 3, 4, 5). Single-blind RCT, 34 children aged 1-14, venepuncture; no difference between the creams."
+  },
+  {
+   "citation": "Romsing J, Henneberg SW, Walther-Larsen S, Kjeldsen C. Tetracaine gel vs EMLA cream for percutaneous anaesthesia in children. Br J Anaesth 1999;82:637-8.",
+   "pmid": "10472236",
+   "why": "Included (Figs. 2, 5). Double-blind RCT, 60 children aged 3-15, venous cannulation; lower pain with tetracaine, and a third group cannulated hours after tetracaine removal (duration of topical anaesthesia)."
+  },
+  {
+   "citation": "van Kan HJ, Egberts AC, Rijnvos WP, ter Pelkwijk NJ, Lenderink AW. Tetracaine versus lidocaine-prilocaine for preventing venipuncture-induced pain in children. Am J Health Syst Pharm 1997;54:388-92.",
+   "pmid": "9043560",
+   "why": "Listed in Table 1 (ref 15) but in none of the six pooled analyses. Open randomised trial, 66 inpatients aged 1-15, venipuncture; EMLA judged more efficacious (97% vs 76% adequate relief, phlebotomist-rated); tetracaine and its metabolite measured in serum; erythema with tetracaine, blanching with EMLA."
+  },
+  {
+   "citation": "Lawson RA, Smart NG, Gudgeon AC, Morton NS. Evaluation of an amethocaine gel preparation for percutaneous analgesia before venous cannulation in children. Br J Anaesth 1995;75:282-5.",
+   "pmid": "7547043",
+   "why": "Included (Figs. 2, 5, 6); labelled 'comparative study' by Varghese, indexed as RCT. Open study of amethocaine in 148 children, then single-blind comparison with EMLA in 94 patients with the same application time for both (shorter than EMLA's labelled minimum); clinically acceptable conditions 85% vs 66%. Varghese lists 55 + 55."
+  },
+  {
+   "citation": "'Ormandy 1998' (Scotland, day-case surgical unit; 103 EMLA vs 109 amethocaine; children over one year before intravenous induction; labelled comparative study). Full citation only in the online Supplementary Table 4.",
+   "pmid": "",
+   "why": "Included (Figs. 1, 2, 5) and the largest study; not found in PubMed by author name or by topic (1997-1999 searches, 125-record EMLA-vs-amethocaine set), so its design and population could not be checked."
+  },
+  {
+   "citation": "Pywell A, Xyrichis A. Does topical Amethocaine cream increase first-time successful cannulation in children compared with a eutectic mixture of local anaesthetics (EMLA) cream? A systematic review and meta-analysis of randomised controlled trials. Emerg Med J 2015;32:733-7.",
+   "pmid": "25351196",
+   "why": "Earlier meta-analysis of the same comparison (3 RCTs; RR 1.046, CI 0.975-1.122, p 0.211, no significant advantage for amethocaine; weak recommendation). Named in D068's proposed wording. Varghese's text calls it 'a 2017 meta-analysis'."
+  },
+  {
+   "citation": "Taddio A, Gurguis MGY, Koren G. Lidocaine-prilocaine cream versus tetracaine gel for procedural pain in children. Ann Pharmacother 2002;36:687-92.",
+   "pmid": "11918521",
+   "why": "Earlier systematic review (8 studies; IV cannulation, venipuncture, Port-a-Cath puncture, laser): similar efficacy when each is used as labelled, tetracaine better when both are applied for the same time. Varghese's text says 'in 2001'. Bears on D068 and on statements ranking the two creams."
+  },
+  {
+   "citation": "Fein JA, Zempsky WT, Cravero JP. Relief of pain and anxiety in pediatric patients in emergency medical systems. Pediatrics 2012;130:e1391-405.",
+   "pmid": "23109683",
+   "why": "AAP clinical report; topical anaesthetics before paediatric procedures."
+  },
+  {
+   "citation": "Hallen B, Uppfeldt A. Does lidocaine-prilocaine cream permit painfree insertion of IV catheters in children? Anesthesiology 1982;57:340-2.",
+   "pmid": "7125278",
+   "why": "Early EMLA study in children before IV cannulation."
+  },
+  {
+   "citation": "Hallen B, Olsson GL, Uppfeldt A. Pain-free venepuncture. Anaesthesia 1984;39:969-72.",
+   "pmid": "6496911",
+   "why": "Early EMLA study; cited for EMLA's minimum application time (onset of topical anaesthesia)."
+  },
+  {
+   "citation": "Maunuksela EL, Korpela R. Double-blind evaluation of a lignocaine-prilocaine cream (EMLA) in children. Effect on the pain associated with venous cannulation. Br J Anaesth 1986;58:1242-5.",
+   "pmid": "3535860",
+   "why": "Placebo-controlled EMLA trial in children, venous cannulation."
+  },
+  {
+   "citation": "Cooper CM, Gerrish SP, Hardwick M, Kay R. EMLA cream reduces the pain of venepuncture in children. Eur J Anaesthesiol 1987;4:441-8.",
+   "pmid": "3328685",
+   "why": "EMLA trial in children, venepuncture."
+  },
+  {
+   "citation": "Manner T, Kanto J, Iisalo E, et al. Reduction of pain at venous cannulation in children with a eutectic mixture of lidocaine and prilocaine (EMLA cream): comparison with placebo cream and no local premedication. Acta Anaesthesiol Scand 1987;31:735-9.",
+   "pmid": "3434165",
+   "why": "Double-blind placebo-controlled EMLA RCT in 40 children (plus 18 untreated controls); lidocaine also measured in venous blood near the application site."
+  },
+  {
+   "citation": "Robieux I, Kumar R, Radhakrishnan S, Koren G. Assessing pain and analgesia with a lidocaine-prilocaine emulsion in infants and toddlers during venipuncture. J Pediatr 1991;118:971-3.",
+   "pmid": "2040936",
+   "why": "Double-blind RCT of EMLA in infants and toddlers."
+  },
+  {
+   "citation": "Lander J, et al. Determinants of success and failure of EMLA. Pain 1996;64:89-97.",
+   "pmid": "8867250",
+   "why": "EMLA effectiveness in children (same first author as the withdrawn Cochrane review; not the review itself, which Varghese does not cite)."
+  },
+  {
+   "citation": "Soliman IE, Broadman LM, Hannallah RS, McGill WA. Comparison of the analgesic effects of EMLA to intradermal lidocaine infiltration prior to venous cannulation in unpremedicated children. Anesthesiology 1988;68:804-6.",
+   "pmid": "3285736",
+   "why": "Topical EMLA versus an intradermal lidocaine wheal before cannulation in children; bears on the intradermal-lidocaine pages."
+  },
+  {
+   "citation": "Gajraj NM, Pennant JH, Watcha MF. Eutectic mixture of local anesthetics (EMLA) cream. Anesth Analg 1994;78:574-83.",
+   "pmid": "7818623",
+   "why": "Review of EMLA; cited for prilocaine-related methaemoglobinaemia and contraindications on diseased skin and in young infants."
+  },
+  {
+   "citation": "Sawyer J, Febbraro S, Masud S, Ashburn MA, Campbell JC. Heated lidocaine/tetracaine patch (Synera, Rapydan) compared with lidocaine/prilocaine cream (EMLA) for topical anaesthesia before vascular access. Br J Anaesth 2009;102:210-5.",
+   "pmid": "19151049",
+   "why": "Adult-volunteer RCT; onset of topical anaesthesia at short application times; erythema with the patch, blanching with EMLA."
+  },
+  {
+   "citation": "Browne J, Awad I, Plant R, McAdoo J, Shorten G. Topical amethocaine (Ametop) is superior to EMLA for intravenous cannulation. Can J Anaesth 1999;46:1014-8.",
+   "pmid": "10566919",
+   "why": "Adult-volunteer double-blind comparison on two occasions: less pain, less vasoconstriction and easier cannulation with amethocaine."
+  },
+  {
+   "citation": "O'Connor B, Tomlinson AA. Evaluation of the efficacy and safety of amethocaine gel applied topically before venous cannulation in adults. Br J Anaesth 1995;74:706-8.",
+   "pmid": "7640129",
+   "why": "Amethocaine gel before cannulation in adults; cited for its shorter onset."
+  },
+  {
+   "citation": "Molodecka J, Stenhouse C, Jones JM, Tomlinson A. Comparison of percutaneous anaesthesia for venous cannulation after topical application of either amethocaine or EMLA cream. Br J Anaesth 1994;72:174-6.",
+   "pmid": "8110569",
+   "why": "Head-to-head comparison of the two creams before venous cannulation; cited for potency and duration."
+  },
+  {
+   "citation": "Small J, Wallace RG, Millar R, Woolfson AD, McCafferty DF. Pain-free cutting of split skin grafts by application of a percutaneous local anaesthetic cream. Br J Plast Surg 1988;41:539-43.",
+   "pmid": "3052676",
+   "why": "Amethocaine cream for split-skin graft cutting (depth and duration of topical anaesthesia)."
+  },
+  {
+   "citation": "Woolfson AD, McCafferty DF, Boston V. Clinical experiences with a novel percutaneous amethocaine preparation: prevention of pain due to venepuncture in children. Br J Clin Pharmacol 1990;30:273-9.",
+   "pmid": "2206789",
+   "why": "Amethocaine preparation in children before venepuncture."
+  },
+  {
+   "citation": "Doyle E, Freeman J, Im NT, Morton NS. An evaluation of a new self-adhesive patch preparation of amethocaine for topical anaesthesia prior to venous cannulation in children. Anaesthesia 1993;48:1050-2.",
+   "pmid": "8285323",
+   "why": "Amethocaine patch in children; cited for vasodilation and first-attempt cannulation success."
+  },
+  {
+   "citation": "Bjerring P, Andersen PH, Arendt-Nielsen L. Vascular response of human skin after analgesia with EMLA cream. Br J Anaesth 1989;63:655-60.",
+   "pmid": "2532919",
+   "why": "EMLA's biphasic skin vascular response (early vasoconstriction, later vasodilatation) measured by reflectance spectroscopy and laser Doppler in healthy adults; bears on skin blood-flow topics."
+  },
+  {
+   "citation": "Mace SE, Whiteman P, Avarello JT, et al. Local and topical anesthetics for pediatric patients in the emergency department. Pediatr Emerg Care 2020;36:593-601.",
+   "pmid": "33181789",
+   "why": "Review of paediatric local and topical anaesthesia; source of the paper's statements on where topical anaesthetics work best."
+  },
+  {
+   "citation": "Hsu D. Clinical use of topical anesthetics in children. UpToDate (online, accessed by the authors).",
+   "pmid": "",
+   "why": "Source of the paper's onset, peak, duration and application statements for EMLA and amethocaine (no primary data)."
+  }
+ ]
+}

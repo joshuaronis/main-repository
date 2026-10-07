@@ -1,0 +1,18 @@
+{
+ "pmid": "23566267",
+ "year": "2013",
+ "first_author": "Xu",
+ "title": "A single-center randomized controlled trial of local methylcobalamin injection for subacute herpetic neuralgia.",
+ "journal": "Pain Med",
+ "pubtypes": [
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "doi": "10.1111/pme.12081",
+ "pmcid": "",
+ "abstract": "This study explored the efficacy of local methylcobalamin injection in relieving pain and improving the quality of life among subjects with subacute herpetic neuralgia.\n\nA single-center, randomized controlled trial of local methylcobalamin injection was performed.\n\nNinety-eight subjects (age, ≥ 50 years) with unilateral, dermatomal pain ≥ 4 related to herpes zoster on the torso lasting for 30 days after onset of rash were enrolled.\n\nSubjects were randomized to receive local methylcobalamin injection (N = 33), oral methylcobalamin (N = 33), or subcutaneous 1.0% lidocaine injection (N = 32) for 4 weeks. Worst pain severity, global impression of change, continuous spontaneous pain, paroxysmal pain, allodynia, paresthesia, interference with activities of daily living, and quality of life were assessed after 28-day treatment period.\n\nTime per group interaction and group difference on overall pain at each follow-up point were statistically significant (P < 0.001) among groups. In the injected methylcobalamin group, the overall pain (P < 0.001), continuous spontaneous pain (P < 0.05), paroxysmal pain (P < 0.05), and allodynia (P < 0.05) revealed a significant effect at each follow-up point as compared with the other groups. Twenty subjects achieved pain reduction ≥ 50%, 24 perceived worst pain ≤ 3, 24 stopped using analgesics at end point; activities of daily living and quality of life improved significantly as compared with the other groups (P < 0.001). Although both of the other groups showed a significant response after the 14-day treatment (P < 0.001) compared with the baseline, oral methylcobalamin did not provide any significantly pain relief (P > 0.05).\n\nLocal methylcobalamin injection was not only efficacious in relieving pain, but also appears to be tolerable and a potential choice of treatment for subacute herpetic neuralgia.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:48:07Z",
+ "retrieved_for": "S-686-05",
+ "redacted": false
+}

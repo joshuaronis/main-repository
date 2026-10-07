@@ -1,0 +1,19 @@
+{
+ "pmid": "11812691",
+ "year": "2002",
+ "first_author": "Radwan",
+ "title": "The neurotoxicity of local anesthetics on growing neurons: a comparative study of lidocaine, bupivacaine, mepivacaine, and ropivacaine.",
+ "journal": "Anesth Analg",
+ "pubtypes": [
+  "Comparative Study",
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1097/00000539-200202000-00016",
+ "pmcid": "",
+ "abstract": "Local anesthetics can be neurotoxic. To test the hypothesis that exposure to local anesthetics produces morphological changes in growing neurons and to compare this neurotoxic potential between different local anesthetics, we performed in vitro cell biological experiments with isolated dorsal root ganglion neurons from chick embryos. The effects of lidocaine, bupivacaine, mepivacaine, and ropivacaine were examined microscopically and quantitatively assessed using the growth cone collapse assay. We observed that all local anesthetics produced growth cone collapse and neurite degeneration. However, they showed significant differences in the dose response. The IC(50) values were approximately, [dose figure omitted] for lidocaine, [dose figure omitted] for bupivacaine, [dose figure omitted] for mepivacaine, and [dose figure omitted] for ropivacaine at 15 min exposure. Some reversibility was observed after replacement of the media. At 20 h after washout, bupivacaine and ropivacaine showed insignificant percentage growth cone collapse in comparison to their control values whereas those for lidocaine and mepivacaine were significantly higher than the control values. Larger concentrations of the nerve growth factor (NGF) did not improve this reversibility. In conclusion, local anesthetics produced morphological changes in growing neurons with significantly different IC(50). The reversibility of these changes differed among the four drugs and was not influenced by the NGF concentration.\n\nLocal anesthetics induce growth cone collapse and neurite degeneration in the growing neurons. Mepivacaine was safer than lidocaine, bupivacaine, and ropivacaine for the primary cultured chick neurons.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:40:57Z",
+ "retrieved_for": "S-686-01",
+ "redacted": true
+}

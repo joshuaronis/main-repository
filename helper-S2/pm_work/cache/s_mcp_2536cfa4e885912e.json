@@ -1,0 +1,16 @@
+{
+ "query": "Vlassakov[Author] AND (cutaneous OR skin OR infiltration OR topical)",
+ "max_results": 20,
+ "count": 5,
+ "translation": "Vlassakov[Author] AND (\"cutaneous\"[All Fields] OR \"cutaneously\"[All Fields] OR \"cutanous\"[All Fields] OR (\"skin\"[MeSH Terms] OR \"skin\"[All Fields]) OR (\"infiltrate\"[All Fields] OR \"infiltrated\"[All Fields] OR \"infiltrates\"[All Fields] OR \"infiltrating\"[All Fields] OR \"infiltration\"[All Fields] OR \"infiltrations\"[All Fields] OR \"infiltrative\"[All Fields] OR \"infiltratively\"[All Fields]) OR (\"topical\"[All Fields] OR \"topically\"[All Fields] OR \"topicals\"[All Fields]))",
+ "pmids": [
+  "34147158",
+  "33988528",
+  "28195898",
+  "26431146",
+  "26297210"
+ ],
+ "date_searched": "2026-10-07T23:42:01Z",
+ "searched_for": "S-686-18",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

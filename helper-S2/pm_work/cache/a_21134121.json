@@ -1,0 +1,19 @@
+{
+ "pmid": "21134121",
+ "year": "2010",
+ "first_author": "Xiao",
+ "title": "Subcutaneous injection of botulinum toxin a is beneficial in postherpetic neuralgia.",
+ "journal": "Pain Med",
+ "pubtypes": [
+  "Journal Article",
+  "Randomized Controlled Trial",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1111/j.1526-4637.2010.01003.x",
+ "pmcid": "",
+ "abstract": "To assess the benefits of subcutaneous injection of botulinum toxin A (BTX-A) for the treatment of postherpetic neuralgia (PHN).\n\nWe investigated the therapeutic benefits of BTX-A in subjects with PHN in a randomized, double-blind, placebo-controlled study. Sixty subjects with PHN were randomly and evenly distributed into BTX-A, lidocaine, and placebo groups.\n\nAfter randomization, one of the following solutions was injected subcutaneously in the affected dermatome: 5u/mL BTX-A, 0.5% lidocaine, or 0.9% saline (placebo). Visual analog scale (VAS) pain and sleeping time (hours) were evaluated at the time of pretreatment, day 1, day 7, and 3 months posttreatment. Opioid usage was calculated at day 7 and 3 months posttreatment.\n\n  Compared with pretreatment, VAS pain scores decreased at day 7 and 3 months posttreatment in all three groups (P<0.01). However, the VAS pain scores of the BTX-A group decreased more significantly compared with lidocaine and placebo groups at day 7 and 3 months posttreatment (P<0.01). Sleep time (hours) had improved at day 7 and at 3 months compared with pretreatment in all three groups, but the BTX-A group improved more significantly compared with lidocaine and placebo groups (P<0.01). The percent of subjects using opioids posttreatment in the BTX-A group was the lowest (21.1%) compared with the lidocaine (52.6%) and placebo (66.7%) groups (P<0.01).\n\nSubcutaneous administration of BTX-A significantly decreased pain in PHN and reduced opioid use compared with lidocaine and placebo at day 7 and 3 months post-treatment. It also increased subjects' sleep times.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:48:28Z",
+ "retrieved_for": "S-686-05",
+ "redacted": false
+}

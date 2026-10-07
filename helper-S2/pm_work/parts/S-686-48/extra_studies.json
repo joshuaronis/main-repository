@@ -1,0 +1,22 @@
+[
+ {
+  "pmid": "25351196",
+  "citation": "Pywell A, Xyrichis A. Does topical Amethocaine cream increase first-time successful cannulation in children compared with a eutectic mixture of local anaesthetics (EMLA) cream? A systematic review and meta-analysis of randomised controlled trials. Emerg Med J 2015;32(9):733-7 (online 28 Oct 2014).",
+  "found_in_paper": "S-686-48",
+  "bears_on_claim_ids": [
+   "D068"
+  ],
+  "what_it_shows": "Systematic review and meta-analysis of 3 randomised trials (MEDLINE and EMBASE searched June 2014) of amethocaine versus EMLA in children, outcome first-time cannulation success: random-effects RR 1.046 (CI 0.975 to 1.122), p = 0.211, not significant; weak recommendation for amethocaine on cost and analgesic grounds. A post-withdrawal synthesis of the comparison the withdrawn Lander 2006 Cochrane review covered.",
+  "quote_from_abstract": "Three randomised controlled trials met the inclusion criteria and were included in the meta-analysis. … Amethocaine cream increased the likelihood of successful first-time cannulation (RR 1.046, CI 0.975 to 1.122), although this did not reach statistical significance (p=0.211)."
+ },
+ {
+  "pmid": "24627224",
+  "citation": "Lander JA, Weltman BJ, So SS. WITHDRAWN: EMLA and Amethocaine for reduction of children's pain associated with needle insertion. Cochrane Database Syst Rev 2014;(3):CD004236 (withdrawal notice for the 2006 review, PMID 16856039).",
+  "found_in_paper": "S-686-48",
+  "bears_on_claim_ids": [
+   "D068"
+  ],
+  "what_it_shows": "Not cited by Varghese 2024; looked up while answering D068's question about the review Varghese's meta-analysis follows. The notice says the review group withdrew the 2006 review on 23 May 2013 because the authors were no longer available to complete an update, with no error alleged: it verifies the half of D068's wording that stays ('The withdrawal is administrative rather than a finding of error'). It does not bear on the 'nothing has replaced it' element, so it carries no claim update.",
+  "quote_from_abstract": "At 23 May 2013, The Cochrane Pain, Palliative and Supportive Care Review Group (PaPaS) withdrew this review as the authors were no longer available to complete the update."
+ }
+]

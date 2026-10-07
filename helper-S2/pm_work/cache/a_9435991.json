@@ -1,0 +1,18 @@
+{
+ "pmid": "9435991",
+ "year": "1997",
+ "first_author": "Oertel",
+ "title": "Clinical pharmacokinetics of articaine.",
+ "journal": "Clin Pharmacokinet",
+ "pubtypes": [
+  "Journal Article",
+  "Review"
+ ],
+ "doi": "10.2165/00003088-199733060-00002",
+ "pmcid": "",
+ "abstract": "Articaine is the most widely used local anaesthetic agent in dentistry in a number of European countries. The amide structure of articaine is similar to that of other local anaesthetics, but it contains an additional ester group which is quickly hydrolysed by esterases. High performance liquid chromatography has been used to determine the concentrations of articaine and its metabolite articainic acid in serum. Rapid sample preparation is critical in the accurate determination of articaine serum concentrations, since blood and serum are the sites of metabolism. The time to maximum drug concentrations of articaine occurs about 10 to 15 minutes after submucosal injection of articaine [dose figure omitted], irrespective of epinephrine (adrenaline). [dose figure omitted] The elimination half-time of articaine is about 20 minutes. The rapid breakdown of articaine to the inactive metabolite articainic acid is related to a very low systemic toxicity [dose figure omitted]. Equal analgesic efficacy along with lower systemic toxicity (i.e. a wide therapeutic range) permits the use of articaine in higher concentrations than other amide-type local anaesthetics. [dose figure omitted] Articaine is better able to diffuse through soft tissue and bone than other local anaesthetics. [dose figure omitted] The plasma protein binding rate of articaine and articainic acid is 70%. [dose figure omitted]",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:51:09Z",
+ "retrieved_for": "S-686-12",
+ "redacted": true
+}

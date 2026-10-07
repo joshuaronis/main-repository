@@ -1,0 +1,14 @@
+{
+ "query": "Vlassakov[Author] (publication date 2011 to 2013)",
+ "max_results": 40,
+ "count": 3,
+ "translation": "Vlassakov[Author] AND 2011/01/01:2013/12/31[Date - Publication]",
+ "pmids": [
+  "23797663",
+  "23662765",
+  "21372279"
+ ],
+ "date_searched": "2026-10-07T23:42:01Z",
+ "searched_for": "S-686-18",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

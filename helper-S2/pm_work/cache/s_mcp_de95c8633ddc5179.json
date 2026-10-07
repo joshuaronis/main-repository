@@ -1,0 +1,32 @@
+{
+ "query": "(\"forearm anaesthesia\"[tiab] OR \"forearm anesthesia\"[tiab] OR \"cutaneous anaesthesia\"[tiab] OR \"cutaneous anesthesia\"[tiab] OR \"selective temporary anaesthesia\"[tiab] OR \"selective temporary anesthesia\"[tiab] OR deafferentation[tiab] OR \"guided plasticity\"[tiab]) AND (EMLA[tiab] OR \"local anaesthetic cream\"[tiab] OR \"local anesthetic cream\"[tiab] OR \"anaesthetic cream\"[tiab] OR \"anesthetic cream\"[tiab] OR \"Lidocaine, Prilocaine Drug Combination\"[Mesh]) AND (hand[tiab] OR sensibility[tiab] OR sensory[tiab] OR neuropathy[tiab])",
+ "max_results": 40,
+ "count": 21,
+ "translation": "(\"forearm anaesthesia\"[Title/Abstract] OR \"forearm anesthesia\"[Title/Abstract] OR \"cutaneous anaesthesia\"[Title/Abstract] OR \"cutaneous anesthesia\"[Title/Abstract] OR \"deafferentation\"[Title/Abstract] OR \"guided plasticity\"[Title/Abstract]) AND (\"EMLA\"[Title/Abstract] OR \"local anaesthetic cream\"[Title/Abstract] OR \"local anesthetic cream\"[Title/Abstract] OR \"anaesthetic cream\"[Title/Abstract] OR \"anesthetic cream\"[Title/Abstract] OR \"lidocaine, prilocaine drug combination\"[MeSH Terms]) AND (\"hand\"[Title/Abstract] OR \"sensibility\"[Title/Abstract] OR \"sensory\"[Title/Abstract] OR \"neuropathy\"[Title/Abstract])",
+ "pmids": [
+  "39545073",
+  "30151000",
+  "27403887",
+  "26270587",
+  "23735321",
+  "23221418",
+  "22915119",
+  "22574814",
+  "21524297",
+  "21454817",
+  "20636964",
+  "19656355",
+  "19597277",
+  "19250441",
+  "19033877",
+  "18382287",
+  "18188784",
+  "17985560",
+  "16352379",
+  "15548216",
+  "15351377"
+ ],
+ "date_searched": "2026-10-07T23:56:07Z",
+ "searched_for": "S-686-43",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}
