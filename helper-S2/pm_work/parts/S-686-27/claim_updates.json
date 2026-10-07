@@ -24,5 +24,31 @@
   "page": 0,
   "proposed_wording": "Guay's 242-episode summary gives a figure for adults in its results and a lower general limit in its conclusion; Schmittner 2010 adopts the concluding limit and cites Guay for it.",
   "reason": "Found as reference 8 of Schmittner 2010 (S-686-27). Guay's abstract gives, in its results, a figure for adults that is higher than the general limit stated in its concluding sentence; that concluding limit is the one Schmittner adopts and attributes to Guay. So the page's 'Guay figure' is the adult figure from Guay's results, and Schmittner's limit is lower than that but identical to Guay's own conclusion — it repeats Guay rather than contradicting it. Figures omitted; the cached abstract is redacted, the comparison was made on the abstract as returned by the connector."
+ },
+ {
+  "claim_id": "D075",
+  "paper_id": "S-686-27",
+  "pmid": "20384691",
+  "kind": "other-claim",
+  "old_verdict": "out-of-scope",
+  "new_verdict": "out-of-scope",
+  "uncertain_after": false,
+  "quote": "Although an upper limit of [dose figure omitted] prilocaine was recently recommended, some authors reported the use of up to [dose figure omitted].8–10",
+  "page": 1,
+  "proposed_wording": "Schmittner 2010 cites the 242-episode summary five times, including for the general limit it adopts, which is the limit that summary itself concludes with; its one contrast with the summary is a sentence setting that limit against the much larger amounts other authors had used.",
+  "reason": "Same sentence as C071's source note, here on the Safe Doses page. It remains a statement about how a citation database classifies one paper's citations, so the verdict stays out-of-scope, but the full text settles its second half: Schmittner does not argue for a lower ceiling than Guay's own concluding limit — it adopts that limit and cites Guay for it (Discussion, PDF page 5); it is lower only than the adult figure in Guay's results. Of the five sentences citing Guay, the only one that sets Guay against anything is this Introduction sentence, which contrasts Guay's recommendation with the larger amounts used by Lindenblatt and Mang (references 9–10) — a plausible source of an automated 'contrasting' label. Whether Scite lists any other contrasting citer of Guay could not be checked (paid plan required)."
+ },
+ {
+  "claim_id": "C068",
+  "paper_id": "S-686-27",
+  "pmid": "20384691",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Blood samples were drawn before application of TLA solution (basal) as well as 1, 2, 4, 12, 24, 48 and 72 h. … MHb was immediately analysed on an ABL 835 (Radiometer, Willich, Germany) in haemolysed venous blood.",
+  "page": 2,
+  "proposed_wording": "What would settle it: methaemoglobin measured after small-dose prilocaine infiltration in a series of ordinary patients. Series after prilocaine infiltration exist — subcutaneous tumescent infiltration in dermatological surgery and liposuction (Schmittner 2010; Lindenblatt 2004) and infiltration for cardiac device implantation (Yalçın 2025; Sertdemir 2026) — but none was found at the doses a wheal uses, and none explains a reaction to a small dose in an otherwise unremarkable adult.",
+  "reason": "Schmittner adds a further series of ordinary surgical patients (30 adults, ASA I–III) in whom methaemoglobin was measured serially from baseline to 72 h after prilocaine infiltration — here subcutaneous tumescent infusion for large dermatological resections. Its reference list holds two more such series (Lindenblatt 2004, tumescent liposuction, PMID 15870963; Rudlof 2007, tumescent dermatological surgery, PMID 17370052) and a nerve-block series (Vasters 2006, PMID 16723054). All used doses far above a wheal session, so the claim's 'small-dose' element stays unmatched and the verdict stays narrowed; the wording 'None was found' overreaches only as far as series at larger doses go."
  }
 ]
