@@ -1,0 +1,18 @@
+{
+ "pmid": "18292082",
+ "year": "2008",
+ "first_author": "Arendts",
+ "title": "Topical anaesthesia and intravenous cannulation success in paediatric patients: a randomized double-blind trial.",
+ "journal": "Br J Anaesth",
+ "pubtypes": [
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "doi": "10.1093/bja/aen003",
+ "pmcid": "",
+ "abstract": "It is not known whether the choice of topical anaesthetic influences the likelihood of successful i.v. cannulation in the paediatric population. The null hypothesis of this study was that no difference exists in the initial success rate of cannulation between two commonly used topical anaesthetics.\n\nA randomized double-blind trial conducted on patients between the age of 12 months and 12 yr presenting to a tertiary hospital emergency department. Patients requiring cannulation were randomized to either 4% amethocaine gel (AnGEL) or 5% lidocaine and prilocaine in a 1:1 emulsion (EMLA). The primary endpoint was success of initial attempt at i.v. cannulation.\n\nOne hundred and seventy-seven patients were analysed of 203 enrolled. The success rate of AnGEL (73/97, 75%) and EMLA (59/80, 74%) did not significantly differ (chi2(1) 0.05, P=0.82).\n\nNo difference exists in the cannulation success rates between the two anaesthetics. The choice of topical anaesthetic in paediatric cannulation should be based on other factors such as cost, time to anaesthesia, efficacy of the agent, and adverse effect profile.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:37:45Z",
+ "retrieved_for": "S-686-48",
+ "redacted": false
+}

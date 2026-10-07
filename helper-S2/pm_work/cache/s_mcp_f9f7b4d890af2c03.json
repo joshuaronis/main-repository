@@ -1,0 +1,21 @@
+{
+ "query": "(articaine OR carticaine) AND (perineural OR \"nerve block\" OR \"mental nerve\" OR \"inferior alveolar nerve\" OR \"infraorbital nerve\" OR \"sciatic nerve\") AND (rat OR rats OR rabbit OR rabbits OR dog OR dogs OR mice OR animals)",
+ "max_results": 50,
+ "count": 10,
+ "translation": "(\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"articain\"[All Fields] OR \"carticaine\"[MeSH Terms] OR \"articaine\"[All Fields] OR (\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"carticain\"[All Fields] OR \"carticaine\"[MeSH Terms])) AND (\"perineural\"[All Fields] OR \"perineurally\"[All Fields] OR \"nerve block\"[All Fields] OR \"mental nerve\"[All Fields] OR \"inferior alveolar nerve\"[All Fields] OR \"infraorbital nerve\"[All Fields] OR \"sciatic nerve\"[All Fields]) AND (\"rats\"[MeSH Terms] OR \"rats\"[All Fields] OR \"rat\"[All Fields] OR (\"rabbit s\"[All Fields] OR \"rabbits\"[MeSH Terms] OR \"rabbits\"[All Fields] OR \"rabbit\"[All Fields]) OR (\"dogs\"[MeSH Terms] OR \"dogs\"[All Fields] OR \"dog\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields]) OR (\"animals\"[MeSH Terms:noexp] OR \"animals\"[All Fields]))",
+ "pmids": [
+  "33593682",
+  "33107754",
+  "31034783",
+  "26826985",
+  "22458536",
+  "21467556",
+  "16434735",
+  "7924890",
+  "8124590",
+  "1817900"
+ ],
+ "date_searched": "2026-10-07T23:38:50Z",
+ "searched_for": "S-686-01",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

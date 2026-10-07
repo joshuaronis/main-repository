@@ -1,0 +1,12 @@
+{
+ "query": "Manchikanti[Author] AND Hirsch[Author] AND \"epidural steroid\" AND neurological complications AND 2015[pdat]",
+ "max_results": 10,
+ "count": 1,
+ "translation": "Manchikanti[Author] AND Hirsch[Author] AND \"epidural steroid\"[All Fields] AND ((\"neurologic\"[All Fields] OR \"neurological\"[All Fields] OR \"neurologically\"[All Fields]) AND (\"complicances\"[All Fields] OR \"complicate\"[All Fields] OR \"complicated\"[All Fields] OR \"complicates\"[All Fields] OR \"complicating\"[All Fields] OR \"complication\"[All Fields] OR \"complication s\"[All Fields] OR \"complications\"[MeSH Subheading] OR \"complications\"[All Fields])) AND 2015/01/01:2015/12/31[Date - Publication]",
+ "pmids": [
+  "25795154"
+ ],
+ "date_searched": "2026-10-07T23:38:32Z",
+ "searched_for": "S-686-05",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

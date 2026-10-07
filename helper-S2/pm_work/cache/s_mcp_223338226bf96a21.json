@@ -1,0 +1,17 @@
+{
+ "query": "\"Boston Carpal Tunnel Questionnaire\"[tiab] AND (\"Rasch\"[tiab] OR \"factor structure\"[tiab] OR \"items\"[tiab]) AND \"symptom severity\"[tiab] AND free full text[sb]",
+ "max_results": 20,
+ "count": 6,
+ "translation": "\"Boston Carpal Tunnel Questionnaire\"[Title/Abstract] AND (\"Rasch\"[Title/Abstract] OR \"factor structure\"[Title/Abstract] OR \"items\"[Title/Abstract]) AND \"symptom severity\"[Title/Abstract] AND \"loattrfree full text\"[Filter]",
+ "pmids": [
+  "41374417",
+  "41231164",
+  "38948689",
+  "33455019",
+  "32919457",
+  "31867174"
+ ],
+ "date_searched": "2026-10-07T23:37:58Z",
+ "searched_for": "S-686-43",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

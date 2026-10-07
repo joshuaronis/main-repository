@@ -1,0 +1,10 @@
+{
+ "query": "Tang DT[Author] AND \"Nerve entrapment: update\"[Title]",
+ "max_results": 5,
+ "count": 0,
+ "translation": "Tang DT[Author] AND \"Nerve entrapment: update\"[Title]",
+ "pmids": [],
+ "date_searched": "2026-10-07T23:37:58Z",
+ "searched_for": "S-686-43",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

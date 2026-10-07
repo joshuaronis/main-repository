@@ -1,0 +1,18 @@
+{
+ "pmid": "14515234",
+ "year": "2003",
+ "first_author": "Saray",
+ "title": "Free radical-induced damage in experimental peripheral nerve injection injury.",
+ "journal": "J Reconstr Microsurg",
+ "pubtypes": [
+  "Comparative Study",
+  "Journal Article"
+ ],
+ "doi": "10.1055/s-2003-42637",
+ "pmcid": "",
+ "abstract": "Peripheral nerve injury secondary to injection of therapeutic agents is well-documented. Until recently, the precise mechanism of injury has been obscure; even today, the treatment of these nerve injection injuries remains controversial. The aim of this study was to determine the involvement of ischemia-reperfusion injury in the development of peripheral nerve injection injury. Wistar rats were randomized into three groups. Sciatic nerve was used as the standardized nerve injection injury model. Two commonly used agents, lidocaine HCl [dose figure omitted] and phenol [dose figure omitted], were tested for their comparative effects on the sciatic nerve. Lidocaine and phenol were injected into the sciatic nerves of the rats in Groups 1 and 2, respectively. Physiologic saline was used in the controls (Group 3). All the agents were injected intrafascicularly. The effects of nerve injection injury were assessed by measuring thiobarbituric acid reactive substance (TBARS) levels and obtaining walking-track analyses (WTA). Nerve injection caused significant increases in TBARS levels, which were correlated with the severity of the injury. The TBARS levels were related to the severity of injury caused by the tested agents; TBARS levels in phenol-injected nerves were significantly higher than those of lidocaine-injected nerves. Patterns of alterations in TBARS levels also paralleled the changes in print-length factor. Injection of lidocaine and phenol resulted in near-normal walking tracks at 8 and 12 weeks, respectively, while saline injection caused only transient impairment in walking tracks. These findings indicate that reactive oxygen species are involved in the pathogenesis of experimental peripheral nerve injection injury. Indices of free oxygen radical damage correlate with the progression of functional alterations after nerve injection injury.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:38:54Z",
+ "retrieved_for": "S-686-12",
+ "redacted": true
+}

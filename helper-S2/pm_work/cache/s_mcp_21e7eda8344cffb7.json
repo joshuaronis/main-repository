@@ -1,0 +1,10 @@
+{
+ "query": "Rahn R[Author] AND 2000[dp] AND (Nebenwirkungen OR Lokalanästhesie OR local anesthesia)",
+ "max_results": 10,
+ "count": 0,
+ "translation": "rahn r[Author] AND 2000/01/01:2000/12/31[Date - Publication] AND (\"Nebenwirkungen\"[All Fields] OR \"Lokalanasthesie\"[All Fields] OR (\"local anaesthesia\"[All Fields] OR \"anesthesia, local\"[MeSH Terms] OR (\"anesthesia\"[All Fields] AND \"local\"[All Fields]) OR \"local anesthesia\"[All Fields] OR (\"local\"[All Fields] AND \"anesthesia\"[All Fields])))",
+ "pmids": [],
+ "date_searched": "2026-10-07T23:37:35Z",
+ "searched_for": "S-686-12",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

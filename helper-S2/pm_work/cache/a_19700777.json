@@ -1,0 +1,18 @@
+{
+ "pmid": "19700777",
+ "year": "2009",
+ "first_author": "Werdehausen",
+ "title": "Apoptosis induction by different local anaesthetics in a neuroblastoma cell line.",
+ "journal": "Br J Anaesth",
+ "pubtypes": [
+  "Comparative Study",
+  "Journal Article"
+ ],
+ "doi": "10.1093/bja/aep236",
+ "pmcid": "",
+ "abstract": "Local anaesthetics are known to induce apoptosis in clinically relevant concentrations. Hitherto, it is unknown what determines the apoptotic potency of local anaesthetics. Therefore, we compared apoptosis induction by local anaesthetics related to their physicochemical properties in human neuronal cells.\n\nNeuroblastoma cells (SHEP) were incubated with eight local anaesthetics, two of the ester and six of the amide types. At least, five concentrations of each local anaesthetic were evaluated. After incubation for 24 h, rates of cells in early apoptotic stages and overall cell death were evaluated by annexin V and 7-amino-actinomycin D double staining by flow cytometry. The concentrations that led to half-maximal neurotoxic effects (LD50) were calculated and compared for all local anaesthetics.\n\nAll local anaesthetics were neurotoxic in a concentration-dependent manner. All drugs induced similar rates of early apoptotic cell formation at low concentrations, whereas at high concentrations, late apoptotic or necrotic cell death predominated. Comparison of LD50 values of the different local anaesthetics resulted in the following order of apoptotic potency from high to low toxicity: tetracaine>bupivacaine>prilocaine=mepivacaine=ropivacaine>lidocaine>procaine=articaine. The toxicity correlated with octanol/buffer coefficients and also with experimental potency of the local anaesthetic, but was unrelated to the structure (ester or amide type).\n\nAll commonly used local anaesthetics induce neuronal apoptosis in clinically used concentrations. The neurotoxicity correlates with lipid solubility and thus with the conduction blocking potency of the local anaesthetic, but is independent of the chemical class (ester/amide).",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:38:15Z",
+ "retrieved_for": "S-686-12",
+ "redacted": false
+}

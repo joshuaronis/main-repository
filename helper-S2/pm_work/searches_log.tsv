@@ -38,3 +38,13 @@
 2026-10-07T23:37:24Z	S-686-12	3	Rahn R[Author] AND Ultracain
 2026-10-07T23:37:24Z	S-686-12	2	Haas DA[Author] AND Lennon D[Author]
 2026-10-07T23:37:31Z	S-686-48	3	Lander J[Author] AND (EMLA OR amethocaine) AND Cochrane
+2026-10-07T23:37:35Z	S-686-12	0	Tandlaegebladet[Journal] AND lingualis
+2026-10-07T23:37:35Z	S-686-12	0	Rahn R[Author] AND 2000[dp] AND (Nebenwirkungen OR Lokalanästhesie OR local anesthesia)
+2026-10-07T23:37:58Z	S-686-43	0	Tang DT[Author] AND "Nerve entrapment: update"[Title]
+2026-10-07T23:37:58Z	S-686-43	6	"Boston Carpal Tunnel Questionnaire"[tiab] AND ("Rasch"[tiab] OR "factor structure"[tiab] OR "items"[tiab]) AND "symptom severity"[tiab] AND free full text[sb]
+2026-10-07T23:38:07Z	S-686-01	3	(articaine OR carticaine) AND (nerve OR nerves OR neural) AND (histolog* OR histopatholog* OR morpholog* OR stereolog* OR morphometr*) AND (rat OR rats OR rabbit OR rabbits OR mice OR dogs OR animals)
+2026-10-07T23:38:21Z	S-686-01	39	(articaine OR carticaine) AND (neurotoxicity OR neurotoxic OR "nerve injury" OR "nerve damage" OR axonal OR demyelination OR Wallerian)
+2026-10-07T23:38:32Z	S-686-05	1	Manchikanti[Author] AND Hirsch[Author] AND "epidural steroid" AND neurological complications AND 2015[pdat]
+2026-10-07T23:38:32Z	S-686-05	1	Herr H[Author] AND (postherpetic OR zoster)
+2026-10-07T23:38:50Z	S-686-01	10	(articaine OR carticaine) AND (perineural OR "nerve block" OR "mental nerve" OR "inferior alveolar nerve" OR "infraorbital nerve" OR "sciatic nerve") AND (rat OR rats OR rabbit OR rabbits OR dog OR dogs OR mice OR animals)
+2026-10-07T23:38:50Z	S-686-01	6	(articaine OR carticaine) AND (histolog* OR histopatholog* OR "inflammatory infiltrate" OR "tissue reaction") AND (rat OR rats OR rabbit OR rabbits OR mice OR dogs)

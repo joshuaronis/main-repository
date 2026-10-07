@@ -1,0 +1,12 @@
+{
+ "query": "Herr H[Author] AND (postherpetic OR zoster)",
+ "max_results": 10,
+ "count": 1,
+ "translation": "herr h[Author] AND (\"postherpetic\"[All Fields] OR (\"herpes zoster\"[MeSH Terms] OR (\"herpes\"[All Fields] AND \"zoster\"[All Fields]) OR \"herpes zoster\"[All Fields] OR \"zoster\"[All Fields]))",
+ "pmids": [
+  "12378018"
+ ],
+ "date_searched": "2026-10-07T23:38:32Z",
+ "searched_for": "S-686-05",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

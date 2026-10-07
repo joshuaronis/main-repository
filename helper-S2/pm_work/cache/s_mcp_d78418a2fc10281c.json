@@ -1,0 +1,17 @@
+{
+ "query": "(articaine OR carticaine) AND (histolog* OR histopatholog* OR \"inflammatory infiltrate\" OR \"tissue reaction\") AND (rat OR rats OR rabbit OR rabbits OR mice OR dogs)",
+ "max_results": 50,
+ "count": 6,
+ "translation": "(\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"articain\"[All Fields] OR \"carticaine\"[MeSH Terms] OR \"articaine\"[All Fields] OR (\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"carticain\"[All Fields] OR \"carticaine\"[MeSH Terms])) AND (\"histolog*\"[All Fields] OR \"histopatholog*\"[All Fields] OR \"inflammatory infiltrate\"[All Fields] OR \"tissue reaction\"[All Fields]) AND (\"rats\"[MeSH Terms] OR \"rats\"[All Fields] OR \"rat\"[All Fields] OR (\"rabbit s\"[All Fields] OR \"rabbits\"[MeSH Terms] OR \"rabbits\"[All Fields] OR \"rabbit\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields]) OR (\"dogs\"[MeSH Terms] OR \"dogs\"[All Fields]))",
+ "pmids": [
+  "39479943",
+  "35120788",
+  "32687258",
+  "22458536",
+  "14959905",
+  "14663813"
+ ],
+ "date_searched": "2026-10-07T23:38:50Z",
+ "searched_for": "S-686-01",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

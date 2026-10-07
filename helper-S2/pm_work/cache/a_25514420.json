@@ -1,0 +1,19 @@
+{
+ "pmid": "25514420",
+ "year": "2015",
+ "first_author": "Malet",
+ "title": "The comparative cytotoxic effects of different local anesthetics on a human neuroblastoma cell line.",
+ "journal": "Anesth Analg",
+ "pubtypes": [
+  "Comparative Study",
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1213/ANE.0000000000000562",
+ "pmcid": "",
+ "abstract": "Although local anesthetics (LAs) are generally accepted as being safe, incidental neuronal damage has been reported for all LAs in humans. Therefore, in this study, we compared the dose corresponding to 50% cell lethality (LD50) of articaine, lidocaine, mepivacaine, bupivacaine, prilocaine, and ropivacaine in human neuroblastoma cells.\n\nUndifferentiated SH-SY5Y cells were exposed for 20 minutes to different concentrations of each LA. Metabolic activity of viable cells was assessed by a cell viability test with a tetrazolium dye (WST-1) followed by optical density quantification. LD50 was determined by extrapolation of curve response.\n\nAs expected, all LAs induced cell death in a concentration-dependent manner. The bupivacaine, lidocaine, prilocaine, mepivacaine, articaine, and ropivacaine LD50 were [dose figure omitted], respectively, after 20 minutes of incubation on SH-SY5Y cells. Ropivacaine LD50 was significantly different from the bupivacaine, lidocaine, mepivacaine, and prilocaine LD50 (all P ≤ 0.009). No significant difference was obtained between ropivacaine and articaine LD50 and between prilocaine, lidocaine, and mepivacaine LD50. Articaine LD50 was significantly different from lidocaine LD50 (P = 0.03). Bupivacaine LD50 was significantly lower compared with all LAs (all P ≤ 0.003).\n\nLA neurotoxicity was tested in a validated in vitro model SH-SY5Y, a human neuroblastoma cell line. Three groups of LAs were identified in terms of toxicity: (1) the less (ropivacaine, articaine); (2) medium (mepivacaine, prilocaine, lidocaine); and (3) the high (bupivacaine). Among dental anesthetics, articaine is the least neurotoxic in SH-SY5Y cells.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:38:15Z",
+ "retrieved_for": "S-686-12",
+ "redacted": true
+}

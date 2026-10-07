@@ -203,6 +203,116 @@
   "quote_from_abstract": ""
  },
  {
+  "pmid": "1859013",
+  "citation": "Partridge BL. The effects of local anesthetics and epinephrine on rat sciatic nerve blood flow. Anesthesiology 1991;75(2):243-50",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074",
+   "C085",
+   "C087"
+  ],
+  "what_it_shows": "Wiesmann reference 8. Randomised, blinded rat experiment (45 rats, 90 sciatic nerves, laser Doppler): topical epinephrine at three concentrations, the lowest being the one C074 names, alone and with lidocaine, plus bupivacaine and tetracaine. At the lowest concentration epinephrine alone briefly raised nerve blood flow; the two higher ones reduced it; combined with lidocaine every pairing reduced flow synergistically. It remains the only nerve blood-flow measurement at C074's concentration.",
+  "quote_from_abstract": "Sciatic NBF was measured by laser doppler in 45 adult female Sprague-Dawley rats (90 nerves) after topical application of [dose figure omitted] lidocaine and epinephrine, alone and in combination (lidocaine plus epinephrine), as well as bupivacaine, tetracaine, and normal saline, and studied in a randomized, blinded experimental design."
+ },
+ {
+  "pmid": "2817471",
+  "citation": "Myers RR, Heckman HM. Effects of local anesthesia on nerve blood flow: studies using lidocaine with and without epinephrine. Anesthesiology 1989;71(5):757-62",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074",
+   "C085"
+  ],
+  "what_it_shows": "Wiesmann reference 4. Rat sciatic nerve blood flow by laser Doppler over 10 min after topical saline, lidocaine with and without epinephrine, or epinephrine alone, at an epinephrine concentration higher than C074's. Every solution except saline reduced flow; epinephrine added to lidocaine reduced flow more than lidocaine alone.",
+  "quote_from_abstract": "Epinephrine by itself significantly reduced nerve blood flow; when added to local anesthetic solutions, it reduced nerve blood flow to a greater extent than the reduction caused by anesthetics alone."
+ },
+ {
+  "pmid": "12351299",
+  "citation": "Palmer GM, Cairns BE, Berkes SL, Dunning PS, Taylor GA, Berde CB. The effects of lidocaine and adrenergic agonists on rat sciatic nerve and skeletal muscle blood flow in vivo. Anesth Analg 2002;95(4):1080-6",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074"
+  ],
+  "what_it_shows": "Wiesmann reference 22. Rat sciatic nerve and muscle blood flow by radiolabelled microspheres after perisciatic injection of lidocaine, epinephrine (the same concentration Wiesmann used, higher than C074's and higher than Myers's), phenylephrine, or combinations. Lidocaine alone and epinephrine alone did not alter nerve or muscle flow; lidocaine with epinephrine mildly reduced nerve flow at 30 min. Not a measurement at C074's concentration.",
+  "quote_from_abstract": "Lidocaine ([dose figure omitted]) and epinephrine ([dose figure omitted]) injected alone did not alter blood flow in sciatic nerve, perisciatic muscle, or masseter muscle."
+ },
+ {
+  "pmid": "16183680",
+  "citation": "Bouaziz H, Iohom G, Estèbe JP, Campana WM, Myers RR. Effects of levobupivacaine and ropivacaine on rat sciatic nerve blood flow. Br J Anaesth 2005;95(5):696-700",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074",
+   "C085"
+  ],
+  "what_it_shows": "Wiesmann reference 9. 48 rats; laser Doppler nerve blood flow for 30 min after topical saline, lidocaine, levobupivacaine, ropivacaine, or ropivacaine with epinephrine (a concentration higher than C074's), and histology at 48 h. All local anaesthetics reduced nerve blood flow; adding epinephrine did not reduce it further than ropivacaine alone; no significant histological change at 48 h. A further nerve blood-flow measurement with epinephrine that C074's records did not list, not at C074's concentration.",
+  "quote_from_abstract": "The combination of ropivacaine [dose figure omitted] plus epinephrine did not reduce nerve blood flow to a greater extent than ropivacaine [dose figure omitted] alone."
+ },
+ {
+  "pmid": "26857314",
+  "citation": "Choi CH, Pak SC, Jang CH. Effect of local anesthesia on facial nerve blood flow and muscle action potential. Int J Pediatr Otorhinolaryngol 2016;82:43-6",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074",
+   "C085"
+  ],
+  "what_it_shows": "Found by a PubMed search on nerve blood flow and epinephrine run for this paper (not in Wiesmann's reference list). Rat facial nerve, gelfoam soaked in lidocaine with or without epinephrine laid on the nerve for 30 min (n = 5 per group): facial nerve blood flow fell, more with epinephrine than with lidocaine alone, and conduction threshold rose then recovered. Epinephrine concentration higher than C074's, so not a second measurement at that concentration.",
+  "quote_from_abstract": "Synergistic reduction in FNBF was greater in groups A and B than in the lidocaine applied groups (C and D)."
+ },
+ {
+  "pmid": "10374827",
+  "citation": "Ibrahim S, Laude EA, Bee D, Eaton S, Ward JD, Harris ND. Combined microlightguide spectrophotometry and microendoscopy for measurement of oxygen saturation in peripheral nerves. Physiol Meas 1999;20(1):65-73",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Wiesmann reference 29. Measured nerve oxygen saturation and nerve perfusion together in the sciatic nerves of 12 healthy rats (no drug applied); nerve saturation fell with systemic hypoxia. Bears on the Lidocaine With Epinephrine Wheals page's description of Wiesmann as 'the one study that measured flow and oxygen on the same nerve' (true only for studies with a local anaesthetic). No tested claim.",
+  "quote_from_abstract": "We have used a combination of microlightguide spectrophotometry and microendoscopy to measure intravascular oxygen saturation (HbSaO2%) and monitor blood flow in the sciatic nerve of 12 healthy male Sprague-Dawley rats."
+ },
+ {
+  "pmid": "11884905",
+  "citation": "Shishido H, Kikuchi S, Heckman H, Myers RR. Dexamethasone decreases blood flow in normal nerves and dorsal root ganglia. Spine 2002;27(6):581-6",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C013",
+   "C025",
+   "D019"
+  ],
+  "what_it_shows": "Found by a PubMed search on adjuvants and nerve blood flow run for this paper (not in Wiesmann's reference list). Rat sciatic nerve, laser Doppler: topical dexamethasone significantly reduced nerve blood flow at 30 min and 4 h (some animals first showed a brief rise), with only minimal oedema on histology at 2-6 days. Evidence that dexamethasone acts on nerve vessels, against the adjuvants page's 'no action on a blood vessel at all'.",
+  "quote_from_abstract": "Dexamethasone causes statistically significant reductions in normal nerve blood flow at 30 minutes and 4 hours after topical application; however, the reduction is on average below the threshold for causing ischemic changes in the structure of peripheral nerve fibers."
+ },
+ {
+  "pmid": "11270027",
+  "citation": "Fukusaki M, Miyako M, Nakamura T, Miyoshi H, Sumikawa K, Konishi H, Hara S. Perineural injection to nerve root and radicular blood flow: a clinical study during spinal surgery. Eur J Anaesthesiol 2001;18(2):70-4",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C025",
+   "D019"
+  ],
+  "what_it_shows": "Found by the same search (not in Wiesmann's reference list). Randomised trial in 30 patients during lumbar discectomy: laser Doppler on the exposed nerve root before and 15 min after perineural saline, lidocaine or dexamethasone; radicular blood flow did not change in any group. The one human nerve-root flow measurement after dexamethasone: no short-term change, unlike rat sciatic nerve (Shishido 2002).",
+  "quote_from_abstract": "The results suggest that the perineural injection of [dose figure omitted] lidocaine or dexamethasone does not affect radicular blood flow during lumbar discectomy."
+ },
+ {
+  "pmid": "8338750",
+  "citation": "Andersen P, Milioni K, Maibach H. The cutaneous corticosteroid vasoconstriction assay: a reflectance spectroscopic and laser-Doppler flowmetric study. Br J Dermatol 1993;128(6):660-5",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C013",
+   "C025",
+   "D019"
+  ],
+  "what_it_shows": "Found by a PubMed search on dexamethasone and skin vasoconstriction run for this paper (not in Wiesmann's reference list). Human skin, topical corticosteroids under occlusion, visual scoring, reflectance spectroscopy and laser Doppler: dexamethasone caused significant visible blanching, mainly venoconstriction (fall in deoxygenated haemoglobin) without a significant fall in laser-Doppler flow. Direct human evidence that dexamethasone acts on skin vessels.",
+  "quote_from_abstract": "Fluocinolone acetonide, betamethasone-17-valerate and dexamethasone also caused visible blanching (P < 0.01)."
+ },
+ {
+  "pmid": "12564951",
+  "citation": "Anderson CR, Morris RL, Boeh SD, Panus PC, Sembrowich WL. Effects of iontophoresis current magnitude and duration on dexamethasone deposition and localized drug retention. Phys Ther 2003;83(2):161-70",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C013",
+   "C025",
+   "D019"
+  ],
+  "what_it_shows": "Found by the same search (not in Wiesmann's reference list). Dexamethasone driven into human skin by iontophoresis in volunteers produced visible cutaneous vasoconstriction, used by the authors as the sign that the drug had reached the vessels. A second human observation of dexamethasone constricting skin vessels.",
+  "quote_from_abstract": "Delivery of DEX/DEX-P to at least the depths of the vasculature in humans was confirmed by observation of cutaneous vasoconstriction."
+ },
+ {
   "pmid": "19224791",
   "citation": "Guay J. Methemoglobinemia related to local anesthetics: a summary of 242 episodes. Anesth Analg 2009;108(3):837–845. doi:10.1213/ane.0b013e318187c4b1",
   "found_in_paper": "S-686-27",
@@ -267,5 +377,45 @@
   "bears_on_claim_ids": [],
   "what_it_shows": "Retrospective quality-improvement review (one US surgeon, Las Vegas, over three years): Xaracoll, an FDA-approved bovine-collagen implant releasing bupivacaine for up to 24 hours after adult open inguinal hernia repair, was placed intra-operatively in 18 patients following the manufacturer's FDA-approved guidelines. Evidence of FDA approval and of routine US clinical use (marketing implied, not stated); no approval year given. Found by the follow-up PubMed search; bears on no tested claim; supports Notion finding F05.",
   "quote_from_abstract": "Xaracoll® is a Food and Drug Administration (FDA) approved Type 1 Bovine collagen-based bupivacaine hydrochloride (HCl) implant developed to provide postoperative pain management for up to 24 hours after open inguinal hernia repair in adults. ... Eighteen patients received the Xaracoll® drug device intra-operatively following the FDA-approved manufacturer's guidelines."
+ },
+ {
+  "pmid": "10025747",
+  "citation": "Lok C, Paul C, Amblard P, Bessis D, Debure C, Faivre B, Guillot B, Ortonne JP, Huledal G, Kalis B. EMLA cream as a topical anesthetic for the repeated mechanical debridement of venous leg ulcers: a double-blind, placebo-controlled study. J Am Acad Dermatol 1999;40(2 Pt 1):208-13.",
+  "found_in_paper": "S-686-07",
+  "bears_on_claim_ids": [
+   "C070",
+   "D072"
+  ],
+  "what_it_shows": "Effendy's reference 5. Randomised double-blind placebo-controlled trial in 69 patients with venous leg ulcers given the cream before each of a series of debridements until the ulcer was clean; plasma lidocaine, prilocaine and their main metabolites were followed across the repeated sessions and showed no apparent accumulation; debridement pain roughly halved. A second repeated-session topical dataset on accumulation (C070, D072); not injected, and methaemoglobin is not mentioned in the abstract.",
+  "quote_from_abstract": "Plasma levels of lidocaine, prilocaine, and their main metabolites were low without any apparent accumulation."
+ },
+ {
+  "pmid": "8105630",
+  "citation": "Hansson C, Holm J, Lillieborg S, Syren A. Repeated treatment with lidocaine/prilocaine cream (EMLA) as a topical anaesthetic for the cleansing of venous leg ulcers. A controlled study. Acta Derm Venereol 1993;73(3):231-3.",
+  "found_in_paper": "S-686-07",
+  "bears_on_claim_ids": [
+   "C070"
+  ],
+  "what_it_shows": "Effendy's reference 9. Randomised controlled study (cream n = 22, control n = 21) of a series of repeated treatments before cleansing of venous leg ulcers; local reactions scored at every treatment, granulation tissue, ulcer area and bacterial flora at first and last; analgesic effect unchanged with successive treatments; no differences from controls in local reactions, granulation tissue, ulcer area or flora. Gives topical data on the 'local tissue change' and 'effect holds up over time' elements of C070.",
+  "quote_from_abstract": "The analgesic effect remained unchanged with successive treatments."
+ },
+ {
+  "pmid": "28727591",
+  "citation": "Purcell A, Buckley T, Fethney J, King J, Moyle W, Marshall AP. The Effectiveness of EMLA as a Primary Dressing on Painful Chronic Leg Ulcers: A Pilot Randomized Controlled Trial. Adv Skin Wound Care 2017;30(8):354-363.",
+  "found_in_paper": "S-686-07",
+  "bears_on_claim_ids": [
+   "D066",
+   "C070"
+  ],
+  "what_it_shows": "Not cited by Effendy (published later); found from Effendy's reference 13 (the same group's 2012 case report) and the PubMed topic search. Pilot randomised controlled trial, 60 participants with painful chronic leg ulcers of varied aetiology, the cream used daily for four weeks as a primary dressing vs standard wound care; wound-related pain lower during and after dressing change across the four weeks. Companion report PMID 28836470: no inhibition of wound healing. A longer daily-use dataset in leg-ulcer pain (D066 context; not neuropathic) and topical data on maintained effect and local tissue outcome under repeated use (C070).",
+  "quote_from_abstract": "Participants were randomly assigned to an intervention (daily EMLA use for 4 weeks as a primary dressing) or a standard wound care group."
+ },
+ {
+  "pmid": "1023952",
+  "citation": "Aps C, Reynolds F. The effect of concentration on vasoactivity of bupivacaine and lignocaine. Br J Anaesth 1976;48(12):1171-4.",
+  "found_in_paper": "S-686-07",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Effendy's reference 15 (cited for the biphasic vascular effect of local anaesthetics). Double-blind intradermal trial in 31 volunteers, bupivacaine and lidocaine each at three concentrations: vasoconstriction more frequent at low and vasodilatation at high concentrations (P < 0.001); duration unaffected by concentration except at the highest bupivacaine strength, which lasted longer. Decides no claim in claims_all.json (C039, C072, D000, D024 checked: no adrenaline arm, no flow recording, two agents only). Supports Notion findings F05-F07 (three pages still call it second-hand or unindexed) and may bear on S1's W- claims for the bupivacaine and ropivacaine wheal pages. Abstract cached with the study concentrations masked.",
+  "quote_from_abstract": "Vasoconstriction was observed more frequently at low concentrations of each drug, and vasodilatation at high concentrations."
  }
 ]

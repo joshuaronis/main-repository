@@ -1,0 +1,17 @@
+{
+ "pmid": "32919457",
+ "year": "2020",
+ "first_author": "Multanen",
+ "title": "Structural validity of the Boston Carpal Tunnel Questionnaire and its short version, the 6-Item CTS symptoms scale: a Rasch analysis one year after surgery.",
+ "journal": "BMC Musculoskelet Disord",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.1186/s12891-020-03626-2",
+ "pmcid": "PMC7488577",
+ "abstract": "The Boston Carpal Tunnel Questionnaire (BCTQ) and its shorter version, the Six-Item Carpal Tunnel Symptoms Scale (CTS-6), are widely used for assessing function and/or symptoms in patients with carpal tunnel syndrome. This study examined the structural validity of the BCTQ and CTS-6 among patients who had undergone surgery for treatment of carpal tunnel syndrome.\n\nThe data for this cross-sectional analysis were obtained from 217 adult patients who had undergone carpal tunnel release surgery 1 year earlier. All patients completed the CTS-6, Symptom Severity Scale (SSS) and Functional Status Scale (FSS) of the BCTQ at 12 months after surgery. The Rasch Measurement Theory (RMT) was applied to investigate the unidimensionality, residual correlation, differential item functioning, scale coverage/targeting, and person separation of the CTS-6, SSS and FSS of the BCTQ.\n\nThe FSS showed unidimensionality and good scale and item fit. All items showed ordered response category thresholds. Eight of the FSS items displayed differential item functioning favoring age or gender. The multidimensional structure of the CTS-6 was absorbed by creating a testlet for frequency of symptoms or testlets for pain and numbness. The testlets supported unidimensionality in the BCTQ SSS. One item in the CTS-6 and two items in the BCTQ SSS showed differential item functioning favoring age or gender. Four items in the BCTQ SSS and two items in the CTS-6 exhibited disordered response category thresholds. Merging of the relevant response categories led to ordered response category thresholds. The person separation indices were 0.73, 0.86 and 0.77 for the CTS-6, BCTQ SSS and FSS, respectively.\n\nBased on the RMT analysis, the CTS-6 has superior psychometric properties compared to the BCTQ SSS in surgically treated patients. The CTS-6 might be more accurate when separated into item sets measuring pain or numbness. The FSS of the BCTQ has acceptable construct validity, although gender differences at some ages were observed in responses.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:37:58Z",
+ "retrieved_for": "S-686-43",
+ "redacted": false
+}

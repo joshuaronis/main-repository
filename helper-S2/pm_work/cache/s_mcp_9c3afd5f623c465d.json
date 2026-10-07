@@ -1,0 +1,14 @@
+{
+ "query": "(articaine OR carticaine) AND (nerve OR nerves OR neural) AND (histolog* OR histopatholog* OR morpholog* OR stereolog* OR morphometr*) AND (rat OR rats OR rabbit OR rabbits OR mice OR dogs OR animals)",
+ "max_results": 50,
+ "count": 3,
+ "translation": "(\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"articain\"[All Fields] OR \"carticaine\"[MeSH Terms] OR \"articaine\"[All Fields] OR (\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"carticain\"[All Fields] OR \"carticaine\"[MeSH Terms])) AND (\"nerve\"[All Fields] OR \"nerve s\"[All Fields] OR \"nerved\"[All Fields] OR \"nerves\"[All Fields] OR (\"nerve\"[All Fields] OR \"nerve s\"[All Fields] OR \"nerved\"[All Fields] OR \"nerves\"[All Fields]) OR (\"neural\"[All Fields] OR \"neuralization\"[All Fields] OR \"neuralize\"[All Fields] OR \"neuralized\"[All Fields] OR \"neuralizes\"[All Fields] OR \"neuralizing\"[All Fields] OR \"neurally\"[All Fields])) AND (\"histolog*\"[All Fields] OR \"histopatholog*\"[All Fields] OR \"morpholog*\"[All Fields] OR \"stereolog*\"[All Fields] OR \"morphometr*\"[All Fields]) AND (\"rats\"[MeSH Terms] OR \"rats\"[All Fields] OR \"rat\"[All Fields] OR (\"rats\"[MeSH Terms] OR \"rats\"[All Fields]) OR (\"rabbit s\"[All Fields] OR \"rabbits\"[MeSH Terms] OR \"rabbits\"[All Fields] OR \"rabbit\"[All Fields]) OR (\"rabbit s\"[All Fields] OR \"rabbits\"[MeSH Terms] OR \"rabbits\"[All Fields] OR \"rabbit\"[All Fields]) OR (\"mice\"[MeSH Terms] OR \"mice\"[All Fields]) OR (\"dogs\"[MeSH Terms] OR \"dogs\"[All Fields]) OR (\"animals\"[MeSH Terms:noexp] OR \"animals\"[All Fields]))",
+ "pmids": [
+  "22458536",
+  "21467556",
+  "1817900"
+ ],
+ "date_searched": "2026-10-07T23:38:07Z",
+ "searched_for": "S-686-01",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

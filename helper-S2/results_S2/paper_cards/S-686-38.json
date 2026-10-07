@@ -1,0 +1,268 @@
+{
+ "paper_id": "S-686-38",
+ "citation": "Wiesmann T, Müller S, Müller HH, Wulf H, Steinfeldt T. Effect of bupivacaine and adjuvant drugs for regional anesthesia on nerve tissue oximetry and nerve blood flow. J Pain Res 2018;11:227-235",
+ "pmid": "29416372",
+ "doi": "10.2147/JPR.S152230",
+ "right_paper": true,
+ "text_quality": "ok (9 PDF pages, reading-order text complete; the rotated Tables 2-4 on PDF pages 6-7 are scrambled in the text and were read from rendered page images). Author list on PDF page 1 matches the given list. Free full text also in PMC (PMC5789040).",
+ "design": "Randomised controlled animal experiment, four parallel groups: one median nerve per brachial plexus was randomly assigned to one topically applied test solution; exclusion decisions on the recordings were made blinded to group; reported to ARRIVE guidelines; sample size calculated for nerve blood flow at 60 min.",
+ "population": "Healthy anaesthetised, paralysed and mechanically ventilated pigs (28 pigs; 56 median nerves exposed). The median nerve was surgically exposed in the axilla (axillary brachial plexus) with its extrinsic epineural vessels preserved. No neuropathy model.",
+ "n": "40 nerves analysed, n = 10 per group (saline, bupivacaine, bupivacaine with epinephrine, bupivacaine with clonidine). 16 nerves excluded: 6 before randomisation (probe mounting difficulty or surgical training), 3 for suspected injury to the extrinsic nerve vessels, 7 for probe dislocation / non-continuous recording.",
+ "setting": "Laboratory animal study, University Hospital Marburg (Philipps University) and Giessen, Germany; general anaesthesia with propofol and sufentanil, fixed inspired oxygen fraction, normocapnia by capnometry, invasive arterial pressure monitored; animals euthanised at the end of the experiment.",
+ "intervention": "One test solution per nerve, a single application of 1 mL dripped onto the surgically exposed median nerve next to the probe (spreading under the probe by capillary action), immediately after the T0 reading. Groups: bupivacaine [dose figure omitted] alone (Carbostesin, B. Braun); bupivacaine [dose figure omitted] with epinephrine 1:100,000 (Suprarenin, Sanofi-Aventis); bupivacaine [dose figure omitted] with clonidine [dose figure omitted] (Clonidin-ratiopharm). Freshly prepared from preservative-free single-dose vials. The epinephrine concentration is higher than (not the same as) the concentration named in claim C074. No epinephrine-alone or clonidine-alone arm; no dexamethasone; no lidocaine.",
+ "comparator": "Normal saline (negative control, statistically compared only with bupivacaine); bupivacaine alone was the standard group against which each adjuvant group was compared (Mann-Whitney, Bonferroni-adjusted closed testing; Hodges-Lehmann estimates with 95% CI). Descriptive post hoc comparisons of saline versus each group.",
+ "route": "Topical (extraneural) application onto the epineurium of a surgically exposed nerve. Not an injection: not intraneural, not a needle-placed perineural block, not intradermal.",
+ "duration": "Single application; recordings at T0, 5, 10, 15, 20, 25, 30, 40, 50 and 60 min after a 10-min settling period; no recovery or follow-up (no histology, no electrophysiology, no later time points).",
+ "outcomes": "Nerve blood flow by laser-Doppler flowmetry (relative to each nerve's baseline); nerve tissue oxygen saturation (SO2, %) of the capillary/post-capillary bed and relative tissue haemoglobin (rHb, arbitrary units, a marker of venous congestion) by white-light tissue spectrophotometry; flow, SO2 and rHb came from one combined O2C probe (LEA Medizintechnik) sampling about 1-2 mm deep inside the nerve; heart rate, mean arterial pressure and SpO2 at T0/T30/T60. Pre-specified order: relative flow T60, SO2 T60, rHb T60, then the same at T30. Results by direction (Tables 2-5, PDF pages 5-7): bupivacaine alone lowered nerve blood flow progressively (median about a third of baseline at 60 min; significantly below saline at 30 and 60 min) and lowered SO2 late (significantly below saline at 60 min); adding epinephrine made flow fall faster in the first 10-15 min but flow at 30 and 60 min did not differ significantly from bupivacaine alone; in the epinephrine group median SO2 was the lowest of the four groups from 5 to 30 min (74% at 10 min) and recovered to 91% by 60 min, with two nerves severely desaturated (nadirs 3% and 10%); SO2 with epinephrine did not differ significantly from bupivacaine alone at 30 or 60 min, nor from saline at 60 min; adding clonidine changed neither flow nor SO2 compared with bupivacaine alone; rHb did not differ between any groups; systemic vital signs did not differ relevantly. Internal inconsistency: the first paragraph of the Discussion (PDF page 5) says there was no significant SO2 difference between bupivacaine and saline, while the Results (p = 0.0005 at 60 min), Table 5 (p = 0.003) and the abstract report one.",
+ "key_results": [
+  {
+   "quote": "Combined tissue spectrophotometry and laser-Doppler flowmetry were used to assess nerve blood flow in 40 surgically exposed median nerves in pigs, as well as nerve tissue oximetry for 60 min.",
+   "page": 1
+  },
+  {
+   "quote": "Bupivacaine resulted in significant decrease in nerve blood flow, as well as tissue oximetry values, compared with saline control. Addition of epinephrine resulted in a rapid, but nonsignificant, reduction of nerve blood flow and extensive lowering of tissue oximetry levels.",
+   "page": 1
+  },
+  {
+   "quote": "The application of bupivacaine results in lower nerve blood flow, but does not induce relevant ischemia. Despite significant reductions in nerve blood flow, the addition of clonidine or epinephrine to bupivacaine had no significant impact on nerve tissue oximetry compared with bupivacaine alone.",
+   "page": 1
+  },
+  {
+   "quote": "Using the Mann–Whitney test, the bupivacaine group (standard group) showed a significant decrease of flow, compared with the saline group (control group) at T30 and T60 (both p < 0.0001), but was not significantly different from bupivacaine with added clonidine (T30, p = 1.0; T60, p = 0.19), or with added epinephrine (T30, p = 0.48; T60, p = 0.39).",
+   "page": 5
+  },
+  {
+   "quote": "No significant differences between the groups were found when comparing bupivacaine with saline at T0 (p = 0.472) and T30 (p = 0.623), whereas differences between both groups at T60 showed a significant difference (p = 0.0005).",
+   "page": 5
+  },
+  {
+   "quote": "Comparison of the SO2 values of the bupivacaine group with those of the BupiEpi group showed no significant differences at T0 (p = 0.382), T30 (p = 0.544), or T60 (p = 0.130).",
+   "page": 5
+  },
+  {
+   "quote": "No significant differences of rHb were found when comparing bupivacaine with the saline control at the time points T0 (p = 0.212), T30 (p = 0.226),",
+   "page": 5
+  },
+  {
+   "quote": "T10 90.5 (86–95) 89.5 (83–92) 89.5 (86–91) 74 (52–94)",
+   "page": 6
+  },
+  {
+   "quote": "However, two nerves of the BupiEpi group did have relevant desaturations during measurements (SO2 nadir values of 3% at T20 and 10% at T10 in another nerve). Thus, despite no significant difference between both groups of bupivacaine, with and without epinephrine, we would recommend not to use epinephrine in a patient population with preexisting peripheral nerve damage (i.e., diabetic polyneuropathy).",
+   "page": 7
+  },
+  {
+   "quote": "No further alterations of nerve microcirculation or tissue oximetry were observed, compared with bupivacaine alone.",
+   "page": 7
+  },
+  {
+   "quote": "However, bupivacaine does show a relevant depression of nerve blood flow without resulting in severe nerve tissue ischemia.",
+   "page": 8
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "First, the differences between the results in this animal study might not be easily extrapolated to humans, due to possible differences in nerve blood flow and underlying regulative mechanisms between pigs and humans.",
+   "page": 8
+  },
+  {
+   "quote": "Changes in vascular tone might be influenced by general anesthesia, the surgical preparation",
+   "page": 8
+  },
+  {
+   "quote": "Furthermore, our investigation focused only on median nerves, but potential differences between nerve vasculature must be regarded.",
+   "page": 8
+  },
+  {
+   "quote": "Our measurements were performed for 60 min, which is higher than in previous studies. Nevertheless, the vasoconstrictive effects of the test solutions persisted for longer time periods. Further studies should evaluate this aspect using long-term measurements and include histological or electrophysiological evaluation.",
+   "page": 8
+  },
+  {
+   "quote": "Neurotoxicity of local anesthetics is not caused solely by ischemia as a result of reduced tissue perfusion.",
+   "page": 8
+  }
+ ],
+ "funding_conflicts": "Departmental funding (PDF page 8). Disclosures: TW consultancy fees from B. Braun; HW speaker fees from Syntetica, B. Braun, Teleflex and Vygon; TS speaker fees from B. Braun, Teleflex and Vygon; the other authors none. B. Braun made the bupivacaine (Carbostesin) and the saline used.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Myers RR, Heckman HM. Effects of local anesthesia on nerve blood flow: studies using lidocaine with and without epinephrine. Anesthesiology 1989;71(5):757-62",
+   "pmid": "2817471",
+   "why": "Rat sciatic nerve blood flow (laser Doppler, topical) with lidocaine, epinephrine alone and the combination; epinephrine at a concentration higher than C074's. Bears on C074 (not at the claim's concentration), C085's nerve clause, C062 records, and the Lidocaine With Epinephrine Wheals page's nerve-trunk sections."
+  },
+  {
+   "citation": "Partridge BL. The effects of local anesthetics and epinephrine on rat sciatic nerve blood flow. Anesthesiology 1991;75(2):243-50",
+   "pmid": "1859013",
+   "why": "The only nerve blood-flow measurement at C074's epinephrine concentration (alone and with lidocaine); also tested bupivacaine. Bears on C074, C085, C087."
+  },
+  {
+   "citation": "Palmer GM, Cairns BE, Berkes SL, Dunning PS, Taylor GA, Berde CB. The effects of lidocaine and adrenergic agonists on rat sciatic nerve and skeletal muscle blood flow in vivo. Anesth Analg 2002;95(4):1080-6",
+   "pmid": "12351299",
+   "why": "Rat sciatic nerve and muscle blood flow by microspheres after perisciatic injection of lidocaine, epinephrine alone and combined; epinephrine at the same concentration Wiesmann used (higher than C074's and than Myers's). Bears on C074 and on the epinephrine page's 'dissenting measurement' section."
+  },
+  {
+   "citation": "Bouaziz H, Iohom G, Estèbe JP, Campana WM, Myers RR. Effects of levobupivacaine and ropivacaine on rat sciatic nerve blood flow. Br J Anaesth 2005;95(5):696-700",
+   "pmid": "16183680",
+   "why": "Rat sciatic nerve blood flow (laser Doppler, topical) with levobupivacaine, ropivacaine and ropivacaine plus epinephrine (concentration higher than C074's) plus 48-h histology: epinephrine did not deepen ropivacaine's flow reduction. Bears on C074, C085's nerve clause, ropivacaine/bupivacaine wheal pages (nerve blood flow, nerve injury)."
+  },
+  {
+   "citation": "Selander D, Brattsand R, Lundborg G, Nordborg C, Olsson Y. Local anesthetics: importance of mode of application, concentration and adrenaline for the appearance of nerve lesions. Acta Anaesthesiol Scand 1979;23(2):127-36",
+   "pmid": "442943",
+   "why": "Rabbit sciatic nerve: topical bupivacaine around the nerve caused no detectable injury; intrafascicular injection caused axonal degeneration rising with concentration and with adrenaline. The study named in C086 (epinephrine and nerve injury); bupivacaine neurotoxicity; bupivacaine-wheals page."
+  },
+  {
+   "citation": "Neal JM. Effects of epinephrine in local anesthetics on the central and peripheral nervous systems: neurotoxicity and neural blood flow. Reg Anesth Pain Med 2003;28(2):124-34",
+   "pmid": "12677623",
+   "why": "The review named in C089 and cited throughout the Lidocaine With Epinephrine Wheals page (epinephrine, neurotoxicity, neural blood flow). No abstract in PubMed."
+  },
+  {
+   "citation": "Hogan QH. Pathophysiology of peripheral nerve injury during regional anesthesia. Reg Anesth Pain Med 2008;33(5):435-41",
+   "pmid": "18774512",
+   "why": "Review of mechanisms of local-anaesthetic and block-related nerve injury, including ischaemia; cited by Wiesmann for epinephrine as a possible risk factor."
+  },
+  {
+   "citation": "Neal JM, Barrington MJ, Brull R, et al. The second ASRA practice advisory on neurologic complications associated with regional anesthesia and pain medicine: executive summary 2015. Reg Anesth Pain Med 2015;40(5):401-30",
+   "pmid": "26288034",
+   "why": "Practice advisory on nerve injury after regional anaesthesia (local anaesthetic neurotoxicity, vasoconstrictors, pre-existing neuropathy)."
+  },
+  {
+   "citation": "Kirksey MA, Haskins SC, Cheng J, Liu SS. Local anesthetic peripheral nerve block adjuvants for prolongation of analgesia: a systematic qualitative review. PLoS One 2015;10(9):e0137312",
+   "pmid": "26355598",
+   "why": "Systematic review of block adjuvants (epinephrine, clonidine, dexmedetomidine, dexamethasone and others); source of Wiesmann's adjuvant concentrations. Bears on the adjuvants-without-a-vasoconstrictor page (C013-C030)."
+  },
+  {
+   "citation": "Axelsson K, Gupta A. Local anaesthetic adjuvants: neuraxial versus peripheral nerve block. Curr Opin Anaesthesiol 2009;22(5):649-54",
+   "pmid": "19593120",
+   "why": "Review of local-anaesthetic adjuvants including clonidine; adjuvants page."
+  },
+  {
+   "citation": "Pöpping DM, Elia N, Marret E, Wenk M, Tramèr MR. Clonidine as an adjuvant to local anesthetics for peripheral nerve and plexus blocks: a meta-analysis of randomized trials. Anesthesiology 2009;111(2):406-15",
+   "pmid": "19602964",
+   "why": "Meta-analysis of clonidine added to nerve blocks (duration, side effects); adjuvants page, clonidine claims (C014-C021)."
+  },
+  {
+   "citation": "Lavand'homme PM, Eisenach JC. Perioperative administration of the alpha2-adrenoceptor agonist clonidine at the site of nerve injury reduces the development of mechanical hypersensitivity and modulates local cytokine expression. Pain 2003;105(1-2):247-54",
+   "pmid": "14499442",
+   "why": "Perineural clonidine at a nerve injury reduces hypersensitivity in rats (neuropathic pain, alpha-2 action at the nerve); adjuvants page C017 (animal work on alpha-2 at injured nerve)."
+  },
+  {
+   "citation": "Romero-Sandoval A, Eisenach JC. Perineural clonidine reduces mechanical hypersensitivity and cytokine production in established nerve injury. Anesthesiology 2006;104(2):351-5",
+   "pmid": "16436856",
+   "why": "Perineural clonidine in established nerve injury (rat): neuropathic pain, alpha-2 action at the nerve; adjuvants page."
+  },
+  {
+   "citation": "Romero-Sandoval A, Eisenach JC. Clonidine reduces hypersensitivity and alters the balance of pro- and anti-inflammatory leukocytes after local injection at the site of inflammatory neuritis. Brain Behav Immun 2007;21(5):569-80",
+   "pmid": "17079113",
+   "why": "Local clonidine at inflammatory neuritis (rat); anti-inflammatory action at the nerve; adjuvants page."
+  },
+  {
+   "citation": "Ibrahim S, Laude EA, Bee D, Eaton S, Ward JD, Harris ND. Combined microlightguide spectrophotometry and microendoscopy for measurement of oxygen saturation in peripheral nerves. Physiol Meas 1999;20(1):65-73",
+   "pmid": "10374827",
+   "why": "Measured oxygen saturation and perfusion together in rat sciatic nerve (method later proposed for diabetic neuropathy); shows Wiesmann is not the only study measuring flow and oxygen on the same nerve, only the only one with a local anaesthetic."
+  },
+  {
+   "citation": "Tighe PJ, Elliott CE, Lucas SD, Boezaart AP. Noninvasive tissue oxygen saturation determined by near-infrared spectroscopy following peripheral nerve block. Acta Anaesthesiol Scand 2011;55(10):1239-46",
+   "pmid": "22092129",
+   "why": "Human tissue oxygen saturation (NIRS) rose in blocked limbs after peripheral nerve blocks; skin/tissue oxygen after local anaesthetic blocks."
+  },
+  {
+   "citation": "Myers RR, Kalichman MW, Reisner LS, Powell HC. Neurotoxicity of local anesthetics: altered perineurial permeability, edema, and nerve fiber injury. Anesthesiology 1986;64(1):29-35",
+   "pmid": "3942334",
+   "why": "Local-anaesthetic neurotoxicity in rat sciatic nerve (perineurial permeability, oedema, fibre injury); nerve injury claims (C049, D004, D005) and wheal pages."
+  },
+  {
+   "citation": "Kalichman MW, Powell HC, Myers RR. Quantitative histologic analysis of local anesthetic-induced injury to rat sciatic nerve. J Pharmacol Exp Ther 1989;250(1):406-13",
+   "pmid": "2746508",
+   "why": "Concentration-dependent nerve injury from several local anaesthetics (cited on the Lidocaine With Epinephrine Wheals page); nerve injury claims and wheal pages."
+  },
+  {
+   "citation": "Kirchmair L, Ströhle M, Löscher WN, Kreutziger J, Voelckel WG, Lirk P. Neurophysiological effects of needle trauma and intraneural injection in a porcine model: a pilot study. Acta Anaesthesiol Scand 2016;60(3):393-9",
+   "pmid": "26611997",
+   "why": "Intraneural injection and needle trauma in pig nerves (nerve injury, electrophysiology)."
+  },
+  {
+   "citation": "Steinfeldt T, Graf J, Schneider J, et al. Histological consequences of needle-nerve contact following nerve stimulation in a pig model. Anesthesiol Res Pract 2011;2011:591851",
+   "pmid": "21716736",
+   "why": "Pig model of needle-nerve contact with histology (nerve injury from injection)."
+  },
+  {
+   "citation": "Steinfeldt T, Wiesmann T, Nimphius W, et al. Perineural hematoma may result in nerve inflammation and myelin damage. Reg Anesth Pain Med 2014;39(6):513-9",
+   "pmid": "25275575",
+   "why": "Pig model: perineural haematoma causing nerve inflammation and myelin damage (nerve injury after injection near a nerve)."
+  },
+  {
+   "citation": "Wiesmann T, Bornträger A, Vassiliou T, et al. Minimal current intensity to elicit an evoked motor response cannot discern between needle-nerve contact and intraneural needle insertion. Anesth Analg 2014;118(3):681-6 (printed as 2013 in Wiesmann 2018's reference list)",
+   "pmid": "24284806",
+   "why": "Pig model of intraneural needle insertion (nerve injury risk during injection)."
+  },
+  {
+   "citation": "Schmelzer JD, Zochodne DW, Low PA. Ischemic and reperfusion injury of rat peripheral nerve. Proc Natl Acad Sci U S A 1989;86(5):1639-42",
+   "pmid": "2922402",
+   "why": "Nerve ischaemia/reperfusion injury; basis of Wiesmann's grading of nerve blood-flow reductions."
+  },
+  {
+   "citation": "Kihara M, Zollman PJ, Schmelzer JD, Low PA. The influence of dose of microspheres on nerve blood flow, electrophysiology, and fiber degeneration of rat peripheral nerve. Muscle Nerve 1993;16(12):1383-9",
+   "pmid": "8232397",
+   "why": "Relates degree of nerve blood-flow reduction to fibre degeneration (how much flow loss injures a nerve); nerve ischaemia."
+  },
+  {
+   "citation": "Nukada H, Powell HC, Myers RR. Spatial distribution of nerve injury after occlusion of individual major vessels in rat sciatic nerves. J Neuropathol Exp Neurol 1993;52(5):452-9",
+   "pmid": "8360699",
+   "why": "Nerve injury from vascular occlusion (nerve ischaemia)."
+  },
+  {
+   "citation": "Bell MA, Weddell AG. A descriptive study of the blood vessels of the sciatic nerve in the rat, man and other mammals. Brain 1984;107(Pt 3):871-98",
+   "pmid": "6478181",
+   "why": "Anatomy of the dual (extrinsic/intrinsic) nerve blood supply; the epinephrine page's section on the two blood supplies of a nerve."
+  },
+  {
+   "citation": "Bell MA, Weddell AG. A morphometric study of intrafascicular vessels of mammalian sciatic nerve. Muscle Nerve 1984;7(7):524-34",
+   "pmid": "6544371",
+   "why": "Intrafascicular nerve vessels (nerve blood supply anatomy)."
+  },
+  {
+   "citation": "Mizisin AP, Weerasuriya A. Homeostatic regulation of the endoneurial microenvironment during development, aging and in response to trauma, disease and toxic insult. Acta Neuropathol 2011;121(3):291-312 (printed as 2010)",
+   "pmid": "21136068",
+   "why": "Endoneurial microenvironment and blood-nerve barrier in nerve disease and toxic injury."
+  },
+  {
+   "citation": "Rundquist I, Smith QR, Michel ME, Ask P, Oberg PA, Rapoport SI. Sciatic nerve blood flow measured by laser Doppler flowmetry and [14C]iodoantipyrine. Am J Physiol 1985;248(3 Pt 2):H311-7",
+   "pmid": "3156511",
+   "why": "Validation of laser Doppler for nerve blood flow (method behind Myers, Partridge, Bouaziz, Wiesmann)."
+  },
+  {
+   "citation": "Sugimoto H, Monafo WW, Eliasson SG. Regional sciatic nerve and muscle blood flow in conscious and anesthetized rats. Am J Physiol 1986;251(6 Pt 2):H1211-6",
+   "pmid": "3789175",
+   "why": "General anaesthesia alters nerve blood flow (limitation shared by all exposed-nerve flow studies)."
+  },
+  {
+   "citation": "Kihara M, Weerasuriya A, Low PA. Endoneurial blood flow in rat sciatic nerve during development. J Physiol 1991;439:351-60",
+   "pmid": "1895240",
+   "why": "Endoneurial blood flow physiology; cited for limited autoregulation of nerve blood flow."
+  },
+  {
+   "citation": "Forst T, Hohberg C, Tarakci E, Forst S, Kann P, Pfützner A. Reliability of lightguide spectrophotometry (O2C) for the investigation of skin tissue microvascular blood flow and tissue oxygen supply in diabetic and nondiabetic subjects. J Diabetes Sci Technol 2008;2(6):1151-6",
+   "pmid": "19885305",
+   "why": "Skin microvascular blood flow and tissue oxygen measured with the same O2C device in diabetic and non-diabetic people (skin blood flow and oxygen)."
+  },
+  {
+   "citation": "Beckert S, Witte MB, Königsrainer A, Coerper S. The impact of the micro-lightguide O2C for the quantification of tissue ischemia in diabetic foot ulcers. Diabetes Care 2004;27(12):2863-7",
+   "pmid": "15562198",
+   "why": "Skin tissue oxygen/ischaemia measured with O2C in diabetic feet."
+  },
+  {
+   "citation": "Scheeren TW. Monitoring the microcirculation in the critically ill patient: reflectance spectroscopy. Intensive Care Med 2011;37(6):1045-6",
+   "pmid": "21394621",
+   "why": "Tissue oxygen by reflectance spectroscopy (method)."
+  },
+  {
+   "citation": "Krug A. Microcirculation and oxygen supply: method of so-called O2C. Phlebologie 2007;36:300-12",
+   "pmid": "",
+   "why": "Manufacturer-linked description of the O2C method (tissue flow and oxygen); not in PubMed."
+  },
+  {
+   "citation": "Atanassoff PG, Weiss BM, Brull SJ, et al. Compound motor action potential recording distinguishes differential onset of motor block of the obturator nerve in response to etidocaine or bupivacaine. Anesth Analg 1996;82(2):317-20",
+   "pmid": "8561334",
+   "why": "Bupivacaine nerve block onset measured electrophysiologically (bupivacaine block)."
+  }
+ ]
+}

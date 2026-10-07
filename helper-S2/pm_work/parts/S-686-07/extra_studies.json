@@ -1,0 +1,42 @@
+[
+ {
+  "pmid": "10025747",
+  "citation": "Lok C, Paul C, Amblard P, Bessis D, Debure C, Faivre B, Guillot B, Ortonne JP, Huledal G, Kalis B. EMLA cream as a topical anesthetic for the repeated mechanical debridement of venous leg ulcers: a double-blind, placebo-controlled study. J Am Acad Dermatol 1999;40(2 Pt 1):208-13.",
+  "found_in_paper": "S-686-07",
+  "bears_on_claim_ids": [
+   "C070",
+   "D072"
+  ],
+  "what_it_shows": "Effendy's reference 5. Randomised double-blind placebo-controlled trial in 69 patients with venous leg ulcers given the cream before each of a series of debridements until the ulcer was clean; plasma lidocaine, prilocaine and their main metabolites were followed across the repeated sessions and showed no apparent accumulation; debridement pain roughly halved. A second repeated-session topical dataset on accumulation (C070, D072); not injected, and methaemoglobin is not mentioned in the abstract.",
+  "quote_from_abstract": "Plasma levels of lidocaine, prilocaine, and their main metabolites were low without any apparent accumulation."
+ },
+ {
+  "pmid": "8105630",
+  "citation": "Hansson C, Holm J, Lillieborg S, Syren A. Repeated treatment with lidocaine/prilocaine cream (EMLA) as a topical anaesthetic for the cleansing of venous leg ulcers. A controlled study. Acta Derm Venereol 1993;73(3):231-3.",
+  "found_in_paper": "S-686-07",
+  "bears_on_claim_ids": [
+   "C070"
+  ],
+  "what_it_shows": "Effendy's reference 9. Randomised controlled study (cream n = 22, control n = 21) of a series of repeated treatments before cleansing of venous leg ulcers; local reactions scored at every treatment, granulation tissue, ulcer area and bacterial flora at first and last; analgesic effect unchanged with successive treatments; no differences from controls in local reactions, granulation tissue, ulcer area or flora. Gives topical data on the 'local tissue change' and 'effect holds up over time' elements of C070.",
+  "quote_from_abstract": "The analgesic effect remained unchanged with successive treatments."
+ },
+ {
+  "pmid": "28727591",
+  "citation": "Purcell A, Buckley T, Fethney J, King J, Moyle W, Marshall AP. The Effectiveness of EMLA as a Primary Dressing on Painful Chronic Leg Ulcers: A Pilot Randomized Controlled Trial. Adv Skin Wound Care 2017;30(8):354-363.",
+  "found_in_paper": "S-686-07",
+  "bears_on_claim_ids": [
+   "D066",
+   "C070"
+  ],
+  "what_it_shows": "Not cited by Effendy (published later); found from Effendy's reference 13 (the same group's 2012 case report) and the PubMed topic search. Pilot randomised controlled trial, 60 participants with painful chronic leg ulcers of varied aetiology, the cream used daily for four weeks as a primary dressing vs standard wound care; wound-related pain lower during and after dressing change across the four weeks. Companion report PMID 28836470: no inhibition of wound healing. A longer daily-use dataset in leg-ulcer pain (D066 context; not neuropathic) and topical data on maintained effect and local tissue outcome under repeated use (C070).",
+  "quote_from_abstract": "Participants were randomly assigned to an intervention (daily EMLA use for 4 weeks as a primary dressing) or a standard wound care group."
+ },
+ {
+  "pmid": "1023952",
+  "citation": "Aps C, Reynolds F. The effect of concentration on vasoactivity of bupivacaine and lignocaine. Br J Anaesth 1976;48(12):1171-4.",
+  "found_in_paper": "S-686-07",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Effendy's reference 15 (cited for the biphasic vascular effect of local anaesthetics). Double-blind intradermal trial in 31 volunteers, bupivacaine and lidocaine each at three concentrations: vasoconstriction more frequent at low and vasodilatation at high concentrations (P < 0.001); duration unaffected by concentration except at the highest bupivacaine strength, which lasted longer. Decides no claim in claims_all.json (C039, C072, D000, D024 checked: no adrenaline arm, no flow recording, two agents only). Supports Notion findings F05-F07 (three pages still call it second-hand or unindexed) and may bear on S1's W- claims for the bupivacaine and ropivacaine wheal pages. Abstract cached with the study concentrations masked.",
+  "quote_from_abstract": "Vasoconstriction was observed more frequently at low concentrations of each drug, and vasodilatation at high concentrations."
+ }
+]

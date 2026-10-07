@@ -1,0 +1,20 @@
+{
+ "pmid": "19546268",
+ "year": "2009",
+ "first_author": "Newbury",
+ "title": "Amethocaine versus EMLA for successful intravenous cannulation in a children's emergency department: a randomised controlled study.",
+ "journal": "Emerg Med J",
+ "pubtypes": [
+  "Comparative Study",
+  "Journal Article",
+  "Randomized Controlled Trial",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1136/emj.2008.065110",
+ "pmcid": "",
+ "abstract": "Topical anaesthetics reduce the pain of venous cannulation. The emergency department at the Starship Children's Hospital in Auckland uses EMLA (an eutectic mixture of 25 mg/g lidocaine and 25 mg/g prilocaine) for topical anaesthesia. Amethocaine has recently been shown to be a more effective topical anaesthetic. It is suggested that, because amethocaine does not vasoconstrict veins, it may increase the success of cannulation.\n\nThe primary aim was to determine if amethocaine improves the success of cannulation compared with EMLA. The secondary aim was to determine if amethocaine is a more effective topical anaesthetic in a children's emergency department.\n\nA parallel, randomised, double-blind controlled study was performed in children aged 3 months to 15 years who were offered topical anaesthesia for venous cannulation. Caregivers gave verbal consent at triage, followed by written consent. Children were randomised into amethocaine or EMLA groups. Those who went on to have an intravenous cannula were analysed on an intention-to-treat basis. The primary outcome was a successful first attempt at cannulation. A convenience cohort was also observed for distress using a visual analogue scale and the Faces, Legs, Activity, Cry and Consolability Score.\n\nFrom November 2006 to June 2007, 2837 children were enrolled and 809 were known to have had intravenous cannulation. 679 complete data and consent forms were returned. There was no significant difference between the first attempt success rates (75.8% amethocaine vs 73.9% EMLA) or between pain scores for the 65 observed cannulations.\n\nAmethocaine is not more successful than EMLA for first attempt intravenous cannulation in a children's emergency department.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:38:04Z",
+ "retrieved_for": "S-686-48",
+ "redacted": false
+}

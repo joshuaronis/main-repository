@@ -1,0 +1,17 @@
+{
+ "pmid": "22012177",
+ "year": "2012",
+ "first_author": "Werdehausen",
+ "title": "Lipophilicity but not stereospecificity is a major determinant of local anaesthetic-induced cytotoxicity in human T-lymphoma cells.",
+ "journal": "Eur J Anaesthesiol",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.1097/EJA.0b013e32834cd6c4",
+ "pmcid": "",
+ "abstract": "Local neurotoxicity of local anaesthetics is a well known phenomenon which is determined by lipophilicity. Recent reports have indicated the relevance of local anaesthetic-induced cytotoxicity also in nonneuronal tissues. This study re-evaluates the role of lipophilicity in local anaesthetic cytotoxicity in nonneuronal cells. In addition, the toxicities of pipecoloxylidine S(-) enantiomers were investigated.\n\nLocal anaesthetic-induced cytotoxicity was investigated in vitro in T-lymphoma cells (Jurkat). Cells were incubated with each of eight different local anaesthetics, two esters and six amides. Annexin V-fluorescein isothiocyanate and 7-aminoactinomycin D double staining followed by flow cytometry were used to investigate the fraction of early apoptotic cells as well as the overall cell death. The concentrations leading to 50% cell death (LC50) were calculated and compared. In a second step, we compared the toxicities of S(-) bupivacaine and the racemate as well as R(+) and S(-) ropivacaine.\n\nConcentration-dependent cytotoxicity was observed for all investigated local anaesthetics. Apoptosis was seen at low concentrations, whereas necrosis was observed at higher concentrations. LC50 values of the different local anaesthetics yielded the following decreasing order of toxicity: tetracaine, bupivacaine, ropivacaine, prilocaine, procaine, lidocaine, articaine and mepivacaine. Toxicity correlated with octanol/buffer partition coefficients, but was independent of the ester or amide linkage. There was no effect of stereoisomerism on apoptosis and necrosis.\n\nModerate correlations for cytotoxicity with lipophilicity and clinical potency of local anaesthetics can be found in nonneuronal cells that are less than those reported previously with neuronal cells. Structural factors such as ester or amide linkage or stereospecificity do not have any influence on cytotoxicity. Although S(-) enantiomers may be advantageous with regard to systemic toxicity, they have no advantage in respect of local cytotoxicity in vitro.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:38:15Z",
+ "retrieved_for": "S-686-12",
+ "redacted": false
+}

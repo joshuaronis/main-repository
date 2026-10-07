@@ -1,0 +1,17 @@
+{
+ "pmid": "21531935",
+ "year": "2011",
+ "first_author": "Hillerup",
+ "title": "Trigeminal nerve injury associated with injection of local anesthetics: needle lesion or neurotoxicity?",
+ "journal": "J Am Dent Assoc",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.14219/jada.archive.2011.0223",
+ "pmcid": "",
+ "abstract": "The authors used comprehensive national registry and clinical data to conduct a study of adverse drug reactions (ADRs), in particular neurosensory disturbance (NSD), associated with local anesthetics used in dentistry\n\nThe study included data sets of annual sales of local anesthetics (from 1995 through 2007), 292 reports to the Danish Medicines Agency, Copenhagen, Denmark, of adverse reactions to local anesthetic drugs, and a clinical sample of 115 patients with NSD associated with local anesthetics. The authors assessed lidocaine [dose figure omitted], mepivacaine [dose figure omitted] and [dose figure omitted], prilocaine [dose figure omitted], and articaine [dose figure omitted] sold in cartridges.\n\nThe study results showed a highly significant overrepresentation of NSDs associated with articaine [dose figure omitted], in particular with mandibular blocks.\n\nThe distribution of NSDs was disproportionate to the market share of three of the four drugs in both national registry data and clinical data. These findings indicate that the main cause of injury was neurotoxicity resulting from administration of the local anesthetic rather than the needle penetration.\n\nClinicians may consider avoiding use of high-concentration ([dose figure omitted]) anesthetic formulations for block anesthesia in the trigeminal area in cases in which there are viable alternatives.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:39:21Z",
+ "retrieved_for": "S-686-12",
+ "redacted": true
+}

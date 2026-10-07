@@ -1,0 +1,9 @@
+{
+ "paper_id": "S-686-07",
+ "right_paper": true,
+ "text_ok": true,
+ "own_question_answered": "yes",
+ "claims_rejudged": "5 entries on 4 claims: C070 own-question narrowed->narrowed and extra-study (Hansson 1993) narrowed->narrowed; D066 own-question refuted->refuted; D069 other-claim confirmed->confirmed; D072 other-claim confirmed->confirmed. No verdict changes.",
+ "notion_findings": 7,
+ "notes": "Right paper (Effendy I, Gelber A, Lehmann P, Huledal G, Lillieborg S; Br J Dermatol 2015;173(1):259-261; PubMed has no abstract). Text complete. Own questions answered: plasma prilocaine did not accumulate over ten days (day-1 and day-10 peaks similar, minimal levels a day after each application); methaemoglobin was not measured; pre-application ulcer pain fell across the ten days (VAS 75 to 21, P<0.001) in an open, uncontrolled study; pain outcome was a daily VAS of current ulcer pain plus an enrolment VRS; contact about one hour a day for ten days; no patient described as neuropathic. Main correction: C070's current wording wrongly credits Effendy 2015 with showing no methaemoglobin accumulation. Extra studies: Lok 1999, Hansson 1993, Purcell 2017, Aps & Reynolds 1976. Notion: 7 findings (1 high: Product Guide rank-19 evidence inventory omits Moghtaderi 2009, the D066 error in a ranked entry; 6 low). 5 claims not tested (dose or toxicity subject): Safe Doses D071, D073, D074, D075; prilocaine-wheals C071. No content-filter stop. Instructions found in two Notion pages (AI-reader teaching preferences on Ropivacaine Wheals; a note for health skills on Safe Doses) were treated as data."
+}

@@ -1,0 +1,20 @@
+{
+ "pmid": "9135307",
+ "year": "1997",
+ "first_author": "McCafferty",
+ "title": "Effect of percutaneous local anaesthetics on pain reduction during pulse dye laser treatment of portwine stains.",
+ "journal": "Br J Anaesth",
+ "pubtypes": [
+  "Clinical Trial",
+  "Comparative Study",
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "doi": "10.1093/bja/78.3.286",
+ "pmcid": "",
+ "abstract": "We have used EMLA, 4% amethocaine gel and placebo for facial portwine stains, for a period of 1 h, in a double-blind study. After removal of the preparations from the skin surface, each area was treated with six pulses of the laser, each 5 mm in diameter. Any pain noted immediately after treatment was recorded using both visual analogue (VAS) and verbal rating (VRS) scores. Twenty nine patients completed the study and statistical analysis of the results indicated that both EMLA and 4% amethocaine gel were superior to placebo (P < 0.001). However, when EMLA and 4% amethocaine gel were compared, the amethocaine preparation was significantly better (P < 0.05, VAS; P < 0.005 VRS) than EMLA in reducing pain caused by the laser treatment.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:37:45Z",
+ "retrieved_for": "S-686-48",
+ "redacted": false
+}
