@@ -26,3 +26,15 @@
 2026-10-07T23:33:23Z	S-686-23	10	(Posimir[tiab] OR "SABER-bupivacaine"[tiab] OR "SABER-Bupivacaine"[tiab] OR "sucrose acetate isobutyrate"[tiab]) AND bupivacaine[tiab]
 2026-10-07T23:34:06Z	S-686-23	3	(Posimir[tiab] OR "SABER-bupivacaine"[tiab] OR "SABER bupivacaine"[tiab]) AND (approv*[tiab] OR FDA[tiab] OR "Food and Drug Administration"[tiab])
 2026-10-07T23:34:06Z	S-686-23	9	("extended-release"[tiab] OR "prolonged-release"[tiab] OR "sustained-release"[tiab] OR "long-acting"[tiab]) AND (bupivacaine[tiab] OR "local anesthetic"[tiab] OR "local anesthetics"[tiab] OR "local anaesthetic"[tiab] OR "local anaesthetics"[tiab]) AND (approved[tiab] OR approval[tiab]) AND (Zynrelef[tiab] OR Xaracoll[tiab] OR Posimir[tiab] OR "HTX-011"[tiab] OR "bupivacaine implant"[tiab] OR meloxicam[tiab])
+2026-10-07T23:35:35Z	S-686-48	14	(amethocaine OR tetracaine OR Ametop) AND (EMLA OR lidocaine-prilocaine OR lignocaine-prilocaine) AND (child OR children OR paediatric OR pediatric) AND 1997:1999[dp]
+2026-10-07T23:36:16Z	S-686-12	3	Hillerup S[Author] AND articaine
+2026-10-07T23:36:16Z	S-686-18	12	Vlassakov KV[Author] AND Kissin I[Author]
+2026-10-07T23:36:21Z	S-686-48	1	Ormandy[Author] AND (amethocaine OR tetracaine OR EMLA OR anaesthesia OR anesthesia OR cannulation)
+2026-10-07T23:36:21Z	S-686-48	1	(amethocaine OR tetracaine OR Ametop) AND (EMLA OR prilocaine) AND (cannulation OR venous OR intravenous) AND (induction OR "day case" OR "day surgery" OR daycase)
+2026-10-07T23:36:36Z	S-686-48	125	(amethocaine OR Ametop OR "tetracaine gel") AND (EMLA OR "lidocaine-prilocaine" OR "lignocaine-prilocaine")
+2026-10-07T23:36:49Z	S-686-01	1	Nizharadze N[Author] AND articaine
+2026-10-07T23:36:49Z	S-686-01	1	El-Qutob D[Author] AND articaine
+2026-10-07T23:37:24Z	S-686-12	0	Legarth J[Author] AND lingual
+2026-10-07T23:37:24Z	S-686-12	3	Rahn R[Author] AND Ultracain
+2026-10-07T23:37:24Z	S-686-12	2	Haas DA[Author] AND Lennon D[Author]
+2026-10-07T23:37:31Z	S-686-48	3	Lander J[Author] AND (EMLA OR amethocaine) AND Cochrane

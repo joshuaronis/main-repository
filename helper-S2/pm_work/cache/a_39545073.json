@@ -1,0 +1,17 @@
+{
+ "pmid": "39545073",
+ "year": "2024",
+ "first_author": "Flondell",
+ "title": "Cerebral Changes Following Carpal Tunnel Syndrome Treated with Guided Plasticity: A Prospective, Randomized, Placebo-Controlled Study.",
+ "journal": "J Brachial Plex Peripher Nerve Inj",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.1055/s-0044-1792169",
+ "pmcid": "PMC11563718",
+ "abstract": " Compression neuropathy, such as carpal tunnel syndrome (CTS), results in changed afferent nerve signaling, which may result in changes in somatosensory brain areas. The purpose of this study was to assess cerebral changes following unilateral CTS and to assess short-term and long-term cerebral effects of guided plasticity treatment using ipsilateral cutaneous forearm deafferentation. Twenty-four patients with mild-to-moderate unilateral CTS were randomized to treatment with anesthetic cream (EMLA) or placebo. Patient-rated outcomes were assessed using Boston CTS questionnaire and disability of arm, shoulder, and hand questionnaire (QuickDASH). Patients were assessed for tactile discrimination and dexterity. Cortical activation during sensory stimulation was evaluated with functional magnetic resonance imaging at 3T. Assessments were performed at baseline, 90 minutes, and 8 weeks after treatment. Functional magnetic resonance imaging showed that sensory stimulation of the hand with CTS resulted in significantly less cortical activation in the primary somatosensory cortex (S1) than stimulation of the healthy hand. Treatment with cutaneous forearm deafferentation on the side with CTS resulted in increased cortical activation in S1 both after the initial treatment and following 8 weeks of treatment. In addition, QuickDASH and tactile discrimination showed improvement in the EMLA group over time. Stimulation of median nerve-innervated fingers in patients with unilateral CTS results in smaller-than-normal activation in the contralateral S1. Cutaneous forearm anesthesia on the side with CTS results in larger activation in S1, suggesting recruitment of more neurons, and a slight improvement in sensory function.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:34:43Z",
+ "retrieved_for": "S-686-43",
+ "redacted": false
+}

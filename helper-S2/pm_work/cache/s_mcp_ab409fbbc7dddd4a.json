@@ -1,0 +1,25 @@
+{
+ "query": "(amethocaine OR tetracaine OR Ametop) AND (EMLA OR lidocaine-prilocaine OR lignocaine-prilocaine) AND (child OR children OR paediatric OR pediatric) AND 1997:1999[dp]",
+ "max_results": 40,
+ "count": 14,
+ "translation": "(\"tetracaine\"[Supplementary Concept] OR \"tetracaine\"[All Fields] OR \"amethocaine\"[All Fields] OR \"tetracaine\"[MeSH Terms] OR ...) AND (\"lidocaine prilocaine drug combination\"[Supplementary Concept] OR \"emla\"[All Fields] OR \"lidocaine, prilocaine drug combination\"[MeSH Terms] OR ... OR \"lignocaine prilocaine\"[All Fields]) AND (\"child\"[MeSH Terms] OR \"child\"[All Fields] OR \"children\"[All Fields] OR ... OR \"pediatrics\"[MeSH Terms] OR \"paediatric\"[All Fields] OR \"pediatric\"[All Fields]) AND 1997/01/01:1999/12/31[Date - Publication]",
+ "pmids": [
+  "10686868",
+  "10597567",
+  "10519337",
+  "10483605",
+  "10472236",
+  "10469814",
+  "9840272",
+  "9814396",
+  "9805170",
+  "9346982",
+  "9250639",
+  "9113495",
+  "9048510",
+  "9043560"
+ ],
+ "date_searched": "2026-10-07T23:35:35Z",
+ "searched_for": "S-686-48",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

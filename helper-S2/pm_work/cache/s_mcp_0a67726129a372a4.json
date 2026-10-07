@@ -1,0 +1,12 @@
+{
+ "query": "El-Qutob D[Author] AND articaine",
+ "max_results": 10,
+ "count": 1,
+ "translation": "el qutob d[Author] AND (\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"articain\"[All Fields] OR \"carticaine\"[MeSH Terms] OR \"articaine\"[All Fields])",
+ "pmids": [
+  "15808120"
+ ],
+ "date_searched": "2026-10-07T23:36:49Z",
+ "searched_for": "S-686-01",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

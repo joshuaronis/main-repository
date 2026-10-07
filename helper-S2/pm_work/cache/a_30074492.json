@@ -1,0 +1,18 @@
+{
+ "pmid": "30074492",
+ "year": "2018",
+ "first_author": "Balocco",
+ "title": "Extended release bupivacaine formulations for postoperative analgesia: an update.",
+ "journal": "Curr Opin Anaesthesiol",
+ "pubtypes": [
+  "Journal Article",
+  "Review"
+ ],
+ "doi": "10.1097/ACO.0000000000000648",
+ "pmcid": "",
+ "abstract": "New formulations of local anesthetics with sustained release and longer duration of action are being developed to improve patient outcomes following surgery. This review summarizes the efficacy and safety of the three most recently developed extended-release formulations of the local anesthetic, bupivacaine.\n\nBupivacaine liposome injectable suspension (EXPAREL) encapsulates bupivacaine in biodegradable liposomes. It is currently the only extended-release formulation of bupivacaine approved by the FDA for infiltration of the tissues during surgery and for interscalene nerve block analgesia following shoulder surgery. SABER-Bupivacaine and HTX-011, are extended-release bupivacaine products in active development. Available data suggest relative safety and efficacy of all three formulations, although more data are needed to define their indications and dosing.\n\nExtended-release bupivacaine formulations are promising alternatives to prolong duration of analgesia. To date, only EXPAREL has been approved by the FDA for tissue infiltration during surgery and for interscalene nerve block.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:35:32Z",
+ "retrieved_for": "S-686-23",
+ "redacted": false
+}

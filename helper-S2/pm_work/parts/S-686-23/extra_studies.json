@@ -1,0 +1,46 @@
+[
+ {
+  "pmid": "23458225",
+  "citation": "Apseloff G, Onel E, Patou G. Time to onset of analgesia following local infiltration of liposome bupivacaine in healthy volunteers: a randomized, single-blind, sequential cohort, crossover study. Int J Clin Pharmacol Ther 2013;51(5):367-73",
+  "found_in_paper": "S-686-23",
+  "bears_on_claim_ids": [
+   "D048"
+  ],
+  "what_it_shows": "Phase 1 randomised single-blind crossover in 132 healthy volunteers: the marketed liposome bupivacaine, or plain bupivacaine as positive control, given subcutaneously in one arm against saline in the other, with an incisional pain model; analgesia within minutes. Subcutaneous per the abstract, so it does not match D048's intradermal element (already in D048's records; no verdict change). PubMed's MeSH indexing lists 'Injections, Intradermal' for this record, so a MeSH-based search retrieves it as if intradermal. Rames cites it (ref 19) for onset after local infiltration.",
+  "quote_from_abstract": "In this Phase 1, single-blind, crossover study, healthy volunteers (n = 132) were randomized to four sequential cohorts to receive subcutaneous normal saline in one arm and either liposome bupivacaine [dose figure omitted] or bupivacaine HCl [dose figure omitted] in the other."
+ },
+ {
+  "pmid": "38482995",
+  "citation": "Jensen EK, Bøgevig S, Balchen T, et al. Dose safety and pharmacodynamics of subcutaneous bupivacaine in a novel extended-release microparticle formulation: a phase 1, dose-ascending study in male volunteers. Basic Clin Pharmacol Toxicol 2024;134(5):657-75",
+  "found_in_paper": "S-686-23",
+  "bears_on_claim_ids": [
+   "C043"
+  ],
+  "what_it_shows": "First-in-human randomised phase 1 study in male volunteers: a PLGA microparticle extended-release bupivacaine given subcutaneously produced dose-dependent hypoaesthesia and hypoalgesia lasting roughly one and a half to three and a half days, with frequent local reactions (erythema, haematoma, indurations lasting weeks) and one participant with central nervous system symptoms of systemic toxicity (figures not copied). On its own it matches the elements of C043's first sentence (humans, a sustained-release formulation, days of analgesia in skin from a single dose) but not the intradermal element of its second sentence, so by itself it would support 'refuted' only for the first sentence; C043's existing 'refuted' verdict rests on Grant 2004 (intradermal) and the microcapsule studies and stands without it, so no claim update is written. It does not match C042, whose elements are the lecithin-coated microdroplet or microcrystal approach. Basis of Notion finding F03. Rames cites it (ref 5) only as background on dosing.",
+  "quote_from_abstract": "Both LIQ865 formulations demonstrated dose-dependent hypoesthesia and hypoalgesia. The duration of analgesia ranged between 37 and 86 h."
+ },
+ {
+  "pmid": "34228280",
+  "citation": "Blair HA. Bupivacaine/Meloxicam Prolonged Release: A Review in Postoperative Pain. Drugs 2021;81(10):1203-11",
+  "found_in_paper": "S-686-23",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Drug review (July 2021): the prolonged-release (EU) / extended-release (USA) bupivacaine–meloxicam combination HTX-011 (Zynrelef), applied needle-free to the surgical site and releasing both drugs over 72 hours from a polymer, 'is approved in the EU and the USA' for postoperative pain. Approval, not marketing, is what the abstract states; no approval year is given. Found by a PubMed search run for this paper's follow-up (not Rames' reference list). Bears on no tested claim; basis of Notion finding F05 (the 'Nothing in this class is marketed anywhere except Exparel' sentence).",
+  "quote_from_abstract": "Prolonged-release (PR; as ascribed in the EU) or extended-release (as ascribed in the USA) bupivacaine/meloxicam (HTX-011; hereafter referred to as bupivacaine/meloxicam PR; Zynrelef) is a synergistic fixed-dose combination (FDC) of the local anaesthetic bupivacaine and the NSAID meloxicam. It is approved in the EU and the USA to treat postoperative pain."
+ },
+ {
+  "pmid": "38698776",
+  "citation": "Goel S, Luke C, Holtzman M, et al. Safety and Efficacy of Zynrelef in Combination with a Single Unilateral or Bilateral Nerve Block Performed Prior to Surgery. J Pain Relief 2023;12(Suppl 1)",
+  "found_in_paper": "S-686-23",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Quality-improvement study at two US hospitals (Pittsburgh) in which selected surgeons used the FDA-approved bupivacaine–meloxicam extended-release solution within its approved indications in routine care: 184 patients received it. Evidence that the product is in clinical use in the USA, i.e. marketed there (the abstract does not use the word 'marketed'). Found by the follow-up PubMed search; bears on no tested claim; supports Notion finding F05.",
+  "quote_from_abstract": "This quality improvement study investigated this combination within the FDA-approved indications. ... A total of 184 patients received Zynrelef"
+ },
+ {
+  "pmid": "38449985",
+  "citation": "Scott J, Souman B, Darwish M, Farro M, Chesnut C. Enhancing Pain Management for Open Inguinal Hernia Repair With a Novel Long-Acting Bupivacaine Drug Device (Xaracoll) in Multimodal Pain Control: A Quality Improvement Initiative to Reduce Post-Operative Opioid Prescribing. Cureus 2024;16(2):e53648",
+  "found_in_paper": "S-686-23",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Retrospective quality-improvement review (one US surgeon, Las Vegas, over three years): Xaracoll, an FDA-approved bovine-collagen implant releasing bupivacaine for up to 24 hours after adult open inguinal hernia repair, was placed intra-operatively in 18 patients following the manufacturer's FDA-approved guidelines. Evidence of FDA approval and of routine US clinical use (marketing implied, not stated); no approval year given. Found by the follow-up PubMed search; bears on no tested claim; supports Notion finding F05.",
+  "quote_from_abstract": "Xaracoll® is a Food and Drug Administration (FDA) approved Type 1 Bovine collagen-based bupivacaine hydrochloride (HCl) implant developed to provide postoperative pain management for up to 24 hours after open inguinal hernia repair in adults. ... Eighteen patients received the Xaracoll® drug device intra-operatively following the FDA-approved manufacturer's guidelines."
+ }
+]

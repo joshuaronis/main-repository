@@ -1,0 +1,14 @@
+{
+ "query": "Lander J[Author] AND (EMLA OR amethocaine) AND Cochrane",
+ "max_results": 20,
+ "count": 3,
+ "translation": "lander j[Author] AND (\"lidocaine prilocaine drug combination\"[Supplementary Concept] OR \"emla\"[All Fields] OR \"lidocaine, prilocaine drug combination\"[MeSH Terms] OR ... OR \"amethocaine\"[All Fields] OR \"tetracaine\"[MeSH Terms]) AND (\"cochran\"[All Fields] OR \"cochrane\"[All Fields] OR ...)",
+ "pmids": [
+  "24627224",
+  "16856039",
+  "15495086"
+ ],
+ "date_searched": "2026-10-07T23:37:31Z",
+ "searched_for": "S-686-48",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

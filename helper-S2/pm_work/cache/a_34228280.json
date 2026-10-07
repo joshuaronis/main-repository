@@ -1,0 +1,18 @@
+{
+ "pmid": "34228280",
+ "year": "2021",
+ "first_author": "Blair",
+ "title": "Bupivacaine/Meloxicam Prolonged Release: A Review in Postoperative Pain.",
+ "journal": "Drugs",
+ "pubtypes": [
+  "Journal Article",
+  "Review"
+ ],
+ "doi": "10.1007/s40265-021-01551-9",
+ "pmcid": "",
+ "abstract": "Prolonged-release (PR; as ascribed in the EU) or extended-release (as ascribed in the USA) bupivacaine/meloxicam (HTX-011; hereafter referred to as bupivacaine/meloxicam PR; Zynrelef) is a synergistic fixed-dose combination (FDC) of the local anaesthetic bupivacaine and the NSAID meloxicam. It is approved in the EU and the USA to treat postoperative pain. After needle-free application at the surgical site, the novel polymer technology allows simultaneous diffusion of bupivacaine and meloxicam over 72 h. In clinical trials, bupivacaine/meloxicam PR significantly reduced postoperative pain and opioid consumption relative to bupivacaine hydrochloride (HCl) and placebo in patients undergoing bunionectomy, herniorrhaphy or total knee arthroplasty (TKA). When used as the foundation of a scheduled non-opioid multimodal analgesia (MMA) regimen, bupivacaine/meloxicam PR further improved pain control and reduced the need for opioids following surgery. Bupivacaine/meloxicam PR was generally well tolerated, with a lower incidence of opioid-related adverse events than bupivacaine HCl and placebo. Although additional data would be beneficial, current evidence indicates that bupivacaine/meloxicam PR is a promising non-opioid treatment option for the management of postoperative pain.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:35:32Z",
+ "retrieved_for": "S-686-23",
+ "redacted": false
+}

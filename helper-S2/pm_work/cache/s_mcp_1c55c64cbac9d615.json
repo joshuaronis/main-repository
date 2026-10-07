@@ -1,0 +1,10 @@
+{
+ "query": "Legarth J[Author] AND lingual",
+ "max_results": 10,
+ "count": 0,
+ "translation": "legarth j[Author] AND (\"lingualized\"[All Fields] OR \"lingually\"[All Fields] OR \"tongue\"[MeSH Terms] OR \"tongue\"[All Fields] OR \"lingual\"[All Fields])",
+ "pmids": [],
+ "date_searched": "2026-10-07T23:37:24Z",
+ "searched_for": "S-686-12",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

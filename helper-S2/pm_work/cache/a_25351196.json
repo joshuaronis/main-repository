@@ -1,0 +1,20 @@
+{
+ "pmid": "25351196",
+ "year": "2014",
+ "first_author": "Pywell",
+ "title": "Does topical Amethocaine cream increase first-time successful cannulation in children compared with a eutectic mixture of local anaesthetics (EMLA) cream? A systematic review and meta-analysis of randomised controlled trials.",
+ "journal": "Emerg Med J",
+ "pubtypes": [
+  "Journal Article",
+  "Meta-Analysis",
+  "Research Support, Non-U.S. Gov't",
+  "Systematic Review"
+ ],
+ "doi": "10.1136/emermed-2014-204066",
+ "pmcid": "",
+ "abstract": "Cannulation of children is often required for administration of intravenous fluids and medications, but can cause pain and anxiety. Amethocaine and a eutectic mixture of local anaesthetics (EMLA) cream are two of the most commonly used local anaesthetic creams.\n\nTo examine the evidence for the superiority of Amethocaine cream compared with EMLA cream in facilitating successful first-time cannulation in children.\n\nA systematic search was undertaken in MEDLINE and EMBASE in June 2014. Studies examining cannulation, undertaken with children and providing data about first-time cannulation success rates were considered for inclusion. Three randomised controlled trials met the inclusion criteria and were included in the meta-analysis. Data extraction was undertaken independently by the two authors using predefined data fields.\n\nPooled analysis was based on a random effects model. Low statistical heterogeneity was observed. Amethocaine cream increased the likelihood of successful first-time cannulation (RR 1.046, CI 0.975 to 1.122), although this did not reach statistical significance (p=0.211).\n\nAmethocaine cream does not appear to significantly facilitate successful first-time cannulation. Lack of precision and design weaknesses of the included studies hinder the formation of a strong recommendation for either cream.\n\nBased on the evidence reviewed here and considering analgesic properties and cost-savings associated with both creams, a weak recommendation can be issued in favour of Amethocaine cream for cannulation in children based on high-quality evidence but where the treatment choice will depend on other factors including cost and provider preference.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:36:11Z",
+ "retrieved_for": "S-686-48",
+ "redacted": false
+}

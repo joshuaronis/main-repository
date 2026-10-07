@@ -1,0 +1,17 @@
+{
+ "pmid": "38698776",
+ "year": "2023",
+ "first_author": "Goel",
+ "title": "Safety and Efficacy of Zynrelefin Combination with a Single Unilateral or Bilateral Nerve Block Performed Prior to Surgery.",
+ "journal": "J Pain Relief",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "",
+ "pmcid": "PMC11064821",
+ "abstract": "The FDA recently approved Zynrelef(A viscous solution of extended release of bupivacaine and meloxicam) to be applied at closure and providing postoperative analgesia for 72 hrs. Although the FDA didn't restrict the use of nerve blocks in combination with this formulation, the safety and efficacy of such a combination has yet to be documented. This quality improvement study investigated this combination within the FDA-approved indications.\n\nSelected surgeons at two hospitals were chosen to use Zynrelef. According to the standard of care, surgeons were also allowed to request single nerve blocks before surgery. The type of nerve blocks (unilateral or bilateral) performed included quadratus lumborum and paravertebral blocks for abdominal surgery, and adductor canal block for total knee replacement. Each block was performed with 20 mL of 0.375% bupivacaine (n=129) or 0.5% of ropivacaine (n=30). Pain scores, opioid consumption, and prescription refill requests at discharge were recorded. Patients discharged on the same day of surgery were separated into two groups-those who received single nerve blocks plus an Zynrelef(group 1)those receiving Zynrelefonly (group 2) and was analyzed using an un-paired t-test.\n\nA total of 184 patients received Zynrelef, including 25 patients who didn't receive blocks, 44 who received unilateral blocks and 114 who received bilateral blocks. No symptoms suggestive of Local Anesthetic Toxicity (LAST) were observed. The use of the combination was associated with a 50% reduction in the number of patients filling their opioid prescription.\n\nThis study provides evidence that the combination of a single unilateral or bilateral nerve block with Zynrelefis safe.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:35:41Z",
+ "retrieved_for": "S-686-23",
+ "redacted": false
+}

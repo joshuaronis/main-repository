@@ -1,0 +1,19 @@
+{
+ "pmid": "38429571",
+ "year": "2024",
+ "first_author": "Varghese",
+ "title": "Eutectic mixture of local anesthetics and amethocaine as topical anesthetics in pediatrics: a meta-analysis.",
+ "journal": "Pediatr Res",
+ "pubtypes": [
+  "Journal Article",
+  "Meta-Analysis",
+  "Systematic Review"
+ ],
+ "doi": "10.1038/s41390-024-03113-7",
+ "pmcid": "",
+ "abstract": "Pediatric patients often receive topical anesthesia before skin procedures in the Emergency Department, with EMLA cream and amethocaine gel being common choices. The most effective option remains a subject of debate.\n\nOur goal was to compare EMLA cream with amethocaine gel in pediatric patients undergoing topical anesthesia, focusing on outcomes: first-attempt cannulation success, child-reported visual analogue scale (VAS) score, parent-reported VAS score, observed pain score, child-reported absence of pain, and child-reported acceptable anesthesia.\n\nA database search for studies comparing EMLA cream and amethocaine gel in pediatric topical anesthesia was conducted. Two reviewers extracted and cross-verified data, with a third ensuring accuracy. Using R software, a pairwise meta-analysis was performed via the Mantel-Haenszel method. Outcomes were pooled as risk ratios or standard mean differences with 95% confidence intervals using the random-effects model.\n\nAmethocaine gel surpasses EMLA cream in child-reported pain absence and first cannulation success. No significant differences were found in child-reported acceptable anesthesia or observed pain scores. Similarly, child- and parent-reported VAS scores showed no variations between EMLA and amethocaine.\n\nThis analysis favors amethocaine gel for pediatric topical anesthesia. Further large randomized trials comparing EMLA cream and amethocaine gel in pediatric patients are warranted.\n\nProcedural pain is a major concern for pediatric patients, their families, and physicians. Topical anesthesia is routinely given prior to children undergoing skin-related procedures in the Emergency Department. In pediatric patients, topical anesthetics such as eutectic mixture of local anesthetics cream and amethocaine gel have proved to be pioneering in pain reduction, but the most effective method is often disputed. Presently, this is the most comprehensive pooled analysis of trials comparing EMLA cream and amethocaine gel in pediatric patients undergoing topical anesthesia. Amethocaine performed better with regards to child-reported absence of pain and first attempt cannulation success.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:36:11Z",
+ "retrieved_for": "S-686-48",
+ "redacted": false
+}

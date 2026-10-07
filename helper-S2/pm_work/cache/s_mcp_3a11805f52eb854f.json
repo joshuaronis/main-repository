@@ -1,0 +1,14 @@
+{
+ "query": "Rahn R[Author] AND Ultracain",
+ "max_results": 10,
+ "count": 3,
+ "translation": "rahn r[Author] AND (\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"ultracaine\"[All Fields] OR \"carticaine\"[MeSH Terms] OR \"ultracain\"[All Fields])",
+ "pmids": [
+  "10588556",
+  "9435991",
+  "1816813"
+ ],
+ "date_searched": "2026-10-07T23:37:24Z",
+ "searched_for": "S-686-12",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

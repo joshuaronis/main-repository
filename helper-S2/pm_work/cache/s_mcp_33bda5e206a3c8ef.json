@@ -1,0 +1,13 @@
+{
+ "query": "Haas DA[Author] AND Lennon D[Author]",
+ "max_results": 10,
+ "count": 2,
+ "translation": "(haas, da[Author] OR haas da[Author]) AND lennon d[Author]",
+ "pmids": [
+  "7736335",
+  "7736333"
+ ],
+ "date_searched": "2026-10-07T23:37:24Z",
+ "searched_for": "S-686-12",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

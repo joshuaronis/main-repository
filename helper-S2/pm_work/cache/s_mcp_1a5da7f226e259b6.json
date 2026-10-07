@@ -1,0 +1,12 @@
+{
+ "query": "(amethocaine OR tetracaine OR Ametop) AND (EMLA OR prilocaine) AND (cannulation OR venous OR intravenous) AND (induction OR \"day case\" OR \"day surgery\" OR daycase)",
+ "max_results": 40,
+ "count": 1,
+ "translation": "(\"tetracaine\"[Supplementary Concept] OR \"amethocaine\"[All Fields] OR \"tetracaine\"[MeSH Terms] OR ... OR \"ametop\"[All Fields]) AND (\"emla\"[All Fields] OR \"lidocaine, prilocaine drug combination\"[MeSH Terms] OR ... OR \"prilocaine\"[MeSH Terms]) AND (\"cannulation\"[All Fields] OR ... OR \"venous\"[All Fields] OR \"intravenous\"[All Fields] ...) AND (\"induction\"[All Fields] OR \"day case\"[All Fields] OR \"day surgery\"[All Fields] OR \"daycase\"[All Fields] ...)",
+ "pmids": [
+  "20458453"
+ ],
+ "date_searched": "2026-10-07T23:36:21Z",
+ "searched_for": "S-686-48",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

@@ -1,0 +1,18 @@
+{
+ "pmid": "27403887",
+ "year": "2016",
+ "first_author": "Flondell",
+ "title": "Carpal tunnel syndrome treated with guided brain plasticity: a randomised, controlled study.",
+ "journal": "J Plast Surg Hand Surg",
+ "pubtypes": [
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "doi": "10.1080/2000656X.2016.1205503",
+ "pmcid": "",
+ "abstract": "Guided plasticity, induced by cutaneous forearm anaesthesia, improves hand sensibility in patients with nerve injury and vibration-induced neuropathy. This study investigated whether patients with carpal tunnel syndrome (CTS) would benefit from cutaneous forearm anaesthesia.\n\nSeventy patients with clinical and electroneurography-verified CTS were randomised to sensory training combined with either an anaesthetic cream (EMLA) (n = 34) or a placebo cream (n = 36) on the volar part of the forearm. The treatment was repeated at increasing intervals over 8 weeks. The primary outcome was the Boston carpal tunnel questionnaire (BCTQ) symptom severity scale after 8 weeks. Secondary outcomes included activity limitations, sensory function, and nerve conduction. This study compared the longitudinal changes between the two groups, and with correction for multiple comparisons it also compared the longitudinal change within the groups.\n\nThere were no significant differences in primary or secondary outcomes between the groups. However, the BCTQ symptom severity scale improved significantly within the EMLAgroup over the 8-week period (p = 0.001). Apart from this, no significant improvements in activity limitations, sensory function, or nerve conduction were seen in the two groups compared to baseline. Altogether, 47% of patients in the EMLAgroup and 61% in the placebo group had been operated on with carpal tunnel release by 12 months.\n\nAn 8-week treatment protocol with cutaneous forearm anaesthesia to guide brain plasticity gave no significant subjective or objective improvements in hand function compared to placebo.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:34:43Z",
+ "retrieved_for": "S-686-43",
+ "redacted": false
+}

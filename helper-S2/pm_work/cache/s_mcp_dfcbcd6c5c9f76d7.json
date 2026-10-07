@@ -1,0 +1,12 @@
+{
+ "query": "Ormandy[Author] AND (amethocaine OR tetracaine OR EMLA OR anaesthesia OR anesthesia OR cannulation)",
+ "max_results": 20,
+ "count": 1,
+ "translation": "Ormandy[Author] AND (\"tetracaine\"[Supplementary Concept] OR \"amethocaine\"[All Fields] OR \"tetracaine\"[MeSH Terms] OR ... OR \"emla\"[All Fields] OR ... OR \"anesthesia\"[MeSH Terms] OR ... OR \"cannulation\"[All Fields] OR \"cannulations\"[All Fields])",
+ "pmids": [
+  "16700163"
+ ],
+ "date_searched": "2026-10-07T23:36:21Z",
+ "searched_for": "S-686-48",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

@@ -1,0 +1,19 @@
+{
+ "pmid": "16856039",
+ "year": "2006",
+ "first_author": "Lander",
+ "title": "EMLA and amethocaine for reduction of children's pain associated with needle insertion.",
+ "journal": "Cochrane Database Syst Rev",
+ "pubtypes": [
+  "Journal Article",
+  "Meta-Analysis",
+  "Systematic Review"
+ ],
+ "doi": "10.1002/14651858.CD004236.pub2",
+ "pmcid": "",
+ "abstract": "Children often experience pain from needle insertion procedures; therefore, several topical anaesthetics have been developed.\n\nTo compare the topical anaesthetics amethocaine and an eutectic mixture of local anaesthetics (EMLA) in terms of anaesthetic efficacy, ease of needle insertion and adverse events when used for intravenous cannulation and venipuncture in children.\n\nAn exhaustive search that included over 30 databases and handsearching reference lists and journals. Language restrictions were not imposed.\n\nRandomized controlled trials were selected that compared EMLA and amethocaine for relieving children's pain from intravenous cannulation or venipuncture.\n\nTwo review authors independently determined eligibility for inclusion by assessing trial quality. Details of eligible studies were summarized. One author was contacted for additional information. Information about adverse events was obtained from the text of the trial reports. Review Manager 4.2 was used to perform a meta-analysis and compute relative risks (RR) with 95% confidence intervals.\n\nSix trials consisting of 534 children, three months to 15 years of age, were included in this review. A meta-analysis was done comparing amethocaine with EMLA on anaesthetic efficacy, ease of needle procedure and resultant skin changes. For anaesthetic efficacy, amethocaine significantly reduced the risk of pain compared to EMLA when all pain data were combined into a common pain metric (RR 0.78, 95% CI 0.62 to 0.98); when pain was self-reported by children (RR 0.63, 95% CI 0.45 to 0.87); or when pain was observed by researchers (sensitivity analysis: RR 0.71, 95% CI 0.52 to 0.96). Compared to EMLA, amethocaine significantly reduced the risk of pain when drugs were applied for the following durations: for 30 to 60 minutes (RR 0.61, 95% CI 0.41 to 0.91); when applied according to manufacturer's instructions (sensitivity analysis: RR 0.64, 95% CI 0.46 to 0.89); and when applied for over 60 minutes (RR 0.70, 95% CI 0.51 to 0.96). Amethocaine was also significantly more efficacious than EMLA when used specifically for intravenous cannulation (RR 0.70, 95% CI 0.55 to 0.88). Insufficient data were available to compare anaesthetic efficacy for venipuncture.A comparison of amethocaine and EMLA for ease of a needle procedure was not significant; only one trial reported data that could be included. For skin changes, EMLA was favoured in the analysis of erythema (RR 14.83, 95% CI 2.28 to 96.36). Erythema was observed after use of amethocaine whereas blanching was observed after using EMLA. Adverse effects included itching and one case of conjunctival irritation.\n\nAlthough EMLA is an effective topical anaesthetic for children, amethocaine is superior in preventing pain associated with needle procedures.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:37:31Z",
+ "retrieved_for": "S-686-48",
+ "redacted": false
+}

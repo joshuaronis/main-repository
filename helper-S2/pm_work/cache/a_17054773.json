@@ -1,0 +1,20 @@
+{
+ "pmid": "17054773",
+ "year": "2006",
+ "first_author": "Leite",
+ "title": "A systematic review of the psychometric properties of the Boston Carpal Tunnel Questionnaire.",
+ "journal": "BMC Musculoskelet Disord",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't",
+  "Systematic Review",
+  "Validation Study"
+ ],
+ "doi": "10.1186/1471-2474-7-78",
+ "pmcid": "PMC1624826",
+ "abstract": "The Boston Carpal Tunnel Questionnaire (BCTQ) is a disease-specific measure of self-reported symptom severity and functional status. It is frequently used in the reporting of outcomes from trials into interventions for carpal tunnel syndrome. We conducted a systematic review of published studies on the psychometric properties of the BCTQ to determine the level of evidence on the instrument's validity, reliability and responsiveness to date.\n\nA search of the databases Medline, CINAHL, AMED and PsychInfo was conducted to retrieve studies which investigated one or more of the psychometric properties of the BCTQ. Data abstraction was undertaken by the first two authors.\n\nTen studies were retrieved which met the inclusion criteria. One study evaluated face and content validity (43 patients) eight studies assessed construct validity (932 patients), four studies tested reliability (126 patients) and nine studies assessed responsiveness (986 patients). Interpretability was evaluated in one study and acceptability in eight studies (978 patients).\n\nThe BCTQ is a standardised, patient-based outcome measure of symptom severity and functional status in patients with carpal tunnel syndrome. The evidence base of the psychometric properties indicates that the BCTQ is a valid, reliable, responsive and acceptable instrument and should be included as a primary outcome measures in future CTS trials.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:36:19Z",
+ "retrieved_for": "S-686-43",
+ "redacted": false
+}

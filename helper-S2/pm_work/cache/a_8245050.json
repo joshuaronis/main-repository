@@ -1,0 +1,19 @@
+{
+ "pmid": "8245050",
+ "year": "1993",
+ "first_author": "Levine",
+ "title": "A self-administered questionnaire for the assessment of severity of symptoms and functional status in carpal tunnel syndrome.",
+ "journal": "J Bone Joint Surg Am",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't",
+  "Research Support, U.S. Gov't, P.H.S."
+ ],
+ "doi": "10.2106/00004623-199311000-00002",
+ "pmcid": "",
+ "abstract": "We developed a self-administered questionnaire for the assessment of severity of symptoms and functional status in patients who have carpal tunnel syndrome. The reproducibility, internal consistency, validity, and responsiveness to clinical change of scales for the measurement of severity of symptoms and functional status were evaluated in a clinical study. The scales were highly reproducible (Pearson correlation coefficient, r = 0.91 and 0.93 for severity of symptoms and functional status, respectively) and internally consistent (Cronbach alpha, 0.89 and 0.91 for severity of symptoms and functional status, respectively). Both scales had positive, but modest or weak, correlations with two-point discrimination and Semmes-Weinstein monofilament testing (Spearman coefficient, r = 0.12 to 0.42). In thirty-eight patients who were operated on in 1990 and were evaluated a median of fourteen months postoperatively, the mean symptom-severity score improved from 3.4 points preoperatively to 1.9 points at the latest follow-up examination, while the mean functional-status score improved from 3 to 2 points (5 points is the worst score and 1 point is the best score for each scale). Similar improvement was noted in twenty-six patients who were evaluated before and three months after the operation. We concluded that the scales for the measurement of severity of symptoms and functional status are reproducible, internally consistent, and responsive to clinical change, and that they measure dimensions of outcomes not captured by traditional measurements of impairment of the median nerve. These scales should enhance standardization of measurement of outcomes in studies of treatment for carpal tunnel syndrome.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:36:19Z",
+ "retrieved_for": "S-686-43",
+ "redacted": false
+}
