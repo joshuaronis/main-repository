@@ -1,0 +1,166 @@
+{
+ "task": "S-685",
+ "searches_already_run": [],
+ "records_already_held": [
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Embase: search for any Heel injectable (Traumeel, Zeel, Lymphomyosot and others) measuring skin blood flow, microcirculation or local anaesthetic vasoconstriction",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Amass BiomedCore (PubMed-derived records + conference abstracts) — Embase substitute",
+   "query": "Heel homotoxicology injectable (Traumeel OR Zeel OR Lymphomyosot OR Engystol OR \"Neuralgo-Rheum\" OR \"Gelsemium Homaccord\") skin blood flow microcirculation vasoconstriction local anaesthetic",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "OpenAlex (full-text search) — Embase substitute",
+   "query": "(Traumeel OR Zeel OR Lymphomyosot OR \"Gelsemium Homaccord\" OR \"Neuralgo-Rheum\" OR homotoxicology) AND (\"blood flow\" OR microcirculation OR \"laser Doppler\" OR vasoconstriction OR perfusion)",
+   "url": null
+  },
+  {
+   "id": "PMID:42067889",
+   "title": "Tr14 gel compared to diclofenac gel after acute unilateral ankle sprain: an Individual Patient Data (IPD) meta-analysis of two multi-center trials.",
+   "year": "2026",
+   "design": "IPD meta-analysis of two RCTs (TAASS 2013, TRAUMED 2024): Tr14 (Traumeel) gel vs diclofenac gel, acute ankle sprain",
+   "n": "628",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42067889/"
+  },
+  {
+   "id": "PMID:23889885",
+   "title": "Traumeel vs. diclofenac for reducing pain and improving ankle mobility after acute ankle sprain: a multicentre, randomised, blinded, controlled and non-inferiority trial.",
+   "year": "2013",
+   "design": "RCT, blinded, non-inferiority: Traumeel ointment / gel vs diclofenac gel 1%, acute ankle sprain, 14 days",
+   "n": "449",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23889885/"
+  },
+  {
+   "id": "PMID:20380750",
+   "title": "Traumeel S for pain relief following hallux valgus surgery: a randomized controlled trial.",
+   "year": "2010",
+   "design": "RCT, double-blind, placebo-controlled: Traumeel tablets after hallux valgus surgery, 14 days",
+   "n": "80",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20380750/"
+  },
+  {
+   "id": "PMID:22504933",
+   "title": "Traumeel S in preventing and treating mucositis in young patients undergoing SCT: a report of the Children's Oncology Group.",
+   "year": "2012",
+   "design": "RCT, double-blind, placebo-controlled, multi-centre (Children's Oncology Group): Traumeel mouth rinse, mucositis after HSCT, ages 3-25",
+   "n": "181 evaluable",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22504933/"
+  },
+  {
+   "id": "PMID:11505416",
+   "title": "A randomized, controlled clinical trial of the homeopathic medication TRAUMEEL S in the treatment of chemotherapy-induced stomatitis in children undergoing stem cell transplantation.",
+   "year": "2001",
+   "design": "RCT, double-blind, placebo-controlled: Traumeel S mouth rinse, chemotherapy-induced stomatitis after stem cell transplantation, ages 3-25",
+   "n": "32 (30 evaluable)",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/11505416/"
+  },
+  {
+   "id": "PMID:33765688",
+   "title": "Comparative Effectiveness of the Homeopathic Preparation Traumeel S in Third Molar Extraction Surgery: A Preliminary Triple-Blind Clinical Trial.",
+   "year": "2021",
+   "design": "RCT, triple-blind, split-mouth, preliminary: Traumeel S injected into the masseter vs dexamethasone, third molar extraction",
+   "n": "17 (split-mouth)",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33765688/"
+  },
+  {
+   "id": "PMID:27478305",
+   "title": "Effects of Traumeel (Tr14) on Exercise-Induced Muscle Damage Response in Healthy Subjects: A Double-Blind RCT.",
+   "year": "2016",
+   "design": "RCT, double-blind, placebo-controlled: Tr14 tablets after downhill running (healthy men)",
+   "n": "96",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27478305/"
+  },
+  {
+   "id": "PMID:24924232",
+   "title": "Exploring effects of a natural combination medicine on exercise-induced inflammatory immune response: A double-blind RCT.",
+   "year": "2014",
+   "design": "RCT, double-blind, placebo-controlled: Tr14 after a strenuous bicycle test (healthy untrained men); immune markers",
+   "n": "80",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24924232/"
+  },
+  {
+   "id": "PMID:28224232",
+   "title": "Effects of Traumeel (Tr14) on recovery and inflammatory immune response after repeated bouts of exercise: a double-blind RCT.",
+   "year": "2017",
+   "design": "RCT, double-blind, placebo-controlled: Tr14 after repeated bicycle tests; immune markers",
+   "n": "not given in the abstract",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28224232/"
+  },
+  {
+   "id": "PMID:25649543",
+   "title": "A multi-center, double-blind, randomized, placebo-controlled trial protocol to assess Traumeel injection vs dexamethasone injection in rotator cuff syndrome: the TRAumeel in ROtator cuff syndrome (TRARO) study protocol.",
+   "year": "2015",
+   "design": "trial protocol (TRARO): Traumeel 2 ml subacromial injection vs dexamethasone 8 mg vs placebo, rotator cuff syndrome; NCT01702233",
+   "n": "at least 160 (planned)",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25649543/"
+  },
+  {
+   "id": "PMID:19370613",
+   "title": "Homeopathic medicines for adverse effects of cancer treatments.",
+   "year": "2009",
+   "design": "Cochrane systematic review: homeopathic medicines for adverse effects of cancer treatments",
+   "n": "8 trials, 664 participants",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19370613/"
+  },
+  {
+   "id": "PMID:24723211",
+   "title": "Myotoxicity of injections for acute muscle injuries: a systematic review.",
+   "year": "2014",
+   "design": "systematic review: myotoxicity of intramuscular injections for acute muscle injuries",
+   "n": "49 studies",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24723211/"
+  },
+  {
+   "id": "PMID:41305573",
+   "title": "Nutritional and Supplemental Interventions for Prevention and Treatment of Oral Mucositis in Pediatric Oncology.",
+   "year": "2025",
+   "design": "systematic review: nutritional and natural interventions for oral mucositis in paediatric oncology (Traumeel S among the rinses)",
+   "n": "20 RCTs, 1430 patients",
+   "database": "PubMed",
+   "query": "Traumeel[Title/Abstract] AND (Randomized Controlled Trial OR Meta-Analysis OR Systematic Review)[pt]",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41305573/"
+  }
+ ]
+}

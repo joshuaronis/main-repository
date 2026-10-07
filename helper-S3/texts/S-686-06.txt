@@ -1,0 +1,1762 @@
+
+===== PDF PAGE 1 of 29 =====
+     
+Permeation and dynamics of an open-activated TrpV1 channel
+
+Leonardo Darre, Simone Furini, Carmen Domene
+
+PII:               S0022-2836(14)00612-3
+DOI:               doi: 10.1016/j.jmb.2014.11.016
+Reference:         YJMBI 64629
+
+To appear in:      Journal of Molecular Biology
+
+Received date:     21 June 2014
+Revised date:      28 September 2014
+Accepted date:     20 November 2014
+
+
+
+
+Please cite this article as: Darre, L., Furini, S. & Domene, C., Permeation and dy-
+namics of an open-activated TrpV1 channel, Journal of Molecular Biology (2014), doi:
+10.1016/j.jmb.2014.11.016
+
+
+
+
+This is a PDF ﬁle of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its ﬁnal form. Please note that during the production process
+errors may be discovered which could aﬀect the content, and all legal disclaimers that
+apply to the journal pertain.
+
+===== PDF PAGE 2 of 29 =====
+                               ACCEPTED MANUSCRIPT
+
+
+
+
+Permeation and dynamics of an open-activated TrpV1 channel
+
+
+
+
+                                                                               PT
+Leonardo Darrea, Simone Furinib, and Carmen Domenea,c,1
+a
+    Department of Chemistry, King’s College London, Britannia House, 7 Trinity Street, London SE1 1DB, UK
+
+
+
+
+                                                                          RI
+b
+    Department of Medical Biotechnologies, University of Siena, viale Mario Bracci 16, I-53100, Siena, Italy
+
+
+
+
+                                                                  SC
+c
+    Chemistry Research Laboratory, Mansfield Road, University of Oxford, Oxford OX1 3TA, UK
+1
+    Corresponding author: carmen.domene@kcl.ac.uk
+
+
+
+
+                                                           NU
+Tel: +44 - (0) 2078483868
+                                                   MA
+                                             D
+                         P             TE
+                      CE
+                    AC
+
+
+
+
+1
+
+===== PDF PAGE 3 of 29 =====
+                             ACCEPTED MANUSCRIPT
+
+
+
+
+Abstract
+
+
+
+
+                                                                              PT
+Transient receptor potential (TRP) ion channels constitute a large and diverse protein family, found in yeast and
+widespread in the animal kingdom. TRP channels work as sensors for a wide range of cellular and environmental
+signals. Understanding how these channels respond to physical and chemical stimuli has been hindered by the
+
+
+
+
+                                                                         RI
+limited structural information available until now. The three-dimensional structure of the vanilloid receptor 1
+(TRPV1) was recently determined by single particle electron cryo-microscopy, offering for the first time the
+
+
+
+
+                                                                 SC
+opportunity to explore ionic conduction in TRP channels at atomic detail. In this study, we present molecular
+dynamics simulations of the open-activated pore-domain of TRPV1 in the presence of three cationic species: Na+,
+
+
+
+
+                                                         NU
+Ca2+ and K+. The dynamics of these ions while interacting with the channel pore allowed us to rationalize their
+permeation mechanism in terms of a pathway involving three binding sites at the intracellular cavity, and the
+extracellular and intracellular entrance of the selectivity filter. Furthermore, conformational analysis of the pore in
+                                                 MA
+the presence of these ions reveals specific ion-mediated structural changes in the selectivity filter, which influences
+the permeability properties of the TRPV1 channel.
+                                            D
+                       P             TE
+                    CE
+                  AC
+
+
+
+
+2
+
+===== PDF PAGE 4 of 29 =====
+                                ACCEPTED MANUSCRIPT
+
+
+
+
+Introduction
+Transient receptor potential (TRP) channels constitute a superfamily of cation channels characterized by their
+
+
+
+
+                                                                                PT
+remarkable diversity in ionic selectivity and activation mechanisms, responding to a wide range of chemical and
+physical stimuli [1]. They participate in a plethora of functions in excitable and non-excitable cells playing a critical
+
+
+
+
+                                                                          RI
+role in sensory physiology. Furthermore, they act both at the cell (synaptic activity and secretion of hormones) and
+organismic (touch, hearing, taste, olfaction, vision and thermal sensation) levels in animals ranging from worms to
+
+
+
+
+                                                                  SC
+humans [1]. Such widespread physiological activity translates into a tremendous potential for TRP-associated
+channelopathies. In fact, several hereditary diseases caused by defects in TRP genes have been described (i.e.
+
+
+
+
+                                                          NU
+Charcot-Marie-Tooth type 2C, stationary night blindness, lateral sclerosis/parkinsonism dementia complex, familial
+heart block type I, polycystic kidney disease) [2]. Accordingly, TRP channels constitute a major pharmacological
+target, and the elucidation of the mechanisms underlying their response to physiological stimuli or drugs is key for
+                                                  MA
+notable advances in human disease treatment. Advances in such direction have been limited by the lack of
+experimental structural data. This barrier has been recently overpassed by the determination of the three-dimensional
+structure of the vanilloid receptor 1 (TRPV1) by means of single particle electron cryo-microscopy [3].
+                                            D
+
+TRPV1 is the main representative of a subfamily of thermosensitive TRP channels that enable somatosensory cells
+                                     TE
+
+
+to detect temperature changes in the environment, being activated by pernicious high temperatures. Additionally,
+tissue damage and inflammation products modulate the channel by decreasing its thermal activation threshold
+                       P
+
+
+
+
+(~43ºC). This feature makes the TRPV1 channel an essential player in the molecular mechanisms responsible for
+                    CE
+
+
+
+
+injury-related hyperalgesia and pain hypersensitivity (see [4] and references therein). A daily example of its
+physiological function comes from its activity as receptor of capsaicin, the molecule responsible for the burning pain
+induced by chili peppers [5].
+                  AC
+
+
+
+
+As previously suggested for the family of TRP channels [6], the TRPV1 structure revealed an overall trans-
+membrane tetrameric topology that resembles that of voltage-gated channels, and exhibits a four-fold symmetry
+arrangement of the subunits around a central ion pore. Each subunit consists of six trans-membrane α-helices (S1–
+S6) plus a re-entrant loop-helix domain located between S5 and S6, which adopt a cone shaped arrangement that
+forms the selectivity filter (SF). Segments S5, S6 and the SF domain constitute the central pore of the channel,
+which is flanked by a voltage-sensor-like domain formed by the S1-S4 segments [3]. The structure also provides
+details of TRP-specific domains: (i) four ankyrin repeats at the N terminus, reported to be responsible for multiple
+ligand binding and modulation of the channel sensitivity [7], (ii) the P360–V415 linker, conserved among TRPV
+subtypes, and which connects the ankyrin repeats to the S1 helix, and (iii) an extended and kinked interfacial helix
+following S6, which corresponds to the signature ‘TRP domain’ found in many TRP channels [1].
+
+Permeability of different ions through TRPV1 was assessed by Caterina et al. [5] who described a preference of
+
+
+
+
+3
+
+===== PDF PAGE 5 of 29 =====
+                             ACCEPTED MANUSCRIPT
+
+
+
+
+TRPV1 for divalent species (Ca2+ and Mg2+) over monovalent ions (Na+, K+ and Cs+) with negligible differences
+among these. More recently, a ‘dynamic selectivity’ view has been proposed where the permeability to different
+
+
+
+
+                                                                                PT
+cationic species varies in a time- and agonist concentration-dependent manner [8]. In this model, such selectivity
+changes would be accompanied by structural rearrangements at the SF. From a mechanistic point of view, the wider
+
+
+
+
+                                                                        RI
+diameter of the pore compared to the diameter of the cations argues against a sieving phenomenon. One
+characteristic of TRPV channels worth noting is the presence of negatively charged residues in the outer region of
+
+
+
+
+                                                                 SC
+the SF, which could act as a basin for cation attraction. In fact, in the case of the highly Ca 2+ selective TRPV6
+channel, the ionic selectivity is achieved by high affinity binding to carboxylate groups at the SF [9]. A similar
+
+
+
+
+                                                         NU
+scenario, involving residue D646, has been proposed to explain Ca 2+ selectivity in TRPV1.
+
+In the present work, by means of molecular dynamics simulations and the recently published structure of the TRPV1
+                                                 MA
+channel in the open-activated conformation (Protein Data Bank entry 3J5Q) the aim is to build up on our knowledge
+of permeation properties of ion channels [10–21]. In order to gain atomistic insight into the cationic specific
+permeation phenomena, three ionic solutions were considered: NaCl, KCl and CaCl 2.
+                                           D
+
+Results
+                                    TE
+
+
+Molecular Dynamics (MD) simulations of the pore-domain of the TRPV1 channel inserted in a model lipid bilayer
+have been carried in the presence of 150 mM of NaCl, KCl and CaCl 2. Two independent MD trajectories were
+simulated for each ion configuration, for a cumulative simulation time of 1.6 μs. Compared to the experimental
+                       P
+
+
+
+
+structure, the simulated protein lacks helices S1-S4 and the intracellular domain of the channel. Neglecting the
+                    CE
+
+
+
+
+voltage sensor and the intracellular domain was shown to destabilize the open state of the intracellular gate in other
+ion channels [22]. Therefore, as we would like to study conduction events, closure of the intracellular gate was
+                  AC
+
+
+
+
+prevented by applying weak harmonic potentials that restrained the Cα atoms of the inner and outer helices to their
+experimental positions (see Methods section). These restraints are not expected to affect the permeation properties
+of the channel on the time scales considered in this study. In addition, the experimental structure of the open-
+activated state of TRPV1 included the vanilloid agonist resiniferatoxin (RTX) and the vanillotoxin DkTx, both
+absent in the simulation models. RTX causes the opening of the intracellular gate, as evidenced by a comparison
+with the apo structure of TRPV1. Since the intracellular gate was harmonically restrained to the open-state during
+the simulations, the absence of RTX is unlikely to modify the results. DkTX was used in the experiments to trap the
+channel in the open-activated state, preventing the frequent transitions of the channel toward the inactivated state
+[23]. Channel inactivation is a slow process compared to the time-scale of the MD simulations presented in this
+study. Therefore, the absence of DkTX will not affect the conformational state of the protein, and in addition, it
+allows us to sample the dynamics of the SF in a relevant physiological state.
+
+The root mean square deviation (RMSD) of the protein backbone atoms stabilized in a few nanoseconds, and all the
+
+
+
+
+4
+
+===== PDF PAGE 6 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+secondary structural elements observed in the experimental structure were preserved during the MD trajectories
+(Figure S1 in Supplementary Material). Two regions with high affinity for cations were observed along the pore of
+
+
+
+
+                                                                              PT
+TRPV1; they correspond to the intracellular cavity and the SF respectively (Figure 1). The region in the channel
+cavity with high affinity for cations, denoted SC, extends from residues I679 at the intracellular side, to residues
+
+
+
+
+                                                                        RI
+Y671 at the extracellular side. In the presence of K + or Na+ ions, SC switches between an empty state and single
+occupancy (75% and 61% of the time for Na+ and K+ respectively). In contrast, SC is always occupied by an ion
+
+
+
+
+                                                                 SC
+which entered the cavity during the equilibration process in the simulations with Ca 2+ ions. The cation-binding
+region at the inner entrance of the SF, denoted SF1, is centered at the carbonyl oxygen atoms of residues G643,
+
+
+
+
+                                                         NU
+while at the outer entrance of the permeation pathway, the SF is lined by eight negatively charged residues (D646
+and E648). This excess of negative charge density defines a highly attractive region for cations, denoted SF2. In
+simulations with Na+ ions, SF1 was found empty or occupied by one ion most of the time (respectively 51% and
+                                                  MA
+47%), while SF2 was occupied by two, three, or four ions with simulation time percentages of 22%, 42%, and 30%,
+respectively. In the presence of K + ions, the most likely configurations were with SF1 empty (20%) or occupied by a
+single ion (72%), and SF2 doubly (38%) or triple (39%) occupied by ions. Configurations with two K + ions in SF1
+                                            D
+
+(9%), and two ions (9%) or four ions (12%) in SF2 were also observed. In contrast, in the simulation with Ca 2+ ions,
+                                     TE
+
+
+no ion reached the binding region SF1. Instead, the outer region SF2 was mostly occupied by two ions (97%). A
+similar situation was observed in simulations without restraints on the inner and outer helices (Figure S2), which
+                       P
+
+
+
+
+supports the hypothesis that the restraints adopted to prevent the closure of the intracellular gate have marginal
+effects on the ion binding properties of the SF. The energy maps and the ion occupancies shown in Figure 1 were
+                    CE
+
+
+
+
+calculated considering the data collected from two independent trajectories for each ion configuration. Similar
+results were obtained when the two trajectories were analyzed separately (Figure S3).
+                  AC
+
+
+
+
+The dynamics of the ions during the simulation for the three systems considered was analyzed in the neighborhood
+of the protein by identifying those ions that got close to protein residues facing the pore (< 4 Å), and measuring the
+projection along the channel-axis of their coordinates (Figures S4-S6). For the sake of clarity, the permeation
+properties of each ion species are described considering a single MD trajectory of 200 ns. The same results were
+observed in a second set of simulations. The data for this second set of trajectories are included in the
+Supplementary Material. Three complete permeation events are observed in the simulations with Na + and K+ ions.
+No permeation events are observed in the simulations with Ca2+ which binds to SF2 from the extracellular domain
+and to SC from the intracellular region; no transitions are observed between those sites either. Subsequently, the
+dynamical behavior of individual ions was analyzed in detail to gain further insight into any specific characteristics
+of the permeation events, and it is described next.
+
+Simulations with Na+
+
+
+
+
+5
+
+===== PDF PAGE 7 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+Figure 2a shows the position along the permeation pathway of the three Na+ ions that permeate the pore (Na+i, Na+ii
+and Na+iii). The permeation of a Na+ ion can be rationalized as a four-stage process which involves an initial contact
+
+
+
+
+                                                                                PT
+with the channel, followed by migration through three main binding sites, referred here as SC, SF1 and SF2. The
+number of simultaneous ions observed in sites SC and SF1 is mainly one or none (Figure 1b). Indeed, the entrance
+
+
+
+
+                                                                           RI
+of Na+ii (Figure 2a, blue trace) into SC occurs only after Na +i (magenta trace) migrates from SC to SF1. Likewise,
+the occupation of SC by Na+iii (red trace) only happens after Na+ii moves to SF1. The number of simultaneous Na+
+
+
+
+
+                                                                   SC
+ions in SF2 can be up to four, suggesting that release of a given ion from this site (or the entrance in the reversed
+direction of the ionic current) can occur in the presence of other ions.
+
+
+
+
+                                                           NU
+To understand the pattern of interactions that gives rise to these permeation events, the distances of all residues close
+to a given ion during the 200-ns simulation time was analyzed (Figure 2b-d). For the three Na+ ions, the beginning of
+                                                  MA
+the permeation process starts with transient contacts (maximum of ~2 ns) involving residue E684, and with
+contributions of G683 and V686 from the adjacent chain. This initial contact is followed by the entrance to the SC
+region, after passing the boundary imposed by I679. During this period, which spans resident times on the order of
+tens of nanoseconds (Na+i ~ 30 ns, Na+ii ~15 ns, Na+iii ~ 30 ns), the ion contacts involve primarily residues N676 and
+                                             D
+
+Y671, with interaction times ranging from tens of picoseconds up to one nanosecond, approximately. These
+                                     TE
+
+
+
+transient periods indicate that SC does not offer a strong binding site for Na+ ions.
+
+The next step in the permeation process is the migration from SC to SF1, which is a binding site defined by the
+                       P
+
+
+
+
+carbonyl oxygen atoms of residues G643. Ions remain in this site for times ranging from several hundreds of
+                    CE
+
+
+
+
+picoseconds (Na+i: Figure 2a, magenta trace and Figure 2b) to over 25 ns (Na +iii: Figure 2a, red trace and Figure 2d).
+The final step occurs when the Na+ ion moves from SF1 to SF2, before being finally released at the other side of the
+membrane. SF2 offers multiple pinning sites for Na+ ions, which are defined by the backbone oxygen atoms of
+                  AC
+
+
+
+
+M644 and G645, and the carboxylate oxygen atoms of D646 and E648. Once out of the pore, other interacting sites
+are observed including E600 and D654 at the extracellular region, and E570 at the intracellular region (Figure S7).
+Such residues are located more than 20 Å away from the permeation pathway, and consequently, they are not likely
+to be directly involved in the permeation process.
+
+To complement the description of the environment of Na + ions moving across the channel, the coordination number
+and the contributors to the first coordination shell of the cations were assessed (Figure S8a-c). Four levels of
+dehydration are observed while the ion travels from the intracellular solution through the protein and to the
+extracellular milieu, corresponding to the loss of one, two, three and four water molecules. Nevertheless, the total
+number of oxygen atoms in the first coordination shell of the ion remains constant when considering the oxygen
+atoms contributed by the protein. After migrating from SC to SF1, one or two water molecules are substituted by
+carbonyl oxygen atoms from residues G643. An example of this situation can be observed for Na+ii (Figures 2c and
+
+
+
+
+6
+
+===== PDF PAGE 8 of 29 =====
+                             ACCEPTED MANUSCRIPT
+
+
+
+
+S8b) which jumps between the G643 carbonyl oxygen atoms of the four channel subunits following the sequence I
+→ IV → II → IV → II/III → IV → II → IV → II, where protein chains are labeled from I to IV, and being I/III and
+
+
+
+
+                                                                               PT
+II/IV opposite to each other. A similar pattern was observed for the other permeating Na + ions. According to this,
+when a Na+ ion is in SF1, it resides generally close to the ‘wall’ of the pore, rather than at its center. However,
+
+
+
+
+                                                                          RI
+configurations with ions aligned with the pore axis are also possible, as observed in simulations of Na + selective
+channels [16, 24]. This picture is consistent with the observation of two energy minima in SF1, localized at ~1.5 Å
+
+
+
+
+                                                                  SC
+from the pore axis, and close to the axis of the pore (energy map in Figure 1b, and occupation densities in Figure
+S9a-b). To characterize the energy minimum centered on the channel axis, the position of Na +iii in the x-y plane,
+
+
+
+
+                                                          NU
+orthogonal to the permeation axis, was tracked (Figure S10a). Several short time windows (<1 ns) between 114-123
+ns are observed, where both x and y coordinates are close to zero. During these periods, a fully hydrated first shell is
+only altered by transient contacts with G643 oxygen atoms (Figure S10b-c). When the ion is localized in SF2,
+                                                    MA
+residues M644, G645 and D646 dominate the interactions, and desolvation levels of up to four water molecules are
+detected. For example, Na+i loses three water molecules in its first solvation shell when interacting simultaneously
+with M644, G645 and D646 at ~55 ns, whereas it loses up to four water molecules when it interacts with D645,
+                                            D
+
+L647 and E648 at ~80 ns (Figure S8a). At this stage, the interactions with the channel occur in general with one
+                                     TE
+
+
+chain at a time (Figure 2b-d). Compared to SF1, there is a similar effect on the position of the ions, as they are
+mainly localized close to the ‘wall’ of the pore. This is confirmed by the minimum between G645 and D646 in the
+                       P
+
+
+
+
+free energy landscape (Figure 1b), and the corresponding occupation density map (Figure S9a-b).
+                    CE
+
+
+
+
+The ions previously analyzed correspond to those that effectively diffuse across the channel. However, several other
+ions interact strongly, for tens of nanoseconds, with the channel at SF1 and SF2 during the simulation (Figure S4).
+To evaluate the effect of such binding on the conformation of the pore, the RMSD in the region of SF1 and SF2 was
+                  AC
+
+
+
+
+measured (Figure 3a). The main observation is a conformational change taking place at ~140 ns. Snapshots of the
+SF for six conformations during the simulation (one every 40 ns) are shown in Figure 3b. While the relative
+positions of chains I and IV remain close to their initial configuration, chains II and III come close to each other,
+which in turn increases the distance between III and IV and decrease the distance between chains II and IV (see
+black arrows indicating the direction of motion).
+
+The conformational changes of the SF are correlated with the position of the ions close to the pore. Indeed, two ions
+are localized in between opposite pairs of chains, interacting mainly with D646, and clamping the conformation of
+SF2 in an arrangement where two opposite pairs of chains are close to each other, while the remaining two pairs are
+more distant (Figure 3c). The stabilization of the I-IV distance at the experimental value correlates with the binding
+of one Na+ ion to D646 in chains I and IV (~100 ns), as shown by the black arrow in Figure 3d (the distance of such
+ion to the protein residues is shown in Figure S11a). Another cation binds initially to D646 of chain III at
+
+
+
+
+7
+
+===== PDF PAGE 9 of 29 =====
+                               ACCEPTED MANUSCRIPT
+
+
+
+
+approximately 110 ns, and it is then coordinated first by D646 of chain II, and subsequently by the carbonyl oxygen
+atom of L647 of the same chain (Figure S11b). The accomplishment of the dual binding occurs just before 150 ns,
+
+
+
+
+                                                                               PT
+when the II-III distance decreases to a value close to the experimental one. These events are summarized in Figure
+3d where the relative motions of chains and ions are shown. The same picture of ion permeation emerged from a
+
+
+
+
+                                                                         RI
+second MD trajectory of 400 ns. Results for this second simulation are included as Supplementary Material (Figure
+S12 corresponds to Figure 2, Figure S13 to Figure 3, and Figure S18 to Figure S8). Remarkably, the same structural
+
+
+
+
+                                                                  SC
+changes of the SF were observed in this second simulation, with Na + ions binding between adjacent chains in SF2
+and clamping together these chains (Figure S13c-d).
+
+
+
+
+                                                          NU
+Simulations with Ca2+
+To gain insight into the dynamics of Ca2+ ions interacting with the pore channel, three examples were selected
+                                                  MA
+among the binding events detected during the simulation and summarized in Figure S5. These events correspond to
+the binding of two Ca2+ ions (Ca2+i and Ca2+ii) in SF2 (Figure 4a, blue and cyan traces) and a third Ca 2+ (Ca2+iii) in
+SC (Figure 4a, red trace). Ions in SF2 were stable, while the ion in SC exhibited a much higher mobility. A Cl - ion
+(magenta trace) also entered SC, and remained at this site for almost 100 ns. The distances between the Ca 2+ ions
+                                            D
+
+and the center of mass of the oxygen atoms of the residues of the pore are shown in Figures 4b-d. These profiles
+                                        TE
+
+
+
+show that Ca2+i and Ca2+ii are coordinated by the carboxylate groups of two D646 residues from adjacent chains.
+Additional weaker interactions (distance >4 Å) are observed with the backbone oxygen atoms of M644 and G645. In
+                        P
+
+
+
+
+the case of Ca2+iii, localized at SC, the pattern of contacts shows that only transient contacts with N676 and Y671 are
+                     CE
+
+
+
+
+formed. This is in agreement with the desolvation pattern occurring upon binding (Figure S8d-e). In the case of
+Ca2+i, two water molecules from the coordination shell are lost when the ion binds to D646 from chain II, followed
+by a further reduction of two water molecules when D646 from chain III interacts with Ca 2+i. The total number of
+                   AC
+
+
+
+
+coordinated oxygen atoms from water and protein remains constant in the first coordination shell. In the case of
+Ca2+iii, a reduction of two water molecules occurs in the time window between ~55-155 ns with no compensation by
+the protein oxygen atoms (black and red lines superimpose almost perfectly). This time window coincides with the
+period when a Cl- ion is localized in SC, altering the solvation of the Ca 2+ ion. Figure S9c shows the structure of the
+permeation pathway along with occupation iso-surfaces of the three Ca2+ ions, providing a structural picture of the
+localization of the ions in the pore.
+
+The stability of Ca2+ binding at SF2 raises questions about the specific structure of the SF region, also considering
+the structural effect that Na+ binding has in the SF. To account for this, the RMSD of the backbone atoms of the SF
+residues G643 to E648 was calculated (Figure 5a). The general trend observed is seemingly a conformational change
+after ~110 ns, with RMSD value changing from 1.5 Å to 1.9 Å. An illustration of such changes is depicted in
+Figures 5b and 5d, where the protein structure and the position of ions Ca 2+i and Ca2+ii are shown superimposed in
+
+
+
+
+8
+
+===== PDF PAGE 10 of 29 =====
+                             ACCEPTED MANUSCRIPT
+
+
+
+
+six frames from the simulation (one every 40 ns). Ca2+i, which initially interacts only with D646 of chain II, at ~110
+ns moves toward residue D646 of chain III, forming a double salt-bridge (notably in the same manner that Ca2+ii
+
+
+
+
+                                                                               PT
+does), which is stable for the remaining of the simulation (Figure 4b-d). At the same time the distance between
+chains II and III decreases to the same value observed for chains I and IV, which are also linked by a Ca 2+ ion
+
+
+
+
+                                                                          RI
+(Ca2+ii). This indicates that such binding could stabilize the conformation adopted by the SF with pairs of adjacent
+chains clamped together by a Ca2+ ion. Identical results were observed in a second MD trajectory of 400 ns (Figure
+
+
+
+
+                                                                  SC
+S14 corresponds to Figure 4, Figure S15 to Figure 5, and Figure S18 to Figure S8).
+
+Simulations with K+
+
+
+
+
+                                                          NU
+The same analysis presented for Na+ and Ca2+ ions in the previous sections will be described for K + in what follows
+in order to have a complete computational description of the most biologically relevant cations. Although during the
+                                                  MA
+simulation it was observed that many K+ ions interact with the conduction pore, only one ion (K +i) is actually able to
+permeate the channel, another ion occupies extensively site SC (K +ii), and several other ions briefly interact with the
+SF domain (Figure 6 and S6). These observations are illustrated in the occupation density maps of K +i and K+ii
+                                            D
+
+which provide a tridimensional picture of the localization of the ions during the permeation process (Figure S9d).
+The trajectory of the permeating ion is similar to the ones observed for Na + ions (Figure 6a). The main difference is
+                                        TE
+
+
+
+that K+i enters straightaway in SC, without any prior contact with any residue. Once inside the cavity, K +i interacts
+weakly with residues N676 and Y671, like it was also observed for both Na + and Ca2+. Before migrating to SF1/SF2,
+                       P
+
+
+
+
+two returning events are observed where transient interactions with G643 induce jumps between SC and SF1. In the
+                    CE
+
+
+
+
+latest of those jumps, K+i migrates to SF2 where it stays for a brief period of time (~4 ns), and subsequently escapes
+to the other side of the membrane.
+                  AC
+
+
+
+
+Isolated desolvation events are observed in SC for K+ ions. These events correspond to one water molecule of the
+first solvation shell being substituted by the carbonyl oxygen atom of N676 or by the hydroxyl oxygen of Y671
+(Figures S8f-g). While in SF1, the ion shows desolvation levels of one and two water molecules from the first
+solvation shell, corresponding to single and double simultaneous coordination of K +i by the carbonyl oxygen atom of
+G643 from different chains. It is worth noting that in the final SF1 binding event, a triple coordination of K+i by
+G643 is observed which is able to induce desolvation of three water molecules, an event that was never observed for
+Na+ ions. To further confirm this behavior, the total number of oxygen atoms contributed by protein residues to the
+ion coordination shell was computed for all the ions in each binding site (Figure 7). In agreement with the previous
+observation, while a Na+ ion is coordinated by one or two oxygen atoms in SF1, K + frequently reaches values of two
+and three, and although significantly less frequently, events where all four chains come together to make contact
+with a single K+ in SF1 are possible.
+
+To complete the analysis, changes in the structure of the SF and the potential effects on its conformation by the
+
+
+
+
+9
+
+===== PDF PAGE 11 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+binding of ions were analyzed. In Figure 8a, the RMSD of the SF is presented; fluctuations are observed around
+~1.6 Å from the experimental structure without net conformational changes. Figure 8b shows six superimposed
+
+
+
+
+                                                                                PT
+structures of the SF taken every 40 ns, in order to describe the conformational sampling of such fluctuations. In
+accordance with the RMSD values, no clear relative motions of the chains are observed. In contrast, the chains
+
+
+
+
+                                                                          RI
+fluctuate around positions close to the initial conformation. This is significantly different to what it was described
+for Na+ and Ca2+ ions, where relative chain displacements were observed, leading to conformations that consisted of
+
+
+
+
+                                                                  SC
+a dimer of dimers (I-IV and II-III) with inter-chain distances either similar or greater than the experimental value
+(Figures 3c and 5c). Instead, in the presence of K + ions, the four chains fluctuate collectively, without any noticeable
+
+
+
+
+                                                          NU
+asymmetric behavior (Figure 8c).
+
+Considering that an asymmetric behavior appears to be enhanced by the binding of Na + and Ca2+ ions to SF2, it is
+                                                  MA
+also worth analyzing the binding of K+ ions in order to identify any relevant differences. Figure 8d illustrates that K +
+ions are uniformly distributed in SF2, contrary to the picture for Na + and Ca2+, where two ions are coordinated by
+pairs of adjacent chains (Figures 3d and 5d). A more stringent test for such observation is the calculation of the
+pattern of ion interactions close to SF2. When considering the Na + and Ca2+ systems, two ions strongly interact with
+                                            D
+
+two chain pairs (I-IV and II-III) simultaneously, and a specific conformation of SF2 is observed. In contrast, only
+                                     TE
+
+
+
+one K+ ion engages in an interaction with a chain pair in the SF2 site (I-IV) for approximately 40 ns (Figure S11c).
+This time scale appears insufficient to induce the conformational changes observed in the case of the other two
+                       P
+
+
+
+
+cations. Moreover, such structural change observed for Na + and Ca2+ seems to require the binding of two ions to SF2
+                    CE
+
+
+
+
+instead of only one, as observed for K+. However, it is worth noting that when K+ establishes a dual interaction, the
+distance between the corresponding chains is close to the experimental value (Figure 8c, ~50 ns blue trace). A
+second MD trajectory of 200 ns provided similar results (Figure S16 corresponds to Figure 6, Figure S17 to Figure
+                  AC
+
+
+
+
+8, and Figure S18 to Figure S8). Since the structure of the filter in simulations with K+ ions did not exhibit any net
+structural change, but only thermal oscillations, the total simulated time was lower for K + compared to Na+ and Ca2+
+(400 ns versus 600 ns).
+
+Discussion
+The experimental tridimensional structure of TRPV1 is of the utmost importance for improving our current
+understanding of ion channels belonging to the Transient Receptor Potential family. In order to understand how ion
+conduction takes place at the atomic level, it is necessary to complement the experimental structural data with
+dynamical information, a description of the ion binding sites and of the permeation pathway. The MD simulations
+presented in this study reveal the presence of three main binding sites for cations along the pore of TRPV1, one
+corresponding to the intracellular cavity of the channel, and the other two to the intracellular and extracellular
+entrances of the SF. The binding site in the intracellular cavity is similar to the analogous site observed in other ion
+
+
+
+
+10
+
+===== PDF PAGE 12 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+channels, for instance K+ channels [25] , Na+ channels [26], or the NaK channel [27]. Despite the gating mechanism
+of TRPV1 seems slightly different from that of voltage-gated channels, in both cases, the intracellular cavity
+
+
+
+
+                                                                                 PT
+corresponds to a wide attractive region where cations are free to diffuse. This is a consequence of the conserved
+architecture among diverse ion channels, which makes the intracellular cavity continuous with the cytoplasm,
+
+
+
+
+                                                                           RI
+reducing the actual permeation pathway to the sole SF.
+
+
+
+
+                                                                    SC
+The outer entrance of the SF exerts an electrostatic attraction on cations due to the presence of two rings of acidic
+residues formed by E648, and D646 close to the permeation pathway. While the presence of binding sites for cations
+in this region was largely expected, the MD trajectories revealed some unpredictable effects of ion binding on the
+
+
+
+
+                                                           NU
+structure of the SF. Potassium ions diffuse easily in this region, with binding events of K + ions to D646 lasting from
+a few picoseconds to up to 10 ns, with only one exception of a ~40 ns long binding event. Instead, several binding
+                                                   MA
+events of Na+ ions to D646 with residence times above 100 ns were sampled. The different behavior observed
+between Na+ and K+ ions might be a consequence of the difference in size, which stabilizes Na + binding to high-
+field-strength sites, like the side chain of glutamate residues [28]. The stable binding of Na+ ions to residue D646 is
+correlated with a structural change of the SF. Na+ ions act as bridges between adjacent chains of the SF, linking
+                                             D
+
+together D646 residues from two adjacent chains. This conformation of the SF can be described as a dimer of
+                                      TE
+
+
+
+dimers, as opposed to a symmetric homo-tetramer. An asymmetric structure of the SF is in sharp contrast to the
+symmetric structure observed experimentally, a property that was instead preserved in simulations with K + ions.
+                       P
+
+
+
+
+Therefore, the simulations suggest that the structure of the SF changes in response to the permeating ions.
+                    CE
+
+
+
+
+Permeation of Na+ and K+ ions entails the presence of a third binding site at the inner entrance of the SF. In the case
+of K+ ions, this intracellular binding site is similar to the analogous region in Na + selective channels, namely a large
+                  AC
+
+
+
+
+site (diameter ~8 Å) surrounded by carbonyl oxygen atoms, with a symmetric architecture. Instead, in the presence
+of Na+ ions, the symmetry of the SF is broken also at its intracellular entrance. However, this does not prevent the
+binding of ions to this region, and rapid transitions to/from the intracellular cavity or the extracellular side of the SF.
+The situation is completely different in simulations with Ca 2+ ions. We did not observe any Ca2+ ion reaching the
+intracellular entrance of the SF. There are several possible reasons for this, which are not mutually exclusive. Firstly,
+transitions of Ca2+ ions to this region might be lacking because the simulated trajectories are not long enough.
+However, numerous binding events of K+ and Na+ ions in this region were sampled during identical simulation time,
+which makes this explanation unlikely. An alternative hypothesis is that Ca 2+ ions are poorly described in the model
+adopted for the simulations [29]. In particular, in the case of divalent Ca2+ ions, the absence of polarization effects in
+the adopted force field might result in simulation artifacts [30–32]. However, non-polarizable force fields were able
+to describe permeation of Ca2+ ions in bacterial Na+ channels [33, 34]. Calcium ions entered the SF of Na+-channels,
+reaching the intracellular entrance, in simulations of comparable length of the ones presented here. The filter of Na +-
+
+
+
+
+11
+
+===== PDF PAGE 13 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+channels and TRPV1 are similar, with an intracellular entrance lined by carbonyl oxygen atoms, and an extracellular
+entrance surrounded by acidic residues [35]. Therefore, it is unlikely that inaccuracies of the force fields prevent the
+
+
+
+
+                                                                                 PT
+passage of Ca2+ ions through the calcium selective TRPV1 channel, and not in a Na + selective one. A final
+hypothesis to explain the lack of permeation in the simulations with Ca2+ ions is that this is a consequence of the
+
+
+
+
+                                                                            RI
+TRPV1 structure and its dynamics. The transition to an asymmetric structure observed in the simulations with Na +
+ions, is even more extreme in simulations with Ca2+ ions. An ion approaching the SF from the intracellular cavity
+
+
+
+
+                                                                    SC
+gets into contact with a highly asymmetric binding site, with a minimum distance between opposite side chains close
+to 7 Å. At the same time, on the extracellular side, the entrance of the SF is lined by two Ca2+ ions, which are stably
+
+
+
+
+                                                           NU
+bound to residues D646. The distance between these Ca 2+ ions is ~7 Å, while the analogous Na+ ions are ~12 Å
+apart. This might explain why Na+ ions were able to reach the intracellular side of the SF, while this transition was
+forbidden for Ca2+ ions. This hypothesis implies that the structure of the SF of TRPV1 permeable to Ca 2+ ions is not
+                                                   MA
+the one observed experimentally, nor the one sampled in our MD trajectories. In other words, a structural change has
+to take place in the SF to increase its permeability to Ca 2+, and this transition is still missing in our simulations.
+Transitions of TRPV1 between states with different ion selectivity were already observed experimentally [8].
+                                             D
+
+In summary, the simulations presented in this study reveal a unique feature of the TRPV1 channel, the high
+                                      TE
+
+
+
+flexibility of its SF. The channel was permeable to Na + and K+ ions, but the structure of the SF was different in these
+two cases. In addition, permeation events were not observed for Ca 2+ ions, and this led to the hypothesis that further
+                       P
+
+
+
+
+conformational changes of the SF are required to allow Ca 2+ permeability. The lack of hydrogen bonds between the
+                    CE
+
+
+
+
+residues of the loop helices at the back of the SF is likely to be responsible for the higher mobility of TRPV1
+compared to the other ion channels [3, 35, 36]. The conductive conformation of the SF of other ion channels known
+to date is characterized by a unique tridimensional structure [3, 35, 36]. This is true for K+ selective channels, where
+                  AC
+
+
+
+
+the only known transition of the SF results in channel inactivation [37, 38], as well as for Na+ selective channels
+[39]. In this respect, the highly flexibility of the SF of TRPV1 seems to cast this channel apart, and the MD
+trajectories presented in this study provide a first glimpse of this process at the atomic level.
+
+Materials and Methods
+
+Model Definitions
+
+The initial atomic model was based on the structure of the TRPV1 channel determined by electron microscopy at a
+resolution of 3.80 Å (Protein data bank entry 3J5Q). Only the pore domain was considered in the model (residue 570
+to 686). The N-terminus was acetylated and an N-methylamide group was added to the C-terminus. Default
+ionization states were used for the remaining amino acids. The channel was embedded in a pre-equilibrated lipid
+bilayer of 256 1-Palmitoyl,2-oleoyl-sn-Glycero-3-phosphocholine (POPC) molecules, with the axis aligned to the
+
+
+
+
+12
+
+===== PDF PAGE 14 of 29 =====
+                             ACCEPTED MANUSCRIPT
+
+
+
+
+bilayer normal, and the extracellular aromatic belt (amino acids F655) aligned to the bilayer surface. Lipid
+molecules closer than 1.0 Å to protein atoms were removed. The atomic system was solvated by the Solvate plug-in
+
+
+
+
+                                                                               PT
+of VMD [40], and then water molecules within 1.2 Å of protein and lipid atoms were removed. Ions were added to
+the system to obtain a total ionic concentration of 150 mM.
+
+
+
+
+                                                                          RI
+Molecular Dynamics Simulations
+
+
+
+
+                                                                  SC
+Dynamics of variable length were performed using version 2.9 of NAMD [41, 42]. The CHARMM force field with
+CMAP correction [43, 44] was used for lipid, ions and protein, together with TIP3P model for water molecules [45].
+
+
+
+
+                                                          NU
+The particle mesh Ewald algorithm was used to treat the electrostatics interactions [46]. Van der Waals forces were
+smoothly switched off at 10-12 Å. Bonds with hydrogen atoms were restrained by the SETTLE algorithm [47], in
+order to use a 2 fs time step. The multi time step algorithm r-RESPA [48] was used to integrate the equation of
+                                                  MA
+motion. Non-bonded short-range forces were computed every time step, while electrostatic forces were updated
+every 2 time steps. MD simulations were performed in the NpT ensemble. Pressure was kept at 1 atm by the Nose-
+Hoover Langevin piston method [49, 50], with a damping time constant of 100 ps and a period of 200 ps.
+                                            D
+
+Temperature was kept at 303 K by coupling to a Langevin thermostat, with a damping coefficient of 5 ps -1. The
+                                     TE
+
+
+systems were equilibrated using 10,000 steps of energy minimization with harmonic restraints on the protein heavy
+atoms (force constant equal to 10 kcal mol-1 Å-2). Harmonic restraints were gradually reduced to zero in the course
+of a 4 ns equilibration trajectory. Afterwards, independent trajectories were simulated for each system: (i) a 200 ns
+                       P
+
+
+
+
+trajectory with no restraints applied; (ii) and two sets of trajectories (two sets of 200 ns in the presence of 150 KCl,
+                    CE
+
+
+
+
+200 ns and 400 ns in the presence of 150 mM NaCl or CaCl 2) with harmonic restraints applied to the Cα atoms of
+the intracellular terminal of helices S5 and S6 (residues 570 to 577 and 679 to 688) with a force constant of 1 kcal
+mol-1 Å-2.
+                  AC
+
+
+
+
+ACKNOWLEDGMENTS. C. Domene would like to acknowledge the use of computational resources from the
+EPSRC UK National Service for Computational Chemistry Software (NSCCS), Archer and the Hartree Center.
+
+
+
+
+13
+
+===== PDF PAGE 15 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+FIGURE CAPTIONS
+
+
+
+
+                                                                               PT
+Figure 1. (a) Structure of the TRPV1 channel with residues 679, 671, and 641 to 646 in licorice representation.
+Energy maps for Na+ (b), Ca2+ (c), and K+ (d) ions. Energies were calculated from the probability histograms of the
+
+
+
+
+                                                                          RI
+ions positions in the MD trajectories over a 2-dimensional space defined by: the distance along the z-axis between
+the ion and the carbonyl oxygen atoms of residues G643; and the distance in the x-y plane between the ion and the
+
+
+
+
+                                                                  SC
+center of the carbonyl oxygen atoms of residues G643 (r-axis). The data to calculate the probability histograms were
+gathered from two independent simulations for each ion type (200 and 400 ns for Na+ and Ca2+; two of 200 ns for
+K+). The radial and axial direction were discretized in bins with both sides equal to 0.5 Å. The dotted lines show
+
+
+
+
+                                                          NU
+the average position of the center of the carbonyl oxygen atoms of residues I679, G643, G645 (carbonyl oxygen
+atoms of Met644 are at the same z-value of G645); of the hydroxyl oxygen atoms of residues Y671; and of the
+                                                  MA
+carboxylic oxygen atoms of residues D646 and E648. The probability histograms on the right side of the energy
+maps shows the number of ions between the centers of the carboxylic groups of residues D646 and the carbonyl
+oxygen atoms of residues M644 (upper plot in each panel, binding region SF2); between the centers of the carbonyl
+                                            D
+
+oxygen atoms of residues M644 and the hydroxyl oxygen atoms of residues Y671 (middle plot, binding regions
+SF1), and between the hydroxyl oxygen atoms of residues Y671 and the carbonyl oxygen atoms of residues I679
+                                     TE
+
+
+
+(lower plot, binding region SC). The y-axis of the probability histograms extends from 0 to 1.
+
+Figure 2. Permeation of Na+ across TRPV1 pore. (a) Projection on the z-axis of the position of the geometric
+                       P
+
+
+
+
+center of relevant oxygen atoms (I679-O, Y671-OH, G643-O, M644-O, D646-OD1/2 and E648-OE1/2) from the
+                    CE
+
+
+
+
+permeation pathway (black traces), and permeating ions (Na +i: magenta, Na+ii: blue, Na+iii: red) taken from Figure
+S3. A schematic picture of the binding sites of the ions in the permeation pathway is shown on the right. (b-d)
+Distance between Na+i, Na+ii and Na+iii and the center of mass of the closest oxygen atoms from the protein residues
+                  AC
+
+
+
+
+during their permeation. Periods of binding to a specific site during permeation is delimited by vertical dotted lines.
+
+Figure 3. Filter domain dynamics in the presence of Na +. (a) RMSD of the SF backbone (residues 643 to 648).
+(b) Distance between adjacent subunits measured using the Cα atoms of residue D646 from chain pairs I-II (black),
+II-III (red), III-IV (magenta) and IV-I (blue). The black dotted line indicates the corresponding experimental value
+(PDBID: 3J5Q). (c) Superposition of six conformations of the SF (residues 643 to 648) taken every 40 ns from a 200
+ns simulation, colored by time-step (from red to blue: beginning to end of the simulation). The black arrows indicate
+relative motions of the filter subunits. (d) As in (c) but adding the Na+ ions close to SF2 in each conformation.
+
+Figure 4. Permeation of Ca2+ across TRPV1 pore. (a). Projection on the z-axis of the position of the center of
+mass of relevant oxygen atoms (I679-O, Y671-OH, G643-O, M644-O, D646-OD1/2 and E648-OE1/2) from the
+permeation path (black traces) and the ions that bind stably to the channel (blue: Ca 2+i, cyan: Ca2+ii, red: Ca2+iii,
+
+
+
+
+14
+
+===== PDF PAGE 16 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+magenta: Cl-), taken from Figure S4. A schematic picture of the binding sites of the ions in the permeation pathway
+is shown on the right. (b-d). Distance between Ca2+i, Ca2+ii and Ca2+iii and the center of mass of the closest oxygen
+
+
+
+
+                                                                                PT
+atoms from the protein residues. Periods of binding to a specific site during permeation is delimited by vertical
+dotted lines.
+
+
+
+
+                                                                          RI
+Figure 5. Filter domain dynamics in presence of Ca2+. As Figure 3 but for Ca2+ ions.
+
+
+
+
+                                                                   SC
+Figure 6. Permeation of K+ across TRPV1 pore. (a). Projection on the z-axis of the position of the center of mass
+of relevant oxygen atoms (I679-O, Y671-OH, G643-O, M644-O, D646-OD1/2 and E648-OE1/2) in the permeation
+path (black traces) and the ions that permeate or bind to the channel (blue: K +i: blue: K+ii:red), selected from Figure
+
+
+
+
+                                                           NU
+S6. A schematic picture of the binding sites of the ions in the permeation pathway is shown on the right. (b-d).
+Distance between ions K+i and K+ii and the center of mass of the closest oxygen atoms from the protein residues.
+                                                   MA
+Periods of binding to a specific site during permeation is delimited by vertical dotted lines.
+
+Figure 7. Coordination number of ions in the SF. Coordination number of Na+ (left), K+ (middle) and
+Ca2+ (right), as a function of the position along the permeation pathway. The data was taken from 2 independent
+                                             D
+
+simulations for each ion type (200 and 400 ns for Na+ and Ca2+; and two 200 ns for K+). A schematic representation
+                                      TE
+
+
+is shown on the far left to facilitate the localization of SF1 and SF2.
+
+Figure 8. Filter domain dynamics in presence of K +. As Figure 3 but for K+ ions.
+                       P
+                    CE
+                  AC
+
+
+
+
+15
+
+===== PDF PAGE 17 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+References
+
+
+
+
+                                                                           PT
+[1]   Venkatachalam K, Montell C. TRP Channels. Annu Rev Biochem 2007;76:387–417.
+[2]   Nilius B, Owsianik G. Transient receptor potential channelopathies. Pflüg Arch - Eur J Physiol 2010;460:437–
+
+
+
+
+                                                                      RI
+      50.
+[3]   Liao M, Cao E, Julius D, Cheng Y. Structure of the TRPV1 ion channel determined by electron cryo-
+
+
+
+
+                                                               SC
+      microscopy. Nature 2013;504:107–12.
+[4]   Julius D. TRP Channels and Pain. Annu Rev Cell Dev Biol 2013;29:355–84.
+[5]   Caterina MJ, Schumacher MA, Tominaga M, Rosen TA, Levine JD, Julius D. The capsaicin receptor: a heat-
+
+
+
+
+                                                        NU
+      activated ion channel in the pain pathway. Nature 1997;389:816–24.
+[6]   Ramsey IS, Delling M, Clapham DE. An introduction to TRP channels. Annu Rev Physiol 2006;68:619–47.
+                                                MA
+[7]   Lishko PV, Procko E, Jin X, Phelps CB, Gaudet R. The Ankyrin Repeats of TRPV1 Bind Multiple Ligands
+      and Modulate Channel Sensitivity. Neuron 2007;54:905–18.
+[8]   Chung M-K, Güler AD, Caterina MJ. TRPV1 shows dynamic ionic selectivity during agonist stimulation. Nat
+                                           D
+
+      Neurosci 2008;11:555–64.
+[9]   Owsianik G, Talavera K, Voets T, Nilius B. Permeation and selectivity of TRP channels. Annu Rev Physiol
+                                    TE
+
+
+
+      2006;68:685–717.
+
+[10] Domene C, Vemparala S, Furini S, Sharp K, Klein ML. The role of conformation in ion permeation in a K +
+                       P
+
+
+
+
+      channel. J Am Chem Soc 2008;130:3389–98.
+                    CE
+
+
+
+
+[11] Domene C, Furini S. Dynamics, Energetics, and Selectivity of the Low-K+ KcsA Channel Structure. J Mol
+      Biol 2009;389:637–45.
+[12] Furini S, Domene C. Selectivity and Permeation of Alkali Metal Ions in K +-channels. J Mol Biol
+                  AC
+
+
+
+
+      2011;409:867–78.
+[13] Furini S, Domene C. Nonselective Conduction in a Mutated NaK Channel with Three Cation-Binding Sites.
+      Biophys J 2012;103:2106–14.
+[14] Furini S, Domene C. K+ and Na+ Conduction in selective and nonselective ion channels via molecular
+      dynamics simulations. Biophys J 2013;105:1737–45.
+[15] Furini S, Domene C. Atypical mechanism of conduction in potassium channels. Proc Natl Acad Sci 2009;106:
+      16074–7.
+[16] Furini S, Domene C. On conduction in a bacterial sodium channel. PLoS Comput Biol 2012;8:e1002476.
+[17] Bernèche S, Roux B. Energetics of ion conduction through the K+ channel. Nature, 2001, 414, 6859; 73-77.
+
+[18] Aqvist J, Luzhkov V. Ion permeation mechanism of the potassium channel. Nature, 2000, 404, 6780, 881-884.
+
+[19] Corry B, Thomas M. Mechanism of ion permeation and selectivity in a voltage gated sodium channel. J. Am
+
+
+
+
+16
+
+===== PDF PAGE 18 of 29 =====
+                             ACCEPTED MANUSCRIPT
+
+
+
+
+     Chem Soc 2012, 134 (3), 1840-6.
+[20] Boiteux C, Vorobyov I, Allen TW. Ion conduction and conformational flexibility of a bacterial voltage-gated
+
+
+
+
+                                                                             PT
+     sodium channel. Proc Natl Acad Sci 2014, 111 (9) 3454-3459.
+[21] Chakrabarti N, Ing C, Payandeh J, Zheng N, Catterall WA, Pomès R. Catalusis of Na+ permeation in the
+
+
+
+
+                                                                        RI
+     bacterial sodium channel Na(V)Ab. Proc Natl Acad Sci U S A. 2013 110(28), 11331-6
+[22] Jensen MO, Borhani DW, Lindorff-Larsen K, Maragakis P, Jogini V, Eastwood MP, et al. Principles of
+
+
+
+
+                                                                SC
+     conduction and hydrophobic gating in K + channels. Proc Natl Acad Sci 2010, 107, 5833–8.
+[23] Hui K, Liu B, Qin F. Capsaicin activation of the pain receptor, VR1: multiple open states from both partial and
+
+
+
+
+                                                        NU
+     full binding. Biophys J 2003, 84, 2957–68.
+[24] Stock L, Delemotte L, Carnevale V, Treptow W, Klein ML. Conduction in a Biological Sodium Selective
+     Channel. J Phys Chem B 2013, 117, 3782–9.
+                                                  MA
+[25] Doyle DA, Morais Cabral J, Pfuetzner RA, Kuo A, Gulbis JM, Cohen SL, Chait BT, MacKinnon R. The
+     structure of the potassium channel: molecular basis of K + conduction and selectivity. Science 1998, 280, 69–
+     77.
+                                           D
+
+[26] Payandeh J, Gamal El-Din TM, Scheuer T, Zheng N, Catterall WA. Crystal structure of a voltage-gated
+                                    TE
+
+
+
+     sodium channel in two potentially inactivated states. Nature 2012, 486, 135–139.
+
+[27] Alam A, Jiang Y. Structural analysis of ion selectivity in the NaK channel. Nat Struct Mol Biol 2009, 16, 35–
+                      P
+
+
+
+
+     41.
+                   CE
+
+
+
+
+[28] Eisenman G, Horn R. Ionic selectivity revisited: the role of kinetic and equilibrium processes in ion permeation
+     through channels. J Membr Biol 1983, 76, 197–225.
+                 AC
+
+
+
+
+[29] Illingworth CJ, Domene C. Many-body effects and simulations of potassium channels. Proc R Soc Math Phys
+     Eng Sci 2009, 465, 1701–16.
+
+[30] Illingworth CJR, Furini S, Domene C. Computational Studies on Polarization Effects and Selectivity in K +
+     Channels. J Chem Theory Comput 2010, 6, 3780–92.
+[31] Allen TW, Andersen OS, Roux B. Ion permeation through a narrow channel: using gramicidin to ascertain all-
+     atom molecular dynamics potential of mean force methodology and biomolecular force fields. Biophys J 2006,
+     90, 3447–68.
+[32] Warshel A, Kato M, Pisliakov AV. Polarizable force fields: history, test cases, and prospects. J Chem Theory
+     Comput 2007, 3, 2034–45.
+[33] Corry B. Na+/Ca2+ selectivity in the bacterial voltage-gated sodium channel NavAb. PeerJ 2013, 1:e16.
+[34] Ke S, Zangerl E-M, Stary-Weinzinger A. Distinct interactions of Na+ and Ca2+ ions with the selectivity filter of
+     the bacterial sodium channel NaVAb. Biochem Biophys Res Commun 2013, 430,1272–6.
+
+
+
+
+17
+
+===== PDF PAGE 19 of 29 =====
+                             ACCEPTED MANUSCRIPT
+
+
+
+
+[35] Payandeh J, Scheuer T, Zheng N, Catterall WA. The crystal structure of a voltage-gated sodium channel.
+     Nature 2011;475:353–8.
+
+
+
+
+                                                                             PT
+[36] Doyle DA, Morais Cabral J, Pfuetzner RA, Kuo A, Gulbis JM, Cohen SL, et al. The structure of the potassium
+     channel: molecular basis of K+ conduction and selectivity. Science 1998, 280, 69–77.
+
+
+
+
+                                                                        RI
+[37] Zhou Y, Morais-Cabral JH, Kaufman A, MacKinnon R. Chemistry of ion coordination and hydration revealed
+     by a K+ channel-Fab complex at 2.0 A resolution. Nature 2001, 414, 43–8.
+
+
+
+
+                                                                SC
+[38] Cuello LG, Jogini V, Cortes DM, Perozo E. Structural mechanism of C-type inactivation in K+ channels.
+     Nature 2010, 466, 203–8.
+
+
+
+
+                                                         NU
+[39] Payandeh J, Gamal El-Din TM, Scheuer T, Zheng N, Catterall WA. Crystal structure of a voltage-gated
+     sodium channel in two potentially inactivated states. Nature 2012, 486(7401),135-9.
+[40] Humphrey W, Dalke A, Schulten K. VMD: Visual molecular dynamics. J Mol Graph 1996, 14, 33–8.
+                                                MA
+[41] Phillips JC, Braun R, Wang W, Gumbart J, Tajkhorshid E, Villa E, et al. Scalable molecular dynamics with
+     NAMD. J Comput Chem 2005, 26, 1781–802.
+[42] Kalé L, Skeel R, Bhandarkar M, Brunner R, Gursoy A, Krawetz N, et al. NAMD2: Greater Scalability for
+                                           D
+
+     Parallel Molecular Dynamics. J Comput Phys 1999, 151, 283–312.
+                                    TE
+
+
+[43] MacKerell, AD, Bashford D, Bellott M, Dunbrack, RL, Evanseck JD, Field MJ, et al. All-Atom Empirical
+     Potential for Molecular Modeling and Dynamics Studies of Proteins. J Phys Chem B 1998, 102, 3586–616.
+                       P
+
+
+
+
+[44] Brooks BR, Bruccoleri RE, Olafson BD, States DJ, Swaminathan S, Karplus M. CHARMM: A program for
+     macromolecular energy, minimization, and dynamics calculations. J Comput Chem 1983, 4, 187–217.
+                    CE
+
+
+
+
+[45] Jorgensen WL, Chandrasekhar J, Madura JD, Impey RW, Klein ML. Comparison of simple potential functions
+     for simulating liquid water. J Chem Phys 1983, 79, 926.
+                  AC
+
+
+
+
+[46] Essmann U, Perera L, Berkowitz ML, Darden T, Lee H, Pedersen LG. A smooth particle mesh Ewald method.
+     J Chem Phys 1995, 103, 8577.
+[47] Miyamoto S, Kollman PA. Settle: An analytical version of the SHAKE and RATTLE algorithm for rigid water
+     models. J Comput Chem 1992, 13, 952–62.
+[48] Tuckerman M, Berne BJ, Martyna GJ. Reversible multiple time scale molecular dynamics. J Chem Phys 1992;
+     97:1990.
+[49] Martyna GJ, Tobias DJ, Klein ML. Constant pressure molecular dynamics algorithms. J Chem Phys 1994, 101,
+     4177.
+[50] Feller SE, Zhang Y, Pastor RW, Brooks BR. Constant pressure molecular dynamics simulation: The Langevin
+     piston method. J Chem Phys 199, 103, 4613.
+
+
+
+
+18
+
+===== PDF PAGE 20 of 29 =====
+             ACCEPTED MANUSCRIPT
+
+
+
+
+                              PT
+                             RI
+                         SC
+                        NU
+                    MA
+                    D
+               TE
+                P
+
+
+
+
+Figure 1
+             CE
+           AC
+
+
+
+
+19
+
+===== PDF PAGE 21 of 29 =====
+             ACCEPTED MANUSCRIPT
+
+
+
+
+                              PT
+                             RI
+                         SC
+                        NU
+                    MA
+                    D
+               TE
+                P
+             CE
+           AC
+
+
+
+
+Figure 2
+
+
+
+
+20
+
+===== PDF PAGE 22 of 29 =====
+             ACCEPTED MANUSCRIPT
+
+
+
+
+                              PT
+                             RI
+                         SC
+                        NU
+                    MA
+                    D
+               TE
+                P
+
+
+
+
+Figure 3
+             CE
+           AC
+
+
+
+
+21
+
+===== PDF PAGE 23 of 29 =====
+             ACCEPTED MANUSCRIPT
+
+
+
+
+                              PT
+                             RI
+                         SC
+                        NU
+                    MA
+                    D
+               TE
+                P
+             CE
+           AC
+
+
+
+
+Figure 4
+
+
+
+
+22
+
+===== PDF PAGE 24 of 29 =====
+             ACCEPTED MANUSCRIPT
+
+
+
+
+                              PT
+                             RI
+                         SC
+                        NU
+                    MA
+                    D
+               TE
+                P
+             CE
+
+
+
+
+Figure 5
+           AC
+
+
+
+
+23
+
+===== PDF PAGE 25 of 29 =====
+             ACCEPTED MANUSCRIPT
+
+
+
+
+                              PT
+                             RI
+                         SC
+                        NU
+                    MA
+                    D
+               TE
+                P
+             CE
+           AC
+
+
+
+
+Figure 6
+
+
+
+
+24
+
+===== PDF PAGE 26 of 29 =====
+             ACCEPTED MANUSCRIPT
+
+
+
+
+                              PT
+                             RI
+                         SC
+                        NU
+                    MA
+Figure 7
+                    D
+               TE
+                P
+             CE
+           AC
+
+
+
+
+25
+
+===== PDF PAGE 27 of 29 =====
+             ACCEPTED MANUSCRIPT
+
+
+
+
+                              PT
+                             RI
+                         SC
+                        NU
+                    MA
+                    D
+               TE
+                P
+
+
+
+
+Figure 8
+             CE
+           AC
+
+
+
+
+26
+
+===== PDF PAGE 28 of 29 =====
+                     ACCEPTED MANUSCRIPT
+
+
+
+
+                                      PT
+                                   RI
+                                 SC
+                              NU
+Graphical abstract
+                            MA
+                          D
+                      PTE
+                   CE
+                 AC
+
+
+
+
+27
+
+===== PDF PAGE 29 of 29 =====
+                              ACCEPTED MANUSCRIPT
+
+
+
+
+                                                                                 PT
+Highlights
+
+        Ion conduction in TRPV1 was analyzed by molecular dynamics simulations
+
+
+
+
+                                                                           RI
+        Three main binding sites (SC, SF1 and SF2) define the permeation pathway
+
+     
+
+
+
+
+                                                                   SC
+         Binding of Na+ and Ca2+ ions (but not K+) to SF2 links adjacent pore subunits
+
+        The structure of the selectivity filter is sensible to the permeating ionic species
+
+
+
+
+                                                           NU
+                                                   MA
+                                             D
+                       P              TE
+                    CE
+                  AC
+
+
+
+
+28
+

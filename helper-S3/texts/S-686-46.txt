@@ -1,0 +1,450 @@
+
+===== PDF PAGE 1 of 7 =====
+Neurol Sci
+DOI 10.1007/s10072-016-2600-3
+
+    ORIGINAL ARTICLE
+
+
+
+Trachyspermum ammi 10 % topical cream versus
+placebo on neuropathic pain, a randomized, double-blind,
+placebo-controlled trial
+Peyman Petramfar1 • Mahmoodreza Moein2,3 • Soliman Mohammadi Samani3 •
+Sayed Hamidreza Tabatabaei4 • Mohammad M. Zarshenas2,5
+
+
+
+
+Received: 16 November 2015 / Accepted: 2 May 2016
+Ó Springer-Verlag Italia 2016
+
+
+Abstract A four-week, double-blind, randomized, pla-              Keywords Trachyspermum ammi  Clinical trial  Cream 
+cebo-controlled trial was conducted to assay the effec-           Essential oil  Neuropathic pain  Placebo
+tiveness of Ajwain 10 % (Trachyspermum ammi Sprague)
+topical cream on neuropathic pain. Intervention encom-
+passed Ajwain 10 % and placebo creams. Ninety-two                 Introduction
+patients who specifically mentioned daily and nocturnal
+burning feet were randomly assigned to receive one of             Neuropathic pain is related to injuries or disorders which
+those interventions. Presence and decline in patients’            affect central and peripheral nervous system. This disorder
+numbness, tingling and allodynia were also evaluated.             is a symptom of heterologous conditions with different
+Major outcome measure was alteration in feet burning              etiology and location [1]. Neuropathic pain is particularly
+intensity (final week versus baseline week) regarding to a        resistant to over-the-counter analgesics and conventional
+visual analog scale on a 0–10 cm scale (0 being ‘‘no pain’’,      treatments [2]. Epidemiologically, up to 3 % of general
+10 being ‘‘worst pain’’). Significant reduction in feet           population suffers from this disorder [3]. But in Europe,
+burning scores as well as numbness, tingling and allodynia        estimated prevalence for patients with classical symptoms
+were found in Ajwain group compared to placebo. This              is eventually reported as 6–8 % [4].
+trial examining a cream of Ajwain essential oil versus               Patients’ description on neuropathic pain feeling is differ-
+placebo revealed the significance difference between two          ent. However burning, tingling, numbness, paresthesia,
+groups. This medicament can be a good candidate for the           pricking and stabbing characteristics are more prevalent [5, 6].
+alleviation of feet burning, a neuropathic complication.             Numerous treatment lines and medications such as
+                                                                  antidepressants, anticonvulsants, serotonin noradrenaline
+                                                                  reuptake inhibitors, local anesthetic agent and opioid
+                                                                  analgesics as well as topical capsaicin are applied for the
+& Mohammad M. Zarshenas                                           management of neuropathic pain [7, 8]. Many clinical trials
+  zarm@sums.ac.ir                                                 and pharmacological investigations have also been carried
+1
+     Clinical Neurology Research Center, Neurology Department,
+                                                                  out in relation to the treatment approaches. But the results
+     Shiraz University of Medical Sciences, Shiraz, Iran          were not much satisfactory [9]. Thereby, management of
+2
+     Medicinal Plants Processing Research Centre, Shiraz
+                                                                  patients with chronic neuropathic pain is still a challenge
+     University of Medical Sciences, Shiraz, Iran                 for physicians [10].
+3
+     Department of Pharmacognosy, School of Pharmacy, Shiraz
+                                                                     Other than the conventional therapeutic lines, comple-
+     University of Medical Sciences, Shiraz, Iran                 mentary and alternative medicine (CAM) which includes
+4                                                                 invaluable information based on centuries of practice and
+     Department of Epidemiology, School of Public Health,
+     Shiraz University of Medical Sciences, Shiraz, Iran          experience can offer beneficial suggestions to manage
+5                                                                 various disorders [11]. Regarding low response to con-
+     Department of Phytopharmaceuticals (Traditional Pharmacy),
+     School of Pharmacy, Shiraz University of Medical Sciences,   ventional medicine, neuropathic patients often intend to
+     Shiraz, Iran                                                 use CAM and related treatment strategies [12].
+
+
+                                                                                                                       123
+
+===== PDF PAGE 2 of 7 =====
+                                                                                                                    Neurol Sci
+
+
+   Traditional Persian manuscripts with medical and              neuropathy, postsurgical/posttraumatic neuropathic pain,
+pharmaceutical experiences based on centuries of indige-         moderate to severe pain persisted for 6 months or longer,
+nous practices as well as those of other medical schools         presence of dynamic tactile allodynia or hyperalgesia in the
+[13], contain useful information on herbal medicines and         pain site in patients with normal cognitive and cooperation.
+treatment approaches [14]. The history of this medical           Feet burn was considered as the main complain in enrolling
+system, which is based on humoural medicine, dates back          patients. In contrast, patients with another type of pain,
+to thousands of years ago. However, rising and improve-          neuropathic pain free of feet burning, major depression or
+ment of Traditional Persian Medicine (TPM) is indebted to        psychiatric disorder, history of hypersensitivity or allergic
+the influence of early Persian Scholars such as Rhazes and       reactions to the essential oils or herbal medicaments were
+Avicenna [15].                                                   excluded. Children and pregnant volunteers and whoever
+   Trachyspermum ammi Sprague or Ajwain (traditionally           cannot participate in the study were also excluded. Prede-
+known as Nankhah) is one of the most famous medicinal            termined inclusion and exclusion criteria were mentioned
+herbs traditionally applied for neurological disorders [16].     in Table 1.
+Seeds contain up to 5 % essential oil and are known as              In regard of the neuropathic pain, previously established
+important commercial product for food and flavoring              historical diagnosis as well as clinical examination such as
+industry [17]. Other than various clinical and pharmaco-         nerve conduction studies was considered.
+logical properties [18, 19], certain manuscripts of Tradi-
+tional Persian Medicine (TPM) have remarked the                  Interventions and blindness
+effectiveness of seeds oil in chronic pain and neurological
+disorders. Out of those manuscripts, Makhzan ol advieh is        The study was a randomized, double-blind, placebo-con-
+known as the largest and one of the latest and the most          trolled trial. Treatment consisted of two topical creams,
+important pharmacopeias of Persian Medicine containing           Ajwain 10 % O/W and placebo (designed and formulated
+28 chapters on natural medicine and 1698 monographs              at the department of traditional pharmacy). Ajwain seeds
+which has been authored by Aghili Khorasani Shirazi (18th        were collected from a medicinal plant garden in Shiraz
+A.D). On the other side, Qarabadin-e-Salehi is another           and were authenticated at Shiraz School of Pharmacy
+source which has cited the herb as a remedy for nerve            (Voucher No: Pm 482). Via a Clevenger apparatus the
+pains. The book is written by Mohammad Saleh Ghaeni              essential oil of seeds was extracted. Using gas chro-
+Heravi (1766 A.D) and encompasses almost 200 various             matography-mass spectroscopy technique, thymol, q-
+pharmaceutical dosage forms (multi-ingredients remedies)         cymene and c-terpinene were identified as oil’s major
+along with preparation methods and related diseases [20,         constituents. Similar proportions of Cetomacrogol,
+21].                                                             Cetostearyl alcohol, Vaseline and Butylated hydroxy-
+   Burning feet are often highly reported by patients suf-       toluene were employed in Ajwain and placebo creams.
+fering from neuropathic pain. Hence, present study was           The amount of Almond oil for placebo and Ajwain creams
+performed to assess the efficacy of topical 10 % Ajwain          was considered as 15 and 5 % of total cream, respectively.
+cream in such disorder via a randomized, double-blind,           Essential oil (10 % of the total cream) was added to the
+placebo-controlled trial.                                        Ajwain cream. Both creams were filled in white sealed
+                                                                 laminated tubes with a label containing a number (1–92).
+                                                                 Cream samples were pharmaceutically evaluated (vis-
+Materials and methods                                            cosity test, pH assessment and microbial limit tests) prior
+                                                                 to the clinical trial. Based on thymol content, Ajwain
+Participants                                                     cream was standardized (2.34 ± 0.02 g in 50 g cream).
+                                                                 To assimilate the placebo odor placebo cream in tubes,
+The protocol was approved by medical ethics committee,           inside of tubes was previously washed with Ajwain dis-
+Shiraz University of Medical Sciences (Code: CT-90-5802-         tillate. Both creams were white in color.
+47). This trial was registered at Iranian Registry of Clinical       Patients were asked to apply the cream two times per
+Trials database (http://www.irct.ir; registration ID:            day. Patients were requested to return at days 14 and 28.
+IRCT201201248815N1) and was carried out in Imam Reza             All study personnel including investigators and participants
+policlinic (Shiraz University of Medical Sciences).              were blinded to the study to the treatment assignment.
+   Participants signed and filled out the informed consent       Diabetic patients were allowed to have their diabetes-re-
+form. A history and detailed diagnostic examination were         lated medications. Patients were asked not to use other
+done to confirm neuropathic pain. Inclusion criteria were        analgesic agents. Patients were informed about their ran-
+included the diagnosis of neuropathic pain, diabetic             dom participation to the groups.
+
+
+
+123
+
+===== PDF PAGE 3 of 7 =====
+Neurol Sci
+
+
+Table 1 Inclusion and exclusion criteria
+Inclusion criteria                                             Exclusion criteria
+
+Established diagnosis of neuropathic pain exactly              Patients suffering from another type as severe as the mentioned pain or
+ accompanied by feet burning                                    neuropathic pain but free of feet burning
+Moderate to severe pain persisted for 6 months                 Major depression or psychiatric disorder
+Presence of dynamic tactile allodynia or hyperalgesia in the   Patients with history of hypersensitivity or allergic reactions to the essential oils
+ site of pain                                                   or herbal medicaments
+Normal cognitive and communicative ability to complete         Patients under 18 years old and pregnant volunteers
+ self-report questionnaires
+                                                               Inability to follow instructions or complete self-report questionnaires
+
+
+Sample size and randomization                                              addition, allodynia, numbness and tingling complications
+                                                                           were checked and considered.
+Total study sample size was calculated as 92 participants
+aged from 18 to 90. Simple randomization was considered                    Outcomes
+for this study and patients were randomly divided into two
+groups as placebo and Ajwain. Sample size was determined                   Primary outcome was the reduction in feet burning based
+according to a previous study [22] and the power of 80 %                   on visual analog scale (VAS-PI) on a 0–10 cm scale (0 as
+and the confidence of 95 % were defined for the statistical                ‘‘no pain’’ and 10 as ‘‘worst imaginable pain’’). Other
+evaluation. Participant demographics and characteristics                   outcome measures were derived from McGill Pain Ques-
+are presented in Table 2.                                                  tionnaire with slight modification [23, 24]. Patients were
+                                                                           asked to fulfill the form at starting point, in the middle of
+Objectives                                                                 the study and at the ending point. They were asked to
+                                                                           document their feeling scores at a certain time at night.
+Primary objective was to determine the effectiveness of                    Patients were also requested to denote any side effects
+Ajwain and placebo creams on neuropathic feet burning. In                  during the study.
+
+                                                                           Theory and calculation
+Table 2 Patient characteristics
+                                                                           Visual analog scale for feet burn, allodynia, numbness and
+Number of patients enrolled            92 (Placebo/Ajwain as 46/46)
+                                                                           tingling was considered as 0 being no feeling and 10 being
+ in the study
+                                                                           the worst feeling in post-treatment. Using this scale for
+Sex (male/female)                      41/52
+                                                                           VAS-PI scores, statistical analysis would be facilitated.
+Age                                    57.4 (40–92)-average age
+                                                                           Kolmogorov–Smirnov test was first considered to check
+ Education                             Number of patients
+                                                                           the equality of continuous variables. Paired t test was
+ Uneducated                            29
+                                                                           employed to analyze the scores. For each parameter, the
+ Elementary school                     36
+                                                                           average amounts of changes from pre-treatment to post-
+ Up to diploma                         18
+                                                                           treatment were tested in groups with paired t test. In this
+ Diploma up to Bachelor                9
+  of Science
+                                                                           study, P \ 0.05 was statistically considered significant.
+ Upper
+                                                                           Follow-up
+Patients with diabetic                 22 (Placebo/Ajwain as 10/12)
+ neuropathy
+Patients with unknown                  70 (Placebo/Ajwain as 36/34)        To check the delayed undesirable effects and pain future
+ neuropathy                                                                recurrence, patients were asked to monthly refer to clinic
+Patients with history of               18 (Placebo/Ajwain as 8/10)         for at least 2 months.
+ operation
+Patients with history of CVA           21 (Placebo/Ajwain as 14/7)
+Patients with MS disorder              8 (Placebo/Ajwain as 3/5)           Results
+Patients with Parkinsonism or          11 (Placebo/Ajwain as 8/3)
+ Alzheimer                                                                 According to the concepts of humoural medicine, alteration
+Patients with Radiculopathy            7 (Placebo/Ajwain as 4/3)           in each of the four humors; Dam (blood), Balgham
+CVA cerebrovascular arrest, MS multiple sclerosis                          (phlegm), Safrā (yellow bile), and Saudā (black bile) may
+
+
+                                                                                                                                         123
+
+===== PDF PAGE 4 of 7 =====
+                                                                                                                                      Neurol Sci
+
+
+cause disease. Many medicinal plants with opposite nature                  substituted with those with similar conditions. Of all
+or temperament can be applied to correct the imbalance.                    excluded participants, 4 patients were diagnosed diabetic.
+Persian physicians believed that nervous system compli-                    Therefore, 4 new patients with diabetic neuropathy and 7
+cations mainly resulted from domination of coldness and                    new ones with unknown type of neuropathy were included.
+wetness [15]. With this concept, medicaments with hot and                  The substitution was corresponded with the patients in
+dry natures can be applied for nerve pain. Disorders such as               respective group (Ajwain or placebo) and excluded num-
+nerve pain and neuralgia which are close to neuropathic                    bers. From all excluded participants, six of them involving
+pain are mentioned in Persian medical manuscripts. In this                 three patients with diabetic neuropathy were in the placebo
+regard, we consider the traditional term and recommended                   and five patients involving one diabetic neuropathy were in
+remedy in line with neuropathic pain and decided to con-                   the Ajwain group. Accordingly, three patients suffering
+duct a respective clinical trial.                                          from diabetic neuropathy and three with unknown neu-
+   Ninety-two patients with diagnosed neuropathic pain                     ropathy were included in placebo group. On the other hand,
+associated with chronic feet burn were enrolled in this                    one patient with diabetic and four with unknown neu-
+study for 28 days. Neuropathy types were diabetic and                      ropathy were substituted in Ajwain group (Fig. 1).
+unknown. This evaluation was performed from 2011                              All patients were suffering from feet burning. Moreover,
+September to 2012 December. Eleven participants who did                    34 patients reported numbness (Placebo/Ajwain: 14/20).
+not meet all predetermined inclusion criteria or did not                   Patients complaining from allodynia and tingling in Ajwain
+complete all visits were excluded. As it was considered                    group were fourteen and thirty-one, respectively. Nine
+before the intervention, excluded participants were                        participants in placebo group were suffering from allodynia
+
+
+
+                 Enrollment                                Assessed for eligibility (n= 102)
+
+
+
+                                                                                         Excluded (n= 10)
+                                                                                           Not meeting inclusion criteria (n= 9)
+                                                                                           Declined to participate (n= 1)
+                                                                                           Other reasons (n= 0)
+
+
+
+                                                                 Randomized (n= 92)
+
+
+
+
+                                                                Allocation
+           Allocated to intervention (n= 46)                                         Allocated to intervention (n= 46)
+             Received allocated intervention (n= 46)                                   Received allocated intervention (n= 46)
+            Did not receive allocated intervention (give                               Did not receive allocated intervention (give
+              reasons) (n= 0)                                                            reasons) (n= 0)
+
+                                Ajwain                                                                    Placebo
+
+                                                                 Follow-Up
+           Lost to follow-up (Personal reasons) (n= 5)                               Lost to follow-up (Personal reasons) (n= 6)
+
+           Substituted (n= 5)                                                        Substituted (n= 6)
+
+
+
+
+                                                                   Analysis
+          Analysed (n= 46)                                                           Analysed (n= 46)
+           Excluded from analysis (n= 0)                                              Excluded from analysis (n= 0)
+
+
+
+
+Fig. 1 Consort flow diagram
+
+
+123
+
+===== PDF PAGE 5 of 7 =====
+Neurol Sci
+
+Table 3 Average scores of feet
+                                                                   Ajwain group                     Placebo group
+burning, numbness, allodynia
+and tingling pain at the start and   Feet burning
+end of treatment period as well
+as change in pain scores              Number of patients           46                               46
+                                      Pretreatment VAS-PI (cm)     6.65 (average)                   6.95 (average)
+                                      Posttreatment VAS-PI (cm)    3.10 (average)                   6.19 (average)
+                                      Mean change in pain          3.55 ± 0.31 (absolute value)     0.76 ± 0.23 (absolute value)
+                                     P \ 0.001
+                                     Numbness
+                                      Number of patients           20                               14
+                                      Pretreatment VAS-PI (cm)     1.93 (average)                   1.53 (average)
+                                      Posttreatment VAS-PI (cm)    1.35 (average)                   1.42 (average)
+                                      Mean change in pain          0.58 ± 0.16 (absolute value)     0.11 ± 0.07 (absolute value)
+                                     P = 0.011
+                                     Allodynia
+                                      Number of patients           14                               9
+                                      Pretreatment VAS-PI (cm)     1.51 (average)                   1.09 (average)
+                                      Posttreatment VAS-PI (cm)    0.87 (average)                   1.03 (average)
+                                      Mean change in pain          0.64 ± 0.23 (absolute value)     0.06 ± 0.04 (absolute value)
+                                     P = 0.023
+                                     Tingling
+                                      Number of patients           31                               30
+                                      Pretreatment VAS-PI (cm)     3.41 (average)                   3.33 (average)
+                                      Posttreatment VAS-PI (cm)    1.72 (average)                   3.17 (average)
+                                      Mean change in pain          1.69 ± 0.29 (absolute value)     0.16 ± 0.09 (absolute value)
+                                     P \ 0.001
+
+
+and thirty patients in placebo group had tingling. Reduc-         provide painless and convenient results associated with
+tions in VAS-PI for patients with allodynia, numbness and         improved patient acceptance and compliance especially in
+tingling in Ajwain group were more than those in placebo          geriatrics. Ease of use and low treatment cost are other
+group.                                                            advantages of topical drugs [26].
+   Ajwain group showed significant reduction in feet                 In this study, Ajwain essential oil cream (10 %) was
+burning compared to the placebo and considering the               evaluated for alleviation of neuropathic pain. The
+baseline or pretreatment data (P \ 0.001). Compared to the        employed concentration was adjusted in accordance with
+placebo group (0.76 ± 023), calculated amount of mean             some previous relevant studies [27, 28]. The cream was
+change in feet burning for Ajwain group was 3.55 ± 0.31.          effective in neuropathic patients suffering from feet
+All outcomes are listed in Table 3. The mean effectiveness        burning.
+of Ajwain group was calculated as 53 % compared to that              There are considerable open-label trials on evaluation of
+of placebo group (11.5 %).                                        some topical medicaments in neuropathic pain. Evaluation
+   Most of the patients requested additional cream                of topical amitriptyline and ketamine showed no differ-
+(Ajwain) after a period of 2 months. Seemingly, Ajwain            ences between all intervention groups and placebo [29]. In
+cream was able to symptomatically alleviate the neuro-            a relevant study, higher concentrations of these medica-
+pathic pain. No adverse or undesirable effects were               ments (4 and 2 % of amitriptyline and ketamine, respec-
+reported by patients receiving either Ajwain or placebo.          tively) resulted in significant analgesia [30]. Therefore,
+                                                                  skin absorption, plays a significant role in topical man-
+                                                                  agement of neuropathic pain. In another study doxepin 5 %
+Discussion                                                        cream was topically evaluated. Results revealed significant
+                                                                  pain reduction in doxepin group compared to the placebo
+Usually, long-term treatment should be provided for the           [31]. Clinical trials have confirmed the effectiveness of
+treatment of neuropathy. Compared to topical treatment,           lidocaine gel and patch dosage forms in neuropathic pain
+oral administration can potentially result in more debili-        [32]. Topical anesthetics generally act as use-dependent
+tating undesirable effects [25]. Topical analgesics can           sodium channel blockers [33].
+
+
+                                                                                                                     123
+
+===== PDF PAGE 6 of 7 =====
+                                                                                                                           Neurol Sci
+
+
+   Topical capsaicin is widely applied in neuropathic pain.     are still required to assess the Ajwain essential oil cream
+However, long-term application has showed unwanted              more perfectly.
+effects such as burning, erythema and stinging in the
+application site [34]. Other herbs have also shown satis-       Acknowledgments Authors of this manuscript wish to express their
+                                                                thanks to Shiraz University of Medical Sciences (Project No. 5802)
+factory effects on the management of chronic pain [35].         and also Abbas Rezaianzadeh and Mehrab Sayyadi for their invalu-
+Essential oils are particularly considered as natural anal-     able consults.
+gesics and antinociceptive agents. Previous studies utiliz-
+ing essential oil compositions have shown the analgesic         Compliance with ethical standards
+effects of these medicaments [36].
+                                                                Conflict of interest Authors of this manuscript have no conflicts of
+   A popular essential oil constituent, menthol was topi-       interest.
+cally administered to patient suffering from neuropathic
+pain and showed notable results [37]. It is believed that
+menthol possesses Na? channel blockade activity and thus
+may have analgesic effects and cooling properties [38].
+                                                                References
+Thymol, as a precursor of menthol, is one of the main
+                                                                 1. Chong MS, Bajwa ZH (2003) Diagnosis and treatment of neu-
+constituents in Ajwain essential oil [39]. This compound            ropathic pain. J Pain Symptom Manag 25:4–11
+can also block voltage-gated Na? channels, a potential           2. Jensen TS, Gottrup H, Sindrup SH et al (2001) The clinical
+molecular mechanism for antinociceptive and local anes-             picture of neuropathic pain. Eur J Pharmacol 429:1–11
+                                                                 3. Gilron I, Watson CPN, Cahill CM et al (2006) Neuropathic pain:
+thetic effects [40]. Therefore, thymol may serve analgesic          a practical guide for the clinician. Can Med Assoc J 175:265–275
+effects and cooling properties lead to the effectiveness of      4. Smith BH, Torrance N (2012) Epidemiology of neuropathic pain
+Ajwain 10 % essential oil cream in neuropathic                      and its impact on quality of life. Curr Pain Headache Rep
+complications.                                                      16:191–198
+                                                                 5. Bennett MI (2006) Theories, history and current taxonomy.
+                                                                    Neuropathic pain. Oxford University Press, London
+                                                                 6. Bennett GJ (1991) The role of the sympathetic nervous system in
+Conclusion                                                          painful peripheral neuropathy. Pain 45:221–223
+                                                                 7. Finnerup NB, Otto M, McQuay HJ et al (2005) Algorithm for
+                                                                    neuropathic pain treatment: an evidence based proposal. Pain
+Taken as a whole, Ajwain essential oil 10 % topical cream           118:289–305
+is able to reduce the feet burning in neuropathic patients.      8. Dworkin RH, O’Connor AB, Backonja M et al (2007) Pharma-
+Numbness, allodynia and tingling were not reported by all           cologic management of neuropathic pain: evidence-based rec-
+patients; however this formulation was also effective in            ommendations. Pain 132:237–251
+                                                                 9. Katz J, Finnerup NB, Dworkin RH (2008) Clinical trial outcome
+those with these symptoms. Menthol and other natural                in neuropathic pain: relationship to study characteristics. Neu-
+medicaments are reported to have effects on neuropathic             rology 70:263–272
+pain. Therefore, a combination of Ajwain and those              10. Moulin DE, Clark AJ, Gilron I et al (2007) Pharmacological
+medicines may also be beneficial. Overall, Ajwain essential         management of chronic neuropathic pain—consensus statement
+                                                                    and guidelines from the canadian pain society. Pain Res Manag
+oil cream can be introduced as a product for amelioration
+                                                                    12:13–21
+of the neuropathic pain.                                        11. Shankar K, Liao LP (2004) Traditional systems of medicine. Phys
+                                                                    Med Rehabil Clin 15:725–747
+                                                                12. Brunelli B, Gorson KC (2004) The use of complementary and
+                                                                    alternative medicines by patients with peripheral neuropathy.
+Limitations                                                         J Neurol Sci 218:59–66
+                                                                13. Zarshenas MM, Mehdizadeh A, Zargaran A, Mohagheghzadeh A
+The effectiveness of Ajwain was evaluated on some con-              (2012) Rhazes (865–925 ad). J Neurol 259:1001–1002
+fined symptoms of neuropathic pain. Foot burning, as the        14. Rezaeizadeh H, Alizadeh M, Naseri M et al (2009) The tradi-
+                                                                    tional iranian medicine point of view on health and disease. Iran J
+chief complain, was the main inclusion criterion. Addi-             Public Health 38:169–172
+tionally, numbness, tingling and allodynia were evaluated.      15. Zarshenas MM, Petramfar P, Firoozabadi A, Moein MR, Moha-
+Patients’ descriptions of neuropathic pain are not limited to       gheghzadeh A (2013) Types of headache and those remedies in
+these parameters. Due to the low sample size, we were               traditional persian medicine. Pharmacogn Rev 7:17–26
+                                                                16. Zarshenas MM, Moein M, Samani SM, Petramfar P (2013) An
+unable to categorize types of neuropathy into detailed
+                                                                    overview on ajwain (Trachyspermum ammi) pharmacological
+groups. Moreover, intervention duration was limited to              effects; modern and traditional. J Nat Rem 14(1):98–105
+4 weeks. It was revealed that Ajwain cream can alleviate        17. Minija J, Thoppil JE (2002) Essential oil composition of
+the pain only during administration. Therefore, long-term           Trachyspermum ammi (L.) sprague from south india. Indian J
+                                                                    Pharm Sci 64(3):250–251
+administration may be necessary to reach to a desirable         18. Thangam C, Dhananjayan R (2003) Antiinflammatory potential
+response. The intervention was a symptomatic therapy and            of the seeds of carum copticum linn. Indian J Pharmacol
+did not cure the disease. However, further investigations           35:388–391
+
+
+123
+
+===== PDF PAGE 7 of 7 =====
+Neurol Sci
+
+19. Hejazian S (2006) Analgesic effect of essential oil (eo) from         32. Galer BS, Jensen MP, Ma T et al (2002) The lidocaine patch 5 %
+    carum copticum in mice. World J Med Sci 1:95–99                           effectively treats all neuropathic pain qualities: results of a ran-
+20. Shirazi MAK (1992) Makhzan ol advieh. Intisharat va Amoozesh              domized, double-blind, vehicle-controlled, 3-week efficacy study
+    enghelab Islami Press, Tehran                                             with use of the neuropathic pain scale. Clin J Pain 18:297–301
+21. Heravi MG (1766) Gharabadin Salehi. Iran University of Medical        33. Tanelian DL (1991) Neuropathic pain can be relieved by drugs
+    Sciences Press, Tehran (litograph in Persian)                             that are use-dependent sodium channel blockers: lidocaine, car-
+22. Lockhart E (2004) Topical analgesics: topical combination of              bamazepine, and mexiletine. Anesthesiology 74:949–951
+    amitriptyline and ketamine for post herpetic neuralgia. J Pain 5:82   34. Derry S, Moore RA (2012) Topical capsaicin (low concentration)
+23. Backonja MM, Krause SJ (2003) Neuropathic pain question-                  for chronic neuropathic pain in adults. Cochrane Database Syst
+    naire–short form. Clin J Pain 19:315–316                                  Rev 9(CD010111):CD14010111. doi:10.1002/14651858
+24. Benzon HT (2005) The neuropathic pain scales. Reg Anesth Pain         35. Calixto JB, Beirith A, Ferreira J et al (2000) Naturally occurring
+    Med 30:417–421                                                            antinociceptive substances from plants. Phytother Res
+25. Truini A, Cruccu G (2006) Pathophysiological mechanisms of                14:401–418
+    neuropathic pain. Neurol Sci 27:179–182                               36. de Sousa DP (2011) Analgesic-like activity of essential oils
+26. Jorge LL, Feres CC, Teles VE (2010) Topical preparations for              constituents. Molecules 16:2233–2252
+    pain relief: efficacy and patient adherence. J Pain Res 4:11–24       37. Wasner G, Naleschinski D, Binder A et al (2008) The effect of
+27. McCleane G (2008) Topical analgesic agents. Clin Geriatr Med              menthol on cold allodynia in patients with neuropathic pain. Pain
+    24:299–312                                                                Med 9:354–358
+28. Zur E (2014) Topical treatment of neuropathic pain using com-         38. Gaudioso C, Hao J, Martin-Eauclaire M-F et al (2012) Menthol
+    pounded medications. Clin J Pain 30:73–91                                 pain relief through cumulative inactivation of voltage-gated
+29. Davies SJ, Harding LM, Baranowski AP (2002) A novel treat-                sodium channels. Pain 153:473–484
+    ment of postherpetic neuralgia using peppermint oil. Clin J Pain      39. Zarshenas MM, Petramfar P, Mohammadi Samani S et al (2014)
+    18:200–202                                                                Analysis of the essential oil components from different Carum
+30. Lynch ME, Clark AJ, Sawynok J et al (2005) Topical 2 %                    copticum L. Samples from iran. Pharmacognosy Res 6:62–66
+    amitriptyline and 1 % ketamine in neuropathic pain syndromes: a       40. Haeseler G, Maue D, Grosskreutz J et al (2002) Voltage-depen-
+    randomized, double-blind, placebo-controlled trial. Anesthesiol-          dent block of neuronal and skeletal muscle sodium channels by
+    ogy 103:140–146                                                           thymol and menthol. Eur J Anaesthesiol 19:571–579
+31. McCleane GJ (2000) Topical doxepin hydrochloride reduces
+    neuropathic pain: a randomized, double-blind, placebo controlled
+    study. Pain Clin 12:47–50
+
+
+
+
+                                                                                                                                      123
+

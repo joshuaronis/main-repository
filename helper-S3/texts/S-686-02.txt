@@ -1,0 +1,483 @@
+
+===== PDF PAGE 1 of 8 =====
+                                                                                                                                                                                                                    Original Article           Journal of
+                                                                                                                                                                                                                                                                            187
+                                                                                                                                                                                                                                               CLINICAL
+                                                                                                                                                                                                                                               NEUROMUSCULAR
+                                                                                                                                                                                                                                               DISEASE
+                                                                                                                                                                                                                                               Volume 21, Number 4
+                                                                                                                                                                                                                                               June 2020
+
+
+
+
+                                                                                                                                  Efficacy of Electrical Stimulation on Nerve
+                                                                                                                                  Fiber Growth in Small Fiber Neuropathy
+                                                                                                                                  Ahmet Z. Burakgazi, MD*†
+
+                                                                                                                                                                                                   The clinical symptoms and physical
+                                                                                                                                  Abstract
+                                                                                                                                                                                             examination findings of SFN are well
+                                                                                                                                  Objectives:                                                defined.4–7 Novel diagnostic tests such as
+                                                                                                                                  To define whether electrical nerve stimulation
+                                                                                                                                  (ENS) therapy would promote intraepidermal
+                                                                                                                                                                                             skin biopsy and autonomic nerve function
+                                                                                                                                  nerve growth and nerve regeneration in patients            tests have been developed over the past 2
+                                                                                                                                  with small fiber neuropathy (SFN).                         decades to aid in diagnosis. Several
+Downloaded from http://journals.lww.com/jcnmd by BhDMf5ePHKbH4TTImqenVDezntqwKeJGZ4+/XhAcDTlW0j2CaBkq3qofk8O3rPde on 07/04/2020
+
+
+
+
+                                                                                                                                  Methods:                                                   SFN-associated conditions such as glucose
+                                                                                                                                  This was a prospective study conducted on 8                dysmetabolism, connective tissue diseases,
+                                                                                                                                  subjects with previously diagnosed SFN. Nerve
+                                                                                                                                                                                             sarcoidosis, hypothyroidism, vitamin B12
+                                                                                                                                  conduction testing, punch biopsies, and clinical
+                                                                                                                                  examinations with a calculation of revised total           deficiency, paraproteinemia, HIV infection,
+                                                                                                                                  neuropathy score were conducted on subjects                celiac disease, neurotoxic drug, and para-
+                                                                                                                                  before beginning ENS therapy and at 30 and 60 days
+                                                                                                                                                                                             neoplastic syndrome have been described
+                                                                                                                                  after the start of ENS therapy.
+                                                                                                                                                                                             as well.5,6 However, in approximately 50%
+                                                                                                                                  Results:
+                                                                                                                                                                                             of these cases, no underlying etiological
+                                                                                                                                  Clinical examination findings and intraepidermal
+                                                                                                                                  nerve fiber density measurements on day 30 and             cause can be determined.6,7
+                                                                                                                                  day 60 did not show statistically significant changes in         Management of SFN includes identify-
+                                                                                                                                  the treated group compared with the untreated group.       ing and treating the underlying cause, life-
+                                                                                                                                  Conclusions:                                               style modification, and pain management
+                                                                                                                                  Despite the success of previous animal studies, no         with antidepressants, anticonvulsants, topical
+                                                                                                                                  meaningful nerve growth and regeneration in SFN
+                                                                                                                                  was demonstrated with ENS therapy in this study.
+                                                                                                                                                                                             anesthetics, opioids, and opioid agonists.8
+                                                                                                                                  Studies of larger subject larger populations with          Treatment of the underlying cause of SFN
+                                                                                                                                  longer duration of ENS treatment are warranted to          may slow or stop the progression of the dis-      From the *Neuroscience Section,
+                                                                                                                                  confirm our findings.                                                                                        Department of Medicine, Virginia
+                                                                                                                                                                                             ease; however, currently available medica-        Tech Carilion School of Medicine,
+                                                                                                                                  Key Words: electrical nerve stimulation, small fiber       tions only alleviate SFN-related symptoms         Carilion Clinic Neurology,
+                                                                                                                                  neuropathy                                                                                                   Roanoke, VA; and †Neuroscience
+                                                                                                                                                                                             without disrupting the disease progression,9      Section, Department of Internal
+                                                                                                                                  ( J Clin Neuromusc Dis 2020;21:187–194)                    and patients treated with these medications       Medicine.
+                                                                                                                                                                                                                                               This study was sponsored by
+                                                                                                                                                                                             may suffer undesirable side effects. Thus, the    Research Acceleration Program of
+                                                                                                                                                                                             need for alternative treatment approaches to      Carilion Clinic (intramural grant)
+                                                                                                                                                                                             stop or slow down the progression of SFN          Roanoke, VA.
+
+                                                                                                                                                 INTRODUCTION                                remains largely unmet. Since neuropathy           The author reports no conflicts of
+                                                                                                                                                                                                                                               interest.
+                                                                                                                                                                                             including SFN causes significant impact on
+                                                                                                                                        Peripheral neuropathy (PN) is one of                 quality of life, productivity, and wellness of    Reprints: Ahmet Z. Burakgazi,
+                                                                                                                                  the most common neurological disorders in                  individuals and its related complications         MD, Associate Professor, Virginia
+                                                                                                                                                                                                                                               Tech Carilion School of Medicine,
+                                                                                                                                  the United States.1 Approximately 15–20 mil-               cause several negative social and economical      Carilion Clinic Neurology, 3
+                                                                                                                                  lion people in the United States suffer from               problems in society, it is important to inves-    Riverside Circle, 2nd Floor,
+                                                                                                                                  some type of PN.2 There are different types                tigate potential alternative cure/treatment op-   Roanoke, VA 24016 (e-mail:
+                                                                                                                                                                                                                                               drburakgazi@yahoo.com).
+                                                                                                                                  of PN. Small fiber neuropathy (SFN) is a com-              tions for neuropathy.
+                                                                                                                                                                                                                                               Copyright © 2019 Wolters
+                                                                                                                                  mon form of PN that primarily or exclusively                     In animal studies, electrical stimulation   Kluwer Health, Inc. All rights
+                                                                                                                                  affects small somatic and autonomic fibers.3               has been shown to promote regeneration of         reserved.
+
+
+
+
+                                                                                                                                      Copyright © 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+
+===== PDF PAGE 2 of 8 =====
+                    Journal of    Burakgazi
+188
+            CLINICAL
+      NEUROMUSCULAR
+             DISEASE
+         Volume 21, Number 4
+                    June 2020     defective peripheral nerves.10 These studies,           disease, diabetes, vitamin deficiency, alcohol
+                                  however, have not been conducted in humans              abuse, peripheral vascular disease, abnormal
+                                  to determine safety and efficacy in the utiliza-        hemoglobin A1c, or previous exposure to
+                                  tion of electrical stimulation for the treatment        chemotherapeutic drugs were excluded from
+                                  of patients with PN. Therefore, it is paramount         the study as well since these diseases may
+                                  that studies be conducted in human subjects             impact the normal growth of nerve fibers.
+                                  to determine whether this treatment modality                   Nerve conduction testing, punch biop-
+                                  could prove safe and effective in promoting             sies, and clinical examinations with a calcu-
+                                  the growth and regeneration of nerve fibers             lation of the revised Total Neuropathy Score
+                                  in patients suffering from PN.                          (rTNS)11 were conducted on subjects before
+                                        In this study, the potential regenerative         beginning ENS therapy (as a baseline) and at
+                                  effect of electrical nerve stimulation (ENS)            30 and 60 days after the start of ENS therapy.
+                                  therapy on peripheral nerves in subjects                TNS is a validated peripheral nerve scoring
+                                  diagnosed with SFN was assessed. Nerve                  system calculating with subject symptoms,
+                                  conduction studies were conducted to obtain             signs, and results of quantitative testing. rTNS
+                                  measurements of large myelinated nerve                  is highly correlated with the full TNS (Spear-
+                                  fibers. Skin biopsies were used in measuring            man r 0.98); however, rTNS is more practical
+                                  small unmyelinated nerve fibers. Nerve con-             measure than TNS because it does not
+                                  duction studies and skin biopsies from sev-             include more time-demanding measures
+                                  eral time points throughout the study were              including reports of motor symptoms, auto-
+                                  compared with determine changes in nerve                nomic symptoms, or a quantitative vibration
+                                  fiber growth. The hypothesis in this study              measurement.12 A trained neuromuscular
+                                  was that ENS therapy would promote intra-               specialist conducted all rTNS examinations.
+                                  epidermal nerve growth and nerve regenera-                     Nerve conduction studies were per-
+                                  tion in patients with SFN PN.                           formed under a uniform protocol using a
+                                                                                          Caldwell electromyography machine that
+                                                     METHODS                              included bilateral sural and superficial sen-
+                                                                                          sory responses and bilateral common pero-
+                                         This was a prospective study conducted           neal and tibial motor responses. An average
+                                  on 9 subjects with previously diagnosed SFN.            of 10 antidromic responses was recorded for
+                                  Subjects were recruited between January                 the sural nerve with the active electrode
+                                  2016 and September 2016 at Carilion Clinic              placed behind the lateral malleolus and the
+                                  in Roanoke, VA. This study was approved by              cathode 11 cm proximal in the calf. Supra-
+                                  the local institutional review board, and writ-         maximal, single compound muscle action
+                                  ten informed consent was obtained from each             potential responses were recorded for the
+                                  participant before participation in the study.          peroneal and tibial motor nerve with the
+                                         Both male and female subjects between            active electrode placed over the belly of the
+                                  18 and 70 years of age with a diagnosis of              extensor digitorium brevis and abductor
+                                  idiopathic SFN were included in this study.             hallucis muscles, respectively. Stimulation
+                                  Owing to concerns regarding subject vulner-             sites included the anterior ankle, immediately
+                                  ability, subjects younger than 18 years or              distal to the fibular head, and the popliteal
+                                  older than 70 years, as well as subjects with           fossa. A bar electrode was used for the
+                                  an inability to consent, and pregnant or                sensory response recordings. Limb tempera-
+                                  nursing mothers were excluded from this                 ture was maintained at 32°C at the dorsum of
+                                  study. In an effort to mitigate interference            the foot. The Nerve Conduction Study (NCS)
+                                  with other medical devices, subjects with               were performed by the same physician at
+                                  electronic implants were also excluded                  each time point, and an average of the
+                                  from participation. Patients with significant           observed bilateral nerve responses was used
+                                  systemic disease including cancer, heart                during data analysis.
+
+                                 Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+
+
+       Copyright © 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+
+===== PDF PAGE 3 of 8 =====
+                                                                     ENS Treatment on SFN            Journal of
+                                                                                                                           189
+                                                                                                     CLINICAL
+                                                                                                     NEUROMUSCULAR
+                                                                                                     DISEASE
+                                                                                                     Volume 21, Number 4
+Neuromuscular Electrical                            (6 biopsies per patient) were collected dur-     June 2020
+
+Stimulation Therapy                                 ing the study and sent to Johns Hopkins Cuta-
+        ENS therapy for this study was deliv-       neous Nerve Laboratory for interpretation.
+ered to 1 leg using an AvivaStim XP stimula-              Specimens were fixed and stained
+tor, with the contralateral leg serving as an       with PGP 9.5 (ubiquitin hydrolase, Chem-
+untreated control. Subjects selected which          icon). A trained and blinded technician
+leg would receive the ENS at their baseline         then assessed the intraepidermal nerve
+visit. Instructions on the use of the device for    fiber density (IENFD) as described else-
+ENS therapy were provided by a trained              where14 and compared with established
+neuromuscular specialist to subjects during         normative data for the laboratory.15
+their baseline visit. After the training session,
+baseline skin biopsy and NCS of sural, super-       Statistics
+ficial peroneal, tibial motor, and peroneal                Changes over time for the different
+motor nerves were performed. Subjects were          neuropathy measures were assessed through
+provided a AvivaStim XP stimulator device to        mixed model regression for the IENFD and a
+take home and instructed to apply the ENS           mixed-effects model for TNS and nerve
+therapy 3 times per week for 30 minutes per         conduction measures, thus accounting for
+session.                                            longitudinal measurements within individu-
+        During ENS therapy, 4 electrodes of the     als. The measurements were presented as a
+device were placed on calf muscles. Two             mean 6 SD. Repeated-measures analysis of
+electrodes were placed on the gastrocnemius         variance was used to analyze the change over
+muscle and 2 electrodes on the tibialis             time, and Greenhouse–Geisser correction
+anterior muscle. The AvivaStim XP stimulator        was used when sphericity was violated. Sta-
+has 7 electrical stimulation programs with          tistical analysis was performed using SAS9.4.
+different frequencies and durations. For this
+protocol, the AvivaStim Program #3 was                               RESULTS
+used, which has a 50-Hz frequency setting,
+                                                          Nine subjects were initially recruited
+contraction duration of 10 seconds, a relaxa-
+                                                    into the study. One participant was removed
+tion period of 20 seconds, and a ramp up and
+                                                    from the study due to not following of the
+ramp down the duration of 1.5 seconds for
+                                                    study protocol. Of the 8 subjects, 6 were
+the study. The ENS therapy was applied 30 mi-
+                                                    women and 2 were men. The mean age was
+nutes per day for 3 days per week for 60 days.
+                                                    52 6 7 years, range 44–60 years.
+        Subjects were contacted periodically to
+ensure compliance with the treatment pro-           Neuropathy Signs
+tocol. Subjects returned to the clinic for                All subjects presented at the baseline,
+nerve conduction testing, punch biopsies,           day 30, and day 60 visits. Subjects did not
+and clinical examinations with a calculation        report any remarkable changes in their neu-
+of an rTNS13,15,16 at 30 and 60 days after the      ropathic symptoms. rTNS values for all pa-
+start of treatment.                                 tients stayed the same between visits. rTNS
+                                                    was 3.22 6 0.83 on day 0; 3.22 6 0.83 on day
+Skin Biopsy                                         30, and 3.22 6 0.83 on day 60.
+      Subjects underwent 3-mm punch skin
+punches on both limbs with the defined              Neuropathy Measures
+location of 10 cm above the proximal mal-                 Skin biopsies were performed at base-
+leolus at the time of the baseline visit. The       line, day 30, and day 60. Of the subjects
+subjects underwent day 30 and day 60                enrolled in this study, 2 underwent NCS at
+biopsies. These biopsies were taken from            the baseline visit while previous NCS findings
+both limbs, approximately 1–2 cm apart from         were used for 6 subjects. One of the subjects
+the previous biopsy site. A total of 54 biopsies    did not complete the NCS on day 60 due to
+
+                                                                                  www.jcnmd.com
+
+
+    Copyright © 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+
+===== PDF PAGE 4 of 8 =====
+                    Journal of    Burakgazi
+190
+            CLINICAL
+      NEUROMUSCULAR
+             DISEASE
+         Volume 21, Number 4
+                    June 2020     intense leg and lower back pain. NCS record-            by Willand et al, it was observed that daily
+                                  ings including sural nerve amplitude and                electrical stimulation in the muscles of rats
+                                  latency, superior peroneal nerve amplitude              had significantly higher motor unit number
+                                  and latency, tibialis motor nerve amplitude             counts accompanied with significantly unreg-
+                                  and latency, and peroneal motor nerve ampli-            ulated intramuscular levels of brain-derived
+                                  tude and latency did not demonstrate stati-             and glial cell line–derived neurotrophic fac-
+                                  cally significant changes in the treated groups         tor mRNA compared to those without stim-
+                                  compared with the untreated group on day                ulation.18 However, in their study, the
+                                  30 and day 60 (Table 1). IENFD measure-                 corresponding levels of trophic factor mRNA
+                                  ments on day 30 and day 60 did not show                 within the distal stump were not different
+                                  statistically significant changes in the treated        from one another, indicating that the intra-
+                                  group compared with the untreated group.                muscular electrical stimulus does not modu-
+                                  Only 1 subject showed some degree of mean-              late Schwann cell–derived trophic factor
+                                  ingful growth in IENFD (IENFD was 9.8                   transcription.18 There is currently no cure
+                                  fibers/mm on day 0; 13.3 fibers/mm on day               available for most PN cases. Development of
+                                  30; and 17.1 fibers/mm on day 60) (Fig. 2).             new treatment modalities is paramount in
+                                  However, there was no meaningful nerve                  addressing this unmet medical need. Owing
+                                  growth and regeneration on the other 7 sub-             to the positive effects of ENS on nerve
+                                  jects (Table 1). There was no IENFD detected            growth and regeneration observed in pre-
+                                  in 2 of the subjects with no meaningful                 clinical testing on laboratory animals, this
+                                  growth. The pattern of IEFND changes is                 study was designed to investigate the effects
+                                  demonstrated in Figures 1 and 2. The meas-              of ENS on human subjects diagnosed with
+                                  urements of subjects are summarized in                  SNF. Effects of ENS were assessed using
+                                  Table 1. Overall, there was no meaningful               objective measures, particular assessment of
+                                  mean nerve regeneration and nerve growth                IENFD with a skin biopsy. However, this
+                                  in the treated subjects (Fig. 2).                       study did not produce meaningful regenera-
+                                                                                          tion in small and large peripheral nerve fibers
+                                                   DISCUSSION                             associated with ENS treatment.
+                                                                                                 There are several studies assessing ENS
+                                        Previous investigations of the effects of         in treating neuropathic pain. For instance,
+                                  electric stimulation in animal models demon-            Reverberi et al recently showed that periph-
+                                  strated potential regeneration. A study con-            eral ENS could be an effective modality in
+                                  ducted on the embryonic neurons of Fisher               managing severe neuropathic pain.19 Thank-
+                                  rats found that brief electrical stimulation            ral et al reviewed 8 studies in which electrical
+                                  immediately after transplantation altered               stimulation was used to treat diabetic neurop-
+                                  motor unit numbers and muscle properties                athy. Six studies evaluated SNF. Two studies
+                                  10 weeks later and demonstrated potential               evaluated patients with both small and large
+                                  long-term effects on the motor unit formation           fiber neuropathy and reported significant
+                                  and muscle force.16 Another study conducted             improvement in vibration and monofilament
+                                  on the sciatic nerve of diabetic rats showed            testing and reduction in symptoms in
+                                  that electrical stimulation of 10 mA or above           the electrical stimulation treatment group.
+                                  might be necessary to improve regeneration              Six of 8 pain management studies identified
+                                  after a dissect lesion.17 A study by Wang et al         significant improvement in symptoms.20 Klas-
+                                  showed that electrical stimulation success-             sen et al21 demonstrated that high-tone exter-
+                                  fully promoted motor nerve regeneration                 nal muscle stimulation improved health-
+                                  selectivity regardless of end-organ connec-             related quality of life metrics in patients with
+                                  tions and increased neural trophic factors in           PN. On these studies, different scales were
+                                  the distal nerve stumps by 3 weeks after                used to assess the effect of ENS on pain
+                                  nerve injury in rat models.13 In a recent study         improvement, but objective assessments of
+
+                                 Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+
+
+       Copyright © 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+
+===== PDF PAGE 5 of 8 =====
+Copyright © 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+
+
+
+
+                                                                                                                        TABLE 1. Summary of Statistical Analysis* of Parameters
+
+                                                                                                                                                             Untreated                                             Treated                                    Treated Minus Untreated
+
+                                                                                                                        Test             N     Day 1        Day 30        Day 60         P     N     Day 1       Day 30       Day 60        P    N      Day 1         Day 30         Day 60         P
+                                                                                                                        IENFD†            8   5.5 6 6.5    4.7 6 5.7      5.7 6 6.5   0.480‡ 8      5.2 6 4.3    5.2 6 5.7    4.7 6 6.3 0.839 8       20.3 6 3.2      0.5 6 2.1     21.1 6 2.5 0.459
+                                                                                                                          (fiber/mm/d)
+                                                                                                                        Sam (mV)          5 14.9 6 5.1 16.5 6 10.4 18.1 6 12.3        0.711    5 12.4 6 5.4 13.1 6 6.4 10.2 6 4.6 0.711 3 25.6 6 6.5  2.0 6 0.8  23.5 6 3.4 0.140
+                                                                                                                        SNLa (ms)         5 3.4 6 0.5 3.4 6 0.8     3.1 6 0.3         0.549    5 3.4 6 0.5 3.1 6 0.2 3.2 6 0.3 0.325 3 20.1 6 0.8 20.2 6 0.9       0.3 6 0.3 0.760
+                                                                                                                        SPAm (mV)         4 11.8 6 2.5 10.7 6 4.4   9.5 6 3.4         0.726    4 15.9 6 6.5 11.4 6 4.8 9.3 6 6.2 0.314 4   3.9 6 5.3  0.8 6 0.4  20.2 6 9.6 0.643
+                                                                                                                        SPNLa (ms)        4 3.0 6 0.2 2.8 6 0.4     3.0 6 0.3         0.642    4 3.0 6 0.7 3.3 6 0.5 3.0 6 0.7 0.527 4 20.03 6 0.6    0.5 6 0.2 20.003 6 0.9 0.341
+                                                                                                                        TMAm (mV)         6 9.9 6 4.2 9.0 6 4.1     6.7 6 2.6         0.124    7 8.2 6 3.3 9.3 6 3.9 7.7 6 3.5 0.255 6 21.3 6 2.8     0.8 6 2.4    1.2 6 4.0 0.250
+                                                                                                                        TMLa (ms)         6 4.2 6 0.8 4.1 6 0.4     4.4 6 0.9         0.835    7 4.7 6 0.9 4.1 6 0.6 4.3 6 0.6 0.138 6     0.3 6 0.9 0.02 6 0.4  20.1 6 0.6 0.236
+                                                                                                                        PMAm (mV)         6 4.1 6 1.4 3.4 6 0.7     2.6 6 0.4         0.057    7 3.1 6 1.1 3.3 6 1.0 3.1 6 1.1 0.713 6 21.0 6 1.3     0.1 6 0.7    0.6 6 1.4 0.084
+                                                                                                                        PMLa (ms)         6 4.4 6 0.6 4.8 6 1.2     4.8 6 0.8         0.426    7 4.5 6 0.6 4.6 6 0.7 4.6 6 0.4 0.816 6    0.05 6 0.6 20.1 6 1.0  20.1 6 0.5 0.760
+
+                                                                                                                          *Statistical analysis: repeated-measures analysis of variance.
+                                                                                                                          †IENFD data were analyzed fibers/mm/day.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                         ENS Treatment on SFN
+                                                                                                                          ‡Greenhouse–Geisser correction was used when sphericity was violated.
+                                                                                                                          N, number; PMAm, peroneal motor nerve amplitude; PMLa, peroneal motor nerve amplitude; Sam, sural nerve amplitude; SNLa, sural nerve latency; SPAm, superficial peroneal nerve
+                                                                                                                        amplitude; SPNLa, superficial peroneal nerve latency; TMAm, tibial motor nerve amplitude; TMLa, tibial motor nerve latency.
+                                                                                                        www.jcnmd.com
+
+
+
+
+                                                                                                                                                                                                                                                                                                        June 2020
+                                                                                                                                                                                                                                                                                                        Volume 21, Number 4
+                                                                                                                                                                                                                                                                                                                              DISEASE
+                                                                                                                                                                                                                                                                                                                              NEUROMUSCULAR
+                                                                                                                                                                                                                                                                                                                              CLINICAL
+                                                                                                                                                                                                                                                                                                                                             Journal of
+                                                                                                                                                                                                                                                                                                                                        191
+
+===== PDF PAGE 6 of 8 =====
+                    Journal of    Burakgazi
+192
+            CLINICAL
+      NEUROMUSCULAR
+             DISEASE
+         Volume 21, Number 4
+                    June 2020
+
+
+
+
+                                  FIGURE 1. The pattern of IENFD changes on treated and untreated legs.
+
+                                  ENS effects on nerve growth or regeneration             The advantages of using skin biopsy in
+                                  were not conducted. This was the first                  neurology include easy performing, wide
+                                  human study that assessed ENS effect on                 availability, and objective and quantitative
+                                  nerve growth and regeneration with objec-               assessment of nerve fibers. Quantitative
+                                  tive measures including skin biopsy and                 assessment of IENFD has been used success-
+                                  nerve conduction studies. In addition, the pa-          fully as an end point measure in several
+                                  tients’ neuropathic signs and symptoms were             prospective clinical trials.22 The presence of
+                                  assessed with rTNS, and there was no change             normative data references23 and reliability24
+                                  in the neuropathy symptoms of the patients.             is other advantage of skin biopsies using in
+                                        Skin biopsy is a well-tolerated and               several studies. There are several advantages
+                                  routinely used procedure in neurology clinic            to using skin biopsies to assess nerve
+                                  to assess SFN. It takes between 10 and                  growth and regeneration in this study. First,
+                                  15 minutes to complete whole procedure.                 skin biopsies, unlike nerve biopsies, are
+
+
+
+
+                                  FIGURE 2. The pattern of IENFD changes on treated leg minus untreated leg.
+
+                                 Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+
+
+       Copyright © 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+
+===== PDF PAGE 7 of 8 =====
+                                                                          ENS Treatment on SFN                    Journal of
+                                                                                                                                        193
+                                                                                                                  CLINICAL
+                                                                                                                  NEUROMUSCULAR
+                                                                                                                  DISEASE
+                                                                                                                  Volume 21, Number 4
+repeatable allowing the investigator to collect      demonstrated with ENS therapy in this study.                 June 2020
+
+specimens at multiple time points over the           This may be attributed to the small sample
+course of a study to quantify innervation. Sec-      size, stage of neuropathy, or the limited
+ondly, they allow for the more rapid observa-        duration of the treatment. Use of ENS treat-
+tion of axonal regeneration in human                 ment in earlier stages of neuropathy may
+participants25,26 as compared to current den-        show a greater regenerative effect. Studies of
+sity or neurophysiologic measures. Alterna-          larger subject larger populations with longer
+tively, the use of a standardized quantitative       duration of ENS treatment are warranted to
+sensory testing, to deliver thermal or vibra-        confirm our findings.
+tory stimuli to measure an individual’s thresh-
+old, can be used in diagnosis of SFN. It is a                   ACKNOWLEDGMENTS
+well-established and well-validated approach               The author thanks Dr. Michael Polydef-
+to detect SFN, but it is not widely used due to      kis and Johns Hopkins Cutaneous Lab team to
+technical challenges and the length of time          interpret the skin biopsy samples.
+required for testing. In this study, a skin
+biopsy was used in the assessment of IENFD                              REFERENCES
+and was well tolerated by subjects.                   1. Lacomis D. Small-fiber neuropathy. Muscle Nerve.
+                                                         2002;26:173–188.
+       In this study, the principles of previous
+                                                      2. Tavee J, Zhou L. Small fiber neuropathy: a burning
+animal model studies were applied to human               problem. Cleve Clin J Med. 2009;76:297–305.
+subjects in an attempt to show the regener-           3. Devigili G, Tugnoli V, Penza P, et al. The diagnostic
+ative effects associated with ENS. Polydefkis            criteria for small fiber neuropathy: from symptoms to
+                                                         neuropathology. Brain. 2008;131:1912–1925.
+et al showed the mean rate of ENF reinnerva-
+                                                      4. Gibbons CH, Griffin JW, Polydefkis M, et al. The
+tion among the healthy subjects was 0.177 6              utility of skin biopsy for prediction of progression
+0.075 fibers/mm/day and was 5.31 6 2.25                  in suspected small fiber neuropathy. Neurology.
+                                                         2006;66:256–258.
+fibers/mm/30 days.9 However, no meaningful
+                                                      5. Novella SP, Inzucchi SE, Goldstein JM. The frequency
+regeneration was obtained in most of the sub-            of undiagnosed diabetes and impaired glucose toler-
+jects. Only 1 subject showed meaningful                  ance in patients with idiopathic sensory neuropathy.
+                                                         Muscle Nerve. 2001;24:1229–1231.
+growth in IENFD, 3.5 fibers/mm/30 days
+                                                      6. Smith AG, Singleton JR. The diagnostic yield of a
+between day 0 and day 30 and 3.9                         standardized approach to idiopathic sensory-
+fibers/mm/30 days between day 30 and day                 predominant neuropathy. Arch Intern Med. 2004;
+                                                         164:1021–1025.
+60. Two of the subjects had undetectable
+                                                      7. Al-Majed AA, Neumann CM, Brushart TM, et al. Brief
+IENFD at the beginning of the study; there-              electrical stimulation promotes the speed and accu-
+fore, we can postulate that patients with                racy of motor axonal regeneration. J Neurosci. 2000;
+                                                         20:2602–2608.
+advanced stage of the disease have a poor
+                                                      8. Burakgazi AZ, Messersmith W, Vaidya D, et al. Lon-
+response to the treatment.                               gitudinal assessment of oxaliplatin-induced neuropa-
+       This is a small study, which is its biggest       thy. Neurology. 2011;77:980–986.
+limitation. However, 2 IENFD assessments              9. Polydefkis M, Hauer P, Sheth S, et al. The time course
+                                                         of epidermal nerve fiber regeneration: studies in nor-
+were performed on day 0, 30, and 60 that                 mal controls and people with diabetes, with and
+provided total 48 different measurements at              without neuropathy. Brain. 2004;127:1606–1615.
+the end of the study. The longitudinal design        10. McArthur JC, Stocks EA, Hauer P, et al. Epidermal
+                                                         nerve fiber density: normative reference range and
+of the study improved the strength of the                diagnostic efficiency. Arch Neurol. 1998;55:1513–
+study. Further studies including larger sub-             1520.
+jects with longer duration are necessary to          11. Galluzzi KE. Managing neuropathic pain. J Am Oste-
+                                                         opath Assoc. 2007;107(10 Suppl 6):ES39–48.
+retest the effect of ENS on neuropathy. I
+                                                     12. Liu Y, Grumbles RM, Thomas CK. Electrical stimula-
+believe this is a novel study to inspire other           tion of transplanted motoneurons improves motor
+researchers for more comprehensive studies.              unit formation. J Neurophysiol. 2014;112:660–670.
+       In conclusion, despite the success            13. Lin YC, Kao CH, Cheng YK, et al. Current-modulated
+                                                         electrical stimulation as a treatment for peripheral
+of previous animal studies, no meaningful                nerve regeneration in diabetic rats. Restor Neurol
+nerve growth and regeneration in SFN was                 Neurosci. 2014;32:437–446.
+
+                                                                                           www.jcnmd.com
+
+
+    Copyright © 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+
+===== PDF PAGE 8 of 8 =====
+                    Journal of    Burakgazi
+194
+            CLINICAL
+      NEUROMUSCULAR
+             DISEASE
+         Volume 21, Number 4
+                    June 2020     14. Wang WJ, Zhu H, Li F, et al. Electrical stimula-          21. Reverberi C, Dario A, Barolat G, et al. Using periph-
+                                      tion promotes motor nerve regeneration selec-                 eral nerve stimulation (PNS) to treat neuropathic
+                                      tivity regardless of end-organ connection.                    pain: a clinical series. Neuromodulation. 2014;17:
+                                      J Neurotrauma. 2009;26:641–649.                               777–783.
+                                  15. Burakgazi AZ, Polydefkis M, Hoke A. Skin biopsy-          22. Thakral G, Kim PJ, LaFontaine J, et al. Electrical stim-
+                                      proven flecainide-induced neuropathy. Muscle                  ulation as an adjunctive treatment of painful and sen-
+                                      Nerve. 2012;45:144–146.                                       sory diabetic neuropathy. J Diabetes Sci Technol.
+                                  16. Chaudhry V, Eisenberger MA, Sinibaldi VJ, et al. A            2013;7:1202–1209.
+                                      prospective study of suramin-induced peripheral           23. Klassen A, Racasan S, Gherman-Caprioara M, et al.
+                                      neuropathy. Brain. 1996;119:2039–2052.                        High-tone external muscle stimulation in endstage
+                                  17. Cavaletti G, Bogliun G, Marzorati L, et al. Grading of        renal disease: effects on quality of life in patients
+                                      chemotherapy-induced peripheral neurotoxicity                 with peripheral neuropathy. Clin Nephrol. 2013;
+                                      using the Total Neuropathy Scale. Neurology. 2003;            79(Suppl 1):S28–S33.
+                                      61:1297–1300.                                             24. Simpson DM, Kitch D, Evans SR, et al. HIV neurop-
+                                  18. Holland NR, Stocks A, Hauer P, et al. Intraepidermal          athy natural history cohort study: assessment meas-
+                                      nerve fiber density in patients with painful sensory          ures and risk factors. Neurology. 2006;66:1679–
+                                      neuropathy. Neurology. 1997;48:708–711.                       1687.
+                                  19. Polydefkis M, Yiannoutsos CT, Cohen BA, et al.            25. Lauria G, Bakkers M, Schmitz C, et al. Intraepidermal
+                                      Reduced intraepidermal nerve fiber density in HIV-            nerve fiber density at the distal leg: a worldwide
+                                      associated sensory neuropathy. Neurology. 2002;58:            normative reference study. J Peripher Nerv Syst.
+                                      115–119.                                                      2010;15:202–207.
+                                  20. Willand MP, Rosa E, Michalski B, et al. Electrical mus-   26. Smith AG, Howard JR, Kroll R, et al. The reliability
+                                      cle stimulation elevates intramuscular BDNF and               of skin biopsy with measurement of intraepider-
+                                      GDNF mRNA following peripheral nerve injury and               mal nerve fiber density. J Neurol Sci. 2005;228:
+                                      repair in rats. Neuroscience. 2016;334:93–104.                65–69.
+
+
+
+
+                                 Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+
+
+       Copyright © 2019 Wolters Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.
+

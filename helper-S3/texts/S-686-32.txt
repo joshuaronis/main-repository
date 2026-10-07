@@ -1,0 +1,414 @@
+
+===== PDF PAGE 1 of 6 =====
+                                                Diabetes & Metabolic Syndrome: Clinical Research & Reviews 14 (2020) 1823e1828
+
+
+
+                                                                Contents lists available at ScienceDirect
+
+
+                           Diabetes & Metabolic Syndrome: Clinical Research & Reviews
+
+                                                   journal homepage: www.elsevier.com/locate/dsx
+
+
+Original Article
+
+The Effect of Intradermal Botulinum Toxin a injections on painful
+diabetic polyneuropathy
+Mehrdad Taheri a, Meghdad Sedaghat b, Ali Solhpour a, Pooya Rostami a,
+Behnam Safarpour Lima c, *
+a
+    Anesthesiology Research Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+b
+    Department of Internal Medicine, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+c
+    Department of Neurology, Shahid Beheshti University of Medical Sciences, Tehran, Iran
+
+
+
+
+a r t i c l e i n f o                                     a b s t r a c t
+
+Article history:                                          Background and aims: Botulinum toxin type A (BTX-A) have been recently administered to improve
+Received 11 July 2020                                     Diabetic neuropathies; however, the efﬁcacy of this treatment for relieving pain in painful diabetic
+Received in revised form                                  polyneuropathy (DPN) has not been studied yet. Herein, we investigated the efﬁcacy of botulinum toxin
+10 September 2020
+                                                          A (BTX-A) on DPN.
+Accepted 11 September 2020
+                                                          Methods: This prospective, randomized, double-blind, controlled trial was performed in Imam Hossein
+                                                          Medical Center, pain clinic (Tehran, Iran). Diabetic patients (141 cases), between 40 and 70 years old with
+Keywords:
+                                                          polyneuropathy in lower limbs were randomly assigned to one of these three groups: 1. Group D1
+Diabetic neuropathies
+Diabetes mellitus
+                                                          received 150 units of BTX-A in one foot and normal saline 0.9% in the other foot, 2. Group D2 received
+Polyneuropathies                                          BTX-A 150 units in both feet, 3. Group N received normal saline 0.9% in both feet. All injections were
+Botulinum toxins                                          performed intradermally using insulin syringes in 20 different points of foot. Visual analogue scale (VAS)
+Intradermal injections                                    and neuropathy pain scale (NPS) were used to compare the groups.
+Pain                                                      Results: The improvement of VAS, pain intensity, sharp and hot sensation, sensitive and unpleasant
+                                                          sensation, deep and surface sensation was signiﬁcant when comparing BTX-A and placebo groups.
+                                                          However, dull and cold sensations improvement (p ¼ 0.114, and p ¼ 0.653; respectively) did not show a
+                                                          signiﬁcant difference between BTX-A injection and placebo groups. Furthermore, the percentage of
+                                                          changes after treatment indicated that sharp pain was improved more than other complaints (80%, 81%,
+                                                          and 37% for D1, D2, and N groups; respectively).
+                                                          Conclusion: Intradermal administration of BTX-A was effective in improving VAS and all of the items of
+                                                          NPS in patients with diabetic polyneuropathy, except for dull and cold sensation.
+                                                                                              © 2020 Diabetes India. Published by Elsevier Ltd. All rights reserved.
+
+
+
+
+1. Introduction                                                                              hyperglycemia, obesity, hypertension, smoking, and dyslipidemia
+                                                                                             [4]. Plantar ulceration may lead to lower-extremity amputation in
+    Diabetic neuropathies are nerve damaging disorders associated                            patients with peripheral diabetic neuropathy due to loss of sensa-
+with diabetes mellitus (DM) in which sensory and motor nerves can                            tion in the feet [5,6]. Considerable growth of sympathetic neurons
+be damaged. This type of neuropathy affects 30e50% of all patients                           cause constant pain in diabetic neuropathy, which cause difﬁculties
+with diabetes approximately 10 years after the onset of disease                              for patients and health care services; therefore, early diagnosis is
+[1,2]. Distal symmetrical polyneuropathy (DSPN), due to chronic                              essential to avoid the complications [2]. DSPN is linked with pain,
+prolonged hyperglycemia, generally becomes symptomatic after                                 hyperalgesia, paresthesia, damaged sensation (especially in lower
+1e5 years in type 1 DM, whereas in type II, it may be detectable                             extremities), and allodynia.
+after only a few years of known poor glycemic control or even at the                             Drugs such as anti-depressants, carbamazepine, gabapentin,
+onset of disease [3]. Major risk factors of DSPN include                                     opioids and more recently duloxetine and pregabalin have been
+                                                                                             demonstrated beneﬁcial for controlling DSPN; however, it seems
+                                                                                             that previous pharmacologic treatments are not proper enough due
+                                                                                             to the absence of long-term pain relief, poor tolerability and
+    * Corresponding author.
+      E-mail address: b.safarpour@sbmu.ac.ir (B. Safarpour Lima).                            consequent complications [7e9]. Topical treatments like lidocaine
+
+https://doi.org/10.1016/j.dsx.2020.09.019
+1871-4021/© 2020 Diabetes India. Published by Elsevier Ltd. All rights reserved.
+
+===== PDF PAGE 2 of 6 =====
+M. Taheri, M. Sedaghat, A. Solhpour et al.                                         Diabetes & Metabolic Syndrome: Clinical Research & Reviews 14 (2020) 1823e1828
+
+
+patches, high-dose capsaicin and botulinum toxin type A (BTX-A)                     In group D1, 150 units of BTX- A solved in 2 ml of normal saline
+have been recently administered due to less systemic problems; so               0.9% was injected intradermally in 20 points in the sole of the right
+far, the efﬁcacy of these medications for pain relief in DSPN has not           foot with a distance of 1 cm from each other (a 5*4 grid) using a 31-
+been recognized in all studies [10e12]. BTX-A is an effective                   gauge insulin needle. Each point was injected with 0.1 ml corre-
+neurotoxin, which is normally used to control dystonia, muscle                  sponding to 7.5 units of BTX- A. In this group the same procedure
+hyperactivity and glandular hyperactivity. Although the mecha-                  was repeated for the left foot with normal saline. In group D2, 150
+nisms of its action are not explained clearly, in vitro and in vivo             unites of BTX- A solved in 4 ml normal saline 0.9% (for each foot 75
+trials have veriﬁed the palliative effect of BTX-A injection on                 units of BTX- A) was injected intradermally in 20 points in the sole
+neuropathic pain among diabetic patients [13e16]. There is also                 of the right foot with a distance of 1 cm from each other. Each point
+limited supportive evidence for type A botulinum toxin in                       was injected with 0.1 ml corresponding to 3.75 units of BTX- A. For
+improving pain and function of knee in osteoarthritic patients                  each patient, total of 150 units of BTX- A was injected. In group N,
+[17,18].                                                                        the injections were performed for both feet with normal saline in
+    Besides its effect on cholinergic transmission in the somatic and           the same point.
+autonomic nervous systems, studies suggest that botulinum toxin                     It is of note that the total injected volume for each patient in
+can affect cholinergic control of both nociceptive and anti-                    each group was equal to 4 ml. All syringes were prepared and
+nociceptive systems, and this is unconnected to its effect on mus-              numbered by a speciﬁc code by a physician who did not participate
+cles [19,20]. Moreover, its impact on pain is mediated through                  in injections. Another physician who performed injection and the
+altering inﬂammation, axonal transmission, ganglionic, spinal and               patients were blind to the content of the syringe. A daily dose of
+ascending/descending inhibition [10,20].                                        Duloxetine 30 mg was prescribed for all patients.
+    Although there are few studies showing the efﬁcacy of BTX-A in
+improving the diabetic polyneuropathy, its use should be assessed               2.2. Data collection
+in different settings as the efﬁcacy of this treatment for pain relief
+in painful DPN has not been studied yet. Moreover, the exact dosage                 All data including patients’ characteristics and outcome mea-
+of BTX-A in which the maximum improvement could be achieved,                    sures (VAS, NPS) were recorded into a questionnaire designed by
+has not been determined so far. This study not only clarify the ef-             the researcher and then entered into an electronic database. All
+ﬁcacy of BTX-A on painful DPN, but also determine the effective                 outcome measures were recorded by specialists blinded to patients’
+intradermal dosage of BTX-A.                                                    treatment. Patients were recruited between May and August 2019.
+                                                                                Each patient underwent the standard procedure, and routine
+2. Material and methods                                                         follow-up was performed 4 weeks after performing the procedure
+                                                                                of injection. The ﬁnal study date was September 2019.
+2.1. Study design
+                                                                                2.3. Sample size calculation
+    This is a prospective, randomized trial study with three months
+of follow-up performed between May and September 2019. The                          A sample size of 30 for each group was calculated with 80%
+patients were enrolled from Imam Hossein Medical Center, pain                   statistical power and a probable 30% difference between results of
+clinic (Tehran, Iran). All patients gave a written informed consent             drug and placebo. A total of 141 patients entered the study corre-
+prior to participating in the study. Our institutional ethics com-              sponding to 47 patients in each group to cover probable loss to
+mittee approved the study protocols that were conducted based on                follow-up.
+the principles of the Declaration of Helsinki (The clinical trial
+number for this study is IRCT20130518013364N8).                                 3. Method of randomization
+    The inclusion criteria were diabetes type I or II, age between 40
+and 70 years, DSPN based on Douleur Neuropathique 4 (DN4)                          Patients were randomly assigned to one of three groups using
+questionnaire, and nerve conduction velocity (NCV) testing                      the simple random sampling with substitution with the help of a
+[21e23] DN4 questionnaire is a standard questionnaire to diagnose               random numbers table (Kendall & Smith table).
+neuropathic pains by utilizing both subjective and objective ques-
+tions, in which a score of 4 or more is indicative of possible                  3.1. Allocation concealment
+neuropathic pain. The diagnosis of polyneuropathy was placed
+according to ESTEEM guideline deﬁned as follows: 2.5 SD                            Proper allocation concealment was used to keep the trial in-
+decreased in sensory nerve action potential (SNAP) amplitude and                vestigators and participants blind to upcoming allocations. All sy-
+2.5 SD decreased in sensory conduction velocity (CV) [6].                      ringes were prepared and numbered by a speciﬁc code by a
+    The exclusion criteria were age more than 70 years, presence of             physician who did not participate in injections. Another physician
+local infection in lower limbs, lumbar radiculopathy, neurologic or             who performed injection and the patients were blind to the content
+mental deﬁcit, allergy to the botulinum toxin, history of alcohol or            of the syringe.
+opium consumption, known renal disease, muscular weakness or
+atrophy of lower limb, history of myasthenia gravis, use of amino-              3.2. Evaluation tools
+glycosides, and breastfeeding. Those patients who could not return
+for visit at any post-treatment appointments were also excluded                 3.2.1. Visual analogue scale (VAS)
+from the study. Patients who used non-steroidal anti-inﬂammatory                    The most frequently used tool for pain measurement in the
+drugs (NSAIDS) were requested to stop NSAIDs consumption seven                  general population is VAS since it is identiﬁed as the most sensitive,
+days before the start of treatment.                                             reproducible, and simplest pain scale. The words “without pain”
+    Patients were divided randomly into three groups: the ﬁrst                  corresponds to score 0 and “unbearable pain” corresponds to score
+group received BTX- A in one foot and normal saline 0.9% in another             10 which are at each end side of the spectrum [24].
+foot (Group D1), the second group received BTX- A in both feet
+(Group D2), and the third group received normal saline 0.9% in both             3.2.2. Neuropathy pain scale (NPS)
+feet (Group N).                                                                     In this pain scoring method, scores are based on patients’
+                                                                         1824
+
+===== PDF PAGE 3 of 6 =====
+M. Taheri, M. Sedaghat, A. Solhpour et al.                                                       Diabetes & Metabolic Syndrome: Clinical Research & Reviews 14 (2020) 1823e1828
+
+
+responses to 10 questions about pain intensity. Zero shows no pain                            respectively). It was observed that except for dull and cold sensa-
+and 10 imply the most pain imaginable. The NPS is only used for                               tion, other comparing parameters were improved in group D1 as
+patients who had already been diagnosed with neuropathic pain.                                compared to group N (Table- 2). In summary, dull sensation and
+This scale should not be used to discern whether the patient’s pain                           cold sensation were not improved after botulinum injection when
+is secondary to neuropathy or not [25]. Ten questions in NPS                                  we compared it in different groups.
+include pain intensity, sharp sensation, hot sensation, dull sensa-                              The percentage of changes in three groups after treatment
+tion, cold sensation, itching sensation, sensitive sensation, un-                             indicated that sharp pain was improved more than other com-
+pleasant sensation, deep pain, and surface pain.                                              plaints (80%, 81%, and 37% for D1, D2, and N groups; respectively).
+                                                                                              In contrast, nearly no improvement was found for dull sensation
+4. Statistical analysis                                                                       and cold sensation (Fig. 1).
+
+   To present data, we used mean standard deviation, median and                               6. Discussion
+range. To assess the normal distribution of data, we used Shapiro-
+Wilks test and Q-Q plot. To compare the groups at baseline, we                                    This study showed that local treatment with BTX-A in diabetic
+used analysis of Variance (ANOVA) and chi-Square test. Changes                                patients with polyneuropathy decreased VAS score, deep and sur-
+within groups were compared by paired t-test. To assess the dif-                              face pain, pain intensity as well as sharp, hot, sensitive sensation
+ference between three groups when adjusting the baseline values,                              and unpleasant sensations compare to placebo group. In our study,
+we used analysis of Covariance (ANCOVA). Multiple comparisons                                 patients who received unilateral BTX-A injections showed
+were performed using Sidak method. Also, P-value less than 0.05                               decreased VAS score in both feet, which may reﬂect the central
+were considered statistically signiﬁcant. All statistical analyses                            effects of BTX-A injection (and not just the topical effect).
+were performed using SPSS version 25 (IBM Corp. Armonk, NY:IBM                                    In a review article written by Argof et al. it was concluded that
+Corp).                                                                                        BTX-A could dramatically improve neuropathic pain in diabetic
+                                                                                              patients [20]. Also, recent studies showed that both NPS (some
+5. Results                                                                                    indices) and VAS have improved after utilizing BTX-A injection in
+                                                                                              neuropathic patients [26]. Although in their study sharp sensation,
+    A total of 141 patients were enrolled in the present study. There                         sensory sensation, and deep sensation did not show signiﬁcant
+were no signiﬁcant differences between groups D1, D2, and N                                   difference between groups, these indices improved signiﬁcantly
+regarding the participants’ mean age and sex distribution (Table 1).                          according to our ﬁndings. This inconsistency may stem from the
+Also, there was no difference among the 3 groups regarding pre-                               vast difference in sample size; also, we administered higher dosage
+treatment parameters, except for sensitive sensation (P < 0.001)                              of BTX-A.
+(Table 2). All parameters were improved signiﬁcantly in D1 and D2                                 Ranoux et al. [15] conducted a study on the effect of BTX-A on
+groups as compared to group N, except for dull sensation and cold                             pain site in diabetic patients with polyneuropathy. In their study, 29
+sensation. As it is shown in Table 2, VAS pain score, pain intensity,                         diabetic patients with painful local neuropathy and mechanical
+sharp sensation, hot sensation, sensitive sensation, unpleasant                               allodynia were treated with intradermal BTX-A injection at the site
+sensation, deep pain, and surface pain all improved signiﬁcantly                              of pain. This study showed that BTX-A injection signiﬁcantly
+after botulinum injection compared to placebo (P < 0.001 for all).                            relieved pain and allodynia [15]. The sample size and the number of
+When comparing group D1 and D2, only hot sensation showed a                                   injection areas were fewer than ours and all NPS were not
+signiﬁcant difference; in other words, hot sensation improvement                              compared between groups. In a study conducted by Bach-Rojecky
+was signiﬁcantly lower among those patients who received injec-                               et al. [10] on painful diabetic neuropathy in rats, they evaluated
+tion in both feet compared to one foot (P ¼ 0.003). There was no                              the sensitivity of this model to mechanical and thermal stimuli. In
+difference between patients in D1 and D2 groups in other                                      this study, diabetic animals with a pain threshold of 0.25 compared
+comparing parameters. When we compared group D2 with group                                    to non-diabetic group were considered as neuropathic. They
+N, most parameters such as VAS, pain intensity, sharp sensation,                              injected BTX-A and evaluated mechanical and thermal sensitivity at
+hot sensation, sensitive sensation, itching, unpleasant sensation                             several different times. They observed that after applying BTX-A
+and deep sensation were signiﬁcantly improved in group D2                                     peripherally, sensitivity to injectable sites was reduced [10]. It
+compared to group N (Table 2). On the other hand, no difference                               was striking that the rats who received unilateral BTX-A injections
+was observed in dull sensation, cold sensation and surface pain                               showed bilateral decreased pain. This effect was also observed in
+between D2 and N groups (P ¼ 0.22, P ¼ 0.736, P ¼ 0.069;                                      our study. Surprisingly, patients who received unilateral BTX-A
+
+
+Table 1
+Demographic characteristics of patients.
+
+  Parameter                  Level/Statistics               Total                      Groups                                                                             P-value
+
+                                                                                       D1                          D2                         N
+
+  Age                        Mean ± SD                      55.2 ± 7.4                 54.5 ± 7.6                  56.9 ± 6.2                 54.3 ± 8.2                  0.163a
+                             Median (range)                 55 (38e72)                 54 (39e71)                  57 (41e70)                 53 (38e72)
+
+  Sex                        M                              55 (39.0%)                 16 (34.0%)                  20 (42.6%)                 19 (40.4%)                  0.679b
+                             F                              86 (61.0%)                 31 (66.0%)                  27 (57.4%)                 28 (59.6%)
+
+Group D1, 150 units of BTX- A solved in 2 ml of normal saline 0.9% was injected intradermally in 20 points in the sole of the right foot with a distance of 1 cm from each other. In
+this group the same procedure was repeated for the left foot with normal saline; Group D2, 150 unites of BTX- A solved in 4 ml normal saline 0.9% (for each foot 75 units of BTX-
+A) was injected intradermally in 20 points in the sole of the right foot with a distance of 1 cm from each other; Group N, the injections were performed for both feet with
+normal saline.
+Abbreviations: M, male; F, female.
+  a
+     Based on Analysis of Variance (ANOVA).
+  b
+     Based on Chi-Square test.
+
+                                                                                       1825
+
+===== PDF PAGE 4 of 6 =====
+M. Taheri, M. Sedaghat, A. Solhpour et al.                                                       Diabetes & Metabolic Syndrome: Clinical Research & Reviews 14 (2020) 1823e1828
+
+Table 2
+Comparison of pre- and post-treatment ﬁndings in three groups of patients (The post treatment ﬁndings have been adjusted for the baseline).
+
+  Parameter                       Time             Groups                                                                  P-value          Multiple Comparisonc
+
+                                                   D1                         D2                         N                                  P1            P2              P3
+                                                                                                                                 a
+  VAS                             Pre              6.8 ± 1.1                  6.7 ± 1.2                  7 ± 1.1           0.344
+                                  Post             2.1 ± 1                    2 ± 1.2                    5 ± 1.5           <0.001b          0.994         <0.001          <0.001
+                                  P-withind        <0.001                     <0.001                     <0.001
+                                                                                                                                 a
+  Pain intensity                  Pre              6.8 ± 1.1                  6.7 ± 1.2                  7 ± 1.1           0.344
+                                  Post             2.1 ± 1                    2 ± 1.2                    4.5 ± 1.6         <0.001b          0.992         <0.001          <0.001
+                                  P-withinz        <0.001                     <0.001                     <0.001
+  Sharp sensation                 Pre              7.4 ± 1.1                  7.3 ± 1.2                  7.2 ± 1.4         0.701 a
+                                  Post             1.4 ± 1.2                  1.3 ± 1.1                  4.3 ± 1.7         <0.001b          0.967         <0.001          <0.001
+                                  P-withind        <0.001                     <0.001                     <0.001
+  Hot sensation                   Pre              7.3 ± 1.3                  7.1 ± 1.3                  7.6 ± 1.1         0.115 ɤ
+                                  Post             2.4 ± 2                    1.3 ± 1.3                  5.2 ± 1.6         <0.001b          0.003         <0.001          <0.001
+                                  P-withinz        <0.001                     <0.001                     <0.001
+  Dull sensation                  Pre              3.2 ± 1.5                  2.9 ± 1.5                  3.1 ± 1.7         0.582 a
+                                  Post             3.2 ± 1.5                  2.9 ± 1.4                  2.9 ± 1.5         0.114b           1             0.22            0.182
+                                  P-withind        0.837                      0.622                      0.024
+  Cold sensation                  Pre              3.5 ± 1.7                  3.1 ± 1.5                  3.6 ± 1.5         0.21 ɤ
+                                  Post             3.6 ± 1.9                  3.2 ± 1.4                  3.8 ± 1.8         0.653b           0.971         0.736           0.938
+                                  P-withind        0.644                      0.135                      0.067
+                                                                                                                                     a
+  Sensitive sensation             Pre              5.4 ± 1.4                  6.1 ± 1.2                  6.4 ± 1.2         <0.001
+                                  Post             2.6 ± 1.6                  2.7 ± 1.7                  6 ± 1.2           <0.001b          0.768         <0.001          <0.001
+                                  P-withind        <0.001                     <0.001                     0.011
+  Unpleasant sensation            Pre              6.9 ± 1.3                  6.9 ± 0.9                  6.8 ± 1.3         0.897 a
+                                  Post             2.3 ± 1.3                  2.5 ± 1.6                  6.1 ± 1.4         <0.001b          0.728         <0.001          <0.001
+                                  P-withind        <0.001                     <0.001                     0.006
+                                                                                                                                 a
+  Deep pain                       Pre              7.1 ± 1                    7 ± 1.1                    7 ± 0.9           0.688
+                                  Post             2.5 ± 1.9                  2.6 ± 1.7                  6.1 ± 1.5         <0.001b          0.932         <0.001          <0.001
+                                  P-withind        <0.001                     <0.001                     <0.001
+  Surface pain                    Pre              2.5 ± 1.3                  2.4 ± 1.2                  2.2 ± 1.2         0.397 a
+                                  Post             1.4 ± 1                    1.3 ± 1                    1.8 ± 1.2         0.013b           0.943         0.069           0.017
+                                  P-withind        <0.001                     <0.001                     0.025
+
+P1: Comparison of D1 and D2; P2: Comparison of D2 and N; P3: Comparison of D1and N; P: Multivariate comparison.
+Group D1, 150 units of BTX- A solved in 2 ml of normal saline 0.9% was injected intradermally in 20 points in the sole of the right foot with a distance of 1 cm from each other. In
+this group the same procedure was repeated for the left foot with normal saline; Group D2, 150 unites of BTX- A solved in 4 ml normal saline 0.9% (for each foot 75 units of BTX-
+A) was injected intradermally in 20 points in the sole of the right foot with a distance of 1 cm from each other; Group N, the injections were performed for both feet with
+normal saline.
+Abbreviations: VAS, Visual analogue scale.
+  a
+     Based on Analysis of Variance (ANOVA).
+  b
+     Adjusted for the baseline based on Analysis of Covariance (ANCOVA).
+  c
+     Adjusted for multiple comparison based on Sidak method.
+  d
+     Based on paired t-test.
+
+
+
+
+                     Fig. 1. Comparison of pain indicators improvement in three groups of patients entering the study compared to pre-treatment (Percent).
+
+
+
+
+                                                                                       1826
+
+===== PDF PAGE 5 of 6 =====
+M. Taheri, M. Sedaghat, A. Solhpour et al.                                            Diabetes & Metabolic Syndrome: Clinical Research & Reviews 14 (2020) 1823e1828
+
+
+injections showed decreased VAS score in both feet, which may                     Acknowledgment
+reﬂect the central effects of BTX-A injection (and not just the topical
+effect).                                                                              None to declare.
+    In another study, Restivo et al. [16], evaluated the use of BTX-A
+among twelve diabetic patients with type II diabetes mellitus and                 References
+severe dysphagia. Dysphagia, both for ﬂuid and solid foods, were
+evaluated 24 h after BTX-A injection [16]. In this study, BTX-A was                [1] Guariguata L. By the numbers: new estimates from the IDF Diabetes Atlas
+shown to completely relieve pain in ten patients and resulted in                       Update for 2012. Diabetes Res Clin Pract 2012;98(3):524e5.
+                                                                                   [2] Abbott CA, Malik RA, van Ross ER, Kulkarni J, Boulton AJ. Prevalence and
+dramatic improvement in two other patients [17]. Also, in a study                      characteristics of painful diabetic neuropathy in a large community-based
+by Yuan et al. [19], patients with diabetes mellitus were injected                     diabetic population in the UK. Diabetes Care 2011;34(10):2220e4.
+with BTX-A at 12 points on the dorsum of the foot. Overall, this                   [3] Tesfaye S. Recent advances in the management of diabetic distal symmetrical
+                                                                                       polyneuropathy. Journal of diabetes investigation 2011;2(1):33e42.
+study showed that this injection signiﬁcantly reduced VAS pain
+                                                                                   [4] Bansal D, Gudala K, Muthyala H, Esam HP, Nayakallu R, Bhansali A. Prevalence
+score after one week [19].                                                             and risk factors of development of peripheral diabetic neuropathy in type 2
+    In another study conducted by Ghasemi et al. [13] BTX-A was                        diabetes mellitus in a tertiary care setting. Journal of diabetes investigation
+shown to signiﬁcantly reduce pain among 40 patients with diabetes                      2014;5(6):714e21.
+                                                                                   [5] Sima AA, Kamiya H. Diabetic neuropathy differs in type 1 and type 2 diabetes.
+mellitus. In this double-blind study, they performed BTX-A injec-                      Ann N Y Acad Sci 2006;1084(1):235e49.
+tion at the site of pain in diabetic patients with neuropathy who                  [6] Tankisi H, Pugdahl K, Fuglsang-Frederiksen A, Johnsen B, De Carvalho M,
+were less than 70 years of age [13], and found that injection of 100                   Fawcett PR, et al. Pathophysiology inferred from electrodiagnostic nerve tests
+                                                                                       and classiﬁcation of polyneuropathies. Suggested guidelines. Clin Neuro-
+doses at the dorsum of the foot at 12 points signiﬁcantly reduced                      physiol 2005;116(7):1571e80.
+pain, as well as NPS and VAS score [13]; however, dosage of BTX-A                  [7] Bril V, England J, Franklin GM, Backonja M, Cohen J, Del Toro D, et al. Evidence-
+was lower than that of ours.                                                           based guideline: treatment of painful diabetic neuropathy: report of the
+                                                                                       American academy of neurology, the American association of neuromuscular
+    Casale et al. [27] investigated the effect of BTX-A in patients with               and electrodiagnostic medicine, and the American academy of physical
+chronic pain, and reported that BTX-A can improve function by                          medicine and rehabilitation. Pm&r. 2011;3(4):345e52. e21.
+affecting cholinergic nerves and their control over systemic                       [8] Ziegler D. Painful diabetic neuropathy: treatment and future aspects. Dia-
+                                                                                       betes/metabolism research and reviews 2008;24(S1):S52e7.
+vascular and autonomic nerve function. It has also been shown that                 [9] Finnerup NB, Sindrup SH, Jensen TS. Recent advances in pharmacological
+BTX-A can affect peripheral and central nerves [21]. The results of                    treatment of neuropathic pain. F1000 medicine reports 2010;2.
+the above-mentioned studies were consistent with our results, and                                         
+                                                                                  [10] Bach-Rojecky L, Salkovi   
+                                                                                                                 c-Petrisi
+                                                                                                                           c M, Lackovi
+                                                                                                                                       c Z. Botulinum toxin type A re-
+                                                                                       duces pain supersensitivity in experimental diabetic neuropathy: bilateral
+indicate that BTX-A can improve neuropathic pain among diabetic
+                                                                                       effect after unilateral injection. Eur J Pharmacol 2010;633(1e3):10e4.
+patients.                                                                         [11] Baron R, Mayoral V, Leijon G, Binder A, Steigerwald I, Serpell M. 5% lidocaine
+    BTX-A inhibits the secretion of pain mediators such as substance                   medicated plaster versus pregabalin in post-herpetic neuralgia and diabetic
+P, glutamate, and calcitonin gene related protein (CGRP) from nerve                    polyneuropathy: an open-label, non-inferiority two-stage RCT study. Curr
+                                                                                       Med Res Opin 2009;25(7):1663e76.
+endings and dorsal root ganglions (DRG). Also, it reduces local                   [12] Simpson DM, Brown S, Tobias J. Controlled trial of high-concentration
+inﬂammation around the nerve endings, deactivates the sodium                           capsaicin patch for treatment of painful HIV neuropathy. Neurology
+channel, and exhibits axonal transport [27].                                           2008;70(24):2305e13.
+                                                                                  [13] Ghasemi M, Ansari M, Basiri K, Shaigannejad V. The effects of intradermal
+    Diabetic polyneuropathy can occur due to longstanding hyper-                       botulinum toxin type a injections on pain symptoms of patients with diabetic
+glycemia [28]. A downstream metabolic cascade leads to peripheral                      neuropathy. J Res Med Sci: the ofﬁcial journal of Isfahan University of Medical
+nerve injury through an increased ﬂux of polyol pathway, enhanced                      Sciences 2014;19(2):106.
+                                                                                  [14] Najaﬁ M-R, Rashidi I. Antispasmodic effect of botulinum toxin type A on
+advanced glycation end products formation, excessive release of                        spastic hemiplegia due to cerebrovascular accident. 2003.
+cytokines, activation of protein kinase C, and exaggerated oxidative              [15] Ranoux D, Attal N, Morain F, Bouhassira D. Botulinum toxin type A induces
+stress, as well as other confounding factors [27,28]. Sparse vascular                  direct analgesic effects in chronic neuropathic pain. Ann Neurol: Ofﬁcial
+                                                                                       Journal of the American Neurological Association and the Child Neurology
+supply with impaired autoregulation is also likely to cause hypoxic
+                                                                                       Society 2008;64(3):274e83.
+damage in the nerve [28,29].                                                      [16] Restivo DA, Marchese-Ragona R, Lauria G, Squatrito S, Gullo D, Vigneri R.
+    The strength of this study includes larger sample size compared                    Botulinum toxin treatment for oropharyngeal dysphagia associated with
+                                                                                       diabetic neuropathy. Diabetes Care 2006;29(12):2650e3.
+to other previous studies [30] and a 4-week follow-up after treat-
+                                                                                  [17] Hassan F, Murrell WD, Refalo A, Maffulli N. Alternatives to biologics in man-
+ment. Also, intradermal injection of BTX-A used in the present                         agement of knee osteoarthritis: a systematic review. Sports Med Arthrosc Rev
+study, is more acceptable than usual intra muscular administration                     2018;26(2):79e85.
+for evaluating its effect on pain caused by diabetic polyneuropathy.              [18] Lin C-L, Huang C-C, Huang S-W. Effects of hypertonic dextrose injection in
+                                                                                       chronic supraspinatus tendinopathy of the shoulder: a randomized placebo-
+    As a limitation, we could not determine the optimal dose of BTX-                   controlled trial. Eur J Phys Rehabil Med 2019;55(4):480e7.
+A required to improve pain in diabetic neuropathy.                                [19] Yuan R-Y, Sheu J-J, Yu JM, Chen WT, Tseng I, Chang HH, et al. Botulinum toxin
+                                                                                       for diabetic neuropathic pain: a randomized double-blind crossover trial.
+                                                                                       Neurology 2009;72(17):1473e8.
+7. Conclusion                                                                     [20] Argoff CE. A focused review on the use of botulinum toxins for neuropathic
+                                                                                       pain. Clin J Pain 2002;18(6):S177e81.
+   Intradermal administration of BTX-A is effective in improving                  [21] Madani SP, Fateh HR, Forogh B, Fereshtehnejad SM, Ahadi T, Ghaboussi P, et al.
+                                                                                       Validity and reliability of the Persian (farsi) version of the DN 4 (Douleur
+VAS and all of the items of NPS in patients with diabetic poly-                        Neuropathique 4 questions) questionnaire for differential diagnosis of
+neuropathy, except for dull and cold sensation. In our study, pa-                      neuropathic from non-neuropathic pains. Pain Pract 2014;14(5):427e36.
+tients who received unilateral BTX-A injections showed decreased                  [22] Misra UK, Kalita J, Nair PP. Diagnostic approach to peripheral neuropathy. Ann
+                                                                                       Indian Acad Neurol 2008;11(2):89.
+VAS score in both feet, which may reﬂect the central effects of BTX-              [23] Enderlein G, Pocock SJ. Clinical Trialsda practical approach, vol. 27. John
+A injection (and not just the topical effect). In the future, BTX-A may                Wiley & Sons, ChichesterdNew YorkdBrisbanedTorontodSingapore; 1983.
+be used to relieve central pain, such as in spinal cord injuries.                      p. 634. vol. 265, S.,£ 16.95. Biom J.
+                                                                                  [24] Price DD, McGrath PA, Raﬁi A, Buckingham B. The validation of visual
+                                                                                       analogue scales as ratio scale measures for chronic and experimental pain.
+Declaration of interests                                                               Pain 1983;17(1):45e56.
+                                                                                  [25] Galer BS, Jensen MP. Development and preliminary validation of a pain
+   The authors declare that they have no known competing                               measure speciﬁc to neuropathic pain: the Neuropathic Pain Scale. Neurology
+                                                                                       1997;48(2):332e8.
+ﬁnancial interests or personal relationships that could have                      [26] Salehi H, Moussaei M, Kamiab Z, Vakilian A. The effects of botulinum toxin
+appeared to inﬂuence the work reported in this paper.                                  type A injection on pain symptoms, quality of life, and sleep quality of
+
+                                                                           1827
+
+===== PDF PAGE 6 of 6 =====
+M. Taheri, M. Sedaghat, A. Solhpour et al.                                                       Diabetes & Metabolic Syndrome: Clinical Research & Reviews 14 (2020) 1823e1828
+
+     patients with diabetic neuropathy: a randomized double-blind clinical trial.                 where are we now and where to go? Journal of diabetes investigation
+     Iran J Neurol 2019;18(3):99e107. Epub 2019/11/22. PubMed PMID:                               2011;2(1):18e32.
+     31749930; PubMed Central PMCID: PMCPMC6858596.                                          [30] Yuan RY, Sheu JJ, Yu JM, Chen WT, Tseng IJ, Chang HH, et al. Botulinum toxin
+[27] Casale R, Tugnoli V. Botulinum toxin for pain. Drugs R 2008;9(1):11e27.                      for diabetic neuropathic pain: a randomized double-blind crossover trial.
+[28] Park J, Park HJ. Botulinum toxin for the treatment of neuropathic pain. Toxins               Epub 2009/02/28 Neurology 2009;72(17):1473e8. https://doi.org/10.1212/
+     2017;9(9):260.                                                                               01.wnl.0000345968.05959.cf. PubMed PMID: 19246421.
+[29] Yagihashi S, Mizukami H, Sugimoto K. Mechanism of diabetic neuropathy:
+
+
+
+
+                                                                                      1828
+

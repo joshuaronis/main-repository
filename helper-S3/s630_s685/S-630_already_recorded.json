@@ -1,0 +1,1686 @@
+{
+ "task": "S-630",
+ "searches_already_run": [],
+ "records_already_held": [
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Google Scholar",
+   "query": "Lymphomyosot Thioctsäure Infusion Vergleich",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Google Scholar",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Google Scholar",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Google Scholar",
+   "query": "Meyer mésothérapie Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Lymphomyosot Thioctsäure Infusion Vergleich",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Embase",
+   "query": "Meyer mésothérapie Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Biologische Medizin (journal archive)",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Biologische Medizin (journal archive)",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Biologische Medizin (journal archive)",
+   "query": "Lymphomyosot Thioctsäure Infusion Vergleich",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Biologische Medizin (journal archive)",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Biologische Medizin (journal archive)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Biologische Medizin (journal archive)",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Biologische Medizin (journal archive)",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": null,
+   "title": null,
+   "year": null,
+   "design": null,
+   "n": null,
+   "database": "Biologische Medizin (journal archive)",
+   "query": "Meyer mésothérapie Coenzyme compositum",
+   "url": null
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Lymphatic%20System/7%20-%20Possibilities%20for%20a%20Lymph%20Therapy%20with%20Diabetic%20Polyneur.pdf",
+   "title": "[PDF] [PDF] Possibilities for lymph therapy with diabetic polyneuropathy",
+   "year": "2000",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://www.biopathica.co.uk/Articles/Lymphatic%20System/7%20-%20Possibilities%20for%20a%20Lymph%20Therapy%20with%20Diabetic%20Polyneur.pdf"
+  },
+  {
+   "id": "https://www.researchgate.net/profile/Isabel-Forner-Cordero/publication/289421569_A_prospective_evaluation_of_lymphomyosot_in_the_maintenance_treatment_of_breast_cancer-related_lymphedema/links/5aad12ac458515ecebe6aadd/A-prospective-evaluation-of-lymphomyosot-in-the-maintenance-treatment-of-breast-cancer-related-lymphedema.pdf",
+   "title": "[PDF] [PDF] A prospective evaluation of lymphomyosot in the maintenance treatment of breast cancer--Related lymphedema",
+   "year": "2009",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://www.researchgate.net/profile/Isabel-Forner-Cordero/publication/289421569_A_prospective_evaluation_of_lymphomyosot_in_the_maintenance_treatment_of_breast_cancer-related_lymphedema/links/5aad12ac458515ecebe6aadd/A-prospective-evaluation-of-lymphomyosot-in-the-maintenance-treatment-of-breast-cancer-related-lymphedema.pdf"
+  },
+  {
+   "id": "https://journals.sagepub.com/doi/abs/10.1089/lrb.2012.0024",
+   "title": "The multicomponent medication lymphomyosot improves the outcome of experimental lymphedema",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://journals.sagepub.com/doi/abs/10.1089/lrb.2012.0024"
+  },
+  {
+   "id": "https://link.springer.com/chapter/10.1007/978-3-662-48879-9_18",
+   "title": "Homotoxikologie",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://link.springer.com/chapter/10.1007/978-3-662-48879-9_18"
+  },
+  {
+   "id": "https://roj.igb.ru/jour/manager/files/archive/%D0%A0%D0%9E%D0%96_3_2013.pdf#page=94",
+   "title": "[PDF] [PDF] A Case of Combined Treatment of Complicated Recurrent Herpetic Keratitis Using Keratoamniotic Transplantation",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://roj.igb.ru/jour/manager/files/archive/%D0%A0%D0%9E%D0%96_3_2013.pdf#page=94"
+  },
+  {
+   "id": "https://books.google.com/books?hl=en&lr=&id=7Qu2DwAAQBAJ&oi=fnd&pg=PA381&dq=Dietz+2000+Lymphomyosot&ots=E_TFmvZNtV&sig=j86CDE0McRv7x_5S1orDBNe7y6s",
+   "title": "Grenzen und Möglichkeiten",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://books.google.com/books?hl=en&lr=&id=7Qu2DwAAQBAJ&oi=fnd&pg=PA381&dq=Dietz+2000+Lymphomyosot&ots=E_TFmvZNtV&sig=j86CDE0McRv7x_5S1orDBNe7y6s"
+  },
+  {
+   "id": "https://bookshop.wanttoknow.nl/mwdownloads/download/link/id/831",
+   "title": "[PDF] [PDF] LYME",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://bookshop.wanttoknow.nl/mwdownloads/download/link/id/831"
+  },
+  {
+   "id": "https://search.proquest.com/openview/fd8ea2a80eaf7266dc912ba6a26c94c8/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+   "title": "[BOOK] [B] The Efficiency of Dr Reckeweg R40 Daiglukon on Insulin Resistance",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://search.proquest.com/openview/fd8ea2a80eaf7266dc912ba6a26c94c8/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+  },
+  {
+   "id": "https://dialnet.unirioja.es/servlet/articulo?codigo=7524337",
+   "title": "Ozonoterapia en el abordaje integrativo del síndrome premenstrual. Reporte de casos",
+   "year": "2020",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=7524337"
+  },
+  {
+   "id": "https://search.proquest.com/openview/b269d9b8cca990ed80f37d4dffe28259/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+   "title": "[BOOK] [B] A Delphi study on the management of female infertility by Homeopathic Practitioners in South Africa",
+   "year": "2022",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://search.proquest.com/openview/b269d9b8cca990ed80f37d4dffe28259/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Written on the 20 March 2013 by Heel",
+   "title": "[CITATION] [C] Written on the 20 March 2013 by Heel",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": ""
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] СПОСОБ ЛЕЧЕНИЯ ДЕГЕНЕРАТИВНЫХ И ДИСТРОФИЧЕСКИХ ЗАБОЛЕВАНИЙ СЕТЧАТ",
+   "title": "[CITATION] [C] СПОСОБ ЛЕЧЕНИЯ ДЕГЕНЕРАТИВНЫХ И ДИСТРОФИЧЕСКИХ ЗАБОЛЕВАНИЙ СЕТЧАТКИ",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": ""
+  },
+  {
+   "id": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2007-993002",
+   "title": "Vier Fachleute–Vier Behandlungsstrategien",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://www.thieme-connect.com/products/ejournals/html/10.1055/s-2007-993002"
+  },
+  {
+   "id": "https://link.springer.com/chapter/10.1007/978-3-662-48879-9_18",
+   "title": "Homotoxikologie",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://link.springer.com/chapter/10.1007/978-3-662-48879-9_18"
+  },
+  {
+   "id": "https://books.google.com/books?hl=en&lr=&id=7Qu2DwAAQBAJ&oi=fnd&pg=PA381&dq=Lymphomyosot+diabetische+Polyneuropathie&ots=E_TFmvZNuU&sig=BOF3qi1RNVejf9te5f0z6sMMtAI",
+   "title": "Grenzen und Möglichkeiten",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://books.google.com/books?hl=en&lr=&id=7Qu2DwAAQBAJ&oi=fnd&pg=PA381&dq=Lymphomyosot+diabetische+Polyneuropathie&ots=E_TFmvZNuU&sig=BOF3qi1RNVejf9te5f0z6sMMtAI"
+  },
+  {
+   "id": "https://books.google.com/books?hl=en&lr=&id=8nSeEAAAQBAJ&oi=fnd&pg=PA13&dq=Lymphomyosot+diabetische+Polyneuropathie&ots=jZH2J_yaZe&sig=C2oJAssNDGmpZni9CnsaHwbIitU",
+   "title": "[BOOK] [B] Gesund und fit bis ins hohe Alter: mit weit über hundert Rezepten und Anwendungen aus 50-jähriger Praxis",
+   "year": "2022",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://books.google.com/books?hl=en&lr=&id=8nSeEAAAQBAJ&oi=fnd&pg=PA13&dq=Lymphomyosot+diabetische+Polyneuropathie&ots=jZH2J_yaZe&sig=C2oJAssNDGmpZni9CnsaHwbIitU"
+  },
+  {
+   "id": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1494-8756",
+   "title": "Klinische und praktische Erfahrungen mit Lymphstrategien bei Zivilisationserkrankungen",
+   "year": "2021",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1494-8756"
+  },
+  {
+   "id": "https://books.google.com/books?hl=en&lr=&id=IFpoEAAAQBAJ&oi=fnd&pg=PA11&dq=Lymphomyosot+diabetische+Polyneuropathie&ots=XdiWsR4RXt&sig=W0xcWLZt_v7Lgh5aOnVF2VPeyO8",
+   "title": "[BOOK] [B] Tipps für ein gesundes Leben: Unter Einsatz der Selbstheilungskräfte",
+   "year": "2022",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://books.google.com/books?hl=en&lr=&id=IFpoEAAAQBAJ&oi=fnd&pg=PA11&dq=Lymphomyosot+diabetische+Polyneuropathie&ots=XdiWsR4RXt&sig=W0xcWLZt_v7Lgh5aOnVF2VPeyO8"
+  },
+  {
+   "id": "https://books.google.com/books?hl=en&lr=&id=ah2VDwAAQBAJ&oi=fnd&pg=PA3&dq=Lymphomyosot+diabetische+Polyneuropathie&ots=d1W4xT9ES5&sig=IiEh4-UiEe6k0toZR2W0DmV5Qds",
+   "title": "[BOOK] [B] Zuverlässige naturheilkundliche Rezepte und Anwendungen: aus 45-jähriger Praxis",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://books.google.com/books?hl=en&lr=&id=ah2VDwAAQBAJ&oi=fnd&pg=PA3&dq=Lymphomyosot+diabetische+Polyneuropathie&ots=d1W4xT9ES5&sig=IiEh4-UiEe6k0toZR2W0DmV5Qds"
+  },
+  {
+   "id": "https://opus4.kobv.de/opus4-euv/frontdoor/deliver/index/docId/70/file/Doktorarbeit_Dr._Natalie_Jansen_September_2013_PDF.pdf",
+   "title": "[PDF] [PDF] Einfluss der westlichen Ernährung auf die Entstehung und den Verlauf von Tumorerkrankungen",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://opus4.kobv.de/opus4-euv/frontdoor/deliver/index/docId/70/file/Doktorarbeit_Dr._Natalie_Jansen_September_2013_PDF.pdf"
+  },
+  {
+   "id": "https://www.researchgate.net/profile/Isabel-Forner-Cordero/publication/289421569_A_prospective_evaluation_of_lymphomyosot_in_the_maintenance_treatment_of_breast_cancer-related_lymphedema/links/5aad12ac458515ecebe6aadd/A-prospective-evaluation-of-lymphomyosot-in-the-maintenance-treatment-of-breast-cancer-related-lymphedema.pdf",
+   "title": "[PDF] [PDF] A prospective evaluation of lymphomyosot in the maintenance treatment of breast cancer--Related lymphedema",
+   "year": "2009",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot diabetische Polyneuropathie",
+   "url": "https://www.researchgate.net/profile/Isabel-Forner-Cordero/publication/289421569_A_prospective_evaluation_of_lymphomyosot_in_the_maintenance_treatment_of_breast_cancer-related_lymphedema/links/5aad12ac458515ecebe6aadd/A-prospective-evaluation-of-lymphomyosot-in-the-maintenance-treatment-of-breast-cancer-related-lymphedema.pdf"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Lymphatic%20System/7%20-%20Possibilities%20for%20a%20Lymph%20Therapy%20with%20Diabetic%20Polyneur.pdf",
+   "title": "[PDF] [PDF] Possibilities for lymph therapy with diabetic polyneuropathy",
+   "year": "2000",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://www.biopathica.co.uk/Articles/Lymphatic%20System/7%20-%20Possibilities%20for%20a%20Lymph%20Therapy%20with%20Diabetic%20Polyneur.pdf"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:12019258?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:12019258&crl=c&jrnl=10930272",
+   "title": "Medical SUMMARIES.",
+   "year": "2004",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:12019258?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:12019258&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://search.proquest.com/openview/fd8ea2a80eaf7266dc912ba6a26c94c8/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+   "title": "[BOOK] [B] The Efficiency of Dr Reckeweg R40 Daiglukon on Insulin Resistance",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://search.proquest.com/openview/fd8ea2a80eaf7266dc912ba6a26c94c8/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Adjuvant Homeopathic Treatment Enhances the Effects of Convention",
+   "title": "[CITATION] [C] Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": ""
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Written on the 20 March 2013 by Heel",
+   "title": "[CITATION] [C] Written on the 20 March 2013 by Heel",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": ""
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839513?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839513&crl=c&jrnl=10930272",
+   "title": "Individualized Infusion Therapy in Metabolic Syndrome.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839513?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839513&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] … Key words: alpha-lipoic acid, antihomotoxic therapy , diabetes ",
+   "title": "[CITATION] [C] … Key words: alpha-lipoic acid, antihomotoxic therapy , diabetes mellitus type II, diabetic polyneuropathy , homeopathy, Lyphomyosot, oedema",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": ""
+  },
+  {
+   "id": "https://link.springer.com/content/pdf/10.1007/978-3-031-94465-9.pdf",
+   "title": "The Extracellular Matrix in Health and Disease",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://link.springer.com/content/pdf/10.1007/978-3-031-94465-9.pdf"
+  },
+  {
+   "id": "https://link.springer.com/chapter/10.1007/978-94-007-6585-6_3",
+   "title": "Hirudotherapy",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://link.springer.com/chapter/10.1007/978-94-007-6585-6_3"
+  },
+  {
+   "id": "https://journals.sagepub.com/doi/abs/10.1177/1744806917743680",
+   "title": "Colchicine alleviates acute postoperative pain but delays wound repair in mice: roles of neutrophils and macrophages",
+   "year": "2017",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://journals.sagepub.com/doi/abs/10.1177/1744806917743680"
+  },
+  {
+   "id": "https://search.proquest.com/openview/26d4fab616d2ea5813e449398c937789/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+   "title": "[BOOK] [B] A patient satisfaction survey related to the management of musculoskeletal conditions at the University of Johannesburg Homeopathy Health Centre",
+   "year": "2020",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://search.proquest.com/openview/26d4fab616d2ea5813e449398c937789/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+  },
+  {
+   "id": "https://www.alternative-doctor.com/naturalpainrelief/PainReliefBook.pdf",
+   "title": "[BOOK] [B] The Ultimate Guide to Natural Pain Relief",
+   "year": "2014",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://www.alternative-doctor.com/naturalpainrelief/PainReliefBook.pdf"
+  },
+  {
+   "id": "https://www.eurolymphology.org/JOURNAL/VOL23-N66-2012.pdf",
+   "title": "[PDF] [PDF] THE EUROPEAN JOURNAL",
+   "year": "2017",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://www.eurolymphology.org/JOURNAL/VOL23-N66-2012.pdf"
+  },
+  {
+   "id": "https://www.thieme-connect.com/products/ejournals/html/10.1016/j.homp.2017.02.004",
+   "title": "Differential effects of Zincum metallicum on cell models",
+   "year": "2017",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://www.thieme-connect.com/products/ejournals/html/10.1016/j.homp.2017.02.004"
+  },
+  {
+   "id": "https://roj.igb.ru/jour/manager/files/archive/%D0%A0%D0%9E%D0%96_3_2013.pdf#page=94",
+   "title": "[PDF] [PDF] A Case of Combined Treatment of Complicated Recurrent Herpetic Keratitis Using Keratoamniotic Transplantation",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://roj.igb.ru/jour/manager/files/archive/%D0%A0%D0%9E%D0%96_3_2013.pdf#page=94"
+  },
+  {
+   "id": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20163320997",
+   "title": "Complementary approaches to neurologic dysfunction.",
+   "year": "2016",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20163320997"
+  },
+  {
+   "id": "https://journals.sagepub.com/doi/abs/10.1089/lrb.2012.0024",
+   "title": "The multicomponent medication lymphomyosot improves the outcome of experimental lymphedema",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://journals.sagepub.com/doi/abs/10.1089/lrb.2012.0024"
+  },
+  {
+   "id": "https://www.sciencedirect.com/science/article/pii/S0891842223009941",
+   "title": "Achilles and peroneal tendon injuries in the athlete: an expert's perspective",
+   "year": "1997",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://www.sciencedirect.com/science/article/pii/S0891842223009941"
+  },
+  {
+   "id": "https://li01.tci-thaijo.org/index.php/ThaiJToxicol/article/view/254924",
+   "title": "Properties, pharmacological activities and toxicities of quercetin",
+   "year": "2022",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://li01.tci-thaijo.org/index.php/ThaiJToxicol/article/view/254924"
+  },
+  {
+   "id": "https://medinform.bg/wp-content/uploads/2025/04/Medinform265.pdf",
+   "title": "[PDF] [PDF] Management of Postoperative Sequelae after Impacted Wisdom Tooth Extraction",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://medinform.bg/wp-content/uploads/2025/04/Medinform265.pdf"
+  },
+  {
+   "id": "http://eport.fesmu.ru/voz/20143/2014305.pdf",
+   "title": "[PDF] [PDF] Комплексная терапия кератозов слизистой оболочки рта с детоксикацией и дренажом и ее влияние на качество жизни В кн",
+   "year": "2014",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "http://eport.fesmu.ru/voz/20143/2014305.pdf"
+  },
+  {
+   "id": "https://www.ahvma.org/wp-content/uploads/AHVMA-Journal-2017-v46.pdf#page=8",
+   "title": "[PDF] [PDF] President's Letter",
+   "year": "2023",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://www.ahvma.org/wp-content/uploads/AHVMA-Journal-2017-v46.pdf#page=8"
+  },
+  {
+   "id": "http://repository.pdmu.edu.ua/bitstream/123456789/15897/1/Pharmacotherapy_%20in_dentistry.pdf",
+   "title": "[PDF] [PDF] Pharmacotherapy in dentistry",
+   "year": "2020",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "http://repository.pdmu.edu.ua/bitstream/123456789/15897/1/Pharmacotherapy_%20in_dentistry.pdf"
+  },
+  {
+   "id": "https://bookshop.wanttoknow.nl/mwdownloads/download/link/id/831",
+   "title": "[PDF] [PDF] LYME",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+   "url": "https://bookshop.wanttoknow.nl/mwdownloads/download/link/id/831"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Adjuvant Homeopathic Treatment Enhances the Effects of Convention",
+   "title": "[CITATION] [C] Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": ""
+  },
+  {
+   "id": "https://www.researchgate.net/profile/Isabel-Forner-Cordero/publication/289421569_A_prospective_evaluation_of_lymphomyosot_in_the_maintenance_treatment_of_breast_cancer-related_lymphedema/links/5aad12ac458515ecebe6aadd/A-prospective-evaluation-of-lymphomyosot-in-the-maintenance-treatment-of-breast-cancer-related-lymphedema.pdf",
+   "title": "[PDF] [PDF] A prospective evaluation of lymphomyosot in the maintenance treatment of breast cancer--Related lymphedema",
+   "year": "2009",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.researchgate.net/profile/Isabel-Forner-Cordero/publication/289421569_A_prospective_evaluation_of_lymphomyosot_in_the_maintenance_treatment_of_breast_cancer-related_lymphedema/links/5aad12ac458515ecebe6aadd/A-prospective-evaluation-of-lymphomyosot-in-the-maintenance-treatment-of-breast-cancer-related-lymphedema.pdf"
+  },
+  {
+   "id": "https://link.springer.com/chapter/10.1007/978-3-662-48879-9_18",
+   "title": "Homotoxikologie",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://link.springer.com/chapter/10.1007/978-3-662-48879-9_18"
+  },
+  {
+   "id": "https://cyberleninka.ru/article/n/korrelyatsiya-dinamiki-regressa-sheynoy-limfadenopatii-i-klinicheskoy-simptomatiki-hronicheskogo-tonzillita",
+   "title": "[HTML] [HTML] Корреляция динамики регресса шейной лимфаденопатии и клинической симптоматики хронического тонзиллита",
+   "year": "2024",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://cyberleninka.ru/article/n/korrelyatsiya-dinamiki-regressa-sheynoy-limfadenopatii-i-klinicheskoy-simptomatiki-hronicheskogo-tonzillita"
+  },
+  {
+   "id": "https://books.google.com/books?hl=en&lr=&id=7Qu2DwAAQBAJ&oi=fnd&pg=PA381&dq=Eiber+Weiser+Klein+2003+Lymphomyosot&ots=E_TFmvZOnR&sig=W9Rn43zGTMO7G6qJNUB5TGK3Zks",
+   "title": "Grenzen und Möglichkeiten",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://books.google.com/books?hl=en&lr=&id=7Qu2DwAAQBAJ&oi=fnd&pg=PA381&dq=Eiber+Weiser+Klein+2003+Lymphomyosot&ots=E_TFmvZOnR&sig=W9Rn43zGTMO7G6qJNUB5TGK3Zks"
+  },
+  {
+   "id": "https://search.proquest.com/openview/fd8ea2a80eaf7266dc912ba6a26c94c8/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+   "title": "[BOOK] [B] The Efficiency of Dr Reckeweg R40 Daiglukon on Insulin Resistance",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://search.proquest.com/openview/fd8ea2a80eaf7266dc912ba6a26c94c8/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Written on the 20 March 2013 by Heel",
+   "title": "[CITATION] [C] Written on the 20 March 2013 by Heel",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": ""
+  },
+  {
+   "id": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20103181380",
+   "title": "Comparative research in nanopharmacology: evidence for healing.",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20103181380"
+  },
+  {
+   "id": "https://link.springer.com/chapter/10.1007/978-3-662-48879-9_18",
+   "title": "Homotoxikologie",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": "https://link.springer.com/chapter/10.1007/978-3-662-48879-9_18"
+  },
+  {
+   "id": "https://refubium.fu-berlin.de/handle/fub188/13059",
+   "title": "Felduntersuchungen zur Ätiologie und Diagnose des Sommerekzems beim Islandpferd sowie zur Verlaufskontrolle einer Prophylaxe und Therapie mit …",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": "https://refubium.fu-berlin.de/handle/fub188/13059"
+  },
+  {
+   "id": "https://books.google.com/books?hl=en&lr=&id=7Qu2DwAAQBAJ&oi=fnd&pg=PA381&dq=Matusiewicz+1997+Coenzyme+compositum&ots=E_TFmvZOoP&sig=mUR8iTgBVzd7zybx65HhPZ2frls",
+   "title": "Grenzen und Möglichkeiten",
+   "year": "2019",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": "https://books.google.com/books?hl=en&lr=&id=7Qu2DwAAQBAJ&oi=fnd&pg=PA381&dq=Matusiewicz+1997+Coenzyme+compositum&ots=E_TFmvZOoP&sig=mUR8iTgBVzd7zybx65HhPZ2frls"
+  },
+  {
+   "id": "http://www.adelaidehillsnaturopath.com.au/cms-assets/documents/90300-999990.research-in-homeopathy-2.pdf",
+   "title": "[PDF] [PDF] Research in Homeopathy 2",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": "http://www.adelaidehillsnaturopath.com.au/cms-assets/documents/90300-999990.research-in-homeopathy-2.pdf"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839514?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839514&crl=c&jrnl=10930272",
+   "title": "[CITATION] [C] Detoxification and Drainage in Metabolic Syndrome.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839514?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839514&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839520?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839520&crl=c&jrnl=10930272",
+   "title": "Biopuncture Protocols for the Treatment of Chronic Inflammatory Disorders.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839520?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839520&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839533?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839533&crl=c&jrnl=10930272",
+   "title": "Theories of Immunosenescence and Infection.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839533?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839533&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839511?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839511&crl=c&jrnl=10930272",
+   "title": "Citric Acid Cycle Catalysts.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839511?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839511&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60982580?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60982580&crl=c&jrnl=10930272",
+   "title": "Intestinal Permeability and Its Role in Disease.",
+   "year": "2009",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60982580?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60982580&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839486?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839486&crl=c&jrnl=10930272",
+   "title": "A Biotherapeutic Approach to Common Sports Injuries.",
+   "year": "2007",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839486?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839486&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839531?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839531&crl=c&jrnl=10930272",
+   "title": "Acute Recurrent Otitis Media.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839531?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839531&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839544?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839544&crl=c&jrnl=10930272",
+   "title": "Bioregulatory Treatment of Dysautonomia.",
+   "year": "2009",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839544?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839544&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839508?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839508&crl=c&jrnl=10930272",
+   "title": "An\" Incurable\" Diabetic Foot Ulcer.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839508?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839508&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:67336004?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:67336004&crl=c&jrnl=10930272",
+   "title": "Current Trends in Women's Health.",
+   "year": "2011",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:67336004?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:67336004&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:19399525?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:19399525&crl=c&jrnl=10930272",
+   "title": "Auto-sanguis therapy done with breast milk orally cures a case of stubborn eczema in a nursing infant.",
+   "year": "2006",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:19399525?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:19399525&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839505?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839505&crl=c&jrnl=10930272",
+   "title": "A Challenge for the Future: Fighting Metabolic Syndrome.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839505?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839505&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:14493893?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:14493893&crl=c&jrnl=10930272",
+   "title": "[CITATION] [C] FIBROMYALGIA SYNDROME.",
+   "year": "2004",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:14493893?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:14493893&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "http://pbmc.ibmc.msk.ru/en/article-en/PBMC-2008-54-4-463/",
+   "title": "Influence of complex therapy on the activity of glutathione-dependent enzymes of saliva in patients with parodontitis",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "http://pbmc.ibmc.msk.ru/en/article-en/PBMC-2008-54-4-463/"
+  },
+  {
+   "id": "https://europepmc.org/article/med/33307660",
+   "title": "Prospects for the use of antioxidant pharmacopuncture in metabolic syndrome",
+   "year": "2020",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://europepmc.org/article/med/33307660"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Homoeopathic treatment of chronic degenerative diseases as a resu",
+   "title": "[CITATION] [C] Homoeopathic treatment of chronic degenerative diseases as a result of disorders in intermediary metabolism",
+   "year": "2001",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": ""
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Effect of complex homeopathic drug containing coenzyme Q on param",
+   "title": "[CITATION] [C] Effect of complex homeopathic drug containing coenzyme Q on parameters of oxidative stress and hemodynamics in experimantal diabetes mellitus",
+   "year": "2016",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": ""
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:71655033?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:71655033&crl=c&jrnl=10930272",
+   "title": "Work-Related Psychological Stress and the Hypothalamic-Pituitary-Adrenal Axis.",
+   "year": "2011",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:71655033?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:71655033&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/ENT/1%20-%20Common%20Disorders%20of%20the%20Ear%20Nose%20and%20Throat.pdf",
+   "title": "[PDF] [PDF] Common Disorders of the Ear, Nose, and Throat: A Clinical Update.",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/ENT/1%20-%20Common%20Disorders%20of%20the%20Ear%20Nose%20and%20Throat.pdf"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Paediatrics/20%20-%20Imprinting%20in%20Early%20Life%20Predisposes%20to%20Diseases%20in%20Adulthood.pdf",
+   "title": "[PDF] [PDF] Imprinting in Early Life Predisposes to Diseases in Adulthood.",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/Paediatrics/20%20-%20Imprinting%20in%20Early%20Life%20Predisposes%20to%20Diseases%20in%20Adulthood.pdf"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] BIOMEDICAL THERAPY",
+   "title": "[CITATION] [C] BIOMEDICAL THERAPY",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": ""
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Arthritis%20Rheumatic%20Conditions%20Sporting%20Injuries/79%20-%20Treating%20Sports%20Injuries%20-%20A%20Functional%20Approach.pdf",
+   "title": "[PDF] [PDF] Treating sports injuries-A functional approach",
+   "year": "2007",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/Arthritis%20Rheumatic%20Conditions%20Sporting%20Injuries/79%20-%20Treating%20Sports%20Injuries%20-%20A%20Functional%20Approach.pdf"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:67336014?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:67336014&crl=c&jrnl=10930272",
+   "title": "Contributions of Biological Medicine in Infertility.",
+   "year": "2011",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:67336014?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:67336014&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839513?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839513&crl=c&jrnl=10930272",
+   "title": "Individualized Infusion Therapy in Metabolic Syndrome.",
+   "year": "2008",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839513?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839513&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839554?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839554&crl=c&jrnl=10930272",
+   "title": "Use of Bioregulation Therapies for a Severe Otorhinological Problem.",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839554?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839554&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839540?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839540&crl=c&jrnl=10930272",
+   "title": "Applied Bioregulation in Neuroendocrine Disease Chronic Stress.",
+   "year": "2009",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839540?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839540&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:71655034?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:71655034&crl=c&jrnl=10930272",
+   "title": "Bioregulatory Management of\" Mouse Arm\".",
+   "year": "2011",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:71655034?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:71655034&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839497?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839497&crl=c&jrnl=10930272",
+   "title": "Detoxification and Drainage: Eliminating toxins from the body.",
+   "year": "2007",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839497?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839497&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Hormonal%20Changes%20and%20Obstetrics/12%20-%20Biological%20Treatment%20of%20Hypofertility%20Problems.pdf",
+   "title": "[PDF] [PDF] Biological treatment of hypofertility problems.",
+   "year": "2005",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/Hormonal%20Changes%20and%20Obstetrics/12%20-%20Biological%20Treatment%20of%20Hypofertility%20Problems.pdf"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:17390255?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:17390255&crl=c&jrnl=10930272",
+   "title": "Biopuncture and Homotoxicology for gastrointestinal disorders.",
+   "year": "2005",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:17390255?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:17390255&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:67336013?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:67336013&crl=c&jrnl=10930272",
+   "title": "Genital Human Papilloma Virus Infection:: Bioregulatory Management.",
+   "year": "2011",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:67336013?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:67336013&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://www.academia.edu/download/111344921/artikeldeneef_hoarseness.pdf#page=17",
+   "title": "[PDF] [PDF] Vertigo: A Common Problem in Clinical Practice",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.academia.edu/download/111344921/artikeldeneef_hoarseness.pdf#page=17"
+  },
+  {
+   "id": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20073119458",
+   "title": "Homotoxicology: the six-phase table as a clinical tool.",
+   "year": "2007",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20073119458"
+  },
+  {
+   "id": "https://dialnet.unirioja.es/servlet/articulo?codigo=6554695",
+   "title": "Terapia integrativa ozono-medicina biorreguladora para gonartrosis en octogenarios",
+   "year": "2018",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6554695"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/General%20Items/74%20-%20Metabolic%20X%20Syndrome%20with%20Coenzyme%20and%20Ubichinon%20Comp.pdf",
+   "title": "Dual inhibition of 5-lipoxygenase/cyclooxygenase by a reconstituted homeopathic remedy; possible explanation for clinical efficacy and favorable gastrointestinal …",
+   "year": "2004",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/General%20Items/74%20-%20Metabolic%20X%20Syndrome%20with%20Coenzyme%20and%20Ubichinon%20Comp.pdf"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:95757095?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:95757095&crl=c&jrnl=10930272",
+   "title": "Bioregulatory Treatment of Hepatitis C.",
+   "year": "2012",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:95757095?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:95757095&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://www.academia.edu/download/117602190/artikeldeneef_hoarseness.pdf#page=22",
+   "title": "[PDF] [PDF] Viral Laryngeal Polyps",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.academia.edu/download/117602190/artikeldeneef_hoarseness.pdf#page=22"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:60839503?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839503&crl=c&jrnl=10930272",
+   "title": "Detoxification of Patients in the Dedifferentiation Phase.",
+   "year": "2007",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:60839503?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:60839503&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:14493638?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:14493638&crl=c&jrnl=10930272",
+   "title": "HOMOTOXICOLOGY & the cardiovascular system Taking it to heart...",
+   "year": "2004",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:14493638?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:14493638&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Intermediate%20Catalysts/3%20-%20Therapy%20with%20Intermediate%20Catalysts.pdf",
+   "title": "[PDF] [PDF] SG SL S SGSGSGSGSS RAY",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/Intermediate%20Catalysts/3%20-%20Therapy%20with%20Intermediate%20Catalysts.pdf"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:154071826?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:154071826&crl=c&jrnl=10786791",
+   "title": "A Review of Preclinical Research on the Effects of Photodynamic Therapy and Homeopathic Medicine on Cancer Cells.",
+   "year": "2021",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:154071826?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:154071826&crl=c&jrnl=10786791"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:187079799?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:187079799&crl=c&jrnl=10786791",
+   "title": "Unveiling the Potential of Cell Line Models in Homeopathic Research: A Review.",
+   "year": "2025",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:187079799?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:187079799&crl=c&jrnl=10786791"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:103583132?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:103583132&crl=c&jrnl=09764003",
+   "title": "Bioregulatory Management of Peptic Ulcer Disease.",
+   "year": "2015",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:103583132?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:103583132&crl=c&jrnl=09764003"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Paediatrics/16%20-%20Paediatric%20Issues%20and%20Homotoxicology.pdf",
+   "title": "[PDF] [PDF] Practical",
+   "year": "2006",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/Paediatrics/16%20-%20Paediatric%20Issues%20and%20Homotoxicology.pdf"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:15378890?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:15378890&crl=c&jrnl=10930272",
+   "title": "In Your",
+   "year": "2005",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:15378890?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:15378890&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] СПОСОБ ЛЕЧЕНИЯ ДЕГЕНЕРАТИВНЫХ И ДИСТРОФИЧЕСКИХ ЗАБОЛЕВАНИЙ СЕТЧАТ",
+   "title": "[CITATION] [C] СПОСОБ ЛЕЧЕНИЯ ДЕГЕНЕРАТИВНЫХ И ДИСТРОФИЧЕСКИХ ЗАБОЛЕВАНИЙ СЕТЧАТКИ",
+   "year": "2013",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": ""
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:14494079?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:14494079&crl=c&jrnl=10930272",
+   "title": "[CITATION] [C] Obesity as an inflammatory disease: Homotoxicology is a valuable answer to control it.",
+   "year": "2004",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:14494079?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:14494079&crl=c&jrnl=10930272"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Migraine%20and%20Mental%20Health/8%20-%20Chronic%20Stress.pdf",
+   "title": "[PDF] [PDF] Chronic stress",
+   "year": "2009",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/Migraine%20and%20Mental%20Health/8%20-%20Chronic%20Stress.pdf"
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Hay%20Fever%20and%20Rhinitis/15%20-%20Chronic%20Rhinosinusitis%20with%20and%20without%20Polyps.pdf",
+   "title": "[PDF] [PDF] Chronic Rhinosinusitis With and Without Polyps",
+   "year": "2009",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.biopathica.co.uk/Articles/Hay%20Fever%20and%20Rhinitis/15%20-%20Chronic%20Rhinosinusitis%20with%20and%20without%20Polyps.pdf"
+  },
+  {
+   "id": "https://pdfs.semanticscholar.org/1cea/030bf3e34a7b723b062c4ee881429671c089.pdf",
+   "title": "[PDF] [PDF] The effect of ultra low concentrations of some biologically active substances on the aerobic respiration",
+   "year": "2016",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://pdfs.semanticscholar.org/1cea/030bf3e34a7b723b062c4ee881429671c089.pdf"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Treatment of mycosis fungoides",
+   "title": "[CITATION] [C] Treatment of mycosis fungoides",
+   "year": "2001",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": ""
+  },
+  {
+   "id": "https://www.uonbi.ac.ke/openscholar/sites/default/files/cvs/79150_kanui.pdf",
+   "title": "[PDF] [PDF] DATE OF BIRTH: 10 TH MARCH 1953",
+   "year": "1984",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.uonbi.ac.ke/openscholar/sites/default/files/cvs/79150_kanui.pdf"
+  },
+  {
+   "id": "https://www.revesppod.com/Documentos/ArticulosNew/X0210123811501565-2.pdf",
+   "title": "[PDF] [PDF] Medicina biológica. Principios de actuación terapeútica y aplicación clínica en patología del pie",
+   "year": "2011",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.revesppod.com/Documentos/ArticulosNew/X0210123811501565-2.pdf"
+  },
+  {
+   "id": "https://openscholar.dut.ac.za/server/api/core/bitstreams/d235daaf-31f7-4c0f-8871-1ad41e06af69/content",
+   "title": "[PDF] [PDF] Knowledge, attitudes and perceptions of biopuncture and its use in clinical practice by registered homoeopaths",
+   "year": "2021",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openscholar.dut.ac.za/server/api/core/bitstreams/d235daaf-31f7-4c0f-8871-1ad41e06af69/content"
+  },
+  {
+   "id": "https://search.proquest.com/openview/7f0bc9976486b58092f2ec49b44d0326/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+   "title": "[BOOK] [B] The efficacy of the homeopathic remedy Discus Compositum ® in the treatment of lumbar facet syndrome",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://search.proquest.com/openview/7f0bc9976486b58092f2ec49b44d0326/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+  },
+  {
+   "id": "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2021.6577",
+   "title": "Scientific opinion on the relationship between intake of alpha‐lipoic acid (thioctic acid) and the risk of insulin autoimmune syndrome",
+   "year": "2021",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2021.6577"
+  },
+  {
+   "id": "https://journals.sagepub.com/doi/abs/10.1089/act.1995.1.328",
+   "title": "Anti-Aging Medicine: Have We Found the Fountain of Youth?",
+   "year": "1995",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://journals.sagepub.com/doi/abs/10.1089/act.1995.1.328"
+  },
+  {
+   "id": "http://www.adelaidehillsnaturopath.com.au/cms-assets/documents/90300-999990.research-in-homeopathy-2.pdf",
+   "title": "[PDF] [PDF] Research in Homeopathy 2",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "http://www.adelaidehillsnaturopath.com.au/cms-assets/documents/90300-999990.research-in-homeopathy-2.pdf"
+  },
+  {
+   "id": "https://search.proquest.com/openview/b269d9b8cca990ed80f37d4dffe28259/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+   "title": "[BOOK] [B] A Delphi study on the management of female infertility by Homeopathic Practitioners in South Africa",
+   "year": "2022",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://search.proquest.com/openview/b269d9b8cca990ed80f37d4dffe28259/1?pq-origsite=gscholar&cbl=2026366&diss=y"
+  },
+  {
+   "id": "https://pure.amsterdamumc.nl/en/publications/scientific-opinion-on-the-relationship-between-intake-of-alpha-li/",
+   "title": "SCIENTIFIC OPINION",
+   "year": "2021",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://pure.amsterdamumc.nl/en/publications/scientific-opinion-on-the-relationship-between-intake-of-alpha-li/"
+  },
+  {
+   "id": "http://www.ignk.de/wp-content/uploads/2016/08/ordinatio2002.pdf#page=7",
+   "title": "[PDF] [PDF] 2 Internationale Gesellschaft für Homotoxikologie eV",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "http://www.ignk.de/wp-content/uploads/2016/08/ordinatio2002.pdf#page=7"
+  },
+  {
+   "id": "https://repository.unilasallista.edu.co/items/b0dc7062-1d0e-4c5e-858d-135ac103f1ca",
+   "title": "Protocolo para el manejo reproductivo de las yeguas problema basado en terapias alternativas no convencionales.",
+   "year": "2025",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://repository.unilasallista.edu.co/items/b0dc7062-1d0e-4c5e-858d-135ac103f1ca"
+  },
+  {
+   "id": "https://impro-dairy.eu/images/deliverables/IMPRO_D9.1_Review_homeopathy.pdf",
+   "title": "[PDF] [PDF] Impact matrix analysis and cost-benefit calculations to improve management practices regarding health status in organic dairy farming",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://impro-dairy.eu/images/deliverables/IMPRO_D9.1_Review_homeopathy.pdf"
+  },
+  {
+   "id": "https://www.mdpi.com/1420-3049/28/3/1378",
+   "title": "[HTML] [HTML] Stimulation of B-lymphopoiesis by administration of a trimecaine-based ionic compound in cyclophosphamide-induced hematopoietic-depressive model",
+   "year": "2023",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.mdpi.com/1420-3049/28/3/1378"
+  },
+  {
+   "id": "https://www.preprints.org/frontend/manuscript/5aed9e3b01091fbb39319debfb054a5e/download_pub",
+   "title": "[PDF] [PDF] Parenteral Ready-to-Use Fixed-Dose Combinations of NSAIDs for Multimodal Analgesia–An overview of approved products and challenges",
+   "year": "2023",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.preprints.org/frontend/manuscript/5aed9e3b01091fbb39319debfb054a5e/download_pub"
+  },
+  {
+   "id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10459253/",
+   "title": "Parenteral ready-to-use fixed-dose combinations including NSAIDs with paracetamol or metamizole for multimodal analgesia—approved products and challenges",
+   "year": "2023",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10459253/"
+  },
+  {
+   "id": "https://openurl.ebsco.com/contentitem/gcd:103583122?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:103583122&crl=c&jrnl=09764003",
+   "title": "Irritable Bowel Syndrome–A Review Article.",
+   "year": "2015",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://openurl.ebsco.com/contentitem/gcd:103583122?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:103583122&crl=c&jrnl=09764003"
+  },
+  {
+   "id": "https://repository.unilasallista.edu.co/items/71831c28-b57b-497a-8218-e45133f9609f",
+   "title": "Estudio prospectivo descriptivo de dermatopatias en caninos tratados mediante la medicina biorreguladora de sistemas (MBrS) en el centro veterinario Juan Carlos …",
+   "year": "2018",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://repository.unilasallista.edu.co/items/71831c28-b57b-497a-8218-e45133f9609f"
+  },
+  {
+   "id": "https://www.academia.edu/download/121131459/rad.abstr.book.2023.30.pdf",
+   "title": "[HTML] [HTML] Development, characterization and stabilization of magnetic iron oxide nanoparticles for targeted drug delivery and magnetic hyperthermia",
+   "year": "",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.academia.edu/download/121131459/rad.abstr.book.2023.30.pdf"
+  },
+  {
+   "id": "https://repositoriodspace.unipamplona.edu.co/jspui/handle/20.500.12744/8857",
+   "title": "Tumores sincrónicos en un canino French poodle con hemangioma hepático y linfoma difuso de células B inmunoblástico esplénico.",
+   "year": "2022",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://repositoriodspace.unipamplona.edu.co/jspui/handle/20.500.12744/8857"
+  },
+  {
+   "id": "https://www.academia.edu/download/36111254/Candida_albicans.pdf",
+   "title": "[HTML] [HTML] Monograph on Candida albicans",
+   "year": "2014",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://www.academia.edu/download/36111254/Candida_albicans.pdf"
+  },
+  {
+   "id": "https://iopscience.iop.org/article/10.1070/RC2010v079n08ABEH004116/meta",
+   "title": "Synthesis and applications of 2-aminopyrimidine derivatives as key intermediates in chemical synthesis of biomolecules",
+   "year": "2010",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "https://iopscience.iop.org/article/10.1070/RC2010v079n08ABEH004116/meta"
+  },
+  {
+   "id": "citation-only entry: [CITATION] [C] Genital Human Papilloma Virus Infection",
+   "title": "[CITATION] [C] Genital Human Papilloma Virus Infection",
+   "year": "2011",
+   "design": "",
+   "n": "",
+   "database": "Google Scholar",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": ""
+  },
+  {
+   "id": "https://www.biopathica.co.uk/Articles/Lymphatic%20System/7%20-%20Possibilities%20for%20a%20Lymph%20Therapy%20with%20Diabetic%20Polyneur.pdf",
+   "title": "Possibilities for a Lymph Therapy with Diabetic Polyneuropathy. Matrix Therapy with Type II Diabetes — A Practice-based Study (Angelika-Regine Dietz, M.D.)",
+   "year": "2000",
+   "design": "practice-based observational study with a control group, not randomized (groups formed by the physician; the more severe cases were put in the infusion group); 8 months, October 1998 to May 1999",
+   "n": "90 outpatients with type II diabetes: 50 Lymphomyosot drops; 10 Lymphomyosot drops plus alpha-lipoic acid infusions; 30 controls with alpha-lipoic acid infusions only",
+   "database": "free full text (biopathica.co.uk), found through Google Scholar / the article list",
+   "query": "Dietz 2000 Lymphomyosot",
+   "url": "https://www.biopathica.co.uk/Articles/Lymphatic%20System/7%20-%20Possibilities%20for%20a%20Lymph%20Therapy%20with%20Diabetic%20Polyneur.pdf"
+  },
+  {
+   "id": "http://www.biopathica.co.uk/Articles/Lymphatic%20System/9%20-%20Lymphomyosot%20and%20Alpha%20Lipoic%20Acid%20-%20Possibilities%20for%20a.pdf",
+   "title": "Lymphomyosot and Alpha Lipoic Acid — Possibilities for a Lymph Therapy with Diabetic Polyneuropathy. Matrix therapy with type II diabetes - a practice-based study (Medical Abstracts reprint of the Dietz paper)",
+   "year": "2000",
+   "design": "the same study as document 1 (reprint with a text layer)",
+   "n": "90",
+   "database": "free full text (biopathica.co.uk), found through Google Scholar / the article list",
+   "query": "Lymphomyosot Thioctsäure Infusion Vergleich",
+   "url": "http://www.biopathica.co.uk/Articles/Lymphatic%20System/9%20-%20Lymphomyosot%20and%20Alpha%20Lipoic%20Acid%20-%20Possibilities%20for%20a.pdf"
+  },
+  {
+   "id": "http://www.biopathica.co.uk/Articles/General%20Items/74%20-%20Metabolic%20X%20Syndrome%20with%20Coenzyme%20and%20Ubichinon%20Comp.pdf",
+   "title": "The influence of Coenzyme compositum and Ubichinon compositum preparations on the function of left and right heart ventricles in patients suffering from \"Metabolic X Syndrome\" (L.L. Sidorova, G.V. Myasnikov, L.P. Antonenko, S.V. Sofienko)",
+   "year": "2001",
+   "design": "three-group comparison (standard therapy; plus Ubichinon compositum; plus Coenzyme compositum); allocation method not stated in the part read",
+   "n": "49 patients with ischaemic heart disease and the metabolic syndrome (20 / 15 / 10 in the three groups, as printed)",
+   "database": "free full text (biopathica.co.uk), found through Google Scholar / the article list",
+   "query": "Journal of Biomedical Therapy Coenzyme compositum",
+   "url": "http://www.biopathica.co.uk/Articles/General%20Items/74%20-%20Metabolic%20X%20Syndrome%20with%20Coenzyme%20and%20Ubichinon%20Comp.pdf"
+  },
+  {
+   "id": "http://www.biopathica.co.uk/Articles/Arthritis%20Rheumatic%20Conditions%20Sporting%20Injuries/57%20-%20Antihomotoxic%20Mesotherapy%20of%20Soft%20Tissue%20Sports%20Injurie.pdf",
+   "title": "Antihomotoxic mesotherapy of soft-tissue sports injuries (Ignacio Ordiz, Jorge Egocheaga, Miguel del Valle)",
+   "year": "2002",
+   "design": "retrospective study",
+   "n": "158 athletes",
+   "database": "free full text (biopathica.co.uk), found through Google Scholar / the article list",
+   "query": "Meyer mésothérapie Coenzyme compositum",
+   "url": "http://www.biopathica.co.uk/Articles/Arthritis%20Rheumatic%20Conditions%20Sporting%20Injuries/57%20-%20Antihomotoxic%20Mesotherapy%20of%20Soft%20Tissue%20Sports%20Injurie.pdf"
+  },
+  {
+   "id": "http://www.adelaidehillsnaturopath.com.au/cms-assets/documents/90300-999990.research-in-homeopathy-2.pdf",
+   "title": "Research in Homeopathy 2 (a reference list with summaries; entry 78: Matusiewicz R.)",
+   "year": "1997",
+   "design": "double-blind, randomised, placebo-controlled (as summarised in this secondary source)",
+   "n": "40 people with corticosteroid-dependent bronchial asthma",
+   "database": "free full text (biopathica.co.uk), found through Google Scholar / the article list",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": "http://www.adelaidehillsnaturopath.com.au/cms-assets/documents/90300-999990.research-in-homeopathy-2.pdf"
+  },
+  {
+   "id": "scribd:101504305",
+   "title": "Diabetic Peripheral Neuropathy: Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy (Alois Eiber, Peter Klein, Michael Weiser) — Scribd page title: Lymphomyosot in Diabetic Neuropathy",
+   "year": "2003",
+   "design": "Multicenter, open-label prospective cohort study (add-on design); 47 physicians recruited by Heel GmbH of Baden-Baden, at most six patients per physician; treatment chosen by the physician; six months; initial, interim (three months) and exit examinations",
+   "n": "269: Group A α-lipoic acid n = 114; Group B α-lipoic acid + Lymphomyosot n = 155",
+   "database": "Scribd (document page pointed to by a web search)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.scribd.com/doc/101504305/"
+  },
+  {
+   "id": "scribd:101504305",
+   "title": "Eiber A, Klein P, Weiser M. Diabetic Peripheral Neuropathy: Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "2003",
+   "design": "multicenter open-label prospective cohort (add-on)",
+   "n": "269 (114 vs 155)",
+   "database": "Scribd (document page)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.scribd.com/doc/101504305/Lymphomyosot-Aids-Conventional-Therapy-in-Diabetic-Peripherial-Neuropathy-2003"
+  },
+  {
+   "id": "scribd:101504305",
+   "title": "Eiber A, Klein P, Weiser M. Diabetic Peripheral Neuropathy: Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "2003",
+   "design": "multicenter open-label prospective cohort (add-on)",
+   "n": "269 (114 vs 155)",
+   "database": "Scribd (document page)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.scribd.com/doc/101504305/Lymphomyosot-Aids-Conventional-Therapy-in-Diabetic-Peripherial-Neuropathy-2003"
+  },
+  {
+   "id": "scribd:101504305",
+   "title": "Eiber A, Klein P, Weiser M. Diabetic Peripheral Neuropathy: Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "2003",
+   "design": "multicenter open-label prospective cohort (add-on)",
+   "n": "269 (114 vs 155)",
+   "database": "Scribd (document page)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.scribd.com/doc/101504305/Lymphomyosot-Aids-Conventional-Therapy-in-Diabetic-Peripherial-Neuropathy-2003"
+  },
+  {
+   "id": "scribd:101504305",
+   "title": "Eiber A, Klein P, Weiser M. Diabetic Peripheral Neuropathy: Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "2003",
+   "design": "multicenter open-label prospective cohort (add-on)",
+   "n": "269 (114 vs 155)",
+   "database": "Scribd (document page)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.scribd.com/doc/101504305/Lymphomyosot-Aids-Conventional-Therapy-in-Diabetic-Peripherial-Neuropathy-2003"
+  },
+  {
+   "id": "scribd:101504305",
+   "title": "Eiber A, Klein P, Weiser M. Diabetic Peripheral Neuropathy: Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "2003",
+   "design": "multicenter open-label prospective cohort (add-on)",
+   "n": "269 (114 vs 155)",
+   "database": "Scribd (document page)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.scribd.com/doc/101504305/Lymphomyosot-Aids-Conventional-Therapy-in-Diabetic-Peripherial-Neuropathy-2003"
+  },
+  {
+   "id": "scribd:101504305",
+   "title": "Eiber A, Klein P, Weiser M. Diabetic Peripheral Neuropathy: Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "2003",
+   "design": "multicenter open-label prospective cohort (add-on)",
+   "n": "269 (114 vs 155)",
+   "database": "Scribd (document page)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.scribd.com/doc/101504305/Lymphomyosot-Aids-Conventional-Therapy-in-Diabetic-Peripherial-Neuropathy-2003"
+  },
+  {
+   "id": "scribd:101504305",
+   "title": "Eiber A, Klein P, Weiser M. Diabetic Peripheral Neuropathy: Adjuvant Homeopathic Treatment Enhances the Effects of Conventional Therapy",
+   "year": "2003",
+   "design": "multicenter open-label prospective cohort (add-on)",
+   "n": "269 (114 vs 155)",
+   "database": "Scribd (document page)",
+   "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+   "url": "https://www.scribd.com/doc/101504305/Lymphomyosot-Aids-Conventional-Therapy-in-Diabetic-Peripherial-Neuropathy-2003"
+  },
+  {
+   "id": "Biomedical Therapy 1997;15(3):70-74",
+   "title": "The Effect of a Homeopathic Preparation on the Clinical Condition of Patients with Corticosteroid-Dependent Bronchial Asthma",
+   "year": "1997",
+   "design": "randomised, double-blind, placebo-controlled (as stated); June–December 1993; single centre (Grochowski Hospital, Warsaw)",
+   "n": "40 (20 Engystol N, 20 placebo); corticosteroid-dependent bronchial asthma on triamcinolone 4–8 mg/day for at least 5 years; age 24–48",
+   "database": "full text (library copy supplied by the person)",
+   "query": "Matusiewicz 1997 Coenzyme compositum",
+   "url": null
+  }
+ ]
+}

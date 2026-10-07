@@ -1,0 +1,509 @@
+
+===== PDF PAGE 1 of 8 =====
+Pain Medicine 2015; 00: 00–00
+Wiley Periodicals, Inc.
+
+
+
+Original
+Botulinum Toxin-A for Painful Diabetic
+Neuropathy: A Meta-Analysis
+
+
+
+Shaheen E. Lakhan, MD, PhD, MED, MS,*                       Methods. This article is a meta-analysis of two stud-
+Dominic N. Velasco, MD,* and Deborah Tepper, MD†            ies using BTX-A in the treatment of neuropathic
+                                                            pain. Electronic searches of MEDLINE/PubMed,
+*Department of Bioscience, Global Neuroscience              EMBASE, and Cochrane Libraries using the terms
+Initiative Foundation, Los Angeles, California, USA;        “botulinum neurotoxin” and “neuropathic pain”
+†
+  Neurological Center for Pain, Neurological Institute,     were conducted. Only class I and class II therapeu-
+Cleveland Clinic, Cleveland, Ohio, USA                      tic trials, as classified by the American Academy of
+                                                            Neurology were included. The primary outcome
+                                                            measured was the difference in visual analogue
+Reprint requests to: Shaheen E. Lakhan, MD, PhD,
+                                                            scale (VAS) from pre-intervention and post-inter-
+MED, MS, Global Neuroscience Initiative Foundation,
+                                                            vention after 1 month. Data were analyzed for
+110 Beverly St, Unit 1016, Boston, MA 02114, USA.           biases and heterogeneity following Cochrane and
+Tel: 818-574-3062; Fax: 877-417-4742;                       PRISMA guidelines.
+E-mail: slakhan@gnif.org
+                                                            Results. Two studies on PDN were analyzed in the
+Disclosures: The authors have no relevant source of         meta-analysis showing improvement of 1.96 VAS
+funding to acknowledge. The authors declare that            points (95% CI, 23.09 to 20.84; Z score 5 3.43,
+they have no conflict of interest.                          P < 0.001) following treatment with BTX-A. This cor-
+                                                            responds to clinically significant improvement of
+Perspective: This article presents a meta-analysis of       “minimum change in pain.” The adverse effects of
+                                                            infection at injection site was not statistically signif-
+botulinum toxin-A for treating painful diabetic neurop-
+                                                            icant (P 5 0.49). BTX-A may be effective for PDN.
+athy. Ultimately, two high quality randomized con-
+trolled trials were meta-analyzed and show a                Conclusion. Tests for significance, low overall risk
+statistically and clinically significant improvement with   of bias, and almost no statistical heterogeneity sug-
+botulinum toxin-A on visual analogue pain scale. This       gests that there is a correlation between BTX-A and
+therapy could potentially help clinicians manage pain-      improvement of pain scores in PDN. Further large-
+ful diabetic neuropathy.                                    scale controlled trials are needed.
+
+Authors Shaheen E. Lakhan and Dominic N. Velasco            Key Words. Neuropathy; Botulinum Toxin; Diabe-
+                                                            tes; Visual Analogue Scale; Neuropathic Pain
+contributed equally to this work.
+
+                                                            Introduction
+
+Abstract                                                    Approximately 29.1 million people or 9.3% of the United
+                                                            States population have been diagnosed with diabetes,
+                                                            and it is estimated that an additional 8 million people
+Objectives. Painful diabetic neuropathy (PDN) is a
+                                                            remain undiagnosed [1]. Although precise statistics on
+debilitating complication of diabetes that greatly
+                                                            the prevalence of diabetic neuropathy vary, it is esti-
+affects the quality of life of those afflicted. There are
+                                                            mated that at time of diagnosis, approximately 8% of
+many treatment options for neuropathic pain.                those with diabetes type 2 already have neuropathy,
+Recent studies show a promising analgesic effect            and that at 25 years, the prevalence jumps to 50% [2].
+using botulinum toxin-A (BTX-A) for neuropathic             More than 20% of those with diabetes may develop a
+pain.                                                       painful diabetic neuropathy (PDN) [3,4]
+
+
+
+                                                                                                                   1
+
+===== PDF PAGE 2 of 8 =====
+Lakhan et al.
+
+Table 1     American Academy of Neurology classification of evidence for therapeutic trials.
+
+Class I. A randomized, controlled clinical trial of the intervention of interest with masked or objective outcome
+  assessment, in a representative population. Relevant baseline characteristics are presented and substantially
+  equivalent among treatment groups or there is appropriate statistical adjustment for differences.
+The following are also required:
+   1. Concealed allocation
+   2. Primary outcome(s) clearly defined
+   3. Exclusion/inclusion criteria clearly defined
+   4. Adequate accounting for dropouts (with at least 80% of enrolled subjects completing the study) and
+   crossovers with numbers sufficiently low to have minimal potential for bias.
+   5. For noninferiority or equivalence trials claiming to prove efficacy for one or both drugs, the following are also
+required*
+   1. The standard treatment used in the study is substantially similar to that used in previous studies establishing
+   efficacy of the standard treatment (e.g., for a drug, the mode of administration, dose, and dosage adjustments are
+   similar to those previously shown to be effective).
+   2. The inclusion and exclusion criteria for patient selection and the outcomes of patients on the standard
+   treatment are substantially equivalent to those of previous studies establishing efficacy of the standard treatment.
+   3. The interpretation of the results of the study is based on an observed-cases analysis.
+Class II. A randomized, controlled clinical trial of the intervention of interest in a representative population with masked
+  or objective outcome assessment that lacks one criterion a–e class I, above, or a prospective matched cohort study
+  with masked or objective outcome assessment in a representative population that meets b–e class I, above. Relevant
+  baseline characteristics are presented and substantially equivalent among treatment groups or there is appropriate
+  statistical adjustment for differences.
+Class III. All other controlled trials (including well-defined natural history controls or patients serving as their own
+  controls) in a representative population, where outcome is independently assessed or independently derived
+  by objective outcome measurements.
+Class IV. Studies not meeting class I, II, or III criteria including consensus or expert opinion.
+
+
+
+Neuropathic pain is a consequence of disease affecting           peripheral nociceptors that is responsible for inflamma-
+the somatosensory system [5]. It is a debilitating process       tory hyperalgesia [17,18]. This meta-analysis assesses
+that affects quality of life [6–11]. The management of           the association of BTX-A with reduction of diabetic neu-
+neuropathic pain is troublesome. In a cross-sectional            ropathic pain.
+study that evaluated the burden of PDN, subjects with
+moderate and severe painful PDN had suboptimal levels            Methods
+of overall health, functioning and well being even after
+receiving treatments such as antiepileptics (51.4% of            This review included class I and class II, prospective,
+patients in the study), opioids (33.0% of patients in the        double-blind, placebo controlled trials based on the
+study), and NSAIDs (14.3% of patients in the study) [10].        criteria published by the American Academy of Neu-
+                                                                 rology classification of evidence for therapeutic trials
+Painful diabetic neuropathy is caused by length-                 (Table 1) [19].
+dependent axonopathy associated with the metabolic,
+vascular and hormonal abnormalities of diabetes mellitus         Primary and Secondary Outcomes
+[12]. An increase in glucose may cause metabolic
+defects in glycation/advanced glycosylation end-                 All primary outcomes were patient reported. We followed
+products, autooxidation, sorbitol, and diacylglycerol that       the pain visual analogue scale (VAS) that was graded
+cause endoneural fibrosis, cytotoxicity, ischemia,               from 0 if there is no pain to 10 which represents severe
+hypoxia, and decreased neurotrophism [13]                        pain. For continuous outcomes, we reported the mean
+                                                                 and standard deviation of the change in pain scores from
+Recently, studies have shown promising effects of anal-          baseline to each clinical visit of pain assessment. We
+gesia for botulinum toxin type A (BTX-A) and human               included outcomes at the latest time point recorded.
+investigations are gaining ground for this treatment
+[14–16]. BTX-A affects the presynaptic vesicles of neu-          As a secondary outcome measure, we reported dichoto-
+rons by inhibiting the release of certain neurotrans-            mous outcomes for adverse effects using a 2 3 2 table.
+mitters such as acetylcholine and the nociceptive
+neuropeptides, substance P, calcitonin gene-related              The null hypothesis that BTX-A had no effect on neuro-
+peptide, and glutamate [17]. It also inhibits the expres-        pathic pain was tested while evaluating results of the
+sion of vanilloid receptor TRPV1 on the surface of               meta-analysis.
+
+
+2
+
+===== PDF PAGE 3 of 8 =====
+                                                                                         Botulinum Toxin-A for PDN
+
+Table 2     Characteristics of included studies.
+
+                                                Ghasemi et al. [26]
+Methods                   A randomized double-blind placebo-controlled clinical trial study.
+Participants              Patients from neurology clinics of Al-Zahra and Kashani Hospitals,
+                              affiliated to Isfahan University of Medical Sciences, Isfahan, Iran,
+                            diagnosed with diabetes mellitus and diabetic neuropathy
+                            confirmed using the DN4 questionnaire and nerve conduction velocity patterns.
+Interventions             Intradermal administration with 100 units of BTX-A or normal saline solution
+                            (placebo) in a grid distribution pattern (3 3 4) of 12 sites across the
+                            dorsum of the affected foot in equally divided doses. Random allocation
+                            of intervention to 40 patients. (N 5 20 BTX-A; N 5 20 placebo)
+Outcomes                  Measured with numeric ratings with higher scores indicating worse outcomes.
+                          Primary Outcome evaluated after 3 weeks: Subjective pain rating (0–10)
+
+                                                 Risk of bias table
+Bias                      Authors’ judgment          Support for judgment
+Random sequence           Unclear risk               Comment: Randomization procedures were not
+  generation                                           detailed in the published report.
+  (selection bias)                                   Quote: “The patients were selected by simple
+                                                       randomized sampling method.”
+Allocation                Unclear risk               Comment: Allocation procedures were not
+  concealment                                          detailed in the published report.
+  (selection bias)                                   Quote: “The patients were selected by simple
+                                                       randomized sampling method.”
+Blinding of               Low risk                   Quote: “To keep the study blind, the preparation
+  participants                                         of saline and BTX-A was performed by an
+  and personnel                                        independent study physician, who did not
+  (performance bias)                                   participate in the interview of participants.”
+Blinding of               Low risk                   Comment: Primary outcomes were reported
+  outcome                                              subjectively by participants who were
+  assessment                                           blind to the intervention.
+  (detection bias)                                   Quote: “To keep the study blind, the preparation
+                                                       of saline and BTX-A was performed by an
+                                                       independent study physician, who did not
+                                                       participate in the interview of participants.”
+Incomplete                Low risk                   Comment: In the CONSORT flow diagram
+  outcome data                                         it has indicated that all participants completed
+  (attrition bias)                                     each outcome assessment of the study.
+Selective reporting       Low risk                   Comment: Authors provided comprehensively
+  (reporting bias)                                     the mean and standard deviation of
+                                                       all scores in tabular form.
+
+                                                   Yuan et al. [25]
+Methods                   Double-blind crossover trial of intradermal BTX-Afor diabetic neuropathic pain
+Participants              Twenty patients with type 2 diabetes mellitus. Patients selected
+                             for the study had a minimum of 3 years of diabetes mellitus
+                             and neuropathic pain in both feet.
+                          Crossover study:
+                          Initial allocation: N 5 10BTX-A; N 5 10; One patient discontinued
+                             and one who was lost to follow-up (total N 5 18).
+                          After 12 weeks, patients who were initially allocated with BTX-A
+                             were given placebo and patients who were initially allocated
+                             with placebo were administered with BTX-A.
+Interventions             Random allocation of intradermal administration of BTX-A and
+                             placebo (normal saline solution). All injections were administered
+
+
+
+
+                                                                                                                3
+
+===== PDF PAGE 4 of 8 =====
+Lakhan et al.
+
+Table 2: Continued
+
+                              with 1.2 ml distributed equally across the dorsum of the foot in a
+                              grid-distribution pattern covering a total of 12 sites (3 3 4 sites).
+                            A total of 50 units of BTX-A were administered with 4 units
+                              intradermally injected at 12 sites in one foot and another 12 sites in the other foot.
+Outcomes                    Measured with numeric ratings with higher
+                              scores indicating worse outcomes. Primary
+                              Outcome: Subjective pain rating (0–10) Secondary
+                              Outcome: Chinese Pittsburgh Sleep Quality
+                              Index Short Form-36 Quality of Life Questionnaire
+
+                                                   Risk of bias table
+Bias                        Authors’ judgment          Support for judgment
+Random sequence             Unclear risk               Comment: CONSORT flowchart in the published
+  generation                                             journal and descriptive information from clinicaltrials.gov did not
+  (selection bias)                                       specify the procedures of randomization. Both institutions
+                                                         did mention randomization for treatment allocations.
+Allocation                  Unclear risk               Comment: CONSORT flowchart in the published journal and
+  concealment                                            descriptive information from clinicaltrials.gov did not specify
+  (selection bias)                                       how allocation concealment was managed. Both institutions
+                                                         did mention randomization for treatment allocations.
+Blinding of                 Low risk                   Quote: “To keep the study blind, the preparation of saline
+  participants                                           and BoNT/A was performed by an independent study nurse,
+  and personnel                                          who did not participate in the review of participants.”
+  (performance bias)
+Blinding of outcome         Low risk                    Comment: Self reported outcomes were measured
+  assessment                                             by the participants who were blind to the treatment allocation.
+  (detection bias)
+Incomplete                  Low risk                    Comment: They reported all patients who were lost to follow-up.
+  outcome data
+  (attrition bias)
+Selective                   Low risk                    Comment: According to the provided “CONSORT flow chart,”
+  reporting                                              all outcomes were reported such as the change in pain scores.
+  (reporting bias)
+
+
+
+Search Methods                                                  were: “botulinum” and “neuropathic pain”. The last
+                                                                search date was August 16, 2014.
+We searched for randomized trials of botulinum toxin for
+diabetic neuropathy using MEDLINE/PubMed, EMBASE,               We performed a review of the bibliographies of all
+the bibliographies of published systematic reviews, and         articles retrieved. Also, we attempted to contact the
+the Cochrane libraries (Database of Clinical Trials; Pain,      authors requesting unpublished data and literature to
+Palliative, and Supportive Care Trials Register; and Cen-       determine if their studies met criteria for inclusion in the
+tral Register of Controlled Trials). The search terms used      meta-analysis.
+
+
+Table 3     Characteristics of excluded studies.
+
+                                                     Chen et al. [27]
+
+Reason for exclusion                                         After seeking for unpublished data via email, the correspon-
+                                                               dence investigator pointed out that the study by Yuan
+                                                               et al. [25] was being continued by this 2013 study. This
+                                                               study reported the secondary outcomes of tactile thresh-
+                                                               old and pain threshold. These two data were gathered
+                                                               during the time of the Yuan RY, et al. [25] study.
+
+
+
+
+4
+
+===== PDF PAGE 5 of 8 =====
+                                                                                  Botulinum Toxin-A for PDN
+
+                                                       Selection of Studies
+
+                                                       We included studies with class I and class II level of evi-
+                                                       dence, giving priority to randomized, blinded, placebo-
+                                                       controlled clinical trials that evaluated botulinum toxin
+                                                       treatment and its association with the reduction of dia-
+                                                       betic neuropathic pain (Table 2). We excluded random-
+                                                       ized or nonrandomized open-ended studies with lower
+                                                       class III and class IV level of evidences (Table 3).
+                                                       Data Extraction and Management
+
+                                                       At least two authors (S.E.L. and D.N.V.) independently
+                                                       audited each publication with emphasis on the follow-
+                                                       ing: study characteristics (setting, country of origin, and
+                                                       language); design (inclusion and exclusion criteria, treat-
+                                                       ment characteristics, allocation, dosage and duration of
+                                                       treatment effects); participant characteristics: age, sex,
+                                                       ethnicity, comorbidity); and neuropathic pain outcome
+                                                       (subjective reporting of pain). We assessed article quality
+                                                       independently using the Cochrane Risk of Bias assess-
+                                                       ment tool [20].
+
+                                                       Statistics
+
+                                                       We followed the Cochrane recommendation by pool-
+                                                       ing the data of treatment outcomes from similar
+                                                       studies into a single group to make the meta-
+                                                       analysis [21].
+
+                                                       The measured outcomes recorded closest to each time
+                                                       point of assessment were analyzed. For example, the
+                                                       mean and variance of the pain VAS score at week 3 is
+                                                       compared to the mean and variance of the pain VAS
+                                                       score at week 4 if both studies only had those data
+                                                       available.
+Figure 1 Study flow diagram of the included
+publications for meta-analysis.                        Unpublished data to facilitate statistical analysis was
+                                                       acquired via sending requests to the correspondence
+                                                       investigator of each study by e-mail. Missing variances
+                                                       of the change in pain scores were calculated using the
+
+
+
+
+Figure 2 Forest plot of botulinum toxin A for diabetic neuropathy change in pain VAS at 3 weeks (Gha-
+semi et al. [26]) and 4 weeks (Yuan et al. [25]). [Color figure can be viewed in the online issue, which is
+available at wileyonlinelibrary.com.]
+
+
+                                                                                                                5
+
+===== PDF PAGE 6 of 8 =====
+Lakhan et al.
+
+
+
+
+Figure 3 Forest plot of botulinum toxin A for diabetic neuropathy assessing the adverse reaction of
+infection on injection site. [Color figure can be viewed in the online issue, which is available at
+wileyonlinelibrary.com.]
+
+sample size, means, and standard deviation from                Included Studies
+reported P-values and were acquired by either seeking
+unpublished data from the authors or imputed using the         Combining the two qualifying studies, there were a total
+formula proposed by Follmann et al. [22]                       of 58 patients receiving a sum of 76 treatments for PDN
+                                                               randomly allocated to placebo or BTX-A injected on the
+All statistical analyses were performed using Revman           dorsum of the foot [25,26]. The female study population
+version 5.3 [23]. Heterogeneity was assessed using             comprised 51.7% of the study population and the aver-
+Forrest plots visually; and Chi2 and I2 for statistical het-   age age was 62 years. The trial period of evaluating the
+erogeneity. Small study effects were tested using a fun-       pain scores lasted between 3 and 12 weeks after treat-
+nel plot for continuous outcomes as described by Egger         ment administration. The trials allowed continued use of
+et al. [24]. To test the null hypothesis that BTX had no       medications such as insulin, anticonvulsants, and antide-
+effect on neuropathic pain, a Z-test was performed.            pressants as long as they were not changed one month
+                                                               prior to the beginning of the trial. Botulinum injection
+                                                               areas were identical in each trial with a fixed injection plan
+Results
+                                                               using a 3 3 4 grid that were equally spaced to demarcate
+                                                               the injection sites on the dorsum of each foot. Both
+Our search produced a total of 159 articles (see Figure 1).    included studies used BTX-A for the injections, the Yuan
+Application of inclusion and exclusion criteria resulted in    et al. study used OnabotulinumA while the Ghasemi et al.
+three randomized placebo-controlled trials for PDN.            study used AbobotulinumtoxinA [25,26].
+Other neuropathic pain entities such as carpal tunnel syn-
+drome, occipital neuralgia, postherpetic neuralgia, com-
+plex regional pain syndrome, and trigeminal neuralgia          Excluded Studies
+were excluded from the meta-analysis. After seeking
+unpublished data through correspondence with investi-          The excluded study, Chen et al., was a duplicate study
+gators of the included studies, we have excluded one of        of Yuan et al. [25,27]. This was confirmed by correspon-
+three studies because it was a duplicate.                      dence with investigators of the Chen et al. trial [27]. This
+
+
+
+
+Figure 4 Funnel plot of botulinum toxin A for diabetic neuropathy assessing change in pain VAS at 3
+weeks (Ghasemi et al. [26]) and 4 weeks (Yuan et al. [25]). [Color figure can be viewed in the online issue,
+which is available at wileyonlinelibrary.com.]
+
+
+6
+
+===== PDF PAGE 7 of 8 =====
+                                                                                           Botulinum Toxin-A for PDN
+
+excluded study reported data of tactile threshold and          Ultimately only two studies met criteria for inclusion. Our
+pain threshold that were gathered during the Yuan et al.       results could have biases, particularly given that the meta-
+trial but were not previously reported [25].                   analysis is based on assumptions of normality for tests of
+                                                               significance. Also, the outcomes available were only
+Risk of Bias                                                   aggregate data which is also a source of potential bias.
+
+There were unclear risks of bias in both the Yuan et al.       In conclusion, tests for significance, low overall risk of
+and Ghasemi et al. studies with regards to random              bias, and almost no statistical heterogeneity suggests
+sequence generation and allocation biases [25,26]. Both        that there is a correlation between BTX-A and improve-
+of these studies did not point out these procedures for        ment of pain scores in PDN. The selection of class I
+proper evaluation but claimed that they had been               studies, while limiting the number of included papers,
+randomized. To keep the study blind, the physician that        gives strength to the evidence, although the improve-
+administered the treatments did not participate in the         ment in pain scores was small.
+interview and analysis of the outcomes. Also, the prepa-
+ration of placebo and botulinum toxin was likewise done        Given the small effect size, BTX-A may serve best as an
+by an independent physician that was not involved with         adjunctive treatment for PDN to first-line modalities (see
+the review of the patients. All of the included studies        Dworkin et al. for a review) [32]. More class I research
+reported patient drop outs including the reasons and           with large sample sizes are needed before this therapy
+data gathered from them. The included studies provided         can be universally accepted.
+all data gathered either in the published paper or
+unpublished data sought after contacting the authors.
+The included studies passed the test of statistical heter-
+ogeneity (Chi2 5 0.12, df 5 1, P 5 0.73; I2 5 0%). The         References
+overall risk of bias is low.                                    1 Centers for Disease Control and Prevention.
+                                                                  National Diabetes Statistics Report: Estimates of
+Primary and secondary outcomes                                    Diabetes and Its Burden in the United States, 2014.
+                                                                  Atlanta, GA: U.S. Department of Health and Human
+The randomized placebo controlled trials of BTX-A treat-          Services; 2014.
+ment compared to placebo in treatment of PDN showed
+a significant overall pain reduction at 3–4 weeks by 1.96       2 Partanen J, Niskanen L, Lehtinen J, et al. Natural
+points on the 10-point VAS of pain (295% CI: 23.09 to
+                                                                  history of peripheral neuropathy in patients with
+20.84) (Figure 2). With a Z 5 3.43 (P < 0.001) we can
+reject the null hypothesis and conclude that BTX-A has            non-insulin dependent diabetes. N Engl J Med
+a significant effect on PDN. There was only one adverse           1995;333:89–94.
+event of infection in the injection site but this was not
+statistically significant (P 5 0.49) (Figure 3). Small study    3 Abbott CA, Malik RA, van Ross ER, Kulkami J,
+effects showed that the studies have no heterogeneity             Boulton AJ. Prevalence and chracteristics of painful
+Chi2 5 0.12, df 5 1 (P 5 0.73), I2 5 0% (Figures 2 and 4).        diabetic neuropathy in a large community-based
+The risk of randomization bias and allocation bias was            diabetic population in the UK. Diabetes Care 2011;
+unclear for both studies because both studies failed to           43:2220–4.
+indicate the procedures of the randomization and allo-
+cation concealment.                                             4 Davies M, Brophy S, Williams R, Taylor A. The prev-
+                                                                  alence, severity and impact of painful diabetic
+Discussion                                                        peripheral neuropathy in type 2 diabetes. Diabetes
+                                                                  Care 2006;29:1518–1522.
+Bird et al., showed that “patients with greater pain
+require greater changes in VAS”[19]. An improvement of          5 Treede RD, Jensen TS, Campbell JN, et al. Neuro-
+21.3 VAS points is necessary for a clinically significant
+                                                                  pathic pain: Redefinition and a grading system for
+minimum change in pain [28,29] For a concept of
+                                                                  clinical research purposes. Neurology 2008;70(18):
+“much better pain”, Salaffi et al. and Jensen et al., dem-
+onstrated that a change in VAS scores of 22.0 or an               1630–5.
+overall improvement of at least 233% in VAS scores are
+clinically significant [30,31].                                 6 Oster G, Harding G, Dukes E, Edelsberg J, Cleary
+                                                                  PD. Pain, medication use, and health-related quality
+Our analysis suggests that BTX-A is associated with the           of life in older persons with postherpetic neuralgia:
+improvement of PDN particularly in the dorsum of the              Results from a population-based survey. J Pain
+feet. This clinical benefit shows clinical significance for       2005;6(6):356–63.
+“minimum change in pain” with improvement of 21.96
+VAS points.                                                     7 Gore M, Brandenburg NA, Hoffman DL, Tai KS,
+                                                                  Stacey B. Burden of illness in painful diabetic
+There were only three studies examining the impact of             peripheral neuropathy: The patients’ perspectives.
+BTX on PDN, and they have quite small sample sizes.               J Pain 2006;7(12):892–900.
+
+
+                                                                                                                         7
+
+===== PDF PAGE 8 of 8 =====
+Lakhan et al.
+
+    8 McDermott AM, Toelle TR, Rowbotham DJ,                       Cochrane Collaboration; 2011. Available at: http://
+      Schaefer CP, Dukes EM. The burden of neuropathic             community.cochrane.org/handbook.
+      pain: Results of a cross-sectional survey. Eur J Pain
+      2006;10(2):127–135.                                      21 Higgins JPT, Green S. Cochrane Handbook for System-
+                                                                  atic Reviews of Interventions, version 5.1.0, Updated
+    9 Jensen MP, Chodroff MJ, Dworkin RH. The impact              March 2011. Chichester, England: Wiley; 2011.
+      of neuropathic pain on health-related quality of life:
+      Review and implications. Neurology 2007;68(15):          22 Follmann D, Elliott P, Suh I, Cutler J. Variance impu-
+      1178–82.                                                    tation for overviews of clinical trials with continuous
+                                                                  response. J Clin Epidemiol. 1992;45(7):769–73.
+10 Sadosky A, Schaefer C, Mann R, et al. Burden of ill-
+   ness associated with painful diabetic peripheral neu-       23 Review Manager (RevMan) [Computer program].
+   ropathy among adults seeking treatment in the US:              Version 5.3. Copenhagen, Oxford, England: The
+   Results from a retrospective chart review and cross-           Nordic Cochrane Centre, The Cochrane Collabora-
+   sectional survey. Diabetes Metab Syndr Obes 2013;              tion, 2014. Available at: http://tech.cochrane.org/
+   6:79–92.                                                       revman.
+
+11 Berger A, Dukes EM, Oster G. Clinical characteris-          24 Egger M, Davey Smith G, Schneider M, Minder C.
+   tics and economic costs of patients with painful               Bias in meta-analysis detected by a simple, graphi-
+   neuropathic disorders. J Pain 2004;5(3):143–9.                 caltest. BMJ 1997;315(7109):629–34.
+
+12 Callaghan BC, Cheng HT, Stables CL, et al. Dia-             25 Yuan RY, Sheu JJ, Yu JM, et al. Botulinum toxin
+   betic neuropathy: Clinical manifestation and current           for diabetic neuropathic pain: A randomized
+   treatments. Lancet Neurol 2012;11:521.                         double-blind crossover trial. Neurology 2009;72(17):
+                                                                  1473–8.
+13 Edwards JL, Vincent AM, Cheng HT, Feldman EL.
+   Diabetic neuropathy: Mechanisms to management.              26 Ghasemi M, Ansari M, Basiri K, et al. The effects of
+   Pharmacol Ther 2008;120:1.                                     intradermal botulinum toxin type a injections on pain
+                                                                  symptoms of patients with diabetic neuropathy.
+14 Pavone F, Luvisetto S. Botulinum neurotoxin for                J Res Med Sci. 2014;19(2):106–11.
+   pain management: Insights from animal models.
+   Toxins 2010;2:2890–2913.                                    27 Chen WT, Yuan RY, Chiang SC, et al. Onabotuli-
+                                                                  numtoxinA improves tactile and mechanical pain
+15 Francisco G, Tan H, Green M. Do botulinum toxins               perception in painful diabetic polyneuropathy. Clin J
+   have a role in the management of neuropathic pain?             Pain 2013;29(4):305–10.
+   A focused review. Am J Phys Med Rehabil 2012;
+   91(10):899–909.                                             28 Bird SB, Dickson EW. Clinically significant changes
+                                                                  in pain along the visual analog scale. Ann Emerg
+16 Qerama E, Fuglsang-Frederiksen A, Jensen T. The                Med. 2001;38(6):639–643.
+   role of botulinum toxin in management of pain: An
+   evidence based review. Curr Opin Anaesthesiol               29 Gallagher EJ, Liebman M, Bijur PE. Prospective vali-
+   2010;23:602–610.                                               dation of clinically important changes in pain severity
+                                                                  measured on a visual analog scale. Ann Emerg Med
+17 Jeynes LC, Gauci CA. Evidence for the use of botu-             2001;38:633–8.
+   linum toxin in the chronic pain setting: A review of
+   the literature. Pain Practice 2008;8:269–276.               30 Salaffi F, Stancati A, Silvestri CA, et al. Minimal clini-
+                                                                  cally important changes in chronic musculoskeletal
+18 Aoki KR. Future aspects of botulinum neurotoxins.              pain intensity measured on a numerical rating scale.
+   J Neural Transm 2008;115:567–573.                              Eur J Pain 2004;8(4):283–91.
+
+19 French J, Gronseth G. Lost in a jungle of                   31 Jensen MP, Chen C, Brugger AM. Interpretation of
+   evidence: We need a compass. Neurology 2008;71:                visual analog scale ratings and change scores: A
+   1634–8.                                                        reanalysis of two clinical trials of postoperative pain.
+                                                                  J Pain 2003;4(7):407–414.
+20 Higgins JPT, Altman DG, Sterne JAC, Chapter 8:
+   Assessing risk of bias in included studies. In: Hig-        32 Dworkin RH, O’Connor AB, Audette J, et al. Recom-
+   gins JPT, Green S, eds. Cochrane Handbook for                  mendations for the Pharmacological Management of
+   Systematic Reviews of Interventions Version 5.1.0              Neuropathic Pain: An overview and literature update.
+   (updated March 2011). Oxford, England: The                     Mayo Clin Proc 2010;85(3)(suppl):S3–14.
+
+
+8
+
