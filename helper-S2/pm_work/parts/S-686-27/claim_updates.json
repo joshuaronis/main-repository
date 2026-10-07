@@ -1,0 +1,28 @@
+[
+ {
+  "claim_id": "C071",
+  "paper_id": "S-686-27",
+  "pmid": "20384691",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Current publications recommend a dose limitation of [dose figure omitted].8 … As a result of possible and unpredictable high MHb concentrations, TLA can only be recommended with prilocaine in doses of [dose figure omitted].8",
+  "page": 5,
+  "proposed_wording": "Schmittner and colleagues (2010), a prospective study of systemic IL-6, IL-8 and TNF-α in 30 patients given high-dose tumescent (subcutaneous) prilocaine for large skin resections, with methaemoglobin measured serially, do not contradict Guay: the limit in their conclusion is the general limit Guay's own summary concludes with, and they cite Guay for it. It is lower than the adult figure in Guay's results, not lower than Guay's conclusion. Lindenblatt 2004 (which predates Guay) and the device-implantation series (Yalçın 2025; Sertdemir 2026) do not set a limit against Guay in their abstracts.",
+  "reason": "Answer: yes, Schmittner cites Guay — reference 8, cited five times (Introduction twice, Discussion three times) — and no, its recommendation is not framed as contradicting Guay's figure. The Discussion introduces the limit as what 'current publications recommend', citing Guay, and the closing recommendation cites Guay again; the same general limit is the concluding sentence of Guay's own abstract (PMID 19224791), whose results give a higher figure for adults — the one the page calls Guay's figure. The paper is a cytokine study (IL-6, IL-8, TNF-α) of subcutaneous tumescent infusion, not intradermal, in which methaemoglobin was measured serially as the presumed mediator; it found no correlation between applied dose and methaemoglobin, so the limit is adopted from Guay, not derived from its own data. The claim therefore overreaches: no contradiction of Guay is shown. The current proposed wording does not hold either: Lindenblatt 2004 (PMID 15870963) predates Guay and concludes on the length of postoperative monitoring after doses above Guay's adult figure, and the abstracts of Yalçın 2025 and Sertdemir 2026 neither mention Guay nor recommend a limit (Sertdemir reports a predictive cut-off). Whether Scite lists other 'contrasting' citers of Guay could not be checked (Scite requires a paid plan), but the verdict no longer turns on it."
+ },
+ {
+  "claim_id": "C071",
+  "paper_id": "",
+  "pmid": "19224791",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "The purpose of this article is to summarize all episodes of local anesthetic-related methemoglobinemia found in the medical literature.",
+  "page": 0,
+  "proposed_wording": "Guay's 242-episode summary gives a figure for adults in its results and a lower general limit in its conclusion; Schmittner 2010 adopts the concluding limit and cites Guay for it.",
+  "reason": "Found as reference 8 of Schmittner 2010 (S-686-27). Guay's abstract gives, in its results, a figure for adults that is higher than the general limit stated in its concluding sentence; that concluding limit is the one Schmittner adopts and attributes to Guay. So the page's 'Guay figure' is the adult figure from Guay's results, and Schmittner's limit is lower than that but identical to Guay's own conclusion — it repeats Guay rather than contradicting it. Figures omitted; the cached abstract is redacted, the comparison was made on the abstract as returned by the connector."
+ }
+]

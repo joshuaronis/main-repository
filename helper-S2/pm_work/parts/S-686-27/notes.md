@@ -196,3 +196,21 @@ liposuc, interleukin/IL-6/cytokin, methaemoglobin spellings, contrasting, 242)
   precede the methaemoglobin maximum.
 - Schmittner's own conclusion sentences that read as safety judgements ("TLA with high dose prilocaine is considered to
   be safe in case of inflammatory response…") are not quoted anywhere in these results.
+
+### 4b. Abstracts fetched (get_article_metadata) and cached (pmcache.py article)
+- 19224791 Guay 2009 — cached REDACTED: the dose ceilings for children/adults/renal impairment/oxidising drugs, the
+  closing limit, the methaemoglobin levels given for coma, the single-spray benzocaine sentence and the rebound/
+  methylene-blue (antidote) sentence replaced by [dose figure omitted]. Read unredacted from the connector: its results
+  give a higher figure for adults; its conclusion gives a general limit identical to the one Schmittner adopts.
+- 15870963 Lindenblatt 2004 — cached REDACTED: solution concentration, average and maximum dose, plasma level and
+  methaemoglobin values replaced. Design kept: 25 patients, 4 h of sampling, conclusion about a 12-h monitoring period.
+- 41945359 Sertdemir 2026 — cached REDACTED: solution strength, methaemoglobin thresholds and the ROC dose cut-off
+  replaced. Abstract does not mention Guay; reports a predictive cut-off, not a recommended limit.
+- 40641322 Yalçın 2025 — cached as returned (no dose figures). Abstract does not mention Guay and recommends no limit;
+  associations reported are with creatinine, BMI and haemoglobin.
+- 20384691 Schmittner 2010 — abstract read (matches the PDF), not cached (quotes come from the full text).
+- 16723054 Vasters 2006, 17370052 Rudlof 2007 — abstracts read, not cached (not quoted; no verdict rests on them).
+- Reference-list items left out of the card's studies_it_cites_that_matter (no bearing on the pages' topics): Hack 2001
+  (11445730, endothelium in sepsis), Spolarics 1998 (9581796, hepatic sinusoid), Chernik 1990 (2286697, sedation scale),
+  Pfaefflin 2009 (19104782, point-of-care inflammation markers), Gabay 1999 (9971870, acute-phase proteins), Il'yasova
+  2008 (17852073, CRP/IL-6 and oxidative stress), Vos 2009 (19328934, CRP after lung transplantation).

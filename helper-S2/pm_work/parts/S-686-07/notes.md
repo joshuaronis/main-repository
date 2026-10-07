@@ -273,3 +273,32 @@ Pages fetched (as-of = page_version):
     entry's "nobody has modelled that pattern" — dose context; Effendy studied a capped ulcer area, not whole legs;
     correct; no finding. "levels have been found still elevated 24 hours after a dose" (methaemoglobin) — Effendy
     measured no methaemoglobin; no finding.
+- 5 — Soft ground in these documents, https://app.notion.com/p/3d410b7903aa81e88fbdc2ab883b1403, as of
+  2026-09-26T18:26:13.509Z; returned whole (no truncation). No EMLA/prilocaine/Effendy item. Its S57 row (Buckley
+  1993 behind "the whole skin integrity is the largest absorption variable argument", figures unseen) — Effendy
+  does not verify S57's figures; it is one more open-access source showing peak levels rising with the area of
+  broken (ulcerated) skin, which the main session may cite if it shores up that argument; no finding.
+- What is still unsettled across these pages, and what would settle each one,
+  https://app.notion.com/p/3d410b7903aa819f8300e976a62577db, as of 2026-09-26T18:23:10.973Z; 61,415 chars; the two
+  "truncated" strings are body text about a registry suffix, not fetch flags. EMLA items: the Mexican registro
+  suffix, and whether the label's area/amount figure is a universal adult maximum (dose-ceiling subject, not
+  engaged). Nothing Effendy answers; no finding.
+- What was searched for and does not exist, so it is not searched for again,
+  https://app.notion.com/p/3d410b7903aa8169b833f5997631cc82, as of 2026-09-27T00:27:49.877Z; 64,683 chars; no
+  truncation flags. No EMLA/prilocaine item; "ulcer" hits are topical morphine and a diabetic-foot-ulcer gel.
+  No finding.
+
+## 2c. Section 6 of the brief (applied after the coordinator's message)
+
+- Claim screen re-run with the masked viewer `pm_work/tools/claims_view.py grep` for: EMLA/eutectic/
+  lidocaine-prilocaine (8 claims: C039, C069, C070, D014, D066, D067, D068, E028); Effendy|25494699 (C070, D066,
+  D069); methaemoglobin/toluidine (C068, C069, C070, C071); leg ulcer/debridement/chronic wound (D066);
+  accumulation/clearance/washout/between sessions (C070, C092, C094, D072, E018); plasma/serum/systemic absorption
+  (A011, C014, C069, C070, C071, D023, D034, D069, D070, D073, D074). No candidate beyond those already judged above.
+- Strict-elements check of my verdicts: C070 stays narrowed — its claim sentence names "repeated prilocaine wheal
+  sessions" (an injected route), which no source matches, while the wording "repeated small prilocaine doses ...
+  is unstudied" overreaches (topical repeated dosing measured). D066 stays refuted on Moghtaderi 2009 (matches
+  every element); Effendy alone would not refute it. D069 and D072 stay confirmed: Effendy does not match their
+  injection-session elements. The Hansson 1993 extra-study entry carries narrowed, which that source alone supports.
+- Notion: only sentences inaccurate on their natural reading are recorded; one ambiguous sentence is recorded as
+  low with the reason given.

@@ -1,0 +1,19 @@
+{
+ "pmid": "1023952",
+ "year": "1976",
+ "first_author": "Aps",
+ "title": "The effect of concentration on vasoactivity of bupivacaine and lignocaine.",
+ "journal": "Br J Anaesth",
+ "pubtypes": [
+  "Clinical Trial",
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "doi": "10.1093/bja/48.12.1171",
+ "pmcid": "",
+ "abstract": "In a double-blind trial bupivacaine [dose figure omitted] and lignocaine [dose figure omitted] were given intradermally to 31 volunteers. Vasoconstriction was observed more frequently at low concentrations of each drug, and vasodilatation at high concentrations. These observations were highly significant (P less than 0.001). Duration of action was unaffected by concentration, except in the case of bupivacaine [dose figure omitted], the effect of which was longer lasting than that of other solutions.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:30:48Z",
+ "retrieved_for": "S-686-07",
+ "redacted": true
+}

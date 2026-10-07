@@ -76,13 +76,32 @@ Read closely, with the decision:
 - **T01–T08** — dropped (lipoic acid, wheal trials in neuropathic pain, capsaicin, diclofenac, menthol).
 
 Count lines for claims skipped under the filter rule (subject is a dose ceiling, toxicity threshold, injection
-interval or similar; these overlap with Rames' dosing and labelled-maximum passages, so they would otherwise have been
-read against it):
-- Safe Doses Of Intradermal Analgesics: 6 claims not tested: dose or toxicity subject.
-  (D070 on the same page was read and dropped: ropivacaine in chronic pain, no overlap.)
+interval or similar, and the claim overlaps with Rames' dosing, labelled-maximum or repeat-administration passages, so it
+would otherwise have been read against it):
+- Safe Doses Of Intradermal Analgesics: 3 claims not tested: dose or toxicity subject (D069, D071, D072).
+  (Three more claims on that page are also dose-ceiling subjects but have no overlap with this paper — epinephrine
+  limits and a methaemoglobin citation, D073–D075 — so they were dropped as irrelevant rather than skipped; D070, about
+  ropivacaine infiltration in chronic pain, was read and dropped: no overlap.)
 - No other page had a dose- or toxicity-subject claim that overlaps with this paper.
 
 Result of the screen: only D048 is decided by this paper. No other claim's verdict is changed by it.
+
+### 2b. Re-screen with the masked viewer (brief §6), after the coordinator's message
+`python3 pm_work/tools/claims_view.py grep '<regex>'` (dose figures masked):
+- 'liposom|exparel|sustained|extended.release|long.acting|depot|microparticle|microcapsule|methoxyflurane' → 15 claims:
+  C013, C023, C032, C042, C043, D003, D019, D034, D045, D048, D050, D051, D058, D071, E041. New compared with §2:
+  **C042** (methoxyflurane microdroplets never followed up or replicated; "nothing in the class has replaced it";
+  narrowed). Read with `show C042`: its elements are the lecithin-coated microdroplet/microcrystal approach after 1991;
+  neither Rames nor its references (Jensen 2024 is a PLGA microparticle; Exparel a multivesicular liposome) match that
+  intervention → dropped, no update. The others were already read in §2.
+- 'Mohs|dermatolog|hidradenitis|surgical site|excision|chart review|nausea|skin graft|donor site' → 3 (A045, D048,
+  E015; A045 and E015 are unrelated — a drug with no trial, topical eugenol).
+- 'systemic tox|\bLAST\b|seizure|cardiotox|intravascular' → 2 (A025 registry record; C023 adjuvants) — unrelated.
+- cited-author names → 39, all name collisions in unrelated topics except D048 and C032 (both already read).
+Strict-elements check (brief §6) on D048: elements are humans + the marketed product + intradermal route. No source
+matches all three: Rames and Apseloff (humans, marketed product) are subcutaneous/infiltration; Grant 2004 (humans,
+intradermal) is an unmarketed formulation; Hixon 2023 (intradermal layer) is dogs and the veterinary product, and
+animals are outside D048's population. So "confirmed" holds under the strict rule.
 
 ## 3. PubMed (connector; pm.py blocked by network policy). Every search logged with pmcache.py.
 
@@ -93,7 +112,8 @@ threshold or antidote passage in it, so not redacted). Matches the PDF.
 Reference list → PMIDs (`lookup_article_by_citation`; note: the connector returns the PMID in the field labelled
 "key" and echoes my key in "pmid"):
 - 1 Limthongkul 2013 → 23464845; 2 Sniezek 2011 → 21561527; 3 Firoz 2010 → 20542176; 4 Giordano 2020 → 31592922
-  (Mohs postoperative pain and oral analgesics; no local-anaesthetic content — not in the card's list, see card notes).
+  (Mohs postoperative pain and oral analgesics — acetaminophen, ibuprofen, codeine, opioid prescribing; no local-anaesthetic,
+  neuropathic-pain or skin-anaesthesia content, so left out of the card's studies_it_cites_that_matter on purpose).
 - 5 Jensen 2024 → 38482995; 6 Aggarwal 2018 → 28538107; 8 Viscusi 2014 → 23446090; 9 Gitman 2018 → 29303925;
   10 Mörwald 2017 → 28079735; 11 Mulroy 2002 → 12430104; 13 Dagenais 2018 → 29745266; 14 Kharitonov 2014 → 24393760;
   15 Chang 2022 → 36054055; 16 Artz 2021 → 34034954; 17 Manson 2020 → 32833710; 19 Apseloff 2013 → 23458225;
@@ -241,3 +261,32 @@ registration number, not fetch truncation)
   knowledge other sustained-release bupivacaine products have been approved in the US since 2020 (a bupivacaine collagen
   implant, a bupivacaine–meloxicam extended-release solution, and a bupivacaine solution in a sucrose-acetate depot
   vehicle). Not checked against a source in this session; flagged for the main session only.
+
+## 5. Results written
+- Card: `results_S2/paper_cards/S-686-23.json` (16 key results, 4 author limitations, 19 cited studies; refs 1–4 left
+  out on purpose, see §3). Card quotes checked against the text with quotecheck's normalisation (all found).
+- Claim updates (1): D048 own-question, confirmed → confirmed, uncertain_after false (route stated as local
+  infiltration, subcutaneous plane only; "intradermal" never used).
+- Extra studies (2): Apseloff 2013 (23458225) → D048, no change; Jensen 2024 (38482995) → C043: on its own it matches
+  the first sentence's elements but not the second sentence's intradermal element; C043's verdict already rests on
+  other sources, so no claim update (brief §6: an extra study carries only what it alone supports).
+- Notion findings (4): F01, F02 outdated label route list on "Injectables ruled out but not tried" (main text and
+  Sources; low); F03 overstated "only human formulation that has ever produced days … of skin block" on "What is still
+  unsettled" (medium; rests on Jensen 2024); F04 overstated "as much as 72" hours on "Future Medications For Urge To
+  Tense" (low; rests on Ilfeld 2021). F02 and F04 are ambiguous on their natural reading (brief §6), so both are
+  low with the reason stated in their notes.
+- Considered and not recorded as findings: the D048 sentence itself (right; not marked unverified); the Ilfeld 2021 and
+  Zadrazil 2024 summaries on the Injectables page (correct against their abstracts); C043's own sentences on the wheal
+  literature page (already a refuted claim; Jensen added as an extra study instead); the "No frequency found" cell for
+  liposomal bupivacaine on "Permanent-Harm Risk…" (Rames reports a zero count of systemic toxicity in one setting, not a
+  permanent-harm frequency).
+
+## 6. Not reached, and instructions found in documents
+- Not reached (paywalled, no abstract, no free copy found): Chang 2022 Mohs letter (36054055), Yadlapati 2021 Mohs
+  letter (34791645), Sorenson & Chesnut 2019 review (30148736); Apseloff 2013 full text (no PMC copy); Carroll 2023 and
+  El-Boghdadly & Chin 2017 are not in PubMed. Their injection routes could not be read; recorded in D048's reason.
+- `convert_article_ids` hit the connector's rate limit twice; not needed (PMC ids are in the metadata records).
+- Instructions inside documents: none aimed at me. The Injectables page opens with a dated callout addressed "for the
+  health skills" about keeping its dose limits (the person's own ruling) — data; nothing copied. The "Research" page
+  ends with a chat-style line ("Please let me know when you are ready to proceed to Part 4…") — leftover text, ignored.
+- Content filter: no write was stopped.
