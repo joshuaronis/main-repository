@@ -1,0 +1,17 @@
+{
+ "pmid": "29416372",
+ "year": "2018",
+ "first_author": "Wiesmann",
+ "title": "Effect of bupivacaine and adjuvant drugs for regional anesthesia on nerve tissue oximetry and nerve blood flow.",
+ "journal": "J Pain Res",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.2147/JPR.S152230",
+ "pmcid": "PMC5789040",
+ "abstract": "Nerve blood flow has a critical role in acute and chronic pathologies in peripheral nerves. Influences of local anesthetics and adjuvants on tissue perfusion and oxygenation are deemed as relevant factors for nerve damage after peripheral regional anesthesia. The link between low tissue perfusion due to local anesthetics and resulting tissue oxygenation is unclear.\n\nCombined tissue spectrophotometry and laser-Doppler flowmetry were used to assess nerve blood flow in 40 surgically exposed median nerves in pigs, as well as nerve tissue oximetry for 60 min. After baseline measurements, test solutions saline (S), bupivacaine (Bupi), bupivacaine with epinephrine (BupiEpi), and bupivacaine with clonidine (BupiCloni) were applied topically.\n\nBupivacaine resulted in significant decrease in nerve blood flow, as well as tissue oximetry values, compared with saline control. Addition of epinephrine resulted in a rapid, but nonsignificant, reduction of nerve blood flow and extensive lowering of tissue oximetry levels. The use of clonidine resulted in a reduction of nerve blood flow, comparable to bupivacaine alone (relative blood flow at T60 min compared with baseline, S: 0.86 (0.67-1.18), median (25th-75th percentile); Bupi: 0.33 (0.25-0.60); BupiCloni: 0.43 (0.38-0.63); and BupiEpi: 0.41(0.30-0.54). The use of adjuvants did not result in any relevant impairment of tissue oximetry values (saturation values in percent at T60, S: 91.5 [84-95]; Bupi: 76 [61-86]; BupiCloni: 84.5 [76-91]; and BupiEpi: 91 [56-92]).\n\nThe application of bupivacaine results in lower nerve blood flow, but does not induce relevant ischemia. Despite significant reductions in nerve blood flow, the addition of clonidine or epinephrine to bupivacaine had no significant impact on nerve tissue oximetry compared with bupivacaine alone. Nerve ischemia due to local anesthetics is not enhanced by the adjuvants clonidine or epinephrine.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:10:23Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

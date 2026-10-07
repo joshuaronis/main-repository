@@ -1,0 +1,10 @@
+[
+ {"claim_id": "C084", "paper_id": "S-686-44", "pmid": "14272296",
+  "kind": "own-question",
+  "old_verdict": "narrowed", "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "We made measurements 1.5, 2.5 and 3.5 hours after the injection of the anaesthetic.",
+  "page": 2,
+  "proposed_wording": "Only one study followed skin tissue oxygen for eight hours (Miller 1984, rat, epinephrine without anaesthetic). In humans, local tissue-oxygen tension in forearm skin was measured at 1.5, 2.5 and 3.5 hours after a subcutaneous injection of lidocaine with adrenaline or noradrenaline in nine healthy subjects, against a felypressin-containing site, and was lower in the catecholamine zones (Klingenstrom 1964, PMID 14272296); shorter human measurements of skin oxygen saturation after an epinephrine-containing injection exist for up to two hours (Thiem 2021, PMID 34362194; Bunke 2021, PMID 34457400) and for minutes in eyelid skin (Bunke 2022, PMID 35470293). No study has measured tissue oxygen at an intradermal wheal.",
+  "reason": "Answering the open question from the full text: the species is human (nine healthy human subjects, volar forearm, both forearms), and local tissue-oxygen tension was followed to 3.5 hours after injection, with readings at 1.5, 2.5 and 3.5 hours; the authors summarise the catecholamine zones as lower 'after at least 3.5 hours' (PDF p4). The injection was subcutaneous infiltration of lidocaine with each vasoconstrictor, measured by a Clark polarographic micro-electrode at the injection depth, with values expressed only as a percentage of the felypressin site. This refutes the claim's element 'the one study that measured skin oxygen for hours', because a human study measured it over hours twenty years before Miller 1984, and it makes the current wording's 'up to two hours' in humans wrong. The claim is not refuted overall: Miller 1984 remains the only eight-hour measurement, and Klingenstrom's injection was subcutaneous, not an intradermal wheal, so 'nobody has done the equivalent measurement in a human wheal' still holds."}
+]

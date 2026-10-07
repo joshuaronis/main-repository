@@ -1,0 +1,32 @@
+{
+ "query": "(EMLA[tiab] OR \"lidocaine-prilocaine\"[tiab] OR \"lidocaine/prilocaine\"[tiab] OR \"Lidocaine, Prilocaine Drug Combination\"[Mesh]) AND (ulcer[tiab] OR ulcers[tiab] OR wound[tiab] OR wounds[tiab] OR debridement[tiab]) AND (methemoglobin[tiab] OR methaemoglobin[tiab] OR methemoglobinemia[tiab] OR methaemoglobinaemia[tiab] OR \"plasma concentration\"[tiab] OR \"plasma concentrations\"[tiab] OR \"plasma levels\"[tiab] OR accumulation[tiab] OR repeated[tiab] OR daily[tiab])",
+ "max_results": 50,
+ "count": 21,
+ "translation": "(\"EMLA\"[Title/Abstract] OR \"lidocaine prilocaine\"[Title/Abstract] OR \"lidocaine prilocaine\"[Title/Abstract] OR \"lidocaine, prilocaine drug combination\"[MeSH Terms]) AND (\"ulcer\"[Title/Abstract] OR \"ulcers\"[Title/Abstract] OR \"wound\"[Title/Abstract] OR \"wounds\"[Title/Abstract] OR \"debridement\"[Title/Abstract]) AND (\"methemoglobin\"[Title/Abstract] OR \"methaemoglobin\"[Title/Abstract] OR \"methemoglobinemia\"[Title/Abstract] OR \"methaemoglobinaemia\"[Title/Abstract] OR \"plasma concentration\"[Title/Abstract] OR \"plasma concentrations\"[Title/Abstract] OR \"plasma levels\"[Title/Abstract] OR \"accumulation\"[Title/Abstract] OR \"repeated\"[Title/Abstract] OR \"daily\"[Title/Abstract])",
+ "pmids": [
+  "39018678",
+  "38568445",
+  "32598070",
+  "30002870",
+  "29119061",
+  "28836470",
+  "28727591",
+  "27397548",
+  "25494699",
+  "21630059",
+  "20569291",
+  "19212728",
+  "12972901",
+  "11703277",
+  "11587465",
+  "11275800",
+  "10025747",
+  "9250639",
+  "8105630",
+  "1972836",
+  "1969197"
+ ],
+ "date_searched": "2026-10-07T23:13:15Z",
+ "searched_for": "S-686-07",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

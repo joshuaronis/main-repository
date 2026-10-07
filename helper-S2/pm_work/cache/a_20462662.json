@@ -1,0 +1,18 @@
+{
+ "pmid": "20462662",
+ "year": "2010",
+ "first_author": "Alam",
+ "title": "Safety of peak serum lidocaine concentration after Mohs micrographic surgery: a prospective cohort study.",
+ "journal": "J Am Acad Dermatol",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1016/j.jaad.2009.08.046",
+ "pmcid": "",
+ "abstract": "Large volumes of dilute local anesthesia are increasingly used not only for liposuction but also for other large cutaneous surgeries, including skin cancer excision. Although the lidocaine serum levels and peaks after injection of tumescent anesthesia in the trunk were shown to be safe even when used in high doses, the levels after use of less dilute ([dose figure omitted] lidocaine) solutions for facial cancer surgery have not been described.\n\nWe sought to ascertain whether perioperative peak lidocaine levels during Mohs micrographic surgery approach thresholds for lidocaine toxicity.\n\nIn this prospective cohort study, each Mohs micrographic procedure was commenced per routine protocol, with use of injectable [dose figure omitted] lidocaine with [dose figure omitted] epinephrine and [dose figure omitted] bicarbonate for local anesthesia. Six peripheral blood draws of 5 mL each were performed and sent for serum lidocaine concentration measurement. Blood draws were obtained before and after the first two stages of Mohs micrographic surgery, and before and after the third stage or wound repair, as appropriate. Subjects and investigators reported any symptoms or signs of lidocaine toxicity. The main outcome measures include: (1) number of subjects exhibiting at least one level higher than the threshold for toxicity; and (2) sustained elevated lidocaine levels in one or more subjects.\n\nMean total lidocaine volume per subject was [dose figure omitted]. The highest peak serum lidocaine level detected at any time point (blood draw) for any subject was [dose figure omitted]. Mean serum lidocaine level for all 6 time points was [dose figure omitted] and was thus not detected. Detectable lidocaine levels were found to be associated with higher mean (P = .028) and median (P = .008) total lidocaine doses. Because no toxic levels were detected, it was not possible to measure sustained high lidocaine levels.\n\nLimitations of this study include the lack of use of very concentrated (eg, [dose figure omitted]) lidocaine solution.\n\nLidocaine use during Mohs micrographic surgery does not appear to result in serum lidocaine levels approaching toxic levels even when relatively high total lidocaine doses are used. There is an association between higher total lidocaine dose and perioperative peak serum lidocaine level.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:10:01Z",
+ "retrieved_for": "S-686-42",
+ "redacted": true
+}

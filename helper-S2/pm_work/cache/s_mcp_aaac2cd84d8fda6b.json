@@ -1,0 +1,10 @@
+{
+ "query": "Foldes FF[Author] AND JAMA[Journal] AND 1960[dp] AND toxicity",
+ "max_results": 10,
+ "count": 0,
+ "translation": "(foldes, ff[Author] OR foldes ff[Author]) AND \"jama\"[Journal] AND 1960/01/01:1960/12/31[Date - Publication] AND (\"toxic\"[All Fields] OR ... OR \"toxicity\"[MeSH Subheading] OR \"toxicity\"[All Fields] ...)",
+ "pmids": [],
+ "date_searched": "2026-10-07T23:10:55Z",
+ "searched_for": "S-686-42",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

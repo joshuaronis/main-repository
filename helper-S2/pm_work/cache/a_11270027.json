@@ -1,0 +1,19 @@
+{
+ "pmid": "11270027",
+ "year": "2001",
+ "first_author": "Fukusaki",
+ "title": "Perineural injection to nerve root and radicular blood flow: a clinical study during spinal surgery.",
+ "journal": "Eur J Anaesthesiol",
+ "pubtypes": [
+  "Clinical Trial",
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "doi": "10.1046/j.1365-2346.2001.00781.x",
+ "pmcid": "",
+ "abstract": "To investigate the effects of the perineural injection of lidocaine or corticosteroids on radicular blood flow during spinal surgery.\n\nAfter lumbar discectomy, a probe for laser Doppler flowmetry was placed directly on the 4th or 5th lumbar nerve root. Thirty patients undergoing lumbar discectomy were randomly assigned to one of three groups. Each group received one of three protocols for a perineural injection to the nerve root: 1.0 mL 0.9% saline in group A, 1.0 mL 1% lidocaine in group B or 1.0 mL dexamethasone (4 mg) in group C. Measurements included radicular blood flow, mean arterial pressure, haemoglobin concentration, percutaneous oxygen saturation and end-tidal carbon dioxide tension. Radicular blood flow was measured by laser Doppler flowmetry before the injection and 15 min after these injections. The three groups were similar with respect to mean arterial pressure, haemoglobin concentration, percutaneous oxygen saturation and end-tidal carbon dioxide tension.\n\nRadicular blood flow did not change after the injection in any of the groups.\n\nThe results suggest that the perineural injection of 1% lidocaine or dexamethasone does not affect radicular blood flow during lumbar discectomy.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:24:07Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

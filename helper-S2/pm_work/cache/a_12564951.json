@@ -1,0 +1,20 @@
+{
+ "pmid": "12564951",
+ "year": "2003",
+ "first_author": "Anderson",
+ "title": "Effects of iontophoresis current magnitude and duration on dexamethasone deposition and localized drug retention.",
+ "journal": "Phys Ther",
+ "pubtypes": [
+  "Clinical Trial",
+  "Controlled Clinical Trial",
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "",
+ "pmcid": "",
+ "abstract": "Iontophoresis is a process that uses bipolar electric fields to propel molecules across intact skin and into underlying tissue. The purpose of this study was to describe and experimentally examine an iontophoresis drug delivery model.\n\nA mechanistic model describing delivery was studied in vitro using agarose gels and was further tested in vivo by evaluation of cutaneous vasoconstriction following iontophoresis in human volunteers.\n\nIn vitro cathodic iontophoresis at 4 mA and 0.1 mA each delivered dexamethasone/dexamethasone phosphate (DEX/DEX-P) from a 4-mg/mL donor solution to a depth of 12 mm following a 40 mA minute stimulation dosage. Delivery of DEX/DEX-P to at least the depths of the vasculature in humans was confirmed by observation of cutaneous vasoconstriction. This cutaneous vasoconstriction was longer lasting and greater in magnitude when using low-current, long-duration (approximately 0.1 mA) iontophoresis compared with equivalent dosages delivered by higher-current, shorter-duration (1.5-4.0 mA) iontophoresis.\n\nFrom data gathered with the gel model, the authors developed a model of a potential mechanism of drug depot formation following iontophoresis. The authors believe this drug depot formation to be due to exchange of drug ions for chloride ions as the ionic current carriers. Furthermore, diffusion, not magnitude of current, appears to govern the depth of drug penetration. Although the authors did not address the efficacy of the drug delivered, the results of human experiments suggest that current magnitude and duration should be considered as factors in treating musculoskeletal dysfunctions with iontophoresis using DEX/DEX-P at a concentration of 4 mg/mL.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:26:00Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

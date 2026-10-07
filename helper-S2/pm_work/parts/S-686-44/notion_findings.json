@@ -1,0 +1,62 @@
+[
+ {
+  "finding_id": "S2-S-686-44-F01",
+  "paper_id": "S-686-44",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "What this section does and does not establish (under 'The worst case in the literature: epinephrine with no anesthetic')",
+  "sentence_as_it_stands": "It does not show that oxygen holds up in *skin*: the one study that measured skin oxygen for hours found it halved and slow to recover, and although that study injected epinephrine with no anesthetic in a rat, nobody has done the equivalent measurement in a human wheal.",
+  "kind": "overstated",
+  "quote": "The local tissue-oxygen tension in the skin was studied, when adrenaline, noradrenaline and Octapressinm Sandoz were used as vasoconstrictors in local anaesthetic agents injected subcutaneously on the forearms of healthy human subjects. … We made measurements 1.5, 2.5 and 3.5 hours after the injection of the anaesthetic.",
+  "page_in_paper": 2,
+  "corrected_wording": "It does not show that oxygen holds up in skin: the rat study that followed skin oxygen for eight hours found it halved and slow to recover. One human measurement over hours exists and it is much older and much smaller: Klingenstrom and Westermark 1964 (PMID 14272296) measured local tissue-oxygen tension in the forearm skin of nine healthy subjects at 1.5, 2.5 and 3.5 hours after subcutaneous lidocaine with adrenaline or with noradrenaline, against a felypressin-containing site on the same arm, and found the catecholamine sites lower, with a median of 87 per cent of the felypressin site for adrenaline. Nobody has made the equivalent measurement at a human wheal.",
+  "importance": "high",
+  "notes": "Same sentence as claim C084, which this paper's own question was asked for; recorded here because it gives the page location and because the correction is larger than the claim update alone shows. The paper's human measurement is not a like-for-like replacement for Miller's: the route was subcutaneous rather than intradermal, the adrenaline strength was stronger than the page's, there was no pre-injection baseline and no plain-anaesthetic site, the readings are only percentages of the felypressin site rather than absolute tensions, and n was nine with incomplete data in three. Its direction is also milder than Miller's rat result rather than more alarming. The two quoted parts are from PDF pages 5 and 2 of the paper. Page fetch showed no truncation flags; verification state on the page is 'unverified'."
+ },
+ {
+  "finding_id": "S2-S-686-44-F02",
+  "paper_id": "S-686-44",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "What counts as strong evidence for your question (the ranked tiers)",
+  "sentence_as_it_stands": "Next: animal, intact skin. Adds hours of recording and adds tissue oxygen, at the cost of the species difference.",
+  "kind": "ranking-reweigh",
+  "quote": "The oxygen tension was-measured in the infiltrated zone, at the same depth as the injections. … We made measurements 1.5, 2.5 and 3.5 hours after the injection of the anaesthetic.",
+  "page_in_paper": 2,
+  "corrected_wording": "The ranking places hours of recording and tissue oxygen in the animal tier. One human study in the tier above it has both: Klingenstrom and Westermark 1964 (PMID 14272296) measured local tissue-oxygen tension in intact human forearm skin at 1.5, 2.5 and 3.5 hours after injection, at a stronger adrenaline strength than this document's, and the tier line 'almost all stop measuring at ten minutes' therefore has an exception that reports tissue oxygen rather than flow.",
+  "importance": "medium",
+  "notes": "The tier wording is not strictly wrong - the human tier above it is hedged as 'almost all stop measuring at ten minutes' - but the reason given for the animal tier (that hours of recording and tissue oxygen are what animal work adds) no longer holds on its own. Weighting it again should take account of what the human study gives up: a relative rather than absolute oxygen measure, no baseline, subcutaneous rather than intradermal route and nine subjects."
+ },
+ {
+  "finding_id": "S2-S-686-44-F03",
+  "paper_id": "S-686-44",
+  "page": "prilocaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
+  "page_version": "2026-10-02T03:14:12.541Z",
+  "section": "What can actually be bought in Mexico? > Felypressin is a vasoconstrictor under a different name; and the Sources entry for Olgart 1977",
+  "sentence_as_it_stands": "It is not adrenaline and it does not behave like adrenaline in tissue.",
+  "kind": "understated",
+  "quote": "The local tissue-oxygen tension in the skin was studied, when adrenaline, noradrenaline and Octapressinm Sandoz were used as vasoconstrictors in local anaesthetic agents injected subcutaneously on the forearms of healthy human subjects.",
+  "page_in_paper": 5,
+  "corrected_wording": "It is not adrenaline and it does not behave like adrenaline in tissue. Every local comparison cited here is in dental pulp (cats, rabbits), a tissue the page itself notes is unlike skin, but the comparison has also been made in human skin: Klingenstrom and Westermark 1964 (PMID 14272296) injected lidocaine with adrenaline, with noradrenaline and with felypressin at three sites on the forearms of nine healthy subjects and measured local tissue-oxygen tension at 1.5, 2.5 and 3.5 hours, finding it lower at the catecholamine sites (adrenaline median 87 per cent of the felypressin site) and equal to uninjected skin at the felypressin site.",
+  "importance": "medium",
+  "notes": "The page's own Sources entry for Olgart 1977 states the gap: 'Limits: cats, dental pulp, a tissue enclosed in rigid bone and unlike skin.' The same limit applies to Tachibana 2021 (rabbit pulp) and Inagawa 2010 (rabbit myocardium). Klingenstrom 1964 is a human skin measurement of the same contrast and is not cited anywhere on the page (a text search of the fetched page for 'Klingen' returned nothing). It is small (nine subjects), subcutaneous rather than intradermal, has no baseline and reports only percentages of the felypressin site. No truncation flags on the fetch."
+ },
+ {
+  "finding_id": "S2-S-686-44-F04",
+  "paper_id": "S-686-44",
+  "page": "prilocaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
+  "page_version": "2026-10-02T03:14:12.541Z",
+  "section": "What can actually be bought in Mexico? > That does not make it harmless, and it does not make it acceptable here",
+  "sentence_as_it_stands": "And whatever its potency relative to adrenaline, it is in the cartridge for the same purpose: to narrow the vessels around the injection so the drug leaves more slowly. Rejecting vasoconstriction rejects this too, on the same grounds — and the observation that drove that rejection, blanching outlasting the analgesia, argues for more suspicion of a longer-acting peptide, not less.",
+  "kind": "understated",
+  "quote": "Following the administration of Octapressin, the pallor persisted unchanged for 3.5 hours or longer, and no cyanosis appeared.",
+  "page_in_paper": 2,
+  "corrected_wording": "The inference that a longer-acting peptide deserves more suspicion on blanching has a direct human skin measurement behind it: in Klingenstrom and Westermark 1964 (PMID 14272296) the pallor at the felypressin site in human forearm skin persisted unchanged for 3.5 hours or longer, which was the whole observation period, while the adrenaline and noradrenaline sites turned cyanotic centrally within the first hour and kept only a narrow pale rim.",
+  "importance": "medium",
+  "notes": "The page reaches this by reasoning from felypressin's pharmacology, with no measurement of blanching duration in human skin cited. The 1964 study measured exactly that and the result runs the same way the page's inference does: felypressin pallor outlasted the observation period. It also recorded a colour difference the page does not mention - central cyanosis in the adrenaline and noradrenaline zones, none in the felypressin zone. The study did not time the anaesthesia, so it cannot say whether pallor outlasted analgesia; it says only how long the pallor lasted. Recorded on this page as well as on the Lidocaine With Epinephrine Wheals page because the same 1964 study bears on both."
+ }
+]

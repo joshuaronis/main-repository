@@ -1,0 +1,24 @@
+{
+ "query": "(epinephrine[tiab] OR adrenaline[tiab]) AND (hyperalgesia[tiab] OR hyperalgesic[tiab] OR sensitization[tiab]) AND (duration[tiab] OR \"time course\"[tiab] OR prolonged[tiab] OR \"dose-dependent\"[tiab] OR \"dose-response\"[tiab]) AND (skin[tiab] OR intradermal[tiab] OR cutaneous[tiab] OR intraplantar[tiab] OR paw[tiab])",
+ "max_results": 40,
+ "count": 13,
+ "translation": "(\"epinephrine\"[Title/Abstract] OR \"adrenaline\"[Title/Abstract]) AND (\"hyperalgesia\"[Title/Abstract] OR \"hyperalgesic\"[Title/Abstract] OR \"sensitization\"[Title/Abstract]) AND (\"duration\"[Title/Abstract] OR \"time course\"[Title/Abstract] OR \"prolonged\"[Title/Abstract] OR \"dose-dependent\"[Title/Abstract] OR \"dose-response\"[Title/Abstract]) AND (\"skin\"[Title/Abstract] OR \"intradermal\"[Title/Abstract] OR \"cutaneous\"[Title/Abstract] OR \"intraplantar\"[Title/Abstract] OR \"paw\"[Title/Abstract])",
+ "pmids": [
+  "38408153",
+  "37854067",
+  "29715452",
+  "23521101",
+  "21514055",
+  "19576859",
+  "16259764",
+  "15197017",
+  "10085337",
+  "9630485",
+  "7797175",
+  "1647026",
+  "230542"
+ ],
+ "date_searched": "2026-10-07T23:08:34Z",
+ "searched_for": "S-686-37",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

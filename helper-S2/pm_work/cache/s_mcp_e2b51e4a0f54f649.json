@@ -1,0 +1,12 @@
+{
+ "query": "10.1016/j.jaad.2009.08.046[doi]",
+ "max_results": 5,
+ "count": 1,
+ "translation": "\"10 1016 j jaad 2009 08 046\"[Publisher ID]",
+ "pmids": [
+  "20462662"
+ ],
+ "date_searched": "2026-10-07T23:09:48Z",
+ "searched_for": "S-686-42",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

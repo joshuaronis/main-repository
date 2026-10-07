@@ -1,0 +1,10 @@
+{
+ "query": "Noonan L[Author] AND Burge SM[Author]",
+ "max_results": 10,
+ "count": 0,
+ "translation": "noonan l[Author] AND (burge, sm[Author] OR burge sm[Author])",
+ "pmids": [],
+ "date_searched": "2026-10-07T23:13:05Z",
+ "searched_for": "S-686-07",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

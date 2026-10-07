@@ -1,0 +1,24 @@
+{
+ "query": "(Klingenstroem P[Author] OR Klingenstrom P[Author] OR \"Klingenstroem\"[Author])",
+ "max_results": 30,
+ "count": 13,
+ "translation": "klingenstroem p[Author] OR klingenstrom p[Author] OR \"Klingenstroem\"[Author]",
+ "pmids": [
+  "6261445",
+  "4651741",
+  "4185139",
+  "5336919",
+  "5223172",
+  "5960743",
+  "5323350",
+  "4887348",
+  "14339243",
+  "14272296",
+  "14058021",
+  "14409909",
+  "13855747"
+ ],
+ "date_searched": "2026-10-07T23:14:57Z",
+ "searched_for": "S-686-44",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

@@ -1,0 +1,43 @@
+[
+ {
+  "pmid": "11753010",
+  "citation": "Khan MA, Gerner P, Wang GK. Amitriptyline for prolonged cutaneous analgesia in the rat. Anesthesiology 2002;96:109-16",
+  "found_in_paper": "S-686-36",
+  "bears_on_claim_ids": [
+   "C075",
+   "D015",
+   "D013"
+  ],
+  "what_it_shows": "The rat cutaneous-analgesia model that Wang 2008 took its method from: a single subcutaneous injection into shaved dorsal skin, with the cutaneous trunci muscle reflex to pinprick scored quantitatively. It compares amitriptyline with bupivacaine, each with and without epinephrine, and reports time to complete recovery and area under the effect-time curve for each. It is a second animal study of prolonged cutaneous analgesia from one skin injection, and it measures only the reflex - no skin histology and no nerve-fibre counts.",
+  "quote_from_abstract": "Rats were subcutaneously injected on shaved dorsal skin. … Inhibition of the cutaneous trunci muscle reflex was evaluated quantitatively by the fraction of times a total of six pinpricks applied to the marked area failed to elicit a nocifensive motor response compared with control responses."
+ },
+ {
+  "pmid": "9787000",
+  "citation": "Simone DA, Nolano M, Johnson T, Wendelschafer-Crabb G, Kennedy WR. Intradermal injection of capsaicin in humans produces degeneration and subsequent reinnervation of epidermal nerve fibers: correlation with sensory function. J Neurosci 1998;18:8947-59",
+  "found_in_paper": "S-686-36",
+  "bears_on_claim_ids": [
+   "C046",
+   "D013"
+  ],
+  "what_it_shows": "Reference 16 of Wang 2008, and the source of its PGP9.5 method. A human study in which an intradermal injection was followed by quantified counts of PGP9.5-immunoreactive epidermal nerve fibres in skin biopsies at several times afterwards, showing near-complete degeneration and later partial reinnervation, tracked against sensory testing. The injected substance is capsaicin, not a local anaesthetic, so it does not match the claims' intervention; it does show that the measurement the claims call for has been made in human skin after an intradermal injection, and that the method is established.",
+  "quote_from_abstract": "At various times after capsaicin injection, nerve fibers were visualized immunohistochemically in skin biopsies and were quantified."
+ },
+ {
+  "pmid": "10910859",
+  "citation": "Khodorova AB, Strichartz GR. The addition of dilute epinephrine produces equieffectiveness of bupivacaine enantiomers for cutaneous analgesia in the rat. Anesth Analg 2000;91:410-6",
+  "found_in_paper": "S-686-36",
+  "bears_on_claim_ids": [
+   "D013"
+  ],
+  "what_it_shows": "Reference 24 of Wang 2008 and the source of its statement about what epinephrine does on its own in skin. The same rat model - subcutaneous injection, nocifensive reflex to pinprick - applied to the two bupivacaine enantiomers with and without epinephrine, and to epinephrine on its own at several dilutions. Outcome is analgesia only; no skin histology and no nerve-fibre counts.",
+  "quote_from_abstract": "As a model of infiltration anesthesia, inhibition of a nocifensive reflex by subcutaneous injection … was evaluated quantitatively by the fraction of times a pinprick failed to evoke a nocifensive motor response."
+ },
+ {
+  "pmid": "17585219",
+  "citation": "Wang CF, Gerner P, Wang SY, Wang GK. Bulleyaconitine A isolated from aconitum plant displays long-acting local anesthetic properties in vitro and in vivo. Anesthesiology 2007;107:82-90",
+  "found_in_paper": "S-686-36",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "The companion study by the same group, cited as reference 3: the same adjuvant injected at the rat sciatic notch rather than into skin, alone and with lidocaine or with epinephrine, with sensory and motor function followed to recovery. No skin histology and no nerve-fibre counts. Recorded for completeness because it is the paper Wang 2008 builds on and because it is a prolonged-duration adjuvant study.",
+  "quote_from_abstract": "The authors examined (1) the effects of BLA on neuronal voltage-gated Na channels in vitro under the whole cell patch clamp configuration and (2) the sensory and motor functions of rat sciatic nerve after single BLA injections in vivo."
+ }
+]

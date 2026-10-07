@@ -1,0 +1,20 @@
+{
+ "pmid": "2213464",
+ "year": "1990",
+ "first_author": "Davenport",
+ "title": "Effects of anesthetics containing epinephrine on catecholamine levels during periodontal surgery.",
+ "journal": "J Periodontol",
+ "pubtypes": [
+  "Clinical Trial",
+  "Comparative Study",
+  "Controlled Clinical Trial",
+  "Journal Article"
+ ],
+ "doi": "10.1902/jop.1990.61.9.553",
+ "pmcid": "",
+ "abstract": "Nine stable cardiovascular disease patients were evaluated in a double-blind cross-over trial during periodontal surgery using 2% lidocaine with epinephrine 1:100,000 or lidocaine alone. In the lidocaine with epinephrine group, epinephrine levels increased from [dose figure omitted] to [dose figure omitted] at 2 minutes post-injection. In the lidocaine alone group, epinephrine levels increased from a baseline of [dose figure omitted] to [dose figure omitted] at 2 minutes post-injection. Despite these elevations in epinephrine, no significant changes in heart rate or mean arterial pressure were noted. Plain lidocaine provided unsatisfactory levels of hemostasis and/or anesthesia during periodontal surgery. This study documents acute elevations in plasma epinephrine levels following local dental anesthesia for periodontal surgery. These elevations in plasma epinephrine failed to produce a significant cardiovascular response in a group of stable cardiovascular disease patients. This suggests that the cardiac effects of local anesthetics containing epinephrine are small and that they can be safely used in stable cardiovascular disease patients.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:23:13Z",
+ "retrieved_for": "S-686-47",
+ "redacted": true
+}

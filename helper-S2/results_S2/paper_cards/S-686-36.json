@@ -1,0 +1,203 @@
+{
+ "paper_id": "S-686-36",
+ "citation": "Wang CF, Gerner P, Schmidt B, Xu ZZ, Nau C, Wang SY, Ji RR, Wang GK. Use of bulleyaconitine A as an adjuvant for prolonged cutaneous analgesia in the rat. Anesth Analg 2008;107:1397-1405",
+ "pmid": "18806059",
+ "doi": "10.1213/ane.0b013e318182401b",
+ "right_paper": true,
+ "text_quality": "ok (9 PDF pages, complete including references; the extraction renders symbols as odd glyphs, e.g. the plus sign, the micro sign, plus-or-minus, less-than and equals; quotes copied character for character from texts/S-686-36.txt)",
+ "design": "laboratory study in two parts: (1) whole-cell patch-clamp of HEK293t cells expressing human Nav1.7 and rat Nav1.8 sodium channels; (2) controlled animal experiment in rats - single injection into skin, blinded observer, cutaneous trunci muscle reflex (CTMR) to pinprick as the nociception outcome, with skin histology (haematoxylin and eosin, read by a pathologist) and PGP9.5 immunohistochemistry of skin, sections coded in a blinded fashion",
+ "population": "HEK293t cells (transfected); male Sprague-Dawley rats, 250-300 g, Charles River; skin of the shaved dorsal thoracolumbar region, and hindpaw skin for part of the immunohistochemistry",
+ "n": "rats: groups of six per injected test solution (CTMR); patch clamp n=5-7 per condition; PGP9.5 fibre counts: 9 sections from 3 animals per group (saline group and treated group); three rats in one high-concentration group",
+ "setting": "Departments of Anesthesiology, Perioperative and Pain Medicine and of Pathology, Brigham and Women's Hospital, Harvard Medical School, Boston; animal protocol approved by the Harvard Medical Area Standing Committee on Animals",
+ "intervention": "single injection of bulleyaconitine A (BLA) alone; BLA with lidocaine; BLA with epinephrine; BLA with lidocaine and epinephrine (a concentration series of BLA in the mixture). Drugs were freshly prepared in physiological saline",
+ "comparator": "the lidocaine-with-epinephrine mixture alone (the control solution for the CTMR experiments); saline (the control group for the PGP9.5 fibre counts and the contralateral control side for pinprick). There was no plain-lidocaine-with-epinephrine arm and no plain-lidocaine arm in the histology or immunohistochemistry",
+ "route": "subcutaneous injection into shaved dorsal thoracolumbar skin, raising a circular wheal that was marked with ink; for part of the PGP9.5 work a smaller injection into paw skin. The paper calls this a model of infiltration anaesthesia; it does not describe any injection as intradermal",
+ "duration": "CTMR measured at intervals from injection to full recovery (up to about 144 h, i.e. about 6 days). Histology (haematoxylin and eosin): skin taken after full recovery, about 6 days after injection. PGP9.5 immunohistochemistry: skin taken about 24 h (one day) after injection. Single injection only - no repeated dosing",
+ "outcomes": "peak sodium current block (resting, inactivated, use-dependent); CTMR as % maximum possible effect, duration of complete nociceptive blockade, time to full recovery, area under the %MPE-time curve; clinically observed systemic side effects and deaths; skin histology with an inflammation score; number of PGP9.5-immunostained nerve fibres per optical field in paw and back skin",
+ "key_results": [
+  {
+   "quote": "Drug solutions ([dose figure omitted]) were injected subcutaneously via rat shaved dorsal skin. Inhibition of the cutaneous trunci muscle reflex was evaluated by pinpricks. Skin cross-sections were stained with hematoxylin and eosin or with antibodies against PGP9.5.",
+   "page": 1
+  },
+  {
+   "quote": "Groups of six rats were injected with each test solution.",
+   "page": 2
+  },
+  {
+   "quote": "To determine whether nerve degeneration occurred after the drug injection, we performed immunohistochemistry in the hindpaw and back skin using a PGP-9.5 antibody that stained all nerve fibers.",
+   "page": 2
+  },
+  {
+   "quote": "The times of animal termination in these experiments are specified in the figure legends and all sections were coded in a blinded fashion.",
+   "page": 2
+  },
+  {
+   "quote": "In a control experiment, lidocaine ([dose figure omitted]) plus epinephrine ([dose figure omitted]) produced a short complete nociceptive blockade, approximately 1 h in duration.",
+   "page": 5
+  },
+  {
+   "quote": "Tissue toxicity after co-injection of BLA [dose figure omitted] along with [dose figure omitted] lidocaine and [dose figure omitted] epinephrine was examined in cross-sections of the rats’ skin tissue by a pathologist (Dr. Berigitta Schmidt). There were no apparent changes in histology compared with the control sections, except for mild lymphocytic perivascular infiltration approximately 6 days after co-injection.",
+   "page": 6
+  },
+  {
+   "quote": "Inflammation scores in and around the injected area, however, were not significantly different from the control.",
+   "page": 6
+  },
+  {
+   "quote": "Furthermore, we observed no apparent loss in PGP9.5 immunostained peripheral nerve fibers in both the back and paw skins approximately 1 day after co-injection (Fig. 7). The number of nerve fibers in each optical field for paw skins, for example, ranged 18 –24 (mean ⫾ se ⫽ 21.3 ⫾ 0.7, in 9 sections from 3 animals) in the saline group and 19 –23 (21.6 ⫾ 0.5, P ⫽ 0.732) in the BLA-treated group.",
+   "page": 6
+  },
+  {
+   "quote": "The epidermis layer of the skin is shown on top, followed by the dermis, muscle, and subcutaneous layer.",
+   "page": 6
+  },
+  {
+   "quote": "saline (left panel), control side; Bulleyaconitine A (BLA) (right panel), injected side.",
+   "page": 7
+  },
+  {
+   "quote": "Skin samples were taken approximately 24 h after injection. … Arrows indicate nerve fibers in the epidermis of the skin.",
+   "page": 7
+  },
+  {
+   "quote": "Even though cutaneous analgesia lasted for several days after co-injection of BLA/lidocaine/epinephrine, we observed no tissue damage in the cross-sections of the skin surrounding the injected site. The epidermis, dermis, and blood vessels all appeared intact.",
+   "page": 8
+  },
+  {
+   "quote": "Furthermore, the possibility that BLA exhibited selective toxicity towards peripheral nerve fibers was excluded by PGP 9.5 immunostaining. The number of peripheral nerve fibers remained unchanged one day after BLA injection.",
+   "page": 8
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "We used hNav1.7 because it was available to us as a gift from Dr. Klugbauer.",
+   "page": 2
+  },
+  {
+   "quote": "Four alternative explanations could be considered for this synergistic action.",
+   "page": 7
+  },
+  {
+   "quote": "Additional studies using various pain models will be needed to test these possibilities.",
+   "page": 8
+  }
+ ],
+ "funding_conflicts": "Supported by National Institutes of Health, Bethesda, MD Grant GM48090 to G.K.W. and S-Y.W. No conflict-of-interest statement is printed in the article. The pathologist who read the skin sections (B. Schmidt) is a co-author.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Wang CF, Gerner P, Wang SY, Wang GK. Bulleyaconitine A isolated from Aconitum plant displays long-acting local anesthetic properties in vitro and in vivo. Anesthesiology 2007;107:82-90",
+   "pmid": "17585219",
+   "why": "the companion study by the same group: prolonged-duration local anaesthesia in rats from a single injection of the same adjuvant with lidocaine or with epinephrine, but at the sciatic nerve rather than in skin. Bears on prolonged-duration adjuvants and on sodium-channel-blocking adjuvants"
+  },
+  {
+   "citation": "Khan MA, Gerner P, Wang GK. Amitriptyline for prolonged cutaneous analgesia in the rat. Anesthesiology 2002;96:109-16",
+   "pmid": "11753010",
+   "why": "reference 15 - the source of this paper's cutaneous trunci muscle reflex method. A second rat model of prolonged cutaneous analgesia from a single skin injection, comparing amitriptyline with bupivacaine, each with and without epinephrine. Bears on prolonged-duration adjuvants, on epinephrine as a duration-lengthener in skin, and on alternative injectables for skin"
+  },
+  {
+   "citation": "Simone DA, Nolano M, Johnson T, Wendelschafer-Crabb G, Kennedy WR. Intradermal injection of capsaicin in humans produces degeneration and subsequent reinnervation of epidermal nerve fibers: correlation with sensory function. J Neurosci 1998;18:8947-59",
+   "pmid": "9787000",
+   "why": "reference 16 - the source of the PGP9.5 staining method used here. A human study in which an intradermal injection was followed by quantified PGP9.5 epidermal nerve fibre counts in skin biopsies, with degeneration and later reinnervation. Bears directly on intraepidermal nerve fibres after an injection into skin (C046, D013) and on how fibre loss in skin is measured"
+  },
+  {
+   "citation": "Khodorova AB, Strichartz GR. The addition of dilute epinephrine produces equieffectiveness of bupivacaine enantiomers for cutaneous analgesia in the rat. Anesth Analg 2000;91:410-6",
+   "pmid": "10910859",
+   "why": "reference 24 - the same rat cutaneous-analgesia model; the source of this paper's statement that epinephrine on its own produces partial, transient analgesia after subcutaneous injection. Bears on what epinephrine alone does in skin, on epinephrine as an adjuvant, and on bupivacaine isomers (levobupivacaine) injected into skin"
+  },
+  {
+   "citation": "Friese J, Gleitz J, Gutser UT, Heubach JF, Matthiesen T, Wilffert B, Selve N. Aconitum sp. alkaloids: the modulation of voltage-dependent Na+ channels, toxicity and antinociceptive properties. Eur J Pharmacol 1997;337:165-74",
+   "pmid": "9430411",
+   "why": "reference 5 - the paper's source for the narrow margin of aconitine-like alkaloids, cited when discussing the drawbacks of this class as an adjuvant"
+  },
+  {
+   "citation": "Nau C, Wang SY, Strichartz GR, Wang GK. Block of human heart hH1 sodium channels by the enantiomers of bupivacaine. Anesthesiology 2000;93:1022-33",
+   "pmid": "11020758",
+   "why": "reference 20 - cardiac sodium-channel block by the two bupivacaine enantiomers; bears on the bupivacaine and levobupivacaine pages' statements about cardiac effects (recorded here as an existence/design pointer only)"
+  },
+  {
+   "citation": "Clarkson CW, Hondeghem LM. Mechanism of bupivacaine depression of cardiac conduction: fast block of sodium channels during the action potential with slow recovery from block during diastole. Anesthesiology 1985;62:396-405",
+   "pmid": "2580463",
+   "why": "reference 22 - the classic mechanism paper on bupivacaine and cardiac conduction, cited here for the contrast with slowly reversible block; bears on the bupivacaine pages (existence/design pointer only)"
+  },
+  {
+   "citation": "Leffler A, Reiprich A, Mohapatra DP, Nau C. Use-dependent block by lidocaine but not amitriptyline is more pronounced in tetrodotoxin (TTX)-resistant Nav1.8 than in TTX-sensitive Na+ channels. J Pharmacol Exp Ther 2007;320:354-64",
+   "pmid": "17005919",
+   "why": "reference 12 - compares lidocaine with amitriptyline on the nociceptor sodium channel Nav1.8; bears on lidocaine's mechanism in skin nociceptors and on amitriptyline as an alternative injectable"
+  },
+  {
+   "citation": "Jarvis MF, Honore P, Shieh CC, et al. A-803467, a potent and selective Nav1.8 sodium channel blocker, attenuates neuropathic and inflammatory pain in the rat. Proc Natl Acad Sci U S A 2007;104:8520-5",
+   "pmid": "17483457",
+   "why": "reference 10 - a selective Nav1.8 blocker tested in rat neuropathic and inflammatory pain; bears on sodium-channel blockers as treatments for neuropathic pain"
+  },
+  {
+   "citation": "Nassar MA, Stirling LC, Forlani G, et al. Nociceptor-specific gene deletion reveals a major role for Nav1.7 (PN1) in acute and inflammatory pain. Proc Natl Acad Sci U S A 2004;101:12706-11",
+   "pmid": "15314237",
+   "why": "reference 9 - the Nav1.7 nociceptor knockout; bears on Nav1.7 as a target for quieting an overexcited nerve (a mechanism argument on the SFN pages)"
+  },
+  {
+   "citation": "Amir R, Argoff CE, Bennett GJ, et al. The role of sodium channels in chronic inflammatory and neuropathic pain. J Pain 2006;7:S1-S29",
+   "pmid": "16632328",
+   "why": "reference 32 - review of sodium channels in neuropathic pain, cited for the claim that prolonged cutaneous analgesia might relieve neuropathic pain; bears on the rationale for local anaesthetics in neuropathic pain"
+  },
+  {
+   "citation": "Priest B, Hunter JC. Voltage-gated sodium channels as molecular targets for neuropathic pain. Drug Dev Res 2006;67:360-75",
+   "pmid": "",
+   "why": "reference 33 - same rationale; no PubMed record located for this Drug Development Research article"
+  },
+  {
+   "citation": "Wood JN, Boorman JP, Okuse K, Baker MD. Voltage-gated sodium channels and pain pathways. J Neurobiol 2004;61:55-71",
+   "pmid": "15362153",
+   "why": "reference 8 - review of sodium channels in pain pathways, cited as the basis for choosing Nav1.7 and Nav1.8 as nociceptive targets"
+  },
+  {
+   "citation": "Nau C, Wang GK. Interactions of local anesthetics with voltage-gated Na+ channels. J Membr Biol 2004;201:1-8",
+   "pmid": "15635807",
+   "why": "reference 21 - review of how local anaesthetics act on sodium channels; background for any page explaining the mechanism of lidocaine in skin"
+  },
+  {
+   "citation": "Hille B. Local anesthetics: hydrophilic and hydrophobic pathways for the drug receptor reaction. J Gen Physiol 1977;69:497-515",
+   "pmid": "300786",
+   "why": "reference 19 - the classic account of local-anaesthetic preference for inactivated sodium channels; mechanism background"
+  },
+  {
+   "citation": "Zhao J, Ziane R, Chatelier A, O'Leary M, Chahine M. Lidocaine promotes the trafficking and functional expression of Nav1.8 sodium channels in mammalian cells. J Neurophysiol 2007;98:467-77",
+   "pmid": "17507497",
+   "why": "reference 13 - an effect of lidocaine on nociceptor sodium-channel expression rather than on conduction; bears on whether lidocaine exposure changes a nerve beyond the block"
+  },
+  {
+   "citation": "Djouhri L, Fang X, Okuse K, Wood JN, Berry CM, Lawson SN. The TTX-resistant sodium channel Nav1.8 (SNS/PN3): expression and correlation with membrane properties in rat nociceptive primary afferent neurons. J Physiol 2003;550:739-52",
+   "pmid": "12794175",
+   "why": "reference 26 - Nav1.8 in nociceptive afferents; background for nociceptor excitability"
+  },
+  {
+   "citation": "Cummins TR, Howe JR, Waxman SG. Slow closed-state inactivation: a novel mechanism underlying ramp currents in cells expressing the hNE/PN1 sodium channel. J Neurosci 1998;18:9607-19",
+   "pmid": "9822722",
+   "why": "reference 25 - Nav1.7 threshold currents; background for nociceptor excitability"
+  },
+  {
+   "citation": "Rao S, Sikdar SK. Modification of alpha subunit of RIIA sodium channels by aconitine. Pflugers Arch 2000;439:349-55",
+   "pmid": "10650987",
+   "why": "reference 2 - how aconitine modifies sodium channels; background for this class of adjuvant"
+  },
+  {
+   "citation": "Wang SY, Wang GK. Voltage-gated sodium channels as primary targets of diverse lipid-soluble neurotoxins. Cell Signal 2003;15:151-9",
+   "pmid": "12464386",
+   "why": "reference 4 - review of lipid-soluble sodium-channel neurotoxins, the class that includes tetrodotoxin-type agents considered as prolonged-duration blockers"
+  },
+  {
+   "citation": "Ameri A. The effects of Aconitum alkaloids on the central nervous system. Prog Neurobiol 1998;56:211-35",
+   "pmid": "9760702",
+   "why": "reference 6 - central effects of this alkaloid class; relevant to whether an injected adjuvant of this class acts beyond the injection site"
+  },
+  {
+   "citation": "Wang GK, Strichartz GR. Therapeutic Na+ channel blockers beneficial for pain syndromes. Drug Dev Res 2002;54:154-8",
+   "pmid": "",
+   "why": "reference 30 - the authors' own review of sodium-channel blockers for pain; no PubMed record located for this Drug Development Research article"
+  },
+  {
+   "citation": "McEvoy JP. Risks versus benefits of different types of long-acting injectable antipsychotics. J Clin Psychiatry 2006;67(Suppl 5):15-18",
+   "pmid": "",
+   "why": "reference 28 - cited only as an analogy for slow release from an injected depot; bears on the depot/sustained-release idea rather than on any anaesthetic (PMID not looked up)"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "pmid": "19224791",
+ "year": "2009",
+ "first_author": "Guay",
+ "title": "Methemoglobinemia related to local anesthetics: a summary of 242 episodes.",
+ "journal": "Anesth Analg",
+ "pubtypes": [
+  "Journal Article",
+  "Meta-Analysis"
+ ],
+ "doi": "10.1213/ane.0b013e318187c4b1",
+ "pmcid": "",
+ "abstract": "The purpose of this article is to summarize all episodes of local anesthetic-related methemoglobinemia found in the medical literature.\n\nI performed a search of the American National Library of Medicine's PubMed with the following key words: \"local anesthetic\" and \"methemoglobinemia.\"\n\nTwo-hundred-forty-two episodes (40.1% published in year 2000 or after) were found. Chocolate-colored blood suggests methemoglobinemia but other colors may be found. A discrepancy between the pulse oximeter saturation (< or = 90%) and the arterial oxygen partial pressure (> or = 70 mm Hg) was present in 91.8% of the episodes. The difference between oxygen saturation measured by pulse oximetry and co-oximetry varied from -6.2% to 44.7%. Plain prilocaine may induce clinically symptomatic methemoglobinemia in children older than 6 mo at doses exceeding [dose figure omitted]. In adults, the dose of prilocaine should be kept lower than [dose figure omitted], which is reduced to [dose figure omitted] in the presence of renal insufficiency and to [dose figure omitted] if other oxidizing drugs are used concurrently. [dose figure omitted] Clinical symptoms may be observed at relatively low methemoglobin values, including [dose figure omitted]. [dose figure omitted] Complications of methemoglobinemia include hypoxic encephalopathy, myocardial infarction, and death.\n\nBenzocaine should no longer be used. Prilocaine should not be used in children younger than 6-mo-old, in pregnant women, or in patients taking other oxidizing drugs. The dose should be limited to [dose figure omitted].",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:26:00Z",
+ "retrieved_for": "S-686-27",
+ "redacted": true
+}

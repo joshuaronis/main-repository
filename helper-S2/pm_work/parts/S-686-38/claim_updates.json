@@ -1,0 +1,28 @@
+[
+ {
+  "claim_id": "C074",
+  "paper_id": "S-686-38",
+  "pmid": "29416372",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Randomly, [dose figure omitted] of the following test solutions was applied topically to the nerve: bupivacaine [dose figure omitted] isobaric (Bupi) … with epinephrine [dose figure omitted] (BupiEpi) (Suprarenin, Sanofi-Aventis, Frankfurt, Germany)",
+  "page": 3,
+  "proposed_wording": "The one measurement of blood flow inside a nerve at exactly this concentration [dose figure omitted] is Partridge 1991 (rat sciatic nerve, laser Doppler, epinephrine alone and with lidocaine). The other nerve blood-flow studies with an epinephrine arm used higher concentrations: Myers 1989, Palmer 2002, Bouaziz 2005 and Choi 2016 in rats, and Wiesmann 2018 in pigs, where epinephrine was given only with bupivacaine and nerve oxygen saturation was measured as well.",
+  "reason": "Open question answered from the methods (PDF page 3): Wiesmann applied 1 mL of each test solution topically onto the surgically exposed pig median nerve, and the epinephrine group received bupivacaine with epinephrine 1:100,000. That is a higher concentration than the one the claim names, not the same, so Wiesmann is not a second measurement at the claim's concentration; it also had no epinephrine-alone arm and used bupivacaine, not lidocaine. A wider PubMed search (24 and 20 hits) found further nerve blood-flow studies with epinephrine (Bouaziz 2005, Choi 2016), both at higher concentrations; Masuda 2004 (epinephrine with tetrodotoxin, microspheres, same laboratory as Palmer 2002) gives no concentration in its abstract and its full text could not be reached here."
+ },
+ {
+  "claim_id": "C085",
+  "paper_id": "S-686-38",
+  "pmid": "29416372",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Using the Mann–Whitney test, the bupivacaine group (standard group) showed a significant decrease of flow, compared with the saline group (control group) at T30 and T60 (both p < 0.0001), but was not significantly different from bupivacaine with added clonidine (T30, p = 1.0; T60, p = 0.19), or with added epinephrine (T30, p = 0.48; T60, p = 0.39).",
+  "page": 5,
+  "proposed_wording": "Epinephrine without a local anaesthetic narrows skin vessels at least as much as the combination, in the three studies that isolated it (Miller 1984, Cederholm 1992, Newton 2004). In nerve, adding epinephrine deepened the fall in blood flow with lidocaine (Myers 1989; Partridge 1991) but not significantly with bupivacaine (Wiesmann 2018, pig) or ropivacaine (Bouaziz 2005, rat), neither of which tested epinephrine alone.",
+  "reason": "The verdict concerns skin and is unchanged. The proposed wording's nerve clause ('the combination was worse than either alone') rests on Partridge's lidocaine data; in Wiesmann, bupivacaine with epinephrine did not differ significantly from bupivacaine alone in nerve blood flow at 30 or 60 minutes (its fall was only faster in the first minutes), and Bouaziz 2005 (from Wiesmann's reference list) found epinephrine did not reduce nerve flow further than ropivacaine alone."
+ }
+]

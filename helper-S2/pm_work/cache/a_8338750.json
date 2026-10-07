@@ -1,0 +1,18 @@
+{
+ "pmid": "8338750",
+ "year": "1993",
+ "first_author": "Andersen",
+ "title": "The cutaneous corticosteroid vasoconstriction assay: a reflectance spectroscopic and laser-Doppler flowmetric study.",
+ "journal": "Br J Dermatol",
+ "pubtypes": [
+  "Comparative Study",
+  "Journal Article"
+ ],
+ "doi": "10.1111/j.1365-2133.1993.tb00262.x",
+ "pmcid": "",
+ "abstract": "Cutaneous vasoconstriction induced by topical corticosteroids was investigated using non-invasive bioengineering techniques. Corticosteroids of different potency in alcoholic solution were applied topically, under occlusion, and cutaneous blanching was investigated using visual scoring, reflectance spectroscopy (RS) and laser-Doppler flowmetry (LDF). The RS technique allowed separation of cutaneous haemoglobin content into arterial oxygenated (OH) and venous deoxygenated haemoglobin (DOH) components. Application of alcohol decreased total haemoglobin by 10%, with a corresponding 8% increase in blood flow (BF). Clobetasol propionate was the most potent vasoconstrictor, inducing significant visible blanching and decreasing DOH (30%), OH (33%) and BF (18%) (P < 0.01). Fluocinolone acetonide, betamethasone-17-valerate and dexamethasone also caused visible blanching (P < 0.01). There was no significant decrease in BF, but reflectance spectroscopy showed a decrease in DOH (P < 0.01). Tixocortol, CMJ and hydrocortisone acetate did not produce significant blanching, although DOH was decreased compared with the alcohol control. Measured by reflectance spectroscopy, corticosteroid-induced blanching was predominantly venoconstriction and only the most potent corticosteroid caused a significant decrease in OH and blood flow. This may explain why previous attempts to improve cutaneous vasoconstriction assays using laser-Doppler flowmetry have been unsuccessful.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:26:17Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

@@ -1,0 +1,18 @@
+{
+ "pmid": "11454025",
+ "year": "2001",
+ "first_author": "Dina",
+ "title": "Sex hormones regulate the contribution of PKCepsilon and PKA signalling in inflammatory pain in the rat.",
+ "journal": "Eur J Neurosci",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, U.S. Gov't, P.H.S."
+ ],
+ "doi": "10.1046/j.0953-816x.2001.01614.x",
+ "pmcid": "",
+ "abstract": "We have evaluated the contribution of differences in second messenger signalling to sex differences in inflammatory pain and its control by sex hormones. In normal male but not female rats, epinephrine-induced mechanical hyperalgesia was antagonized by inhibitors of protein kinase Cepsilon (PKCepsilon), protein kinase A (PKA) and nitric oxide synthetase (NOS). Similarly, in PKCepsilon knockout mice, a contribution of PKCepsilon to epinephrine-dependent mechanical hyperalgesia occurred in males only. In contrast, hyperalgesia induced by prostaglandin E2, in both females and males, was dependent on PKA and NO. In both sexes, inhibitors of mitogen-activated protein kinase/extracellular-signal related kinase kinase (MEK) inhibited epinephrine hyperalgesia. In gonadectomized females, the second messenger contributions to epinephrine hyperalgesia demonstrated the pattern seen in males. Administration of oestrogen to gonadectomized females fully reconstituted the phenotype of the normal female. These data demonstrate gender differences in PKCepsilon, PKA and NO signalling in epinephrine-induced hyperalgesia which are oestrogen dependent and appear to be exerted at the level of the beta-adrenergic receptor or the G-protein to which it is coupled.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:09:34Z",
+ "retrieved_for": "S-686-37",
+ "redacted": false
+}

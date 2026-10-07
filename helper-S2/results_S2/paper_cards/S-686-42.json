@@ -1,0 +1,146 @@
+{
+ "paper_id": "S-686-42",
+ "citation": "Alam M, Ricci D, Havey J, Rademaker A, Witherspoon J, West DP. Safety of peak serum lidocaine concentration after Mohs micrographic surgery: a prospective cohort study. J Am Acad Dermatol 2010;63(1):87-92",
+ "pmid": "20462662",
+ "doi": "10.1016/j.jaad.2009.08.046",
+ "right_paper": true,
+ "text_quality": "ok (text layer, 6 PDF pages, nothing missing). On PDF page 2 the reading-order text interleaves the two columns with the capsule-summary box, so quotes from that page use unbroken runs only. Table I was read in the layout view and Figs 1-2 on the rendered page.",
+ "design": "Prospective cohort study: single arm, descriptive, with an objective outcome measure (ClinicalTrials.gov NCT00793169). Two consecutive enrolment groups of 10 patients, 6 months apart (September 2007 and March 2008).",
+ "population": "Consecutive adults (18 years or older), otherwise in good health, having Mohs micrographic surgery for basal cell or cutaneous squamous cell carcinoma of the head and neck. Excluded: lidocaine sensitivity, bleeding disorders, pregnancy, and conditions impairing hepatic blood flow (congestive heart failure, liver dysfunction, peripheral vascular disease). Analysed subjects: mean age 60 years (range 42-96), 12 of 19 male.",
+ "n": "20 enrolled (two groups of 10). 1 withdrew after the first blood draw, leaving complete data for 19. Single arm, no comparator. 4 eligible patients declined, citing the blood draws. Note: the Results text says 5 subjects had no detectable level at any time point and 14 had at least one detectable level, but Table I (and the Fig 1 counts) show the reverse: 5 with a detectable peak and 14 with none. The discussion still refers to '20 patients'.",
+ "setting": "Multisurgeon surgical unit of an urban university-based dermatology service (Northwestern University, Chicago, USA). One visit on the day of surgery.",
+ "intervention": "The routine Mohs local anaesthesia: lidocaine with epinephrine, buffered with sodium bicarbonate (strengths: [dose figure omitted]), infiltrated at the tumour site on the head or neck. The authors call it 'intralesional' anaesthesia or 'local injection' and never state intradermal versus subcutaneous depth. Methods fact recorded for the open question, as what the study did: lidocaine was injected three times per patient in one session. The first episode came at the start of the procedure. The paper explicitly ties the second to the second Mohs stage, and the third came later in the session (by the draw schedule, around the third stage or the repair; the paper does not say so in words). Reported median times were about 5, 98 and 222 minutes after the baseline blood draw. The paper does not report how many needle punctures or separate deposits made up each injection episode. Each patient's total amount is tabulated in Table I (amounts not reproduced here).",
+ "comparator": "None (single arm). Serum levels were compared against the authors' toxicity thresholds taken from the literature (not reproduced here). In a secondary analysis, subjects with no detectable level were compared with subjects with at least one detectable level, on total lidocaine amount and on age.",
+ "route": "Local infiltration ('intralesional' / local injection) at the head-and-neck Mohs surgical site (one procedure per patient; the symptom questionnaire refers to 'the injection site' in the singular). Depth (intradermal vs subcutaneous) not stated. No wheals and no multiple separate skin sites described.",
+ "duration": "A single session on one day. Serum was sampled over a target of up to 8 hours (the discussion reports a maximum of 7.8 h and a mean of 4.4 h). The Methods also state no follow-up beyond the 6 hours of the study procedure. There was no sampling or follow-up after the visit.",
+ "outcomes": "Primary: peak serum lidocaine concentration per subject, by gas chromatography in a reference laboratory. Six blood draws were taken from a previously placed intravenous line: (1) shortly before the first injection; (2) after the first injection, at removal of the first Mohs stage; (3) before the second injection, at the second stage; (4) immediately after removal of the second stage; (5) before wound closure or before stage 3; (6) immediately after closure or after stage 3. Draws 5-6 were omitted if only one stage was needed. Analysis: the number of subjects with any level above the authors' toxicity threshold, and 'sustained' elevation (defined as three or more of the six levels above it). Secondary: symptoms by investigator-administered questionnaire, and signs of toxicity by serial physical examination during surgery.",
+ "key_results": [
+  {
+   "quote": "In this prospective cohort study, each Mohs micrographic procedure was commenced per routine protocol",
+   "page": 1
+  },
+  {
+   "quote": "Blood draws were obtained before and after the first two stages of Mohs micrographic surgery, and before and after the third stage or wound repair, as appropriate.",
+   "page": 1
+  },
+  {
+   "quote": "Lidocaine was injected 3 times for each patient.",
+   "page": 3
+  },
+  {
+   "quote": "To assess lidocaine levels over time, blood draws were collected over a maximum of 8 hours.",
+   "page": 3
+  },
+  {
+   "quote": "Complete data were obtained for 19 (12 male) subjects with mean age of 60 years (range: 42-96).",
+   "page": 3
+  },
+  {
+   "quote": "Because no toxic levels were detected, the statistical test designed to detect sustained high lidocaine levels was not performed.",
+   "page": 3
+  },
+  {
+   "quote": "The greatest number of patients with a detectable lidocaine level was at the sixth ... blood draw (5 patients) (Fig 1).",
+   "page": 3
+  },
+  {
+   "quote": "Detectable lidocaine levels were found to be associated with higher mean (P = .028) and median (P = .008) total lidocaine doses.",
+   "page": 1
+  },
+  {
+   "quote": "This study did not detect measured toxic lidocaine levels during Mohs micrographic surgery for nonmelanoma skin cancer of the head and neck.",
+   "page": 4
+  },
+  {
+   "quote": "hypothesis that systemic absorption of lidocaine from the head and neck is more efficient than that from the trunk, and therefore potentially more likely to create harmfully high peak lidocaine levels, was thus not supported.",
+   "page": 5
+  },
+  {
+   "quote": "Investigators did not note any symptoms or signs of lidocaine toxicity in any of the subjects.",
+   "page": 5
+  },
+  {
+   "quote": "Two subjects reported symptoms. A 56-year-old man reported a headache after the first Mohs micrographic surgery stage.",
+   "page": 4
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Limitations of this study include the lack of use of very concentrated (eg, [dose figure omitted]) lidocaine solution.",
+   "page": 1
+  },
+  {
+   "quote": "First, serum rather than plasma lidocaine levels were measured.",
+   "page": 5
+  },
+  {
+   "quote": "Another limitation is that blood was not drawn from subjects many hours after their final lidocaine injection as this was impractical and not in patients' best medical interest.",
+   "page": 5
+  },
+  {
+   "quote": "It is thus theoretically possible that lidocaine levels would have continued to increase for some time after the last blood draw before peaking.",
+   "page": 5
+  },
+  {
+   "quote": "Although the precise blood collection times varied because of the constraints of Mohs micrographic surgery",
+   "page": 5
+  },
+  {
+   "quote": "As this study had a single screening and intervention visit, there was no follow-up beyond the 6 hours of the study procedure.",
+   "page": 3
+  }
+ ],
+ "funding_conflicts": "Supported by Departmental Research Funds, Department of Dermatology, Northwestern University. Conflicts of interest: none declared. Registered as ClinicalTrials.gov NCT00793169. Presented in part at the 2009 American Academy of Dermatology Annual Meeting.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Thomson PD, Melmon KL, Richardson JA, et al. Lidocaine pharmacokinetics in advanced heart failure, liver disease, and renal failure in humans. Ann Intern Med 1973;78:499-508",
+   "pmid": "4694036",
+   "why": "Intravenous lidocaine pharmacokinetics (half-life, clearance) in organ failure. Alam uses it for the half-life it quotes for locally injected lidocaine. Topic: plasma levels and systemic exposure; liver function as a modifier."
+  },
+  {
+   "citation": "Butterwick KJ, Goldman MP, Sriprachya-Anunt S. Lidocaine levels during the first two hours of infiltration of dilute anesthetic solution for tumescent liposuction: rapid versus slow delivery. Dermatol Surg 1999;25:681-5 (Alam's list gives 681-90)",
+   "pmid": "10491056",
+   "why": "Serial serum lidocaine in 18 patients during the first two hours of tumescent (subcutaneous) infiltration, rapid versus slow delivery. Alam cites it for the level linked to objective toxicity signs. Topic: plasma levels after skin/subcutaneous infiltration (the tumescent pharmacokinetic class D069's reason sets aside)."
+  },
+  {
+   "citation": "Becker DE, Reed KL. Essentials of local anesthetic pharmacology. Anesth Prog 2006;53:98-109",
+   "pmid": "17175824",
+   "why": "Review of local-anaesthetic pharmacology for dental practice (vasoconstrictors, toxicity, allergy). Alam cites it for the serum levels linked to seizures and cardiac arrest. Topic: systemic toxicity; epinephrine in local anaesthetics (Safe Doses page). Free in PMC (PMC1693664)."
+  },
+  {
+   "citation": "Foldes FF, Molloy R, McNall PG, Koukal LR. Comparison of toxicity of intravenously given local anesthetic agents in man. JAMA 1960;172:1493-8",
+   "pmid": "13823696",
+   "why": "Intravenous toxicity comparison of local anaesthetics in volunteers; cited with Becker for the same toxicity levels. Topic: systemic toxicity. It is not the Foldes & McNall 1952 intradermal procaine study behind D023."
+  },
+  {
+   "citation": "Hanke CW, Bernstein G, Bullock S. Safety of tumescent liposuction in 15,336 patients. National survey results. Dermatol Surg 1995;21:459-62",
+   "pmid": "7743109",
+   "why": "Survey of complications of tumescent liposuction under local anaesthesia. Topic: systemic safety of large-volume dilute lidocaine-epinephrine subcutaneous infiltration."
+  },
+  {
+   "citation": "Klein JA, Kassarjdian N. Lidocaine toxicity with tumescent liposuction. A case report of probable drug interactions. Dermatol Surg 1997;23:1169-74",
+   "pmid": "9426661",
+   "why": "Case report of lidocaine toxicity after tumescent infiltration with a probable drug interaction (hepatic CYP3A). Topic: systemic toxicity after subcutaneous infiltration; drug interactions."
+  },
+  {
+   "citation": "Lillis PJ. The tumescent technique for liposuction surgery. Dermatol Clin 1990;8:439-50",
+   "pmid": "2199106",
+   "why": "Review of the tumescent technique (dilute lidocaine with epinephrine). Topic: subcutaneous infiltration of dilute lidocaine-epinephrine."
+  },
+  {
+   "citation": "Ostad A, Kageyama N, Moy RL. Tumescent anesthesia with a lidocaine dose of [dose figure omitted] is safe for liposuction. Dermatol Surg 1996;22:921-7",
+   "pmid": "9063507",
+   "why": "Prospective study: 60 liposuction patients assessed for toxicity symptoms over 24 h and 10 with serial plasma lidocaine over 24 h, with the time of peak. Alam compares its own totals with Ostad's (figures not reproduced). Topic: plasma levels and timing after subcutaneous infiltration; the dose-ceiling literature on the Safe Doses page."
+  },
+  {
+   "citation": "Rubin JP, Xie Z, Davidson C, Rosow CE, Chang Y, May JW Jr. Rapid absorption of tumescent lidocaine above the clavicles: a prospective clinical study. Plast Reconstr Surg 2005;115:1744-51 (Alam's list misspells the last author as 'Maw')",
+   "pmid": "15861085",
+   "why": "Randomised crossover in 8 healthy volunteers: subcutaneous tumescent lidocaine (with epinephrine and bicarbonate) into the neck in one session and the thighs in another, with plasma sampled for 14 h. The peak came earlier after neck injection. Alam's sampling window was built around it. Topic: plasma levels after a skin/subcutaneous infiltration session and absorption by body site. Volunteer pharmacokinetics, but tumescent, not wheals (bears on D069's evidence class)."
+  },
+  {
+   "citation": "Lidocaine hydrochloride and epinephrine injection, USP (for infiltration and nerve block) [package insert]. Lake Forest, IL: Hospira, Inc.; 2008",
+   "pmid": "",
+   "why": "US label for lidocaine with epinephrine. Alam discusses its total-dose and re-dosing statements for infiltration (figures not reproduced). Topic: the labelled maxima tabulated on the Safe Doses page (D069-D071 context)."
+  }
+ ]
+}

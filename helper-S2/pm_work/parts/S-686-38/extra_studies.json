@@ -1,0 +1,46 @@
+[
+ {
+  "pmid": "1859013",
+  "citation": "Partridge BL. The effects of local anesthetics and epinephrine on rat sciatic nerve blood flow. Anesthesiology 1991;75(2):243-50",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074",
+   "C085",
+   "C087"
+  ],
+  "what_it_shows": "Wiesmann reference 8. Randomised, blinded rat experiment (45 rats, 90 sciatic nerves, laser Doppler): topical epinephrine at three concentrations, the lowest being the one C074 names, alone and with lidocaine, plus bupivacaine and tetracaine. At the lowest concentration epinephrine alone briefly raised nerve blood flow; the two higher ones reduced it; combined with lidocaine every pairing reduced flow synergistically. It remains the only nerve blood-flow measurement at C074's concentration.",
+  "quote_from_abstract": "Sciatic NBF was measured by laser doppler in 45 adult female Sprague-Dawley rats (90 nerves) after topical application of [dose figure omitted] lidocaine and epinephrine, alone and in combination (lidocaine plus epinephrine), as well as bupivacaine, tetracaine, and normal saline, and studied in a randomized, blinded experimental design."
+ },
+ {
+  "pmid": "2817471",
+  "citation": "Myers RR, Heckman HM. Effects of local anesthesia on nerve blood flow: studies using lidocaine with and without epinephrine. Anesthesiology 1989;71(5):757-62",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074",
+   "C085"
+  ],
+  "what_it_shows": "Wiesmann reference 4. Rat sciatic nerve blood flow by laser Doppler over 10 min after topical saline, lidocaine with and without epinephrine, or epinephrine alone, at an epinephrine concentration higher than C074's. Every solution except saline reduced flow; epinephrine added to lidocaine reduced flow more than lidocaine alone.",
+  "quote_from_abstract": "Epinephrine by itself significantly reduced nerve blood flow; when added to local anesthetic solutions, it reduced nerve blood flow to a greater extent than the reduction caused by anesthetics alone."
+ },
+ {
+  "pmid": "12351299",
+  "citation": "Palmer GM, Cairns BE, Berkes SL, Dunning PS, Taylor GA, Berde CB. The effects of lidocaine and adrenergic agonists on rat sciatic nerve and skeletal muscle blood flow in vivo. Anesth Analg 2002;95(4):1080-6",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074"
+  ],
+  "what_it_shows": "Wiesmann reference 22. Rat sciatic nerve and muscle blood flow by radiolabelled microspheres after perisciatic injection of lidocaine, epinephrine (the same concentration Wiesmann used, higher than C074's and higher than Myers's), phenylephrine, or combinations. Lidocaine alone and epinephrine alone did not alter nerve or muscle flow; lidocaine with epinephrine mildly reduced nerve flow at 30 min. Not a measurement at C074's concentration.",
+  "quote_from_abstract": "Lidocaine ([dose figure omitted]) and epinephrine ([dose figure omitted]) injected alone did not alter blood flow in sciatic nerve, perisciatic muscle, or masseter muscle."
+ },
+ {
+  "pmid": "16183680",
+  "citation": "Bouaziz H, Iohom G, Estèbe JP, Campana WM, Myers RR. Effects of levobupivacaine and ropivacaine on rat sciatic nerve blood flow. Br J Anaesth 2005;95(5):696-700",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074",
+   "C085"
+  ],
+  "what_it_shows": "Wiesmann reference 9. 48 rats; laser Doppler nerve blood flow for 30 min after topical saline, lidocaine, levobupivacaine, ropivacaine, or ropivacaine with epinephrine (a concentration higher than C074's), and histology at 48 h. All local anaesthetics reduced nerve blood flow; adding epinephrine did not reduce it further than ropivacaine alone; no significant histological change at 48 h. A further nerve blood-flow measurement with epinephrine that C074's records did not list, not at C074's concentration.",
+  "quote_from_abstract": "The combination of ropivacaine [dose figure omitted] plus epinephrine did not reduce nerve blood flow to a greater extent than ropivacaine [dose figure omitted] alone."
+ }
+]

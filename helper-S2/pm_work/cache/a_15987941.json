@@ -1,0 +1,19 @@
+{
+ "pmid": "15987941",
+ "year": "2005",
+ "first_author": "Hucho",
+ "title": "Epac mediates a cAMP-to-PKC signaling in inflammatory pain: an isolectin B4(+) neuron-specific mechanism.",
+ "journal": "J Neurosci",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, N.I.H., Extramural",
+  "Research Support, U.S. Gov't, P.H.S."
+ ],
+ "doi": "10.1523/JNEUROSCI.0285-05.2005",
+ "pmcid": "PMC6725047",
+ "abstract": "The epsilon isoform of protein kinase C (PKCepsilon) has emerged as a critical second messenger in sensitization toward mechanical stimulation in models of neuropathic (diabetes, alcoholism, and cancer therapy) as well as acute and chronic inflammatory pain. Signaling pathways leading to activation of PKCepsilon remain unknown. Recent results indicate signaling from cAMP to PKC. A mechanism connecting cAMP and PKC, two ubiquitous, commonly considered separate pathways, remains elusive. We found that, in cultured DRG neurons, signaling from cAMP to PKCepsilon is not mediated by PKA but by the recently identified cAMP-activated guanine exchange factor Epac. Epac, in turn, was upstream of phospholipase C (PLC) and PLD, both of which were necessary for translocation and activation of PKCepsilon. This signaling pathway was specific to isolectin B4-positive [IB4(+)] nociceptors. Also, in a behavioral model, cAMP produced mechanical hyperalgesia (tenderness) through Epac, PLC/PLD, and PKCepsilon. By delineating this signaling pathway, we provide a mechanism for cAMP-to-PKC signaling, give proof of principle that the mitogen-activated protein kinase pathway-activating protein Epac also stimulates PKC, describe the first physiological function unique for the IB4(+) subpopulation of sensory neurons, and find proof of principle that G-protein-coupled receptors can activate PKC not only through the G-proteins alpha(q) and betagamma but also through alpha(s).",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:09:49Z",
+ "retrieved_for": "S-686-37",
+ "redacted": false
+}

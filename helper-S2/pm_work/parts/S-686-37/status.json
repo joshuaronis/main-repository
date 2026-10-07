@@ -1,0 +1,9 @@
+{
+ "paper_id": "S-686-37",
+ "right_paper": true,
+ "text_ok": true,
+ "own_question_answered": "partly",
+ "claims_rejudged": 1,
+ "notion_findings": 3,
+ "notes": "Route and single-injection half of the open question answered in full: one intraplantar injection into the mouse hind paw, not an intradermal injection into the paw dorsum as Khasar 1999 used in rats, and the 3-to-4-day wild-type window is the time course after that one injection. The numeric half (the epinephrine amount) is NOT DONE: STOPPED BY THE CONTENT FILTER - the write carrying the methods figures was blocked at the start of the session, and per the hand-over it was not retried or rephrased; it stands as [dose figure omitted] in the card's intervention and in C090's reason. C090 re-judged narrowed -> refuted (uncertain_after false), with a note in its reason that a strict reading of 'the dose-response was never mapped' would leave it at narrowed. One extra-study claim update on the same claim from Khasar 1999's abstract (PMID 10085337), which shows the claim's premise 'at a single epinephrine dose' is wrong at its source. Four extra studies recorded. No other-claim entries: C090 is the only one of the 320 claims that cites Wang 2011, Khasar or GRK2, and the screen found no other claim the paper bears on. Three Notion findings, all on the Lidocaine With Epinephrine Wheals page. s2check clean: no !! lines, 2 + 4 + 3 quotes all found, three ?? lines all allowed percentages (the 50% paw withdrawal threshold outcome name, 85% of Nav1.8-positive neurons)."
+}

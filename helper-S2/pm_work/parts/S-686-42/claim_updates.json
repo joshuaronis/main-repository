@@ -1,0 +1,28 @@
+[
+ {
+  "claim_id": "D069",
+  "paper_id": "S-686-42",
+  "pmid": "20462662",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "In this prospective cohort study, each Mohs micrographic procedure was commenced per routine protocol … Blood draws were obtained before and after the first two stages of Mohs micrographic surgery, and before and after the third stage or wound repair, as appropriate.",
+  "page": 1,
+  "proposed_wording": "No published study of wheal therapy has measured a plasma or serum concentration after a session, for any agent. The nearest designs sampled serum after repeated infiltrations within one surgical session: Mohs surgery of the head and neck (Alam 2010, PMID 20462662) and awake craniotomy (Sato 2022, PMID 35602485).",
+  "reason": "The full text answers the open question (prospective cohort, 20 enrolled, 19 analysed; the claim's records list n as not stated). Infiltrations per session (methods fact, as what the study did): lidocaine with epinephrine, buffered with bicarbonate, was injected three times per patient within one Mohs session, at the head-or-neck surgical site (one Mohs procedure per patient; the symptom questionnaire refers to 'the injection site' in the singular), at reported median times of about 5, 98 and 222 minutes after the baseline draw. The paper does not count needle punctures or deposits within an episode, and it never calls the injections intradermal or wheals (the authors say 'intralesional'). Sampling schedule: six serum draws from an intravenous line (before the first injection, after the first stage, before the second injection, after the second stage, and before and after the third stage or the repair), over up to about 8 hours (maximum 7.8 h, mean 4.4 h), analysed by gas chromatography, with no sampling after the visit. No part of the protocol approximates a session of many small skin deposits. It is repeated infiltration of one surgical site, so it matches the design element (serial blood sampling within a session) and the outcome element (serum concentration) but not the population or intervention (intradermal wheal therapy). No subject reached the authors' toxicity threshold. Alam belongs, with Sato 2022, in the 'single-session surgical repeated dosing' class the reason already names, so the claim stands as written. Its ceiling sentences are not reworded here (filter rule). Citation note: the DOI of this paper is 10.1016/j.jaad.2009.08.046 (PDF page 1 and PubMed). The 10.1016/j.jaad.2009.09.061 given in this claim's needs_full_text returns no PubMed record."
+ },
+ {
+  "claim_id": "D072",
+  "paper_id": "S-686-42",
+  "pmid": "20462662",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "As this study had a single screening and intervention visit, there was no follow-up beyond the 6 hours of the study procedure.",
+  "page": 3,
+  "proposed_wording": "No study has measured clearance or accumulation of a local anaesthetic between repeated cutaneous injection sessions. The intervals used in the published series therefore rest on their own schedules or on practice guidance, not on a clearance measurement. Serum concentrations after repeated injections have been measured within single sessions (for example Sato 2022, PMID 35602485; Alam 2010, PMID 20462662), not across sessions.",
+  "reason": "Alam 2010 measured serum lidocaine across repeated infiltrations within one Mohs session (prospective cohort, 19 analysed) at a single visit, with no sampling after the procedure day. It measures nothing between sessions and leaves the claim untouched. It does correct the claim's reason, which calls Sato 2022 the only repeated-administration concentration data found: Alam 2010 is a second, earlier within-session dataset (lidocaine, head-and-neck dermatologic surgery). Verdict unchanged."
+ }
+]

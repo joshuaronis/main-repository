@@ -1,0 +1,18 @@
+{
+ "pmid": "17585219",
+ "year": "2007",
+ "first_author": "Wang",
+ "title": "Bulleyaconitine A isolated from aconitum plant displays long-acting local anesthetic properties in vitro and in vivo.",
+ "journal": "Anesthesiology",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, N.I.H., Extramural"
+ ],
+ "doi": "10.1097/01.anes.0000267502.18605.ad",
+ "pmcid": "PMC1952535",
+ "abstract": "Bulleyaconitine A (BLA) is an active ingredient of Aconitum bulleyanum plants. BLA has been approved for the treatment of chronic pain and rheumatoid arthritis in China, but its underlying mechanism remains unclear.\n\nThe authors examined (1) the effects of BLA on neuronal voltage-gated Na channels in vitro under the whole cell patch clamp configuration and (2) the sensory and motor functions of rat sciatic nerve after single BLA injections in vivo.\n\nBLA at 10 microm did not affect neuronal Na currents in clonal GH3 cells when stimulated infrequently to +50 mV. When stimulated at 2 Hz for 1,000 pulses (+50 mV for 4 ms), BLA reduced the peak Na currents by more than 90%. This use-dependent reduction of Na currents by BLA reversed little after washing. Single injections of BLA (0.2 ml at 0.375 mm) into the rat sciatic notch not only blocked sensory and motor functions of the sciatic nerve but also induced hyperexcitability, followed by sedation, arrhythmia, and respiratory distress. When BLA at 0.375 mm was coinjected with 2% lidocaine (approximately 80 mm) or epinephrine (1:100,000) to reduce drug absorption by the bloodstream, the sensory and motor functions of the sciatic nerve remained fully blocked for approximately 4 h and regressed completely after approximately 7 h, with minimal systemic effects.\n\nBLA reduces neuronal Na currents strongly at +50 mV in a use-dependent manner. When coinjected with lidocaine or epinephrine, BLA elicits prolonged block of both motor and sensory functions in rats with minimal adverse effects.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:10:22Z",
+ "retrieved_for": "S-686-36",
+ "redacted": false
+}

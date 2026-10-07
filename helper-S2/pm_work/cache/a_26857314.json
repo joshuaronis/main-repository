@@ -1,0 +1,18 @@
+{
+ "pmid": "26857314",
+ "year": "2016",
+ "first_author": "Choi",
+ "title": "Effect of local anesthesia on facial nerve blood flow and muscle action potential.",
+ "journal": "Int J Pediatr Otorhinolaryngol",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1016/j.ijporl.2015.12.029",
+ "pmcid": "",
+ "abstract": "The effect of direct application of local lidocaine with epinephrine on the facial nerve (FN) has not been reported. The aim of this study is to assess the effects of 2% lidocaine with 1:100,000 epinephrine at clinically relevant concentrations in a rat FN model with respect to facial nerve blood flow (FNBF) and subsequent electrophysiological changes.\n\nTo assess the influence of drugs on FNBF and electrically evoked muscle action potential (EMAP), small pieces of gelfoam were soaked in PBS 100μl (n=5, control group), 50μl (n=5, treatment group A) and 100μl (n=5, group B) of 2% lidocaine with 1:100,000 epinephrine, and 50μl (n=5, group C) and 100μl (n=5, group D) of 2% lidocaine. After 5min of stable recordings, we applied a 2% lidocaine with or without 1:100,000 epinephrine impregnated gelfoam over the main trunk of the facial nerve of rats for 30min. After removing the applied gelfoam, FNBF and threshold of EMAP were measured separately in each group.\n\nCompared to the control group, the treatment groups showed a significant reduction in FNBF in a dose-dependent manner. The maximal reductions in FNBF were observed in all treatment groups for a period after 10min of the application. Synergistic reduction in FNBF was greater in groups A and B than in the lidocaine applied groups (C and D). The maximal increase in the EMAP threshold was observed immediately after the respective drug application in all groups. The greatest increase in the EMAP threshold was observed in group B. The increased EMAP threshold returned to the baseline value within 120min in groups A and C.\n\nFrom these results, it can be considered that the topical application of lidocaine with epinephrine caused reduction in FNBF and elevation of EMAP threshold. These acute reductions in FNBF and elevations in the EMAP threshold were restored in a time-dependent manner.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:24:07Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

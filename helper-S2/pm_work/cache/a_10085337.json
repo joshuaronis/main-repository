@@ -1,0 +1,19 @@
+{
+ "pmid": "10085337",
+ "year": "1999",
+ "first_author": "Khasar",
+ "title": "Epinephrine produces a beta-adrenergic receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat nociceptors.",
+ "journal": "J Neurophysiol",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't",
+  "Research Support, U.S. Gov't, P.H.S."
+ ],
+ "doi": "10.1152/jn.1999.81.3.1104",
+ "pmcid": "",
+ "abstract": "Hyperalgesic and nociceptor sensitizing effects mediated by the beta-adrenergic receptor were evaluated in the rat. Intradermal injection of epinephrine, the major endogenous ligand for the beta-adrenergic receptor, into the dorsum of the hindpaw of the rat produced a dose-dependent mechanical hyperalgesia, quantified by the Randall-Selitto paw-withdrawal test. Epinephrine-induced hyperalgesia was attenuated significantly by intradermal pretreatment with propranolol, a beta-adrenergic receptor antagonist, but not by phentolamine, an alpha-adrenergic receptor antagonist. Epinephrine-induced hyperalgesia developed rapidly; it was statistically significant by 2 min after injection, reached a maximum effect within 5 min, and lasted 2 h. Injection of a more beta-adrenergic receptor-selective agonist, isoproterenol, also produced dose-dependent hyperalgesia, which was attenuated by propranolol but not phentolamine. Epinephrine-induced hyperalgesia was not affected by indomethacin, an inhibitor of cyclo-oxygenase, or by surgical sympathectomy. It was attenuated significantly by inhibitors of the adenosine 3',5'-cyclic monophosphate signaling pathway (the adenylyl cyclase inhibitor, SQ 22536, and the protein kinase A inhibitors, Rp-adenosine 3',5'-cyclic monophosphate and WIPTIDE), inhibitors of the protein kinase C signaling pathway (chelerythrine and bisindolylmaleimide) and a mu-opioid receptor agonist DAMGO ([D-Ala2,N-Me-Phe4,Gly5-ol]-enkephalin). Consistent with the hypothesis that epinephrine produces hyperalgesia by a direct action on primary afferent nociceptors, it was found to sensitize small-diameter dorsal root ganglion neurons in culture, i. e., to produce an increase in number of spikes and a decrease in latency to firing during a ramped depolarizing stimulus. These effects were blocked by propranolol. Furthermore epinephrine, like several other direct-acting hyperalgesic agents, caused a potentiation of tetrodotoxin-resistant sodium current, an effect that was abolished by Rp-adenosine 3',5'-cyclic monophosphate and significantly attenuated by bisindolylmaleimide. Isoproterenol also potentiated tetrodotoxin-resistant sodium current. In conclusion, epinephrine produces cutaneous mechanical hyperalgesia and sensitizes cultured dorsal root ganglion neurons in the absence of nerve injury via an action at a beta-adrenergic receptor. These effects of epinephrine are mediated by both the protein kinase A and protein kinase C second-messenger pathways.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:09:05Z",
+ "retrieved_for": "S-686-37",
+ "redacted": false
+}

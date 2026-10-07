@@ -1,0 +1,18 @@
+{
+ "pmid": "38482995",
+ "year": "2024",
+ "first_author": "Jensen",
+ "title": "Dose safety and pharmacodynamics of subcutaneous bupivacaine in a novel extended-release microparticle formulation: A phase 1, dose-ascending study in male volunteers.",
+ "journal": "Basic Clin Pharmacol Toxicol",
+ "pubtypes": [
+  "Clinical Trial, Phase I",
+  "Journal Article"
+ ],
+ "doi": "10.1111/bcpt.13998",
+ "pmcid": "",
+ "abstract": "A novel microparticle-based extended-release local anaesthetic containing a bupivacaine/poly-lactic-co-glycolic acid (PLGA; LIQ865A) or plain bupivacaine (LIQ865B) was examined in a first-in-human trial. The objectives were to examine the dose safety/tolerability and pharmacodynamics. Randomized subcutaneous injections of LIQ865A (n = 16) or LIQ865B (n = 12) and diluent, contralaterally, were administered in a dose-ascending manner ([dose figure omitted]). Subjects were admitted 24 h post-injection and followed for 30 days post-injection. The risk ratios (RRs; 95% CI) of erythematous reactions for LIQ865A versus diluent was 9.00 (1.81-52.23; P = 0.006) and for LIQ865B versus diluent 2.50 (0.69-9.94; P = 0.37). The RR for the development of hematomas (LIQ865A versus diluent) were 3.25 (1.52-8.16; P = 0.004) and 4.00 (0.72-24.89; P = 0.32) (LIQ865B versus diluent). Subcutaneous indurations persisting for 4-13 weeks were seen in 6/16 subjects receiving LIQ865A. One subject receiving LIQ865A ([dose figure omitted]) developed intermittent central nervous system (CNS) symptoms of local anaesthetic systemic toxicity ([dose figure omitted]) coinciding with plasma peak bupivacaine concentrations ([dose figure omitted]). Both LIQ865 formulations demonstrated dose-dependent hypoesthesia and hypoalgesia. The duration of analgesia ranged between 37 and 86 h. The overall number of local adverse events, however, prohibits clinical application without further pharmacological modifications.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:17:04Z",
+ "retrieved_for": "S-686-23",
+ "redacted": true
+}

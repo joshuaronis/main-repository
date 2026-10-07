@@ -1,0 +1,31 @@
+{
+ "query": "(\"nerve blood flow\"[tiab] OR \"endoneurial blood flow\"[tiab] OR \"intraneural blood flow\"[tiab] OR \"neural blood flow\"[tiab] OR \"nerve perfusion\"[tiab] OR \"nerve oxygen\"[tiab] OR \"nerve tissue oximetry\"[tiab]) AND (lidocaine[tiab] OR lignocaine[tiab] OR bupivacaine[tiab] OR levobupivacaine[tiab] OR ropivacaine[tiab] OR mepivacaine[tiab] OR articaine[tiab] OR \"local anesthetic\"[tiab] OR \"local anesthetics\"[tiab] OR \"local anaesthetic\"[tiab] OR \"local anaesthetics\"[tiab] OR clonidine[tiab] OR dexmedetomidine[tiab] OR dexamethasone[tiab])",
+ "max_results": 50,
+ "count": 20,
+ "translation": "(\"nerve blood flow\"[Title/Abstract] OR \"endoneurial blood flow\"[Title/Abstract] OR \"intraneural blood flow\"[Title/Abstract] OR \"neural blood flow\"[Title/Abstract] OR \"nerve perfusion\"[Title/Abstract] OR \"nerve oxygen\"[Title/Abstract]) AND (\"lidocaine\"[Title/Abstract] OR \"lignocaine\"[Title/Abstract] OR \"bupivacaine\"[Title/Abstract] OR \"levobupivacaine\"[Title/Abstract] OR \"ropivacaine\"[Title/Abstract] OR \"mepivacaine\"[Title/Abstract] OR \"articaine\"[Title/Abstract] OR \"local anesthetic\"[Title/Abstract] OR \"local anesthetics\"[Title/Abstract] OR \"local anaesthetic\"[Title/Abstract] OR \"local anaesthetics\"[Title/Abstract] OR \"clonidine\"[Title/Abstract] OR \"dexmedetomidine\"[Title/Abstract] OR \"dexamethasone\"[Title/Abstract])",
+ "pmids": [
+  "35210487",
+  "29416372",
+  "26857314",
+  "24862772",
+  "17065247",
+  "16183680",
+  "15564952",
+  "12677623",
+  "12351299",
+  "11884905",
+  "9121817",
+  "8024013",
+  "8307254",
+  "8110646",
+  "1773356",
+  "1859013",
+  "1855142",
+  "2195637",
+  "2817471",
+  "3731822"
+ ],
+ "date_searched": "2026-10-07T23:12:15Z",
+ "searched_for": "S-686-38",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

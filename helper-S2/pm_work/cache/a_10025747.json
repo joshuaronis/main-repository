@@ -1,0 +1,20 @@
+{
+ "pmid": "10025747",
+ "year": "1999",
+ "first_author": "Lok",
+ "title": "EMLA cream as a topical anesthetic for the repeated mechanical debridement of venous leg ulcers: a double-blind, placebo-controlled study.",
+ "journal": "J Am Acad Dermatol",
+ "pubtypes": [
+  "Clinical Trial",
+  "Journal Article",
+  "Randomized Controlled Trial",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1016/s0190-9622(99)70190-8",
+ "pmcid": "",
+ "abstract": "A granulating surface is important for skin grafting and healing of leg ulcers. Mechanical debridement to remove necrotic tissue often must be stopped before completion because of pain.\n\nOur purpose was to assess the effect of EMLA cream on the number of debridements required to obtain a clean ulcer and on pain during debridement and to determine its safety after repeated doses.\n\nIn this randomized double-blind, placebo-controlled study, 69 patients with venous leg ulcers received cream before debridement until a clean ulcer was obtained (or a maximum of 15 debridements).\n\nEMLA decreased the median number of debridements required for a clean ulcer (EMLA 11.5, placebo >15; P = .019) and decreased pain by 50% (P = .003). Plasma levels of lidocaine, prilocaine, and their main metabolites were low without any apparent accumulation.\n\nEMLA produces effective pain relief for the debridement of leg ulcers and shortens the time to a clean ulcer.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:14:32Z",
+ "retrieved_for": "S-686-07",
+ "redacted": false
+}

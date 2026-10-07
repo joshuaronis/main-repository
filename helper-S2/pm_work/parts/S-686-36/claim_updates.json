@@ -1,0 +1,54 @@
+[
+ {
+  "claim_id": "C046",
+  "paper_id": "S-686-36",
+  "pmid": "18806059",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Furthermore, we observed no apparent loss in PGP9.5 immunostained peripheral nerve fibers in both the back and paw skins approximately 1 day after co-injection (Fig. 7). The number of nerve fibers in each optical field for paw skins, for example, ranged 18 –24 (mean ⫾ se ⫽ 21.3 ⫾ 0.7, in 9 sections from 3 animals) in the saline group and 19 –23 (21.6 ⫾ 0.5, P ⫽ 0.732) in the BLA-treated group.",
+  "page": 6,
+  "proposed_wording": "No study has measured intraepidermal nerve fibres after repeated injected wheals, and none has measured them after plain lidocaine with epinephrine. The nearest injected measurement is a rat study of a single subcutaneous injection, in which PGP9.5-stained nerve fibres in paw and back skin were counted a day later and did not differ from saline; the arm that was counted contained an experimental adjuvant as well as lidocaine and epinephrine, and there was no plain lidocaine-with-epinephrine arm (Wang 2008, PMID 18806059). The only human measurement of a local anaesthetic's effect on those fibres remains topical: lidocaine patches worn for 42 days lowered epidermal nerve fibre density in healthy volunteers (Wehrfritz 2011, PMID 21530339).",
+  "reason": "Answering the question: no. Wang 2008 did examine skin nerve fibres with PGP9.5 and did so quantitatively - fibres were counted per optical field in paw skin, 9 sections from 3 animals per group, and the counts did not differ (P = 0.732) - but the comparison was a saline group against a group given the experimental adjuvant together with lidocaine and epinephrine. Figure 7 has two columns only, SALINE and BLA, and the legend names the injected side as the adjuvant-plus-lidocaine-plus-epinephrine mixture; no plain lidocaine/epinephrine group was stained, so the paper carries no PGP9.5 result for plain lidocaine-with-epinephrine skin. The species is rat, the route subcutaneous (the paper calls it infiltration anaesthesia and never says intradermal), the fibres counted were in the epidermis and dermis of paw and back skin, and the timing was about 24 h after a single injection; the haematoxylin-and-eosin sections, taken about 6 days after injection, covered epidermis, dermis, muscle and subcutaneous layer and were read by a pathologist. The claim's elements - repeated wheals, intraepidermal fibre counts, any local anaesthetic - are therefore still not all matched by any study, so the verdict stays narrowed, but the wording 'the one measurement of any local anesthetic's effect on those fibers is topical' remains too broad because fibres were counted in skin that had received injected lidocaine and epinephrine (alongside the adjuvant)."
+ },
+ {
+  "claim_id": "D013",
+  "paper_id": "S-686-36",
+  "pmid": "18806059",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "saline (left panel), control side; Bulleyaconitine A (BLA) (right panel), injected side.",
+  "page": 7,
+  "proposed_wording": "No study has measured nerve-fibre damage in human skin from an injected anaesthetic. In animals, one rat study counted PGP9.5-stained skin nerve fibres a day after a single subcutaneous injection and found no difference from saline, but the injected group received an experimental adjuvant together with lidocaine and epinephrine and there was no lidocaine-with-epinephrine-alone group (Wang 2008, PMID 18806059); a separate rabbit study found vacuolation of epidermal cells after intradermal procaine or lidocaine, in keratinocytes rather than nerve fibres (Kimura 1981, PMID 7283469).",
+  "reason": "Answering the question: no - skin nerve fibres were not examined after lidocaine-epinephrine alone. The PGP9.5 comparison in Wang 2008 is saline against the adjuvant-plus-lidocaine-plus-epinephrine mixture, as the Figure 7 legend states and as the figure itself shows (two columns, SALINE and BLA); the lidocaine-with-epinephrine solution served only as the control for the reflex measurements, not for histology. The result in the treated skin was no detectable loss: counts per optical field in paw skin did not differ between the saline and treated groups (P = 0.732), and the haematoxylin-and-eosin sections showed epidermis, dermis and blood vessels intact with only mild lymphocytic perivascular infiltration whose inflammation score did not differ from control. The verdict stays narrowed: skin has been examined after injected anaesthetic in animals, so 'nobody has measured damage in skin from an injected anesthetic' is too broad, but no study matches the claim's elements for a plain injected local anaesthetic in human skin."
+ },
+ {
+  "claim_id": "C075",
+  "paper_id": "S-686-36",
+  "pmid": "18806059",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Skin samples were taken approximately 24 h after injection",
+  "page": 7,
+  "proposed_wording": "",
+  "reason": "Checked against the full text and the claim survives. Wang 2008 is the closest study found so far - it does count skin nerve fibres and read skin histology after an injection containing lidocaine and epinephrine - but it is a single injection, the fibres were counted about 24 h later and the histology taken about 6 days later, the skin was intact rat skin rather than denervated skin, and nothing was repeated at the same site over days or weeks. The claim's 'repeated infiltration ... over days to months' element is therefore still unmatched."
+ },
+ {
+  "claim_id": "D015",
+  "paper_id": "S-686-36",
+  "pmid": "18806059",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Skin samples were taken approximately 24 h after injection",
+  "page": 7,
+  "proposed_wording": "",
+  "reason": "Checked against the full text and the claim survives. The only skin-and-nerve-fibre measurement after injected local anaesthetic found in this packet is a single subcutaneous injection into intact rat skin, with fibres counted about a day later; neither repeated injection over months nor skin that has already lost nerve fibres is covered. The claim's population and intervention elements are both unmatched."
+ }
+]

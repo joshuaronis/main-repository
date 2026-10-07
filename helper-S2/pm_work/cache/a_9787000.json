@@ -1,0 +1,19 @@
+{
+ "pmid": "9787000",
+ "year": "1998",
+ "first_author": "Simone",
+ "title": "Intradermal injection of capsaicin in humans produces degeneration and subsequent reinnervation of epidermal nerve fibers: correlation with sensory function.",
+ "journal": "J Neurosci",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't",
+  "Research Support, U.S. Gov't, P.H.S."
+ ],
+ "doi": "10.1523/JNEUROSCI.18-21-08947.1998",
+ "pmcid": "PMC6793545",
+ "abstract": "The ability of capsaicin to excite and subsequently to desensitize a select group of small sensory neurons has made it a useful tool to study their function. For this reason, application of capsaicin to the skin has been used for a variety of painful syndromes. We examined whether intradermal injection of capsaicin produced morphological changes in cutaneous nerve fibers that would account for its analgesic properties by comparing cutaneous innervation in capsaicin-treated skin with psychophysical measures of sensation. At various times after capsaicin injection, nerve fibers were visualized immunohistochemically in skin biopsies and were quantified. In normal skin the epidermis is heavily innervated by nerve fibers immunoreactive for protein gene product (PGP) 9.5, whereas fibers immunoreactive for substance P (SP) and calcitonin gene-related peptide (CGRP) are typically associated with blood vessels. There was nearly complete degeneration of epidermal nerve fibers and the subepidermal neural plexus in capsaicin-treated skin, as indicated by the loss of immunoreactivity for PGP 9.5 and CGRP. The effect of capsaicin on dermal nerve fibers immunoreactive for SP was less obvious. Capsaicin decreased sensitivity to pain produced by sharp mechanical stimuli and nearly eliminated heat-evoked pain within the injected area. Limited reinnervation of the epidermis and partial return of sensation occurred 3 weeks after treatment; reinnervation of the epidermis was approximately 25% of normal, and sensation improved to 50-75% of normal. These data show that sensory dysfunction after capsaicin application to the skin results from rapid degeneration of intracutaneous nerve fibers.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:09:50Z",
+ "retrieved_for": "S-686-36",
+ "redacted": false
+}

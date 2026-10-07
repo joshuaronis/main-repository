@@ -1,0 +1,42 @@
+[
+ {
+  "pmid": "10085337",
+  "citation": "Khasar SG, McCarter G, Levine JD. Epinephrine produces a beta-adrenergic receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat nociceptors. J Neurophysiol 1999;81(3):1104-12",
+  "found_in_paper": "S-686-37",
+  "bears_on_claim_ids": [
+   "C090"
+  ],
+  "what_it_shows": "The study the page's two-hour window comes from (reference 18 of Wang 2011). Epinephrine injected intradermally into the dorsum of the rat hindpaw produced mechanical hyperalgesia measured by the Randall-Selitto test; the hyperalgesia was dose-dependent, began within minutes and lasted two hours. It was blocked by a beta-adrenergic antagonist and not by an alpha-adrenergic antagonist, and epinephrine also sensitised cultured small-diameter dorsal root ganglion neurons in the absence of nerve injury. So the two-hour figure and the 'rat skin with no nerve damage' description are right, but the study was not run at one epinephrine amount.",
+  "quote_from_abstract": "Intradermal injection of epinephrine, the major endogenous ligand for the beta-adrenergic receptor, into the dorsum of the hindpaw of the rat produced a dose-dependent mechanical hyperalgesia, quantified by the Randall-Selitto paw-withdrawal test."
+ },
+ {
+  "pmid": "19576859",
+  "citation": "Khasar SG, Dina OA, Green PG, Levine JD. Sound stress-induced long-term enhancement of mechanical hyperalgesia in rats is maintained by sympathoadrenal catecholamines. J Pain 2009;10(10):1073-7",
+  "found_in_paper": "S-686-37",
+  "bears_on_claim_ids": [
+   "C090"
+  ],
+  "what_it_shows": "Reference 17 of Wang 2011, and later Levine-group work on stress, catecholamines and pain. In rats, mechanical hyperalgesia persisted for up to 28 days after sound stress; removing the adrenal medulla abolished the enhancement of epinephrine-induced cutaneous and muscle hyperalgesia, and giving stress levels of epinephrine back to those rats restored it. It shows that epinephrine-dependent cutaneous hyperalgesia has been measured well beyond a two-hour window since 1999, though by sustained circulating epinephrine rather than by one injection into skin, so it does not by itself decide a claim scoped to epinephrine placed in skin.",
+  "quote_from_abstract": "We present data showing mechanical hyperalgesia persisting for up to 28 days after exposure to sound stress, with evidence that the sympathoadrenal axis mediator epinephrine plays a major role."
+ },
+ {
+  "pmid": "11454025",
+  "citation": "Dina OA, Aley KO, Isenberg W, Messing RO, Levine JD. Sex hormones regulate the contribution of PKCepsilon and PKA signalling in inflammatory pain in the rat. Eur J Neurosci 2001;13(12):2227-33",
+  "found_in_paper": "S-686-37",
+  "bears_on_claim_ids": [
+   "C090"
+  ],
+  "what_it_shows": "Reference 4 of Wang 2011, which discusses it directly as the earlier account of the signalling routes for epinephrine-induced mechanical hyperalgesia. In rats and in PKCepsilon-knockout mice, epinephrine-induced mechanical hyperalgesia depended on PKCepsilon, PKA and nitric oxide synthase in males but not in normal females, and on MEK in both sexes; the pattern followed oestrogen. It is a further study since 1999 of epinephrine-induced mechanical hyperalgesia in skin, but it reports signalling rather than how long the hyperalgesia lasts or how that varies with the amount injected.",
+  "quote_from_abstract": "In normal male but not female rats, epinephrine-induced mechanical hyperalgesia was antagonized by inhibitors of protein kinase Cepsilon (PKCepsilon), protein kinase A (PKA) and nitric oxide synthetase (NOS)."
+ },
+ {
+  "pmid": "15987941",
+  "citation": "Hucho TB, Dina OA, Levine JD. Epac mediates a cAMP-to-PKC signaling in inflammatory pain: an isolectin B4(+) neuron-specific mechanism. J Neurosci 2005;25(26):6119-26",
+  "found_in_paper": "S-686-37",
+  "bears_on_claim_ids": [
+   "C090"
+  ],
+  "what_it_shows": "Reference 12 of Wang 2011, cited there both for beta2-adrenoceptors mediating epinephrine hyperalgesia in rats and for the Epac step in the cAMP-to-PKCepsilon route. It shows cAMP signalling to PKCepsilon through Epac, PLC and PLD in IB4-positive nociceptors, with mechanical hyperalgesia in a behavioural model. It is mechanism work on how nociceptors are sensitised rather than a measurement of how long a sensitisation window lasts.",
+  "quote_from_abstract": "Also, in a behavioral model, cAMP produced mechanical hyperalgesia (tenderness) through Epac, PLC/PLD, and PKCepsilon."
+ }
+]

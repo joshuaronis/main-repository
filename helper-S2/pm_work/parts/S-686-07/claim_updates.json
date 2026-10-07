@@ -1,0 +1,67 @@
+[
+ {
+  "claim_id": "C070",
+  "paper_id": "S-686-07",
+  "pmid": "25494699",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Cmax values observed at similar time points were similar on days 1 and 10 for lidocaine, prilocaine, and the sum of lidocaine and prilocaine concentrations (Fig. 1), with the two-sided 95% CI for each difference between day 1 and day 10 values including zero",
+  "page": 2,
+  "proposed_wording": "No study has measured methaemoglobin, local tissue change or the persistence of effect across repeated sessions of injected prilocaine wheals. Repeated lidocaine-prilocaine application by the topical route has been studied on each point: methaemoglobin across repeated heel applications in preterm neonates (Essink-Tebbes 1999, no rise above baseline); plasma prilocaine across ten days of daily application to leg ulcers (Effendy 2015, no accumulation; methaemoglobin not measured) and across repeated debridement sessions (Lok 1999, no accumulation); and local reactions and analgesic effect across successive treatments (Hansson 1993, effect unchanged) and over four weeks of daily use as a wound dressing (Purcell 2017).",
+  "reason": "Answer to the question: plasma prilocaine did not accumulate - peak concentrations at matching times were similar on day 1 and day 10 for lidocaine, prilocaine and their sum, with 95% CIs of the differences including zero, and pre-dose samples showed minimal residual concentrations 24 h after the previous application (PDF p. 3). Methaemoglobin was neither measured nor reported; the letter mentions methaemoglobinaemia only as a general property of parenteral prilocaine. The analgesic effect was not lost: in patients with moderate or severe chronic ulcer pain at enrolment (15 of 25), the median pre-application VAS fell gradually from 75 on day 1 to 21 by day 10 (P < 0.001), though in an open, uncontrolled study with concurrent debridement, dressings and analgesics. So the current proposed wording is wrong to credit Effendy 2015 with showing no methaemoglobin accumulation (only Essink-Tebbes 1999 measured it); the verdict stays narrowed because all of this is topical, and nothing studies repeated injected prilocaine wheals. The current reason's 'nothing reports local tissue change across sessions' is also too broad for the topical route (Hansson 1993, from Effendy's reference list; separate extra-study entry)."
+ },
+ {
+  "claim_id": "D066",
+  "paper_id": "S-686-07",
+  "pmid": "25494699",
+  "kind": "own-question",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Patients were asked standard questions each day before the application of EMLA. The first question was ‘Please rate the current intensity of the pain from your ulcer using the pain ruler’.",
+  "page": 1,
+  "proposed_wording": "Attal 1999 is the only study of repeated daily application combined with quantitative sensory testing in postherpetic neuralgia. Daily application has also been studied in painful carpal tunnel syndrome (Moghtaderi 2009, randomised, open-label, against steroid injection), and repeated non-daily application in nerve-repair and vibration-neuropathy cohorts. Outside neuropathic pain, daily application has been studied in chronic leg-ulcer pain over ten days (Effendy 2015, open and uncontrolled, no patient described as neuropathic) and for four weeks as a wound dressing (Purcell 2017, pilot randomised trial).",
+  "reason": "Answer to the question: the pain outcomes were the patient's rating of current ulcer pain on a 100-mm VAS ruler, asked each day before the application (the first of several 'standard questions', the others not described), and the verbal rating of chronic ulcer pain at enrolment; pain during debridement is not reported in the letter. Exposure: the cream stayed on for one hour a day ('After 1 h, any remaining cream was wiped away', PDF p. 1) on each of ten days, about ten hours of cumulative contact; the letter states no cumulative figure. No patient is described as having neuropathic pain: the words neuropathic, neuropathy and neuralgia do not occur, the pain is called chronic ulcer pain, and the aetiologies are venous, arteriovenous and vasculitic. So Effendy 2015 is not a second dataset in an established neuropathic pain state; the refutation rests on Moghtaderi 2009 (daily cream for four weeks in carpal tunnel syndrome), as the current reason says, and the verdict stays refuted. Purcell 2017 (PMID 28727591; found from Effendy's reference 13, the same group's 2012 case report, and a PubMed search) adds a longer daily-use dataset in leg-ulcer pain, likewise not neuropathic."
+ },
+ {
+  "claim_id": "D069",
+  "paper_id": "S-686-07",
+  "pmid": "25494699",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "We report a study designed to determine the plasma concentrations of lidocaine and prilocaine during repeated daily application, for 10 days, of [dose figure omitted] EMLA to leg ulcers, and to evaluate the analgesic effect on chronic ulcer pain.",
+  "page": 1,
+  "proposed_wording": "",
+  "reason": "The current reason lists Effendy 2015 as topical repeated-exposure plasma sampling, judged from the title because PubMed has no abstract. The full text confirms it: plasma lidocaine and prilocaine were sampled after daily application of the cream to leg ulcers, under cling film, with no injection of any kind. It is not a session of intradermal deposits, so it does not match the claim's design element, and the claim's wording stands as tested (no new wording proposed)."
+ },
+ {
+  "claim_id": "D072",
+  "paper_id": "S-686-07",
+  "pmid": "25494699",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Mean predose samples taken before EMLA application on days 3, 5, 7 and 9 were [dose figure omitted] for lidocaine and prilocaine, respectively, indicating minimal residual concentrations 24 h after the previous treatment.",
+  "page": 3,
+  "proposed_wording": "No pharmacokinetic study has measured clearance or accumulation between repeated local-anaesthetic injection sessions, and the interval the published injection series use rests on their own schedules. Accumulation between repeated sessions has been measured only by the topical route: daily lidocaine-prilocaine cream on leg ulcers over ten days, with pre-application and day 1 versus day 10 peak sampling (Effendy 2015), and repeated debridement sessions under the cream (Lok 1999).",
+  "reason": "The current reason says the searches found nothing that measures washout or accumulation between repeated cutaneous local-anaesthetic sessions. Effendy 2015 did measure exactly that for the topical route: pre-dose samples on alternate days showed minimal residual lidocaine and prilocaine a day after each application, and peaks on day 10 were similar to day 1; Lok 1999 (Effendy's reference 5) likewise reports no apparent accumulation of lidocaine, prilocaine or their main metabolites across repeated debridement sessions. Both are topical sessions on ulcerated skin, not injection sessions, so they say nothing about the interval between wheal sessions; the verdict stays confirmed and only the reason's word 'cutaneous' should read 'injection'."
+ },
+ {
+  "claim_id": "C070",
+  "paper_id": "",
+  "pmid": "8105630",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "The analgesic effect remained unchanged with successive treatments.",
+  "page": 0,
+  "proposed_wording": "No study has measured methaemoglobin, local tissue change or the persistence of effect across repeated sessions of injected prilocaine wheals. Repeated lidocaine-prilocaine application by the topical route has been studied on each point: methaemoglobin across repeated heel applications in preterm neonates (Essink-Tebbes 1999, no rise above baseline); plasma prilocaine across ten days of daily application to leg ulcers (Effendy 2015, no accumulation; methaemoglobin not measured) and across repeated debridement sessions (Lok 1999, no accumulation); and local reactions and analgesic effect across successive treatments (Hansson 1993, effect unchanged) and over four weeks of daily use as a wound dressing (Purcell 2017).",
+  "reason": "Found in Effendy 2015's reference list (ref. 9). Hansson 1993 is a randomised controlled study of a series of repeated treatments with the cream before cleansing of venous leg ulcers: local reactions were scored at every treatment, granulation tissue, ulcer area and bacterial flora were assessed at the first and last, and the analgesic effect remained unchanged with successive treatments, with no difference from controls in local reactions or effects on granulation tissue, ulcer area or flora. So for the topical route the claim's 'not on local tissue change, not on whether the effect holds up over time' has data, and C070's current reason ('nothing reports local tissue change across sessions') is too broad. None of it is injected, and the claim is about repeated wheal sessions, so the verdict stays narrowed."
+ }
+]

@@ -1,0 +1,19 @@
+{
+ "pmid": "10374827",
+ "year": "1999",
+ "first_author": "Ibrahim",
+ "title": "Combined microlightguide spectrophotometry and microendoscopy for measurement of oxygen saturation in peripheral nerves.",
+ "journal": "Physiol Meas",
+ "pubtypes": [
+  "Comparative Study",
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1088/0967-3334/20/1/005",
+ "pmcid": "",
+ "abstract": "Microlightguide measurements of the spectral composition of backscattered light may be used to determine local tissue oxygen saturation and monitor tissue perfusion using intravenous injection of fluorescein dye as a contrast agent. We have used a combination of microlightguide spectrophotometry and microendoscopy to measure intravascular oxygen saturation (HbSaO2%) and monitor blood flow in the sciatic nerve of 12 healthy male Sprague-Dawley rats. The microlightguide and endoscope combination is a relatively new measurement technique. The aims of this study were to determine whether microlightguide spectrophotometry and microendoscopy could be used to measure HbO2 and blood flow in peripheral nerves and to compare the measurements made using the flexible lightguide with the endoscope-lightguide combination. We found no significant difference between the two types of measurement over similar regions of the nerve. mean SaO2% values 77.1% (95% CI = 75.4-78.8) and 78.8% (95% CI = 77.5-80.1) respectively. During a period of hypoxia there was a similar fall in both arterial and nerve oxygen saturation. Following injection of fluorescein, the rate of increase in nerve fluorescence was used as a measure of perfusion. The combination of microlightguide spectrophotometry and microendoscopy allows the exact site of measurement to be directly visualized. The minimally invasive nature of this technique may allow its application to the study of peripheral nerves in human subjects in conditions such as diabetic neuropathy where vascular factors are thought to have an important role in aetiology.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:24:07Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

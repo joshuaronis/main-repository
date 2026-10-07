@@ -1,0 +1,20 @@
+{
+ "pmid": "23458225",
+ "year": "2013",
+ "first_author": "Apseloff",
+ "title": "Time to onset of analgesia following local infiltration of liposome bupivacaine in healthy volunteers: a randomized, single-blind, sequential cohort, crossover study.",
+ "journal": "Int J Clin Pharmacol Ther",
+ "pubtypes": [
+  "Clinical Trial, Phase I",
+  "Journal Article",
+  "Randomized Controlled Trial",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.5414/CP201775",
+ "pmcid": "",
+ "abstract": "Bupivacaine liposome injectable suspension is a novel, prolonged-release formulation of bupivacaine. The time to onset of analgesia following an injection of liposome bupivacaine compared with placebo (normal saline) was investigated using a novel incisional pain model. Bupivacaine HCl was used as a positive control, compared with placebo to verify the validity of the study.\n\nIn this Phase 1, single-blind, crossover study, healthy volunteers (n = 132) were randomized to four sequential cohorts to receive subcutaneous normal saline in one arm and either liposome bupivacaine 40 mg or bupivacaine HCl 7.5 mg in the other. At 30, 15, 5, and 2 minutes after study drug administration for Cohorts 1 - 4 respectively, an incision was made in each arm and 18% acetic acid solution was applied to elicit pain. The primary outcome measure was a subject's assessment of pain intensity on a 100 mm visual analog scale.\n\nStatistically significant differences in pain intensity scores between liposome bupivacaine and normal saline were observed at 30, 15, 5, and 2 minutes postdose; similar findings were reported for bupivacaine HCl vs. normal saline. Both liposome bupivacaine and bupivacaine HCl were well tolerated and achieved > 30% pain reduction, normalized to placebo, within 5 minutes.\n\nThese results indicate that liposome bupivacaine offers time to onset characteristics similar to traditional bupivacaine HCl: clinically meaningful analgesia within 2 minutes after administration and substantial analgesia by 5 minutes.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:17:04Z",
+ "retrieved_for": "S-686-23",
+ "redacted": false
+}

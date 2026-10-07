@@ -1,0 +1,17 @@
+{
+ "pmid": "35470293",
+ "year": "2022",
+ "first_author": "Bunke",
+ "title": "Hyperspectral and Laser Speckle Contrast Imaging for Monitoring the Effect of Epinephrine in Local Anesthetics in Oculoplastic Surgery.",
+ "journal": "Ophthalmic Plast Reconstr Surg",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.1097/IOP.0000000000002163",
+ "pmcid": "PMC9462134",
+ "abstract": "Epinephrine is used in local anesthetics to induce vasoconstriction and thus reduce bleeding and prolong the anesthetic effect. Finding the optimal delay between the administration of the anesthetic and skin incision to ensure vasoconstriction and minimize bleeding is important and has recently become the subject of debate. This is the first study to assess blood perfusion and oxygen saturation (sO 2 ) simultaneously in response to a local anesthetic containing epinephrine in human oculoplastic surgery.\n\nA local anesthetic consisting of lidocaine and epinephrine [dose figure omitted] was injected in the eyelids of 9 subjects undergoing blepharoplasty. The perfusion and sO 2 of the eyelids were monitored using laser speckle contrast imaging and hyperspectral imaging, respectively.\n\nLaser speckle contrast imaging monitoring showed a decrease in perfusion over time centrally at the site of injection. Half-maximum effect was reached after 34 seconds, and full effect after 115 seconds, determined by exponential fitting. The drop in perfusion decreased gradually further away from the injection site and hypoperfusion was less prominent 4 mm from the injection site, with a spatially dependent half-maximum effect of 231 seconds. Hyperspectral imaging showed only a slight decrease in sO 2 of 11 % at the injection site.\n\nThe optimal time delay for skin incision in oculoplastic surgery is approximately 2 minutes after the injection of lidocaine with epinephrine. Longer delay does not lead to a further decrease in perfusion. As sO 2 was only slightly reduced after injection, the results indicate that the use of epinephrine is safe in the periocular region.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:16:18Z",
+ "retrieved_for": "S-686-44",
+ "redacted": true
+}

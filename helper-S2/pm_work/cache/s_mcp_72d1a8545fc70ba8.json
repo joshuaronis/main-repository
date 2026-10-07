@@ -1,0 +1,15 @@
+{
+ "query": "(\"liposomal bupivacaine\"[tiab] OR \"liposome bupivacaine\"[tiab] OR \"bupivacaine liposome\"[tiab] OR exparel[tiab]) AND (intradermal[tiab] OR intracutaneous[tiab] OR wheal[tiab] OR wheals[tiab] OR \"Injections, Intradermal\"[Mesh] OR subdermal[tiab] OR dermal[tiab])",
+ "max_results": 50,
+ "count": 4,
+ "translation": "(\"liposomal bupivacaine\"[Title/Abstract] OR \"liposome bupivacaine\"[Title/Abstract] OR \"bupivacaine liposome\"[Title/Abstract] OR \"exparel\"[Title/Abstract]) AND (\"intradermal\"[Title/Abstract] OR \"intracutaneous\"[Title/Abstract] OR \"wheal\"[Title/Abstract] OR \"wheals\"[Title/Abstract] OR \"injections, intradermal\"[MeSH Terms] OR \"subdermal\"[Title/Abstract] OR \"dermal\"[Title/Abstract])",
+ "pmids": [
+  "38241783",
+  "23458225",
+  "15220782",
+  "8853095"
+ ],
+ "date_searched": "2026-10-07T23:11:56Z",
+ "searched_for": "S-686-23",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

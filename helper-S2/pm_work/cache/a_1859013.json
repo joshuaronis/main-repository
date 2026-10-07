@@ -1,0 +1,19 @@
+{
+ "pmid": "1859013",
+ "year": "1991",
+ "first_author": "Partridge",
+ "title": "The effects of local anesthetics and epinephrine on rat sciatic nerve blood flow.",
+ "journal": "Anesthesiology",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't",
+  "Research Support, U.S. Gov't, Non-P.H.S."
+ ],
+ "doi": "10.1097/00000542-199108000-00012",
+ "pmcid": "",
+ "abstract": "The effects of topical application of local anesthetics on peripheral nerve blood flow (NBF) were studied in the rat sciatic nerve. Sciatic NBF was measured by laser doppler in 45 adult female Sprague-Dawley rats (90 nerves) after topical application of 25 microliter lidocaine and epinephrine, alone and in combination (lidocaine plus epinephrine), as well as bupivacaine, tetracaine, and normal saline, and studied in a randomized, blinded experimental design. NBF changes produced by lidocaine were dose-dependent. Compared with that for saline, blood flow reduction for lidocaine 0.5% was not significant, but it was significant for lidocaine 1.0% at 2-5 min and for lidocaine 2.0% at all time periods after 1 min (P less than 0.05). Maximum reduction was seen at all concentrations by 5 min after application. Average blood flow reduction at 5 min was 7% for lidocaine 0.5%, 12% for lidocaine 1.0% and 18% for lidocaine 2.0%. Epinephrine also produced dose-dependent changes in NBF. Epinephrine 2.5 micrograms/ml produced a transient 20% increase in NBF lasting 2-3 min (P less than 0.05), followed by a return to baseline. Epinephrine 5.0 micrograms/ml and epinephrine 10.0 micrograms/ml produced reductions of 20% and 35%, respectively (P less than 0.05), which lasted throughout the study. The effects of each of the three concentrations were significantly different from the others. The combination of lidocaine plus epinephrine resulted in synergistic reduction of NBF for all drug concentrations (P less than 0.05).(ABSTRACT TRUNCATED AT 250 WORDS)",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:10:23Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

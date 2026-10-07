@@ -1,0 +1,14 @@
+{
+ "query": "(\"transcutaneous oxygen\"[tiab] OR \"tcpO2\"[tiab] OR \"TcPO2\"[tiab] OR \"oxygen saturation\"[tiab]) AND (lidocaine[tiab] OR lignocaine[tiab] OR \"local anesthetic\"[tiab]) AND (epinephrine[tiab] OR adrenaline[tiab]) AND (skin[tiab] OR cutaneous[tiab] OR flap[tiab])",
+ "max_results": 40,
+ "count": 3,
+ "translation": "(\"transcutaneous oxygen\"[Title/Abstract] OR \"tcpo2\"[Title/Abstract] OR \"tcpo2\"[Title/Abstract] OR \"oxygen saturation\"[Title/Abstract]) AND (\"lidocaine\"[Title/Abstract] OR \"lignocaine\"[Title/Abstract] OR \"local anesthetic\"[Title/Abstract]) AND (\"epinephrine\"[Title/Abstract] OR \"adrenaline\"[Title/Abstract]) AND (\"skin\"[Title/Abstract] OR \"cutaneous\"[Title/Abstract] OR \"flap\"[Title/Abstract])",
+ "pmids": [
+  "35470293",
+  "34457400",
+  "1741875"
+ ],
+ "date_searched": "2026-10-07T23:15:16Z",
+ "searched_for": "S-686-44",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

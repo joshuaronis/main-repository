@@ -1,0 +1,17 @@
+{
+ "pmid": "11884905",
+ "year": "2002",
+ "first_author": "Shishido",
+ "title": "Dexamethasone decreases blood flow in normal nerves and dorsal root ganglia.",
+ "journal": "Spine (Phila Pa 1976)",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.1097/00007632-200203150-00005",
+ "pmcid": "",
+ "abstract": "An experimental physiologic and histologic study of dexamethasone effects on peripheral nerves.\n\nTo characterize the effect of topically applied 0.4% dexamethasone on acute changes in nerve blood flow and subsequent histologic changes in rat sciatic nerve fibers.\n\nDexamethasone is an anti-inflammatory glucocorticoid used clinically to reduce the neural consequences of inflammation. Several reports of accidental injury to nerves after steroid injections have raised questions about the mechanisms involved in dexamethasone-induced neurotoxic injury.\n\nNerve blood flow studies using a laser Doppler flowmeter were conducted in animals with stable temperature and arterial pressure. Dexamethasone 0.4%, 0.1 mL was applied topically to rat sciatic nerve in the following protocol groups: 1) nerve blood flow recording every 5 minutes for 30 minutes, and 2) initial nerve blood flow recording and repeat recording at 4 hours. Three additional animals had 30-minute nerve blood flow recordings in which normal saline was substituted for dexamethasone; these animals were used for control and to assure that the experimental preparation was viable throughout the observational period. Additional groups of two animals each received dexamethasone but were used only for neuropathologic observation at 2, 4, and 6 days after treatment. Neuropathologic studies were conducted on glutaraldehyde-fixed, plastic-embedded tissue.\n\nApplication of saline to the exposed sciatic nerves did not significantly change nerve blood flow from baseline values. Nerve blood flow values remained constant throughout the observational period. Dexamethasone, however, significantly reduced nerve blood flow in both the 30-minute and 4-hour groups. Some animals showed an initial transient increase in blood flow before nerve blood flow began to steadily decline to the final values reported. Neuropathologic changes were minimal and consisted only of edema and occasional subperineurial activation of Schwann cells. No demyelination or degeneration was seen.\n\nDexamethasone causes statistically significant reductions in normal nerve blood flow at 30 minutes and 4 hours after topical application; however, the reduction is on average below the threshold for causing ischemic changes in the structure of peripheral nerve fibers.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:24:07Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

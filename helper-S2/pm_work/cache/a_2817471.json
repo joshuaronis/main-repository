@@ -1,0 +1,19 @@
+{
+ "pmid": "2817471",
+ "year": "1989",
+ "first_author": "Myers",
+ "title": "Effects of local anesthesia on nerve blood flow: studies using lidocaine with and without epinephrine.",
+ "journal": "Anesthesiology",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, U.S. Gov't, Non-P.H.S.",
+  "Research Support, U.S. Gov't, P.H.S."
+ ],
+ "doi": "10.1097/00000542-198911000-00021",
+ "pmcid": "",
+ "abstract": "Peripheral nerves have a dual blood supply of intrinsic exchange vessels in the endoneurium and an extrinsic plexus of supply vessels in the epineurial space that cross the perineurium to anastomose with the intrinsic circulation. The extrinsic supply is responsive to adrenergic stimuli. In this study we measured nerve blood flow in rat sciatic nerves with a laser Doppler flow probe. Normal saline, solutions of 1% or 2% lidocaine HCl with and without 1:200,000 epinephrine, or 1:200,000 epinephrine in normal saline were topically applied to the nerves to determine their effect on nerve blood flow. At the end of the subsequent 10-min recording period, blood flow was significantly depressed for all of the solutions tested except saline. Reductions of blood flow ranged from 19.3% for 1% lidocaine HCl to 77.8% for 2% lidocaine HCl with epinephrine. Epinephrine by itself significantly reduced nerve blood flow; when added to local anesthetic solutions, it reduced nerve blood flow to a greater extent than the reduction caused by anesthetics alone. There was an additional significant reduction in nerve blood flow when the epinephrine groups were compared with the pure local anesthetic groups.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:10:23Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

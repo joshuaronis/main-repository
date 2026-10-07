@@ -1,0 +1,28 @@
+[
+ {
+  "claim_id": "C090",
+  "paper_id": "S-686-37",
+  "pmid": "21514055",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "At a low dose of EPI ([dose figure omitted]), mechanical hyperalgesia also lasted longer in GRK2+/ than in WT mice (Fig. 1C). In addition, at this low dose of EPI, acute hyperalgesia was increased in GRK2+/ mice.",
+  "page": 4,
+  "proposed_wording": "The two-hour figure comes from Khasar 1999 (PMID 10085337), which injected epinephrine intradermally into the dorsum of the rat hindpaw, in skin with no nerve damage, and reported hyperalgesia lasting two hours; that study reported a dose-dependent mechanical hyperalgesia, not a single epinephrine amount. The length of the window has been measured again since, in mice, after a single intraplantar epinephrine injection (Wang 2011, PMID 21514055): mechanical and thermal hyperalgesia lasted 3 to 4 days in wild-type mice and about 21 days when GRK2 was reduced in sensory neurons, and a second, lower epinephrine amount gave a shorter window in both genotypes, which the authors describe as a leftward shift of the dose-response curve. No study found maps the window's length across a range of epinephrine amounts in one experiment.",
+  "reason": "The full text answers the open question. Wang injected epinephrine ([dose figure omitted]) as a single intraplantar injection into the mouse hind paw, not an intradermal injection into the paw dorsum as Khasar 1999 used in rats, and the 3-to-4-day wild-type window is the time course after that one injection, read by von Frey rather than by the Randall-Selitto test; so it is a single peripheral injection into hind-paw skin but not the same route or species as Khasar's. On the elements the claim says are absent, the paper matches all of them: an animal study since 1999 that injected epinephrine into paw skin and measured how long the hyperalgesia lasted, at a second, lower epinephrine amount as well as the main one, with a shorter window at the lower amount (Fig. 1 panels) and an explicit statement about the dose-response curve on PDF p. 7. Two caveats for the merge: this is two epinephrine amounts rather than a mapped curve and duration was never tested statistically against amount, so a strict reading of 'the dose-response was never mapped' would leave the verdict at narrowed; and separately the claim's own premise is wrong at its source, because Khasar 1999's abstract reports a dose-dependent mechanical hyperalgesia rather than a single epinephrine amount."
+ },
+ {
+  "claim_id": "C090",
+  "paper_id": "",
+  "pmid": "10085337",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Intradermal injection of epinephrine, the major endogenous ligand for the beta-adrenergic receptor, into the dorsum of the hindpaw of the rat produced a dose-dependent mechanical hyperalgesia, quantified by the Randall-Selitto paw-withdrawal test.",
+  "page": 0,
+  "proposed_wording": "Khasar 1999 (PMID 10085337) injected epinephrine intradermally into the dorsum of the rat hindpaw, in skin with no nerve damage, reported a dose-dependent mechanical hyperalgesia by the Randall-Selitto test, and reported that the hyperalgesia lasted two hours. The two-hour figure is that study's single duration figure; the study itself used more than one epinephrine amount.",
+  "reason": "Reached from the reference list of S-686-37 (Wang 2011 cites it as reference 18), which is also where the page's two-hour window originates. The abstract states the route (intradermal, dorsum of the rat hindpaw) and that the hyperalgesia was dose-dependent, which contradicts the claim's description of its own source as 'at a single epinephrine dose'; the same abstract confirms the two-hour figure ('it was statistically significant by 2 min after injection, reached a maximum effect within 5 min, and lasted 2 h'). What the abstract does not give is the duration at each amount, so it does not by itself settle whether the window's length varies with amount. On its own, then, this abstract narrows the claim (its description of the source as using a single epinephrine amount is wrong) without refuting it; what refutes the claim is Wang 2011, which measured the window at two amounts (see the own-question entry for C090). Verdict set to narrowed by the orchestrating session on review."
+ }
+]

@@ -1,0 +1,10 @@
+{
+ "query": "Agrifoglio G[Author] AND (EMLA OR debridement OR leg ulcer)",
+ "max_results": 10,
+ "count": 0,
+ "translation": "agrifoglio g[Author] AND (\"lidocaine prilocaine drug combination\"[Supplementary Concept] OR \"lidocaine prilocaine drug combination\"[All Fields] OR \"emla\"[All Fields] OR \"lidocaine, prilocaine drug combination\"[MeSH Terms] OR (\"lidocaine\"[All Fields] AND \"prilocaine\"[All Fields] AND \"drug\"[All Fields] AND \"combination\"[All Fields]) OR \"prilocaine drug combination lidocaine\"[All Fields] OR (\"debride\"[All Fields] OR \"debrided\"[All Fields] OR \"debridement\"[MeSH Terms] OR \"debridement\"[All Fields] OR \"debridements\"[All Fields] OR \"debrides\"[All Fields] OR \"debriding\"[All Fields] OR \"debridment\"[All Fields] OR \"debridments\"[All Fields]) OR (\"leg ulcer\"[MeSH Terms] OR (\"leg\"[All Fields] AND \"ulcer\"[All Fields]) OR \"leg ulcer\"[All Fields]))",
+ "pmids": [],
+ "date_searched": "2026-10-07T23:13:05Z",
+ "searched_for": "S-686-07",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

@@ -1,0 +1,18 @@
+{
+ "pmid": "16183680",
+ "year": "2005",
+ "first_author": "Bouaziz",
+ "title": "Effects of levobupivacaine and ropivacaine on rat sciatic nerve blood flow.",
+ "journal": "Br J Anaesth",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1093/bja/aei242",
+ "pmcid": "",
+ "abstract": "Ischaemia is one of the causative mechanisms of peripheral nerve injury, a documented complication of regional anaesthesia. Local anaesthetics per se and/or vasopressor adjuvants may account for changes in peripheral nerve blood flow. The aim of this study was to test the effects of levobupivacaine and ropivacaine in a rat sciatic nerve model with respect to local blood flow and histopathological changes.\n\nForty-eight female Sprague-Dawley rats were anaesthetized for left sciatic nerve exposure. After baseline nerve blood flow measurement with a laser Doppler flowmeter, 0.2 ml of one of the following solutions was applied topically to the nerve in a random fashion: saline 0.9%; lidocaine 10 mg ml(-1); levobupivacaine 2.5 mg ml(-1); levobupivacaine 5 mg ml(-1); levobupivacaine 7.5 mg ml(-1); ropivacaine 2 mg ml(-1); ropivacaine 7.5 mg ml(-1); and ropivacaine 7.5 mg ml(-1) plus epinephrine 5 microg ml(-1); all in saline 0.9%. Nerve blood flow was evaluated at 5-min intervals up to 30 min after local application of anaesthetic solution. Three animals per group were killed for histological evaluation 48 h later. Multiple one-way analyses of variance followed by Scheffé's post hoc test was used for statistical analysis. P<0.05 was considered significant.\n\nLocal anaesthetics at all concentrations tested caused significant reduction in nerve blood flow. The combination of ropivacaine 7.5 mg ml(-1) plus epinephrine did not reduce nerve blood flow to a greater extent than ropivacaine 7.5 mg ml(-1) alone. Low concentrations of levobupivacaine (2.5 and 5 mg ml(-1)) reduced nerve blood flow to the same extent as lidocaine 10 mg ml(-1). No significant histological changes were observed at 48 h.\n\nDespite acute reductions in peripheral nerve blood flow, significant histopathological changes were not observed in this rat sciatic nerve model after topical application of levobupivacaine and ropivacaine at concentrations relevant to clinical practice.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:24:07Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

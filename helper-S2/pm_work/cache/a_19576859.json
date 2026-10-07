@@ -1,0 +1,18 @@
+{
+ "pmid": "19576859",
+ "year": "2009",
+ "first_author": "Khasar",
+ "title": "Sound stress-induced long-term enhancement of mechanical hyperalgesia in rats is maintained by sympathoadrenal catecholamines.",
+ "journal": "J Pain",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, N.I.H., Extramural"
+ ],
+ "doi": "10.1016/j.jpain.2009.04.005",
+ "pmcid": "PMC2757466",
+ "abstract": "Although stress plays an important role in chronic widespread pain syndromes, such as fibromyalgia, the underlying mechanism has remained elusive. We have recently demonstrated, in a model of chronic widespread pain, that prolonged enhancement of immune mediator hyperalgesia, induced by unpredictable sound stress, requires a contribution of both the sympathoadrenal (epinephrine) and the hypothalamic-pituitary adrenal (corticosterone) neuroendocrine stress axes. Because this stress protocol produced sustained elevation of plasma epinephrine, in the current study we tested the hypothesis that the sympathoadrenal axis also plays a role in maintenance of symptoms in this model of chronic widespread pain. After establishment, adrenal medullectomy abolished the enhancement of epinephrine-induced cutaneous and muscle hyperalgesia. Administration of stress levels of epinephrine to adrenal medullectomized rats reconstituted the pain phenotype. These observations suggest that the sympathoadrenal stress axis plays a major role in the induction as well as maintenance of stress-induced enhancement of mechanical hyperalgesia, mediated by prolonged elevation of circulating epinephrine.\n\nWe present data showing mechanical hyperalgesia persisting for up to 28 days after exposure to sound stress, with evidence that the sympathoadrenal axis mediator epinephrine plays a major role. These findings could have clinical implications with regard to novel potential treatments for chronic widespread pain syndromes, such as fibromyalgia.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:09:16Z",
+ "retrieved_for": "S-686-37",
+ "redacted": false
+}

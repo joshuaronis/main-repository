@@ -1,0 +1,10 @@
+{
+ "query": "Nylen B[Author] AND Octapressin",
+ "max_results": 20,
+ "count": 0,
+ "translation": "nylen b[Author] AND (\"felypressin\"[Supplementary Concept] OR \"felypressin\"[All Fields] OR \"octapressin\"[All Fields] OR \"felypressin\"[MeSH Terms])",
+ "pmids": [],
+ "date_searched": "2026-10-07T23:14:57Z",
+ "searched_for": "S-686-44",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

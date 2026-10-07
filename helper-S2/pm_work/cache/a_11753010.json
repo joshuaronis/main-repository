@@ -1,0 +1,18 @@
+{
+ "pmid": "11753010",
+ "year": "2002",
+ "first_author": "Khan",
+ "title": "Amitriptyline for prolonged cutaneous analgesia in the rat.",
+ "journal": "Anesthesiology",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, U.S. Gov't, P.H.S."
+ ],
+ "doi": "10.1097/00000542-200201000-00023",
+ "pmcid": "",
+ "abstract": "Amitriptyline has been reported to be a more potent local anesthetic than bupivacaine. In keeping with the objective of identifying drugs for prolonged cutaneous analgesia, the authors compared the cutaneous analgesic effectiveness of amitriptyline and bupivacaine in rats.\n\nRats were subcutaneously injected on shaved dorsal skin. The skin wheal raised after injection of 0.6 ml of various concentrations of either amitriptyline or bupivacaine with and without epinephrine (1:200,000) was marked. Inhibition of the cutaneous trunci muscle reflex was evaluated quantitatively by the fraction of times a total of six pinpricks applied to the marked area failed to elicit a nocifensive motor response compared with control responses. No responses out of six pinpricks was defined as 100% maximum possible effect.\n\nComplete recovery from the cutaneous analgesia elicited by 0.05% and 0.5 amitriptyline versus 0.05 and 0.5% bupivacaine occurred in 9.9 +/- 0.2 and 19.3 +/- 0.4 h versus 2.2 +/- 0.1 and 16.1 +/- 0.2 h, respectively (mean +/- SE). Addition of epinephrine increased this duration to 14.1 +/- 0.1 and 21.4 +/- 0.2 h versus 3.2 +/- 0.1 and 17.0 +/- 0.3 h, respectively. Complete nociceptive blockade after coinjection of 0.25% amitriptyline, 0.25% bupivacaine, and epinephrine lasted 24 +/- 0.5 h, and complete recovery from this block took 33 +/- 0.5 h. Areas under the percent maximum possible effect versus time curve were 1,770 +/- 24 and 1,471 +/- 50% h for 0.5% amitriptyline and bupivacaine with epinephrine, respectively, whereas this value was 2,836 +/- 62% h for the coinjected 0.25% amitriptyline, 0.25% bupivacaine, and epinephrine admixture.\n\nAmitriptyline is a longer-acting local anesthetic compared with bupivacaine for cutaneous infiltration. Its analgesic effectiveness is significantly enhanced by epinephrine. Coinjection of amitriptyline and bupivacaine with epinephrine enhances the analgesic duration of both drugs.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:09:31Z",
+ "retrieved_for": "S-686-36",
+ "redacted": false
+}

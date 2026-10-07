@@ -1,0 +1,9 @@
+{
+ "paper_id": "S-686-42",
+ "right_paper": true,
+ "text_ok": true,
+ "own_question_answered": "yes",
+ "claims_rejudged": 2,
+ "notion_findings": 1,
+ "notes": "Right paper (title, authors, journal, PMID 20462662), text layer ok. Own question answered from the full text: D069 stays confirmed. Alam is repeated infiltration of one head-or-neck surgical site within a single Mohs session, with serial serum draws through the session; no part of it is described as many small intradermal deposits. D072 stays confirmed; its reason should add Alam 2010 as a second within-session repeated-administration serum dataset beside Sato 2022. Correct DOI is 10.1016/j.jaad.2009.08.046 (PDF and PubMed); the 10.1016/j.jaad.2009.09.061 in claims_all D069 needs_full_text has no PubMed record. Alam 2010 is cited on no Notion page fetched, so there is no citation-error finding. Extra studies: none; all nine PubMed-indexed references were looked up and read, and none decides a claim. Filter skips (counted, not judged): Safe Doses 4 (D071 D073 D074 D075), prilocaine-wheals 1 (C071), Comparing 3 buffering (D012 D017 D018), Lidocaine With Epinephrine Wheals 1 mixing (C091). Nothing was stopped by the content filter."
+}

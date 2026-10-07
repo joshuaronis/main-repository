@@ -1,0 +1,9 @@
+{
+ "paper_id": "S-686-36",
+ "right_paper": true,
+ "text_ok": "ok - 9 PDF pages, complete including references; symbols render as odd glyphs, quotes extracted programmatically so they match character for character; figures rendered and viewed",
+ "own_question_answered": "yes",
+ "claims_rejudged": "4 (C046 own-question, D013 own-question, C075 other-claim, D015 other-claim); no verdict changed",
+ "notion_findings": "6 (5 medium, 1 low) across 5 pages",
+ "notes": "Both own questions answered no: Wang 2008 did not examine skin nerve fibres after plain lidocaine-epinephrine. Figure 7 has two columns only, SALINE and BLA (the adjuvant mixture), and the legend names the injected side as the adjuvant plus lidocaine plus epinephrine; the lidocaine-with-epinephrine solution served only as the CTMR control. What was examined was examined quantitatively (fibres counted per optical field in paw skin, 9 sections from 3 animals per group, P = 0.732); route subcutaneous, never described as intradermal; H&E covered epidermis, dermis, muscle and subcutaneous layer at about 6 days, PGP9.5 at about 24 h, single injection only. 4 extra studies from the reference list (Khan 2002, Simone 1998, Khodorova 2000, Wang 2007), none of which decides a verdict. 8 claims across 3 pages were not tested under the dose-or-toxicity filter rule and their text was not reproduced. No content-filter stop affected any result file."
+}

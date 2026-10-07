@@ -1,0 +1,19 @@
+{
+ "pmid": "33372949",
+ "year": "2021",
+ "first_author": "Ilfeld",
+ "title": "Clinical Effectiveness of Liposomal Bupivacaine Administered by Infiltration or Peripheral Nerve Block to Treat Postoperative Pain.",
+ "journal": "Anesthesiology",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't",
+  "Review"
+ ],
+ "doi": "10.1097/ALN.0000000000003630",
+ "pmcid": "",
+ "abstract": "The authors provide a comprehensive summary of all randomized, controlled trials (n = 76) involving the clinical administration of liposomal bupivacaine (Exparel; Pacira Pharmaceuticals, USA) to control postoperative pain that are currently published. When infiltrated surgically and compared with unencapsulated bupivacaine or ropivacaine, only 11% of trials (4 of 36) reported a clinically relevant and statistically significant improvement in the primary outcome favoring liposomal bupivacaine. Ninety-two percent of trials (11 of 12) suggested a peripheral nerve block with unencapsulated bupivacaine provides superior analgesia to infiltrated liposomal bupivacaine. Results were mixed for the 16 trials comparing liposomal and unencapsulated bupivacaine, both within peripheral nerve blocks. Overall, of the trials deemed at high risk for bias, 84% (16 of 19) reported statistically significant differences for their primary outcome measure(s) compared with only 14% (4 of 28) of those with a low risk of bias. The preponderance of evidence fails to support the routine use of liposomal bupivacaine over standard local anesthetics.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:24:01Z",
+ "retrieved_for": "S-686-23",
+ "redacted": false
+}

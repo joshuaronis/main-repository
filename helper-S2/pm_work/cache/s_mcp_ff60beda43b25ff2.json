@@ -1,0 +1,12 @@
+{
+ "query": "comparison of toxicity of intravenously given local anesthetic agents in man",
+ "max_results": 10,
+ "count": 1,
+ "translation": "(\"comparison\"[All Fields] OR \"comparisons\"[All Fields]) AND (\"toxic\"[All Fields] OR ... ) AND (\"intraveneous\"[All Fields] OR ... \"intravenously\"[All Fields]) AND (\"given\"[All Fields] OR \"givens\"[All Fields]) AND (\"local anaesthetic\"[All Fields] OR \"anesthetics, local\"[MeSH Terms] OR ... ) AND (\"agent\"[All Fields] OR \"agents\"[All Fields]) AND (\"men\"[MeSH Terms] OR \"men\"[All Fields] OR \"man\"[All Fields])",
+ "pmids": [
+  "13823696"
+ ],
+ "date_searched": "2026-10-07T23:10:55Z",
+ "searched_for": "S-686-42",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

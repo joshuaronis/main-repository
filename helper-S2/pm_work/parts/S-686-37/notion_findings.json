@@ -1,0 +1,48 @@
+[
+ {
+  "finding_id": "S2-S-686-37-F01",
+  "paper_id": "S-686-37",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "The two conditions that keep the window inside the block",
+  "sentence_as_it_stands": "The two-hour figure comes from one study. Rat skin with no nerve damage, at a single epinephrine dose. How the length of the window changes with dose was not measured there and has not been measured since, so whether a larger epinephrine load stretches it past two hours is unknown.",
+  "kind": "overstated",
+  "quote": "In GRK2+/ mice, EPI-induced hyperalgesia lasted approximately 21 days vs 3 to 4 days in WT mice (Fig. 1A and B).",
+  "page_in_paper": 4,
+  "corrected_wording": "The two-hour figure comes from Khasar 1999 (PMID 10085337): rat skin with no nerve damage, by intradermal injection into the hindpaw dorsum, with a dose-dependent hyperalgesia and one duration figure. The length of the window has been measured again since, in mice: after a single intraplantar epinephrine injection, mechanical and thermal hyperalgesia lasted 3 to 4 days in wild-type mice and about 21 days when GRK2 was reduced in sensory neurons (Wang 2011, PMID 21514055), and a lower epinephrine amount in the same experiment gave a shorter window. No study found maps the window's length across a range of epinephrine amounts in one experiment.",
+  "importance": "high",
+  "notes": "This is the sentence behind claim C090, so it repeats that claim update, but it is recorded here because it fixes the page location and because the page's load-bearing argument sits on it: the surrounding section is what keeps the sensitisation window inside the block. The paper is not cited anywhere on the page (the fetched text contains no 'GRK2', 'Wang 2011' or '21514055'). The paper's own limits: mouse rather than rat, intraplantar rather than intradermal, and genotype is what it varies - the second epinephrine amount appears in one mechanical-hyperalgesia experiment (PDF p. 4) and in the discussion of the dose-response curve (PDF p. 7), not as a duration-versus-amount analysis. Page fetched 2026-10-07; not truncated (no truncated / unknown_block_count / unknown_block_ids flags)."
+ },
+ {
+  "finding_id": "S2-S-686-37-F02",
+  "paper_id": "",
+  "pmid": "10085337",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "The two conditions that keep the window inside the block; Gaps in the literature: nobody has measured this",
+  "sentence_as_it_stands": "Rat skin with no nerve damage, at a single epinephrine dose. [and, in the second section] Rat skin with no nerve damage, at one epinephrine dose.",
+  "kind": "wrong-design",
+  "quote": "Intradermal injection of epinephrine, the major endogenous ligand for the beta-adrenergic receptor, into the dorsum of the hindpaw of the rat produced a dose-dependent mechanical hyperalgesia, quantified by the Randall-Selitto paw-withdrawal test.",
+  "page_in_paper": 0,
+  "corrected_wording": "Rat skin with no nerve damage. Khasar 1999 (PMID 10085337) reports a dose-dependent mechanical hyperalgesia, and gives its duration figure for one named epinephrine amount; the dose-dependence of the duration is what it does not report.",
+  "importance": "low",
+  "notes": "Khasar 1999 came from the reference list of S-686-37 (Wang 2011 cites it as reference 18); the quote is from its cached PubMed abstract, not from Wang 2011. Both page sentences describe the study as a whole as having used one epinephrine amount, which its abstract contradicts. The page's own source register is already accurate on this point and disagrees with its body: the register entry reads 'Limits: rat skin with no nerve damage; a single named dose ([dose figure omitted]) for the timing data; no dose-response for how long the window lasts' - that is, one amount for the timing data specifically. The correction needed is to the two body sentences, not to the register. Review note (orchestrating session): read as describing the conditions under which the two-hour figure was measured, the body sentence is accurate, and the page's register says exactly that; the finding applies only to the reading in which the whole study used one epinephrine amount. Importance lowered from medium to low for that reason."
+ },
+ {
+  "finding_id": "S2-S-686-37-F03",
+  "paper_id": "S-686-37",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "Where your own numbers land in that analysis > The concealment argument survived, on its own terms / But the arrangement it was protecting is not the one that failed",
+  "sentence_as_it_stands": "Beta-2 sensitization is a two-hour effect. The blanching outlasted the block by far longer than the block outlasted the sensitization, so whatever the vasoconstriction was doing after hour two, it was not being concealed by anything.",
+  "kind": "overstated",
+  "quote": "In both WT (Fig. 4A) and GRK2+/ (Fig. 4B) mice, the b2-AR blocker inhibited EPI-induced hyperalgesia. In contrast, the a-AR blocker, phentolamine, had no effect on EPI-induced hyperalgesia in both genotypes.",
+  "page_in_paper": 5,
+  "corrected_wording": "Beta-2 sensitisation after epinephrine lasted two hours in the rat experiment the figure comes from (Khasar 1999, PMID 10085337). In mice it has been measured as lasting much longer: after a single intraplantar epinephrine injection, mechanical and thermal hyperalgesia lasted 3 to 4 days in wild-type animals and about 21 days when GRK2 was reduced in sensory neurons, and a beta2-adrenoceptor blocker attenuated that hyperalgesia in both genotypes (Wang 2011, PMID 21514055). The two-hour figure is one species' result rather than a general property of beta-2 sensitisation.",
+  "importance": "high",
+  "notes": "This sentence states the window's length as a general property of the mechanism rather than as one experiment's result, and the page's concealment argument (sensation returning while the channels are still tagged) rests on it. The quoted sentence from the paper establishes that the mouse hyperalgesia was beta2-adrenoceptor-mediated; its duration figures are in the abstract (PDF p. 1) and the results (PDF p. 4): 3 to 4 days in wild-type mice, approximately 21 days in GRK2+/- mice. Differences to weigh: species, the intraplantar rather than intradermal route, and the amount injected. Separate from claim C090, which covers the two 'single study / not measured since' sentences rather than this one."
+ }
+]

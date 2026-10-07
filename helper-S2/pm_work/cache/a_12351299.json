@@ -1,0 +1,18 @@
+{
+ "pmid": "12351299",
+ "year": "2002",
+ "first_author": "Palmer",
+ "title": "The effects of lidocaine and adrenergic agonists on rat sciatic nerve and skeletal muscle blood flow in vivo.",
+ "journal": "Anesth Analg",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1097/00000539-200210000-00054",
+ "pmcid": "",
+ "abstract": "It has been proposed that epinephrine prolongs lidocaine nerve blockade duration by exerting a local vasoconstrictive effect on tissues at the injection site, slowing lidocaine's local clearance. However, previous studies have failed to demonstrate consistent effects of lidocaine and epinephrine, injected alone and in combination, on vascular tone or regional blood flow. To reinvestigate this idea, in this study we used the radiolabeled microsphere technique to measure in vivo tissue blood flow before and at several time points after perisciatic nerve and intramasseter muscle injection of lidocaine alone, epinephrine, the selective alpha(1)-adrenergic receptor agonist phenylephrine, or lidocaine combined with these adrenergic receptor agonists. Repeated-measures analyses of variance were used to assess significant changes in blood flow over time. Lidocaine (2, 10, and 20 mg/mL) and epinephrine (10 micro g/mL or 1:100,000) injected alone did not alter blood flow in sciatic nerve, perisciatic muscle, or masseter muscle. Injections of lidocaine (10 mg/mL) combined with epinephrine (10 micro g/mL) did not affect adjacent muscle blood flow but caused a mild reduction in sciatic nerve blood flow, which was significant 30 min after injection. However, phenylephrine (10 micro g/mL), a potent vasoconstrictor, combined with lidocaine (10 mg/mL) significantly reduced blood flow in all three tissues. Our findings suggest that mechanisms other than local vasoconstriction may contribute to the prolongation of lidocaine nerve blocks by epinephrine.\n\nAccepting that the microsphere technique may be limited in its sensitivity to detect small but clinically relevant changes in tissue blood flow, our findings suggest that mechanisms other than local vasoconstriction may contribute to the prolongation of lidocaine nerve blocks by epinephrine.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:10:23Z",
+ "retrieved_for": "S-686-38",
+ "redacted": false
+}

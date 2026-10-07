@@ -1,0 +1,189 @@
+{
+ "paper_id": "S-686-47",
+ "citation": "Troullos ES, Goldstein DS, Hargreaves KM, Dionne RA. Plasma epinephrine levels and cardiovascular response to high administered doses of epinephrine contained in local anesthesia. Anesth Prog 1987;34(1):10-13.",
+ "pmid": "3472472",
+ "doi": "",
+ "right_paper": true,
+ "text_quality": "ocr - a 4-page scan with an OCR text layer, readable and complete (summary, introduction, methods, results, Fig. 1 with three panels, Table 1, discussion, 17 references). Every number that matters (subject counts, groups, age, ASA class, sampling times, statistics, adverse-event counts) was checked against the rendered page images and matches. OCR oddities: the microgram sign appears as 'ug', ',ug', 'jig' or 'Ag'; superscript reference numbers run into words; Fig. 1 axis labels are garbled in the text layer but legible in the images. No DOI; PubMed lists a free PMC copy (PMC2186227).",
+ "design": "Open (unblinded), parallel-group controlled comparison, published as a 'Preliminary Communication'. Allocation method not described and not called randomised; the authors chose an unequal 10:5 split deliberately ('skewed distribution of treatments'). Repeated-measures analysis of variance, with analysis of covariance for systolic pressure and norepinephrine because baseline values differed between groups.",
+ "population": "Young healthy oral-surgery outpatients (ASA class I; mean age 22.5 years; 9 men, 6 women; free of allergy to the test drugs) having all four wisdom teeth removed at the NIDR Pain Research Clinic. No patients with cardiac or other cardiovascular disease were included.",
+ "n": "15 in total: 10 in the epinephrine group (EPI) and 5 in the plain-mepivacaine group (NO EPI).",
+ "setting": "Pain Research Clinic, National Institute of Dental Research, Bethesda, Maryland, USA; outpatient oral surgery; manuscript received December 1986, published January/February 1987.",
+ "intervention": "An epinephrine-containing dental local anaesthetic (lidocaine with epinephrine) given by intraoral injection with a dental aspirating syringe using standard technique, before third-molar surgery; amount [dose figure omitted]. The total epinephrine given was above the conventional cardiac-patient limit.",
+ "comparator": "Plain mepivacaine with no vasoconstrictor, given by the same intraoral route before the same surgery; amount [dose figure omitted] (NO EPI group). The comparator differs from the intervention in the anaesthetic as well as in the epinephrine.",
+ "route": "Intraoral injection (dental local anaesthesia); not intradermal, subcutaneous skin or limb infiltration.",
+ "duration": "Single administration. Measurements after 20 minutes' semisupine rest (baseline) and at 1, 4, 8, 12 and 20 minutes after the injections were completed; no follow-up beyond that observation period.",
+ "outcomes": "Plasma epinephrine and norepinephrine (HPLC with electrochemical detection); systolic and diastolic blood pressure; pulse (heart) rate; rate-pressure product (systolic pressure x heart rate) as an index of myocardial oxygen consumption; correlation between the one-minute change in plasma epinephrine and the change in heart rate; adverse reactions. No ECG, ischaemia or arrhythmia monitoring is described. Direction of results: in the EPI group plasma epinephrine rose within a minute (peak at the first sample), then fell but stayed significantly above baseline through the 20-minute observation period; plasma norepinephrine rose progressively; systolic pressure, heart rate and the rate-pressure product rose and stayed raised; diastolic pressure did not change. The plain-mepivacaine group showed only small, non-significant plasma epinephrine changes, though its pulse rate and norepinephrine also rose. Adverse reactions (tremor in three, a vasovagal reaction in one) occurred in four of the five EPI patients with the highest one-minute plasma epinephrine; none in the NO EPI group.",
+ "key_results": [
+  {
+   "quote": "The study was an open, parallel group design conducted in oral surgery outpatients. The subjects were 15 young (mean age 22.5 years), healthy (ASA class I) men (n=9) and women (n=6) who were free of allergy to any of the test medications.",
+   "page": 1
+  },
+  {
+   "quote": "One group (n=10) received [dose figure omitted] (EPI). The other group (n=5) received [dose figure omitted] (NO EPI).",
+   "page": 2
+  },
+  {
+   "quote": "No studies, however, have directly assessed the effects of higher doses of epinephrine administered with dental local anesthesia.",
+   "page": 1
+  },
+  {
+   "quote": "These results indicate that significant amounts of epinephrine can be systemically absorbed following intraoral injection and the absorbed epinephrine can alter the cardiovascular status of the patient.",
+   "page": 1
+  },
+  {
+   "quote": "All posttreatment levels were significantly higher than baseline in the EPI group (p < .01). In the NO EPI group, only small and nonsignificant changes in plasma epinephrine were observed at all time points.",
+   "page": 3
+  },
+  {
+   "quote": "Peak plasma epinephrine levels were observed 1 minute after anesthetic administration. Plasma epinephrine then decreased in succeeding measurements, reflecting combined effects of the short plasma half-life of epinephrine and the continuing absorption of epinephrine into the bloodstream for several minutes after injection.",
+   "page": 3
+  },
+  {
+   "quote": "Elevated circulating levels of epinephrine persisted throughout the 20 minute observation period and were associated with elevations in systolic pressure, heart rate, and myocardial oxygen consumption as indicated by the rate-pressure product.",
+   "page": 3
+  },
+  {
+   "quote": "Norepinephrine levels increased in both groups after administration of the local anesthesia (Table 1). Changes in plasma norepinephrine from baseline were significantly larger in the EPI group than in the NO EPI group at all postinjection time points",
+   "page": 3
+  },
+  {
+   "quote": "Pulse rate values were significantly higher in the EPI group than the NO EPI group at most time points",
+   "page": 3
+  },
+  {
+   "quote": "A significant correlation was observed between the change in plasma epinephrine and the change in heart rate (r=.725, p=.001) at one minute among all subjects.",
+   "page": 3
+  },
+  {
+   "quote": "Systolic blood pressure was significantly greater in the EPI group than the NO EPI group at all time points after administration of local anesthesia",
+   "page": 3
+  },
+  {
+   "quote": "Diastolic pressure did not change significantly from baseline in the EPI group (Table 1).",
+   "page": 3
+  },
+  {
+   "quote": "Myocardial oxygen consumption in the EPI group, assessed by the rate-pressure product, increased within 1 minute of anesthetic administration and remained elevated for the entire 20 minute observation period",
+   "page": 3
+  },
+  {
+   "quote": "There were no adverse effects from local anesthetic administration in the NO EPI group. In the EPI group, however, four of the five patients with the highest 1 minute epinephrine levels experienced adverse reactions to the local anesthetic.",
+   "page": 3
+  },
+  {
+   "quote": "Patients with epinephrine levels of [plasma levels omitted] experienced tremors and the patient with an epinephrine level of [plasma level omitted] experienced a vasovagal reaction.",
+   "page": 3
+  },
+  {
+   "quote": "These data show that submaximal doses of epinephrine in dental anesthetics produce cardiovascular effects even in young, healthy oral surgery patients.",
+   "page": 4
+  },
+  {
+   "quote": "Since any stimuli that increases the rate-pressure product can precipitate anginal reactions or arrhythmias in patients with coronary heart disease, the present results indicate caution in the use of epinephrine-containing local anesthetics, especially in patients with cardiovascular disease.",
+   "page": 4
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "The skewed distribution of treatments was chosen based on previous studies9'10 showing little change in epinephrine levels following lidocaine administration alone and the preliminary nature of the investigation.",
+   "page": 2
+  },
+  {
+   "quote": "Analyses of covariance for repeated measures was performed on systolic blood pressure and norepinephrine levels because of the disparity in baseline values between the treatment groups.",
+   "page": 2
+  },
+  {
+   "quote": "Systemic absorption of the local anesthetic which can act as a vasodilator could also have led to reflexive stimulation of sympathetically mediated norephinephrine release.",
+   "page": 3
+  }
+ ],
+ "funding_conflicts": "None stated: the paper prints no funding source and no conflict-of-interest statement. All four authors were at the Pain Research Clinic of the National Institute of Dental Research, Bethesda (an NIH institute), but the paper does not say how the work was funded. Patients signed an institutionally approved consent form.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Holroyd SV, Watts DT, Welch JT. The use of epinephrine in local anesthetics for dental patients with cardiovascular disease: a review of the literature. J Oral Surg Anesth Hosp Dent Serv 1960;18:492-503. (Ref. 1; the paper spells the third author 'Welsh'.)",
+   "pmid": "13715514",
+   "why": "Early literature review of epinephrine-containing dental anaesthesia in patients with cardiovascular disease; cited for the older view that dental epinephrine has little systemic effect. Bears on D074 (the evidence behind the cardiac-patient convention). No abstract in PubMed."
+  },
+  {
+   "citation": "Malamed SF. Handbook of Local Anesthesia, 1st ed. St. Louis: CV Mosby, 1980. (Ref. 2; textbook.)",
+   "pmid": "",
+   "why": "Cited only for the then-accepted view that dental epinephrine produces little systemic effect - not for any epinephrine limit. Relevant because the Needle Size page attributes the cardiac-patient figure to Malamed while Safe Doses attributes it to Bennett 1984; this paper settles neither attribution."
+  },
+  {
+   "citation": "[No author listed; report of the New York Heart Association.] Use of epinephrine in connection with procaine in dental procedures. J Am Dent Assoc 1955;50:108. (Ref. 3.)",
+   "pmid": "",
+   "why": "The older per-appointment epinephrine figure for cardiac patients, which the paper cites; that 1955 figure is higher than the amount this study gave and higher than the later textbook figure Safe Doses uses. Bears on D074 (history and origin of the cardiac-patient convention). Not found in PubMed by citation lookup."
+  },
+  {
+   "citation": "American Dental Association. Vasoconstrictors. In: Accepted Dental Therapeutics, 40th ed. Chicago: ADA, 1984:203-209. (Ref. 4; book.)",
+   "pmid": "",
+   "why": "Source of the maximum the ADA then advised for healthy patients; the study's amount was below it, which is why the authors call it 'submaximal'. Bears on the healthy-adult epinephrine figure on Safe Doses (a ceiling-subject passage, counted only)."
+  },
+  {
+   "citation": "Cheraskin E, Prasertsuntarasai T. Use of epinephrine with local anesthesia in hypertensive patients. IV. Effect of tooth extraction on blood pressure and pulse rate. J Am Dent Assoc 1959;58(1):61-68. doi:10.14219/jada.archive.1959.0020 (Ref. 5.)",
+   "pmid": "13610589",
+   "why": "Clinical series in hypertensive patients given epinephrine-containing dental anaesthesia, with blood pressure and pulse outcomes - an early study in cardiovascular patients bearing on D074. Cited by Troullos for the idea that pain from inadequate anaesthesia releases more endogenous epinephrine than the injection supplies. No abstract in PubMed; content not verified."
+  },
+  {
+   "citation": "Fiset L, Ramsay D, Milgrom P, Weinstein P. Effects of lidocaine with epinephrine on fear related arousal among dental phobics. Anesth Prog 1986;33(5):225-229. (Ref. 6; the paper spells the authors 'Ramsey' and 'Weinsein'.)",
+   "pmid": "3465257",
+   "why": "Crossover comparison of lidocaine with and without epinephrine on heart rate, movement and self-reported arousal in fearful dental patients; systemic and haemodynamic effects of epinephrine-containing local anaesthesia (no claim decided)."
+  },
+  {
+   "citation": "Chernow B, Balestrieri F, Ferguson CD, Terezhalmy GT, Fletcher JR, Lake CR. Local dental anesthesia with epinephrine. Minimal effects on the sympathetic nervous system or on hemodynamic variables. Arch Intern Med 1983;143(11):2141-2143. doi:10.1001/archinte.143.11.2141 (Ref. 7.)",
+   "pmid": "6639234",
+   "why": "Randomised double-blind crossover trial in 14 healthy young men: after one inferior alveolar nerve block with lidocaine-epinephrine, plasma epinephrine rose and stayed raised for an hour, with only a slight transient heart-rate rise and no change in mean arterial pressure. The low-amount counterpart to Troullos for systemic absorption of epinephrine from dental anaesthesia (no claim in claims_all decided)."
+  },
+  {
+   "citation": "Cioffi GA, Chernow B, Glahn RP, Terezhalmy GT, Lake CR. The hemodynamic and plasma catecholamine responses to routine restorative dental care. J Am Dent Assoc 1985;111(1):67-70. doi:10.14219/jada.archive.1985.0038 (Ref. 8.)",
+   "pmid": "3861687",
+   "why": "Eleven healthy normotensive men: minimal haemodynamic and sympathetic responses to restorative dental care once local anaesthesia was achieved; plasma catecholamines after dental anaesthesia (no claim decided)."
+  },
+  {
+   "citation": "Dionne RA, Goldstein DS, Wirdzek PR. Effects of diazepam premedication and epinephrine-containing local anesthetic on cardiovascular and plasma catecholamine responses to oral surgery. Anesth Analg 1984;63(7):640-646. (Ref. 9.)",
+   "pmid": "6731889",
+   "why": "Same NIDR group: in unsedated third-molar patients, plasma epinephrine and cardiac output rose after lidocaine with epinephrine but not after plain lidocaine; diazepam blunted the norepinephrine response to surgery. One of the two studies the paper builds on (systemic absorption and haemodynamic effect of epinephrine from dental anaesthesia; no claim decided)."
+  },
+  {
+   "citation": "Goldstein DS, Dionne R, Sweet J, Gracely R, Brewer HB, Gregg R, Keiser HR. Circulatory, plasma catecholamine, cortisol, lipid, and psychological responses to a real-life stress (third molar extractions): effects of diazepam sedation and of inclusion of epinephrine with the local anesthetic. Psychosom Med 1982;44(3):259-272. doi:10.1097/00006842-198207000-00004 (Ref. 10.)",
+   "pmid": "7134364",
+   "why": "Same group, 21 third-molar patients: epinephrine in the local anaesthetic raised mean plasma epinephrine within minutes and increased cardiac output, which accounted for the cardiac-output rise during surgery. The other study the paper builds on (no claim decided)."
+  },
+  {
+   "citation": "Cassidy JP, Phero JC, Grau WH. Epinephrine: systemic effects and varying concentrations in local anesthesia. Anesth Prog 1986;33(6):289-297. (Ref. 11; the paper gives the year as 1987.)",
+   "pmid": "3544965",
+   "why": "Review of dental vasoconstrictors: absorbed epinephrine raises circulating levels with physiological changes; drug interactions (inhalational anaesthetics, tricyclics, beta-blockers, possibly phenothiazines); concludes the most dilute commonly used dental concentration gives satisfactory duration and depth in most situations. Background to the epinephrine-concentration claims on the Lidocaine With Epinephrine Wheals page (C078-C080) only; it is a review, not a dose-response study, and decides nothing. Free PMC copy PMC2148562."
+  },
+  {
+   "citation": "Nelson RR, Gobel FL, Jorgensen CR, Wang K, Wang Y, Taylor HL. Hemodynamic predictors of myocardial oxygen consumption during static and dynamic exercise. Circulation 1974;50(6):1179-1189. doi:10.1161/01.cir.50.6.1179 (Ref. 12.)",
+   "pmid": "4430113",
+   "why": "Basis for using the rate-pressure product as an index of myocardial oxygen consumption, one of the paper's outcomes. Methods only; low relevance."
+  },
+  {
+   "citation": "Goldstein DS, Feuerstein G, Izzo JL, Kopin IJ, Keiser HR. Validity and reliability of liquid chromatography with electrochemical detection for measuring plasma levels of norepinephrine and epinephrine in man. Life Sci 1981;28(5):467-475. doi:10.1016/0024-3205(81)90139-9 (Ref. 13.)",
+   "pmid": "7207028",
+   "why": "The plasma catecholamine assay used. Methods only; low relevance."
+  },
+  {
+   "citation": "Vincent HH, Man In't Veld AJ, Boomsma F, Wenting GJ, Schalekamp MA. Elevated plasma noradrenaline in response to beta-adrenoceptor stimulation in man. Br J Clin Pharmacol 1982;13(5):717-721. doi:10.1111/j.1365-2125.1982.tb01442.x (Ref. 14.)",
+   "pmid": "6282296",
+   "why": "Presynaptic beta-adrenoceptor facilitation of noradrenaline release in people - the paper's explanation for the progressive norepinephrine rise after injected epinephrine. Background to the catecholamine-handling arguments on the Lidocaine With Epinephrine Wheals page (near C094); decides nothing."
+  },
+  {
+   "citation": "Majewski H. Modulation of noradrenaline release through activation of presynaptic beta-adrenoreceptors. J Auton Pharmacol 1983;3(1):47-60. doi:10.1111/j.1474-8673.1983.tb00496.x (Ref. 15.)",
+   "pmid": "6304105",
+   "why": "Review: adrenaline activates presynaptic beta-adrenoceptors and can be taken up into noradrenergic stores and released as a co-transmitter. Mechanism background (near C094); decides nothing."
+  },
+  {
+   "citation": "Rand MJ, Majewski H. Adrenaline mediates a positive feedback loop in noradrenergic transmission: its possible role in development of hypertension. Clin Exp Hypertens A 1984;6(1-2):347-370. doi:10.3109/10641968409062570 (Ref. 16.)",
+   "pmid": "6321064",
+   "why": "Review of adrenaline uptake into sympathetic nerve terminals and autofacilitation of noradrenergic transmission - relevant background to the neuronal-uptake (noradrenaline transporter) argument on the Lidocaine With Epinephrine Wheals page (C094); decides nothing."
+  },
+  {
+   "citation": "Clutter WE, Bier DM, Shah SD, Cryer PE. Epinephrine plasma metabolic clearance rates and physiologic thresholds for metabolic and hemodynamic actions in man. J Clin Invest 1980;66(1):94-101. doi:10.1172/JCI109840 (Ref. 17; the paper gives the year as 1984.)",
+   "pmid": "6995479",
+   "why": "Graded intravenous epinephrine infusions in six healthy volunteers relating steady-state plasma epinephrine to haemodynamic and metabolic effects and to clearance; background for reading plasma epinephrine after local anaesthesia (its threshold figures are not copied here). Free PMC copy PMC371510; decides no claim."
+  }
+ ]
+}

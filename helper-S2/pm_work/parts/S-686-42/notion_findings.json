@@ -1,0 +1,17 @@
+[
+ {
+  "finding_id": "S2-S-686-42-F01",
+  "paper_id": "S-686-42",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "6.8a Four adjacent literatures on repeated or prolonged exposure",
+  "sentence_as_it_stands": "None of these is about ropivacaine wheals in neuropathic skin. Each covers one of the four causal exposures that 10.8 says need separating, and together they mark the outer edge of what is known.",
+  "kind": "understated",
+  "quote": "In this prospective cohort study, each Mohs micrographic procedure was commenced per routine protocol … Blood draws were obtained before and after the first two stages of Mohs micrographic surgery, and before and after the third stage or wound repair, as appropriate.",
+  "page_in_paper": 1,
+  "corrected_wording": "A further adjacent literature measures systemic exposure after repeated infiltrations within one session: Alam 2010 (prospective cohort, 19 patients analysed, PMID 20462662) sampled serum lidocaine before and after each stage of Mohs surgery of the head and neck, over up to about eight hours.",
+  "importance": "low",
+  "notes": "The section's four literatures are dental repeated injection, continuous wound infiltration, mesotherapy harms and tumescent pharmacokinetics. Only the last measures systemic exposure, and only for large dilute subcutaneous volumes. Repeated infiltration of one site within a single session with serial serum sampling is a separate adjacent literature that the list leaves out. Alam 2010 is one example. Sato 2022 (PMID 35602485), repeated ropivacaine to several head sites during awake craniotomy with serum after each injection, is another for ropivacaine itself; it comes from the main session's D069 records, not from Alam's reference list. Neither is wheal therapy, so 'none of these is about ropivacaine wheals' still holds; only the 'outer edge' sentence understates what exists. S1 is testing this page, so this is a finding, not a claim test. Item 4 of the section cites Rubin 1999, a different paper from Alam's reference 9 (Rubin 2005), so it is not a citation error. Page fetched in full (not truncated); formatting tags dropped from the sentence."
+ }
+]

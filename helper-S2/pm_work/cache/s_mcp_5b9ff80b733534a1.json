@@ -1,0 +1,28 @@
+{
+ "query": "dexamethasone[tiab] AND (vasoconstriction[tiab] OR vasoconstrictor[tiab] OR blanching[tiab] OR \"skin blood flow\"[tiab]) AND (skin[tiab] OR cutaneous[tiab] OR intradermal[tiab] OR dermal[tiab]) AND humans[mh]",
+ "max_results": 20,
+ "count": 17,
+ "translation": "\"dexamethasone\"[Title/Abstract] AND (\"vasoconstriction\"[Title/Abstract] OR \"vasoconstrictor\"[Title/Abstract] OR \"blanching\"[Title/Abstract] OR \"skin blood flow\"[Title/Abstract]) AND (\"skin\"[Title/Abstract] OR \"cutaneous\"[Title/Abstract] OR \"intradermal\"[Title/Abstract] OR \"dermal\"[Title/Abstract]) AND \"humans\"[MeSH Terms]",
+ "pmids": [
+  "29293400",
+  "26853293",
+  "16899479",
+  "15511603",
+  "14638712",
+  "12564951",
+  "12466357",
+  "11912000",
+  "11061532",
+  "9626107",
+  "9535410",
+  "8713673",
+  "8567040",
+  "8338750",
+  "8244047",
+  "2554782",
+  "6378465"
+ ],
+ "date_searched": "2026-10-07T23:25:37Z",
+ "searched_for": "S-686-38",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}
