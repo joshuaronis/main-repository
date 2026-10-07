@@ -1,0 +1,205 @@
+{
+ "paper_id": "S-686-27",
+ "citation": "Schmittner MD, Faulhaber J, Kemler B, Koenen W, Thumfart JO, Weiss C, Neumaier M, Beck GC. Influence of high dose tumescent local anaesthesia with prilocaine on systemic interleukin (IL)-6, IL-8 and tumour necrosis factor-α. J Eur Acad Dermatol Venereol 2010;24(12):1400–1405",
+ "pmid": "20384691",
+ "doi": "10.1111/j.1468-3083.2010.03653.x",
+ "right_paper": true,
+ "text_quality": "ok — 6 PDF pages with a text layer; Greek letters extracted as Latin ('TNF-a', 'lg ⁄ mL'); Table 2 readable in the layout view; Figures 1–3 plot the same values as Table 2. Internal inconsistency in the paper: 20 melanoma patients in Results and Table 1, but a melanoma subgroup of n = 22 in 'Special clinical courses'.",
+ "design": "Prospective, single-centre, observational before-after cohort without a control group (each patient's pre-infiltration blood sample is the reference), plus an in-vitro whole-blood experiment with cycloheximide. Registered as ISRCTN 19821978; ethics vote 2007-258N-MA. The paper has no limitations paragraph.",
+ "population": "30 adults (16 men, 14 women; mean age 54.9 years, range 18–85; ASA I–III) having in-house dermatological surgery for large resections under tumescent local anaesthesia: 20 malignant melanoma, 8 acne inversa, 2 other malignant skin tumours (Table 1). 42 patients had surgery under tumescent anaesthesia in the period; 8 did not meet the inclusion criteria and 4 declined. Exclusions: prilocaine allergy, ASA IV–VI, pregnancy.",
+ "n": "30, one group (a melanoma subgroup was also analysed separately; the paper gives it as n = 22 although Table 1 lists 20 melanoma patients)",
+ "setting": "University Medical Center Mannheim (Heidelberg University), Germany — anaesthesiology, dermatology, clinical chemistry and statistics departments; January–September 2008; oral midazolam premedication, optional propofol sedation, oxygen by face mask, ECG/blood pressure/oxygen saturation monitoring.",
+ "intervention": "Tumescent local anaesthesia: a dilute prilocaine-with-epinephrine solution in balanced crystalloid, infused subcutaneously by pump for large resections, at high total prilocaine doses [dose figure omitted]; a single session.",
+ "comparator": "None. No group without prilocaine and none without surgery, so the rise in IL-6 and CRP cannot be separated from the effect of the surgery itself (the authors attribute it to prilocaine-induced methaemoglobin).",
+ "route": "Subcutaneous infiltration (tumescent infusion) — not intradermal.",
+ "duration": "Single procedure; venous blood before infiltration and at 1, 2, 4, 12, 24, 48 and 72 h.",
+ "outcomes": "Serum IL-6, IL-8 and TNF-α (the stated aim); methaemoglobin (blood-gas analyser, haemolysed venous blood) at every time point; serum prilocaine (LC-MS); CRP, LDH, CK, PCT, haemoglobin; clinical symptoms; correlations between applied dose, serum prilocaine, methaemoglobin and cytokines; in-vitro IL-6 production by whole blood stimulated with prilocaine or o-toluidine, with and without cycloheximide.",
+ "key_results": [
+  {
+   "quote": "This prospective, single-centre, observational study was performed according to the guidelines of the Ethic Commission II, Faculty for Clinical Medicine Mannheim, Germany",
+   "page": 2
+  },
+  {
+   "quote": "The present prospective study examines the influence of prilocaine-induced MHb on serum levels of interleukin (IL)-6, IL-8 and tumour necrosis factor (TNF)-a up to 72 h after application of TLA with prilocaine in doses higher than [dose figure omitted] in extended dermatological surgery and investigates clinical symptoms.",
+   "page": 2
+  },
+  {
+   "quote": "Blood samples were drawn before application of TLA solution (basal) as well as 1, 2, 4, 12, 24, 48 and 72 h.",
+   "page": 2
+  },
+  {
+   "quote": "Basal MHb serum levels (Fig. 2) were [dose figure omitted]. The level increased to [dose figure omitted] after 1 h, to [dose figure omitted] after 2 h, to [dose figure omitted] after 4 h with a peak of [dose figure omitted] 12 h after TLA",
+   "page": 3
+  },
+  {
+   "quote": "MHb serum levels decreased rapidly to [dose figure omitted] after 24 h and to [dose figure omitted] after 48 h (P < 0.0001 for MHb serum level changes over time; ANOVA).",
+   "page": 3
+  },
+  {
+   "quote": "Overall, an MHb concentration [dose figure omitted] was measured in three patients",
+   "page": 4
+  },
+  {
+   "quote": "No clinical symptoms were observed and no specific therapy was indicated.",
+   "page": 4
+  },
+  {
+   "quote": "Four hours after TLA, one 18-year-old female patient suffering from a malignant melanoma developed mild symptoms of cyanosis and hyperventilation at a maximum MHb concentration of [dose figure omitted].",
+   "page": 4
+  },
+  {
+   "quote": "IL-6 concentration reached a peak maximum of … (P < 0.001) 12 h after TLA.",
+   "page": 4
+  },
+  {
+   "quote": "Serum levels of IL-8 and TNF-a serum did not change significantly in the chronological sequence compared with baseline levels",
+   "page": 4
+  },
+  {
+   "quote": "Furthermore, no statistically significant correlation between the applied doses of prilocaine and MHb or prilocaine serum levels and IL-6, IL-8 or TNF-a concentrations could be detected.",
+   "page": 4
+  },
+  {
+   "quote": "A CRP peak maximum of … was reached at 48 h (P < 0.0001 compared with basal levels).",
+   "page": 4
+  },
+  {
+   "quote": "No correlation between MHb and IL-6 concentration was found at any time.",
+   "page": 5
+  },
+  {
+   "quote": "Interleukin-6 synthesis was completely inhibited under simultaneous CX and prilocaine stimulation, indicating the de novo synthesis of this chemokine by immunmodulatory cells (data not shown).",
+   "page": 5
+  },
+  {
+   "quote": "This clinical study demonstrates for the first time that high doses of prilocaine induce MHb generation and the enhanced release of IL-6, but not of IL-8 or TNF-a in vivo.",
+   "page": 5
+  },
+  {
+   "quote": "Current publications recommend a dose limitation of [dose figure omitted].8",
+   "page": 5
+  },
+  {
+   "quote": "As a result of possible and unpredictable high MHb concentrations, TLA can only be recommended with prilocaine in doses of [dose figure omitted].8",
+   "page": 5
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "The analysis of PCT was stopped after 20 patients as no correlation was found.",
+   "page": 4
+  },
+  {
+   "quote": "Further investigations are now necessary to explain the difference in cytokine production on molecular level and to improve the development of TLA solutions to reach an adequate analgesia and to minimize side-effects, in extended dermatological resections.",
+   "page": 5
+  }
+ ],
+ "funding_conflicts": "Conflict of interest: 'None declared.' No funding source is stated in the paper.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Guay J. Methemoglobinemia related to local anesthetics: a summary of 242 episodes. Anesth Analg 2009;108(3):837–845 (Schmittner ref. 8)",
+   "pmid": "19224791",
+   "why": "The methaemoglobin summary the prilocaine-wheals and Safe Doses pages rely on. Schmittner cites it five times (Introduction twice, Discussion three times) and attributes the limit it adopts to it; its own conclusion states that same general limit. Decides the framing in C071 and D075."
+  },
+  {
+   "citation": "Lindenblatt N, Belusa L, Tiefenbach B, Schareck W, Olbrisch RR. Prilocaine plasma levels and methemoglobinemia in patients undergoing tumescent liposuction involving less than [dose figure omitted]. Aesthetic Plast Surg 2004;28(6):435–440 (ref. 9)",
+   "pmid": "15870963",
+   "why": "Plasma prilocaine and methaemoglobin measured for 4 h after tumescent liposuction in 25 patients; cited on prilocaine-wheals; predates Guay and concludes on the length of postoperative monitoring, not on a lower limit (bears on C071's proposed wording and on C068)."
+  },
+  {
+   "citation": "Rudlof K, Rüffert H, Wehner M, Wetzig T, Eichhorn K, Olthoff D. [Tumescent anaesthesia for dermatological surgery. Plasma concentrations of lidocaine and prilocaine]. Anaesthesist 2007;56(8):785–789 (ref. 3)",
+   "pmid": "17370052",
+   "why": "Plasma lidocaine and prilocaine, methaemoglobin and epinephrine measured to 24 h after tumescent anaesthesia in 31 dermatological surgery patients — systemic levels and methaemoglobin after a large subcutaneous local-anaesthetic session (D069 scope note; C068)."
+  },
+  {
+   "citation": "Mang WL, Materak J, Kuntz S, Sawatzki K, Arnold W. Liposuktion in Tumeszenzlokalanaesthesie – Grenzen der Prilocaindosierung. Z Hautkr 1999;74:157–161 (ref. 10)",
+   "pmid": "",
+   "why": "Tumescent liposuction with very large prilocaine amounts and the limits of prilocaine dosing (German); not in PubMed (citation lookup and author search both empty)."
+  },
+  {
+   "citation": "Sagoo KS, Inoue K, Winkler W, Salfeld K. Pharmacokinetics of tumescent local anaesthesia with prilocaine in surgery of varicose veins. Phlebologie 2000;29:154–162 (ref. 25)",
+   "pmid": "",
+   "why": "Pharmacokinetics (plasma levels) of tumescent prilocaine; not in PubMed."
+  },
+  {
+   "citation": "Vasters FG, Eberhart LHJ, Koch T, Kranke P, Wulf H, Morin AM. Risk factors for prilocaine-induced methaemoglobinaemia following peripheral regional anaesthesia. Eur J Anaesthesiol 2006;23(9):760–765 (ref. 11)",
+   "pmid": "16723054",
+   "why": "Methaemoglobin 3 h after prilocaine nerve blocks in 162 patients, with dose, age and sex as predictors; cited on prilocaine-wheals (whose body text dates it 2005)."
+  },
+  {
+   "citation": "Dumont L, Mardirosoff C, Dumont C, Mattys M, Massaut J. Methaemoglobinaemia induced by a low dose of prilocaine during interscalenic block. Acta Anaesthesiol Belg 1995;46(1):39–42 (ref. 7)",
+   "pmid": "7618428",
+   "why": "Case of methaemoglobinaemia after a small prilocaine dose in a nerve block — bears on prilocaine-wheals' unexplained small-dose case and on C068."
+  },
+  {
+   "citation": "Kortgen A, Janneck U, Vetsch A, Bauer M. Methemoglobinemia due to prilocaine after plexus anaesthesia [rest of title omitted]. Anaesthesist 2003;52(11):1020–1026 (ref. 28)",
+   "pmid": "14992088",
+   "why": "Methaemoglobin after prilocaine plexus anaesthesia; cited by Schmittner for raised methaemoglobin with a more concentrated prilocaine solution in extended resections."
+  },
+  {
+   "citation": "Sadove MS, Jobgen EA, Heller FN, Rosenberg R. Methemoglobinemia — an effect of a new local anesthetic L-67 (prilocaine). Acta Anaesthesiol Scand Suppl 1965;16:175–182 (ref. 12)",
+   "pmid": "5322419",
+   "why": "Early measurement of prilocaine-induced methaemoglobin; cited for the wide inter-individual variability at a given dose."
+  },
+  {
+   "citation": "Khan NA, Kruse JA. Methemoglobinemia induced by topical anesthesia: a case report and review. Am J Med Sci 1999;318(6):415–418 (ref. 6)",
+   "pmid": "10616167",
+   "why": "Methaemoglobinaemia after a topical anaesthetic (topical local-anaesthetic safety)."
+  },
+  {
+   "citation": "Ash-Bernal R, Wise R, Wright SM. Acquired methemoglobinemia: a retrospective series of 138 cases at 2 teaching hospitals. Medicine (Baltimore) 2004;83(5):265–273 (ref. 26)",
+   "pmid": "15342970",
+   "why": "Hospital series of acquired methaemoglobinaemia, most from topical anaesthetics; cited with Guay for symptomatic levels."
+  },
+  {
+   "citation": "Liu X, Spolarics Z. Methemoglobin is a potent activator of endothelial cells by stimulating IL-6 and IL-8 production and E-selectin membrane expression. Am J Physiol Cell Physiol 2003;285(5):C1036–1046 (ref. 19)",
+   "pmid": "12839837",
+   "why": "In-vitro basis for methaemoglobin-driven cytokine release — systemic inflammation after a local anaesthetic (the study's hypothesis)."
+  },
+  {
+   "citation": "Rao RB, Ely SF, Hoffman RS. Deaths related to liposuction. N Engl J Med 1999;340(19):1471–1475 (ref. 5)",
+   "pmid": "10320385",
+   "why": "Deaths after tumescent liposuction with lidocaine (systemic local-anaesthetic toxicity); cited for the move to prilocaine in tumescent anaesthesia."
+  },
+  {
+   "citation": "Grazer FM, de Jong RH. Fatal outcomes from liposuction: census survey of cosmetic surgeons. Plast Reconstr Surg 2000;105(1):436–446 (ref. 27)",
+   "pmid": "10627013",
+   "why": "Fatal outcomes in tumescent liposuction (systemic toxicity); cited with Rao 1999."
+  },
+  {
+   "citation": "Bussen D, Sailer M, Fuchs KH, Thiede A. Tumescent local anaesthesia in proctologic surgery. Chirurg 2003;74(9):839–843 (ref. 2)",
+   "pmid": "14504797",
+   "why": "Tumescent local anaesthesia in proctology (injected local anaesthetic, ambulatory setting)."
+  },
+  {
+   "citation": "Abramson DL. Tumescent abdominoplasty: an ambulatory office procedure. Aesthetic Plast Surg 1998;22(6):404–407 (ref. 4)",
+   "pmid": "9852171",
+   "why": "Tumescent infiltration in ambulatory surgery."
+  },
+  {
+   "citation": "Klein JA. The tumescent technique for liposuction surgery. Am J Cosmetic Surg 1987;4:263 (ref. 1)",
+   "pmid": "",
+   "why": "Origin of tumescent local anaesthesia; journal not indexed in PubMed."
+  },
+  {
+   "citation": "Mansouri A, Lurie AA. Concise review: methemoglobinemia. Am J Hematol 1993;42(1):7–12 (ref. 13; spelled 'Mansuouri' in the paper)",
+   "pmid": "8416301",
+   "why": "Methaemoglobinaemia review (oxygen-dissociation curve shift)."
+  },
+  {
+   "citation": "Margulies DR, Manookian CM. Methemoglobinemia as a cause of respiratory failure. J Trauma 2002;52(4):796–797 (ref. 14)",
+   "pmid": "11956408",
+   "why": "Clinical consequence of methaemoglobinaemia."
+  },
+  {
+   "citation": "Jaffe ER. Methemoglobin pathophysiology. Prog Clin Biol Res 1981;51:133–151 (ref. 15)",
+   "pmid": "7022466",
+   "why": "Methaemoglobin pathophysiology; cited for symptoms by level."
+  },
+  {
+   "citation": "Umbreit J. Methemoglobin — it's not just blue: a concise review. Am J Hematol 2007;82(2):134–144 (ref. 16)",
+   "pmid": "16986127",
+   "why": "Methaemoglobin review, including its inflammatory and oxidative role."
+  }
+ ]
+}

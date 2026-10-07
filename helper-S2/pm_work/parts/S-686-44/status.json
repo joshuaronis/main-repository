@@ -1,0 +1,7 @@
+{"paper_id": "S-686-44",
+ "right_paper": true,
+ "text_ok": "ocr - prose fully readable; Table 1 digits checked cell by cell against a rendered image of PDF page 3 (the OCR reads 8 as 'a'); complete, journal pages 261-266 = PDF pages 1-6",
+ "own_question_answered": "yes",
+ "claims_rejudged": 1,
+ "notion_findings": 4,
+ "notes": "Own question answered in full from the full text: human (nine healthy subjects, volar forearm, both arms), followed to 3.5 hours with readings at 1.5, 2.5 and 3.5 h, subcutaneous infiltration of lidocaine with adrenaline, noradrenaline or felypressin, tissue-oxygen tension by Clark polarographic micro-electrode at the injection depth. C084 stays narrowed with uncertain_after false: the claim's 'one study that measured skin oxygen for hours' is refuted but its 'human wheal' element and Miller's eight hours are unmatched. 10 extra studies recorded, none of them deciding a verdict on its own, so no extra-study claim update. 4 Notion findings: 1 high (a uniqueness sentence on the Lidocaine With Epinephrine Wheals page that is wrong), 3 low (sentences accurate on their natural reading, recorded because the paper adds evidence the pages do not hold). No results write was stopped by the content filter; one screening script was stopped and was not retried or rephrased, and the screen was completed term by term and with the masked viewer instead. s2check: no !! lines, 0 quotes not found; the five ?? lines are outcome percentages and a halo width, not drug amounts, concentrations, volumes, injection counts or frequencies."}

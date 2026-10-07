@@ -1,0 +1,18 @@
+{
+ "pmid": "21467556",
+ "year": "2011",
+ "first_author": "Hillerup",
+ "title": "Concentration-dependent neurotoxicity of articaine: an electrophysiological and stereological study of the rat sciatic nerve.",
+ "journal": "Anesth Analg",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1213/ANE.0b013e3182172a2e",
+ "pmcid": "",
+ "abstract": "We performed this study to quantify the detrimental effect of intraneural injection of [dose figure omitted] of saline, articaine [dose figure omitted], or articaine [dose figure omitted] in the rat sciatic nerve.\n\nLumbar-evoked electrospinograms from stimulation of the sciatic nerve were recorded before and immediately after injection and again after 3 weeks. Test substance was injected into the right sciatic nerve, and the untreated left sciatic nerve served as control. The animals were killed after the 3-week follow-up, and cross-sections of the sciatic nerve were examined stereologically.\n\nThe evoked spinal cord field potential in the articaine groups faded away immediately after injection and was concentration-dependently, significantly more reduced at the 3-week follow-up in comparison with the saline group. The response from the control sides was unaffected in all groups. The number of myelinated axons was unaffected by the treatment. The mean cross-sectional axon area and the mean myelin sheath thickness were significantly reduced in animals injected with articaine [dose figure omitted].\n\nThese observations indicate concentration-dependent neurotoxic injuries after injection of articaine with a significant difference between [dose figure omitted] and [dose figure omitted] formulations. The mechanical injury of needle penetration with saline injection had no significant effect on nerve conduction or histomorphology.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:33:42Z",
+ "retrieved_for": "S-686-01",
+ "redacted": true
+}

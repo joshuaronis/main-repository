@@ -1,0 +1,20 @@
+{
+ "query": "(\"extended-release\"[tiab] OR \"prolonged-release\"[tiab] OR \"sustained-release\"[tiab] OR \"long-acting\"[tiab]) AND (bupivacaine[tiab] OR \"local anesthetic\"[tiab] OR \"local anesthetics\"[tiab] OR \"local anaesthetic\"[tiab] OR \"local anaesthetics\"[tiab]) AND (approved[tiab] OR approval[tiab]) AND (Zynrelef[tiab] OR Xaracoll[tiab] OR Posimir[tiab] OR \"HTX-011\"[tiab] OR \"bupivacaine implant\"[tiab] OR meloxicam[tiab])",
+ "max_results": 50,
+ "count": 9,
+ "translation": "(\"extended-release\"[Title/Abstract] OR \"prolonged-release\"[Title/Abstract] OR \"sustained-release\"[Title/Abstract] OR \"long-acting\"[Title/Abstract]) AND (\"bupivacaine\"[Title/Abstract] OR \"local anesthetic\"[Title/Abstract] OR \"local anesthetics\"[Title/Abstract] OR \"local anaesthetic\"[Title/Abstract] OR \"local anaesthetics\"[Title/Abstract]) AND (\"approved\"[Title/Abstract] OR \"approval\"[Title/Abstract]) AND (\"Zynrelef\"[Title/Abstract] OR \"Xaracoll\"[Title/Abstract] OR \"Posimir\"[Title/Abstract] OR \"HTX-011\"[Title/Abstract] OR \"meloxicam\"[Title/Abstract])",
+ "pmids": [
+  "40711999",
+  "38731140",
+  "38449985",
+  "38698776",
+  "34802729",
+  "34228280",
+  "31791561",
+  "31272651",
+  "30074492"
+ ],
+ "date_searched": "2026-10-07T23:34:06Z",
+ "searched_for": "S-686-23",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

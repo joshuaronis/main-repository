@@ -1,0 +1,14 @@
+{
+ "query": "(Posimir[tiab] OR \"SABER-bupivacaine\"[tiab] OR \"SABER bupivacaine\"[tiab]) AND (approv*[tiab] OR FDA[tiab] OR \"Food and Drug Administration\"[tiab])",
+ "max_results": 50,
+ "count": 3,
+ "translation": "(\"Posimir\"[Title/Abstract] OR \"saber bupivacaine\"[Title/Abstract] OR \"saber bupivacaine\"[Title/Abstract]) AND (\"approv*\"[Title/Abstract] OR \"FDA\"[Title/Abstract] OR \"Food and Drug Administration\"[Title/Abstract])",
+ "pmids": [
+  "31791561",
+  "31272651",
+  "30074492"
+ ],
+ "date_searched": "2026-10-07T23:34:06Z",
+ "searched_for": "S-686-23",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}
