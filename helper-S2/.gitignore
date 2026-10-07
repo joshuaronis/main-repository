@@ -1,2 +1,4 @@
 papers/
 *.pdf
+pm_work/.pm.last
+pm_work/.pm.lock
