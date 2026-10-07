@@ -258,3 +258,18 @@ Pages fetched (as-of = page_version):
     ulcers — correct as written; Effendy adds repeated daily ulcer data but nothing there is wrong; no finding.
   - §4.2.3 "No study has modelled chronic bilateral whole-leg application of a prilocaine product." — dose
     section; Effendy (capped ulcer area, ten days) does not model whole-leg application; correct; no finding.
+- 1 — Product Guide — Topical Treatments for Small Fiber Neuropathy, https://app.notion.com/p/3d410b7903aa81c0815ad3c7c6c2d17f,
+  as of 2026-10-02T03:14:29.224Z; 599,993 chars of text, tool-result file; no truncated / unknown_block flags.
+  Effendy 0, Moghtaderi 0, Stymne 0 (Stymne's figures appear uncited in "Skin integrity as the largest absorption
+  variable"). Sentences relied on:
+  - Rank 19 "EMLA cream — lidocaine 2.5% + prilocaine 2.5%, 30 g", evidence line: "**... Evidence SERIES (n=12) +
+    SERIES (n=11) + 2 CASES — plus one randomised placebo-controlled trial of prevention, not treatment**" and body:
+    "Its evidence in neuropathic pain is **two uncontrolled series — twelve patients and eleven — and two
+    single-patient case reports**, every one of them post-herpetic or causalgic rather than idiopathic, none with a
+    placebo arm and none running longer than six days, so it is not buying anything the plain ointment does not."
+    (-> finding: same error as D066, in a ranked entry; decided by Moghtaderi 2009; the "none with a placebo arm"
+    part is D067 / Flondell territory and is left to that paper's session.)
+  - Rank 19: "Nobody has modelled daily bilateral whole-leg use of a prilocaine product at all." and the Prilocaine
+    entry's "nobody has modelled that pattern" — dose context; Effendy studied a capped ulcer area, not whole legs;
+    correct; no finding. "levels have been found still elevated 24 hours after a dose" (methaemoglobin) — Effendy
+    measured no methaemoglobin; no finding.

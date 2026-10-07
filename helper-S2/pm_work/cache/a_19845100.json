@@ -1,0 +1,19 @@
+{
+ "pmid": "19845100",
+ "year": "2009",
+ "first_author": "Moghtaderi",
+ "title": "EMLA cream for carpal tunnel syndrome: how it compares with steroid injection.",
+ "journal": "Electromyogr Clin Neurophysiol",
+ "pubtypes": [
+  "Comparative Study",
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "doi": "",
+ "pmcid": "",
+ "abstract": "A standard treatment option for carpal tunnel syndrome (CTS) is local injection of anesthetic-corticosteroid. This clinical trial was designed to compare the safety and efficacy of daily application of the EMLA cream (lidocaine 2.5% plus prilocaine 2.5%) with that of a single injection of methyl prednisolone acetate (Depo-Medrol) 40 mg.\n\nIn this randomized, parallel-group, open-label, single-center, case-controlled, prospective study, 65 participants (70 hands) aged 18-75 years with clinical & electrodiagnostic evidences of CTS were randomized to receive either the EMLA cream (n = 30 patients, 35 hands, group 1) or one injection of methylprednisolone acetate 40 mg at wrist (n = 35 patients, group 2). Outcome assessments included the visual analog scale and clinical assessment.\n\nAfter 4 weeks of treatment, patients in both groups reported significant changes (P < 0.001) in pain intensity. Both treatments were well tolerated, with treatment-related adverse events (AEs) reported in 2 patients in group 1 (5.7%) and 10 patients in group 2 (28.5%) No systemic treatment-related AEs were observed with the EMLA cream.\n\nEMLA cream was effective in reducing pain associated with CTS and well tolerated and it may offer patients with CTS an effective, noninvasive symptomatic treatment.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:27:21Z",
+ "retrieved_for": "S-686-07",
+ "redacted": false
+}

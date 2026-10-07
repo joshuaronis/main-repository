@@ -1,0 +1,22 @@
+[
+ {
+  "pmid": "23458225",
+  "citation": "Apseloff G, Onel E, Patou G. Time to onset of analgesia following local infiltration of liposome bupivacaine in healthy volunteers: a randomized, single-blind, sequential cohort, crossover study. Int J Clin Pharmacol Ther 2013;51(5):367-73",
+  "found_in_paper": "S-686-23",
+  "bears_on_claim_ids": [
+   "D048"
+  ],
+  "what_it_shows": "Phase 1 randomised single-blind crossover in 132 healthy volunteers: the marketed liposome bupivacaine, or plain bupivacaine as positive control, given subcutaneously in one arm against saline in the other, with an incisional pain model; analgesia within minutes. Subcutaneous per the abstract, so it does not match D048's intradermal element (already in D048's records; no verdict change). PubMed's MeSH indexing lists 'Injections, Intradermal' for this record, so a MeSH-based search retrieves it as if intradermal. Rames cites it (ref 19) for onset after local infiltration.",
+  "quote_from_abstract": "In this Phase 1, single-blind, crossover study, healthy volunteers (n = 132) were randomized to four sequential cohorts to receive subcutaneous normal saline in one arm and either liposome bupivacaine [dose figure omitted] or bupivacaine HCl [dose figure omitted] in the other."
+ },
+ {
+  "pmid": "38482995",
+  "citation": "Jensen EK, Bøgevig S, Balchen T, et al. Dose safety and pharmacodynamics of subcutaneous bupivacaine in a novel extended-release microparticle formulation: a phase 1, dose-ascending study in male volunteers. Basic Clin Pharmacol Toxicol 2024;134(5):657-75",
+  "found_in_paper": "S-686-23",
+  "bears_on_claim_ids": [
+   "C043"
+  ],
+  "what_it_shows": "First-in-human randomised phase 1 study in male volunteers: a PLGA microparticle extended-release bupivacaine given subcutaneously produced dose-dependent hypoaesthesia and hypoalgesia lasting roughly one and a half to three and a half days, with frequent local reactions (erythema, haematoma, indurations lasting weeks) and one participant with central nervous system symptoms of systemic toxicity (figures not copied). A further human example, after Grant 2004 and the bupivacaine microcapsule studies, of a sustained-release local anaesthetic giving days of skin analgesia from one dose: it supports C043's existing 'refuted' verdict without changing it, and is the basis of Notion finding F03 (the same idea's second location, on 'What is still unsettled'). Rames cites it (ref 5) only as background on dosing.",
+  "quote_from_abstract": "Both LIQ865 formulations demonstrated dose-dependent hypoesthesia and hypoalgesia. The duration of analgesia ranged between 37 and 86 h."
+ }
+]

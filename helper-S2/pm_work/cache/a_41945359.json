@@ -1,0 +1,18 @@
+{
+ "pmid": "41945359",
+ "year": "2026",
+ "first_author": "Sertdemir",
+ "title": "Prevalence and Clinical Course of Methemoglobinemia After Cardiac Device Implantation.",
+ "journal": "Turk Kardiyol Dern Ars",
+ "pubtypes": [
+  "Journal Article",
+  "Observational Study"
+ ],
+ "doi": "10.5543/tkda.2026.19946",
+ "pmcid": "",
+ "abstract": "Methemoglobinemia is potentially serious complication of local anesthetic use during cardiac implantable electronic device (CIED) implantation. Although it is mostly asymptomatic limited awareness may delay diagnosis and treatment.\n\nThis prospective observational study included 126 patients undergoing CIED implantation under local anesthesia. Prilocain [dose figure omitted] has been used in all procedures. Arterial blood gases and methemoglobin levels were evaluated at baseline, 60, and 120 minutes after the procedure. Fraction of methemoglobin levels [dose figure omitted] results in methemoglobinemia. Patients were categorized into three groups based on 60-minute fractional methemoglobin (FMetHb) levels: [dose figure omitted]. Clinical parameters, anesthetic dosage, and outcomes were compared between groups.\n\nMethemoglobin levels [dose figure omitted] were observed in 80.2% of patients. Three patients required treatment; all recovered fully. Patients with FMetHb [dose figure omitted] received higher anesthetic doses (p<0.001). Drug dose and pCO₂ were observed between groups. Among the clinical parameters, prilocaine dose demonstrated the strongest predictive value for methemoglobinemia, with an optimal cut-off of [dose figure omitted] identified by ROC analysis (AUC: 0.693, p<0.001).\n\nMethemoglobinemia may occur more frequently than expected following CIED implantation and early recognition and stratification using practical thresholds such as [dose figure omitted] FMetHb support timely management and improved outcomes.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:26:24Z",
+ "retrieved_for": "S-686-27",
+ "redacted": true
+}

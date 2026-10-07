@@ -1,0 +1,21 @@
+{
+ "paper_id": "S-686-27",
+ "citation": "Schmittner MD, Faulhaber J, Kemler B, Koenen W, Thumfart JO, Weiss C, Neumaier M, Beck GC. Influence of high dose tumescent local anaesthesia with prilocaine on systemic interleukin (IL)-6, IL-8 and tumour necrosis factor-α. J Eur Acad Dermatol Venereol 2010;24(12):1400–1405",
+ "pmid": "20384691",
+ "doi": "10.1111/j.1468-3083.2010.03653.x",
+ "right_paper": true,
+ "text_quality": "ok — 6 PDF pages with a text layer; Greek letters extracted as Latin ('TNF-a', 'lg ⁄ mL'); Table 2 readable in the layout view; Figures 1–3 plot the same values as Table 2. Internal inconsistency in the paper: 20 melanoma patients in Results and Table 1, but a melanoma subgroup of n = 22 in 'Special clinical courses'.",
+ "design": "Prospective, single-centre, observational before-after cohort without a control group (each patient's pre-infiltration blood sample is the reference), plus an in-vitro whole-blood experiment with cycloheximide. Registered as ISRCTN 19821978; ethics vote 2007-258N-MA. The paper has no limitations paragraph.",
+ "population": "30 adults (16 men, 14 women; mean age 54.9 years, range 18–85; ASA I–III) having in-house dermatological surgery for large resections under tumescent local anaesthesia: 20 malignant melanoma, 8 acne inversa, 2 other malignant skin tumours (Table 1). 42 patients had surgery under tumescent anaesthesia in the period; 8 did not meet the inclusion criteria and 4 declined. Exclusions: prilocaine allergy, ASA IV–VI, pregnancy.",
+ "n": "30, one group (a melanoma subgroup was also analysed separately; the paper gives it as n = 22 although Table 1 lists 20 melanoma patients)",
+ "setting": "University Medical Center Mannheim (Heidelberg University), Germany — anaesthesiology, dermatology, clinical chemistry and statistics departments; January–September 2008; oral midazolam premedication, optional propofol sedation, oxygen by face mask, ECG/blood pressure/oxygen saturation monitoring.",
+ "intervention": "Tumescent local anaesthesia: a dilute prilocaine-with-epinephrine solution in balanced crystalloid, infused subcutaneously by pump for large resections, at high total prilocaine doses [dose figure omitted]; a single session.",
+ "comparator": "None. No group without prilocaine and none without surgery, so the rise in IL-6 and CRP cannot be separated from the effect of the surgery itself (the authors attribute it to prilocaine-induced methaemoglobin).",
+ "route": "Subcutaneous infiltration (tumescent infusion) — not intradermal.",
+ "duration": "Single procedure; venous blood before infiltration and at 1, 2, 4, 12, 24, 48 and 72 h.",
+ "outcomes": "Serum IL-6, IL-8 and TNF-α (the stated aim); methaemoglobin (blood-gas analyser, haemolysed venous blood) at every time point; serum prilocaine (LC-MS); CRP, LDH, CK, PCT, haemoglobin; clinical symptoms; correlations between applied dose, serum prilocaine, methaemoglobin and cytokines; in-vitro IL-6 production by whole blood stimulated with prilocaine or o-toluidine, with and without cycloheximide.",
+ "key_results": [],
+ "author_limitations": [],
+ "funding_conflicts": "Conflict of interest: 'None declared.' No funding source is stated in the paper.",
+ "studies_it_cites_that_matter": []
+}

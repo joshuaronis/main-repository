@@ -24,5 +24,44 @@
   "page": 5,
   "proposed_wording": "Epinephrine without a local anaesthetic narrows skin vessels at least as much as the combination, in the three studies that isolated it (Miller 1984, Cederholm 1992, Newton 2004). In nerve, adding epinephrine deepened the fall in blood flow with lidocaine (Myers 1989; Partridge 1991) but not significantly with bupivacaine (Wiesmann 2018, pig) or ropivacaine (Bouaziz 2005, rat), neither of which tested epinephrine alone.",
   "reason": "The verdict concerns skin and is unchanged. The proposed wording's nerve clause ('the combination was worse than either alone') rests on Partridge's lidocaine data; in Wiesmann, bupivacaine with epinephrine did not differ significantly from bupivacaine alone in nerve blood flow at 30 or 60 minutes (its fall was only faster in the first minutes), and Bouaziz 2005 (from Wiesmann's reference list) found epinephrine did not reduce nerve flow further than ropivacaine alone."
+ },
+ {
+  "claim_id": "C013",
+  "paper_id": "",
+  "pmid": "8338750",
+  "kind": "extra-study",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Fluocinolone acetonide, betamethasone-17-valerate and dexamethasone also caused visible blanching (P < 0.01).",
+  "page": 0,
+  "proposed_wording": "Of the drug adjuvants considered here, none is both measured in a plain intradermal wheal and free of an action on vessels; the one additive measured in a plain intradermal wheal is benzyl alcohol, a weak anaesthetic rather than a modifier, which lengthened intradermal lidocaine in a 20-subject trial (Williams 1994). Dexamethasone is not vessel-free: applied to human skin it causes visible blanching (Andersen 1993), and applied to rat sciatic nerve it reduced nerve blood flow (Shishido 2002).",
+  "reason": "Verdict unchanged: the benzyl alcohol trial still refutes the headline. But the current reason counts dexamethasone (Holte 2002 microcapsules) as a skin-measured additive free of a vasoconstrictor mechanism, and the corticosteroid vasoconstriction assay shows topical dexamethasone visibly blanches human skin (mainly venoconstriction on reflectance spectroscopy), while topical dexamethasone significantly reduced rat sciatic nerve blood flow (Shishido 2002). Found by a PubMed search run while checking S-686-38 (Wiesmann 2018) for adjuvants' effects on vessels; not in Wiesmann's reference list."
+ },
+ {
+  "claim_id": "C025",
+  "paper_id": "",
+  "pmid": "8338750",
+  "kind": "extra-study",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Fluocinolone acetonide, betamethasone-17-valerate and dexamethasone also caused visible blanching (P < 0.01).",
+  "page": 0,
+  "proposed_wording": "Magnesium has not been tested as a local-anaesthetic adjuvant in an intradermal wheal; injected intradermally on its own in volunteers it caused irritating pain, mechanical hypaesthesia, heat hyperalgesia and a flare (Ushida 2009). Neither magnesium nor dexamethasone is free of vascular effects: magnesium caused a flare, topical dexamethasone causes visible blanching of human skin (Andersen 1993) and reduced rat nerve blood flow (Shishido 2002).",
+  "reason": "Verdict unchanged (refuted on magnesium). The claim's first clause also says dexamethasone has no action on a blood vessel at all; human skin-blanching data (Andersen 1993) and rat nerve blood-flow data (Shishido 2002) contradict that, although perineural dexamethasone did not change human nerve-root blood flow over 15 minutes (Fukusaki 2001). Found by a PubMed search run while checking S-686-38 (Wiesmann 2018); not in Wiesmann's reference list."
+ },
+ {
+  "claim_id": "D019",
+  "paper_id": "",
+  "pmid": "8338750",
+  "kind": "extra-study",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Fluocinolone acetonide, betamethasone-17-valerate and dexamethasone also caused visible blanching (P < 0.01).",
+  "page": 0,
+  "proposed_wording": "Several adjuvants have human skin measurements — clonidine (Kopacz 2001; Pratap 2007), benzyl alcohol (Williams 1994), ketamine (Tverskoy 1996) and dexamethasone with microcapsules (Holte 2002). Only clonidine has had its effect on skin blood flow measured as an injected adjuvant, and it worked partly by narrowing the vessel; dexamethasone's effect on skin vessels has been measured on its own, applied topically, where it caused visible blanching (Andersen 1993).",
+  "reason": "Verdict unchanged. The current proposed wording says only clonidine has had its effect on skin blood flow measured, and the reason says whether the others act on vessels was not measured; for dexamethasone it has been measured: topical dexamethasone visibly blanched human skin in the corticosteroid vasoconstriction assay (mainly venoconstriction on reflectance spectroscopy, no significant fall in laser-Doppler flow), and topical dexamethasone reduced rat sciatic nerve blood flow (Shishido 2002). Found by a PubMed search run while checking S-686-38 (Wiesmann 2018); not in Wiesmann's reference list."
  }
 ]

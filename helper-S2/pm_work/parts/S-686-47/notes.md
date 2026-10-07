@@ -89,6 +89,58 @@ a preparation step) among the candidates above — counted, text not written out
 D074 is also a ceiling-adjacent claim; it is answered only because it is this paper's own question, in the limited
 way the hand-over allows ("above" / "below" the conventional limit, no figures).
 
+## 3. PubMed (connector; eutils blocked)
+- get_article_metadata 3472472: "Plasma epinephrine levels and cardiovascular response to high administered doses of
+  epinephrine contained in local anesthesia." Anesth Prog 1987;34(1):10-3; authors Troullos ES, Goldstein DS,
+  Hargreaves KM, Dionne RA; Journal Article; no DOI; **free PMC copy PMC2186227**. Matches the PDF. (Abstract not
+  cached: it carries the administered amounts, which this paper's rule keeps out of every file, and no quote is taken
+  from it.)
+- lookup_article_by_citation, all 17 references in one batch (the tool returns the PMID in the "key" field):
+  r1 Holroyd 1960 → 13715514; r3 JADA 1955;50:108 (New York Heart Association report) → NOT FOUND; r5 Cheraskin 1959 →
+  13610589; r6 Fiset 1986 → 3465257; r7 Chernow 1983 → 6639234; r8 Cioffi 1985 → 3861687; r9 Dionne 1984 → 6731889;
+  r10 Goldstein 1982 → 7134364; r11 Cassidy 1986 → 3544965; r12 Nelson 1974 → 4430113; r13 Goldstein 1981 → 7207028;
+  r14 Vincent 1982 → 6282296; r15 Majewski 1983 → 6304105; r16 Rand 1984 → 6321064; r17 Clutter 1980 → 6995479.
+  Refs 2 (Malamed, Handbook of Local Anesthesia, 1st ed., 1980) and 4 (ADA, Accepted Dental Therapeutics, 40th ed.,
+  1984) are books, no PMID.
+- get_article_metadata for all 15 PMIDs above: abstracts read where present (Holroyd, Cheraskin, Nelson, Goldstein
+  1981: "[Abstract not available]"). Citation errors inside the paper's own reference list: ref 11 Cassidy is given as
+  1987 (PubMed: 1986;33(6):289-97); ref 17 Clutter is given as 1984 (PubMed: 1980;66(1):94-101); ref 1 third author
+  "Welsh" (PubMed: Welch); ref 6 second author "Ramsey" and fourth "Weinsein" (PubMed: Ramsay, Weinstein).
+- get_article_metadata 11740477 (Niwa 2001) and 17589629 (Neves 2007): checked that D074's existing wording describes
+  them correctly — Niwa: 27 patients with cardiovascular disease (NYHA I–III), impedance cardiography after an
+  intraoral injection of lidocaine with epinephrine; Neves: randomised, 62 patients with coronary artery disease, lidocaine with vs without
+  epinephrine, 24-hour ambulatory blood pressure and dynamic ECG. Both descriptions hold.
+- search_articles (max 40): `(plasma epinephrine OR plasma catecholamine*) AND (dental OR intraoral OR oral surgery)
+  AND (local anesthe* OR lidocaine) AND (cardiac OR cardiovascular disease OR coronary OR hypertensive)` →
+  **count 39**, all 39 returned and screened by title/abstract (cache s_mcp_6f2a79d74cfc7b33.json). PubMed's
+  translation expands "plasma epinephrine" to plasma[MeSH/All] AND epinephrine[Supplementary Concept/MeSH/All]
+  (adrenalin, adrenaline, epinephrin…), "dental" to dental health services[MeSH] OR dental, "oral surgery" to
+  surgery, oral[MeSH] OR oral surgical procedures[MeSH], and the disease terms to heart[MeSH] OR cardiac OR
+  cardiovascular diseases[MeSH] OR coronary OR hypertension[MeSH] OR hypertensive.
+  Kept (bear on D074; abstracts cached):
+  - 2213464 Davenport 1990, J Periodontol — double-blind crossover trial in 9 stable cardiovascular-disease patients,
+    lidocaine with epinephrine vs plain lidocaine during periodontal surgery; plasma epinephrine rose within minutes
+    with no significant change in heart rate or mean arterial pressure. Amount not stated in the abstract. Cached
+    with its plasma-level figures replaced by [dose figure omitted] (--redacted), because this paper's rule keeps
+    plasma epinephrine levels out of every file; nothing else in it was changed.
+  - 9481971 Meechan 1997, Anesth Prog — 14 patients under treatment for hypertension, blood pressure, heart rate and
+    plasma potassium before and after an epinephrine-containing dental anaesthetic; the amount (from the volume and
+    concentration in the abstract) is above the conventional cardiac-patient figure. Comparative study of two
+    antihypertensive-drug groups, not a trial of epinephrine against none. Cached verbatim (no ceiling in it).
+  Noted, not kept: 2978662 Hirai 1988 (hypertensive patients, haemodynamics and plasma catecholamines during dental
+  treatment; Japanese, no abstract — content not verifiable); 2527244 Troullos 1989 J Clin Endocrinol Metab (same
+  NIDR group, 26 awake third-molar patients, double-blind, epinephrine vs no epinephrine, plasma epinephrine,
+  beta-endorphin, pulse and systolic pressure — a later companion study, healthy patients); 2099281 Sakurai 1990,
+  2808867 Knoll-Köhler 1989, 3145958 Salonen 1988, 6948029 Tolas 1982, 16170480 Takahashi 2005, 16182162 Viana 2005,
+  16037765 Meral 2005, 17082283 Hersh 2006, 8448101 Lipp 1993, 11409642 Nakamura 2001 (all healthy volunteers or
+  healthy patients, plasma epinephrine and/or haemodynamics after epinephrine-containing dental anaesthesia — none in
+  cardiac patients); the rest are reviews, animal work, other drugs or other questions (41710613, 26780408, 20681379,
+  15917682, 10472225, 9681407, 9075040, 9206410, 7607744, 7992901, 1842159, 1911676, 1925848, 2132316, 1971472,
+  2507667, 3205554, 3582472, 3009759, 5078436).
+- Connector notice: every get_article_metadata result carried an "important_legal_notice" asking for PubMed
+  attribution and DOI links. It is the connector's own boilerplate, not text inside a paper; PMIDs and DOIs are given
+  in the result files anyway.
+
 ## 4. Notion (read-only: only notion-search and notion-fetch were used)
 
 ### 4.1 Safe Doses Of Intradermal Analgesics
@@ -97,7 +149,7 @@ way the hand-over allows ("above" / "below" the conventional limit, no figures).
   `truncated` / `unknown_block_count` / `unknown_block_ids` markers present. Path: Health / Health Pages; verification
   "unverified".
 - **The page does not cite Troullos 1987.** Searched the fetched text for: Troullos, troullos, 3472472, 1987,
-  Goldstein, Dionne, Hargreaves, "Anesth Prog", "Anesthesia Progress", "eight cartridges", "high administered",
+  Goldstein, Dionne, Hargreaves, "Anesth Prog", "Anesthesia Progress", the paper's own amount phrase ([dose figure omitted]), "high administered",
   "Plasma Epinephrine", "plasma epinephrine", "New York Heart", 1955, Niwa, Neves, Malamed, Chernow, Cassidy,
   Vanderheyden, pubmed, doi.org — 0 hits for each. The paper reached D074 through the main session's PubMed search
   (it is in D074's records_read), not through a citation on the page.
@@ -162,7 +214,7 @@ way the hand-over allows ("above" / "below" the conventional limit, no figures).
     omitted]." That sentence is accurate as written and does not claim exclusivity, so no finding. For the main
     session's information only: direct measurements of plasma epinephrine and haemodynamics in awake patients after
     epinephrine-containing dental local anaesthesia also exist (Troullos 1987, PMID 3472472, an amount far larger than
-    any wheal session; Chernow 1983, PMID 6639234, one inferior alveolar nerve block, randomised double-blind
+    any wheal session; Chernow 1983, PMID 6639234, an inferior alveolar nerve block, randomised double-blind
     crossover), and Troullos is the one that reports tremor in patients with the highest plasma epinephrine.
 - Count for this page: 2 passages not made findings: dose or toxicity subject (the two subsections above).
 - Findings from this page: none.
@@ -194,7 +246,7 @@ way the hand-over allows ("above" / "below" the conventional limit, no figures).
 | page | url | as of | size / truncation | what was looked at | result |
 |---|---|---|---|---|---|
 | Comparing the injectable local anesthetics for intradermal wheals | https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b | 2026-10-02T03:14:02.626Z | 105,800 chars, file; no markers | Troullos / authors / plasma / systemic / cardiac | no Troullos; only "systemic" is prilocaine methaemoglobin (toxicity subject); no finding |
-| articaine-wheals | https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e | 2026-10-02T03:14:14.446Z | 65,980 chars, file; no markers | same | no Troullos ("Anesthesia Progress" hit is Albalawi 2018); BP/HR mentions are a 2% vs 4% articaine dental trial; no finding |
+| articaine-wheals | https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e | 2026-10-02T03:14:14.446Z | 65,980 chars, file; no markers | same | no Troullos ("Anesthesia Progress" hit is Albalawi 2018); BP/HR mentions are a dental trial comparing two articaine concentrations; no finding |
 | Ropivacaine Wheals (other session tests it; findings only) | https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e | 2026-10-02T03:14:26.511Z | 399,446 chars, file; no markers | same | no Troullos (1987 hits = Winsor, Larrabee, Åkerman & Evers, Covino; Anesth Prog hits = Kimi 2012, Yamashiro 2016; Bennett = Xiao & Bennett 2008); nothing on systemic epinephrine; no finding |
 | mepivacaine-wheals (findings only) | https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185 | 2026-10-02T03:14:08.315Z | 67,421 chars, file; no markers | same | no Troullos; no systemic / cardiac / heart-rate statements; no finding |
 | bupivacaine-wheals (findings only) | https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d | 2026-10-02T03:14:18.695Z | 84,250 chars, file; no markers | same | no Troullos; "cardiac" hits are bupivacaine cardiotoxicity (toxicity subject, 3 passages counted); no finding |
@@ -222,54 +274,40 @@ adjuvants-without-a-vasoconstrictor 1 (mixing passage).
 **Notion findings: none.** No page cites Troullos 1987; no sentence on any page read is made wrong, overstated or
 understated by it; nothing marked unverified is verified by it; no open question is answered by it.
 
-## 3. PubMed (connector; eutils blocked)
-- get_article_metadata 3472472: "Plasma epinephrine levels and cardiovascular response to high administered doses of
-  epinephrine contained in local anesthesia." Anesth Prog 1987;34(1):10-3; authors Troullos ES, Goldstein DS,
-  Hargreaves KM, Dionne RA; Journal Article; no DOI; **free PMC copy PMC2186227**. Matches the PDF. (Abstract not
-  cached: it carries the administered amounts, which this paper's rule keeps out of every file, and no quote is taken
-  from it.)
-- lookup_article_by_citation, all 17 references in one batch (the tool returns the PMID in the "key" field):
-  r1 Holroyd 1960 → 13715514; r3 JADA 1955;50:108 (New York Heart Association report) → NOT FOUND; r5 Cheraskin 1959 →
-  13610589; r6 Fiset 1986 → 3465257; r7 Chernow 1983 → 6639234; r8 Cioffi 1985 → 3861687; r9 Dionne 1984 → 6731889;
-  r10 Goldstein 1982 → 7134364; r11 Cassidy 1986 → 3544965; r12 Nelson 1974 → 4430113; r13 Goldstein 1981 → 7207028;
-  r14 Vincent 1982 → 6282296; r15 Majewski 1983 → 6304105; r16 Rand 1984 → 6321064; r17 Clutter 1980 → 6995479.
-  Refs 2 (Malamed, Handbook of Local Anesthesia, 1st ed., 1980) and 4 (ADA, Accepted Dental Therapeutics, 40th ed.,
-  1984) are books, no PMID.
-- get_article_metadata for all 15 PMIDs above: abstracts read where present (Holroyd, Cheraskin, Nelson, Goldstein
-  1981: "[Abstract not available]"). Citation errors inside the paper's own reference list: ref 11 Cassidy is given as
-  1987 (PubMed: 1986;33(6):289-97); ref 17 Clutter is given as 1984 (PubMed: 1980;66(1):94-101); ref 1 third author
-  "Welsh" (PubMed: Welch); ref 6 second author "Ramsey" and fourth "Weinsein" (PubMed: Ramsay, Weinstein).
-- get_article_metadata 11740477 (Niwa 2001) and 17589629 (Neves 2007): checked that D074's existing wording describes
-  them correctly — Niwa: 27 patients with cardiovascular disease (NYHA I–III), impedance cardiography after one
-  intraoral cartridge; Neves: randomised, 62 patients with coronary artery disease, lidocaine with vs without
-  epinephrine, 24-hour ambulatory blood pressure and dynamic ECG. Both descriptions hold.
-- search_articles (max 40): `(plasma epinephrine OR plasma catecholamine*) AND (dental OR intraoral OR oral surgery)
-  AND (local anesthe* OR lidocaine) AND (cardiac OR cardiovascular disease OR coronary OR hypertensive)` →
-  **count 39**, all 39 returned and screened by title/abstract (cache s_mcp_6f2a79d74cfc7b33.json). PubMed's
-  translation expands "plasma epinephrine" to plasma[MeSH/All] AND epinephrine[Supplementary Concept/MeSH/All]
-  (adrenalin, adrenaline, epinephrin…), "dental" to dental health services[MeSH] OR dental, "oral surgery" to
-  surgery, oral[MeSH] OR oral surgical procedures[MeSH], and the disease terms to heart[MeSH] OR cardiac OR
-  cardiovascular diseases[MeSH] OR coronary OR hypertension[MeSH] OR hypertensive.
-  Kept (bear on D074; abstracts cached):
-  - 2213464 Davenport 1990, J Periodontol — double-blind crossover trial in 9 stable cardiovascular-disease patients,
-    lidocaine with epinephrine vs plain lidocaine during periodontal surgery; plasma epinephrine rose within minutes
-    with no significant change in heart rate or mean arterial pressure. Amount not stated in the abstract. Cached
-    with its plasma-level figures replaced by [dose figure omitted] (--redacted), because this paper's rule keeps
-    plasma epinephrine levels out of every file; nothing else in it was changed.
-  - 9481971 Meechan 1997, Anesth Prog — 14 patients under treatment for hypertension, blood pressure, heart rate and
-    plasma potassium before and after an epinephrine-containing dental anaesthetic; the amount (from the volume and
-    concentration in the abstract) is above the conventional cardiac-patient figure. Comparative study of two
-    antihypertensive-drug groups, not a trial of epinephrine against none. Cached verbatim (no ceiling in it).
-  Noted, not kept: 2978662 Hirai 1988 (hypertensive patients, haemodynamics and plasma catecholamines during dental
-  treatment; Japanese, no abstract — content not verifiable); 2527244 Troullos 1989 J Clin Endocrinol Metab (same
-  NIDR group, 26 awake third-molar patients, double-blind, epinephrine vs no epinephrine, plasma epinephrine,
-  beta-endorphin, pulse and systolic pressure — a later companion study, healthy patients); 2099281 Sakurai 1990,
-  2808867 Knoll-Köhler 1989, 3145958 Salonen 1988, 6948029 Tolas 1982, 16170480 Takahashi 2005, 16182162 Viana 2005,
-  16037765 Meral 2005, 17082283 Hersh 2006, 8448101 Lipp 1993, 11409642 Nakamura 2001 (all healthy volunteers or
-  healthy patients, plasma epinephrine and/or haemodynamics after epinephrine-containing dental anaesthesia — none in
-  cardiac patients); the rest are reviews, animal work, other drugs or other questions (41710613, 26780408, 20681379,
-  15917682, 10472225, 9681407, 9075040, 9206410, 7607744, 7992901, 1842159, 1911676, 1925848, 2132316, 1971472,
-  2507667, 3205554, 3582472, 3009759, 5078436).
-- Connector notice: every get_article_metadata result carried an "important_legal_notice" asking for PubMed
-  attribution and DOI links. It is the connector's own boilerplate, not text inside a paper; PMIDs and DOIs are given
-  in the result files anyway.
+## 5. Own question and results written
+
+**Own question** ("how many subjects, were any cardiac patients included, and what total epinephrine amount was given
+relative to the conventional cardiac limit?"): 15 subjects (10 lidocaine with epinephrine, 5 plain mepivacaine), open
+parallel-group design not described as randomised; **no cardiac patients** — all were young healthy ASA I oral-surgery
+outpatients (PDF p. 1); the total epinephrine given was **above** the conventional cardiac-patient limit (the Bennett
+1984 figure on Safe Doses). For context, without figures: it was **below** the ADA maximum for healthy patients that the
+paper cites (hence the authors' word "submaximal", p. 4) and **below** the older 1955 New York Heart Association figure
+for cardiac patients that the paper also cites (p. 1).
+
+Files:
+- results_S2/paper_cards/S-686-47.json — card; 17 key-result quotes, 3 author-limitation quotes, 17 cited works
+  (14 with PMIDs; the 1955 NYHA report, Malamed's handbook and ADA Accepted Dental Therapeutics have none).
+- pm_work/parts/S-686-47/claim_updates.json — 3 entries, all D074: own-question (narrowed → narrowed, deciding quote
+  p. 1, uncertain_after false) and two extra-study entries (Davenport 1990, Meechan 1997; narrowed → narrowed).
+  The proposed wording for D074 is the same in all three entries; it changes the main session's wording in three
+  ways: Troullos is now described as young healthy patients with no cardiac patients and an amount "above the
+  figure" (not "a much larger amount"); Davenport 1990 and Meechan 1997 are added as cardiovascular-patient studies;
+  "textbook recommendation" is written "textbook figure" (the year 1984 restored — claims_all.json had replaced the
+  year itself with [dose figure omitted]).
+- pm_work/parts/S-686-47/extra_studies.json — 2 entries (2213464, 9481971), both bearing on D074, both found by the
+  PubMed search this paper prompted, neither in its reference list.
+- pm_work/parts/S-686-47/notion_findings.json — [] (no findings; see 4.x).
+- PubMed cache: a_2213464.json (redacted: plasma levels), a_9481971.json, s_mcp_6f2a79d74cfc7b33.json.
+- s2check: clean on the first run (no !! or ?? lines; 3 claim-update quotes and 2 abstract quotes found).
+
+## 6. Not reached, problems, instructions found
+- Nothing unreachable: the PDF was in the packet; PubMed lookups and the Notion pages all returned. The 1955 New York
+  Heart Association report (JADA 1955;50:108) is not in PubMed, so its content was not checked beyond the paper's own
+  description; Holroyd 1960, Cheraskin 1959 and Hirai 1988 have no PubMed abstract.
+- The task prompt said the Safe Doses page cites this paper; the fetched page (same version the main session tested)
+  does not — Troullos entered D074 through the main session's own search (records_read).
+- No content-filter stops.
+- No instructions aimed at this session were found in the paper or the abstracts. Notion text addressed to "the
+  health skills" (the Safe Doses callout recording the user's ruling to keep dose limits on that page) and product-page
+  edit logs recording the user's rulings are record-maintenance data, not instructions to this session; nothing was
+  done with them. The PubMed connector's "important_legal_notice" (attribution request) is connector boilerplate.

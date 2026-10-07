@@ -42,5 +42,71 @@
   ],
   "what_it_shows": "Wiesmann reference 9. 48 rats; laser Doppler nerve blood flow for 30 min after topical saline, lidocaine, levobupivacaine, ropivacaine, or ropivacaine with epinephrine (a concentration higher than C074's), and histology at 48 h. All local anaesthetics reduced nerve blood flow; adding epinephrine did not reduce it further than ropivacaine alone; no significant histological change at 48 h. A further nerve blood-flow measurement with epinephrine that C074's records did not list, not at C074's concentration.",
   "quote_from_abstract": "The combination of ropivacaine [dose figure omitted] plus epinephrine did not reduce nerve blood flow to a greater extent than ropivacaine [dose figure omitted] alone."
+ },
+ {
+  "pmid": "26857314",
+  "citation": "Choi CH, Pak SC, Jang CH. Effect of local anesthesia on facial nerve blood flow and muscle action potential. Int J Pediatr Otorhinolaryngol 2016;82:43-6",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C074",
+   "C085"
+  ],
+  "what_it_shows": "Found by a PubMed search on nerve blood flow and epinephrine run for this paper (not in Wiesmann's reference list). Rat facial nerve, gelfoam soaked in lidocaine with or without epinephrine laid on the nerve for 30 min (n = 5 per group): facial nerve blood flow fell, more with epinephrine than with lidocaine alone, and conduction threshold rose then recovered. Epinephrine concentration higher than C074's, so not a second measurement at that concentration.",
+  "quote_from_abstract": "Synergistic reduction in FNBF was greater in groups A and B than in the lidocaine applied groups (C and D)."
+ },
+ {
+  "pmid": "10374827",
+  "citation": "Ibrahim S, Laude EA, Bee D, Eaton S, Ward JD, Harris ND. Combined microlightguide spectrophotometry and microendoscopy for measurement of oxygen saturation in peripheral nerves. Physiol Meas 1999;20(1):65-73",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Wiesmann reference 29. Measured nerve oxygen saturation and nerve perfusion together in the sciatic nerves of 12 healthy rats (no drug applied); nerve saturation fell with systemic hypoxia. Bears on the Lidocaine With Epinephrine Wheals page's description of Wiesmann as 'the one study that measured flow and oxygen on the same nerve' (true only for studies with a local anaesthetic). No tested claim.",
+  "quote_from_abstract": "We have used a combination of microlightguide spectrophotometry and microendoscopy to measure intravascular oxygen saturation (HbSaO2%) and monitor blood flow in the sciatic nerve of 12 healthy male Sprague-Dawley rats."
+ },
+ {
+  "pmid": "11884905",
+  "citation": "Shishido H, Kikuchi S, Heckman H, Myers RR. Dexamethasone decreases blood flow in normal nerves and dorsal root ganglia. Spine 2002;27(6):581-6",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C013",
+   "C025",
+   "D019"
+  ],
+  "what_it_shows": "Found by a PubMed search on adjuvants and nerve blood flow run for this paper (not in Wiesmann's reference list). Rat sciatic nerve, laser Doppler: topical dexamethasone significantly reduced nerve blood flow at 30 min and 4 h (some animals first showed a brief rise), with only minimal oedema on histology at 2-6 days. Evidence that dexamethasone acts on nerve vessels, against the adjuvants page's 'no action on a blood vessel at all'.",
+  "quote_from_abstract": "Dexamethasone causes statistically significant reductions in normal nerve blood flow at 30 minutes and 4 hours after topical application; however, the reduction is on average below the threshold for causing ischemic changes in the structure of peripheral nerve fibers."
+ },
+ {
+  "pmid": "11270027",
+  "citation": "Fukusaki M, Miyako M, Nakamura T, Miyoshi H, Sumikawa K, Konishi H, Hara S. Perineural injection to nerve root and radicular blood flow: a clinical study during spinal surgery. Eur J Anaesthesiol 2001;18(2):70-4",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C025",
+   "D019"
+  ],
+  "what_it_shows": "Found by the same search (not in Wiesmann's reference list). Randomised trial in 30 patients during lumbar discectomy: laser Doppler on the exposed nerve root before and 15 min after perineural saline, lidocaine or dexamethasone; radicular blood flow did not change in any group. The one human nerve-root flow measurement after dexamethasone: no short-term change, unlike rat sciatic nerve (Shishido 2002).",
+  "quote_from_abstract": "The results suggest that the perineural injection of [dose figure omitted] lidocaine or dexamethasone does not affect radicular blood flow during lumbar discectomy."
+ },
+ {
+  "pmid": "8338750",
+  "citation": "Andersen P, Milioni K, Maibach H. The cutaneous corticosteroid vasoconstriction assay: a reflectance spectroscopic and laser-Doppler flowmetric study. Br J Dermatol 1993;128(6):660-5",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C013",
+   "C025",
+   "D019"
+  ],
+  "what_it_shows": "Found by a PubMed search on dexamethasone and skin vasoconstriction run for this paper (not in Wiesmann's reference list). Human skin, topical corticosteroids under occlusion, visual scoring, reflectance spectroscopy and laser Doppler: dexamethasone caused significant visible blanching, mainly venoconstriction (fall in deoxygenated haemoglobin) without a significant fall in laser-Doppler flow. Direct human evidence that dexamethasone acts on skin vessels.",
+  "quote_from_abstract": "Fluocinolone acetonide, betamethasone-17-valerate and dexamethasone also caused visible blanching (P < 0.01)."
+ },
+ {
+  "pmid": "12564951",
+  "citation": "Anderson CR, Morris RL, Boeh SD, Panus PC, Sembrowich WL. Effects of iontophoresis current magnitude and duration on dexamethasone deposition and localized drug retention. Phys Ther 2003;83(2):161-70",
+  "found_in_paper": "S-686-38",
+  "bears_on_claim_ids": [
+   "C013",
+   "C025",
+   "D019"
+  ],
+  "what_it_shows": "Found by the same search (not in Wiesmann's reference list). Dexamethasone driven into human skin by iontophoresis in volunteers produced visible cutaneous vasoconstriction, used by the authors as the sign that the drug had reached the vessels. A second human observation of dexamethasone constricting skin vessels.",
+  "quote_from_abstract": "Delivery of DEX/DEX-P to at least the depths of the vasculature in humans was confirmed by observation of cutaneous vasoconstriction."
  }
 ]

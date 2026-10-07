@@ -1,0 +1,41 @@
+[
+ {
+  "claim_id": "D074",
+  "paper_id": "S-686-47",
+  "pmid": "3472472",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "The study was an open, parallel group design conducted in oral surgery outpatients. The subjects were 15 young (mean age 22.5 years), healthy (ASA class I) men (n=9) and women (n=6) who were free of allergy to any of the test medications.",
+  "page": 1,
+  "proposed_wording": "A textbook figure from 1984 with no trial deriving it; later reviews state plainly that scientific evidence supporting this dose is lacking. Clinical studies around and above that amount do exist - in patients with cardiovascular disease, haemodynamic measurement by impedance cardiography (Niwa 2001), a double-blind crossover trial with plasma epinephrine (Davenport 1990), blood pressure and heart rate in treated hypertension after an amount above the figure (Meechan 1997) and a randomised trial with 24-hour monitoring in coronary artery disease (Neves 2007); and, in young healthy oral-surgery patients with no cardiac patients included, plasma-epinephrine and haemodynamic measurement after an amount above the figure (Troullos 1987, n = 15) - but none establishes the figure as a threshold.",
+  "reason": "Answer to the question: Troullos 1987 had 15 subjects (10 given lidocaine with epinephrine, 5 given plain mepivacaine) in an open parallel-group comparison not described as randomised; all were young healthy ASA I oral-surgery outpatients, so no cardiac patients were included; and the total epinephrine given was above the conventional cardiac-patient limit this page cites (Bennett 1984), though below the ADA maximum for healthy patients and below the older 1955 New York Heart Association figure for cardiac patients, both of which the paper itself cites. It matches the claim's intervention element (an amount above the cardiac limit) and a haemodynamic outcome, but misses the population (no cardiac patients), records no ischaemia or arrhythmia endpoint and neither tests nor supports the limit, so it leaves the verdict at narrowed, which rests on the cardiac-patient studies (Niwa 2001, Neves 2007, and Davenport 1990 and Meechan 1997 found by a search this paper prompted). The full text also corrects the earlier description of Troullos as 'a general dental population': its subjects were young and healthy."
+ },
+ {
+  "claim_id": "D074",
+  "paper_id": "",
+  "pmid": "2213464",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Nine stable cardiovascular disease patients were evaluated in a double-blind cross-over trial during periodontal surgery using [dose figure omitted] or lidocaine alone. ... Despite these elevations in epinephrine, no significant changes in heart rate or mean arterial pressure were noted.",
+  "page": 0,
+  "proposed_wording": "A textbook figure from 1984 with no trial deriving it; later reviews state plainly that scientific evidence supporting this dose is lacking. Clinical studies around and above that amount do exist - in patients with cardiovascular disease, haemodynamic measurement by impedance cardiography (Niwa 2001), a double-blind crossover trial with plasma epinephrine (Davenport 1990), blood pressure and heart rate in treated hypertension after an amount above the figure (Meechan 1997) and a randomised trial with 24-hour monitoring in coronary artery disease (Neves 2007); and, in young healthy oral-surgery patients with no cardiac patients included, plasma-epinephrine and haemodynamic measurement after an amount above the figure (Troullos 1987, n = 15) - but none establishes the figure as a threshold.",
+  "reason": "Found by a PubMed search prompted by Troullos 1987 (S-686-47) for plasma-epinephrine studies after dental anaesthesia in cardiovascular patients; it is not in Troullos's reference list. A double-blind crossover trial in stable cardiovascular-disease patients measuring plasma epinephrine, heart rate and mean arterial pressure after lidocaine with epinephrine versus plain lidocaine matches the population, design (a trial) and outcome elements, so on its own it would narrow 'no supporting trial'. The amount given is not stated in the abstract and the study does not test the figure as a threshold, so it corroborates narrowed rather than refuting the claim."
+ },
+ {
+  "claim_id": "D074",
+  "paper_id": "",
+  "pmid": "9481971",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Blood pressure, heart rate, and plasma potassium concentration were measured before and 10 min following the injection of [dose figure omitted] in 14 patients receiving treatment for hypertension. ... No significant changes in systolic or diastolic blood pressures were detected between groups at 10 min.",
+  "page": 0,
+  "proposed_wording": "A textbook figure from 1984 with no trial deriving it; later reviews state plainly that scientific evidence supporting this dose is lacking. Clinical studies around and above that amount do exist - in patients with cardiovascular disease, haemodynamic measurement by impedance cardiography (Niwa 2001), a double-blind crossover trial with plasma epinephrine (Davenport 1990), blood pressure and heart rate in treated hypertension after an amount above the figure (Meechan 1997) and a randomised trial with 24-hour monitoring in coronary artery disease (Neves 2007); and, in young healthy oral-surgery patients with no cardiac patients included, plasma-epinephrine and haemodynamic measurement after an amount above the figure (Troullos 1987, n = 15) - but none establishes the figure as a threshold.",
+  "reason": "Found by the same PubMed search prompted by Troullos 1987 (S-686-47); not in its reference list. Meechan 1997 matches the population (patients under treatment for hypertension), the intervention (an amount above the conventional cardiac-patient limit, worked out from the volume and concentration in the abstract) and a haemodynamic outcome. It compares two antihypertensive-drug groups rather than testing the limit and has no ischaemia or arrhythmia endpoint, so it corroborates narrowed without establishing or supporting the figure."
+ }
+]

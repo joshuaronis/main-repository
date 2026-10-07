@@ -1,0 +1,17 @@
+{
+ "pmid": "40641322",
+ "year": "2025",
+ "first_author": "Yalçın",
+ "title": "Local Anesthetic-Related Methemoglobinemia During Cardiac Device Implantation; A Retrospective Registry: The LAMDA Study.",
+ "journal": "Turk Kardiyol Dern Ars",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.5543/tkda.2025.62884",
+ "pmcid": "",
+ "abstract": "This study aimed to determine the frequency of methemoglobin development and identify associated factors in patients undergoing Implantable Cardioverter-Defibrillator (ICD) and Cardiac Resynchronization Therapy (CRT) procedures with the local anesthetic prilocaine.\n\nData from 64 patients were analyzed. The patients' methemoglobin levels before and after the procedure were measured and compared. The relationships between the results and factors such as creatinine, hemoglobin, BMI, and the amount of prilocaine used were examined. Exclusion criteria included: age under 18 years, pregnancy, breastfeeding, malignancy, chemotherapy, hemoglobin chain disorders, liver failure, and renal failure (GFR <60 ml/min), chronic obstructive pulmonary disease, other hypoxic lung diseases and smoker patients.\n\nMethemoglobin levels were significantly higher in the first hour after the procedure (p < 0.001). Oxygen saturation levels were significantly lower during the first hour post-procedure (p < 0.001). In the group with elevated methemoglobin levels after the procedure, creatinine levels were significantly higher (p < 0.001), while BMI (p < 0.001) and hemoglobin levels (p < 0.001) were significantly lower. No significant relationship was found with ALT levels (p = 0.425).\n\nWhile significant methemoglobin elevation was observed following ICD/CRT procedures with prilocaine, clinically significant methemoglobinemia cases are rare. A significant relationship was identified between methemoglobin elevation and BMI, hemoglobin, and creatinine.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:26:24Z",
+ "retrieved_for": "S-686-27",
+ "redacted": false
+}

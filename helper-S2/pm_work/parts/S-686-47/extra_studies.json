@@ -1,0 +1,22 @@
+[
+ {
+  "pmid": "2213464",
+  "citation": "Davenport RE, Porcelli RJ, Iacono VJ, Bonura CF, Mallis GI, Baer PN. Effects of anesthetics containing epinephrine on catecholamine levels during periodontal surgery. J Periodontol 1990;61(9):553-8. doi:10.1902/jop.1990.61.9.553",
+  "found_in_paper": "S-686-47",
+  "bears_on_claim_ids": [
+   "D074"
+  ],
+  "what_it_shows": "Double-blind crossover trial in nine stable cardiovascular-disease patients during periodontal surgery, lidocaine with epinephrine versus plain lidocaine: plasma epinephrine rose within minutes of the epinephrine-containing injection with no significant change in heart rate or mean arterial pressure. Amount given not stated in the abstract. Not in Troullos's reference list (published later); found by a PubMed search prompted by this paper.",
+  "quote_from_abstract": "Nine stable cardiovascular disease patients were evaluated in a double-blind cross-over trial during periodontal surgery using [dose figure omitted] or lidocaine alone. ... Despite these elevations in epinephrine, no significant changes in heart rate or mean arterial pressure were noted."
+ },
+ {
+  "pmid": "9481971",
+  "citation": "Meechan JG. Plasma potassium changes in hypertensive patients undergoing oral surgery with local anesthetics containing epinephrine. Anesth Prog 1997;44(3):106-9. PMC2148929",
+  "found_in_paper": "S-686-47",
+  "bears_on_claim_ids": [
+   "D074"
+  ],
+  "what_it_shows": "Fourteen patients under treatment for hypertension (two groups: non-potassium-sparing diuretics, nonselective beta-blockers) had blood pressure, heart rate and plasma potassium measured before and after an epinephrine-containing dental anaesthetic, at an amount above the conventional cardiac-patient limit; no significant between-group difference in blood pressure, a between-group difference in heart-rate change, and a potassium fall in the diuretic group. Not a trial of epinephrine against none. Not in Troullos's reference list; found by a PubMed search prompted by this paper.",
+  "quote_from_abstract": "Blood pressure, heart rate, and plasma potassium concentration were measured before and 10 min following the injection of [dose figure omitted] in 14 patients receiving treatment for hypertension. ... No significant changes in systolic or diastolic blood pressures were detected between groups at 10 min."
+ }
+]

@@ -19,7 +19,7 @@ VERDICTS = {"confirmed", "narrowed", "refuted", "out-of-scope"}
 KINDS = {"own-question", "other-claim", "extra-study"}
 NKINDS = {"wrong-figure", "wrong-design", "overstated", "understated", "now-verified", "outdated", "citation-error",
           "open-question-answered", "ranking-reweigh"}
-UNIT = (r"(?:mg|g|kg|mcg|µg|μg|ug|ng|pg|mL|ml|cc|l|L|µl|μl|%|percent|per\s*cent|mmol|µmol|μmol|mM|µM|μM|nM|IU|U|units?|"
+UNIT = (r"(?:mg|g|kg|mcg|µg|μg|ug|ng|pg|microg|micrograms?|milligrams?|grams?|nanograms?|mL|ml|cc|l|L|µl|μl|µL|μL|millilit(?:re|er)s?|microlit(?:re|er)s?|%|percent|per\s*cent|mmol|µmol|μmol|mM|µM|μM|nM|IU|U|units?|"
         r"cartridges?|carpules?|ampoules?|ampules?|vials?|injections?|sites?|punctures?|deposits?|wheals?|blebs?|"
         r"points?|times|sessions?|doses?|applications?|patches?|tubes?)")
 DOSE = re.compile(r"(?<![\w.])\d[\d.,]*\s*(?:–|-|to)?\s*\d*[\d.,]*\s*" + UNIT + r"(?![\w])|\b1\s*:\s*\d{2,3}[ ,.]?\d{3}\b|"
