@@ -130,3 +130,103 @@ Abstracts cached: a_14058021, a_13729550, a_14774458 (all "[Abstract not availab
 amount and concentration), a_30934173 (redacted: tissue-oxygen readings, replaced out of caution rather than because
 the rule required it), a_266826 (redacted: injected amounts and concentrations), a_35470293 (redacted: the injected
 concentration), a_5960743, a_4652231, a_5336919 (no abstracts in PubMed).
+
+## 4. The own question, answered
+
+**"How long did Klingenstroem follow local tissue oxygen tension after adrenaline, and in what species?"**
+
+Species: **human** - nine healthy human subjects, volar forearm, both forearms. Not an animal study.
+Duration: **3.5 hours**, with readings at **1.5, 2.5 and 3.5 hours** after injection (PDF p2). No baseline reading, no
+reading before 1.5 hours, none after 3.5 hours. The discussion states the result as holding "after at least 3.5 hours"
+(PDF p4) and the colour observation ran from within minutes of injection; the felypressin-site pallor is described as
+persisting "for 3.5 hours or longer".
+Route: subcutaneous infiltration of lidocaine with each vasoconstrictor at three separate forearm sites, with the
+electrode at the injection depth. Not intradermal; no wheal.
+What it measured: local tissue-oxygen tension by a Clark polyethylene-membrane polarographic micro-electrode in an
+18-gauge needle, on a Beckman Physiological Gas Analyzer, reported only as a percentage of the felypressin site on the
+same forearm. Also skin colour.
+What the authors conclude about hypoxia and cyanosis: the central cyanosis in the adrenaline and noradrenaline zones and
+the lower tissue-oxygen tension there are, in their reading, signs of a local metabolic disturbance - a local rise in
+oxygen consumption caused by the catecholamine - with the cyanosis attributed to deoxygenated blood pooled in capillaries
+and venules dilated by acidosis between constricted vessels. Felypressin produced no cyanosis, and its zone read the same
+as non-infiltrated skin. They say felypressin "may be more harmless to the tissue" - an interpretation, not a measured
+tissue-injury outcome: no histology, no damage endpoint and no duration-of-anaesthesia measurement was taken.
+
+Effect on C084: the claim's element "the one study that measured skin oxygen for hours" is wrong - this is a human skin
+measurement over hours, published twenty years before Miller 1984. Miller remains the only **eight-hour** measurement,
+and the element the claim states last, "nobody has done the equivalent measurement in a human wheal", is still unmatched:
+this injection was subcutaneous, not a wheal, at a stronger adrenaline strength, with no plain-anaesthetic site and no
+absolute tensions. So the verdict stays **narrowed** (an element the claim states is unmatched, while the wording
+overreaches), with `uncertain_after` false. The current proposed wording's "up to two hours" for humans is also wrong
+and is replaced.
+
+## 5. Notion (read-only; notion-search and notion-fetch only)
+
+Searches (query -> number of results shown):
+1. "Klingenstrom Westermark 1964 tissue oxygen tension Octapressin" -> 17. No page naming the author.
+2. "felypressin Octapressin vasoconstrictor alternative to epinephrine" -> 25.
+3. "Pristesin F prilocaine felypressin dental cartridge Mexico" -> 15.
+4. "skin oxygen measured for hours after epinephrine injection human volunteers forearm" -> 13.
+Per the connector-behaviour rules, no conclusion was drawn from a search result or its highlights; every page below was
+fetched and its text searched for each spelling (Klingen / Klingenstrom / Klingenstroem, felypressin, Octapressin,
+octapressin, cyanos, tissue oxygen, oxygen tension, polarograph, hypoxi, vasopressin, blanch, pallor).
+
+Pages fetched (title | as of | truncation | what was found):
+- 💉 Lidocaine With Epinephrine Wheals | 2026-09-26T18:28:27.736Z | no truncation flags; verification "unverified" |
+  "Klingen" 0, "felypressin"/"Octapressin" 0, "cyanos" 0. Two sentences bear on the paper -> findings F01, F02. The
+  sentences relied on, verbatim: "It does not show that oxygen holds up in *skin*: the one study that measured skin
+  oxygen for hours found it halved and slow to recover, and although that study injected epinephrine with no anesthetic
+  in a rat, nobody has done the equivalent measurement in a human wheal."; "Next: animal, intact skin. Adds hours of
+  recording and adds tissue oxygen, at the cost of the species difference."; and, checked and found correct, "it is the
+  only study in this literature that measured tissue oxygen for eight hours" and the Sources entry calling Miller "the
+  only eight-hour tissue-oxygen measurement" (both accurate - eight hours is unmatched) and "neither is a measurement of
+  a [dose figure omitted] wheal of [dose figure omitted] in a human leg. Nobody has made that measurement." (accurate).
+  The page already cites Bunke 2022 in its Sources, so that study is new only relative to C084's records_read.
+- prilocaine-wheals | 2026-10-02T03:14:12.541Z | no truncation flags | "felypressin" 24, "Klingen" 0. Findings F03, F04.
+  Sentences relied on, verbatim: "It is not adrenaline and it does not behave like adrenaline in tissue."; "And whatever
+  its potency relative to adrenaline, it is in the cartridge for the same purpose: to narrow the vessels around the
+  injection so the drug leaves more slowly. Rejecting vasoconstriction rejects this too, on the same grounds - and the
+  observation that drove that rejection, blanching outlasting the analgesia, argues for more suspicion of a
+  longer-acting peptide, not less."; and the Olgart source entry's "Limits: cats, dental pulp, a tissue enclosed in
+  rigid bone and unlike skin." Its "What has no source" section does not list the blanching inference.
+- 🔬 The intradermal wheal literature nobody cites | 2026-10-02T03:14:04.610Z | no flags | Klingen/felypressin/oxygen 0.
+  No finding. It carries a note addressed to the person, not to me: "Own-use marker (2026-10-01): the passage below is
+  the user's own use, left here for him to move to Stack & Experience History; it is not research." Recorded, not acted on.
+- Comparing the injectable local anesthetics for intradermal wheals | 2026-10-02T03:14:02.626Z | no flags | "felypressin"
+  2, "Klingen" 0. Its absence sentence is about blood flow at a wheal, which this paper did not measure. No finding.
+- Ropivacaine Wheals | 2026-10-02T03:14:26.511Z | no flags | "felypressin" 1 (anaesthetic-vasoconstrictor antagonism,
+  Fruhstorfer 1993), "Klingen" 0. No finding.
+- mepivacaine-wheals | 2026-10-02T03:14:08.315Z | no flags | zero hits on every term. No finding.
+- bupivacaine-wheals | 2026-10-02T03:14:18.695Z | no flags | zero hits on every term. No finding.
+- adjuvants-without-a-vasoconstrictor | 2026-10-02T03:14:20.685Z | no flags | "vasopressin" 4 (all Tripovic's receptor
+  reactivity after denervation), "Klingen"/"felypressin" 0. No finding.
+- 2 - Reference - Topical Treatments for SFN (source register S1-S457) | 2026-10-01T02:05:48.095Z | no flags |
+  "Klingen" 0, "felypressin" 0, "tissue oxygen" 0, "polarograph" 0, "1:400,000" 0. The register does not cover the
+  epinephrine-wheal topic at all. Its single "hypoxi" hit is inside a systemic-toxicity treatment passage, which under
+  the filter rule is not reproduced. No finding.
+- 1 - Product Guide | 2026-10-02T03:14:29.224Z | no flags | "Klingen"/"felypressin"/"tissue oxygen"/"cyanos"/"blanch" 0;
+  its three "oxygen" hits are methaemoglobin, a light-therapy trial and a toxicity-treatment passage. No finding.
+- 5 - Soft ground in these documents | 2026-09-26T18:26:13.509Z | read in full, no flags | nothing on this topic.
+- What is still unsettled across these pages | 2026-09-26T18:23:10.973Z | no flags | one "oxygen" hit, inside a
+  methaemoglobin and dose-ceiling passage (not reproduced). No open question on this paper's topic. No finding.
+- 🕳️ What was searched for and does not exist | 2026-09-27T00:27:49.877Z | no flags | zero hits for epinephrine,
+  adrenaline, oxygen, wheal, felypressin. Nothing on this topic is registered there. No finding.
+- Small Fiber Neuropathy - Intradermal vs. Subcutaneous Injection Routing Analysis | 2026-09-26T18:19:51.310Z | no flags
+  | zero hits for Klingen, felypressin, tissue oxygen, cyanosis. Its one absence sentence is about measuring a drug
+  separately in epidermis and dermis, which this paper did not do. No finding.
+- Safe Doses Of Intradermal Analgesics | 2026-10-02T03:13:58.754Z | no flags | "felypressin" 4, all inside dose and
+  product-strength statements. Under the filter rule its dose-subject sentences were not re-judged or written out, and
+  no finding is recorded from it.
+
+Not reached / not checked: "What transfers from diabetic neuropathy trials to idiopathic small fiber neuropathy" and the
+topical-series hub were not fetched - neither surfaced in any of the four searches and neither is a treatment page for
+this drug, route or outcome. Individual Buying Decisions & Info product pages were not fetched one by one; the searches
+that would surface a felypressin or tissue-oxygen statement in them returned only dental-depot price pages and
+lidocaine-with-epinephrine cartridge pages, whose evidence sentences are about duration and dose rather than tissue
+oxygen.
+
+## 6. Nothing was stopped by the content filter in any results write
+
+The one filter stop in this session (section 2) hit a screening script, not a results file. All four result files, the
+paper card and these notes were written without interruption. No item is recorded as "not done: stopped by the content
+filter".

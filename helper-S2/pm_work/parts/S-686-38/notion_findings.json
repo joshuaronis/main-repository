@@ -103,6 +103,54 @@
   "page_in_paper": 0,
   "corrected_wording": "That result contradicts Myers, although Palmer's epinephrine concentration was higher than the one Myers used, which sharpens the disagreement rather than explaining it. The two also differ in instrument and in route, and none of the three differences has been isolated.",
   "importance": "medium",
-  "notes": "Rests on two studies from Wiesmann's reference list (refs 4 and 22; abstracts cached as a_2817471 and a_12351299): Myers 1989 applied epinephrine at a lower concentration than Palmer 2002 injected. The page's own Myers table and its Palmer paragraph state the two different concentrations. A reading of 'the same concentration' as the lidocaine strength (1 percent was common to both) is possible but less natural, since the preceding sentences are about epinephrine. Wiesmann used the same epinephrine concentration as Palmer."
+  "notes": "Rests on two studies from Wiesmann's reference list (refs 4 and 22; abstracts cached as a_2817471 and a_12351299): Myers 1989 applied epinephrine at a lower concentration than Palmer 2002 injected. The page's own Myers table and its Palmer paragraph state the two different concentrations. A reading of 'the same concentration' as the lidocaine strength (one lidocaine strength was common to both) is possible but less natural, since the preceding sentences are about epinephrine. Wiesmann used the same epinephrine concentration as Palmer."
+ },
+ {
+  "finding_id": "S2-S-686-38-F08",
+  "paper_id": "",
+  "pmid": "8338750",
+  "page": "adjuvants-without-a-vasoconstrictor",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
+  "page_version": "2026-10-02T03:14:20.685Z",
+  "section": "Adjuvants that lengthen a wheal without a vasoconstrictor > The recommendation",
+  "sentence_as_it_stands": "**Dexamethasone and magnesium are the only two agents here with no action on a blood vessel at all — and almost no evidence in skin.**",
+  "kind": "overstated",
+  "quote": "Fluocinolone acetonide, betamethasone-17-valerate and dexamethasone also caused visible blanching (P < 0.01).",
+  "page_in_paper": 0,
+  "corrected_wording": "Dexamethasone and magnesium have almost no evidence in skin as adjuvants, and neither is free of vascular effects: dexamethasone applied to human skin causes visible blanching (Andersen 1993; also after iontophoresis, Anderson 2003) and applied to rat sciatic nerve it reduced nerve blood flow (Shishido 2002), while magnesium injected into skin caused a flare (Ushida 2009).",
+  "importance": "high",
+  "notes": "Not from Wiesmann's reference list: found by PubMed searches run while checking Wiesmann (which measured clonidine's effect on nerve flow and oxygen) for what is known about the other adjuvants' vascular effects — human skin: Andersen 1993 (8338750), Anderson 2003 (12564951); rat nerve: Shishido 2002 (11884905); human nerve root, no change over 15 min: Fukusaki 2001 (11270027); all abstracts cached. The page's own question is 'does this drug lengthen a block by any route other than reducing blood flow in the skin', so classing dexamethasone as vessel-free is load-bearing for the recommendation. In Andersen the corticosteroid blanching was mainly venoconstriction without a significant fall in laser-Doppler flow; nobody has measured it at a wheal. Same premise in claims C025 (this sentence), C013 and D019; extra-study updates written, overall verdicts unchanged."
+ },
+ {
+  "finding_id": "S2-S-686-38-F09",
+  "paper_id": "",
+  "pmid": "11884905",
+  "page": "adjuvants-without-a-vasoconstrictor",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
+  "page_version": "2026-10-02T03:14:20.685Z",
+  "section": "The recommendation > What \"without a vasoconstrictor\" has to mean",
+  "sentence_as_it_stands": "- **Dexamethasone** is a **glucocorticoid** — a steroid that suppresses inflammation by switching off the genes that make inflammatory proteins. The prolongation is attributed partly to that and partly to a direct action on potassium channels in the nerve membrane. **No vessel.**",
+  "kind": "overstated",
+  "quote": "Dexamethasone causes statistically significant reductions in normal nerve blood flow at 30 minutes and 4 hours after topical application; however, the reduction is on average below the threshold for causing ischemic changes in the structure of peripheral nerve fibers.",
+  "page_in_paper": 0,
+  "corrected_wording": "Dexamethasone is a glucocorticoid — a steroid that suppresses inflammation by switching off the genes that make inflammatory proteins. The prolongation is attributed partly to that and partly to a direct action on potassium channels in the nerve membrane. It is not free of vascular action: dexamethasone blanches human skin (Andersen 1993) and topical dexamethasone reduced rat nerve blood flow (Shishido 2002), though perineural dexamethasone left human nerve-root blood flow unchanged over 15 minutes (Fukusaki 2001).",
+  "importance": "medium",
+  "notes": "Same premise as F08 in two more places on the page: the summary under the same list ('The agent with the skin measurement is the one with the vessel in it. The agents with no vessel in them have no skin measurement.' — claim C013) and the heading 'Dexamethasone — the largest evidence base, and the only mechanism with no vessel in it'. Provenance as F08 (topic searches, not Wiesmann's reference list)."
+ },
+ {
+  "finding_id": "S2-S-686-38-F10",
+  "paper_id": "",
+  "pmid": "8338750",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What ranks where, and what is the honest summary? > What would settle what is unresolved",
+  "sentence_as_it_stands": "**Is there any adjuvant that lengthens a skin block without narrowing a skin vessel?** The only one measured in skin lengthens the block by narrowing the vessel. Dexamethasone and magnesium act on no vessel at all and have almost no evidence in skin.",
+  "kind": "overstated",
+  "quote": "Fluocinolone acetonide, betamethasone-17-valerate and dexamethasone also caused visible blanching (P < 0.01).",
+  "page_in_paper": 0,
+  "corrected_wording": "Dexamethasone and magnesium have almost no evidence in skin as adjuvants, and neither acts on no vessel at all: dexamethasone visibly blanches human skin (Andersen 1993) and reduced rat nerve blood flow (Shishido 2002), and magnesium injected into skin caused a flare (Ushida 2009).",
+  "importance": "medium",
+  "notes": "Same premise as F08/F09 on the adjuvants page, here as claim D019's text (extra-study update written; D019's overall verdict stays refuted). The page repeats it in the pointer sentence under 'Can a block be lengthened without narrowing a blood vessel?' ('which agents act on no vessel at all'). Provenance: topic searches run while checking Wiesmann, not Wiesmann's reference list. The comparison page does not cite Wiesmann or any nerve blood-flow study."
  }
 ]
