@@ -1,0 +1,12 @@
+{
+ "query": "Hillerup S[Author] AND articaine AND sciatic nerve",
+ "max_results": 20,
+ "count": 1,
+ "translation": "hillerup s[Author] AND (\"carticaine\"[Supplementary Concept] OR \"carticaine\"[All Fields] OR \"articain\"[All Fields] OR \"carticaine\"[MeSH Terms] OR \"articaine\"[All Fields]) AND (\"sciatic nerve\"[MeSH Terms] OR (\"sciatic\"[All Fields] AND \"nerve\"[All Fields]) OR \"sciatic nerve\"[All Fields])",
+ "pmids": [
+  "21467556"
+ ],
+ "date_searched": "2026-10-07T23:33:15Z",
+ "searched_for": "S-686-01",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

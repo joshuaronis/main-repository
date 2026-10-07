@@ -1,9 +1,0 @@
-{
- "paper_id": "S-686-23",
- "right_paper": true,
- "text_ok": true,
- "own_question_answered": "yes",
- "claims_rejudged": 1,
- "notion_findings": 4,
- "notes": "D048 stays confirmed (uncertain_after false): Rames gave liposomal bupivacaine only as local infiltration of the surgical site and surrounding skin, naming subcutaneous tissue as the only plane; 'intradermal' never appears; no source matches humans + marketed product + intradermal. 2 extra studies (Apseloff 2013 -> D048; Jensen 2024 -> C043), no verdict changes. 4 Notion findings: F01/F02 outdated label route list on 'Injectables ruled out but not tried' (low; F02 ambiguous); F03 overstated uniqueness of methoxyflurane on 'What is still unsettled' (medium); F04 overstated 72-hour figure on 'Future Medications For Urge To Tense' (low, ambiguous). Re-screened with claims_view.py after the coordinator's message (C042 added and dropped). Not reached: route in Chang 2022 and Yadlapati 2021 Mohs letters and Sorenson 2019 review (no abstract, no free copy). Paper's own counts differ between abstract (140 administrations/129 patients) and results (136/127). No filter stops; no instructions found in documents."
-}

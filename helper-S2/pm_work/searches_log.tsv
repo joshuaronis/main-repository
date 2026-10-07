@@ -20,3 +20,7 @@
 2026-10-07T23:15:16Z	S-686-44	48	Bjorlin G[Author]
 2026-10-07T23:21:17Z	S-686-47	39	(plasma epinephrine OR plasma catecholamine*) AND (dental OR intraoral OR oral surgery) AND (local anesthe* OR lidocaine) AND (cardiac OR cardiovascular disease OR coronary OR hypertensive)
 2026-10-07T23:25:37Z	S-686-38	17	dexamethasone[tiab] AND (vasoconstriction[tiab] OR vasoconstrictor[tiab] OR blanching[tiab] OR "skin blood flow"[tiab]) AND (skin[tiab] OR cutaneous[tiab] OR intradermal[tiab] OR dermal[tiab]) AND humans[mh]
+2026-10-07T23:33:15Z	S-686-01	1	Hillerup S[Author] AND articaine AND sciatic nerve
+2026-10-07T23:33:23Z	S-686-23	7	(HTX-011[tiab] OR Zynrelef[tiab] OR "bupivacaine and meloxicam"[tiab] OR "bupivacaine/meloxicam"[tiab] OR "bupivacaine-meloxicam"[tiab]) AND (approv*[tiab] OR "Food and Drug Administration"[tiab] OR FDA[tiab] OR "European Medicines Agency"[tiab])
+2026-10-07T23:33:23Z	S-686-23	2	(Xaracoll[tiab] OR "INL-001"[tiab] OR "bupivacaine collagen"[tiab] OR "bupivacaine implant"[tiab] OR "bupivacaine-collagen"[tiab]) AND (approv*[tiab] OR FDA[tiab] OR "Food and Drug Administration"[tiab])
+2026-10-07T23:33:23Z	S-686-23	10	(Posimir[tiab] OR "SABER-bupivacaine"[tiab] OR "SABER-Bupivacaine"[tiab] OR "sucrose acetate isobutyrate"[tiab]) AND bupivacaine[tiab]

@@ -1,0 +1,21 @@
+{
+ "query": "(Posimir[tiab] OR \"SABER-bupivacaine\"[tiab] OR \"SABER-Bupivacaine\"[tiab] OR \"sucrose acetate isobutyrate\"[tiab]) AND bupivacaine[tiab]",
+ "max_results": 50,
+ "count": 10,
+ "translation": "(\"Posimir\"[Title/Abstract] OR \"saber bupivacaine\"[Title/Abstract] OR \"saber bupivacaine\"[Title/Abstract] OR \"sucrose acetate isobutyrate\"[Title/Abstract]) AND \"bupivacaine\"[Title/Abstract]",
+ "pmids": [
+  "38508691",
+  "36532336",
+  "35584248",
+  "34139983",
+  "33487831",
+  "31791561",
+  "31272651",
+  "30074492",
+  "24992382",
+  "22510183"
+ ],
+ "date_searched": "2026-10-07T23:33:23Z",
+ "searched_for": "S-686-23",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

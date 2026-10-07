@@ -1,0 +1,13 @@
+{
+ "query": "(Xaracoll[tiab] OR \"INL-001\"[tiab] OR \"bupivacaine collagen\"[tiab] OR \"bupivacaine implant\"[tiab] OR \"bupivacaine-collagen\"[tiab]) AND (approv*[tiab] OR FDA[tiab] OR \"Food and Drug Administration\"[tiab])",
+ "max_results": 50,
+ "count": 2,
+ "translation": "(\"Xaracoll\"[Title/Abstract] OR \"INL-001\"[Title/Abstract] OR \"bupivacaine-collagen\"[Title/Abstract] OR \"bupivacaine-collagen\"[Title/Abstract]) AND (\"approv*\"[Title/Abstract] OR \"FDA\"[Title/Abstract] OR \"Food and Drug Administration\"[Title/Abstract])",
+ "pmids": [
+  "38449985",
+  "37076252"
+ ],
+ "date_searched": "2026-10-07T23:33:23Z",
+ "searched_for": "S-686-23",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}
