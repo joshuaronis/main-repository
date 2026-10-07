@@ -311,3 +311,17 @@ Files:
   health skills" (the Safe Doses callout recording the user's ruling to keep dose limits on that page) and product-page
   edit logs recording the user's rulings are record-maintenance data, not instructions to this session; nothing was
   done with them. The PubMed connector's "important_legal_notice" (attribution request) is connector boilerplate.
+
+## 7. Brief section 6 applied (after the first hand-back)
+- Re-ran the claim screen with `pm_work/tools/claims_view.py grep` (masked) for the epinephrine/catecholamine,
+  plasma/systemic, haemodynamic/cardiac, dental and author/PMID term groups. Same candidates as section 2; five extra
+  hits in the viewer's field set (A036, A054, C025, C070, D041) were read with `show` (masked): systemic drug choice,
+  systemic drug vs infiltration, magnesium in skin, prilocaine methaemoglobin, contralateral-limb design — none bears on
+  Troullos. Result unchanged: D074 is the only claim the paper bears on.
+- Element check for D074 (lesson 2): no source matches every element. Troullos misses the population (no cardiac
+  patients); Niwa 2001's amount is below the figure; Neves 2007's and Davenport 1990's amounts are not in their
+  abstracts; Meechan 1997 is above the figure but neither a trial nor a test of the limit; none "supports that limit".
+  So narrowed stands, with the unmatched elements named in each reason.
+- Lesson 3: the two extra-study reasons were reworded to state the verdict each source supports on its own (narrowed
+  for both) and why neither refutes; verdicts unchanged.
+- Lesson 4: no Notion findings, nothing to change.
