@@ -1,0 +1,771 @@
+SOURCE FILE: S-686-44 - Klingenström 1964 - LOCAL TISSUE-OXYGEN TENSION AFTER ADRENALINE NORADRENALINE AND OCTAPRESSIN IN LOCAL ANAESTHESIA.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 6] =====
+Acta anaesth. Scandinau. 1964, 8, 261-266.
+
+LOCAL T I S S U E - O X Y G E N T E N S I O N AFTER
+ADRENALINE, NORADRENALINE
+AND OCTAPRESSIN" I N LOCAL ANAESTHESIA
+BY
+P. KLINGENSTROM
+and L. WESTERMARK
+
+The use of adrenaline and noradrenaline as vasoconstrictors in local anaesthesia may produce untoward effects. Other agents have therefore been tested,
+for example, phenylalanine,-Iysine8-vasopressin,which is known as Octapressin@,Sandoz. We have recently compared changes in the local colour
+of the skin following the administration of adrenaline and Octapressin when
+and L. WESTERMARK
+used as vasoconstrictors in lidocaine (P. KLINCENSTROM
+(1963p). After the initial pallor, local cyanosis was evident centrally in the
+pale zone following adrenaline, but not after Octapressin. This cyanosis is a
+sign of local hypoxia, possibly leading to increased tissue acidity, and thus
+to a dilatation of capillaries and venules, in which blood with deoxygenated
+haemoglobin is pooled. I n our opinion, the local hypoxia is caused by high
+oxygen consumption induced by the locally injected adrenaline. If this be so,
+the local tissue-oxygen tension should be lower after adrenaline than after
+Octapressin. By measuring local tissue acidity or local tissue-oxygen tension
+it would be possible to verify the above-mentioned hypothesis. The electrodes
+for pH measurement, however, traumatize the tissue much more than do
+the PO, electrodes. Therefore, we chose the method of PO, measurements.
+The aim of our investigationwas to ascertain, by a direct measuring method,
+the difference in the tissue-oxygen tension in zones in which the local anaesthetic containing either of these vasoconstrictors was injected. We also tested
+zones with noradrenaline as vasoconstrictor.
+
+M A T E R I A L AND M E T H O D S
+The investigation was performed on the forearms of nine healthy human
+subjects. On the volar side of each forearm 0.5 ml of anaesthetic solution was
+injected immediately subcutaneously in three different places : distally 0.5
+per cent. lidocaine with noradrenaline 1 :200,000, proximally 0.5 per cent.
+From the Departments of Surgery (Head: J. ADAM-RAY)and Anaesthesiology (Head: T.
+GORDH),Karolinska Sjukhuset, Stockholm, Sweden.
+Received April 7, 1964.
+
+
+----- [PDF page 1 of 6: layout view of the same page] -----
+                    Acta anaesth. Scandinau. 1964, 8, 261-266.
+
+
+  LOCAL T I S S U E - O X Y G E N T E N S I O N AFTER
+      ADRENALINE, NORADRENALINE
+AND OCTAPRESSIN" I N LOCAL ANAESTHESIA
+                                 BY
+                                 and L. WESTERMARK
+                    P. KLINGENSTROM
+
+
+    The use of adrenaline and noradrenaline as vasoconstrictors in local anaes-
+thesia may produce untoward effects. Other agents have therefore been tested,
+for example, phenylalanine,-Iysine8-vasopressin,which is known as Octa-
+pressin@,Sandoz. We have recently compared changes in the local colour
+of the skin following the administration of adrenaline and Octapressin when
+used as vasoconstrictors in lidocaine (P. KLINCENSTROM     and L. WESTERMARK
+(1963p). After the initial pallor, local cyanosis was evident centrally in the
+pale zone following adrenaline, but not after Octapressin. This cyanosis is a
+sign of local hypoxia, possibly leading to increased tissue acidity, and thus
+to a dilatation of capillaries and venules, in which blood with deoxygenated
+haemoglobin is pooled. I n our opinion, the local hypoxia is caused by high
+oxygen consumption induced by the locally injected adrenaline. If this be so,
+the local tissue-oxygen tension should be lower after adrenaline than after
+Octapressin. By measuring local tissue acidity or local tissue-oxygen tension
+it would be possible to verify the above-mentioned hypothesis. The electrodes
+for pH measurement, however, traumatize the tissue much more than do
+the PO, electrodes. Therefore, we chose the method of PO, measurements.
+    The aim of our investigationwas to ascertain, by a direct measuring method,
+the difference in the tissue-oxygen tension in zones in which the local anaes-
+thetic containing either of these vasoconstrictors was injected. We also tested
+zones with noradrenaline as vasoconstrictor.
+
+
+
+                    M A T E R I A L AND M E T H O D S
+    The investigation was performed on the forearms of nine healthy human
+subjects. On the volar side of each forearm 0.5 ml of anaesthetic solution was
+injected immediately subcutaneously in three different places : distally 0.5
+per cent. lidocaine with noradrenaline 1 :200,000, proximally 0.5 per cent.
+
+From the Departments of Surgery (Head: J. ADAM-RAY)and Anaesthesiology (Head: T.
+GORDH),Karolinska Sjukhuset, Stockholm, Sweden.
+Received April 7, 1964.
+
+===== [PDF page 2 of 6] =====
+262
+
+P. KLINGENSTROM AND L. WESTERMARK
+
+lidocaine with adrenaline 1 :100,000, and further proximally 0.5 per cent.
+lidocaine with Octapressin 5 U/30 ml (in our experience, approximately
+equal to adrenaline 1:100,000 in its capacity to prolong anaesthesia). The
+oxygen tension was-measured in the infiltrated zone, at the same depth as the
+injections. The micro-electrode used is known as the Clark polyethylene membrane electrode, which was developed in 1958 by Max Liston, of Beckman
+Instruments Inc., according to the polarographic method (H. MONTGOMERY
+and 0. HORWITZ
+(1950)9, C. M. CONNELLY
+(1957)3, H. MONTGOMERY
+(1957)'9 8 , N. T. S. EVANS
+and P. F. D. NAYLOR
+( 1960)4).The micro-electrode
+is fitted in an 18-gauge needle and attached to a Beckman Physiological Gas
+Analyzer, Model 160. The values measured by the instrument are proportional
+to the oxygen tension. We made measurements 1.5, 2.5 and 3.5 hours after the
+injection of the anaesthetic. In order to compare the oxygen tensions in the
+three zones, the values in the noradrenaline and the adrenaline zones are
+expressed as percentages of the value in the Octapressin zone on each forearm.
+
+RESULTS
+Colour changes.-A pale area, 3-4 cm in diameter, was seen within some
+minutes at, and around, the site of each injection; this occurred somewhat
+sooner after adrenaline and noradrenaline. The pallor was approximately of
+the same intensity after the application of all three agents, but slightly more
+widespread after Octapressin. During the first hour after the injections local
+cyanosis developed centrally in the adrenaline and the noradrenaline zones,
+but a narrow halo of 3 4 mm at the periphery of these zones remained pale.
+Following the administration of Octapressin, the pallor persisted unchanged
+for 3.5 hours or longer, and no cyanosis appeared.
+Oxygen-tensiondiference.-With very few exceptions, the tissue-oxygen tension
+at the injection sites was lower after adrenaline and noradrenaline, and varied
+between 50 and 90 per cent. of that after Octapressin. The results are given
+in table 1. The 0, tension outside the infiltrated zones was measured in three
+cases, and was found to be the same as in the Octapressin zones.
+Statistics.-Cases 1-6 in table 1 were subjected to statistical analysis, since
+they were tested on both forearms 1.5, 2.5 and 3.5 hours after injection. The
+experimental error was estimated by variance analysis. All the values in the
+adrenaline and the noradrenaline zones of these subjects were changed in the
+same direction ; consequently, it proved unnecessary to apply a significance
+test. The tendencies of the values in cases 7, 8 and 9 were the same as those
+in the other cases. The standard deviation for the adrenaline and the noradrenaline values was 9.3 and 8.0 per cent., respectively. Thus, the standard
+deviation can be said to be about 9 per cent. and the standard error of the mean
+for the two adrenaline and the two noradrenaline values for the same person is
+
+
+----- [PDF page 2 of 6: layout view of the same page] -----
+262                  P. KLINGENSTROM AND L. WESTERMARK
+
+lidocaine with adrenaline 1 :100,000, and further proximally 0.5 per cent.
+lidocaine with Octapressin 5 U/30 ml (in our experience, approximately
+equal to adrenaline 1:100,000 in its capacity to prolong anaesthesia). The
+oxygen tension was-measured in the infiltrated zone, at the same depth as the
+injections. The micro-electrode used is known as the Clark polyethylene mem-
+brane electrode, which was developed in 1958 by Max Liston, of Beckman
+Instruments Inc., according to the polarographic method (H. MONTGOMERY
+and 0. HORWITZ         (1950)9, C. M. CONNELLY      (1957)3, H. MONTGOMERY
+(1957)'9 8 , N. T. S. EVANS and P. F. D. NAYLOR  ( 1960)4).The micro-electrode
+is fitted in an 18-gauge needle and attached to a Beckman Physiological Gas
+Analyzer, Model 160. The values measured by the instrument are proportional
+to the oxygen tension. We made measurements 1.5, 2.5 and 3.5 hours after the
+injection of the anaesthetic. In order to compare the oxygen tensions in the
+three zones, the values in the noradrenaline and the adrenaline zones are
+expressed as percentages of the value in the Octapressin zone on each forearm.
+
+
+
+                                  RESULTS
+     Colour changes.-A pale area, 3-4 cm in diameter, was seen within some
+ minutes at, and around, the site of each injection; this occurred somewhat
+sooner after adrenaline and noradrenaline. The pallor was approximately of
+ the same intensity after the application of all three agents, but slightly more
+widespread after Octapressin. During the first hour after the injections local
+cyanosis developed centrally in the adrenaline and the noradrenaline zones,
+but a narrow halo of 3 4 mm at the periphery of these zones remained pale.
+Following the administration of Octapressin, the pallor persisted unchanged
+for 3.5 hours or longer, and no cyanosis appeared.
+     Oxygen-tensiondiference.-With very few exceptions, the tissue-oxygen tension
+at the injection sites was lower after adrenaline and noradrenaline, and varied
+between 50 and 90 per cent. of that after Octapressin. The results are given
+in table 1. The 0, tension outside the infiltrated zones was measured in three
+cases, and was found to be the same as in the Octapressin zones.
+    Statistics.-Cases 1-6 in table 1 were subjected to statistical analysis, since
+they were tested on both forearms 1.5, 2.5 and 3.5 hours after injection. The
+experimental error was estimated by variance analysis. All the values in the
+adrenaline and the noradrenaline zones of these subjects were changed in the
+same direction ; consequently, it proved unnecessary to apply a significance
+test. The tendencies of the values in cases 7, 8 and 9 were the same as those
+in the other cases. The standard deviation for the adrenaline and the noradre-
+naline values was 9.3 and 8.0 per cent., respectively. Thus, the standard
+deviation can be said to be about 9 per cent. and the standard error of the mean
+for the two adrenaline and the two noradrenaline values for the same person is
+
+===== [PDF page 3 of 6] =====
+263
+
+ADRENALINE, NORADRENALINE AND OCTAPRESSIN
+
+TABLE
+1.
+Tissue-oxygen tension, at the injection sites of lidocaine with adrenaline I : 100,000 (A) and
+noradrenaline 1 :200,000 (N) after 1.5, 2.5 and 3.5 hours, in per cent. of the tissue-oxygen
+tension at the injection sites of lidocaine with Octapressin 5 U/30 ml at the corresponding
+times on the right and left forearms.
+Case No.
+
+1.5 hours after injection
+
+2.5 hours after injection
+
+3.5 hours after injection
+
+1 ....... A .........
+N ........
+
+a7
+a4
+
+a0
+77
+
+92
+a6
+
+a3
+a3
+
+a3
+a3
+
+92
+7a
+
+2 ....... A .........
+N ........
+
+a7
+7a
+
+79
+a2
+
+92
+66
+
+96
+76
+
+97
+65
+
+100
+a5
+
+3 ....... A .........
+N ........
+
+a0
+a7
+
+96
+a7
+
+73
+75
+
+94
+79
+
+73
+a0
+
+92
+a5
+
+4 ....... A .........
+N .........
+
+73
+a1
+
+93
+
+a2
+
+a7
+74
+
+a9
+92
+
+a9
+a9
+
+96
+96
+
+5 ....... A .........
+N .........
+
+92
+74
+
+95
+a9
+
+95
+85
+
+90
+a3
+
+a4
+77
+
+a4
+95
+
+6....... A .........
+N .........
+
+47
+63
+
+65
+54
+
+75
+73
+
+7 ....... A .........
+N .........
+
+a9
+a9
+
+-
+
+40
+63
+-
+
+77
+40
+-
+
+67
+62
+-
+
+a .......
+
+92
+100
+-
+
+-
+
+92
+67
+-
+
+100
+78
+-
+
+71
+79
+
+90
+77
+
+95
+95
+
+86
+a6
+
+A .........
+
+N .........
+
+9 ....... A .........
+N .........
+
+-
+
+-
+
+about 6.5 per cent. There is a significant difference between the values of
+different individuals, but not between the values for the three different times.
+There is no interaction, i.e., combinations of persons or times do not give rise
+to certain effects.
+The median value of the oxygen tension in the adrenaline zones was 87
+per cent. of that in the Octapressin zones (Pz,= 79, P,, = 92); in the noradrenaline zones the median value was 80.5 per cent. (Pz,= 74, P,, = 85).
+DISCUSSION
+Modern local anaesthetics have reached a high degree of perfection in
+respect of their analgesic action. This has been attained by intensive research
+and testing of new preparations. However, when prolongation of anaesthesia
+or haemostasis, or both, is required, it is still necessary to add a vasoconstrictor
+to the anaesthetic solution. In spite of this, very few investigations have been
+carried out to ascertain the possibilities of using for this purpose agents other
+
+
+----- [PDF page 3 of 6: layout view of the same page] -----
+                   ADRENALINE, NORADRENALINE AND OCTAPRESSIN                                           263
+                                            TABLE  1.
+Tissue-oxygen tension, at the injection sites of lidocaine with adrenaline I : 100,000 (A) and
+noradrenaline 1 :200,000 (N) after 1.5, 2.5 and 3.5 hours, in per cent. of the tissue-oxygen
+tension at the injection sites of lidocaine with Octapressin 5 U/30 ml at the corresponding
+                             times on the right and left forearms.
+
+Case No.                  1.5 hours after injection   2.5 hours after injection   3.5 hours after injection
+
+
+1 ....... A .........        a7            a0             92           a3              a3           92
+          N ........         a4            77             a6           a3              a3           7a
+2 ....... A .........        a7            79             92           96              97          100
+          N ........         7a            a2             66           76              65           a5
+3 ....... A .........        a0           96              73           94              73           92
+          N ........         a7           a7              75           79              a0           a5
+4 ....... A .........        73           93              a7           a9              a9           96
+          N .........        a1           a2              74           92              a9           96
+5 ....... A .........        92           95              95           90              a4           a4
+          N .........        74           a9              85           a3              77           95
+6....... A .........         47           65              40           75              77           67
+         N .........         63           54              63           73              40           62
+7 ....... A .........        a9             -              -            -               -            -
+          N .........        a9             -              -             -              -            -
+a .......   A .........      92             -             92          100              71           90
+            N .........     100             -             67           78              79           77
+9 ....... A .........         -             -              -            -             95            86
+          N .........         -             -              -            -             95            a6
+
+
+about 6.5 per cent. There is a significant difference between the values of
+different individuals, but not between the values for the three different times.
+There is no interaction, i.e., combinations of persons or times do not give rise
+to certain effects.
+    The median value of the oxygen tension in the adrenaline zones was 87
+per cent. of that in the Octapressin zones (Pz,= 79, P,, = 92); in the nor-
+adrenaline zones the median value was 80.5 per cent. (Pz,= 74, P,, = 85).
+
+
+                                      DISCUSSION
+    Modern local anaesthetics have reached a high degree of perfection in
+respect of their analgesic action. This has been attained by intensive research
+and testing of new preparations. However, when prolongation of anaesthesia
+or haemostasis, or both, is required, it is still necessary to add a vasoconstrictor
+to the anaesthetic solution. In spite of this, very few investigations have been
+carried out to ascertain the possibilities of using for this purpose agents other
+
+===== [PDF page 4 of 6] =====
+264
+
+P. KLINGENSTROM AND L. WESTERMARK
+
+than adrenaline and noradrenaline (H. R. MUHLEMANN
+and M. PORTMANN
+(1950)"). These agents are far from being considered perfect.
+The occurrence of cardiac complications following the administration of
+adrenaline can readily be understood. Cardiac arrhythmias and cardiac arrest
+have been reported in cases where the agent has been used during halothane
+anaesthesia (G. F. BRINDLE,R. G. B. GILBERTand R. A. MILLAR(1957)*,
+R. G. B. GILBERT
+and G. F. BRINDLE(1958)8,W. W. MUSHIN
+R. A. MILLAR,
+and M. ROSEN(1962)1°, M. ROSENand R. B. ROE(1963)'".
+Local complications are not uncommon. Postanaesthetic tenderness,
+especially in tight tissues and in the periosteum, as, for instance, in odontological
+anaesthesia, is a common complication, and so is the increased frequency of
+postoperative oedema and haemorrhagi. Even postoperative necrosis occurs
+in the infiltrated areas (G. BJORLIN(1954)'). These local complications indicate
+a local metabolic disturbance in the anaesthetized tissues. Such disturbances
+can be expected when using a vasoconstrictive agent which increases the local
+oxygen comsumption. The oxygen comsumption of the body is enhanced when
+adrenaline or noradrenaline has been administered subcutaneously, as in
+and K. G. D H U N ~(1961)18).
+R
+It is
+major local anaesthesias (P. NORDQUIST
+most probable that this occurs locally in tissues infiltrated with either of these
+agents.
+The local cyanosis observed centrally in the pale zone after infiltration with
+and
+lidocaine-adrenaline has recently been discussed (P. KLINGENSTROM
+L.WESTERMARK
+(1963)6). The hypothesis was advanced that this cyanosis is
+caused by a high content of deoxygenated haemoglobin in the blood pooled in
+dilated capillaries and venules between constricted efferent and afferent vessels;
+and the dilatation is regarded as resulting from local tissue acidosis due to locally
+increased metabolism and oxygen comsumption induced by adrenaline. The
+same hypothesis may be applicable to noradrenaline since it gives rise to a
+similar cyanosis. The pale halo at the periphery of the adrenaline and noradrenaline zones is the result of the vasoconstrictive catecholamine effect
+possibly preserved by the buffering capacity of the surrounding tissue which
+prevents acidosis-induced dilatation of capillaries and venules.
+There is no local cyanosis in the pale zones following the administration of
+Octapressin. In our opinion, this indicates that any local lack of tissue oxygen
+is less after this agent. The oxygen tension was found to be the same in both
+Octapressin zones and non-infiltrated skin.
+The investigation reported here seems to verify our hypothesis as to the
+local oxygen consumption after the administration of the three agents, in view
+of the fact that the local tissue-oxygen tension, after at least 3.5 hours, was
+lower in tissues infiltrated with adrenaline 1 :100,000 or noradrenaline 1 :200,000
+than that in tissues infiltrated with Octapressin 5 U/30 ml.
+As far as we are aware, cardiac complications due to these small doses of
+Octapressin have not been reported. Recently, a pilot study was made of
+
+
+----- [PDF page 4 of 6: layout view of the same page] -----
+264                  P. KLINGENSTROM AND L. WESTERMARK
+
+ than adrenaline and noradrenaline (H. R. MUHLEMANN               and M. PORTMANN
+  (1950)"). These agents are far from being considered perfect.
+      The occurrence of cardiac complications following the administration of
+ adrenaline can readily be understood. Cardiac arrhythmias and cardiac arrest
+ have been reported in cases where the agent has been used during halothane
+ anaesthesia (G. F. BRINDLE,R. G. B. GILBERTand R. A. MILLAR(1957)*,
+ R. A. MILLAR,     R. G. B. GILBERT    and G. F. BRINDLE(1958)8,W. W. MUSHIN
+ and M. ROSEN(1962)1°, M. ROSENand R. B. ROE(1963)'".
+      Local complications are not uncommon. Postanaesthetic tenderness,
+ especially in tight tissues and in the periosteum, as, for instance, in odontological
+ anaesthesia, is a common complication, and so is the increased frequency of
+ postoperative oedema and haemorrhagi. Even postoperative necrosis occurs
+ in the infiltrated areas (G. BJORLIN(1954)'). These local complications indicate
+ a local metabolic disturbance in the anaesthetized tissues. Such disturbances
+ can be expected when using a vasoconstrictive agent which increases the local
+ oxygen comsumption. The oxygen comsumption of the body is enhanced when
+ adrenaline or noradrenaline has been administered subcutaneously, as in
+ major local anaesthesias (P. NORDQUIST        and K. G. D H U N ~(1961)18).
+                                                                        R        It is
+ most probable that this occurs locally in tissues infiltrated with either of these
+agents.
+     The local cyanosis observed centrally in the pale zone after infiltration with
+lidocaine-adrenaline has recently been discussed (P. KLINGENSTROM                and
+ L.WESTERMARK      (1963)6). The hypothesis was advanced that this cyanosis is
+caused by a high content of deoxygenated haemoglobin in the blood pooled in
+dilated capillaries and venules between constricted efferent and afferent vessels;
+and the dilatation is regarded as resulting from local tissue acidosis due to locally
+increased metabolism and oxygen comsumption induced by adrenaline. The
+same hypothesis may be applicable to noradrenaline since it gives rise to a
+similar cyanosis. The pale halo at the periphery of the adrenaline and nor-
+adrenaline zones is the result of the vasoconstrictive catecholamine effect
+possibly preserved by the buffering capacity of the surrounding tissue which
+prevents acidosis-induced dilatation of capillaries and venules.
+     There is no local cyanosis in the pale zones following the administration of
+Octapressin. In our opinion, this indicates that any local lack of tissue oxygen
+is less after this agent. The oxygen tension was found to be the same in both
+Octapressin zones and non-infiltrated skin.
+     The investigation reported here seems to verify our hypothesis as to the
+local oxygen consumption after the administration of the three agents, in view
+of the fact that the local tissue-oxygen tension, after at least 3.5 hours, was
+lower in tissues infiltrated with adrenaline 1 :100,000 or noradrenaline 1 :200,000
+than that in tissues infiltrated with Octapressin 5 U/30 ml.
+     As far as we are aware, cardiac complications due to these small doses of
+Octapressin have not been reported. Recently, a pilot study was made of
+
+===== [PDF page 5 of 6] =====
+ADRENALINE, NORADRENALINE AND OCTAPRESSIN
+
+265
+
+fifty patients who were given intravenously 20-100 per cent. of the maximum
+haemostatic dose recommended (10 U) during halothane anaesthesia. No
+electrocardiographic changes attributable to Octapressin were observed
+(C. A. SHANKS
+(1963)16).
+The results of our clinical investigations, which are still in progress, show
+that the haemostatic capacity of Octapressin, as a vasoconstrictor in local
+anaesthesia, is approximately equal to that of adrenaline during surgery,
+and that postoperative oedema and haemorrhage in the operative field are
+P., KLINGENSTROM and
+less than when adrenaline is administered (B. N Y L ~ N
+L. WESTERMARK
+( 1964)13).
+Adrenaline and noradrenaline are very frequently used as vasoconstrictors
+in local anaesthesia; consequently, the postanaesthetic inconvenience which
+is caused by the above-mentioned local complications is of essential importance.
+We presume that the local metabolic disturbances which presumably occur
+in tissues infiltrated with anaesthetic solutions containing catecholamines
+are the cause of these complications. In our opinion, the local cyanosis and the
+decrease in local oxygen tension are signs of such disturbances in metabolism.
+It should, to a great extent, be possible to avoid these local complications if
+Octapressin is used as vasoconstrictor in local-anaesthetic solutions, as this
+agent does not give rise to any local cyanosis, and as the local oxygen tension
+after Octapressin is higher than after the catecholamines.
+
+S U M MARY
+The local tissue-oxygen tension in the skin was studied, when adrenaline,
+noradrenaline and Octapressinm Sandoz were used as vasoconstrictors in local
+anaesthetic agents injected subcutaneously on the forearms of healthy human
+subjects.
+During the first hour after injection changes in colour occurred in the adrenaline and noradrenaline zones : the initially pale zones became cyanotic.
+The Octapressin zones remained pale throughout the entire experimental
+period.
+The tissue-oxygen tension, as measured with a Clark polyethylene membrane electrode attached to a Beckman Physiological Gas Analyzer, was clearly
+lower after the administration of the catecholamines than after Octapressin.
+The colour change and the decrease in tissue-oxygen tension are attributed
+to the fact that the locally administered adrenaline or noradrenaline gives
+rise to a local increase in oxygen consumption.
+Since Octapressin, when used as a vasoconstrictor in local anaesthesia,
+does not cause any local cyanosis, and the local tissue-oxygen tension is higher,
+it may be more harmless to the tissue than the other two agents.
+
+
+----- [PDF page 5 of 6: layout view of the same page] -----
+                 ADRENALINE, NORADRENALINE AND OCTAPRESSIN                    265
+
+fifty patients who were given intravenously 20-100 per cent. of the maximum
+haemostatic dose recommended (10 U) during halothane anaesthesia. No
+electrocardiographic changes attributable to Octapressin were observed
+ (C. A. SHANKS   (1963)16).
+     The results of our clinical investigations, which are still in progress, show
+that the haemostatic capacity of Octapressin, as a vasoconstrictor in local
+anaesthesia, is approximately equal to that of adrenaline during surgery,
+and that postoperative oedema and haemorrhage in the operative field are
+less than when adrenaline is administered (B. N Y L ~ N   P., KLINGENSTROM and
+L. WESTERMARK      ( 1964)13).
+    Adrenaline and noradrenaline are very frequently used as vasoconstrictors
+in local anaesthesia; consequently, the postanaesthetic inconvenience which
+is caused by the above-mentioned local complications is of essential importance.
+We presume that the local metabolic disturbances which presumably occur
+in tissues infiltrated with anaesthetic solutions containing catecholamines
+are the cause of these complications. In our opinion, the local cyanosis and the
+decrease in local oxygen tension are signs of such disturbances in metabolism.
+It should, to a great extent, be possible to avoid these local complications if
+Octapressin is used as vasoconstrictor in local-anaesthetic solutions, as this
+agent does not give rise to any local cyanosis, and as the local oxygen tension
+after Octapressin is higher than after the catecholamines.
+
+
+
+
+                                 S U M MARY
+    The local tissue-oxygen tension in the skin was studied, when adrenaline,
+noradrenaline and Octapressinm Sandoz were used as vasoconstrictors in local
+anaesthetic agents injected subcutaneously on the forearms of healthy human
+subjects.
+    During the first hour after injection changes in colour occurred in the adre-
+naline and noradrenaline zones : the initially pale zones became cyanotic.
+The Octapressin zones remained pale throughout the entire experimental
+period.
+    The tissue-oxygen tension, as measured with a Clark polyethylene mem-
+brane electrode attached to a Beckman Physiological Gas Analyzer, was clearly
+lower after the administration of the catecholamines than after Octapressin.
+    The colour change and the decrease in tissue-oxygen tension are attributed
+to the fact that the locally administered adrenaline or noradrenaline gives
+rise to a local increase in oxygen consumption.
+    Since Octapressin, when used as a vasoconstrictor in local anaesthesia,
+does not cause any local cyanosis, and the local tissue-oxygen tension is higher,
+it may be more harmless to the tissue than the other two agents.
+
+===== [PDF page 6 of 6] =====
+266
+
+P. KLINGENSTROM AND L. WESTERMARK
+
+Z U SA M M E N FAS S U N G
+Die Gewebssauerstoffspannungder Haut am Unterarm gesunder Versuchspersonen wurde nach subcutaner Injektion einer Lokalanaesthetikums unter
+Zusatz von Adrenalin, Noradrenalin bzw. Octapressin (Sandoz) als Vasokonstriktor gepriift.
+Innerhalb der ersten Stunde nach Injektion treten in den Adrenalin- und
+Noradrenalinzonen Farbveranderungen auf: die anfanglich blasse Zone wird
+zyanotisch. Nicht so bei Octapressin, wo die blasse Farbe bestehen bleibt.
+Die Gewebssauerstoffspannung (gemessen mit Clark-Membranelektrode
+und Beckman Physiological Gas Analyzer) lag in den Catecholaminzonen
+tiefer als im Octapressinbereich.
+Die Farbanderung und der Abfall der Sauerstoffspannung im Gewebe
+wird auf eine lokale Erhohung des Sauerstoffverbrauchs unter der Einwirkung
+von Adrenalin bzw . Noradrenalin zuriickgefuhrt. - Da Octapressin, als Vasokonstriktor dem Lokalanaesthetikum zugesetzt, keine ortliche Zyanose verursacht und die Sauerstoffspannung im Gewebe nicht so stark absinken lasst,
+durfte es fur das Gewebe harmloser sein als die Catecholamine.
+REFERENCES
+1. BJ~RLIN,
+G.: The influence of local anaesthetics on living tissue in white rat. Odontologisk
+Rev. Suppl. 2, Lund 1954.
+2. BRINDLE,
+G. F., R. G. B. GILBERT
+and R. A. MILLAR:
+The use of Fluothane anaesthesia
+for neurosurgery: A preliminary report. Canad. Anaesth. SOC.3. 1957, 4, 265.
+3. CONNELLY,
+C. M.: Methods for measuring tissue oxygen tension; theory and evaluation:
+the oxygen electrode. Fed. Proceedings. 1957, 16, 681.
+4. EVANS,
+N. T. S., and P. F. D. NAYLOR:
+The measurement of the partial pressure of
+oxygen in vivo. 3. Polarographic SOC.1960, 2, 26.
+5. KLINGENSTR~M,
+P., and L. WESTERMARK:
+Local effects of adrenaline and phenylalanyllysyl-vasopressin in local anaesthesia. Acta anaesth. Scandinau. 1963, 7, 131.
+6. MILLAR,R. A., R. G. B. GILBERT
+and G. F. BRINDLE:
+Ventricular tachycardia during
+halothane anaesthesia. Anaesthesia. 1958, 13, 164.
+7. MONTGOMERY,
+H.: Oxygen tension of skin and muscle. Fed. Proceedings. 1957, 16, 697.
+H.: Oxygen tension of pheripheral tissue. Am. 3. Mcd. 1957, 23, 697.
+8. MONTGOMERY,
+H., and 0. HORWITZ:
+Oxygen tension of tissue by the polarographic
+9. MONTGOMERY,
+method. I. Introduction: Oxygen tension and blod flow ofthe skin ofhuman extremities.
+3. Clin. Inucst. 1959, 29, 1120.
+10. MUSHIN,
+W. W., and M. ROSEN:Halothane. Lancet. 1962, i, 431.
+11. MUHLEMANN, H. R., and M. PORTMANN:
+Das Vasopressin in Lokalanasthetikum.
+Schweiz. Monatschr. f. <ahnheilk. 1950, SO, 45.
+12. NORDQVIST,
+P., and K. G. D H U N ~Influence
+R:
+of local anaesthetics with vasoconstrictors
+upon circulation and metabolism. Acta anaesth. Scandinav. 1961, 5, 63.
+13. N Y L ~ N
+B.,, P. KLINGENSTR~M
+and L. WESTERMARK:
+Adrenaline and Octapressin in local
+anaesthesia. T o be published.
+14. ROSEN,M., and R. B. ROE:Adrenaline infiltration during halothane anaesthesia: A
+report of two cases of cardiac arrest. Brit. 3. Anaesth. 1963, 35, 51.
+15. SHANKS,
+C. A.: Intravenous Octapressin during halothane anaesthesia: A pilot study.
+Brit. 3. Anaesth. 1963, 35, 640.
+
+
+----- [PDF page 6 of 6: layout view of the same page] -----
+266                      P. KLINGENSTROM AND L. WESTERMARK
+
+
+                              Z U SA M M E N FAS S U N G
+    Die Gewebssauerstoffspannungder Haut am Unterarm gesunder Versuchs-
+personen wurde nach subcutaner Injektion einer Lokalanaesthetikums unter
+Zusatz von Adrenalin, Noradrenalin bzw. Octapressin (Sandoz) als Vasokon-
+striktor gepriift.
+    Innerhalb der ersten Stunde nach Injektion treten in den Adrenalin- und
+Noradrenalinzonen Farbveranderungen auf: die anfanglich blasse Zone wird
+zyanotisch. Nicht so bei Octapressin, wo die blasse Farbe bestehen bleibt.
+    Die Gewebssauerstoffspannung (gemessen mit Clark-Membranelektrode
+und Beckman Physiological Gas Analyzer) lag in den Catecholaminzonen
+tiefer als im Octapressinbereich.
+    Die Farbanderung und der Abfall der Sauerstoffspannung im Gewebe
+wird auf eine lokale Erhohung des Sauerstoffverbrauchs unter der Einwirkung
+von Adrenalin bzw . Noradrenalin zuriickgefuhrt. - Da Octapressin, als Vaso-
+konstriktor dem Lokalanaesthetikum zugesetzt, keine ortliche Zyanose verur-
+sacht und die Sauerstoffspannung im Gewebe nicht so stark absinken lasst,
+durfte es fur das Gewebe harmloser sein als die Catecholamine.
+
+                                     REFERENCES
+ 1. BJ~RLIN,   G.: The influence of local anaesthetics on living tissue in white rat. Odontologisk
+    Rev. Suppl. 2, Lund 1954.
+ 2. BRINDLE,   G. F., R. G. B. GILBERT  and R. A. MILLAR:     The use of Fluothane anaesthesia
+    for neurosurgery: A preliminary report. Canad. Anaesth. SOC.3. 1957, 4, 265.
+ 3. CONNELLY,     C. M.: Methods for measuring tissue oxygen tension; theory and evaluation:
+    the oxygen electrode. Fed. Proceedings. 1957, 16, 681.
+ 4. EVANS,   N. T. S., and P. F. D. NAYLOR:      The measurement of the partial pressure of
+    oxygen in vivo. 3. Polarographic SOC.1960, 2, 26.
+ 5. KLINGENSTR~M,       P., and L. WESTERMARK:   Local effects of adrenaline and phenylalanyl-
+    lysyl-vasopressin in local anaesthesia. Acta anaesth. Scandinau. 1963, 7, 131.
+ 6. MILLAR,R. A., R. G. B. GILBERT       and G. F. BRINDLE:     Ventricular tachycardia during
+    halothane anaesthesia. Anaesthesia. 1958, 13, 164.
+ 7. MONTGOMERY,        H.: Oxygen tension of skin and muscle. Fed. Proceedings. 1957, 16, 697.
+ 8. MONTGOMERY,        H.: Oxygen tension of pheripheral tissue. Am. 3. Mcd. 1957, 23, 697.
+ 9. MONTGOMERY,        H., and 0. HORWITZ:    Oxygen tension of tissue by the polarographic
+    method. I. Introduction: Oxygen tension and blod flow ofthe skin ofhuman extremities.
+    3. Clin. Inucst. 1959, 29, 1120.
+10. MUSHIN,   W. W., and M. ROSEN:Halothane. Lancet. 1962, i, 431.
+11. MUHLEMANN, H. R., and M. PORTMANN:               Das Vasopressin in Lokalanasthetikum.
+    Schweiz. Monatschr. f. <ahnheilk. 1950, SO, 45.
+12. NORDQVIST,     P., and K. G. D H U N ~Influence
+                                           R:        of local anaesthetics with vasoconstrictors
+    upon circulation and metabolism. Acta anaesth. Scandinav. 1961, 5, 63.
+13. N Y L ~ NB.,, P. KLINGENSTR~M   and L. WESTERMARK:     Adrenaline and Octapressin in local
+    anaesthesia. T o be published.
+14. ROSEN,M., and R. B. ROE:Adrenaline infiltration during halothane anaesthesia: A
+    report of two cases of cardiac arrest. Brit. 3. Anaesth. 1963, 35, 51.
+15. SHANKS,   C. A.: Intravenous Octapressin during halothane anaesthesia: A pilot study.
+    Brit. 3. Anaesth. 1963, 35, 640.
+

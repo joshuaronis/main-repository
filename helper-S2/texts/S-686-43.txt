@@ -1,0 +1,1209 @@
+SOURCE FILE: S-686-43 - Flondell 2017 - Carpal tunnel syndrome treated with guided brain plasticity a randomised controlled study.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 7] =====
+Journal of Plastic Surgery and Hand Surgery
+
+ISSN: 2000-656X (Print) 2000-6764 (Online) Journal homepage: http://www.tandfonline.com/loi/iphs20
+
+Carpal tunnel syndrome treated with guided brain
+plasticity: a randomised, controlled study
+Magnus Flondell, Birgitta Rosen, Gert Andersson & Anders Björkman
+To cite this article: Magnus Flondell, Birgitta Rosen, Gert Andersson & Anders Björkman
+(2016): Carpal tunnel syndrome treated with guided brain plasticity: a randomised, controlled
+study, Journal of Plastic Surgery and Hand Surgery, DOI: 10.1080/2000656X.2016.1205503
+To link to this article: http://dx.doi.org/10.1080/2000656X.2016.1205503
+
+Published online: 12 Jul 2016.
+
+Submit your article to this journal
+
+Article views: 2
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=iphs20
+Download by: [University of Regina]
+
+Date: 16 July 2016, At: 14:01
+
+
+----- [PDF page 1 of 7: layout view of the same page] -----
+                        Journal of Plastic Surgery and Hand Surgery
+
+
+
+
+                        ISSN: 2000-656X (Print) 2000-6764 (Online) Journal homepage: http://www.tandfonline.com/loi/iphs20
+
+
+
+
+                Carpal tunnel syndrome treated with guided brain
+                plasticity: a randomised, controlled study
+
+                Magnus Flondell, Birgitta Rosen, Gert Andersson & Anders Björkman
+
+                To cite this article: Magnus Flondell, Birgitta Rosen, Gert Andersson & Anders Björkman
+                (2016): Carpal tunnel syndrome treated with guided brain plasticity: a randomised, controlled
+                study, Journal of Plastic Surgery and Hand Surgery, DOI: 10.1080/2000656X.2016.1205503
+
+                To link to this article: http://dx.doi.org/10.1080/2000656X.2016.1205503
+
+
+
+
+                        Published online: 12 Jul 2016.
+
+
+
+                        Submit your article to this journal
+
+
+
+                        Article views: 2
+
+
+
+                        View related articles
+
+
+
+                        View Crossmark data
+
+
+
+
+                                        Full Terms & Conditions of access and use can be found at
+                               http://www.tandfonline.com/action/journalInformation?journalCode=iphs20
+
+Download by: [University of Regina]                                                                          Date: 16 July 2016, At: 14:01
+
+===== [PDF page 2 of 7] =====
+JOURNAL OF PLASTIC SURGERY AND HAND SURGERY, 2016
+http://dx.doi.org/10.1080/2000656X.2016.1205503
+
+ORIGINAL ARTICLE
+
+Carpal tunnel syndrome treated with guided brain plasticity: a randomised,
+controlled study
+€rkmana,b
+Magnus Flondella,b, Birgitta Rosena,b, Gert Anderssona,c and Anders Bjo
+a
+Department of Translational Medicine, Lund University, Skane University Hospital, Malmo, Sweden; bDepartment of Hand Surgery, Skåne
+University Hospital, Malm€o, Sweden; cDepartment of Neurophysiology, Skåne University Hospital, Malm€o, Sweden
+
+ABSTRACT
+
+ARTICLE HISTORY
+
+Introduction: Guided plasticity, induced by cutaneous forearm anaesthesia, improves hand sensibility in
+patients with nerve injury and vibration-induced neuropathy. This study investigated whether patients
+with carpal tunnel syndrome (CTS) would benefit from cutaneous forearm anaesthesia.
+Methods: Seventy patients with clinical and electroneurography-verified CTS were randomised to sensory training combined with either an anaesthetic cream (EMLAV) (n ¼ 34) or a placebo cream (n ¼ 36)
+on the volar part of the forearm. The treatment was repeated at increasing intervals over 8 weeks. The
+primary outcome was the Boston carpal tunnel questionnaire (BCTQ) symptom severity scale after 8
+weeks. Secondary outcomes included activity limitations, sensory function, and nerve conduction. This
+study compared the longitudinal changes between the two groups, and with correction for multiple
+comparisons it also compared the longitudinal change within the groups.
+Results: There were no significant differences in primary or secondary outcomes between the groups.
+However, the BCTQ symptom severity scale improved significantly within the EMLAV group over the 8week period (p ¼ 0.001). Apart from this, no significant improvements in activity limitations, sensory
+function, or nerve conduction were seen in the two groups compared to baseline. Altogether, 47% of
+patients in the EMLAV group and 61% in the placebo group had been operated on with carpal tunnel
+release by 12 months.
+Conclusion: An 8-week treatment protocol with cutaneous forearm anaesthesia to guide brain plasticity
+gave no significant subjective or objective improvements in hand function compared to placebo.
+
+Received 6 December 2015
+Revised 9 May 2016
+Accepted 16 May 2016
+Published online 11 July 2016
+
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+R
+
+KEYWORDS
+R
+
+CTS; EMLAV; PROM; RCT;
+sensibility
+
+R
+
+R
+
+Introduction
+Carpal tunnel syndrome (CTS), where the median nerve is
+compressed at the wrist, is the most common compression
+neuropathy; it affects 4% of women and 2% of men at
+some stage in life [1,2]. Patients experience discomfort and
+often pain in the hand, as well as impaired hand function [3].
+CTS can be treated conservatively with wrist splints and activity modifications [4,5], but many patients have persistent
+symptoms and are operated on with carpal tunnel release.
+Around 13 000 patients undergo surgery for CTS each year in
+Sweden, which has 9 million inhabitants (data derived from
+the Swedish National Board of Health and Welfare).
+Traditionally, surgery has been considered to relieve symptoms, but some previous studies have indicated that a number of patients operated on with carpal tunnel release have a
+poor outcome in terms of relief of symptoms [5,6].
+The brain is constantly changing according to the pattern
+of afferent nerve impulses. A changed afferent nerve signal
+pattern from the hand, as seen in patients with traumatic
+nerve injuries and some neuropathies, results in changes in
+the somatosensory areas of the brain [7,8]. This dynamic
+capacity of the brain, i.e. plasticity, provides new possibilities,
+as plasticity can be guided to substitute for functions that
+CONTACT Magnus Flondell, MD
+
+magnus.flondell@med.lu.se
+
+ß 2016 Acta Chirurgica Scandinavica Society
+
+have been damaged or lost [9]. One example of guided
+plasticity is temporary cutaneous anaesthesia of the forearm,
+which has been shown to improve sensibility in the hand in
+healthy volunteers, in patients operated on for median or
+ulnar nerve transections, and in patients with neuropathy
+due to long-term exposure to hand-held vibrating tools
+[10–12]. After treating the forearm with the anaesthetic
+cream EMLAV, no nerve signals are sent from the anaesthetised area to the brain. The neurons in the primary somatosensory area that usually respond to sensory information
+from the forearm start responding to sensory information
+from the hand; thus, more nerve cells are available to process information from cutaneous receptors in the hand
+[11,13]. The improved hand function remains for several
+hours after a single treatment [11]. Repeated sessions with
+cutaneous anaesthesia at gradually increasing intervals have
+been shown to give lasting improvement in patients who
+have been operated on for median or ulnar nerve transections [10] and in patients with vibration-induced neuropathy
+[12]. Using a randomised, placebo controlled study design,
+we investigated whether patients with carpal tunnel syndrome (CTS) would benefit from an 8-week treatment protocol involving guided plasticity in the form of cutaneous
+forearm anaesthesia.
+R
+
+Department of Hand Surgery, Skåne University Hospital, SE-20502 Malm€o, Sweden
+
+
+----- [PDF page 2 of 7: layout view of the same page] -----
+                                                             JOURNAL OF PLASTIC SURGERY AND HAND SURGERY, 2016
+                                                             http://dx.doi.org/10.1080/2000656X.2016.1205503
+
+
+                                                             ORIGINAL ARTICLE
+
+                                                             Carpal tunnel syndrome treated with guided brain plasticity: a randomised,
+                                                             controlled study
+                                                             Magnus Flondella,b, Birgitta Rosena,b, Gert Anderssona,c and Anders Bjo
+                                                                                                                                   €rkmana,b
+                                                             a
+                                                              Department of Translational Medicine, Lund University, Skane University Hospital, Malmo, Sweden; bDepartment of Hand Surgery, Skåne
+                                                             University Hospital, Malm€o, Sweden; cDepartment of Neurophysiology, Skåne University Hospital, Malm€o, Sweden
+
+
+                                                                 ABSTRACT                                                                                                                       ARTICLE HISTORY
+                                                                 Introduction: Guided plasticity, induced by cutaneous forearm anaesthesia, improves hand sensibility in                        Received 6 December 2015
+                                                                 patients with nerve injury and vibration-induced neuropathy. This study investigated whether patients                          Revised 9 May 2016
+                                                                 with carpal tunnel syndrome (CTS) would benefit from cutaneous forearm anaesthesia.                                            Accepted 16 May 2016
+                                                                 Methods: Seventy patients with clinical and electroneurography-verified CTS were randomised to sen-                            Published online 11 July 2016
+                                                                                                                                              R
+                                                                 sory training combined with either an anaesthetic cream (EMLAV) (n ¼ 34) or a placebo cream (n ¼ 36)                           KEYWORDS
+                                                                 on the volar part of the forearm. The treatment was repeated at increasing intervals over 8 weeks. The                                    R
+                                                                                                                                                                                                CTS; EMLAV; PROM; RCT;
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+
+
+
+                                                                 primary outcome was the Boston carpal tunnel questionnaire (BCTQ) symptom severity scale after 8                               sensibility
+                                                                 weeks. Secondary outcomes included activity limitations, sensory function, and nerve conduction. This
+                                                                 study compared the longitudinal changes between the two groups, and with correction for multiple
+                                                                 comparisons it also compared the longitudinal change within the groups.
+                                                                 Results: There were no significant differences in primary or secondary outcomes between the groups.
+                                                                                                                                                                    R
+                                                                 However, the BCTQ symptom severity scale improved significantly within the EMLAV group over the 8-
+                                                                 week period (p ¼ 0.001). Apart from this, no significant improvements in activity limitations, sensory
+                                                                 function, or nerve conduction were seen in the two groups compared to baseline. Altogether, 47% of
+                                                                                             R
+                                                                 patients in the EMLAV group and 61% in the placebo group had been operated on with carpal tunnel
+                                                                 release by 12 months.
+                                                                 Conclusion: An 8-week treatment protocol with cutaneous forearm anaesthesia to guide brain plasticity
+                                                                 gave no significant subjective or objective improvements in hand function compared to placebo.
+
+
+
+
+                                                             Introduction                                                                         have been damaged or lost [9]. One example of guided
+                                                                                                                                                  plasticity is temporary cutaneous anaesthesia of the forearm,
+                                                             Carpal tunnel syndrome (CTS), where the median nerve is
+                                                                                                                                                  which has been shown to improve sensibility in the hand in
+                                                             compressed at the wrist, is the most common compression
+                                                                                                                                                  healthy volunteers, in patients operated on for median or
+                                                             neuropathy; it affects 4% of women and 2% of men at                                 ulnar nerve transections, and in patients with neuropathy
+                                                             some stage in life [1,2]. Patients experience discomfort and                         due to long-term exposure to hand-held vibrating tools
+                                                             often pain in the hand, as well as impaired hand function [3].                       [10–12]. After treating the forearm with the anaesthetic
+                                                             CTS can be treated conservatively with wrist splints and activ-                                   R
+                                                                                                                                                  cream EMLAV, no nerve signals are sent from the anaesthe-
+                                                             ity modifications [4,5], but many patients have persistent                           tised area to the brain. The neurons in the primary somato-
+                                                             symptoms and are operated on with carpal tunnel release.                             sensory area that usually respond to sensory information
+                                                             Around 13 000 patients undergo surgery for CTS each year in                          from the forearm start responding to sensory information
+                                                             Sweden, which has 9 million inhabitants (data derived from                           from the hand; thus, more nerve cells are available to pro-
+                                                             the Swedish National Board of Health and Welfare).                                   cess information from cutaneous receptors in the hand
+                                                             Traditionally, surgery has been considered to relieve symp-                          [11,13]. The improved hand function remains for several
+                                                             toms, but some previous studies have indicated that a num-                           hours after a single treatment [11]. Repeated sessions with
+                                                             ber of patients operated on with carpal tunnel release have a                        cutaneous anaesthesia at gradually increasing intervals have
+                                                             poor outcome in terms of relief of symptoms [5,6].                                   been shown to give lasting improvement in patients who
+                                                                The brain is constantly changing according to the pattern                         have been operated on for median or ulnar nerve transec-
+                                                             of afferent nerve impulses. A changed afferent nerve signal                          tions [10] and in patients with vibration-induced neuropathy
+                                                             pattern from the hand, as seen in patients with traumatic                            [12]. Using a randomised, placebo controlled study design,
+                                                             nerve injuries and some neuropathies, results in changes in                          we investigated whether patients with carpal tunnel syn-
+                                                             the somatosensory areas of the brain [7,8]. This dynamic                             drome (CTS) would benefit from an 8-week treatment proto-
+                                                             capacity of the brain, i.e. plasticity, provides new possibilities,                  col involving guided plasticity in the form of cutaneous
+                                                             as plasticity can be guided to substitute for functions that                         forearm anaesthesia.
+
+                                                             CONTACT Magnus Flondell, MD             magnus.flondell@med.lu.se   Department of Hand Surgery, Skåne University Hospital, SE-20502 Malm€o, Sweden
+                                                             ß 2016 Acta Chirurgica Scandinavica Society
+
+===== [PDF page 3 of 7] =====
+2
+
+M. FLONDELL ET AL.
+
+Patients and methods
+
+Table 1. Demographic data.
+
+Trial design
+The study design was a prospective randomised trial, carried
+€, Sweden. The
+out at the Skåne University Hospital, Malmo
+study was approved by the ethical committee of Lund
+University (1062–03), and was conducted according to the
+tenets of the Declaration of Helsinki. All the participants gave
+written consent.
+
+Gender (male: female)
+Treated hand (right: left)
+Age, mean (SD)
+
+EMLAV group
+
+R
+
+Placebo group
+
+7:27
+27:7
+51.0 (9.1)
+
+9:27
+31:5
+46.8 (8.5)
+
+R
+
+R
+
+cosmetically identical to the EMLAV. EMLAV or placebo was
+applied to the volar aspect of the forearm, in an area from
+the wrist and 15 cm proximal on the same side as the CTS. In
+patients with bilateral CTS, EMLAV or placebo was applied on
+the side in which the patient experienced most symptoms.
+After 90 minutes, the cream was washed off. Thirty-four
+patients were randomised to EMLAV treatment and 36
+patients to treatment with placebo (Table 1). The initial treatment was done at the hospital, and the patients were
+observed for any adverse events. They were thoroughly educated regarding how to administer the treatment at home,
+and given information on sensory re-education technique.
+They were given advice on how to integrate the sensory reeducation into their activities of daily living [16].
+An 8-week treatment programme (three treatments in the
+first week, two treatments in weeks 2–6, and one treatment
+in weeks 7–8) was used. It has previously proven to be successful in improving sensory function in the hands of patients
+with nerve repair and vibration-induced neuropathy [12,17].
+After completing the 8-week treatment, all participants were
+offered a surgical decompression of the median nerve.
+Figure 1 shows the numbers of participants in the study
+over time.
+R
+
+Randomisation
+All eligible patients received standardised information about
+the study both orally and in writing. After inclusion, they
+were randomly assigned to one of two interventions according to a computer-generated randomisation list, created using
+the ‘randomise’ function in Microsoft ExcelV.
+
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+R
+
+Sample size
+The primary outcome was the symptom severity scale (SSS)
+from the Boston carpal tunnel syndrome questionnaire
+(BCTQ) [17]. According to the sample size estimation for SSS
+(90% power and 5% significance level), the trial would be
+able to detect a minimum difference of 0.8 (SD 1.0) in the
+SSS [14,15] between the EMLAV group and the placebo group
+when 66 patients were randomly assigned.
+R
+
+R
+
+Participants
+During the period 2009–2015, patients referred to the
+Department of Hand Surgery, Skåne University Hospital,
+€, due to suspected CTS were screened for participation
+Malmo
+in the study. The inclusion criteria were: subjective symptoms
+for more than 3 months, clinical signs of CTS [3], an electroneurography (ENeG), with a fractionated sensory nerve conduction speed over the wrist of 40 m/s or less. The exclusion
+criteria were rheumatoid arthritis, diabetes, history of neurological disease, multiple systemic disease, vibration-induced
+neuropathy, complete nerve conduction block on ENeG,
+allergy to local anaesthetic agents, and inability to complete
+patient-rated outcome measures (PROMs).
+Seventy consecutive patients, 16 men and 54 women, with
+a mean age of 49 (SD 9) years, and with clinically and ENeGverified CTS were included. One medical doctor interviewed
+all the patients and ascertained the clinical diagnosis. A medical history was taken, focusing on adverse effects from previous use of local anaesthetic agents, including allergic
+reactions and current medication, and concentrating especially on medications that could interact with local anaesthetic agents.
+
+Study intervention
+The patients were randomised to treatment either with 15 g
+of a local anaesthetic cream containing 2.5% lidocain and
+€dert€alje, Sweden) or
+2.5% prilokain (EMLAV; AstraZeneca, So
+with a placebo cream. The placebo cream was visually and
+R
+
+Outcomes
+To ensure blinding of the investigators performing direct
+assessments, application and subsequent removal of EMLAV
+or placebo was performed by the same researcher (MF), who
+randomised and informed the participants in a standardised
+manner about treatment and follow-up. MF also instructed
+the study patients not to comment on the treatment to the
+investigator performing the direct assessments. Two therapists – who were blind regarding the treatment and who
+were experienced in assessment of nerve function – carried
+out all the direct assessments and administered the PROMs.
+All electrophysiological examinations were performed by
+the same technician and were evaluated independently by
+the same neurophysiologist.
+R
+
+Primary outcome
+The SSS from the Boston carpal tunnel syndrome questionnaire (BCTQ) [18] was used for primary outcome of symptoms
+at baseline and after 8 weeks of treatment.
+Secondary outcome
+Activity limitations were assessed with the short version of
+the ‘disability of arm, shoulder and hand questionnaire’
+(QuickDASH) [16] at baseline and after 8 weeks of treatment.
+The patients also estimated ‘satisfaction with the treatment’ after the treatment period on a visual analogue scale
+
+
+----- [PDF page 3 of 7: layout view of the same page] -----
+                                                             2     M. FLONDELL ET AL.
+
+
+                                                             Patients and methods                                               Table 1. Demographic data.
+                                                                                                                                                                      R
+                                                                                                                                                              EMLAV group             Placebo group
+                                                             Trial design                                                       Gender (male: female)             7:27                    9:27
+                                                                                                                                Treated hand (right: left)        27:7                    31:5
+                                                             The study design was a prospective randomised trial, carried       Age, mean (SD)                  51.0 (9.1)              46.8 (8.5)
+                                                             out at the Skåne University Hospital, Malmo     €, Sweden. The
+                                                             study was approved by the ethical committee of Lund
+                                                                                                                                                                          R       R
+                                                             University (1062–03), and was conducted according to the           cosmetically identical to the EMLAV. EMLAV or placebo was
+                                                             tenets of the Declaration of Helsinki. All the participants gave   applied to the volar aspect of the forearm, in an area from
+                                                             written consent.                                                   the wrist and 15 cm proximal on the same side as the CTS. In
+                                                                                                                                                                  R
+                                                                                                                                patients with bilateral CTS, EMLAV or placebo was applied on
+                                                                                                                                the side in which the patient experienced most symptoms.
+                                                             Randomisation
+                                                                                                                                After 90 minutes, the cream was washed off. Thirty-four
+                                                                                                                                                                              R
+                                                             All eligible patients received standardised information about      patients were randomised to EMLAV treatment and 36
+                                                             the study both orally and in writing. After inclusion, they        patients to treatment with placebo (Table 1). The initial treat-
+                                                             were randomly assigned to one of two interventions accord-         ment was done at the hospital, and the patients were
+                                                             ing to a computer-generated randomisation list, created using      observed for any adverse events. They were thoroughly edu-
+                                                                                                         R
+                                                             the ‘randomise’ function in Microsoft ExcelV.                      cated regarding how to administer the treatment at home,
+                                                                                                                                and given information on sensory re-education technique.
+                                                                                                                                They were given advice on how to integrate the sensory re-
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+
+
+
+                                                             Sample size                                                        education into their activities of daily living [16].
+                                                             The primary outcome was the symptom severity scale (SSS)               An 8-week treatment programme (three treatments in the
+                                                             from the Boston carpal tunnel syndrome questionnaire               first week, two treatments in weeks 2–6, and one treatment
+                                                             (BCTQ) [17]. According to the sample size estimation for SSS       in weeks 7–8) was used. It has previously proven to be suc-
+                                                             (90% power and 5% significance level), the trial would be          cessful in improving sensory function in the hands of patients
+                                                             able to detect a minimum difference of 0.8 (SD 1.0) in the         with nerve repair and vibration-induced neuropathy [12,17].
+                                                                                            R
+                                                             SSS [14,15] between the EMLAV group and the placebo group          After completing the 8-week treatment, all participants were
+                                                             when 66 patients were randomly assigned.                           offered a surgical decompression of the median nerve.
+                                                                                                                                    Figure 1 shows the numbers of participants in the study
+                                                                                                                                over time.
+                                                             Participants
+                                                             During the period 2009–2015, patients referred to the              Outcomes
+                                                             Department of Hand Surgery, Skåne University Hospital,
+                                                             Malmo  €, due to suspected CTS were screened for participation     To ensure blinding of the investigators performing direct
+                                                                                                                                                                                                     R
+
+                                                             in the study. The inclusion criteria were: subjective symptoms     assessments, application and subsequent removal of EMLAV
+                                                             for more than 3 months, clinical signs of CTS [3], an electro-     or placebo was performed by the same researcher (MF), who
+                                                             neurography (ENeG), with a fractionated sensory nerve con-         randomised and informed the participants in a standardised
+                                                             duction speed over the wrist of 40 m/s or less. The exclusion      manner about treatment and follow-up. MF also instructed
+                                                             criteria were rheumatoid arthritis, diabetes, history of neuro-    the study patients not to comment on the treatment to the
+                                                             logical disease, multiple systemic disease, vibration-induced      investigator performing the direct assessments. Two thera-
+                                                             neuropathy, complete nerve conduction block on ENeG,               pists – who were blind regarding the treatment and who
+                                                             allergy to local anaesthetic agents, and inability to complete     were experienced in assessment of nerve function – carried
+                                                             patient-rated outcome measures (PROMs).                            out all the direct assessments and administered the PROMs.
+                                                                 Seventy consecutive patients, 16 men and 54 women, with           All electrophysiological examinations were performed by
+                                                             a mean age of 49 (SD 9) years, and with clinically and ENeG-       the same technician and were evaluated independently by
+                                                             verified CTS were included. One medical doctor interviewed         the same neurophysiologist.
+                                                             all the patients and ascertained the clinical diagnosis. A med-
+                                                             ical history was taken, focusing on adverse effects from previ-
+                                                                                                                                Primary outcome
+                                                             ous use of local anaesthetic agents, including allergic
+                                                                                                                                The SSS from the Boston carpal tunnel syndrome question-
+                                                             reactions and current medication, and concentrating espe-
+                                                                                                                                naire (BCTQ) [18] was used for primary outcome of symptoms
+                                                             cially on medications that could interact with local anaes-
+                                                                                                                                at baseline and after 8 weeks of treatment.
+                                                             thetic agents.
+
+                                                                                                                                Secondary outcome
+                                                             Study intervention
+                                                                                                                                Activity limitations were assessed with the short version of
+                                                             The patients were randomised to treatment either with 15 g         the ‘disability of arm, shoulder and hand questionnaire’
+                                                             of a local anaesthetic cream containing 2.5% lidocain and          (QuickDASH) [16] at baseline and after 8 weeks of treatment.
+                                                                                    R
+                                                             2.5% prilokain (EMLAV; AstraZeneca, So
+                                                                                                  €dert€alje, Sweden) or           The patients also estimated ‘satisfaction with the treat-
+                                                             with a placebo cream. The placebo cream was visually and           ment’ after the treatment period on a visual analogue scale
+
+===== [PDF page 4 of 7] =====
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+JOURNAL OF PLASTIC SURGERY AND HAND SURGERY
+
+3
+
+Figure 1. CONSORT flow chart.
+
+(VAS), where the endpoints were ‘not satisfied at all’ (0) and
+‘maximally satisfied’ (100) [19].
+Direct assessments focusing mainly on sensory functions
+were performed at baseline, directly after the first treatment,
+and at the 8-week follow-up. ENeG was performed at baseline
+and after 8 weeks. During sensory testing, vision was
+occluded with a screen and the hand being tested was resting comfortably in a supine position.
+Assessment of cutaneous touch/pressure thresholds was
+done on the tip of the second digit using a set of 20
+Semmes-Weinstein monofilaments (SWM) (North Coast
+Medical Inc., Gilroy, CA) [20]. Assessment was started with
+SWM no. 2.83 (representing a pressure of 70 mg) and thereafter in an ascending or descending order depending on the
+answer for the first filament. Each filament was applied three
+times according to a standardised procedure [20]. Results
+were quantified from 0–20, representing the 20 monofilaments, with 20 corresponding to the lowest threshold.
+Two-point discrimination (2PD) was used at fingertip level
+of the second digit for assessment of tactile discrimination
+(tactile gnosis). The instrument used for 2PD was a single
+blunted stainless steel pin, and pairs of them, with a diameter
+of 300 lm, were mounted on two separate discs to allow
+easy switching between the distances. Distances between the
+pins of 0.7, 1.0, 1.3, 1.6, 1.9, 2.2, 2.5, 2.8, 3.1, 3.4, 4.0, 4.3, 4.6,
+and 5.0 mm were used. 2PD testing was done according to
+
+the ‘Moberg Method’ in descending order, with sufficient
+pressure to cause skin blanching. A score of at least seven
+correct answers out of 10 was required to permit testing with
+pins with a smaller gap between them.
+To familiarise the test subject with the test procedure and
+to eliminate the possibility of biased results due to learning
+effects, tests of 2PD and touch threshold on the third digit
+were performed before the baseline testing
+Sensory electro-neurography was performed bilaterally
+using Nicolet Viking SelectV equipment (Nicolet Biomedical
+Inc., Madison, WI). The patient’s skin temperature was kept
+above 30  C during the examination. Sensory fibres were
+stimulated in the thumb, the index finger, and the long finger
+for the median nerve. Ring electrodes were placed at the
+proximal interphalangeal and distal interphalangeal joints for
+the index and long fingers, and for the thumb, just proximal,
+and distal to the interphalangeal joint. Recording electrodes
+were placed over the median nerve at the proximal wrist
+crease. Amplitudes and conduction velocities were measured.
+R
+
+12-Months follow-up
+All participants were checked 12 months after inclusion, and
+asked if they had been operated on with carpal tunnel
+release on the side that had been treated with EMLAV or
+placebo.
+R
+
+
+----- [PDF page 4 of 7: layout view of the same page] -----
+                                                                                                                                                     JOURNAL OF PLASTIC SURGERY AND HAND SURGERY       3
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+
+
+
+                                                             Figure 1. CONSORT flow chart.
+
+
+                                                             (VAS), where the endpoints were ‘not satisfied at all’ (0) and             the ‘Moberg Method’ in descending order, with sufficient
+                                                             ‘maximally satisfied’ (100) [19].                                          pressure to cause skin blanching. A score of at least seven
+                                                                Direct assessments focusing mainly on sensory functions                 correct answers out of 10 was required to permit testing with
+                                                             were performed at baseline, directly after the first treatment,            pins with a smaller gap between them.
+                                                             and at the 8-week follow-up. ENeG was performed at baseline                   To familiarise the test subject with the test procedure and
+                                                             and after 8 weeks. During sensory testing, vision was                      to eliminate the possibility of biased results due to learning
+                                                             occluded with a screen and the hand being tested was rest-                 effects, tests of 2PD and touch threshold on the third digit
+                                                             ing comfortably in a supine position.                                      were performed before the baseline testing
+                                                                Assessment of cutaneous touch/pressure thresholds was                      Sensory electro-neurography was performed bilaterally
+                                                                                                                                                                    R
+                                                             done on the tip of the second digit using a set of 20                      using Nicolet Viking SelectV equipment (Nicolet Biomedical
+                                                             Semmes-Weinstein monofilaments (SWM) (North Coast                          Inc., Madison, WI). The patient’s skin temperature was kept
+                                                             Medical Inc., Gilroy, CA) [20]. Assessment was started with                above 30  C during the examination. Sensory fibres were
+                                                             SWM no. 2.83 (representing a pressure of 70 mg) and there-                 stimulated in the thumb, the index finger, and the long finger
+                                                             after in an ascending or descending order depending on the                 for the median nerve. Ring electrodes were placed at the
+                                                             answer for the first filament. Each filament was applied three             proximal interphalangeal and distal interphalangeal joints for
+                                                             times according to a standardised procedure [20]. Results                  the index and long fingers, and for the thumb, just proximal,
+                                                             were quantified from 0–20, representing the 20 monofila-                   and distal to the interphalangeal joint. Recording electrodes
+                                                             ments, with 20 corresponding to the lowest threshold.                      were placed over the median nerve at the proximal wrist
+                                                                Two-point discrimination (2PD) was used at fingertip level              crease. Amplitudes and conduction velocities were measured.
+                                                             of the second digit for assessment of tactile discrimination
+                                                             (tactile gnosis). The instrument used for 2PD was a single
+                                                                                                                                        12-Months follow-up
+                                                             blunted stainless steel pin, and pairs of them, with a diameter
+                                                             of 300 lm, were mounted on two separate discs to allow                     All participants were checked 12 months after inclusion, and
+                                                             easy switching between the distances. Distances between the                asked if they had been operated on with carpal tunnel
+                                                                                                                                                                                                   R
+                                                             pins of 0.7, 1.0, 1.3, 1.6, 1.9, 2.2, 2.5, 2.8, 3.1, 3.4, 4.0, 4.3, 4.6,   release on the side that had been treated with EMLAV or
+                                                             and 5.0 mm were used. 2PD testing was done according to                    placebo.
+
+===== [PDF page 5 of 7] =====
+4
+
+M. FLONDELL ET AL.
+
+Table 2. Raw data at baseline, 90 minutes, and 8 weeks after treatment with EMLA or placebo.
+Baseline Mean (SD)
+R
+
+EMLAV
+Placebo
+EMLAV
+Placebo
+EMLAV
+Placebo
+EMLAV
+Placebo
+EMLAV
+Placebo
+
+BCTQ, Symptom Severity Scale (SSS, 0–5)
+
+R
+
+Activity Limitation (QuickDASH, 0–100)
+Touch threshold digit II (SWM, 0–20b)
+
+R
+
+R
+
+Tactile discrimination digit II (2PD, mm)
+
+R
+
+Electro neurography (nerve conduction, m/s)
+
+90 minutes Mean (SD)
+
+2.7 (0.7)
+2.5 (0.8)
+30 (17.5)
+35 (21.5)
+18 (1.2)
+18 (1.3)
+3.4 (0.8)
+3.6 (1.5)
+30 (5.3)
+31 (6.8)
+
+8 weeks Mean (SD)
+2.2a (0.7)
+2.2 (0.9)
+24 (17.9)
+28 (19.2)
+18 (1.1)
+18 (1.3)
+3.1 (0.7)
+3.3 (1.1)
+31 (6.5)
+32 (7.8)
+
+18 (1.2)
+18 (1.4)
+3.2 (0.7)
+3.4 (1.1)
+
+a
+
+p ¼ 0.001 and effect size 0.63. Significant p-values < 0.004 after correction for multiple comparisons. Effect size interpretation: trivial (ES < 0.20), small
+(ES  0.20 < 0.50), moderate (ES  0.50 < 0.80), or large (ES  0.80).
+b
+Semmes-Weinstein monofilament kit of 20 was used and quantified from 0 (not testable) to 20 (SWM #1.65 equivalent to 8 mg pressure).
+
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+Statistical analysis
+IBM SPSS Statistics (Statistical Package for the Social Sciences,
+version 22 for Mac; IBM Corp., Armonk, NY) was used for the
+statistical assessment of data obtained from the testing.
+Results for each group are presented as mean and SD. We
+used t-test, and differences within and between groups are
+presented as means with 95% confidence interval (CI). Effect
+sizes of the changes in symptoms and specific sensory functions were also calculated. Any p-values below 0.05 were considered significant.
+The longitudinal changes between baseline results and
+results after 8 weeks of treatment were calculated within
+groups. Due to multiple pairwise comparisons, any p-values
+below 0.004 after Bonferroni correction were considered
+significant.
+
+Results
+No treatment-related adverse events were observed in any of
+the groups. Comparisons by t-test at baseline did not show
+any significant differences between the groups in any of the
+outcome parameters (Table 2).
+
+Primary outcome
+There was no significant difference in the BCTQ symptom
+severity scale between the EMLAV group and the placebo
+group when comparing baseline and 8 weeks (p ¼ 0.78, mean
+difference ¼ 0.05 units, 95% CI ¼ 0.3–0.4).
+R
+
+Secondary outcome
+Mean patient satisfaction after 8 weeks, estimated on a visual
+analogue scale, was 53 (SD ¼ 28) in the EMLAV group and 40
+(SD ¼ 28) in the placebo group. The difference between
+groups was not statistically significant, however.
+Furthermore, there were no significant differences
+between the EMLAV group and the placebo group when
+comparing changes in outcome between baseline and 8
+weeks, regarding QuickDASH, SWM, and 2PD. After 8 weeks
+of treatment, no significant improvements were seen in the
+direct assessments of sensory functions in the two groups
+compared to baseline.
+The BCTQ symptom severity scale had improved significantly in the EMLAV group after 8 weeks (p ¼ 0.001).
+R
+
+R
+
+R
+
+However, in absolute numbers the improvement was 0.5 units
+in the BCTQ symptom severity scale that goes from 1–5,
+where 0.8 units is considered a clinically important change
+[15]. Thus, the improvement may be of limited clinical importance (Table 2).
+ENeG did not show any significant differences after 8
+weeks, either within groups or between the two groups
+(Table 2). Despite this, 1 year after inclusion in the study, 15
+of the 32 patients in the EMLAV group (47%) and 22 of the
+36 patients in the placebo group (61%) had chosen a surgical
+intervention for their CTS.
+R
+
+Discussion
+No significant difference in severity of symptoms according
+to the BCTQ symptom severity scale was seen between the
+two groups after 8 weeks of treatment. However, a withingroup analysis showed that cutaneous forearm anaesthesia
+with EMLAV in combination with sensory re-education
+resulted in significantly reduced symptoms, although it was at
+a level of limited clinical importance.
+Following forearm deafferentation, more nerve cells in the
+primary somatosensory cortex are allocated to process sensory information from the hand. This has resulted in improved
+sensibility in the hand in healthy volunteers [13] and in
+patients with median or ulnar nerve injuries or neuropathy
+due to long-term exposure to hand-held vibrating tools [8,10].
+In the present study, patients treated with EMLAV showed an
+improvement in sensibility after 90 minutes, although this was
+not significant after correction for multiple comparisons
+(p ¼ 0.02). This indicates that the concept of cutaneous
+deafferentation also has the potential to work in patients
+with CTS (Table 2). However, repeated treatment with EMLAV
+did not consolidate the initial improvement in sensibility.
+Interestingly, even though there was no improvement in perception of touch or tactile discrimination after 8 weeks of
+treatment, patients in the EMLAV group experienced a subjective reduction in symptoms. This indicates that, although
+EMLAV treatment cannot improve sensibility, the combination
+of EMLAV, sensory training, and a general awareness of the
+use of the hand can reduce the symptoms. A reduction of
+symptoms in the BCTQ symptom severity scale was also seen
+in the placebo group after 8 weeks, but this difference was
+not significant. This might be the reason for the lack of a
+group difference at 8 weeks.
+R
+
+R
+
+R
+
+R
+
+R
+
+R
+
+
+----- [PDF page 5 of 7: layout view of the same page] -----
+                                                             4       M. FLONDELL ET AL.
+
+
+                                                             Table 2. Raw data at baseline, 90 minutes, and 8 weeks after treatment with EMLA or placebo.
+                                                                                                                                        Baseline Mean (SD)             90 minutes Mean (SD)              8 weeks Mean (SD)
+                                                                                                                                                                                                                2.2a (0.7)
+                                                                                                                           R
+                                                             BCTQ, Symptom Severity Scale (SSS, 0–5)                EMLAV                    2.7 (0.7)
+                                                                                                                    Placebo                  2.5 (0.8)                                                           2.2 (0.9)
+                                                                                                                           R
+                                                             Activity Limitation (QuickDASH, 0–100)                 EMLAV                    30 (17.5)                                                           24 (17.9)
+                                                                                                                    Placebo                  35 (21.5)                                                           28 (19.2)
+                                                             Touch threshold digit II (SWM, 0–20b)
+                                                                                                                           R
+                                                                                                                    EMLAV                    18 (1.2)                         18 (1.2)                           18 (1.1)
+                                                                                                                    Placebo                  18 (1.3)                         18 (1.4)                           18 (1.3)
+                                                                                                                           R
+                                                             Tactile discrimination digit II (2PD, mm)              EMLAV                    3.4 (0.8)                        3.2 (0.7)                          3.1 (0.7)
+                                                                                                                    Placebo                  3.6 (1.5)                        3.4 (1.1)                          3.3 (1.1)
+                                                                                                                           R
+                                                             Electro neurography (nerve conduction, m/s)            EMLAV                    30 (5.3)                                                            31 (6.5)
+                                                                                                                    Placebo                  31 (6.8)                                                            32 (7.8)
+                                                             a
+                                                              p ¼ 0.001 and effect size 0.63. Significant p-values < 0.004 after correction for multiple comparisons. Effect size interpretation: trivial (ES < 0.20), small
+                                                              (ES  0.20 < 0.50), moderate (ES  0.50 < 0.80), or large (ES  0.80).
+                                                             b
+                                                              Semmes-Weinstein monofilament kit of 20 was used and quantified from 0 (not testable) to 20 (SWM #1.65 equivalent to 8 mg pressure).
+
+
+                                                             Statistical analysis                                                             However, in absolute numbers the improvement was 0.5 units
+                                                                                                                                              in the BCTQ symptom severity scale that goes from 1–5,
+                                                             IBM SPSS Statistics (Statistical Package for the Social Sciences,
+                                                                                                                                              where 0.8 units is considered a clinically important change
+                                                             version 22 for Mac; IBM Corp., Armonk, NY) was used for the
+                                                                                                                                              [15]. Thus, the improvement may be of limited clinical import-
+                                                             statistical assessment of data obtained from the testing.
+                                                                                                                                              ance (Table 2).
+                                                                Results for each group are presented as mean and SD. We
+                                                                                                                                                 ENeG did not show any significant differences after 8
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+
+
+
+                                                             used t-test, and differences within and between groups are                       weeks, either within groups or between the two groups
+                                                             presented as means with 95% confidence interval (CI). Effect                     (Table 2). Despite this, 1 year after inclusion in the study, 15
+                                                             sizes of the changes in symptoms and specific sensory func-                                                                  R
+                                                                                                                                              of the 32 patients in the EMLAV group (47%) and 22 of the
+                                                             tions were also calculated. Any p-values below 0.05 were con-                    36 patients in the placebo group (61%) had chosen a surgical
+                                                             sidered significant.                                                             intervention for their CTS.
+                                                                The longitudinal changes between baseline results and
+                                                             results after 8 weeks of treatment were calculated within
+                                                             groups. Due to multiple pairwise comparisons, any p-values
+                                                                                                                                              Discussion
+                                                             below 0.004 after Bonferroni correction were considered
+                                                             significant.                                                                     No significant difference in severity of symptoms according
+                                                                                                                                              to the BCTQ symptom severity scale was seen between the
+                                                                                                                                              two groups after 8 weeks of treatment. However, a within-
+                                                             Results                                                                          group analysis showed that cutaneous forearm anaesthesia
+                                                                                                                                                             R
+                                                             No treatment-related adverse events were observed in any of                      with EMLAV in combination with sensory re-education
+                                                             the groups. Comparisons by t-test at baseline did not show                       resulted in significantly reduced symptoms, although it was at
+                                                             any significant differences between the groups in any of the                     a level of limited clinical importance.
+                                                             outcome parameters (Table 2).                                                       Following forearm deafferentation, more nerve cells in the
+                                                                                                                                              primary somatosensory cortex are allocated to process sen-
+                                                                                                                                              sory information from the hand. This has resulted in improved
+                                                             Primary outcome
+                                                                                                                                              sensibility in the hand in healthy volunteers [13] and in
+                                                             There was no significant difference in the BCTQ symptom                          patients with median or ulnar nerve injuries or neuropathy
+                                                                                                           R
+                                                             severity scale between the EMLAV group and the placebo                           due to long-term exposure to hand-held vibrating tools [8,10].
+                                                                                                                                                                                                            R
+                                                             group when comparing baseline and 8 weeks (p ¼ 0.78, mean                        In the present study, patients treated with EMLAV showed an
+                                                             difference ¼ 0.05 units, 95% CI ¼ 0.3–0.4).                                     improvement in sensibility after 90 minutes, although this was
+                                                                                                                                              not significant after correction for multiple comparisons
+                                                                                                                                              (p ¼ 0.02). This indicates that the concept of cutaneous
+                                                             Secondary outcome
+                                                                                                                                              deafferentation also has the potential to work in patients
+                                                                                                                                                                                                                             R
+                                                             Mean patient satisfaction after 8 weeks, estimated on a visual                   with CTS (Table 2). However, repeated treatment with EMLAV
+                                                                                                                       R
+                                                             analogue scale, was 53 (SD ¼ 28) in the EMLAV group and 40                       did not consolidate the initial improvement in sensibility.
+                                                             (SD ¼ 28) in the placebo group. The difference between                           Interestingly, even though there was no improvement in per-
+                                                             groups was not statistically significant, however.                               ception of touch or tactile discrimination after 8 weeks of
+                                                                                                                                                                                              R
+                                                                Furthermore, there were no significant differences                            treatment, patients in the EMLAV group experienced a sub-
+                                                                                        R
+                                                             between the EMLAV group and the placebo group when                               jective reduction in symptoms. This indicates that, although
+                                                                                                                                                     R
+                                                             comparing changes in outcome between baseline and 8                              EMLAV treatment cannot improve sensibility, the combination
+                                                                                                                                                         R
+                                                             weeks, regarding QuickDASH, SWM, and 2PD. After 8 weeks                          of EMLAV, sensory training, and a general awareness of the
+                                                             of treatment, no significant improvements were seen in the                       use of the hand can reduce the symptoms. A reduction of
+                                                             direct assessments of sensory functions in the two groups                        symptoms in the BCTQ symptom severity scale was also seen
+                                                             compared to baseline.                                                            in the placebo group after 8 weeks, but this difference was
+                                                                The BCTQ symptom severity scale had improved signifi-                         not significant. This might be the reason for the lack of a
+                                                                                            R
+                                                             cantly in the EMLAV group after 8 weeks (p ¼ 0.001).                             group difference at 8 weeks.
+
+===== [PDF page 6 of 7] =====
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+JOURNAL OF PLASTIC SURGERY AND HAND SURGERY
+
+There are many possible explanations for these results. The
+nerve injury behind the symptoms in CTS is probably different from that in both patients operated on due to a median
+or ulnar nerve transection and patients with neuropathy due
+to long-term exposure to hand-held vibrating tools, where
+treatment with cutaneous forearm deafferentation has proven
+successful [7]. In patients with a nerve transection, there is an
+incomplete peripheral re-innervation, and, secondary to this, a
+cerebral reorganisation. In patients with neuropathy due to
+long-term exposure to hand-held vibrating tools, peripheral
+nerve structures, fibres, and receptors are damaged – and,
+because of this, the sensory areas in the brain reorganise [8].
+In both of these patient groups, sensory functions in the
+hand are reduced, as demonstrated by a decreased tactile
+discrimination and perception of touch. In patients with CTS,
+the pathology is a compression of the median nerve at the
+wrist, resulting in a reduced speed of the nerve signal [21],
+but most patients have normal sensory functions in the hand
+when assessed with 2PD and SWM. A reduced sensory function of the hand is considered to be a very late sign, indicating severe compression of the median nerve [22]. It is
+thought that the improved function after cutaneous anaesthesia is based on more nerve cells being available in the
+brain for processing of sensory information from the hand. It
+is possible that the sensory information sent in the median
+nerve in patients with CTS but normal sensibility in the hand
+cannot be processed better when more nerve cells are
+recruited, so we cannot detect a permanent improvement
+after 8 weeks of treatment. On the other hand, it is possible
+that patients with a very severe compression, detected as a
+marked decrease in nerve conduction speed or a complete
+conduction block (resulting in decreased sensibility in the
+hand) might possibly improve after EMLAV treatment.
+However, there were few such patients in the present study,
+as we excluded patients with a complete conduction block,
+and the majority of participants had a moderate reduction in
+conduction velocity with a median speed of 31 m/s (interquartile range ¼ 28–35 m/s) over the carpal tunnel.
+Importantly, patients with prolonged severe compression are
+known to have permanent injury of the median nerve [22,23].
+To treat such patients with EMLAV could possibly improve
+sensibility, but the compression of the median nerve is not
+relieved – so the risk of permanent nerve injury remains,
+making EMLAV treatment unadvisable in such cases.
+The sensory assessments used here could not capture the
+relief of symptoms experienced by the patients in the EMLAV
+group. This could indicate that the sensitivity of the test
+instruments was too low. The Semmes-Weinstein monofilaments have proven to have good responsiveness in a previous longitudinal study after surgical intervention in CTS [24].
+All the patients in our study had nerve conduction below 41
+m/s and clinical signs of CTS, but they had superior sensory
+function at baseline compared to what has previously been
+reported in patients with CTS [24]. Only nine of the 70 participants had abnormal touch threshold (SWM above filament
+no. 2.83) at baseline, and only two had 2PD over 5 mm at
+baseline. This skewed distribution of the data with a ceiling
+effect, with very few study participants below cut-off for normality in both touch thresholds and discriminative touch at
+R
+
+5
+
+baseline (Table 2), means that the changes after 8 weeks of
+treatment could only be very small. Results from the PROMs;
+QuickDASH and BCTQ symptom severity scale had a wider
+distribution. At baseline, QuickDASH had a mean of 30 and
+ranged from 0–77 in the EMLAV group, and there was a
+mean of 35 (ranging from 0–93) in the placebo group. This
+indicates that some patients had major problems regarding
+not only sensory functions, but also performance of daily
+activities.
+This study had some shortcomings. Although CTS is relatively common, it was difficult to recruit patients. One possible explanation for this is that many patients know that an
+operation often alleviates symptoms. The waiting time for surgery is very short, so many of them would have preferred to
+choose an operation.
+Some patients experienced benefits from the treatment,
+and general satisfaction with the treatment was higher,
+although not significantly so, among those treated with
+EMLAV rather than placebo. This is also illustrated by the fact
+that 47% in the EMLAV group as compared to 61% in the placebo group had been operated on within 1 year after treatment. Thus, EMLAV treatment might be an alternative for
+some patients. Furthermore, EMLAV treatment could be of
+interest to patients who have already been operated on with
+carpal tunnel release, but for whom the operation has not
+relieved the symptoms. In such patients, the persistent symptoms may be due to many different causes – many of which
+involve a disturbed afferent signal pattern from the hand to
+the brain. In such cases, recruitment of more neurons in the
+somatosensory areas through cutaneous anaesthesia might
+possibly improve the symptoms. Further studies are needed to
+identify which patients with CTS may benefit from this treatment. Also, the optimal treatment protocol in terms of timing
+and duration of treatment would have to be decided on.
+R
+
+R
+
+R
+
+R
+
+R
+
+Acknowledgements
+We thank Maria Silfverberg-Lindqvist, occupational therapist, for help in
+performing clinical examinations. Financial support was received from the
+Regional Research Fund of Region Skåne, Sweden.
+
+R
+
+R
+
+Disclosure statement
+The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the paper.
+
+R
+
+References
+1.
+
+2.
+3.
+4.
+
+5.
+
+Dale AM, Harris-Adamson C, Rempel D, et al. Prevalence and incidence of carpal tunnel syndrome in US working populations:
+pooled analysis of six prospective studies. Scand J Work Environ
+Health 2013;39:495–505.
+Atroshi I, Gummesson C, Johnsson R, et al. Prevalence of carpal
+tunnel syndrome in a general population. JAMA 1999;282:153–8.
+Katz JN, Stirrat CR. A self-administered hand diagram for the diagnosis of carpal tunnel syndrome. J Hand Surg Am 1990;15:360–3.
+Gerritsen AA, de Krom MC, Struijs MA, et al. Conservative treatment
+options for carpal tunnel syndrome: a systematic review of randomised controlled trials. J Neurol 2002;249:272–80.
+Ashworth NL. Carpal tunnel syndrome. BMJ Clin Evid
+2010;2011:1114.
+
+
+----- [PDF page 6 of 7: layout view of the same page] -----
+                                                                                                                                                JOURNAL OF PLASTIC SURGERY AND HAND SURGERY              5
+
+
+                                                                 There are many possible explanations for these results. The     baseline (Table 2), means that the changes after 8 weeks of
+                                                             nerve injury behind the symptoms in CTS is probably differ-         treatment could only be very small. Results from the PROMs;
+                                                             ent from that in both patients operated on due to a median          QuickDASH and BCTQ symptom severity scale had a wider
+                                                             or ulnar nerve transection and patients with neuropathy due         distribution. At baseline, QuickDASH had a mean of 30 and
+                                                                                                                                                                         R
+                                                             to long-term exposure to hand-held vibrating tools, where           ranged from 0–77 in the EMLAV group, and there was a
+                                                             treatment with cutaneous forearm deafferentation has proven         mean of 35 (ranging from 0–93) in the placebo group. This
+                                                             successful [7]. In patients with a nerve transection, there is an   indicates that some patients had major problems regarding
+                                                             incomplete peripheral re-innervation, and, secondary to this, a     not only sensory functions, but also performance of daily
+                                                             cerebral reorganisation. In patients with neuropathy due to         activities.
+                                                             long-term exposure to hand-held vibrating tools, peripheral             This study had some shortcomings. Although CTS is rela-
+                                                             nerve structures, fibres, and receptors are damaged – and,          tively common, it was difficult to recruit patients. One pos-
+                                                             because of this, the sensory areas in the brain reorganise [8].     sible explanation for this is that many patients know that an
+                                                             In both of these patient groups, sensory functions in the           operation often alleviates symptoms. The waiting time for sur-
+                                                             hand are reduced, as demonstrated by a decreased tactile            gery is very short, so many of them would have preferred to
+                                                             discrimination and perception of touch. In patients with CTS,       choose an operation.
+                                                             the pathology is a compression of the median nerve at the               Some patients experienced benefits from the treatment,
+                                                             wrist, resulting in a reduced speed of the nerve signal [21],       and general satisfaction with the treatment was higher,
+                                                             but most patients have normal sensory functions in the hand         although not significantly so, among those treated with
+                                                             when assessed with 2PD and SWM. A reduced sensory func-                   R
+                                                                                                                                 EMLAV rather than placebo. This is also illustrated by the fact
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+
+
+
+                                                             tion of the hand is considered to be a very late sign, indicat-                                R
+                                                                                                                                 that 47% in the EMLAV group as compared to 61% in the pla-
+                                                             ing severe compression of the median nerve [22]. It is              cebo group had been operated on within 1 year after treat-
+                                                             thought that the improved function after cutaneous anaes-                                  R
+                                                                                                                                 ment. Thus, EMLAV treatment might be an alternative for
+                                                             thesia is based on more nerve cells being available in the                                                      R
+                                                                                                                                 some patients. Furthermore, EMLAV treatment could be of
+                                                             brain for processing of sensory information from the hand. It       interest to patients who have already been operated on with
+                                                             is possible that the sensory information sent in the median         carpal tunnel release, but for whom the operation has not
+                                                             nerve in patients with CTS but normal sensibility in the hand       relieved the symptoms. In such patients, the persistent symp-
+                                                             cannot be processed better when more nerve cells are                toms may be due to many different causes – many of which
+                                                             recruited, so we cannot detect a permanent improvement              involve a disturbed afferent signal pattern from the hand to
+                                                             after 8 weeks of treatment. On the other hand, it is possible       the brain. In such cases, recruitment of more neurons in the
+                                                             that patients with a very severe compression, detected as a         somatosensory areas through cutaneous anaesthesia might
+                                                             marked decrease in nerve conduction speed or a complete             possibly improve the symptoms. Further studies are needed to
+                                                             conduction block (resulting in decreased sensibility in the         identify which patients with CTS may benefit from this treat-
+                                                                                                                R
+                                                             hand) might possibly improve after EMLAV treatment.                 ment. Also, the optimal treatment protocol in terms of timing
+                                                             However, there were few such patients in the present study,         and duration of treatment would have to be decided on.
+                                                             as we excluded patients with a complete conduction block,
+                                                             and the majority of participants had a moderate reduction in
+                                                             conduction velocity with a median speed of 31 m/s (inter-           Acknowledgements
+                                                             quartile range ¼ 28–35 m/s) over the carpal tunnel.                 We thank Maria Silfverberg-Lindqvist, occupational therapist, for help in
+                                                             Importantly, patients with prolonged severe compression are         performing clinical examinations. Financial support was received from the
+                                                             known to have permanent injury of the median nerve [22,23].         Regional Research Fund of Region Skåne, Sweden.
+                                                                                                  R
+                                                             To treat such patients with EMLAV could possibly improve
+                                                             sensibility, but the compression of the median nerve is not
+                                                             relieved – so the risk of permanent nerve injury remains,           Disclosure statement
+                                                                           R
+                                                             making EMLAV treatment unadvisable in such cases.                   The authors report no conflicts of interest. The authors alone are respon-
+                                                                 The sensory assessments used here could not capture the         sible for the content and writing of the paper.
+                                                                                                                            R
+                                                             relief of symptoms experienced by the patients in the EMLAV
+                                                             group. This could indicate that the sensitivity of the test
+                                                                                                                                 References
+                                                             instruments was too low. The Semmes-Weinstein monofila-
+                                                             ments have proven to have good responsiveness in a previ-            1.   Dale AM, Harris-Adamson C, Rempel D, et al. Prevalence and inci-
+                                                             ous longitudinal study after surgical intervention in CTS [24].           dence of carpal tunnel syndrome in US working populations:
+                                                                                                                                       pooled analysis of six prospective studies. Scand J Work Environ
+                                                             All the patients in our study had nerve conduction below 41
+                                                                                                                                       Health 2013;39:495–505.
+                                                             m/s and clinical signs of CTS, but they had superior sensory         2.   Atroshi I, Gummesson C, Johnsson R, et al. Prevalence of carpal
+                                                             function at baseline compared to what has previously been                 tunnel syndrome in a general population. JAMA 1999;282:153–8.
+                                                             reported in patients with CTS [24]. Only nine of the 70 partici-     3.   Katz JN, Stirrat CR. A self-administered hand diagram for the diag-
+                                                             pants had abnormal touch threshold (SWM above filament                    nosis of carpal tunnel syndrome. J Hand Surg Am 1990;15:360–3.
+                                                                                                                                  4.   Gerritsen AA, de Krom MC, Struijs MA, et al. Conservative treatment
+                                                             no. 2.83) at baseline, and only two had 2PD over 5 mm at
+                                                                                                                                       options for carpal tunnel syndrome: a systematic review of rando-
+                                                             baseline. This skewed distribution of the data with a ceiling             mised controlled trials. J Neurol 2002;249:272–80.
+                                                             effect, with very few study participants below cut-off for nor-      5.   Ashworth NL. Carpal tunnel syndrome. BMJ Clin Evid
+                                                             mality in both touch thresholds and discriminative touch at               2010;2011:1114.
+
+===== [PDF page 7 of 7] =====
+6
+
+M. FLONDELL ET AL.
+
+6.
+
+7.
+8.
+9.
+10.
+
+11.
+
+12.
+
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+13.
+
+14.
+
+15.
+
+Scholten RJ, Mink van der Molen A, Uitdehaag BM, et al. Surgical
+treatment options for carpal tunnel syndrome. Cochrane Database
+Syst Rev 2007;4:CD003905.
+Taylor KS, Anastakis DJ, Davis KD. Cutting your nerve changes your
+brain. Brain 2009;132:3122–33.
+Bj€
+orkman A, Weibull A, Svensson J, et al. Cortical changes in dental
+technicians exposed to vibrating tools. Neuroreport 2010;21:722–6.
+Duffau H. Brain plasticity: from pathophysiological mechanisms to
+therapeutic applications. J Clin Neurosci 2006;885–97.
+Rosen B, Bjorkman A, Lundborg G. Improved sensory relearning
+after nerve repair induced by selective temporary anaesthesia – a
+new concept in hand rehabilitation. J Hand Surg Br
+2006;13:126–32.
+Bj€
+orkman A, Rosen B, Lundborg G. Acute improvement of hand
+sensibility after selective ipsilateral cutaneous forearm anaesthesia.
+Eur J Neurosci 2004;20:2733–6.
+Rosen B, Bjorkman A, Lundborg G. Improving hand sensibility in
+vibration induced neuropathy: a case-series. J Occup Med Toxicol
+2011;13:3104948.
+Bj€
+orkman A, Weibull A, Rosen B, et al. Rapid cortical reorganisation
+and improved sensitivity of the hand following cutaneous anaesthesia of the forearm. Eur J Neurosci 2009;29:837–44.
+Atroshi I, Flondell M, Hofer M, Ranstam J. Methylprednisolone injections for the carpal tunnel syndrome: a randomized, placebo-controlled trial. Ann Intern Med 2013;159:309–17.
+Leite JC, Jerosch-Herold C, Song F. A systematic review of the psychometric properties of the Boston Carpal Tunnel Questionnaire.
+BMC Musculoskelet Disord 2006;7:78.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+22.
+
+23.
+24.
+
+Rosen B, Lundborg G. Sensory re-education. In: Skirven T, ed.
+Rehabilitation of the Hand and Upper Extremity. 6th ed.
+Philadelphia, PA: Elsevier Mosby; 2011. p. 634–45.
+Lundborg G, Bjorkman A, Rosen B. Enhanced sensory relearning
+after nerve repair by using repeated forearm anaesthesia: aspects
+on time dynamics of treatment. Acta Neurochir Suppl
+2007;100:121–6.
+Levine DW, Simmons BP, Koris MJ, et al. A self-administered questionnaire for the assessment of severity of symptoms and functional status in carpal tunnel syndrome. J Bone Joint Surg Am
+1993;75:1585–92.
+Wewers ME, Lowe NK. A critical rewiev of visual analogue scales in
+the measurement of clinical phenomena. Res Nurs Health
+1990;13:227–36.
+Bell-Krotoski J, Weinstein S, Weinstein C. Testing sensibility, including touch-pressure, two-point discrimination, point localization and
+vibration. J Hand Ther 1993;6:114–23.
+Katz JN, Simmons BP. Clinical practice. Carpal tunnel syndrome. N
+Engl J Med 2002;346:1807–12.
+Schmid AB, Bland JD, Bhat MA, Bennett DL. The relationship of
+nerve fibre pathology to sensory function in entrapment neuropathy. Brain 2014;137:3186–99.
+Tang DT, Barbour JR, Davidge KM, et al. Nerve entrapment: update.
+Plast Reconstr Surg 2015;135:199–215.
+Jerosch-Herold C, Shepstone L, Miller L, Chapman P. The responsiveness of sensibility and strength tests in patients undergoing
+carpal tunnel decompression. BMC Musculoskelet Disord
+2011;12:244.
+
+
+----- [PDF page 7 of 7: layout view of the same page] -----
+                                                             6         M. FLONDELL ET AL.
+
+
+                                                                 6.   Scholten RJ, Mink van der Molen A, Uitdehaag BM, et al. Surgical         16.   Rosen B, Lundborg G. Sensory re-education. In: Skirven T, ed.
+                                                                      treatment options for carpal tunnel syndrome. Cochrane Database                Rehabilitation of the Hand and Upper Extremity. 6th ed.
+                                                                      Syst Rev 2007;4:CD003905.                                                      Philadelphia, PA: Elsevier Mosby; 2011. p. 634–45.
+                                                                 7.   Taylor KS, Anastakis DJ, Davis KD. Cutting your nerve changes your       17.   Lundborg G, Bjorkman A, Rosen B. Enhanced sensory relearning
+                                                                      brain. Brain 2009;132:3122–33.                                                 after nerve repair by using repeated forearm anaesthesia: aspects
+                                                                 8.   Bj€
+                                                                        orkman A, Weibull A, Svensson J, et al. Cortical changes in dental           on time dynamics of treatment. Acta Neurochir Suppl
+                                                                      technicians exposed to vibrating tools. Neuroreport 2010;21:722–6.             2007;100:121–6.
+                                                                 9.   Duffau H. Brain plasticity: from pathophysiological mechanisms to        18.   Levine DW, Simmons BP, Koris MJ, et al. A self-administered ques-
+                                                                      therapeutic applications. J Clin Neurosci 2006;885–97.                         tionnaire for the assessment of severity of symptoms and func-
+                                                             10.      Rosen B, Bjorkman A, Lundborg G. Improved sensory relearning                   tional status in carpal tunnel syndrome. J Bone Joint Surg Am
+                                                                      after nerve repair induced by selective temporary anaesthesia – a              1993;75:1585–92.
+                                                                      new concept in hand rehabilitation. J Hand Surg Br                       19.   Wewers ME, Lowe NK. A critical rewiev of visual analogue scales in
+                                                                      2006;13:126–32.                                                                the measurement of clinical phenomena. Res Nurs Health
+                                                             11.      Bj€
+                                                                        orkman A, Rosen B, Lundborg G. Acute improvement of hand                     1990;13:227–36.
+                                                                      sensibility after selective ipsilateral cutaneous forearm anaesthesia.   20.   Bell-Krotoski J, Weinstein S, Weinstein C. Testing sensibility, includ-
+                                                                      Eur J Neurosci 2004;20:2733–6.                                                 ing touch-pressure, two-point discrimination, point localization and
+                                                             12.      Rosen B, Bjorkman A, Lundborg G. Improving hand sensibility in                 vibration. J Hand Ther 1993;6:114–23.
+                                                                      vibration induced neuropathy: a case-series. J Occup Med Toxicol         21.   Katz JN, Simmons BP. Clinical practice. Carpal tunnel syndrome. N
+                                                                      2011;13:3104948.                                                               Engl J Med 2002;346:1807–12.
+                                                             13.      Bj€
+                                                                        orkman A, Weibull A, Rosen B, et al. Rapid cortical reorganisation     22.   Schmid AB, Bland JD, Bhat MA, Bennett DL. The relationship of
+                                                                      and improved sensitivity of the hand following cutaneous anaes-                nerve fibre pathology to sensory function in entrapment neur-
+                                                                      thesia of the forearm. Eur J Neurosci 2009;29:837–44.                          opathy. Brain 2014;137:3186–99.
+                                                             14.      Atroshi I, Flondell M, Hofer M, Ranstam J. Methylprednisolone injec-     23.   Tang DT, Barbour JR, Davidge KM, et al. Nerve entrapment: update.
+Downloaded by [University of Regina] at 14:01 16 July 2016
+
+
+
+
+                                                                      tions for the carpal tunnel syndrome: a randomized, placebo-con-               Plast Reconstr Surg 2015;135:199–215.
+                                                                      trolled trial. Ann Intern Med 2013;159:309–17.                           24.   Jerosch-Herold C, Shepstone L, Miller L, Chapman P. The respon-
+                                                             15.      Leite JC, Jerosch-Herold C, Song F. A systematic review of the psy-            siveness of sensibility and strength tests in patients undergoing
+                                                                      chometric properties of the Boston Carpal Tunnel Questionnaire.                carpal tunnel decompression. BMC Musculoskelet Disord
+                                                                      BMC Musculoskelet Disord 2006;7:78.                                            2011;12:244.
+

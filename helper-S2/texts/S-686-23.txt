@@ -1,0 +1,927 @@
+SOURCE FILE: S-686-23 - Rames 2026 - The Safety of Perioperative Liposomal Bupivacaine Injections in Dermatologic Surgery Patients.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 5] =====
+Original Article
+
+The Safety of Perioperative Liposomal Bupivacaine
+Injections in Dermatologic Surgery Patients
+Melissa M. Rames, MD,* Jorge A. Rios-Duarte, MD,* and Nahid Y. Vidal, MD†
+
+BACKGROUND There is a paucity of literature investigating the use of liposomal bupivacaine (LB) in a dermatologic
+surgery setting.
+OBJECTIVE To identify the treatment characteristics and adverse events, including Local Anesthetic System Toxicity
+(LAST), in patients receiving perioperative LB.
+MATERIALS AND METHODS A retrospective chart review was performed at a single institution using an institutional
+database and key words “Exparel” or “liposomal bupivacaine.” Patients $18 years old who received perioperative LB to
+the surgical site and surrounding skin were included.
+RESULTS A total of 140 LB administrations and 129 patients were included. Liposomal bupivacaine was used most often
+in the setting of excisions (n 5 88, 62.9%) and Mohs micrographic surgery (n 5 49, 35%), with hidradenitis suppurativa
+(n 5 77, 55%) and cutaneous neoplasms (n 5 56, 40%) the most frequent diagnoses. The median postoperative area and
+length were 23.6 cm2 and 15.4 cm, respectively. The median LB dosage was 20 mL (range 1.5–20). There were no adverse
+events in 134 out of 136 patients of LB administration (98.5%). There were 2 reports (1.5%) of nausea on POD1 while
+these patients were taking opioids.
+CONCLUSION Liposomal bupivacaine should be considered for postoperative analgesia in patients undergoing dermatologic surgery because it is well tolerated and efficacious. The authors observed no cases of LAST.
+
+P
+
+revious studies have demonstrated mild-to-moderate
+postoperative pain after Mohs micrographic surgery
+(MMS).1 Pain is primarily managed with oral
+acetaminophen 6 nonsteroidal anti-inflammatory drugs
+and less often with prescription analgesics.1,2 There are
+higher pain scores associated with flap repairs or surgeries
+on the scalp or upper extremities, necessitating additional
+strategies to optimize postoperative pain in some populations.1,3,4 Liposomal bupivacaine (LB, brand name:
+Exparel) is a long-acting, injectable nonopioid anesthetic
+that provides sustained release analgesia for 72 hours3 and
+may be a promising option in this setting. However, its use
+in dermatologic surgery is off-label and its safety profile is
+largely understudied.
+The primary concern with LB is the potential risk of
+Local Anesthetics System Toxicity (LAST), particularly
+with high cumulative dosing or inadvertent intravascular
+injections.5–7 The risk of LAST is dose dependent and
+includes both central nervous system (CNS) and cardiovascular system (CVS) toxicity.5,6 Central nervous system
+
+From the *Department of Dermatology, Mayo Clinic, Rochester, Minnesota;
+†
+Division of Dermatologic Surgery, Department of Dermatology, Mayo Clinic,
+Rochester, Minnesota
+The authors have indicated no significant interest with commercial supporters.
+Address correspondence and reprint requests to: Melissa M. Rames, MD, Mayo
+Clinic Department of Dermatology 507-284-2511. or e-mail: rames.melissa@mayo.
+edu
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by
+Wolters Kluwer Health, LLC. All rights reserved.
+Dermatol Surg 2026;52:743– 747
+http://dx.doi.org/10.1097/DSS.0000000000005031
+
+The Safety of Perioperative LB Injections • Rames et al
+
+toxicity includes seizures, agitation, restlessness, anxiety,
+lightheadedness, perioral numbness/paresthesia, incoherent
+speech, metallic taste, dizziness, tinnitus, blurry vision,
+tremors, twitching, and drowsiness.5,6 Cardiovascular
+system toxicity includes tachycardia, bradycardia, palpitations, hypotension, shortness of breath, lightheadedness,
+syncope, and diaphoresis.6,8
+Local Anesthetic System Toxicity has been documented
+by anesthesia and pain specialists in case reports involving
+regional nerve blocks,7 with larger studies reporting a low
+incidence (0–18 cases per 10,000 uses).9 The decline in
+reported cases is thought to be because of reduced frequency
+of intravascular injections.10 Local Anesthetic System
+Toxicity has also been reported in the context of epidural
+anesthesia at a similarly low rate (0.7–0.11 cases per 10,000
+uses).11,12 A study using the Food and Drug (FDA) Adverse
+Event Reporting System (FAERS) demonstrated low incidences overall but did not specify patient population or
+doses.13 In dermatologic surgery, because LB is typically
+used in conjunction with other local anesthetics, there is a
+theoretical concern that interactions with these anesthetics
+may result in displacement and release of free bupivacaine
+from liposomes into the bloodstream.14
+Given the risk of LAST, the manufacturer recommendation
+is to wait 20 minutes between injection of other local
+anesthetics and LB, and to allow 96 hours between injection
+of LB and any additional local anesthetic afterward.3,4,7
+Notably, LAST has not been reported in a dermatologic setting.
+Chang and colleagues demonstrated that LB use in the
+setting of large, complex Mohs resections was well tolerated
+www.dermatologicsurgery.org
+
+743
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+
+----- [PDF page 1 of 5: layout view of the same page] -----
+           Original Article
+
+
+         The Safety of Perioperative Liposomal Bupivacaine
+         Injections in Dermatologic Surgery Patients
+         Melissa M. Rames, MD,* Jorge A. Rios-Duarte, MD,* and Nahid Y. Vidal, MD†
+
+
+
+           BACKGROUND There is a paucity of literature investigating the use of liposomal bupivacaine (LB) in a dermatologic
+           surgery setting.
+           OBJECTIVE To identify the treatment characteristics and adverse events, including Local Anesthetic System Toxicity
+           (LAST), in patients receiving perioperative LB.
+           MATERIALS AND METHODS A retrospective chart review was performed at a single institution using an institutional
+           database and key words “Exparel” or “liposomal bupivacaine.” Patients $18 years old who received perioperative LB to
+           the surgical site and surrounding skin were included.
+           RESULTS A total of 140 LB administrations and 129 patients were included. Liposomal bupivacaine was used most often
+           in the setting of excisions (n 5 88, 62.9%) and Mohs micrographic surgery (n 5 49, 35%), with hidradenitis suppurativa
+           (n 5 77, 55%) and cutaneous neoplasms (n 5 56, 40%) the most frequent diagnoses. The median postoperative area and
+           length were 23.6 cm2 and 15.4 cm, respectively. The median LB dosage was 20 mL (range 1.5–20). There were no adverse
+           events in 134 out of 136 patients of LB administration (98.5%). There were 2 reports (1.5%) of nausea on POD1 while
+           these patients were taking opioids.
+           CONCLUSION Liposomal bupivacaine should be considered for postoperative analgesia in patients undergoing derma-
+           tologic surgery because it is well tolerated and efficacious. The authors observed no cases of LAST.
+
+
+
+
+         P       revious studies have demonstrated mild-to-moderate
+                 postoperative pain after Mohs micrographic surgery
+                 (MMS).1 Pain is primarily managed with oral
+         acetaminophen 6 nonsteroidal anti-inflammatory drugs
+                                                                                          toxicity includes seizures, agitation, restlessness, anxiety,
+                                                                                          lightheadedness, perioral numbness/paresthesia, incoherent
+                                                                                          speech, metallic taste, dizziness, tinnitus, blurry vision,
+                                                                                          tremors, twitching, and drowsiness.5,6 Cardiovascular
+         and less often with prescription analgesics.1,2 There are                        system toxicity includes tachycardia, bradycardia, palpita-
+         higher pain scores associated with flap repairs or surgeries                     tions, hypotension, shortness of breath, lightheadedness,
+         on the scalp or upper extremities, necessitating additional                      syncope, and diaphoresis.6,8
+         strategies to optimize postoperative pain in some pop-                              Local Anesthetic System Toxicity has been documented
+         ulations.1,3,4 Liposomal bupivacaine (LB, brand name:                            by anesthesia and pain specialists in case reports involving
+         Exparel) is a long-acting, injectable nonopioid anesthetic                       regional nerve blocks,7 with larger studies reporting a low
+         that provides sustained release analgesia for 72 hours3 and                      incidence (0–18 cases per 10,000 uses).9 The decline in
+         may be a promising option in this setting. However, its use                      reported cases is thought to be because of reduced frequency
+         in dermatologic surgery is off-label and its safety profile is                   of intravascular injections.10 Local Anesthetic System
+         largely understudied.                                                            Toxicity has also been reported in the context of epidural
+            The primary concern with LB is the potential risk of
+                                                                                          anesthesia at a similarly low rate (0.7–0.11 cases per 10,000
+         Local Anesthetics System Toxicity (LAST), particularly
+                                                                                          uses).11,12 A study using the Food and Drug (FDA) Adverse
+         with high cumulative dosing or inadvertent intravascular
+                                                                                          Event Reporting System (FAERS) demonstrated low inci-
+         injections.5–7 The risk of LAST is dose dependent and
+                                                                                          dences overall but did not specify patient population or
+         includes both central nervous system (CNS) and cardiovas-
+                                                                                          doses.13 In dermatologic surgery, because LB is typically
+         cular system (CVS) toxicity.5,6 Central nervous system
+                                                                                          used in conjunction with other local anesthetics, there is a
+                                                                                          theoretical concern that interactions with these anesthetics
+         From the *Department of Dermatology, Mayo Clinic, Rochester, Minnesota;          may result in displacement and release of free bupivacaine
+         †
+           Division of Dermatologic Surgery, Department of Dermatology, Mayo Clinic,      from liposomes into the bloodstream.14
+         Rochester, Minnesota                                                                Given the risk of LAST, the manufacturer recommendation
+         The authors have indicated no significant interest with commercial supporters.
+                                                                                          is to wait 20 minutes between injection of other local
+         Address correspondence and reprint requests to: Melissa M. Rames, MD, Mayo
+         Clinic Department of Dermatology 507-284-2511. or e-mail: rames.melissa@mayo.    anesthetics and LB, and to allow 96 hours between injection
+         edu                                                                              of LB and any additional local anesthetic afterward.3,4,7
+         © 2026 by the American Society for Dermatologic Surgery, Inc. Published by       Notably, LAST has not been reported in a dermatologic setting.
+         Wolters Kluwer Health, LLC. All rights reserved.
+         Dermatol Surg 2026;52:743– 747                                                      Chang and colleagues demonstrated that LB use in the
+         http://dx.doi.org/10.1097/DSS.0000000000005031                                   setting of large, complex Mohs resections was well tolerated
+
+
+         The Safety of Perioperative LB Injections • Rames et al                                                      www.dermatologicsurgery.org    743
+
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+===== [PDF page 2 of 5] =====
+and effective in reducing postoperative pain, with no reports
+of LAST.15 The specific pharmacokinetics and rates of
+adverse events have not been studied in dermatologic
+surgery, but there is extensive evidence of LB safety and
+tolerability in patients undergoing general, thoracic, plastic,
+or orthopedic surgeries.8,16,17
+Outside of LAST, the most common adverse events (AEs)
+for LB in clinical trials were nausea, constipation, and
+vomiting ($10%).13 These studies included local infiltration for bunionectomy or hemorrhoidectomy (dose range
+66–532 mg) or nerve block studies (dose of 133 mg or 266
+mg) used in various surgical procedures.13 The aim of this
+retrospective study is to evaluate the safety of LB when used
+in patients undergoing outpatient dermatologic surgeries.
+
+Materials and Methods
+The study was institutional review board approved. A
+retrospective chart review was performed at a single
+institution. Electronic health records were queried using
+key search terms including “Exparel,” “liposomal bupivacaine” and screened for use during dermatologic patient
+encounters. Patients $18 years old between October 2015
+through October 2024 who received perioperative LB
+(Exparel) at the surgical site perioperatively in dermatologic
+surgery were included. Patients ,18 years old or those who
+received LB from other specialties were excluded. Owing to
+the retrospective nature of this study, adverse events were
+identified through chart review, and the absence of reported
+LAST cases was inferred from lack of documentation.
+Statistics were calculated using R version 4.4.1. Patient
+and case characteristics were summarized using descriptive
+statistics. Numeric variables were described using mean/SD
+or median/range (as appropriate). Categorical variables
+were described as frequencies and proportions. To compare
+case characteristics between patients with and without
+reported postoperative pain, a Wilcoxon rank-sum test at p
+value , .05 significance was used.
+
+Results
+A total of 136 occurrences of liposomal bupivacaine (13.3
+mg/mL) administration in 127 patients were included in the
+study. There were no adverse events in 134 out of 136 cases
+of LB administration (98.5%). There were 2 reports (1.5%)
+of nausea on Postoperative day 1 (POD1) while these
+patients were taking opioids (tramadol 50 mg every 6 hours
+as needed).
+In total, 52% were male patients, and the median age was
+48.6 years. Liposomal bupivacaine was used most often in
+the setting of excisions (n 5 85, 62.5%) followed by MMS
+(n 5 48, 35.3%). Hidradenitis suppurativa (HS) was the
+most frequent diagnosis (n 5 74, 54.4%) associated with
+the procedure where LB was administered, followed by
+cutaneous neoplasms (n 5 56, 41.2%)—most commonly
+squamous cell carcinoma (16/56, 28.6%). The axillae
+(n 5 39, 28.7%), groin (n 5 36, 26.5%), anogenital
+(n 5 27, 19.9%), face (n 5 21, 15.4%), and scalp and neck
+(n 5 17, 12.5%) regions were the most frequent anatomic
+sites.
+744
+
+DERMATOLOGIC SURGERY • August 2026 • Volume 52 • Number 8
+
+The most common repair type associated with LB
+administration was a partial or guided closure (n 5 55,
+39.3%), secondary intention (n 5 52, 38.2%), and
+intermediate layered closure (n 5 33, 24.3%). Twenty
+cases (14.7%) had referred closures with other surgical
+specialties (but received LB with dermatology), 16 (11.8%)
+underwent complex layered closure, and 2 had flaps
+(1.5%). There was 1 simple closure (0.7%). The median
+LB dosage was 20 mL corresponding to 266 mg LB (range
+1.5–20 mL, 20.4–266 mg). The median postoperative area
+and length were 23.6 cm2 (0.3–871 cm2) and 15.5 cm
+(1.6–70 cm), respectively. The median number of operative
+sites per encounter was 1.0, although maximum was as high
+as 22 surgical sites (1.0–22.0). Out of the 136 occurrences of
+LB administration in 127 patients, there was 40 (29.4%)
+procedures associated with a prescription for oral opioids to
+be taken as needed (PRN) for severe acute pain. A detailed
+description of case characteristics associated with LB
+administrations is given in Table 1.
+
+Discussion
+This study demonstrates that LB is a well-tolerated and safe
+option for postoperative analgesia in patients undergoing
+dermatologic surgery, with no adverse events in 98.5% of
+LB administrations. Importantly, there were no CNS or
+CVS AEs in this cohort. Only 2 patients (1.5%) (each with 1
+LB administration) reported nausea on POD1, likely related
+to concomitant oral opioids per documented clinical
+suspicion. This study contributes to the limited data on LB
+use in dermatologic surgery.
+The 1 adverse event in this cohort was nausea (n 5 2,
+1.5%), which is consistent with clinical trials demonstrating
+nausea as one of the most frequently reported adverse events
+after LB administration.18 An analysis looking at 10 studies
+in which LB was used in setting of hemorrhoidectomy,
+bunionectomy, breast augmentation, total knee arthroplasty, or hernia repair reported that most AEs were
+classified as mild (.90%), the most common being nausea
+(3.3%), constipation (2.0%), and vomiting (1.3%); the 2
+patients in this study with nausea were also taking
+postoperative opioids.8 Of note, nausea still had an
+exceptionally low rate (3.3%).8 Adverse events were
+generally higher in those with higher doses of LB (.266
+mg), in patients $65 years old, and in patients with preexisting comorbidities.8 Four patients experienced
+treatment-related bradycardia and 1 patient experienced
+treatment-related tachycardia, none of which required
+intervention.8 Liposomal bupivacaine does not necessitate
+continuous cardiac monitoring and, therefore, the authors
+do not monitor the patients with active heart rate (HR)
+monitors at this institution, although the authors do
+measure pre- and post-LB administration HR and assess
+patient status clinically. Patients are observed for 15 to 30
+minutes after injection and discharged with written and
+verbal instructions to monitor for signs up to 96 hours after
+injection.
+Local Anesthetic System Toxicity is a rare, life threatening and dose-dependent complication, typically resulting
+www.dermatologicsurgery.org
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+
+----- [PDF page 2 of 5: layout view of the same page] -----
+         and effective in reducing postoperative pain, with no reports                The most common repair type associated with LB
+         of LAST.15 The specific pharmacokinetics and rates of                    administration was a partial or guided closure (n 5 55,
+         adverse events have not been studied in dermatologic                     39.3%), secondary intention (n 5 52, 38.2%), and
+         surgery, but there is extensive evidence of LB safety and                intermediate layered closure (n 5 33, 24.3%). Twenty
+         tolerability in patients undergoing general, thoracic, plastic,          cases (14.7%) had referred closures with other surgical
+         or orthopedic surgeries.8,16,17                                          specialties (but received LB with dermatology), 16 (11.8%)
+            Outside of LAST, the most common adverse events (AEs)                 underwent complex layered closure, and 2 had flaps
+         for LB in clinical trials were nausea, constipation, and                 (1.5%). There was 1 simple closure (0.7%). The median
+         vomiting ($10%).13 These studies included local infiltra-                LB dosage was 20 mL corresponding to 266 mg LB (range
+         tion for bunionectomy or hemorrhoidectomy (dose range                    1.5–20 mL, 20.4–266 mg). The median postoperative area
+         66–532 mg) or nerve block studies (dose of 133 mg or 266                 and length were 23.6 cm2 (0.3–871 cm2) and 15.5 cm
+         mg) used in various surgical procedures.13 The aim of this               (1.6–70 cm), respectively. The median number of operative
+         retrospective study is to evaluate the safety of LB when used            sites per encounter was 1.0, although maximum was as high
+         in patients undergoing outpatient dermatologic surgeries.                as 22 surgical sites (1.0–22.0). Out of the 136 occurrences of
+                                                                                  LB administration in 127 patients, there was 40 (29.4%)
+         Materials and Methods                                                    procedures associated with a prescription for oral opioids to
+         The study was institutional review board approved. A                     be taken as needed (PRN) for severe acute pain. A detailed
+         retrospective chart review was performed at a single                     description of case characteristics associated with LB
+         institution. Electronic health records were queried using                administrations is given in Table 1.
+         key search terms including “Exparel,” “liposomal bupiva-
+         caine” and screened for use during dermatologic patient                  Discussion
+         encounters. Patients $18 years old between October 2015                  This study demonstrates that LB is a well-tolerated and safe
+         through October 2024 who received perioperative LB                       option for postoperative analgesia in patients undergoing
+         (Exparel) at the surgical site perioperatively in dermatologic           dermatologic surgery, with no adverse events in 98.5% of
+         surgery were included. Patients ,18 years old or those who               LB administrations. Importantly, there were no CNS or
+         received LB from other specialties were excluded. Owing to               CVS AEs in this cohort. Only 2 patients (1.5%) (each with 1
+         the retrospective nature of this study, adverse events were              LB administration) reported nausea on POD1, likely related
+         identified through chart review, and the absence of reported             to concomitant oral opioids per documented clinical
+         LAST cases was inferred from lack of documentation.                      suspicion. This study contributes to the limited data on LB
+            Statistics were calculated using R version 4.4.1. Patient             use in dermatologic surgery.
+         and case characteristics were summarized using descriptive                  The 1 adverse event in this cohort was nausea (n 5 2,
+         statistics. Numeric variables were described using mean/SD               1.5%), which is consistent with clinical trials demonstrating
+         or median/range (as appropriate). Categorical variables                  nausea as one of the most frequently reported adverse events
+         were described as frequencies and proportions. To compare                after LB administration.18 An analysis looking at 10 studies
+         case characteristics between patients with and without                   in which LB was used in setting of hemorrhoidectomy,
+         reported postoperative pain, a Wilcoxon rank-sum test at p               bunionectomy, breast augmentation, total knee arthro-
+         value , .05 significance was used.                                       plasty, or hernia repair reported that most AEs were
+                                                                                  classified as mild (.90%), the most common being nausea
+         Results                                                                  (3.3%), constipation (2.0%), and vomiting (1.3%); the 2
+         A total of 136 occurrences of liposomal bupivacaine (13.3                patients in this study with nausea were also taking
+         mg/mL) administration in 127 patients were included in the               postoperative opioids.8 Of note, nausea still had an
+         study. There were no adverse events in 134 out of 136 cases              exceptionally low rate (3.3%).8 Adverse events were
+         of LB administration (98.5%). There were 2 reports (1.5%)                generally higher in those with higher doses of LB (.266
+         of nausea on Postoperative day 1 (POD1) while these                      mg), in patients $65 years old, and in patients with pre-
+         patients were taking opioids (tramadol 50 mg every 6 hours               existing comorbidities.8 Four patients experienced
+         as needed).                                                              treatment-related bradycardia and 1 patient experienced
+             In total, 52% were male patients, and the median age was             treatment-related tachycardia, none of which required
+         48.6 years. Liposomal bupivacaine was used most often in                 intervention.8 Liposomal bupivacaine does not necessitate
+         the setting of excisions (n 5 85, 62.5%) followed by MMS                 continuous cardiac monitoring and, therefore, the authors
+         (n 5 48, 35.3%). Hidradenitis suppurativa (HS) was the                   do not monitor the patients with active heart rate (HR)
+         most frequent diagnosis (n 5 74, 54.4%) associated with                  monitors at this institution, although the authors do
+         the procedure where LB was administered, followed by                     measure pre- and post-LB administration HR and assess
+         cutaneous neoplasms (n 5 56, 41.2%)—most commonly                        patient status clinically. Patients are observed for 15 to 30
+         squamous cell carcinoma (16/56, 28.6%). The axillae                      minutes after injection and discharged with written and
+         (n 5 39, 28.7%), groin (n 5 36, 26.5%), anogenital                       verbal instructions to monitor for signs up to 96 hours after
+         (n 5 27, 19.9%), face (n 5 21, 15.4%), and scalp and neck                injection.
+         (n 5 17, 12.5%) regions were the most frequent anatomic                     Local Anesthetic System Toxicity is a rare, life threaten-
+         sites.                                                                   ing and dose-dependent complication, typically resulting
+
+
+         744   DERMATOLOGIC SURGERY • August 2026 • Volume 52 • Number 8                                                    www.dermatologicsurgery.org
+
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+===== [PDF page 3 of 5] =====
+TABLE 1. Case Characteristics Associated With Liposomal Bupivacaine Use18
+Characteristics
+
+Total (N 5 136)
+
+Procedure (n, %)
+Excision
+MMS
+MMS + nail avulsion
+Other
+
+85 (62.5)
+48 (35.3)
+2 (1.5)
+1 (0.7)
+
+Procedure for a cutaneous oncology indication (n, %)
+
+56 (41.2)
+
+Diagnosis (n, %)
+BCC
+Benign neoplasm
+DFSP
+Dissecting cellulitis of the scalp
+EMPD
+Epidermoid cysts
+Excisional biopsy
+HS
+MM
+MMIS
+Onychodystrophy
+Other carcinomas/sarcomas
+SCC
+SCC and BCC
+SCCIS
+
+11 (8.1)
+2 (1.5)
+9 (6.6)
+1 (0.7)
+5 (3.7)
+1 (0.7)
+1 (0.7)
+74 (54.4)
+6 (4.4)
+3 (2.2)
+1 (0.7)
+4 (2.9)
+16 (11.8)
+1 (0.7)
+1 (0.7)
+
+Liposomal bupivacaine dosage used (median, range)
+
+20.0 (1.5–20.0)
+
+Reported complications (n, %)
+Nausea
+None
+
+2 (1.5)
+134 (98.5)
+
+Total postoperative area (cm2) including all sites* (median, range)
+
+23.6 (0.3–871.8)
+
+Total postoperative length (cm) including all sites* (median, range)
+
+15.4 (1.6–70.0)
+
+Number of operative sites per procedure (median, range)
+
+1.0 (1.0–22.0)
+
+Anatomical location involved (n, %)
+Anogenital
+Arm
+Axillae
+Face
+Finger or toe
+Foot
+Groin
+Hand
+Leg
+Nailbed
+Scalp and neck
+Trunk and abdomen
+
+27 (19.9)
+6 (4.4)
+39 (28.7)
+21 (15.4)
+2 (1.5)
+1 (0.7)
+36 (26.5)
+1 (0.7)
+9 (6.6)
+3 (2.2)
+17 (12.5)
+15 (11.0)
+
+Wound closure (n, %)
+Complex layered closure
+Flap
+Intermediate layered closure
+M-plasty
+Partial or guided closure
+Referred closure
+
+16 (11.8)
+2 (1.5)
+33 (24.3)
+1 (0.7)
+52 (38.2)
+20 (14.7)
+
+The Safety of Perioperative LB Injections • Rames et al
+
+www.dermatologicsurgery.org
+
+745
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+
+----- [PDF page 3 of 5: layout view of the same page] -----
+          TABLE 1. Case Characteristics Associated With Liposomal Bupivacaine Use18
+          Characteristics                                                                                     Total (N 5 136)
+          Procedure (n, %)
+            Excision                                                                                          85 (62.5)
+            MMS                                                                                               48 (35.3)
+            MMS + nail avulsion                                                                               2 (1.5)
+            Other                                                                                             1 (0.7)
+          Procedure for a cutaneous oncology indication (n, %)                                                56 (41.2)
+          Diagnosis (n, %)
+            BCC                                                                                               11 (8.1)
+            Benign neoplasm                                                                                   2 (1.5)
+            DFSP                                                                                              9 (6.6)
+            Dissecting cellulitis of the scalp                                                                1 (0.7)
+            EMPD                                                                                              5 (3.7)
+            Epidermoid cysts                                                                                  1 (0.7)
+            Excisional biopsy                                                                                 1 (0.7)
+            HS                                                                                                74 (54.4)
+            MM                                                                                                6 (4.4)
+            MMIS                                                                                              3 (2.2)
+            Onychodystrophy                                                                                   1 (0.7)
+            Other carcinomas/sarcomas                                                                         4 (2.9)
+            SCC                                                                                               16 (11.8)
+            SCC and BCC                                                                                       1 (0.7)
+            SCCIS                                                                                             1 (0.7)
+          Liposomal bupivacaine dosage used (median, range)                                                   20.0 (1.5–20.0)
+          Reported complications (n, %)
+            Nausea                                                                                            2 (1.5)
+            None                                                                                              134 (98.5)
+          Total postoperative area (cm2) including all sites* (median, range)                                 23.6 (0.3–871.8)
+          Total postoperative length (cm) including all sites* (median, range)                                15.4 (1.6–70.0)
+          Number of operative sites per procedure (median, range)                                             1.0 (1.0–22.0)
+          Anatomical location involved (n, %)
+            Anogenital                                                                                        27 (19.9)
+            Arm                                                                                               6 (4.4)
+            Axillae                                                                                           39 (28.7)
+            Face                                                                                              21 (15.4)
+            Finger or toe                                                                                     2 (1.5)
+            Foot                                                                                              1 (0.7)
+            Groin                                                                                             36 (26.5)
+            Hand                                                                                              1 (0.7)
+            Leg                                                                                               9 (6.6)
+            Nailbed                                                                                           3 (2.2)
+            Scalp and neck                                                                                    17 (12.5)
+            Trunk and abdomen                                                                                 15 (11.0)
+          Wound closure (n, %)
+           Complex layered closure                                                                            16 (11.8)
+           Flap                                                                                               2 (1.5)
+           Intermediate layered closure                                                                       33 (24.3)
+           M-plasty                                                                                           1 (0.7)
+           Partial or guided closure                                                                          52 (38.2)
+           Referred closure                                                                                   20 (14.7)
+
+
+
+
+         The Safety of Perioperative LB Injections • Rames et al                                                  www.dermatologicsurgery.org        745
+
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+===== [PDF page 4 of 5] =====
+TABLE 1. Case Characteristics Associated With Liposomal Bupivacaine Use18 (Continued)
+Characteristics
+Secondary intention
+Simple closure
+
+Total (N 5 136)
+51 (37.5)
+1 (0.7)
+
+Ten patients were on baseline opioids. Three patients had 2 liposomal bupivacaine applications during a period of 2 days with total dosages in 72 hours under the
+recommended limit.
+BCC, basal cell carcinoma; DFSP, Dermatofibrosarcoma protuberans; EMPD, extramammary paget’s disease;.HS, hidradenitis suppurativa; MM, Malignant melanoma;
+MMIS, malignant melanoma in situ;.MMS, Mohs micrographic surgery; SCC, squamous cell carcinoma; SCCIS, squamous cell carcinoma in situ.
+
+from inadvertent intravascular injection leading to excessive systemic absorption of injected analgesics.5,6 The longacting nature of LB and interaction with other anesthetics
+pose a theoretical increased risk for LAST,6 but it is unlikely
+that high enough doses (.266 mg)18 would be used in
+dermatologic procedures to be concerned for significant
+AEs, even for very large sizes and quantities of procedures as
+demonstrated in this patient cohort. The authors did not
+have any cases that exceeded 266 mg (the max dose for local
+infiltration per FDA)18 even in the setting of large, multisite
+procedures. In contrast, for regional nerve blocks (specifically interscalene brachial plexus, sciatic nerve in the
+popliteal fossa, and adductor canal blocks in adults), the
+maximum recommended dose is 133 mg per block.18 The
+safety and efficacy of LB for other regional blocks have not
+been established or officially recommended by the FDA.18
+Assuming the same dose in milligrams injected, the risk of
+LAST may be higher with regional nerve blocks using LB
+compared with local infiltration, primarily because of
+prolonged systemic absorption and higher vascularity with
+nerve blocks and, therefore, a risk of inadvertent vascular
+injection.5,6,18 However, there are limited data directly
+quantifying the difference in LAST between regional nerve
+blocks and local infiltration with LB.
+Despite these theoretical concerns, studies investigating
+the incidence of LAST with LB are sparse. Dagenais and
+colleagues13 used the FAERS to identify reports of LAST
+using 3 different approaches/definitions, though doses and
+clinical scenarios were not specified. Overall, the incidence
+of LAST was low, reported as 0.22% (29/12,854), 0.09%
+(75/76,762), or 0.05% (42/91,181) cases of LAST out of all
+reported adverse events with any injectable anesthetic,
+depending on the analytic approach.
+The route of administration also affects both the onset
+and duration of analgesia with LB. Local infiltration
+generally produces faster and more predicable analgesia,
+with some studies reporting clinically meaningful analgesia
+within 2 minutes and substantial pain relief by 5 minutes
+after local infiltration.19 In contrast, nerve blocks with LB
+may have a less predictable and slower onset. A study
+investigating ulnar nerve blocks reported success in 32%
+after use of LB compared with 100% of patients who had
+plain bupivacaine with a significantly delayed time to onset
+with LB.20,21 Similarly, a study on sciatic nerve blocks
+reported a median time of onset of 18 to 29 minutes.21
+Duration of analgesia also varies by route, with regional
+nerve blocks providing longer lasting pain control than
+746
+
+DERMATOLOGIC SURGERY • August 2026 • Volume 52 • Number 8
+
+local infiltration.22 Pharmacokinetic data support this:
+plasma levels of LB can persist for up to 96 hours after
+local infiltration and for up to 120 to 168 hours after
+regional nerve blocks.18 Additional studies are needed in
+dermatologic surgery-specific settings.
+In general, the authors recommend nerve blocks on the
+face using plain bupivacaine because of its faster onset19,20,23 and increased risk of potential vascular absorption of injectables on the face. Although LB is approved for
+regional nerve blocks, there are limited data guiding optimal
+volumes for facial nerve blocks as opposed to local
+infiltration. If LB is used for a facial nerve block, only the
+minimum effective volume should be administered, taking
+into account the necessity for extended (721 hour)
+anesthesia. On the face, excess volume can lead to nerve
+irritation, systemic absorption, edema, and unintentional
+anesthetic spread. Owing to the anatomic constraints of
+facial planes, less LB is needed—just enough to bathe the
+nerve. At this institution, nerve blocks are performed per
+surgeon discretion, either with lidocaine mixed with plain
+bupivacaine or with plain bupivacaine.
+For initial local anesthesia at this institution, lidocaine or
+buffered lidocaine is used, with LB reserved for after
+completion of complex or extensive procedures. When
+using LB in flap cases, surgeons should perform their usual
+local anesthesia for reconstruction and ensure meticulous
+hemostasis, because the prolonged duration of action of LB
+(up to 96 hours) increases the risk of adverse events if
+additional anesthetic is later required. It is advisable to
+ensure the procedure is complete before injecting LB,
+allowing at least a 20-minute interval after the last local
+anesthetic injection to reduce the risk of premature release
+of bupivacaine in accordance with the manufacturer and
+pharmacy recommendations.3,4,7 In this study, this was
+typically after the completion of the procedure while the
+patient was still under the effect of local anesthesia. For
+cases performed in the operative room (e.g., HS cases), LB
+was injected immediately after the case with the patient
+under sedation or anesthesia.
+Injections were performed as local infiltrations. For
+linear closures and flaps, the authors recommend LB
+infiltration using a total of 5 to 10 mL, 0.5 to 1.0 mL per
+1 cm of incision length. This is injected in subcutaneous
+tissue around the flap base, pedicle, and inset margins. If
+more volume is needed for a very large flap, this can be
+diluted from 1:2 to 1:4 with normal saline, using a fanning
+technique to ensure thorough anesthesia. In more complex
+www.dermatologicsurgery.org
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+
+----- [PDF page 4 of 5: layout view of the same page] -----
+          TABLE 1. Case Characteristics Associated With Liposomal Bupivacaine Use18 (Continued)
+          Characteristics                                                                                                  Total (N 5 136)
+               Secondary intention                                                                                         51 (37.5)
+               Simple closure                                                                                              1 (0.7)
+         Ten patients were on baseline opioids. Three patients had 2 liposomal bupivacaine applications during a period of 2 days with total dosages in 72 hours under the
+         recommended limit.
+         BCC, basal cell carcinoma; DFSP, Dermatofibrosarcoma protuberans; EMPD, extramammary paget’s disease;.HS, hidradenitis suppurativa; MM, Malignant melanoma;
+         MMIS, malignant melanoma in situ;.MMS, Mohs micrographic surgery; SCC, squamous cell carcinoma; SCCIS, squamous cell carcinoma in situ.
+
+
+
+         from inadvertent intravascular injection leading to exces-                        local infiltration.22 Pharmacokinetic data support this:
+         sive systemic absorption of injected analgesics.5,6 The long-                     plasma levels of LB can persist for up to 96 hours after
+         acting nature of LB and interaction with other anesthetics                        local infiltration and for up to 120 to 168 hours after
+         pose a theoretical increased risk for LAST,6 but it is unlikely                   regional nerve blocks.18 Additional studies are needed in
+         that high enough doses (.266 mg)18 would be used in                               dermatologic surgery-specific settings.
+         dermatologic procedures to be concerned for significant                               In general, the authors recommend nerve blocks on the
+         AEs, even for very large sizes and quantities of procedures as                    face using plain bupivacaine because of its faster on-
+         demonstrated in this patient cohort. The authors did not                          set19,20,23 and increased risk of potential vascular absorp-
+         have any cases that exceeded 266 mg (the max dose for local                       tion of injectables on the face. Although LB is approved for
+         infiltration per FDA)18 even in the setting of large, multisite                   regional nerve blocks, there are limited data guiding optimal
+         procedures. In contrast, for regional nerve blocks (specif-                       volumes for facial nerve blocks as opposed to local
+         ically interscalene brachial plexus, sciatic nerve in the                         infiltration. If LB is used for a facial nerve block, only the
+         popliteal fossa, and adductor canal blocks in adults), the                        minimum effective volume should be administered, taking
+         maximum recommended dose is 133 mg per block.18 The                               into account the necessity for extended (721 hour)
+         safety and efficacy of LB for other regional blocks have not                      anesthesia. On the face, excess volume can lead to nerve
+         been established or officially recommended by the FDA.18                          irritation, systemic absorption, edema, and unintentional
+         Assuming the same dose in milligrams injected, the risk of                        anesthetic spread. Owing to the anatomic constraints of
+         LAST may be higher with regional nerve blocks using LB                            facial planes, less LB is needed—just enough to bathe the
+         compared with local infiltration, primarily because of                            nerve. At this institution, nerve blocks are performed per
+         prolonged systemic absorption and higher vascularity with                         surgeon discretion, either with lidocaine mixed with plain
+         nerve blocks and, therefore, a risk of inadvertent vascular                       bupivacaine or with plain bupivacaine.
+         injection.5,6,18 However, there are limited data directly                             For initial local anesthesia at this institution, lidocaine or
+         quantifying the difference in LAST between regional nerve                         buffered lidocaine is used, with LB reserved for after
+         blocks and local infiltration with LB.                                            completion of complex or extensive procedures. When
+            Despite these theoretical concerns, studies investigating                      using LB in flap cases, surgeons should perform their usual
+         the incidence of LAST with LB are sparse. Dagenais and                            local anesthesia for reconstruction and ensure meticulous
+         colleagues13 used the FAERS to identify reports of LAST                           hemostasis, because the prolonged duration of action of LB
+         using 3 different approaches/definitions, though doses and                        (up to 96 hours) increases the risk of adverse events if
+         clinical scenarios were not specified. Overall, the incidence                     additional anesthetic is later required. It is advisable to
+         of LAST was low, reported as 0.22% (29/12,854), 0.09%                             ensure the procedure is complete before injecting LB,
+         (75/76,762), or 0.05% (42/91,181) cases of LAST out of all                        allowing at least a 20-minute interval after the last local
+         reported adverse events with any injectable anesthetic,                           anesthetic injection to reduce the risk of premature release
+         depending on the analytic approach.                                               of bupivacaine in accordance with the manufacturer and
+            The route of administration also affects both the onset                        pharmacy recommendations.3,4,7 In this study, this was
+         and duration of analgesia with LB. Local infiltration                             typically after the completion of the procedure while the
+         generally produces faster and more predicable analgesia,                          patient was still under the effect of local anesthesia. For
+         with some studies reporting clinically meaningful analgesia                       cases performed in the operative room (e.g., HS cases), LB
+         within 2 minutes and substantial pain relief by 5 minutes                         was injected immediately after the case with the patient
+         after local infiltration.19 In contrast, nerve blocks with LB                     under sedation or anesthesia.
+         may have a less predictable and slower onset. A study                                 Injections were performed as local infiltrations. For
+         investigating ulnar nerve blocks reported success in 32%                          linear closures and flaps, the authors recommend LB
+         after use of LB compared with 100% of patients who had                            infiltration using a total of 5 to 10 mL, 0.5 to 1.0 mL per
+         plain bupivacaine with a significantly delayed time to onset                      1 cm of incision length. This is injected in subcutaneous
+         with LB.20,21 Similarly, a study on sciatic nerve blocks                          tissue around the flap base, pedicle, and inset margins. If
+         reported a median time of onset of 18 to 29 minutes.21                            more volume is needed for a very large flap, this can be
+         Duration of analgesia also varies by route, with regional                         diluted from 1:2 to 1:4 with normal saline, using a fanning
+         nerve blocks providing longer lasting pain control than                           technique to ensure thorough anesthesia. In more complex
+
+
+         746    DERMATOLOGIC SURGERY • August 2026 • Volume 52 • Number 8                                                                 www.dermatologicsurgery.org
+
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+===== [PDF page 5 of 5] =====
+cases such as HS (bilateral, multisite, very large), the authors
+recommend dilution of LB (to not exceed the maximum
+dose) with normal saline up to 1:14 ratio (e.g., 20 mL
+LB 1 260 mL of saline 5 280 cc) with the goal of 0.5 to 1.0
+cc per cm2 of wound area coverage. Note that this is per
+square centimeter, not incisional length, in the case of a wide
+surgical field. At this institution, many HS excisions were
+partially guided and not a linear closure.
+For patients who received LB with dermatologic surgery
+and repairs with other specialties, the other specialty teams
+were aware of LB administration—all patients receive a
+bracelet after LB administration, and it is well documented
+in the chart. General anesthesia is considered safe within the
+72 hours post-LB administration, with caution advised
+when using agents that may potentiate CNS or cardiac
+toxicity. The authors recommend that irrespective of the
+setting, patients should be discharged with an LB bracelet
+(provided by the manufacturer) with documentation including exact administration time.
+Limitations of this study include its retrospective nature,
+small sample size, and single institution data. Owing to the
+retrospective nature of this study, adverse events were
+determined based on available documentation. The authors
+believe this is sufficient, because most instances of LAST, if
+they were to occur, would likely manifest within the timeline
+of a typical MMS encounter (most commonly immediate,
+but can be delayed up to 45 minutes or rarely longer)9 and
+be thoroughly documented in accordance with the institution’s standards. Future prospective studies are necessary to
+investigate the rate of adverse events across various
+dermatologic procedures. In addition, studies with a control
+arm are needed to evaluate the efficacy of LB versus placebo
+while accounting for prescription oral analgesics.
+Overall, LB is a well-tolerated option for postoperative
+analgesia in patients undergoing dermatologic surgery and
+may be considered. This study contributes to the limited
+data on LB use in this setting. Although the authors had no
+incidences of LAST (CNS or CVS AEs), it is important to
+monitor for the aforementioned signs of toxicity when
+administering LB and wait the recommend times between
+other local anesthetic administration.5,6,8,18
+
+References
+
+1. Limthongkul B, Samie F, Humphreys TR. Assessment of postoperative
+pain after Mohs micrographic surgery. Dermatol Surg 2013;39:
+857–63.
+2. Sniezek PJ, Brodland DG, Zitelli JA. A randomized controlled trial
+comparing acetaminophen, acetaminophen and ibuprofen, and acetaminophen and codeine for postoperative pain relief after Mohs surgery and cutaneous reconstruction. Dermatol Surg 2011;37:1007–13.
+3. Firoz BF, Goldberg LH, Arnon O, Mamelak AJ. An analysis of pain
+and analgesia after Mohs micrographic surgery. J Am Acad Dermatol
+2010;63:79–86.
+4. Giordano CN, Mori S, Navarrete-Dechent C, Dusza SW, et al. Patient
+concerns in the immediate postoperative period after Mohs micrographic surgery. Dermatol Surg 2020;46:514–8.
+5. Jensen EK, Bøgevig S, Balchen T, Springborg AH, et al. Dose safety
+and pharmacodynamics of subcutaneous bupivacaine in a novel
+
+The Safety of Perioperative LB Injections • Rames et al
+
+extended-release microparticle formulation: a phase 1, dose-ascending
+study in male volunteers. Basic Clin Pharmacol Toxicol 2024;134:
+657–75.
+6. Aggarwal N. Local anesthetics systemic toxicity association with
+exparel (bupivacaine liposome)- a pharmacovigilance evaluation.
+Expert Opin Drug Saf 2018;17:581–7.
+7. A S Carroll K, Henglein J, Boland P, Gallagher P, et al. Three cases of
+local anesthetic systemic toxicity following regional infiltration analgesia: the need for prompt recognition and treatment. J Anesthesiol
+Pain Ther 2023;4:20–4.
+8. Viscusi ER, Sinatra R, Onel E, Ramamoorthy SL. The safety of liposome bupivacaine, a novel local analgesic formulation. Clin J Pain
+2014;30:102–10.
+9. Gitman M, Barrington MJ. Local anesthetic systemic toxicity: a review
+of recent case reports and registries. Reg Anesth Pain Med 2018;43:
+124–30.
+¨
+10. Morwald
+EE, Zubizarreta N, Cozowicz C, Poeran J, et al. Incidence of
+local anesthetic systemic toxicity in orthopedic patients receiving peripheral nerve blocks. Reg Anesth Pain Med 2017;42:442–5.
+11. Mulroy MF. Systemic toxicity and cardiotoxicity from local anesthetics: incidence and preventive measures. Reg Anesth Pain Med
+2002;27:556–61.
+12. El-Boghdadly K, Chin KJ. Local anesthetic systemic toxicity: continuing professional development. Obstet Anesth Dig 2017;37:
+12–3.
+13. Dagenais S, Scranton R, Joyce AR, Vick CC. A comparison of approaches to identify possible cases of local anesthetic systemic toxicity
+in the FDA Adverse Event Reporting System (FAERS) database. Expert Opin Drug Saf 2018;17:545–52.
+14. Kharitonov V. A review of the compatibility of liposome bupivacaine
+with other drug products and commonly used implant materials.
+Postgrad Med 2014;126:129–38.
+15. Chang MS, Murad F, Schmults CD. Efficacy of liposomal bupivacaine
+for pain control after large, complex Mohs resections: a matched cohort study. Dermatol Surg 2022;48:1006–7.
+16. Artz C, Ward MA, Miles MVP, Brennan P, et al. Intraoperative liposomal bupivacaine for skin graft donor site analgesia: a retrospective cohort study. Burns 2021;47:1045–52.
+17. Manson WC, Blank RS, Martin LW, Alpert SB, et al. An observational
+study of the pharmacokinetics of surgeon-performed intercostal nerve
+blockade with liposomal bupivacaine for posterior-lateral thoracotomy analgesia. Anesth Analg 2020;131:1843–9.
+18. U.S. Food and Drug Administration. EXPAREL (bupivacaine liposome injectable suspension) prescribing information. NDA 022496/
+S-044. Updated labeling including indications for adductor canal
+block and sciatic nerve block in the popliteal fossa; 2023.
+19. Apseloff G, Onel E, Patou G. Time to onset of analgesia following local
+infiltration of liposome bupivacaine in healthy volunteers: a randomized, single-blind, sequential cohort, crossover study. Int J Clin
+Pharmacol Ther 2013;51:367–73.
+20. Zadrazil M, Marhofer P, Opfermann P, Schmid W, et al. Liposomal
+bupivacaine for peripheral nerve blockade: a randomized, controlled,
+crossover, triple-blinded pharmacodynamic study in volunteers. Anesthesiology 2024;141:24–31.
+21. Sessler DI, Bao X, Leiman D, Song J, et al. A phase I study of the
+pharmacokinetics, pharmacodynamics, and safety of liposomal
+bupivacaine for sciatic nerve block in the popliteal fossa for bunionectomy. J Clin Pharmacol 2025;65:441–51.
+22. Ilfeld BM, Eisenach JC, Gabriel RA. Clinical effectiveness of liposomal
+bupivacaine administered by infiltration or peripheral nerve block to
+treat postoperative pain: a narrative review. Anesthesiology 2021;
+134:283–344.
+23. Jin Z, Ding O, Islam A, Li R, et al. Comparison of liposomal bupivacaine and conventional local anesthetic agents in regional anesthesia: a systematic review. Anesth Analg 2021;132:1626–34.
+
+www.dermatologicsurgery.org
+
+747
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+
+
+----- [PDF page 5 of 5: layout view of the same page] -----
+         cases such as HS (bilateral, multisite, very large), the authors              extended-release microparticle formulation: a phase 1, dose-ascending
+         recommend dilution of LB (to not exceed the maximum                           study in male volunteers. Basic Clin Pharmacol Toxicol 2024;134:
+                                                                                       657–75.
+         dose) with normal saline up to 1:14 ratio (e.g., 20 mL
+                                                                                    6. Aggarwal N. Local anesthetics systemic toxicity association with
+         LB 1 260 mL of saline 5 280 cc) with the goal of 0.5 to 1.0                   exparel (bupivacaine liposome)- a pharmacovigilance evaluation.
+         cc per cm2 of wound area coverage. Note that this is per                      Expert Opin Drug Saf 2018;17:581–7.
+         square centimeter, not incisional length, in the case of a wide            7. A S Carroll K, Henglein J, Boland P, Gallagher P, et al. Three cases of
+         surgical field. At this institution, many HS excisions were                   local anesthetic systemic toxicity following regional infiltration anal-
+         partially guided and not a linear closure.                                    gesia: the need for prompt recognition and treatment. J Anesthesiol
+                                                                                       Pain Ther 2023;4:20–4.
+             For patients who received LB with dermatologic surgery
+                                                                                    8. Viscusi ER, Sinatra R, Onel E, Ramamoorthy SL. The safety of lipo-
+         and repairs with other specialties, the other specialty teams                 some bupivacaine, a novel local analgesic formulation. Clin J Pain
+         were aware of LB administration—all patients receive a                        2014;30:102–10.
+         bracelet after LB administration, and it is well documented                9. Gitman M, Barrington MJ. Local anesthetic systemic toxicity: a review
+         in the chart. General anesthesia is considered safe within the                of recent case reports and registries. Reg Anesth Pain Med 2018;43:
+         72 hours post-LB administration, with caution advised                         124–30.
+                                                                                           ¨
+                                                                                   10. Morwald    EE, Zubizarreta N, Cozowicz C, Poeran J, et al. Incidence of
+         when using agents that may potentiate CNS or cardiac                          local anesthetic systemic toxicity in orthopedic patients receiving pe-
+         toxicity. The authors recommend that irrespective of the                      ripheral nerve blocks. Reg Anesth Pain Med 2017;42:442–5.
+         setting, patients should be discharged with an LB bracelet                11. Mulroy MF. Systemic toxicity and cardiotoxicity from local anes-
+         (provided by the manufacturer) with documentation in-                         thetics: incidence and preventive measures. Reg Anesth Pain Med
+         cluding exact administration time.                                            2002;27:556–61.
+             Limitations of this study include its retrospective nature,           12. El-Boghdadly K, Chin KJ. Local anesthetic systemic toxicity: con-
+                                                                                       tinuing professional development. Obstet Anesth Dig 2017;37:
+         small sample size, and single institution data. Owing to the                  12–3.
+         retrospective nature of this study, adverse events were                   13. Dagenais S, Scranton R, Joyce AR, Vick CC. A comparison of ap-
+         determined based on available documentation. The authors                      proaches to identify possible cases of local anesthetic systemic toxicity
+         believe this is sufficient, because most instances of LAST, if                in the FDA Adverse Event Reporting System (FAERS) database. Ex-
+         they were to occur, would likely manifest within the timeline                 pert Opin Drug Saf 2018;17:545–52.
+         of a typical MMS encounter (most commonly immediate,                      14. Kharitonov V. A review of the compatibility of liposome bupivacaine
+                                                                                       with other drug products and commonly used implant materials.
+         but can be delayed up to 45 minutes or rarely longer)9 and                    Postgrad Med 2014;126:129–38.
+         be thoroughly documented in accordance with the institu-                  15. Chang MS, Murad F, Schmults CD. Efficacy of liposomal bupivacaine
+         tion’s standards. Future prospective studies are necessary to                 for pain control after large, complex Mohs resections: a matched co-
+         investigate the rate of adverse events across various                         hort study. Dermatol Surg 2022;48:1006–7.
+         dermatologic procedures. In addition, studies with a control              16. Artz C, Ward MA, Miles MVP, Brennan P, et al. Intraoperative li-
+         arm are needed to evaluate the efficacy of LB versus placebo                  posomal bupivacaine for skin graft donor site analgesia: a retrospec-
+                                                                                       tive cohort study. Burns 2021;47:1045–52.
+         while accounting for prescription oral analgesics.                        17. Manson WC, Blank RS, Martin LW, Alpert SB, et al. An observational
+             Overall, LB is a well-tolerated option for postoperative                  study of the pharmacokinetics of surgeon-performed intercostal nerve
+         analgesia in patients undergoing dermatologic surgery and                     blockade with liposomal bupivacaine for posterior-lateral thoracot-
+         may be considered. This study contributes to the limited                      omy analgesia. Anesth Analg 2020;131:1843–9.
+         data on LB use in this setting. Although the authors had no               18. U.S. Food and Drug Administration. EXPAREL (bupivacaine lipo-
+                                                                                       some injectable suspension) prescribing information. NDA 022496/
+         incidences of LAST (CNS or CVS AEs), it is important to
+                                                                                       S-044. Updated labeling including indications for adductor canal
+         monitor for the aforementioned signs of toxicity when                         block and sciatic nerve block in the popliteal fossa; 2023.
+         administering LB and wait the recommend times between                     19. Apseloff G, Onel E, Patou G. Time to onset of analgesia following local
+         other local anesthetic administration.5,6,8,18                                infiltration of liposome bupivacaine in healthy volunteers: a ran-
+                                                                                       domized, single-blind, sequential cohort, crossover study. Int J Clin
+         References                                                                    Pharmacol Ther 2013;51:367–73.
+          1. Limthongkul B, Samie F, Humphreys TR. Assessment of postoperative     20. Zadrazil M, Marhofer P, Opfermann P, Schmid W, et al. Liposomal
+             pain after Mohs micrographic surgery. Dermatol Surg 2013;39:              bupivacaine for peripheral nerve blockade: a randomized, controlled,
+             857–63.                                                                   crossover, triple-blinded pharmacodynamic study in volunteers. An-
+          2. Sniezek PJ, Brodland DG, Zitelli JA. A randomized controlled trial        esthesiology 2024;141:24–31.
+             comparing acetaminophen, acetaminophen and ibuprofen, and acet-       21. Sessler DI, Bao X, Leiman D, Song J, et al. A phase I study of the
+             aminophen and codeine for postoperative pain relief after Mohs sur-       pharmacokinetics, pharmacodynamics, and safety of liposomal
+             gery and cutaneous reconstruction. Dermatol Surg 2011;37:1007–13.         bupivacaine for sciatic nerve block in the popliteal fossa for bunion-
+          3. Firoz BF, Goldberg LH, Arnon O, Mamelak AJ. An analysis of pain           ectomy. J Clin Pharmacol 2025;65:441–51.
+             and analgesia after Mohs micrographic surgery. J Am Acad Dermatol     22. Ilfeld BM, Eisenach JC, Gabriel RA. Clinical effectiveness of liposomal
+             2010;63:79–86.                                                            bupivacaine administered by infiltration or peripheral nerve block to
+          4. Giordano CN, Mori S, Navarrete-Dechent C, Dusza SW, et al. Patient        treat postoperative pain: a narrative review. Anesthesiology 2021;
+             concerns in the immediate postoperative period after Mohs micro-          134:283–344.
+             graphic surgery. Dermatol Surg 2020;46:514–8.                         23. Jin Z, Ding O, Islam A, Li R, et al. Comparison of liposomal bupi-
+          5. Jensen EK, Bøgevig S, Balchen T, Springborg AH, et al. Dose safety        vacaine and conventional local anesthetic agents in regional anesthe-
+             and pharmacodynamics of subcutaneous bupivacaine in a novel               sia: a systematic review. Anesth Analg 2021;132:1626–34.
+
+
+
+
+         The Safety of Perioperative LB Injections • Rames et al                                                      www.dermatologicsurgery.org           747
+
+
+© 2026 by the American Society for Dermatologic Surgery, Inc. Published by Wolters Kluwer Health, LLC. Unauthorized reproduction of this article is prohibited.
+

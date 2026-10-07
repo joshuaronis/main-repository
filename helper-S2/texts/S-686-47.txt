@@ -1,0 +1,778 @@
+SOURCE FILE: S-686-47 - Troullos 1987 - Plasma epinephrine levels and cardiovascular response to high administered doses of epinephrine contained in local .pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 4] =====
+PRELIMINARY COMMUNICATION
+
+Plasma Epinephrine Levels and Cardiovascular
+Response to High Administered Doses of Epinephrine
+Contained in Local Anesthesia
+Emanuel S. Troullos, D.M.D., David S. Goldstein, M.D., Ph.D.,
+Kenneth M. Hargreaves, D.D.S., Ph.D., Raymond A. Dionne, D.D.S., Ph.D.
+Pain Research Clinic, National Institute of Dental Research, Bethesda, Maryland
+
+Summary
+The effects of administering an epinephrine-containing local anesthetic on plasma catecholamine levels
+and cardiovascular parameters were evaluated. Significant elevations were observed following administration of 8 dental cartridges of 2% lidocaine with epinephrine 1 :100,000 (144 ug) throughout the 20
+minute observation period, while minimal changes were observed in the patients who received 6
+cartridges of 3% mepivicaine. One minute after injection, the mean plasma epinephrine level in the
+group receiving epinephrine was 27.5 times higher than baseline. Concurrent elevations in systolic
+pressure (15%), heart rate (33%), and the rate-pressure product (52%) were also observed. These
+results indicate that significant amounts of epinephrine can be systemically absorbed following intraoral
+injection and the absorbed epinephrine can alter the cardiovascular status of the patient.
+
+Epinephrine is widely used in dental anesthetic
+solutions to produce localized vasoconstriction.
+Concentrations ranging from 1:50,000 (20 ,ug/ml) to
+1:200,000 (5 ,ug/ml) are found in commercially available dental cartridges. Until recently, it was generally
+accepted in the dental literature that the amount of
+epinephrine given as a vasoconstrictor in dentistry
+produces little systemic effect.1'2 A 1955 report by the
+New York Heart Association suggested that up to 200
+Ag of epinephrine in conjunction with procaine could
+be administered to cardiac patients.3 The ADA currently advises 200 jig as the maximum dose for
+healthy patients.4
+The amount of epinephrine absorbed following
+local dental anesthesia has been hypothesized to be
+less than the amount produced endogenously in response to pain due to inadequate anesthesia5 or due
+to anxiety associated with the procedure.6 Studies
+investigating the administration of 1.8 ml (one dental
+cartridge) of 2% lidocaine with epinephrine
+1:100,000 (18 ug) reported elevated plasma epinephrine levels (94.5+13 pg/mI and 105+28 pg/ml)
+Received December 8, 1986; accepted January 23, 1987
+
+Address correspondence to Emanuel S. Troullos, D.M.D.,
+NIDR, 900 Rockville Pike, Bldg. 10, Room 65225, Bethesda, MD
+20892.
+
+10
+
+with minimal cardiovascular changes.7'8 The administration of 5.4 ml (3 cartridges) of 2% lidocaine with
+epinephrine 1 :100,000 (54 ug) resulted in still higher
+plasma epinephrine levels (302 +142 pg/ml) leading
+to increases in both cardiac output and heart rate.9 '0
+The dichotomy between a minimally detectable cardiovascular response at approximately one-tenth of
+the maximum recommended dose and a significant
+response at one-fourth of the maximal dose, indicates that it is inappropriate to extrapolate the effects
+of lower doses to high doses without confirmation
+from experimental evidence. No studies, however,
+have directly assessed the effects of higher doses of
+epinephrine administered with dental local anesthesia."1 This study evaluated plasma epinephrine
+following administration of 8 cartridges of 2%
+lidocaine with epinephrine (144 ug) and resultant
+changes in blood pressure, heart rate, and plasma
+norepinephrine levels.
+
+Methods
+The study was an open, parallel group design conducted in oral surgery outpatients. The subjects were
+15 young (mean age 22.5 years), healthy (ASA class
+I) men (n=9) and women (n=6) who were free of
+allergy to any of the test medications. The surgical
+procedure consisted of the removal of four wisdom
+teeth. All patients were informed of the possible risks
+and signed an institutionally approved consent form.
+ANESTHESIA PROGRESS
+
+
+----- [PDF page 1 of 4: layout view of the same page] -----
+PRELIMINARY COMMUNICATION
+
+
+
+Plasma Epinephrine Levels and Cardiovascular
+Response to High Administered Doses of Epinephrine
+Contained in Local Anesthesia
+     Emanuel S. Troullos, D.M.D., David S. Goldstein, M.D., Ph.D.,
+     Kenneth M. Hargreaves, D.D.S., Ph.D., Raymond A. Dionne, D.D.S., Ph.D.
+       Pain Research Clinic, National Institute of Dental Research, Bethesda, Maryland
+
+
+Summary
+     The effects of administering an epinephrine-containing local anesthetic on plasma catecholamine levels
+     and cardiovascular parameters were evaluated. Significant elevations were observed following admin-
+     istration of 8 dental cartridges of 2% lidocaine with epinephrine 1 :100,000 (144 ug) throughout the 20
+     minute observation period, while minimal changes were observed in the patients who received 6
+     cartridges of 3% mepivicaine. One minute after injection, the mean plasma epinephrine level in the
+     group receiving epinephrine was 27.5 times higher than baseline. Concurrent elevations in systolic
+     pressure (15%), heart rate (33%), and the rate-pressure product (52%) were also observed. These
+     results indicate that significant amounts of epinephrine can be systemically absorbed following intraoral
+     injection and the absorbed epinephrine can alter the cardiovascular status of the patient.
+
+
+   Epinephrine is widely used in dental anesthetic             with minimal cardiovascular changes.7'8 The adminis-
+solutions to produce localized vasoconstriction.               tration of 5.4 ml (3 cartridges) of 2% lidocaine with
+Concentrations ranging from 1:50,000 (20 ,ug/ml) to            epinephrine 1 :100,000 (54 ug) resulted in still higher
+1:200,000 (5 ,ug/ml) are found in commercially avail-          plasma epinephrine levels (302 +142 pg/ml) leading
+able dental cartridges. Until recently, it was generally       to increases in both cardiac output and heart rate.9 '0
+accepted in the dental literature that the amount of           The dichotomy between a minimally detectable car-
+epinephrine given as a vasoconstrictor in dentistry            diovascular response at approximately one-tenth of
+produces little systemic effect.1'2 A 1955 report by the       the maximum recommended dose and a significant
+New York Heart Association suggested that up to 200            response at one-fourth of the maximal dose, indi-
+Ag of epinephrine in conjunction with procaine could           cates that it is inappropriate to extrapolate the effects
+be administered to cardiac patients.3 The ADA cur-             of lower doses to high doses without confirmation
+rently advises 200 jig as the maximum dose for                 from experimental evidence. No studies, however,
+healthy patients.4                                             have directly assessed the effects of higher doses of
+   The amount of epinephrine absorbed following                epinephrine administered with dental local anes-
+local dental anesthesia has been hypothesized to be            thesia."1 This study evaluated plasma epinephrine
+less than the amount produced endogenously in re-              following administration of 8 cartridges of 2%
+sponse to pain due to inadequate anesthesia5 or due            lidocaine with epinephrine (144 ug) and resultant
+to anxiety associated with the procedure.6 Studies             changes in blood pressure, heart rate, and plasma
+investigating the administration of 1.8 ml (one dental         norepinephrine levels.
+cartridge) of 2% lidocaine with epinephrine
+1:100,000 (18 ug) reported elevated plasma epin-               Methods
+ephrine levels (94.5+13 pg/mI and 105+28 pg/ml)                   The study was an open, parallel group design con-
+                                                               ducted in oral surgery outpatients. The subjects were
+                                                               15 young (mean age 22.5 years), healthy (ASA class
+  Received December 8, 1986; accepted January 23, 1987         I) men (n=9) and women (n=6) who were free of
+                                                               allergy to any of the test medications. The surgical
+  Address correspondence to Emanuel S. Troullos, D.M.D.,       procedure consisted of the removal of four wisdom
+NIDR, 900 Rockville Pike, Bldg. 10, Room 65225, Bethesda, MD   teeth. All patients were informed of the possible risks
+20892.                                                         and signed an institutionally approved consent form.
+10                                                                                              ANESTHESIA PROGRESS
+
+===== [PDF page 2 of 4] =====
+An infusion of 0.9 normal saline was started in a
+vein of the left antecubital fossa. The patients rested
+quietly in a semisupine position for 20 minutes.
+Measurements of blood pressure and pulse were
+obtained, and a 10 ml blood sample collected. Local
+anesthesia was then administered in all four quadrants of the oral cavity with a dental aspirating syringe
+using standard technique. One group (n=10) received 8 cartridges of 2% lidocaine with epinephrine
+1:100,000 (EPI). The other group (n=5) received 6
+cartridges of 3% mepivicaine (NO EPI). Blood samples and circulatory measurements were obtained at
+1, 4, 8, 12, and 20 minutes after completion of the
+administration of local anesthesia. The total dose of
+anesthetic in the EPI group was 288 mg lidocaine and
+144 ,ug epinephrine. The NO EPI group received 324
+mg mepivicaine. The skewed distribution of treatments was chosen based on previous studies9'10
+showing little change in epinephrine levels following
+lidocaine administration alone and the preliminary
+nature of the investigation.
+Blood pressure and heart rate were measured by a
+cuff attached to the right arm and connected to an
+automatic blood pressure recorder (SENTRON ASD
+400, Automated Screening Devices, Inc., Costa
+Mesa, CA) or by auscultation and palpation. The
+product of systolic pressure and heart rate was calculated as an index of myocardial oxygen consumption.12 This noninvasive method has been found to
+correlate well with direct measurement of myocardial
+oxygen consumption via catheterization of the coronary sinus.
+Blood samples were collected into chilled tubes
+containing EDTA, centrifuged under refrigeration
+within 30 minutes of collection, frozen in dry ice, and
+stored at -80°centigrade. The assaytechnique used
+high pressure liquid chromatography with electrochemical detection, the validity and reliability of
+which have been previously documented.13 Minimum
+detectable levels were about 5 pg/ml for both epinephrine and norepinephrine.
+Statistical analysis of catecholamine levels and
+physiologic variables was accomplished using
+analyses of variance for repeated measures.
+Analyses of covariance for repeated measures was
+performed on systolic blood pressure and
+norepinephrine levels because of the disparity in
+baseline values between the treatment groups. Duncan's multiple range test was used when appropriate
+to ascertain differences within and between groups.
+Pearson's correlation coefficient was calculated for
+the relationship between the change in plasma epinephrine and the change in heart rate at one minute
+after anesthetic injection.
+
+Results
+Baseline levels of plasma epinephrine were similar
+in the two subject groups (Fig. 1 A). Levels were significantly higher after anesthesia in the EPI group
+JANUARY/FEBRUARY 1987
+
+600-
+
+E
+
+500 -
+
+-0
+CL
+
+400
+
+b,d
+b,d
+
+-
+
+b,d
+0.
+CL
+a)
+
+300-
+
+C.a
+
+200 -
+
+b,d
+b,d
+
+E
+
+CD
+
+100 -mb7"r_
+r
+
+0
+
+LV
+
+.
+
+rtt-
+
+*
+
+*
+
+F
+
+baseline 1 min 4 min 8 min 12 min 20 min
+Time
+100 a
+
+E
+CD
+
+b,d
+
+90 80 -
+
+.0-
+
+70
+60
+
+5U -4
+
+I I
+
+K.r-r_.fx
+
+base
+
+b
+
+'M~
+
+CD
+
+1-
+
+CD
+C,)0
+
+b,c
+
+b,d
+
+b,c
+
+t,
+
+b
+
+a
+
+P/,."
+
+6c" "aL-
+
+L.
+
+1 min 4 min 8 min 12 min 20 min
+
+Time
+180 170 I
+
+E
+E
+a)
+
+160-
+
+b,c
+b,c
+
+150
+
+b,c
+
+b,c
+
+b,c
+
+140 a)
+
+C)
+.-0
+
+130120 -
+
+0
+
+cO
+
+110 100
+
+r
+
+base
+
+~~~.1
+
+1 min 4 min 8 min 12 min 20 min
+Time
+
+Fig. 1 - Plasma epinephrine concentration (pg/ml, mean +SEM)
+before (baseline) and after (1, 4, 8, 12, and 20 min)
+administration of local anesthesia (A). Pulse rate
+(beats/min, mean +SEM) before and after administration
+of local anesthesia (B). Systolic pressure (mmHg,
+mean+±SEM) before and after administration of local
+anesthesia.
+(C). a = significant difference from baseline, p < .05;
+b = significant difference from baseline, p < .01;
+c = significant difference between groups, p < .05;
+d = significant difference between groups, p < .01
+L], NO EPI; B, EPI.
+
+11
+
+
+----- [PDF page 2 of 4: layout view of the same page] -----
+    An infusion of 0.9 normal saline was started in a               600-                         b,d
+vein of the left antecubital fossa. The patients rested
+quietly in a semisupine position for 20 minutes.             E      500 -
+ Measurements of blood pressure and pulse were               -0
+                                                                                                           b,d
+obtained, and a 10 ml blood sample collected. Local           CL    400     -
+anesthesia was then administered in all four quad-                                                                     b,d
+ rants of the oral cavity with a dental aspirating syringe    0.    300-
+ using standard technique. One group (n=10) re-               CL
+                                                              a)
+                                                                                                                                           b,d
+ceived 8 cartridges of 2% lidocaine with epinephrine         C.a    200 -                                                                                 b,d
+
+ 1:100,000 (EPI). The other group (n=5) received 6            E
+cartridges of 3% mepivicaine (NO EPI). Blood sam-             CD    100 -
+ ples and circulatory measurements were obtained at
+ 1, 4, 8, 12, and 20 minutes after completion of the                  0         -mb7"r-
+                                                                                 _ r
+                                                                                                                 LV            .   *       rtt-   *       F
+
+
+
+administration of local anesthesia. The total dose of                     baseline 1 min 4 min 8 min 12 min 20 min
+anesthetic in the EPI group was 288 mg lidocaine and                                                         Time
+ 144 ,ug epinephrine. The NO EPI group received 324
+ mg mepivicaine. The skewed distribution of treat-                  100 -
+ments was chosen based on previous studies9'10                                                  b,d
+showing little change in epinephrine levels following         a
+                                                                     90 -
+ lidocaine administration alone and the preliminary           E                                            b,d                                            b,c
+                                                                                                                        b
+nature of the investigation.                                                                                                               b,c        b
+
+
+
+
+    Blood pressure and heart rate were measured by a                 80 -
+                                                             CD
+                                                                                                                       t,
+
+                                                                                                             'M~
+                                                             CD
+                                                             1-                                                                        a
+cuff attached to the right arm and connected to an           .0-
+
+automatic blood pressure recorder (SENTRON ASD               CD      70                                                P/,."
+400, Automated Screening Devices, Inc., Costa                C,)0
+Mesa, CA) or by auscultation and palpation. The
+product of systolic pressure and heart rate was calcu-               60
+lated as an index of myocardial oxygen consump-
+tion.12 This noninvasive method has been found to                    5U -4        K.r-r_.fx                      I I   6c" "aL-                                 L.
+correlate well with direct measurement of myocardial                            base          1 min 4 min 8 min 12 min 20 min
+oxygen consumption via catheterization of the coro-                                                         Time
+nary sinus.
+    Blood samples were collected into chilled tubes                 180 -
+containing EDTA, centrifuged under refrigeration
+within 30 minutes of collection, frozen in dry ice, and             170 -
+stored at -80°centigrade. The assaytechnique used            I
+                                                             E      160-                        b,c
+high pressure liquid chromatography with elec-               E                                             b,c         b,c                 b,c            b,c
+trochemical detection, the validity and reliability of       a)
+                                                                    150
+which have been previously documented.13 Minimum                    140 -
+detectable levels were about 5 pg/ml for both epin-          a)
+ephrine and norepinephrine.                                         130-
+   Statistical analysis of catecholamine levels and           C)
+                                                             .-0    120 -
+physiologic variables was accomplished using                 0
+
+analyses of variance for repeated measures.                  cO     110 -
+Analyses of covariance for repeated measures was
+performed on systolic blood pressure and                            100                                r                       ~~~.1
+                                                                                base          1 min 4 min 8 min 12 min 20 min
+norepinephrine levels because of the disparity in
+baseline values between the treatment groups. Dun-                                                      Time
+can's multiple range test was used when appropriate
+to ascertain differences within and between groups.          Fig. 1 - Plasma epinephrine concentration (pg/ml, mean +SEM)
+Pearson's correlation coefficient was calculated for                  before (baseline) and after (1, 4, 8, 12, and 20 min)
+the relationship between the change in plasma epin-                   administration of local anesthesia (A). Pulse rate
+                                                                      (beats/min, mean +SEM) before and after administration
+ephrine and the change in heart rate at one minute                    of local anesthesia (B). Systolic pressure (mmHg,
+after anesthetic injection.                                           mean+±SEM) before and after administration of local
+                                                                     anesthesia.
+                                                                     (C). a = significant difference from baseline, p < .05;
+Results                                                                   b = significant difference from baseline, p < .01;
+                                                                          c = significant difference between groups, p < .05;
+   Baseline levels of plasma epinephrine were similar                     d = significant difference between groups, p < .01
+in the two subject groups (Fig. 1 A). Levels were sig-                    L], NO EPI; B, EPI.
+nificantly higher after anesthesia in the EPI group
+
+JANUARY/FEBRUARY 1987                                                                                                                                     11
+
+===== [PDF page 3 of 4] =====
+Catecholamine Levels and Cardiovascular Parameters Before and Afterthe Administration of Local AnesthesiaWith (EPI) or
+Without (no EPI) 144 ,ug Epinephrine
+
+TABLE 1
+
+Baseline
+
+Norepinephrine (pg/ml±SEM)
+211.4±28
+EPI
+267.4±39
+NO EPI
+Diastolic Pressure (mmHg±SEM)
+74.2±4
+EPI
+71.0±2
+NO EPI
+Pressure-Rate Product (±SEM)
+8278±476
+EPI
+7545±694
+NO EPI
+
+1 Minute
+
+4 Minutes
+
+8 Minutes
+
+12 Minutes
+
+20 Minutes
+
+316.4±38bc
+
+341 ±50b,c
+326.4±60
+
+387.046b,c
+
+305.2±46
+
+366.0±77b
+
+386.757b,c
+329.6±80
+
+388.1 ±56b,C
+317.6±72
+
+74.5±4
+79.2±5a
+
+72.8±4
+76.0±6
+
+73.1±6
+76.8±6
+
+70.8±4
+80.4±7b,d
+
+77.6±4
+
+12,592±732b,d
+
+11,314±736b,d
+
+11,165±7700bd
+
+11,657±699bd
+
+12,280+705b,d
+
+8600±569
+
+8494±376
+
+9037±373
+
+9051±517
+
+9537±759a
+
+aSignificant difference from baseline, p < .05.
+bSignificant difference from baseline, p < .01.
+CSignificant difference between groups, p < .05.
+dSignificant difference between groups, p < .01.
+than the NO EPI group at all time points (F=35.9,
+d.f. = 1,13, p < .001). The peak epinephrine level at
+one minute was 27.5 times higher than baseline in
+the EPI group. All posttreatment levels were significantly higher than baseline in the EPI group
+(p < .01). In the NO EPI group, only small and nonsignificant changes in plasma epinephrine were observed at all time points.
+Norepinephrine levels increased in both groups
+after administration of the local anesthesia (Table 1).
+Changes in plasma norepinephrine from baseline
+were significantly larger in the EPI group than in the
+NO EPI group at all postinjection time points (ANCOVA F=8.9, d.f.=1,12, p= <.011).
+Pulse rate increased in both subject groups after
+administration of local anesthesia (Fig. 11B). Pulse
+rate values were significantly higher in the EPI group
+than the NO EPI group at most time points (F=2.03,
+d.f.=4,52,p=.01). A significant correlation was observed between the change in plasma epinephrine
+and the change in heart rate (r=.725, p=.001) at one
+minute among all subjects.
+Systolic blood pressure was significantly greater in
+the EPI group than the NO EPI group at all time points
+after administration of local anesthesia (ANCOVA
+F=6.9, d.f.=1,12, p=.022; Fig. 1C). Diastolic pressure did not change significantly from baseline in the
+EPI group (Table 1).
+Myocardial oxygen consumption in the EPI group,
+assessed by the rate-pressure product, increased
+within 1 minute of anesthetic administration and remained elevated for the entire 20 minute observation
+period (F=3.0, d.f. =65, p=.02; Table 1). All postinjection values were significantly higher in the EPI group
+as compared to the NO EPI group (F=8.80,
+d.f.=1,13, p=.011).
+There were no adverse effects from local anesthetic administration in the NO EPI group. In the EPI
+group, however, four of the five patients with the
+highest 1 minute epinephrine levels experienced adverse reactions to the local anesthetic. Patients with
+epinephrine levels of 481 pg/mI, 654 pg/mI, and 901
+12
+
+76.2±4
+
+pg/mI experienced tremors and the patient with an
+epinephrine level of 557 pg/ml experienced a vasovagal reaction.
+
+Discussion
+Results demonstrate rapid and large-magnitude
+changes in plasma epinephrine due to the inclusion
+of 144 ug epinephrine in lidocaine local anesthesia.
+Elevated circulating levels of epinephrine persisted
+throughout the 20 minute observation period and
+were associated with elevations in systolic pressure,
+heart rate, and myocardial oxygen consumption as
+indicated by the rate-pressure product. Thus, high
+levels of epinephrine (¾4 of the ADA recommended
+maximum4), administered in local anesthetics result
+in high circulating levels which are accompanied by
+cardiovascular changes. In contrast, little change in
+circulating epinephrine levels was seen in the NO EPI
+group and little physiologic arousal was detected.
+The present findings are consistent with the report of
+Clutter et a/."7 who reported increased physiologic
+effects as steady-state plasma epinephrine levels
+were raised from 50 to 1000 pg/mI.
+Peak plasma epinephrine levels were observed 1
+minute after anesthetic administration. Plasma epinephrine then decreased in succeeding measurements, reflecting combined effects of the short
+plasma half-life of epinephrine and the continuing
+absorption of epinephrine into the bloodstream for
+several minutes after injection. Plasma norepinephrine, in contrast, progressively increased with time.
+This trend is consistent with the hypothesis that epinephrine can act directly or indirectly to release
+norepinephrine from synaptic nerve terminals.1416
+Systemic absorption of the local anesthetic which
+can act as a vasodilator could also have led to reflexive stimulation of sympathetically mediated norephinephrine release. Heart rate, which peaked at 1
+minute and then decreased, generally paralleled
+plasma epinephrine. Systolic pressure, however, increased after administration of the epinephrinecontaining local anesthetic and remained elevated.
+ANESTHESIA PROGRESS
+
+
+----- [PDF page 3 of 4: layout view of the same page] -----
+TABLE 1       Catecholamine Levels and Cardiovascular Parameters Before and Afterthe Administration of Local AnesthesiaWith (EPI) or
+Without (no EPI) 144 ,ug Epinephrine
+                       Baseline           1 Minute           4 Minutes          8 Minutes         12 Minutes         20 Minutes
+Norepinephrine (pg/ml±SEM)
+EPI                   211.4±28           316.4±38bc          341 ±50b,c       387.046b,c         386.757b,c         388.1 ±56b,C
+NO EPI                267.4±39           305.2±46          326.4±60           366.0±77b          329.6±80           317.6±72
+Diastolic Pressure (mmHg±SEM)
+EPI                    74.2±4             74.5±4             72.8±4             73.1±6             70.8±4            76.2±4
+NO EPI                 71.0±2             79.2±5a            76.0±6             76.8±6             80.4±7b,d         77.6±4
+Pressure-Rate Product (±SEM)
+EPI                   8278±476         12,592±732b,d      11,314±736b,d      11,165±7700bd      11,657±699bd       12,280+705b,d
+NO EPI                7545±694           8600±569           8494±376           9037±373           9051±517          9537±759a
+aSignificant difference from baseline, p < .05.
+bSignificant difference from baseline, p < .01.
+CSignificant difference between groups, p < .05.
+dSignificant difference between groups, p < .01.
+than the NO EPI group at all time points (F=35.9,                     pg/mI experienced tremors and the patient with an
+d.f. = 1,13, p < .001). The peak epinephrine level at                 epinephrine level of 557 pg/ml experienced a vas-
+one minute was 27.5 times higher than baseline in                     ovagal reaction.
+the EPI group. All posttreatment levels were signifi-
+cantly higher than baseline in the EPI group                          Discussion
+(p < .01). In the NO EPI group, only small and non-                      Results demonstrate rapid and large-magnitude
+significant changes in plasma epinephrine were ob-                    changes in plasma epinephrine due to the inclusion
+served at all time points.                                            of 144 ug epinephrine in lidocaine local anesthesia.
+   Norepinephrine levels increased in both groups                     Elevated circulating levels of epinephrine persisted
+after administration of the local anesthesia (Table 1).               throughout the 20 minute observation period and
+Changes in plasma norepinephrine from baseline                        were associated with elevations in systolic pressure,
+were significantly larger in the EPI group than in the                heart rate, and myocardial oxygen consumption as
+NO EPI group at all postinjection time points (AN-                    indicated by the rate-pressure product. Thus, high
+COVA F=8.9, d.f.=1,12, p= <.011).                                     levels of epinephrine (¾4 of the ADA recommended
+   Pulse rate increased in both subject groups after                  maximum4), administered in local anesthetics result
+administration of local anesthesia (Fig. 11B). Pulse                  in high circulating levels which are accompanied by
+rate values were significantly higher in the EPI group                cardiovascular changes. In contrast, little change in
+than the NO EPI group at most time points (F=2.03,                    circulating epinephrine levels was seen in the NO EPI
+d.f.=4,52,p=.01). A significant correlation was ob-                   group and little physiologic arousal was detected.
+served between the change in plasma epinephrine                       The present findings are consistent with the report of
+and the change in heart rate (r=.725, p=.001) at one                  Clutter et a/."7 who reported increased physiologic
+minute among all subjects.                                            effects as steady-state plasma epinephrine levels
+   Systolic blood pressure was significantly greater in               were raised from 50 to 1000 pg/mI.
+the EPI group than the NO EPI group at all time points                   Peak plasma epinephrine levels were observed 1
+after administration of local anesthesia (ANCOVA                      minute after anesthetic administration. Plasma epin-
+F=6.9, d.f.=1,12, p=.022; Fig. 1C). Diastolic pres-                   ephrine then decreased in succeeding meas-
+sure did not change significantly from baseline in the                urements, reflecting combined effects of the short
+EPI group (Table 1).                                                  plasma half-life of epinephrine and the continuing
+   Myocardial oxygen consumption in the EPI group,                    absorption of epinephrine into the bloodstream for
+assessed by the rate-pressure product, increased                      several minutes after injection. Plasma norepineph-
+within 1 minute of anesthetic administration and re-                  rine, in contrast, progressively increased with time.
+mained elevated for the entire 20 minute observation                  This trend is consistent with the hypothesis that epin-
+period (F=3.0, d.f. =65, p=.02; Table 1). All postinjec-              ephrine can act directly or indirectly to release
+tion values were significantly higher in the EPI group                norepinephrine from synaptic nerve terminals.1416
+as compared to the NO EPI group (F=8.80,                              Systemic absorption of the local anesthetic which
+d.f.=1,13, p=.011).                                                   can act as a vasodilator could also have led to reflex-
+   There were no adverse effects from local anesthe-                  ive stimulation of sympathetically mediated nor-
+tic administration in the NO EPI group. In the EPI                    ephinephrine release. Heart rate, which peaked at 1
+group, however, four of the five patients with the                    minute and then decreased, generally paralleled
+highest 1 minute epinephrine levels experienced ad-                   plasma epinephrine. Systolic pressure, however, in-
+verse reactions to the local anesthetic. Patients with                creased after administration of the epinephrine-
+epinephrine levels of 481 pg/mI, 654 pg/mI, and 901                   containing local anesthetic and remained elevated.
+12                                                                                                         ANESTHESIA PROGRESS
+
+===== [PDF page 4 of 4] =====
+The sustained pressor response could have been
+mediated by the progressively increasing plasma
+
+norepinephrine.
+
+These data show that submaximal doses of epinephrine in dental anesthetics produce cardiovascular
+effects even in young, healthy oral surgery patients.
+Since any stimuli that increases the rate-pressure
+product can precipitate anginal reactions or arrhythmias in patients with coronary heart disease, the
+present results indicate caution in the use of
+epinephrine-containing local anesthetics, especially
+in patients with cardiovascular disease.
+
+References
+1. Holroyd SV, Watts DT, Welsh JT: The use of epinephrine in
+local anesthetics for dental patients with cardiovascular disease: areview of the literature. J Oral Surg 18:492-503,1960.
+2. Malamed S: Handbook of Local Anesthesia, 1st ed., CV
+Mosby, St. Louis, 1980.
+3. Use of epinephrine in connection with procaine in dental procedures. J Am Dental Assoc 50:108, 1955.
+4. Vasoconstrictors. In Accepted Dental Therapeutics, 40th ed.
+American Dental Association, Chicago, pp. 203-209, 1984.
+5. Cheraskin E and Prasertsuntarasai T: Use of epinephrine with
+local anesthesia in hypertensive patients IV. Effect of tooth
+extraction on blood pressure and pulse rate. J Am Dental
+Assoc 58:61-68, 1959.
+6. Fiset L, Ramsey D, Milgrom P, Weinsein P: The effects of
+lidocaine with epitephrine on fear related arousal among
+dental phobics. Anesth Progr 33:225-229, 1986.
+7. Chernow B, Balestrieri F, Ferguson CD, Terezhalmy GT,
+Fletcher JR, Lake CR: Local dental anesthesia with epinephrine. Arch Intem Med 143:2141-2143, 1983.
+8. Cioffi GA, Chemow B, Glahn R, Terezhalmy GT, Lake CR:
+The hemodynamic and plasma catecholamine response to
+
+JANUARY/FEBRUARY 1987
+
+routine restorative dental care. J Am Dental Assoc 111:67-70,
+1985.
+9. Dionne RA, Goldstein DS, Wirdzek PR: Effects of diazepam
+premedication and epinephrine containing local anesthetics
+on cardiovascular function and plasma catecholamine responses to oral surgery. Anesth Analg 63:640-646, 1984.
+10. Goldstein DS, Dionne RA, Sweet J, Gracely R, Brewer HB,
+Gregg R, Keiser HR: Circulatory, plasma catecholamine, cortisol, lipid and psychological responses to a real life stress
+(third molar extraction): effects of diazepam sedation and of
+inclusion of epinephrine with the local anesthetic. Psychosom
+Med 44:259-272, 1982.
+11. Cassidy JP, Phero JC, Grau WH: Epinephrine; systemic effects and varying concentrations in local anesthesia. Anesth
+Prog 33:289-297, 1987.
+12. Nelson RR, Gobel FL, Jorgensen CR, Wang K, Wang Y,
+Taylor HL: Hemodynamic predictors of myocardial oxygen
+consumption during static exercise and dynamic exercise.
+Circulation 50:1179-1189, 1974.
+13. Goldstein DS, Feuerstein G, Izzo JL, Kopin IJ, Keisen HR:
+Validity and reliability of liquid chromatography with electrochemical detection for measuring plasma levels of
+norepinephrine in man. Life Sci 28:467-475, 1981.
+14. Vincent HH, Man In't Veld AJ, Boomsma F, Wenting GJ,
+Schalekamp MADH: Elevated plasma noradrenaline in response to beta-adrenoceptor stimulation in man. Br J Clin
+Pharmacol 13:717-721, 1982.
+15. Majewski H: Modulation of noradrenaline release through activation of presynaptic beta-adrenoceptors. J Auton Pharmacol 3:47-60, 1983.
+16. Rand MJ and Majewski H: Adrenaline mediates a positive
+feedback loop in noradrenergic transmission: its possible role
+in development of hypertension. Clin Exp Hypertension (A)
+6:347-370, 1984.
+17. Clutter WE, Bier DM, Shah SD, Cryer PE: Epinephrine plasma
+metabolic clearance rates and physiologic thresholds for
+metabolic and hemodynamic actions in man. J Clin Invest
+66:94-101, 1984.
+
+13
+
+
+----- [PDF page 4 of 4: layout view of the same page] -----
+The sustained pressor response could have been                           routine restorative dental care. J Am Dental Assoc 111:67-70,
+mediated by the progressively increasing plasma                          1985.
+                                                                      9. Dionne RA, Goldstein DS, Wirdzek PR: Effects of diazepam
+norepinephrine.                                                          premedication and epinephrine containing local anesthetics
+   These data show that submaximal doses of epin-                        on cardiovascular function and plasma catecholamine re-
+ephrine in dental anesthetics produce cardiovascular                     sponses to oral surgery. Anesth Analg 63:640-646, 1984.
+effects even in young, healthy oral surgery patients.                10. Goldstein DS, Dionne RA, Sweet J, Gracely R, Brewer HB,
+Since any stimuli that increases the rate-pressure                       Gregg R, Keiser HR: Circulatory, plasma catecholamine, cor-
+                                                                         tisol, lipid and psychological responses to a real life stress
+product can precipitate anginal reactions or ar-                         (third molar extraction): effects of diazepam sedation and of
+rhythmias in patients with coronary heart disease, the                   inclusion of epinephrine with the local anesthetic. Psychosom
+present results indicate caution in the use of                           Med 44:259-272, 1982.
+epinephrine-containing local anesthetics, especially                 11. Cassidy JP, Phero JC, Grau WH: Epinephrine; systemic ef-
+                                                                         fects and varying concentrations in local anesthesia. Anesth
+in patients with cardiovascular disease.                                 Prog 33:289-297, 1987.
+                                                                     12. Nelson RR, Gobel FL, Jorgensen CR, Wang K, Wang Y,
+References                                                               Taylor HL: Hemodynamic predictors of myocardial oxygen
+ 1. Holroyd SV, Watts DT, Welsh JT: The use of epinephrine in            consumption during static exercise and dynamic exercise.
+    local anesthetics for dental patients with cardiovascular dis-       Circulation 50:1179-1189, 1974.
+    ease: areview of the literature. J Oral Surg 18:492-503,1960.    13. Goldstein DS, Feuerstein G, Izzo JL, Kopin IJ, Keisen HR:
+ 2. Malamed S: Handbook of Local Anesthesia, 1st ed., CV                 Validity and reliability of liquid chromatography with elec-
+    Mosby, St. Louis, 1980.                                              trochemical detection for measuring plasma levels of
+ 3. Use of epinephrine in connection with procaine in dental pro-        norepinephrine in man. Life Sci 28:467-475, 1981.
+    cedures. J Am Dental Assoc 50:108, 1955.                         14. Vincent HH, Man In't Veld AJ, Boomsma F, Wenting GJ,
+ 4. Vasoconstrictors. In Accepted Dental Therapeutics, 40th ed.          Schalekamp MADH: Elevated plasma noradrenaline in re-
+    American Dental Association, Chicago, pp. 203-209, 1984.             sponse to beta-adrenoceptor stimulation in man. Br J Clin
+ 5. Cheraskin E and Prasertsuntarasai T: Use of epinephrine with         Pharmacol 13:717-721, 1982.
+    local anesthesia in hypertensive patients IV. Effect of tooth    15. Majewski H: Modulation of noradrenaline release through ac-
+    extraction on blood pressure and pulse rate. J Am Dental             tivation of presynaptic beta-adrenoceptors. J Auton Phar-
+    Assoc 58:61-68, 1959.                                                macol 3:47-60, 1983.
+ 6. Fiset L, Ramsey D, Milgrom P, Weinsein P: The effects of         16. Rand MJ and Majewski H: Adrenaline mediates a positive
+    lidocaine with epitephrine on fear related arousal among             feedback loop in noradrenergic transmission: its possible role
+    dental phobics. Anesth Progr 33:225-229, 1986.                       in development of hypertension. Clin Exp Hypertension (A)
+ 7. Chernow B, Balestrieri F, Ferguson CD, Terezhalmy GT,                6:347-370, 1984.
+    Fletcher JR, Lake CR: Local dental anesthesia with epineph-      17. Clutter WE, Bier DM, Shah SD, Cryer PE: Epinephrine plasma
+    rine. Arch Intem Med 143:2141-2143, 1983.                            metabolic clearance rates and physiologic thresholds for
+ 8. Cioffi GA, Chemow B, Glahn R, Terezhalmy GT, Lake CR:                metabolic and hemodynamic actions in man. J Clin Invest
+    The hemodynamic and plasma catecholamine response to                 66:94-101, 1984.
+
+
+
+
+JANUARY/FEBRUARY 1987                                                                                                              13
+

@@ -1,0 +1,2211 @@
+SOURCE FILE: S-686-38 - Wiesmann 2018 - Effect of bupivacaine and adjuvant drugs for regional anesthesia on nerve tissue oximetry and nerve blood flow.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 9] =====
+Journal of Pain Research
+
+Dovepress
+open access to scientific and medical research
+
+Original Research
+
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+Open Access Full Text Article
+
+Effect of bupivacaine and adjuvant drugs for
+regional anesthesia on nerve tissue oximetry
+and nerve blood flow
+This article was published in the following Dove Press journal:
+Journal of Pain Research
+
+Thomas Wiesmann 1
+Stefan Müller 1,2
+Hans-Helge Müller 3
+Hinnerk Wulf 1
+Thorsten Steinfeldt 1,4
+Department of Anesthesiology and
+Intensive Care Medicine, Faculty
+of Medicine, University Hospital
+Marburg, Philipps University, Marburg,
+2
+Department of Anesthesiology and
+Intensive Care Medicine, University
+Hospital Giessen, Justus-LiebigUniversity, Giessen, 3Institute of
+Medical Biometry and Epidemiology,
+Philipps University, Marburg,
+4
+Department of Anesthesiology
+and Intensive Care Medicine,
+Diakoniekrankenhaus Schwäbisch Hall,
+Schwäbisch Hall, Germany
+1
+
+Background: Nerve blood flow has a critical role in acute and chronic pathologies in peripheral nerves. Influences of local anesthetics and adjuvants on tissue perfusion and oxygenation
+are deemed as relevant factors for nerve damage after peripheral regional anesthesia. The link
+between low tissue perfusion due to local anesthetics and resulting tissue oxygenation is unclear.
+Methods: Combined tissue spectrophotometry and laser-Doppler flowmetry were used to assess
+nerve blood flow in 40 surgically exposed median nerves in pigs, as well as nerve tissue oximetry
+for 60 min. After baseline measurements, test solutions saline (S), bupivacaine (Bupi), bupivacaine
+with epinephrine (BupiEpi), and bupivacaine with clonidine (BupiCloni) were applied topically.
+Results: Bupivacaine resulted in significant decrease in nerve blood flow, as well as tissue oximetry
+values, compared with saline control. Addition of epinephrine resulted in a rapid, but nonsignificant,
+reduction of nerve blood flow and extensive lowering of tissue oximetry levels. The use of clonidine
+resulted in a reduction of nerve blood flow, comparable to bupivacaine alone (relative blood flow at
+T60 min compared with baseline, S: 0.86 (0.67–1.18), median (25th–75th percentile); Bupi: 0.33
+(0.25–0.60); BupiCloni: 0.43 (0.38–0.63); and BupiEpi: 0.41(0.30–0.54). The use of adjuvants
+did not result in any relevant impairment of tissue oximetry values (saturation values in percent
+at T60, S: 91.5 [84–95]; Bupi: 76 [61–86]; BupiCloni: 84.5 [76–91]; and BupiEpi: 91 [56–92]).
+Conclusion: The application of bupivacaine results in lower nerve blood flow, but does not
+induce relevant ischemia. Despite significant reductions in nerve blood flow, the addition of
+clonidine or epinephrine to bupivacaine had no significant impact on nerve tissue oximetry
+compared with bupivacaine alone. Nerve ischemia due to local anesthetics is not enhanced by
+the adjuvants clonidine or epinephrine.
+Keywords: peripheral regional anesthesia, complications, nerve blood flow, local anesthetics,
+adjuvants
+
+Introduction
+
+Correspondence: Thomas Wiesmann
+Department of Anesthesiology and
+Intensive Care Medicine, Faculty of
+Medicine, University Hospital Marburg,
+Philipps University, Baldingerstrasse 10,
+Marburg 35032, Germany
+Tel +49 6421 586 9362
+Fax +49 6421 586 5971
+Email wiesmann@med.uni-marburg.de
+
+227
+
+submit your manuscript | www.dovepress.com
+
+Journal of Pain Research 2018:11 227–235
+
+Dovepress
+
+© 2018 Wiesmann et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.
+php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work
+you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+http://dx.doi.org/10.2147/JPR.S152230
+
+Powered by TCPDF (www.tcpdf.org)
+
+The blood supply to peripheral nerves is delivered by two integrated, but functionally
+independent, vascular systems.1,2 Extrinsic and intrinsic vessels form anastomoses at
+the level of the epineurium. Alterations in blood flow are important for peripheral nerve
+pathology in acute and chronic disease.3–6 Local anesthetics and epinephrine, used as
+an adjunct, are known to have a negative impact on nerve blood flow.4,7,8 The underlying molecular mechanisms of local anesthetic-induced reductions of nerve blood flow
+are still uncertain and speculative.9 Additionally, it is unclear whether these blood flow
+reductions, caused by local anesthetics, result in local hypoxic tissue conditions and
+act as a key factor for peripheral nerve injury.5,6 The goal of this study is to determine
+the effect of bupivacaine alone and in combination with the adjuncts epinephrine or
+
+
+----- [PDF page 1 of 9: layout view of the same page] -----
+                                                                                                       Journal of Pain Research                                                                                                                                                                                  Dovepress
+                                                                                                                                                                                                                                                                       open access to scientific and medical research
+
+
+                                                                                                           Open Access Full Text Article                                                                                                                                  Original Research
+
+                                                                                                       Effect of bupivacaine and adjuvant drugs for
+                                                                                                       regional anesthesia on nerve tissue oximetry
+                                                                                                       and nerve blood flow
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+
+
+
+
+                                                                                                                                                    This article was published in the following Dove Press journal:
+                                                                                                                                                    Journal of Pain Research
+
+
+
+
+                                                                                                       Thomas Wiesmann 1                            Background: Nerve blood flow has a critical role in acute and chronic pathologies in periph-
+                                                                                                       Stefan Müller 1,2                            eral nerves. Influences of local anesthetics and adjuvants on tissue perfusion and oxygenation
+                                                                                                       Hans-Helge Müller 3                          are deemed as relevant factors for nerve damage after peripheral regional anesthesia. The link
+                                                                                                       Hinnerk Wulf 1                               between low tissue perfusion due to local anesthetics and resulting tissue oxygenation is unclear.
+                                        For personal use only.
+
+
+
+
+                                                                                                                                                    Methods: Combined tissue spectrophotometry and laser-Doppler flowmetry were used to assess
+                                                                                                       Thorsten Steinfeldt 1,4
+                                                                                                                                                    nerve blood flow in 40 surgically exposed median nerves in pigs, as well as nerve tissue oximetry
+                                                                                                       1
+                                                                                                         Department of Anesthesiology and
+                                                                                                                                                    for 60 min. After baseline measurements, test solutions saline (S), bupivacaine (Bupi), bupivacaine
+                                                                                                       Intensive Care Medicine, Faculty
+                                                                                                       of Medicine, University Hospital             with epinephrine (BupiEpi), and bupivacaine with clonidine (BupiCloni) were applied topically.
+                                                                                                       Marburg, Philipps University, Marburg,       Results: Bupivacaine resulted in significant decrease in nerve blood flow, as well as tissue oximetry
+                                                                                                       2
+                                                                                                         Department of Anesthesiology and
+                                                                                                       Intensive Care Medicine, University          values, compared with saline control. Addition of epinephrine resulted in a rapid, but nonsignificant,
+                                                                                                       Hospital Giessen, Justus-Liebig-             reduction of nerve blood flow and extensive lowering of tissue oximetry levels. The use of clonidine
+                                                                                                       University, Giessen, 3Institute of           resulted in a reduction of nerve blood flow, comparable to bupivacaine alone (relative blood flow at
+                                                                                                       Medical Biometry and Epidemiology,
+                                                                                                       Philipps University, Marburg,                T60 min compared with baseline, S: 0.86 (0.67–1.18), median (25th–75th percentile); Bupi: 0.33
+                                                                                                       4
+                                                                                                         Department of Anesthesiology               (0.25–0.60); BupiCloni: 0.43 (0.38–0.63); and BupiEpi: 0.41(0.30–0.54). The use of adjuvants
+                                                                                                       and Intensive Care Medicine,
+                                                                                                                                                    did not result in any relevant impairment of tissue oximetry values (saturation values in percent
+                                                                                                       Diakoniekrankenhaus Schwäbisch Hall,
+                                                                                                       Schwäbisch Hall, Germany                     at T60, S: 91.5 [84–95]; Bupi: 76 [61–86]; BupiCloni: 84.5 [76–91]; and BupiEpi: 91 [56–92]).
+                                                                                                                                                    Conclusion: The application of bupivacaine results in lower nerve blood flow, but does not
+                                                                                                                                                    induce relevant ischemia. Despite significant reductions in nerve blood flow, the addition of
+                                                                                                                                                    clonidine or epinephrine to bupivacaine had no significant impact on nerve tissue oximetry
+                                                                                                                                                    compared with bupivacaine alone. Nerve ischemia due to local anesthetics is not enhanced by
+                                                                                                                                                    the adjuvants clonidine or epinephrine.
+                                                                                                                                                    Keywords: peripheral regional anesthesia, complications, nerve blood flow, local anesthetics,
+                                                                                                                                                    adjuvants
+
+
+                                                                                                                                                    Introduction
+                                                                                                                                                    The blood supply to peripheral nerves is delivered by two integrated, but functionally
+                                                                                                                                                    independent, vascular systems.1,2 Extrinsic and intrinsic vessels form anastomoses at
+                                                                                                                                                    the level of the epineurium. Alterations in blood flow are important for peripheral nerve
+                                                                                                                                                    pathology in acute and chronic disease.3–6 Local anesthetics and epinephrine, used as
+                                                                                                       Correspondence: Thomas Wiesmann
+                                                                                                       Department of Anesthesiology and             an adjunct, are known to have a negative impact on nerve blood flow.4,7,8 The underly-
+                                                                                                       Intensive Care Medicine, Faculty of          ing molecular mechanisms of local anesthetic-induced reductions of nerve blood flow
+                                                                                                       Medicine, University Hospital Marburg,
+                                                                                                       Philipps University, Baldingerstrasse 10,    are still uncertain and speculative.9 Additionally, it is unclear whether these blood flow
+                                                                                                       Marburg 35032, Germany                       reductions, caused by local anesthetics, result in local hypoxic tissue conditions and
+                                                                                                       Tel +49 6421 586 9362
+                                                                                                       Fax +49 6421 586 5971                        act as a key factor for peripheral nerve injury.5,6 The goal of this study is to determine
+                                                                                                       Email wiesmann@med.uni-marburg.de            the effect of bupivacaine alone and in combination with the adjuncts epinephrine or
+
+                                                                                                       submit your manuscript | www.dovepress.com   Journal of Pain Research 2018:11 227–235                                                                                                                                               227
+                                                                                                       Dovepress                                                           © 2018 Wiesmann et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.
+                                                                                                       http://dx.doi.org/10.2147/JPR.S152230
+                                                                                                                                                                           php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work
+                                                                                                                                                    you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+                                                                                                                                                    permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+
+                  Powered by TCPDF (www.tcpdf.org)
+
+===== [PDF page 2 of 9] =====
+Dovepress
+
+Wiesmann et al
+
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+clonidine on nerve blood flow and tissue oximetry in a large
+animal model, simulating human conditions. Thus, data for
+epinephrine and clonidine, with regard to neural ischemia as
+a potential risk factor for nerve damage, could be investigated
+in our study.
+
+Pharyngeal temperature was recorded and kept constant
+using warm blankets.
+The anesthetized animals were placed supine, and axillary
+regions were dissected surgically as previously described;11,13
+median nerves were exposed with preservation of the extrinsic epineural blood vessel supply.
+Euthanasia was performed at the end of the experiments under general anesthesia using potassium chloride
+(4 mmol⋅kg−1).
+
+Methods
+General anesthesia and nerve preparation
+Experiments were approved by the local authorities (Study
+No. 93/11; Regional Board of Animal Welfare, Giessen,
+Germany); study results are presented according to ARRIVE
+guidelines.10 Experiments were performed in accordance
+with the current German laws of animal protection. Standardized general anesthesia and euthanasia, following the
+experiments, were conducted as described previously.11,12
+In brief, following a premedication using diazepam and
+ketamine, general anesthesia was induced using propofol
+(2–3 mg⋅kg−1 and sufentanil). After endotracheal intubation, general anesthesia was commenced using propofol
+(0.2 mg⋅kg−1⋅min−1) and sufentanil (0.5 µg kg−1 h−1). Mechanical ventilation settings were modified to obtain an end tidal
+CO2 of 35–45 mmHg. Inspiratory oxygen fraction was set
+to 30% (to simulate clinical conditions, using low-flow oxygen supplementation in spontaneously breathing subjects).
+Ultrasound-guided invasive blood pressure measurement
+was conducted via catheter to the left femoral artery. To
+achieve standardized conditions and minimize motion
+artifacts for the ­m easurements, ­p ancuronium bromide
+(0.1 mg⋅kg−1) was given repeatedly during the study period.
+
+Combined tissue spectrophotometry and
+laser-Doppler flowmetry
+Measurements of nerve blood flow (flow in arbitrary units
+[AU]), tissue oxygen saturation (SO2 in %), and tissue
+hemoglobin level (rHb, in AU) were obtained using laserDoppler flowmetry and tissue spectrophotometry (O2C; Lea
+Medizintechnik, Giessen, Germany). The system and probe
+(LF-1; Lea, Medizintechnik) were calibrated according to the
+manufacturer’s recommendation. The O2C probe was applied
+to the exposed nerve with a custom-made application device
+(Figure 1), and fixed with sutures in the surrounding tissue
+for constant application pressure, to acquire a test volume
+of ~1–2 mm deep inside the nerve, according to the manufacturer’s advice. Measurements were started 10 min before
+each intervention to achieve optimal measurement stability
+of the system. One milliliter of the randomly assigned test
+solution was applied directly to the median nerve next to the
+probe (resulting in spread under the probe due to capillary
+effects) immediately after acquiring data at T0.
+
+Medial
+
+Axillary
+brachial plexus
+
+Caudal
+
+Median nerve
+
+Optical probe
+
+Lateral
+
+10mm
+
+Figure 1 O2C probe in situ, mounted on median nerve.
+
+228
+
+Powered by TCPDF (www.tcpdf.org)
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Journal of Pain Research 2018:11
+
+
+----- [PDF page 2 of 9: layout view of the same page] -----
+                                                                                                       Wiesmann et al                                                                                                                      Dovepress
+
+
+                                                                                                       clonidine on nerve blood flow and tissue oximetry in a large                   Pharyngeal temperature was recorded and kept constant
+                                                                                                       animal model, simulating human conditions. Thus, data for                      using warm blankets.
+                                                                                                       epinephrine and clonidine, with regard to neural ischemia as                       The anesthetized animals were placed supine, and axillary
+                                                                                                       a potential risk factor for nerve damage, could be investigated                regions were dissected surgically as previously described;11,13
+                                                                                                       in our study.                                                                  median nerves were exposed with preservation of the extrin-
+                                                                                                                                                                                      sic epineural blood vessel supply.
+                                                                                                       Methods                                                                            Euthanasia was performed at the end of the experi-
+                                                                                                       General anesthesia and nerve preparation                                       ments under general anesthesia using potassium chloride
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+
+
+
+
+                                                                                                       Experiments were approved by the local authorities (Study                      (4 mmol⋅kg−1).
+                                                                                                       No. 93/11; Regional Board of Animal Welfare, Giessen,
+                                                                                                       Germany); study results are presented according to ARRIVE                      Combined tissue spectrophotometry and
+                                                                                                       guidelines.10 Experiments were performed in accordance                         laser-Doppler flowmetry
+                                                                                                       with the current German laws of animal protection. Stan-                       Measurements of nerve blood flow (flow in arbitrary units
+                                                                                                       dardized general anesthesia and euthanasia, following the                      [AU]), tissue oxygen saturation (SO2 in %), and tissue
+                                                                                                       experiments, were conducted as described previously.11,12                      hemoglobin level (rHb, in AU) were obtained using laser-
+                                                                                                       In brief, following a premedication using diazepam and                         Doppler flowmetry and tissue spectrophotometry (O2C; Lea
+                                                                                                       ketamine, general anesthesia was induced using propofol                        Medizintechnik, Giessen, Germany). The system and probe
+                                                                                                       (2–3 mg⋅kg−1 and sufentanil). After endotracheal intuba-                       (LF-1; Lea, Medizintechnik) were calibrated according to the
+                                        For personal use only.
+
+
+
+
+                                                                                                       tion, general anesthesia was commenced using propofol                          manufacturer’s recommendation. The O2C probe was applied
+                                                                                                       (0.2 mg⋅kg−1⋅min−1) and sufentanil (0.5 µg kg−1 h−1). Mechani-                 to the exposed nerve with a custom-made application device
+                                                                                                       cal ventilation settings were modified to obtain an end tidal                  (Figure 1), and fixed with sutures in the surrounding tissue
+                                                                                                       CO2 of 35–45 mmHg. Inspiratory oxygen fraction was set                         for constant application pressure, to acquire a test volume
+                                                                                                       to 30% (to simulate clinical conditions, using low-flow oxy-                   of ~1–2 mm deep inside the nerve, according to the manu-
+                                                                                                       gen supplementation in spontaneously breathing subjects).                      facturer’s advice. Measurements were started 10 min before
+                                                                                                       Ultrasound-guided invasive blood pressure measurement                          each intervention to achieve optimal measurement stability
+                                                                                                       was conducted via catheter to the left femoral artery. To                      of the system. One milliliter of the randomly assigned test
+                                                                                                       achieve standardized conditions and minimize motion                            solution was applied directly to the median nerve next to the
+                                                                                                       artifacts for the ­m easurements, ­p ancuronium bromide                        probe (resulting in spread under the probe due to capillary
+                                                                                                       (0.1 mg⋅kg−1) was given repeatedly during the study period.                    effects) immediately after acquiring data at T0.
+
+
+                                                                                                                                                                                Medial
+
+
+
+                                                                                                                                                                        Axillary
+                                                                                                                                                                    brachial plexus
+
+
+
+
+                                                                                                                                                                                                     Median nerve
+                                                                                                                                                                                                                            Caudal
+
+
+
+
+                                                                                                                                                    Optical probe
+
+
+
+
+                                                                                                                                                                               Lateral
+                                                                                                                                                                                                                     10mm
+
+
+                                                                                                       Figure 1 O2C probe in situ, mounted on median nerve.
+
+
+                                                                                                       228        submit your manuscript | www.dovepress.com                                                            Journal of Pain Research 2018:11
+                                                                                                                  Dovepress
+
+
+
+                  Powered by TCPDF (www.tcpdf.org)
+
+===== [PDF page 3 of 9] =====
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+Dovepress
+
+Nerve tissue oximetry and nerve blood flow
+
+The O2C machine consists of two different units
+(­Figure 2). First, blood flow (flow) is measured by using
+the technique of laser-Doppler flowmetry, which has been
+described previously.14–16 Second, the tissue spectrophotometry unit calculates tissue hemoglobin content and
+tissue oximetry. In brief, underlying tissue is illuminated
+with coherent laser light of 500–630 nm wavelength and
+30 mW power through a fiber-optic cable. Probe geometry
+allows for the detection of blood flow at ~1–2 mm depth by
+analyzing backscattered light. By fitting measured spectra
+with spectra of known tissue saturation values (SO2), the
+SO2 of the capillary and post-capillary microvasculature is
+calculated by the O2C device. The tissue hemoglobin value
+(rHb) represents the hemoglobin concentration per tissue
+volume (displayed as arbitrary unit). It is dependent on
+microvessel density, venous filling and microvessel shunting. This parameter is helpful to rule out venous congestion
+(raising rHb value).
+Reductions of nerve blood flow are categorized as minimal (<20% reduction of nerve blood flow [NBF] baseline),
+mild (20%–50% reduction of NBF), moderate (50%–80%
+reduction of NBF) or severe (> 80% reduction of NBF)
+according to structural or electrophysiological signs of tissue damage or electrophysiological conduction impairment
+as previously described.17–19
+
+Study groups
+Randomly, 1 mL of the following test solutions was applied
+topically to the nerve: bupivacaine 0.5% isobaric (Bupi)
+
+er
+
+s
+La
+
+ht
+
+lig
+
+e
+
+W
+
+hit
+
+ht
+
+(Carbostesin, B. Braun, Melsungen, Germany); bupivacaine
+0.5% with epinephrine 1:100.000 (BupiEpi) (Suprarenin,
+Sanofi-Aventis, Frankfurt, Germany); bupivacaine 0.5% (see
+previous section) with 3.75 μg/mL clonidine (BupiCloni)
+(Clonidin-ratiopharm, Ratiopharm, Ulm, Germany). In
+addition, saline was used as a negative control: saline 0.9%
+isotonic (NaCl, B. Braun).
+Test solutions were prepared freshly before use for the
+experiments in a standardized fashion using single-dose
+vials avoiding preparations containing preservatives like
+sodium metabisulfite. The concentrations of epinephrine and
+clonidine resemble the highest concentration of epinephrine
+used in clinical studies.20 Only one nerve per exposed brachial plexus was exposed to only one test solution to avoid
+potential residual drug effects on the sample.
+
+Outcome parameters
+At the time points T0, T5, T10, T15, T20, T25, T30, T40,
+T50, and T60, the O2C data of blood flow (flow, in AU),
+tissue oximetry (SO2, in percent), and hemoglobin (rHb, in
+AU) were recorded using Excel (Excel for Mac; Microsoft
+Corporation, Redmond, WA, USA). Parameters of systemic
+hemodynamics (heart rate, mean arterial pressure), as well
+as oxygen saturation were recorded at T0, T30, and T60.
+
+Sample size calculation
+Based on published data for nerve blood flow alterations
+after the application of local anesthetic, we assumed a relative change of nerve blood flow of 1.0 (no change) for saline
+
+Optical probe
+so2
+rHb
+
+lig
+
+d
+re
+
+lo
+Co
+
+lig
+
+Flow
+ht
+La
+
+r
+se
+
+lig
+
+ht
+
+Changes in color
+and intensity by
+capillary
+erythrocytes
+
+Peripheral nerve
+
+Frequency shift by
+moving erythrocytes
+
+Figure 2 Schematic illustration of O2C device.
+Abbreviations: SO2, tissue oxygen saturation; rHb, tissue hemoglobin.
+
+Journal of Pain Research 2018:11
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Powered by TCPDF (www.tcpdf.org)
+
+229
+
+
+----- [PDF page 3 of 9: layout view of the same page] -----
+                                                                                                       Dovepress                                                                                                                         Nerve tissue oximetry and nerve blood flow
+
+
+                                                                                                           The O2C machine consists of two different units                                         (Carbostesin, B. Braun, Melsungen, Germany); bupivacaine
+                                                                                                       (­Figure 2). First, blood flow (flow) is measured by using                                  0.5% with epinephrine 1:100.000 (BupiEpi) (Suprarenin,
+                                                                                                       the technique of laser-Doppler flowmetry, which has been                                    Sanofi-Aventis, Frankfurt, Germany); bupivacaine 0.5% (see
+                                                                                                       described previously.14–16 Second, the tissue spectropho-                                   previous section) with 3.75 μg/mL clonidine (BupiCloni)
+                                                                                                       tometry unit calculates tissue hemoglobin content and                                       (Clonidin-ratiopharm, Ratiopharm, Ulm, Germany). In
+                                                                                                       tissue oximetry. In brief, underlying tissue is illuminated                                 addition, saline was used as a negative control: saline 0.9%
+                                                                                                       with coherent laser light of 500–630 nm wavelength and                                      isotonic (NaCl, B. Braun).
+                                                                                                       30 mW power through a fiber-optic cable. Probe geometry                                         Test solutions were prepared freshly before use for the
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+
+
+
+
+                                                                                                       allows for the detection of blood flow at ~1–2 mm depth by                                  experiments in a standardized fashion using single-dose
+                                                                                                       analyzing backscattered light. By fitting measured spectra                                  vials avoiding preparations containing preservatives like
+                                                                                                       with spectra of known tissue saturation values (SO2), the                                   sodium metabisulfite. The concentrations of epinephrine and
+                                                                                                       SO2 of the capillary and post-capillary microvasculature is                                 clonidine resemble the highest concentration of epinephrine
+                                                                                                       calculated by the O2C device. The tissue hemoglobin value                                   used in clinical studies.20 Only one nerve per exposed bra-
+                                                                                                       (rHb) represents the hemoglobin concentration per tissue                                    chial plexus was exposed to only one test solution to avoid
+                                                                                                       volume (displayed as arbitrary unit). It is dependent on                                    potential residual drug effects on the sample.
+                                                                                                       microvessel density, venous filling and microvessel shunt-
+                                                                                                       ing. This parameter is helpful to rule out venous congestion                                Outcome parameters
+                                                                                                       (raising rHb value).                                                                        At the time points T0, T5, T10, T15, T20, T25, T30, T40,
+                                        For personal use only.
+
+
+
+
+                                                                                                           Reductions of nerve blood flow are categorized as mini-                                 T50, and T60, the O2C data of blood flow (flow, in AU),
+                                                                                                       mal (<20% reduction of nerve blood flow [NBF] baseline),                                    tissue oximetry (SO2, in percent), and hemoglobin (rHb, in
+                                                                                                       mild (20%–50% reduction of NBF), moderate (50%–80%                                          AU) were recorded using Excel (Excel for Mac; Microsoft
+                                                                                                       reduction of NBF) or severe (> 80% reduction of NBF)                                        Corporation, Redmond, WA, USA). Parameters of systemic
+                                                                                                       according to structural or electrophysiological signs of tis-                               hemodynamics (heart rate, mean arterial pressure), as well
+                                                                                                       sue damage or electrophysiological conduction impairment                                    as oxygen saturation were recorded at T0, T30, and T60.
+                                                                                                       as previously described.17–19
+                                                                                                                                                                                                   Sample size calculation
+                                                                                                       Study groups                                                                                Based on published data for nerve blood flow alterations
+                                                                                                       Randomly, 1 mL of the following test solutions was applied                                  after the application of local anesthetic, we assumed a rela-
+                                                                                                       topically to the nerve: bupivacaine 0.5% isobaric (Bupi)                                    tive change of nerve blood flow of 1.0 (no change) for saline
+
+
+
+                                                                                                                                                                                            Optical probe
+                                                                                                                                                                   ht              ht                                so2
+                                                                                                                                                                lig             lig
+                                                                                                                                                          ser            hit
+                                                                                                                                                                            e                                        rHb                 Flow
+                                                                                                                                                       La               W
+
+                                                                                                                                                                                                                               ht
+                                                                                                                                                                                                                         lig
+                                                                                                                                                                                                                     d                             ht
+                                                                                                                                                                                                                lore                     r   lig
+                                                                                                                                                                                                             Co                       se
+                                                                                                                                                                                                                                    La
+
+
+                                                                                                                                                                                        Changes in color
+                                                                                                                                                                                        and intensity by
+                                                                                                                                                                                        capillary
+                                                                                                                                                                                        erythrocytes
+
+
+
+
+                                                                                                                                                                                                                 Frequency shift by
+                                                                                                                                      Peripheral nerve                                                           moving erythrocytes
+
+                                                                                                       Figure 2 Schematic illustration of O2C device.
+                                                                                                       Abbreviations: SO2, tissue oxygen saturation; rHb, tissue hemoglobin.
+
+
+
+                                                                                                       Journal of Pain Research 2018:11                                                                                                   submit your manuscript | www.dovepress.com
+                                                                                                                                                                                                                                                                                       229
+                                                                                                                                                                                                                                                                       Dovepress
+
+
+
+                  Powered by TCPDF (www.tcpdf.org)
+
+===== [PDF page 4 of 9] =====
+Dovepress
+
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+Wiesmann et al
+
+(negative control group), and compared with T0 and T60
+values. Based on published data of nerve blood flow measurements, we assumed a reduction to 0.6 for bupivacaine
+(standard group), 0.8 for BupiCloni (intervention group), and
+0.4 for BupiEpi (intervention group) at T60, compared with
+baseline flow at T0.9 With an assumed standard deviation of
+10%, a power of 80%, and a two-sided testing, a minimum
+number of seven to eight nerves per group were calculated
+for semi-parametric testing. Due to multiple testing (two
+comparisons between bupivacaine and each intervention
+group), the sample size calculation increased to n = 9 per
+group. Considering a dropout rate due to accidental bleeding or technical problems of data acquisition, we planned to
+perform measurements in 10 nerves per group.
+
+Exclusion criteria
+Exposed nerves were not used for the experiments when
+epineural blood vessels were damaged during surgical dissection. Obtained measurements for each given nerve were
+investigated (blinded to the respective group) for signs of
+technical problems during the test period, or the baseline
+period, before starting the test period, and were excluded if:
+• Continuous data acquisition was not correctly performed
+over the test period for a respective nerve (mostly due to
+inadvertent probe dislocation).
+• Spectra analysis of the raw data showed incorrect values
+for hemoglobin extinction (tissue compression due to
+probe placement).
+
+Statistical analysis
+Data were analyzed using SPSS (SPSS for Windows, release
+18.0). Values for SO2 are given as percentage (%) and values
+for rHb are presented in arbitrary units (AU) according to
+the manufacturer,21 and are presented as absolute values at
+the given time points. Values for blood flow are presented
+as relative flow compared to baseline flow measurement,
+according to previous studies.4,9
+Values of relative flow (AU), SO2 (%), and rHb (AU)
+at T0, T30, and T60 of bupivacaine (standard group) was
+compared with either BupiEpi or BupiCloni (experimental
+groups) using Mann-Whitney U-test. The saline group served
+only as a negative control group in comparison with the bupivacaine group. Statistical tests for differences (­two-sided)
+were deemed significant at a level of 0.05. A closed testing approach was used to compensate for multiple testing:
+Bonferroni adjustment corrected the level of significance for
+the two primary comparisons of groups, and the hierarchy
+
+230
+
+Powered by TCPDF (www.tcpdf.org)
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+of testing according to the primary end points and the time
+points was relative flow at T60, SO2 at T60, rHb at T60,
+relative flow at T30, SO2 at T30, and rHb at T30. HodgesLehmann (HL) estimators, with 95% confidence intervals
+(CI), were calculated for the interpretation of differences
+between microcirculation parameters (SO2 and nerve blood
+flow) between bupivacaine and each respective group.
+Additionally, descriptive post hoc testing was performed
+comparing SO2 and nerve blood flow parameters at T0,
+T30, and T60 between all groups using the Kruskal–Wallis testing (two-sided testing, level of significance 0.05).
+In case of significance, pairwise comparisons of the saline
+group versus bupivacaine, BupiEpi, or BupiCloni groups
+were performed.
+Furthermore, to exclude the potential bias of varying
+vital parameters between groups, vital parameters at T0,
+T30, and T60 were compared. In this analysis, HL estimators (95% CI) for heart rate (bpm), mean blood pressure
+(MAP, mmHg), and SpO2 (SpO2%) were calculated between
+the bupivacaine group and one of the respective groups.
+Differences of less than 10 bpm, 5 mmHg in MAP, or 3%
+in SpO2 among the compared groups were assumed to be
+clinically irrelevant.
+
+Results
+Number of animals and obtained
+measurements
+Fifty-six peripheral nerves (one nerve per brachial plexus)
+were exposed in 28 pigs. Six nerves were excluded before
+randomization due to difficulties in probe mounting, or
+were used for surgical preparation training. According to the
+predefined criteria for study termination, three peripheral
+nerves were excluded from the study due to insufficient
+surgical preparation of the nerve, with suspected injury to
+the extrinsic nerve vasculature. Furthermore, seven nerves
+were excluded before data analysis, due to supposed probe
+dislocation and non-continuous data acquisition. Thus, 40
+nerves were randomly assigned to one of the four experimental groups, and included in the final data analysis (n =
+10 per group).
+
+Vital parameters
+Vital parameter data are given in Table 1. Comparison of
+HL estimators for mean arterial pressure, heart rate, and
+systemic pulse oximetry revealed no clinically relevant
+differences between the groups at T0, T30, and T60 min
+(Table 1).
+
+Journal of Pain Research 2018:11
+
+
+----- [PDF page 4 of 9: layout view of the same page] -----
+                                                                                                       Wiesmann et al                                                                                                      Dovepress
+
+
+                                                                                                       (negative control group), and compared with T0 and T60           of testing according to the primary end points and the time
+                                                                                                       values. Based on published data of nerve blood flow mea-         points was relative flow at T60, SO2 at T60, rHb at T60,
+                                                                                                       surements, we assumed a reduction to 0.6 for bupivacaine         relative flow at T30, SO2 at T30, and rHb at T30. Hodges-
+                                                                                                       (standard group), 0.8 for BupiCloni (intervention group), and    Lehmann (HL) estimators, with 95% confidence intervals
+                                                                                                       0.4 for BupiEpi (intervention group) at T60, compared with       (CI), were calculated for the interpretation of differences
+                                                                                                       baseline flow at T0.9 With an assumed standard deviation of      between microcirculation parameters (SO2 and nerve blood
+                                                                                                       10%, a power of 80%, and a two-sided testing, a minimum          flow) between bupivacaine and each respective group.
+                                                                                                       number of seven to eight nerves per group were calculated            Additionally, descriptive post hoc testing was performed
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+
+
+
+
+                                                                                                       for semi-parametric testing. Due to multiple testing (two        comparing SO2 and nerve blood flow parameters at T0,
+                                                                                                       comparisons between bupivacaine and each intervention            T30, and T60 between all groups using the Kruskal–Wal-
+                                                                                                       group), the sample size calculation increased to n = 9 per       lis testing (two-sided testing, level of significance 0.05).
+                                                                                                       group. Considering a dropout rate due to accidental bleed-       In case of significance, pairwise comparisons of the saline
+                                                                                                       ing or technical problems of data acquisition, we planned to     group versus bupivacaine, BupiEpi, or BupiCloni groups
+                                                                                                       perform measurements in 10 nerves per group.                     were performed.
+                                                                                                                                                                            Furthermore, to exclude the potential bias of varying
+                                                                                                       Exclusion criteria                                               vital parameters between groups, vital parameters at T0,
+                                                                                                       Exposed nerves were not used for the experiments when            T30, and T60 were compared. In this analysis, HL estima-
+                                                                                                       epineural blood vessels were damaged during surgical dis-        tors (95% CI) for heart rate (bpm), mean blood pressure
+                                        For personal use only.
+
+
+
+
+                                                                                                       section. Obtained measurements for each given nerve were         (MAP, mmHg), and SpO2 (SpO2%) were calculated between
+                                                                                                       investigated (blinded to the respective group) for signs of      the bupivacaine group and one of the respective groups.
+                                                                                                       technical problems during the test period, or the baseline       Differences of less than 10 bpm, 5 mmHg in MAP, or 3%
+                                                                                                       period, before starting the test period, and were excluded if:   in SpO2 among the compared groups were assumed to be
+                                                                                                                                                                        clinically irrelevant.
+                                                                                                       • Continuous data acquisition was not correctly performed
+                                                                                                         over the test period for a respective nerve (mostly due to
+                                                                                                         inadvertent probe dislocation).                                Results
+                                                                                                       • Spectra analysis of the raw data showed incorrect values       Number of animals and obtained
+                                                                                                         for hemoglobin extinction (tissue compression due to           measurements
+                                                                                                         probe placement).                                              Fifty-six peripheral nerves (one nerve per brachial plexus)
+                                                                                                                                                                        were exposed in 28 pigs. Six nerves were excluded before
+                                                                                                       Statistical analysis                                             randomization due to difficulties in probe mounting, or
+                                                                                                       Data were analyzed using SPSS (SPSS for Windows, release         were used for surgical preparation training. According to the
+                                                                                                       18.0). Values for SO2 are given as percentage (%) and values     predefined criteria for study termination, three peripheral
+                                                                                                       for rHb are presented in arbitrary units (AU) according to       nerves were excluded from the study due to insufficient
+                                                                                                       the manufacturer,21 and are presented as absolute values at      surgical preparation of the nerve, with suspected injury to
+                                                                                                       the given time points. Values for blood flow are presented       the extrinsic nerve vasculature. Furthermore, seven nerves
+                                                                                                       as relative flow compared to baseline flow measurement,          were excluded before data analysis, due to supposed probe
+                                                                                                       according to previous studies.4,9                                dislocation and non-continuous data acquisition. Thus, 40
+                                                                                                           Values of relative flow (AU), SO2 (%), and rHb (AU)          nerves were randomly assigned to one of the four experi-
+                                                                                                       at T0, T30, and T60 of bupivacaine (standard group) was          mental groups, and included in the final data analysis (n =
+                                                                                                       compared with either BupiEpi or BupiCloni (experimental          10 per group).
+                                                                                                       groups) using Mann-Whitney U-test. The saline group served
+                                                                                                       only as a negative control group in comparison with the bupi-    Vital parameters
+                                                                                                       vacaine group. Statistical tests for differences (­two-sided)    Vital parameter data are given in Table 1. Comparison of
+                                                                                                       were deemed significant at a level of 0.05. A closed test-       HL estimators for mean arterial pressure, heart rate, and
+                                                                                                       ing approach was used to compensate for multiple testing:        systemic pulse oximetry revealed no clinically relevant
+                                                                                                       Bonferroni adjustment corrected the level of significance for    differences between the groups at T0, T30, and T60 min
+                                                                                                       the two primary comparisons of groups, and the hierarchy         (Table 1).
+
+
+
+                                                                                                       230      submit your manuscript | www.dovepress.com                                              Journal of Pain Research 2018:11
+                                                                                                                Dovepress
+
+
+
+                  Powered by TCPDF (www.tcpdf.org)
+
+===== [PDF page 5 of 9] =====
+Dovepress
+
+Nerve tissue oximetry and nerve blood flow
+
+Table 1 Vital parameters
+Group
+
+Parameter
+
+T0
+
+HL (95% CI)
+
+T30
+
+HL (95% CI)
+
+T60
+
+HL (95% CI)
+
+Bupi
+(n = 10)
+
+Heart rate
+MAP
+SpO2
+Heart rate
+MAP
+SpO2
+Heart rate
+MAP
+SpO2
+Heart rate
+MAP
+SpO2
+
+97 (81–108)
+74 (65–79)
+97 (97–99)
+96 (80–103)
+71 (59–81)
+100 (96–100)
+100 (74–105)
+79 (71–86)
+100 (98–100)
+95 (84–123)
+73 (67–85)
+100 (98–100)
+
+n/a
+n/a
+n/a
+−0.5 (−16;22)
+−2.0 (−14;12)
+1.0 (−1;3)
+−1.5 (−14;12)
+3.5 (−8;16)
+2 (0;3)
+
+97 (83–99)
+76 (68–86)
+99 (94–100)
+89 (77–103)
+75 (68–82)
+100 (98–100)
+97 (76–102)
+80 (70–81)
+100 (98–100)
+100 (85–114)
+74 (67–80)
+100 (99–100)
+
+n/a
+n/a
+n/a
+−4.5 (−19;19)
+−2 (−12;7)
+0 (0;3)
+
+92 (84–102)
+73 (69–83)
+98 (96–100)
+101 (74–110)
+75 (67–86)
+99 (97–100)
+94 (73–103)
+76 (63–89)
+100 (98–100)
+101 (88–112)
+71 (65–78)
+100 (99–100)
+
+n/a
+n/a
+n/a
+7.5 (−10;25)
+0.5 (−16;22)
+0 (−2;2)
+0 (−15;12)
+1.5 (−11;12)
+0 (−3;0)
+8 (−6;22)
+−2 (−14;9)
+0 (0;3)
+
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+Saline
+(n = 10)
+BupiCloni
+(n = 10)
+BupiEpi
+(n = 10)
+
+4.5 (−14;25)
+0 (−12;14)
+2 (0;3)
+
+−0.5 (−15;12)
+0 (−13;9)
+1 (0;4)
+5 (−11;23)
+−3 (−14;6)
+1 (0;3)
+
+Notes: Heart rate is expressed in bpm; MAP in mmHg; and SpO2 in %. All data are given as median (25th–75th percentile), and compares each group with bupivacaine at the
+same time point, with differences shown as HL estimator, with 95% CI.
+Abbreviations: Bupi, bupivacaine; BupiCloni, bupivacaine with clonidine; BupiEpi, bupivacaine with epinephrine; CI, confidence interval; HL, Hodges-Lehmann; MAP, mean
+arterial pressure; n/a, not applicable; Saline, saline control group; SpO2, pulse oximetry; T0, time point 0 min; T30, time point 30 min; T60, time point 60 min.
+
+Microcirculation (= flow measurements)
+Analysis of flow parameters is shown in Table 2. Using
+the Mann–Whitney test, the bupivacaine group (standard
+group) showed a significant decrease of flow, compared
+with the saline group (control group) at T30 and T60 (both
+p < 0.0001), but was not significantly different from bupivacaine with added clonidine (T30, p = 1.0; T60, p = 0.19), or
+with added epinephrine (T30, p = 0.48; T60, p = 0.39). HL
+estimators with 95% CI are shown in Table 2.
+
+Tissue oximetry
+Descriptive data for SO2 measurements at time points T0–T60
+are presented in Table 3. Mann–Whitney tests were performed
+for T0, T30, and T60. No significant differences between the
+groups were found when comparing bupivacaine with saline at
+T0 (p = 0.472) and T30 (p = 0.623), whereas differences between
+both groups at T60 showed a significant difference (p = 0.0005).
+Comparison of the SO2 values of the bupivacaine group with
+those of the BupiEpi group showed no significant differences at
+T0 (p = 0.382), T30 (p = 0.544), or T60 (p = 0.130). Moreover,
+comparison of the SO2 results of the bupivacaine group with
+those of the BupiCloni group revealed no significant differences
+at T0, T30, or T60 (p = 0.519, p = 0.520, p = 0.211, respectively).
+The results for comparisons using HL estimators and lower and
+upper 95% CIs are presented in Table 3.
+
+Hemoglobin content
+Measurements of rHb as a parameter of venous congestion
+are shown in Table 4. No significant differences of rHb
+were found when comparing bupivacaine with the saline
+control at the time points T0 (p = 0.212), T30 (p = 0.226),
+
+Journal of Pain Research 2018:11
+
+or T60 (p = 0.104). No significant differences were found
+when comparing the bupivacaine (standard group) with
+the BupiCloni group (T0, p = 0.472; T30, p = 0.241; T60,
+p = 0.173) or BupiEpi group (T0, p = 0.596; T30, p = 0.762;
+T60, p = 0.130).
+
+Post hoc analysis (saline versus active
+comparator)
+Descriptive post hoc testing was performed comparing SO2
+as well as nerve blood flow at the given time points between
+groups. Kruskal–Wallis testing revealed significant differences for nerve blood flow only for T30 (p < 0.0001) and
+T60 (p < 0.001) but not for T0 (p = 1.00). Regarding SO2
+data, post hoc Kruskal–Wallis testing showed no significant
+differences between groups for T0 and T30 but a significant
+difference for T60 (p = 0.047).
+Thus, pairwise comparisons of saline versus each group
+(bupivacaine, BupiEpi, or BupiCloni) were performed when
+applicable. Statistical test results are shown in Table 5.
+
+Discussion
+Our results showed that the application of local anesthetics alone, such as bupivacaine, resulted in relevant nerve
+blood flow reductions at T30 and T60, as shown in previous
+­studies.4,5,8,9,22 However, no significant difference for tissue
+oximetry between bupivacaine versus saline or versus bupivacaine in combination with clonidine or epinephrine was
+observed. Moreover, the addition of epinephrine or clonidine
+did not result in any significant alterations of nerve blood
+flow or tissue oximetry (SO2), compared with the bupivacaine
+standard group.
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Powered by TCPDF (www.tcpdf.org)
+
+231
+
+
+----- [PDF page 5 of 9: layout view of the same page] -----
+                                                                                                       Dovepress                                                                                                            Nerve tissue oximetry and nerve blood flow
+
+                                                                                                       Table 1 Vital parameters
+                                                                                                       Group              Parameter           T0                     HL (95% CI)           T30                   HL (95% CI)            T60                       HL (95% CI)
+                                                                                                       Bupi               Heart rate          97 (81–108)            n/a                   97 (83–99)            n/a                    92 (84–102)               n/a
+                                                                                                       (n = 10)           MAP                 74 (65–79)             n/a                   76 (68–86)            n/a                    73 (69–83)                n/a
+                                                                                                                          SpO2                97 (97–99)             n/a                   99 (94–100)           n/a                    98 (96–100)               n/a
+                                                                                                       Saline             Heart rate          96 (80–103)            −0.5 (−16;22)         89 (77–103)           −4.5 (−19;19)          101 (74–110)              7.5 (−10;25)
+                                                                                                       (n = 10)           MAP                 71 (59–81)             −2.0 (−14;12)         75 (68–82)            −2 (−12;7)             75 (67–86)                0.5 (−16;22)
+                                                                                                                          SpO2                100 (96–100)           1.0 (−1;3)            100 (98–100)          0 (0;3)                99 (97–100)               0 (−2;2)
+                                                                                                       BupiCloni          Heart rate          100 (74–105)           −1.5 (−14;12)         97 (76–102)           −0.5 (−15;12)          94 (73–103)               0 (−15;12)
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+
+
+
+
+                                                                                                       (n = 10)           MAP                 79 (71–86)             3.5 (−8;16)           80 (70–81)            0 (−13;9)              76 (63–89)                1.5 (−11;12)
+                                                                                                                          SpO2                100 (98–100)           2 (0;3)               100 (98–100)          1 (0;4)                100 (98–100)              0 (−3;0)
+                                                                                                       BupiEpi            Heart rate          95 (84–123)            4.5 (−14;25)          100 (85–114)          5 (−11;23)             101 (88–112)              8 (−6;22)
+                                                                                                       (n = 10)           MAP                 73 (67–85)             0 (−12;14)            74 (67–80)            −3 (−14;6)             71 (65–78)                −2 (−14;9)
+                                                                                                                          SpO2                100 (98–100)           2 (0;3)               100 (99–100)          1 (0;3)                100 (99–100)              0 (0;3)
+                                                                                                       Notes: Heart rate is expressed in bpm; MAP in mmHg; and SpO2 in %. All data are given as median (25th–75th percentile), and compares each group with bupivacaine at the
+                                                                                                       same time point, with differences shown as HL estimator, with 95% CI.
+                                                                                                       Abbreviations: Bupi, bupivacaine; BupiCloni, bupivacaine with clonidine; BupiEpi, bupivacaine with epinephrine; CI, confidence interval; HL, Hodges-Lehmann; MAP, mean
+                                                                                                       arterial pressure; n/a, not applicable; Saline, saline control group; SpO2, pulse oximetry; T0, time point 0 min; T30, time point 30 min; T60, time point 60 min.
+
+
+
+
+                                                                                                       Microcirculation (= flow measurements)                                               or T60 (p = 0.104). No significant differences were found
+                                                                                                                                                                                            when comparing the bupivacaine (standard group) with
+                                        For personal use only.
+
+
+
+
+                                                                                                       Analysis of flow parameters is shown in Table 2. Using
+                                                                                                       the Mann–Whitney test, the bupivacaine group (standard                               the BupiCloni group (T0, p = 0.472; T30, p = 0.241; T60,
+                                                                                                       group) showed a significant decrease of flow, compared                               p = 0.173) or BupiEpi group (T0, p = 0.596; T30, p = 0.762;
+                                                                                                       with the saline group (control group) at T30 and T60 (both                           T60, p = 0.130).
+                                                                                                       p < 0.0001), but was not significantly different from bupiva-
+                                                                                                       caine with added clonidine (T30, p = 1.0; T60, p = 0.19), or                         Post hoc analysis (saline versus active
+                                                                                                       with added epinephrine (T30, p = 0.48; T60, p = 0.39). HL                            comparator)
+                                                                                                       estimators with 95% CI are shown in Table 2.                                         Descriptive post hoc testing was performed comparing SO2
+                                                                                                                                                                                            as well as nerve blood flow at the given time points between
+                                                                                                       Tissue oximetry                                                                      groups. Kruskal–Wallis testing revealed significant differ-
+                                                                                                       Descriptive data for SO2 measurements at time points T0–T60                          ences for nerve blood flow only for T30 (p < 0.0001) and
+                                                                                                       are presented in Table 3. Mann–Whitney tests were performed                          T60 (p < 0.001) but not for T0 (p = 1.00). Regarding SO2
+                                                                                                       for T0, T30, and T60. No significant differences between the                         data, post hoc Kruskal–Wallis testing showed no significant
+                                                                                                       groups were found when comparing bupivacaine with saline at                          differences between groups for T0 and T30 but a significant
+                                                                                                       T0 (p = 0.472) and T30 (p = 0.623), whereas differences between                      difference for T60 (p = 0.047).
+                                                                                                       both groups at T60 showed a significant difference (p = 0.0005).                         Thus, pairwise comparisons of saline versus each group
+                                                                                                       Comparison of the SO2 values of the bupivacaine group with                           (bupivacaine, BupiEpi, or BupiCloni) were performed when
+                                                                                                       those of the BupiEpi group showed no significant differences at                      applicable. Statistical test results are shown in Table 5.
+                                                                                                       T0 (p = 0.382), T30 (p = 0.544), or T60 (p = 0.130). Moreover,
+                                                                                                       comparison of the SO2 results of the bupivacaine group with                          Discussion
+                                                                                                       those of the BupiCloni group revealed no significant differences                     Our results showed that the application of local anesthet-
+                                                                                                       at T0, T30, or T60 (p = 0.519, p = 0.520, p = 0.211, respectively).                  ics alone, such as bupivacaine, resulted in relevant nerve
+                                                                                                       The results for comparisons using HL estimators and lower and                        blood flow reductions at T30 and T60, as shown in previous
+                                                                                                       upper 95% CIs are presented in Table 3.                                              ­studies.4,5,8,9,22 However, no significant difference for tissue
+                                                                                                                                                                                            oximetry between bupivacaine versus saline or versus bupi-
+                                                                                                       Hemoglobin content                                                                   vacaine in combination with clonidine or epinephrine was
+                                                                                                       Measurements of rHb as a parameter of venous congestion                              observed. Moreover, the addition of epinephrine or clonidine
+                                                                                                       are shown in Table 4. No significant differences of rHb                              did not result in any significant alterations of nerve blood
+                                                                                                       were found when comparing bupivacaine with the saline                                flow or tissue oximetry (SO2), compared with the bupivacaine
+                                                                                                       control at the time points T0 (p = 0.212), T30 (p = 0.226),                           standard group.
+
+
+
+                                                                                                       Journal of Pain Research 2018:11                                                                                       submit your manuscript | www.dovepress.com
+                                                                                                                                                                                                                                                                            231
+                                                                                                                                                                                                                                                           Dovepress
+
+
+
+                  Powered by TCPDF (www.tcpdf.org)
+
+===== [PDF page 6 of 9] =====
+Powered by TCPDF (www.tcpdf.org)
+
+232
+
+0.70
+(0.62–0.97)
+1.02
+(1.01–1.22)NS
+0.79
+(0.68–0.97)NS
+0.59
+(0.27–0.71)NS
+
+Bupivacaine
+
+Dovepress
+
+0.61
+(0.50–0.68)
+1.04
+(0.94–1.09)
+0.71
+(0.59–0.81)
+0.45
+(0.31–0.61)
+
+T10
+0.63
+(0.40–0.65)
+1.09
+(0.93–1.14)
+0.58
+(0.50–0.67)
+0.39
+(0.34–0.60)
+
+T15
+0.57
+(0.30–0.63)
+1.04
+(0.95–1.19)
+0.47
+(0.40–0.63)
+0.41
+(0.28–0.60)
+
+T20
+0.55
+(0.27–0.58)
+1.20
+(0.94–1.28)
+0.44
+(0.32–0.73)
+0.41
+(0.30–0.56)
+
+T25
+0.50
+(0.28–0.60)
+1.17
+(1.11–1.36)*
+0.45
+(0.35–0.57)NS
+0.38
+(0.27–0.54)NS
+
+T30
+
+0.738
+(0.541; 0.947)
+0.002
+(−0.185; 0.206)
+−0.049
+(−0.274; 0.178)
+
+n/a
+
+HL (95% CI)
+0.36
+(0.26–0.54)
+1.07
+(0.94–1.30)
+0.38
+(0.32–61)
+0.38
+(0.26–0.62)
+
+T40
+0.35
+(0.24–0.51)
+1.02
+(0.79–1.23)
+0.58
+(0.42–0.71)
+0.39
+(0.23–0.62)
+
+T50
+0.33
+(0.25–0.60)
+0.86
+(0.67–1.18)*
+0.43
+(0.38–0.63)NS
+0.41
+(0.30–0.54)NS
+
+T60
+
+0.527
+(0.273; 0.857)
+0.117
+(−0.069; 0.312)
+0.0897
+(−0.127; 0.24)
+
+n/a
+
+HL (95% CI)
+
+submit your manuscript | www.dovepress.com
+
+T5
+92
+(86–95)
+90
+(84–92)
+88
+(86–94)
+83.5
+(63–93)
+
+T10
+90.5
+(86–95)
+89.5
+(83–92)
+89.5
+(86–91)
+74
+(52–94)
+
+T15
+91.5
+(78–95)
+88.5
+(84–92)
+89.5
+(85–94)
+85.5
+(47–94)
+
+T20
+92
+(72–95)
+88.5
+(85–93)
+93
+(86–95)
+83
+(58–90)
+
+T25
+90.5
+(70–93)
+88.5
+(86–93)
+91
+(82–94)
+83.5
+(68–92)
+
+T30
+89
+(70–94)
+88.5
+(86–93)NS
+90
+(78–96)NS
+85
+(60–93)NS
+
+HL (95% CI)
+
+3
+(−5; 21)
+3
+(−9; 20)
+−2.5
+(−28; 11)
+
+n/a
+
+T40
+84.5
+(66–91)
+90.5
+(87–94)
+90
+(81–95)
+87
+(70–93)
+
+T50
+79.5
+(62–85)
+92
+(87–96)
+86
+(79–94)
+90
+(65–93)
+
+T60
+76
+(61–86)
+91.5
+(84–95)*
+84.5
+(76–91)NS
+91
+(56–92)NS
+
+HL (95% CI)
+
+13.5
+(5; 31)
+7
+(−3; 21)
+8.5
+(−16; 26)
+
+n/a
+
+Notes: All data are given as median (25th–75th percentile), and compares each group with bupivacaine at the same time point, with differences shown as HL estimator, with 95% CI. SO2 is measured in %. Statistical testing was performed
+for T0, T30, and T60 comparing bupivacaine with the respective group. *Significant, NSnot significant. Level of significance p < 0.05. For details see text.
+Abbreviations: BupiCloni, bupivacaine with clonidine; BupiEpi, bupivacaine with epinephrine; CI, confidence interval; HL, Hodges-Lehmann; n/a, not applicable; Saline, saline control group; SO2, tissue oximetry; T0–T60, time points 0
+min to 60 min.
+
+BupiEpi
+
+BupiCloni
+
+Saline
+
+T0
+
+92
+(90–98)
+89.5
+(86–97)NS
+89
+(89–94)NS
+92.5
+(88–95)NS
+
+Group
+
+Bupivacaine
+
+Table 3 Tissue oximetry
+
+Notes: All data are given as median (25th–75th percentile), and compares each group with bupivacaine at the same time point, with differences shown as HL estimator, with 95% CI. Flow, relative values of flow to baseline flow at T0.
+*Significant, NSnot significant. Level of significance p < 0.05. For details see text.
+Abbreviations: BupiCloni, bupivacaine with clonidine; BupiEpi, bupivacaine with epinephrine; CI, confidence interval; HL, Hodges-Lehmann Group; n/a, not applicable; Saline, saline control group; T5–T60, time points 5 min to 60 min.
+
+BupiEpi
+
+BupiCloni
+
+Saline
+
+T5
+
+Group
+
+Table 2 Relative nerve blood flow
+
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+Wiesmann et al
+Dovepress
+
+Journal of Pain Research 2018:11
+
+
+----- [PDF page 6 of 9: layout view of the same page] -----
+                                                                                                                                                                           Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+                                                                                                                                                                                                                   For personal use only.
+
+
+
+
+Powered by TCPDF (www.tcpdf.org)
+                                                                                                     Table 2 Relative nerve blood flow
+
+
+
+
+                                         232
+                                                                                                     Group             T5                      T10               T15                T20              T25               T30                  HL (95% CI)           T40               T50               T60                 HL (95% CI)
+                                                                                                     Bupivacaine       0.70                    0.61              0.63               0.57             0.55              0.50                 n/a                   0.36              0.35              0.33                n/a
+                                                                                                                       (0.62–0.97)             (0.50–0.68)       (0.40–0.65)        (0.30–0.63)      (0.27–0.58)       (0.28–0.60)                                (0.26–0.54)       (0.24–0.51)       (0.25–0.60)
+                                                                                                                                                                                                                                                                                                                                                 Wiesmann et al
+
+
+
+
+                                                                                                     Saline            1.02                    1.04              1.09               1.04             1.20              1.17                 0.738                 1.07              1.02              0.86                0.527
+
+
+
+
+                                   Dovepress
+                                                                                                                       (1.01–1.22)NS           (0.94–1.09)       (0.93–1.14)        (0.95–1.19)      (0.94–1.28)       (1.11–1.36)*         (0.541; 0.947)        (0.94–1.30)       (0.79–1.23)       (0.67–1.18)*        (0.273; 0.857)
+                                                                                                     BupiCloni         0.79                    0.71              0.58               0.47             0.44              0.45                 0.002                 0.38              0.58              0.43                0.117
+                                                                                                                       (0.68–0.97)NS           (0.59–0.81)       (0.50–0.67)        (0.40–0.63)      (0.32–0.73)       (0.35–0.57)NS        (−0.185; 0.206)       (0.32–61)         (0.42–0.71)       (0.38–0.63)NS       (−0.069; 0.312)
+                                                                                                     BupiEpi           0.59                    0.45              0.39               0.41             0.41              0.38                 −0.049                0.38              0.39              0.41                0.0897
+                                                                                                                       (0.27–0.71)NS           (0.31–0.61)       (0.34–0.60)        (0.28–0.60)      (0.30–0.56)       (0.27–0.54)NS        (−0.274; 0.178)       (0.26–0.62)       (0.23–0.62)       (0.30–0.54)NS       (−0.127; 0.24)
+                                                                                                     Notes: All data are given as median (25th–75th percentile), and compares each group with bupivacaine at the same time point, with differences shown as HL estimator, with 95% CI. Flow, relative values of flow to baseline flow at T0.
+                                                                                                     *Significant, NSnot significant. Level of significance p < 0.05. For details see text.
+
+
+
+
+                                                        submit your manuscript | www.dovepress.com
+                                                                                                     Abbreviations: BupiCloni, bupivacaine with clonidine; BupiEpi, bupivacaine with epinephrine; CI, confidence interval; HL, Hodges-Lehmann Group; n/a, not applicable; Saline, saline control group; T5–T60, time points 5 min to 60 min.
+
+
+
+
+                                                                                                     Table 3 Tissue oximetry
+                                                                                                     Group                T0                 T5               T10             T15             T20             T25             T30                 HL (95% CI)            T40             T50             T60                HL (95% CI)
+                                                                                                     Bupivacaine          92                 92               90.5            91.5            92              90.5            89                  n/a                    84.5            79.5            76                 n/a
+                                                                                                                          (90–98)             (86–95)         (86–95)         (78–95)         (72–95)         (70–93)         (70–94)                                    (66–91)         (62–85)         (61–86)
+                                                                                                     Saline               89.5               90               89.5            88.5            88.5            88.5            88.5                3                      90.5            92              91.5               13.5
+                                                                                                                          (86–97)NS          (84–92)          (83–92)          (84–92)        (85–93)         (86–93)         (86–93)NS           (−5; 21)               (87–94)         (87–96)         (84–95)*           (5; 31)
+                                                                                                     BupiCloni            89                 88               89.5            89.5            93              91              90                  3                      90              86              84.5               7
+                                                                                                                          (89–94)NS          (86–94)          (86–91)         (85–94)         (86–95)          (82–94)        (78–96)NS           (−9; 20)               (81–95)         (79–94)         (76–91)NS          (−3; 21)
+                                                                                                     BupiEpi              92.5               83.5             74              85.5            83              83.5            85                  −2.5                   87              90              91                 8.5
+                                                                                                                          (88–95)NS           (63–93)         (52–94)         (47–94)         (58–90)         (68–92)         (60–93)NS           (−28; 11)               (70–93)        (65–93)         (56–92)NS          (−16; 26)
+                                                                                                     Notes: All data are given as median (25th–75th percentile), and compares each group with bupivacaine at the same time point, with differences shown as HL estimator, with 95% CI. SO2 is measured in %. Statistical testing was performed
+                                                                                                     for T0, T30, and T60 comparing bupivacaine with the respective group. *Significant, NSnot significant. Level of significance p < 0.05. For details see text.
+                                                                                                     Abbreviations: BupiCloni, bupivacaine with clonidine; BupiEpi, bupivacaine with epinephrine; CI, confidence interval; HL, Hodges-Lehmann; n/a, not applicable; Saline, saline control group; SO2, tissue oximetry; T0–T60, time points 0
+                                                                                                     min to 60 min.
+
+
+
+
+                                               Journal of Pain Research 2018:11
+                                                                                                                                                                                                                                                                                                                                                 Dovepress
+
+===== [PDF page 7 of 9] =====
+Nerve tissue oximetry and nerve blood flow
+Notes: Data are given as median (25th–75th percentile). rHb is measured in AU. Statistical testing was performed for T0, T30, and T60 comparing bupivacaine with the respective group. *Significant, NSnot significant. Level of significance
+p < 0.05. For details see text.
+Abbreviations: AU, arbitrary units; BupiCloni, bupivacaine with clonidine; BupiEpi, bupivacaine with epinephrine; rHb, relative tissue hemoglobin; Saline, saline control group; T0–T60, time points 0 min to 60 min.
+
+T60
+T50
+
+54.5 (42–66)
+67.5 (59–76)
+64.5 (55–77)
+68 (50–69)
+
+T40
+
+55.5 (41–61)
+67 (59–75)
+65.5 (61–82)
+65.5 (49–70)
+62.5 (40–67)
+66.5 (60–76)NS
+66 (57–85)NS
+59 (50–69)NS
+
+T30
+T25
+
+62 (40–66)
+68.5 (56–76)
+64.5 (59–72)
+58.5 (49–69)
+63 (42–69)
+68.5 (54–76)
+66 (61–73)
+62.5 (48–69)
+
+T20
+T15
+
+62.5 (43–69)
+69 (55–77)
+66 (62–73)
+62.5 (52–69)
+64 (43–68)
+69 (53–78)
+66 (56–70)
+65.5 (55–68)
+
+T10
+T5
+T0
+
+65 (46–77)
+73 (65–79)NS
+68.5 (66–70)NS
+68.5 (61–74)NS
+
+Group
+
+Bupivacaine
+Saline
+BupiCloni
+BupiEpi
+
+Table 4 Relative hemoglobin content
+
+65 (45–78)
+70 (55–79)
+65 (50–69)
+61 (52–64)
+
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+54 (42–63)
+67.5 (59–76)NS
+65 (59–76)NS
+66.5 (52–68)NS
+
+Dovepress
+
+Journal of Pain Research 2018:11
+
+Table 5 Post hoc comparisons
+Group
+
+Parameter
+
+T0
+
+T30
+
+T60
+
+Saline vs Bupi
+
+Rel. NBF
+SO2
+Rel. NBF
+SO2
+Rel. NBF
+SO2
+
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+
+<0.001
+n/a
+<0.001
+n/a
+<0.001
+n/a
+
+<0.001
+0.003
+0.004
+0.63
+0.001
+0.481
+
+Saline vs BupiCloni
+Saline vs BupiEpi
+
+Notes: Data are given as uncorrected p-value data of pairwise comparisons using
+Mann–Whitney testing; n/a due to not significant Kruskal–Wallis testing.
+Abbreviations: Bupi, bupivacaine; BupiCloni, bupivacaine with clonidine; BupiEpi,
+bupivacaine with epinephrine; n/a, not applicable; Rel. NBF, relative nerve blood
+flow; Saline, saline control group; SO2, tissue oximetry; T0, time point 0 min; T30,
+time point 30 min; T60, time point 60 min.
+
+Epinephrine enhances nerve block duration, mostly due to
+reduction of local tissue clearance and prolonged concentration of the local anesthetic in the nerve and perineural tissue.7
+It is regularly used as an adjunct for local anesthetics to
+reduce systemic absorption and consecutive toxic phenomena
+of the injected local anesthetic. Furthermore, many clinicians
+assume a shortened nerve block onset time and prolonged
+anesthetic nerve blockade when epinephrine is used.20
+However, some authors believe that when used as an
+adjunct, epinephrine might be an independent risk factor
+for nerve damage due to relevant ischemia.5,8,23 Our study
+showed no further statistically significant impairment of
+nerve blood flow (when compared with bupivacaine alone).
+However, two nerves of the BupiEpi group did have relevant
+desaturations during measurements (SO2 nadir values of 3%
+at T20 and 10% at T10 in another nerve). Thus, despite no
+significant difference between both groups of bupivacaine,
+with and without epinephrine, we would recommend not
+to use epinephrine in a patient population with preexisting
+peripheral nerve damage (i.e., diabetic polyneuropathy).
+Clonidine is widely used as an adjunct to local anesthetic in
+different peripheral nerve blockades.20,24 It prolongs the duration of the blockade due to unknown mechanisms. Due to its
+alpha-2-adrenergic effects, vasodilatation might be assumed
+in peripheral tissues, without risk of nerve ischemia. However, clinical side effects, such as sedation or bradycardia, are
+regularly observed.20,25 In experimental models of peripheral
+neuropathy, clonidine acts as an anti-inflammatory drug.26–28
+Thus, its clinical effects and anti-inflammatory potential are
+interesting factors for the regional anesthetist. Our experimental data give further evidence of safety when perineural
+clonidine is used in combination with local anesthetics. No
+further alterations of nerve microcirculation or tissue oximetry
+were observed, compared with bupivacaine alone.
+Systemic data did not differ, in any way that was clinically
+relevant, between the time points T0, T30, and T60 when
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Powered by TCPDF (www.tcpdf.org)
+
+233
+
+
+----- [PDF page 7 of 9: layout view of the same page] -----
+                                                                                                             Dovepress                                                                                                                                                                                                                                                                                                                                Nerve tissue oximetry and nerve blood flow
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      Table 5 Post hoc comparisons
+
+
+
+
+                                                                                                                                                                      Notes: Data are given as median (25th–75th percentile). rHb is measured in AU. Statistical testing was performed for T0, T30, and T60 comparing bupivacaine with the respective group. *Significant, NSnot significant. Level of significance
+                                                                                                                                                     67.5 (59–76)NS
+
+                                                                                                                                                     66.5 (52–68)NS
+                                                                                                                                                     65 (59–76)NS
+                                                                                                                                                                                                                                                                                                                                                                                                                      Group                        Parameter            T0          T30               T60
+
+
+                                                                                                                                                     54 (42–63)
+                                                                                                                                                                                                                                                                                                                                                                                                                      Saline vs Bupi               Rel. NBF             n/a         <0.001            <0.001
+                                                                                                                                                                                                                                                                                                                                                                                                                                                   SO2                  n/a         n/a               0.003
+                                                                                                                                             T60
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      Saline vs BupiCloni          Rel. NBF             n/a         <0.001            0.004
+
+
+
+
+                                                                                                                                                                      Abbreviations: AU, arbitrary units; BupiCloni, bupivacaine with clonidine; BupiEpi, bupivacaine with epinephrine; rHb, relative tissue hemoglobin; Saline, saline control group; T0–T60, time points 0 min to 60 min.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                   SO2                  n/a         n/a               0.63
+                                                                                                                                                                                                                                                                                                                                                                                                                      Saline vs BupiEpi            Rel. NBF             n/a         <0.001            0.001
+                                                                                                                                                     67.5 (59–76)
+                                                                                                                                                     64.5 (55–77)
+                                                                                                                                                     54.5 (42–66)
+
+
+
+                                                                                                                                                     68 (50–69)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                   SO2                  n/a         n/a               0.481
+                                                                                                                                                                                                                                                                                                                                                                                                                      Notes: Data are given as uncorrected p-value data of pairwise comparisons using
+                                                                                                                                             T50
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      Mann–Whitney testing; n/a due to not significant Kruskal–Wallis testing.
+                                                                                                                                                                                                                                                                                                                                                                                                                      Abbreviations: Bupi, bupivacaine; BupiCloni, bupivacaine with clonidine; BupiEpi,
+                                                                                                                                                                                                                                                                                                                                                                                                                      bupivacaine with epinephrine; n/a, not applicable; Rel. NBF, relative nerve blood
+                                                                                                                                                     65.5 (61–82)
+                                                                                                                                                     65.5 (49–70)
+                                                                                                                                                     55.5 (41–61)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      flow; Saline, saline control group; SO2, tissue oximetry; T0, time point 0 min; T30,
+                                                                                                                                                     67 (59–75)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      time point 30 min; T60, time point 60 min.
+                                                                                                                                             T40
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                          Epinephrine enhances nerve block duration, mostly due to
+                                                                                                                                                                                                                                                                                                                                                                                                                      reduction of local tissue clearance and prolonged concentra-
+                                                                                                                                                     66.5 (60–76)NS
+                                                                                                                                                     66 (57–85)NS
+                                                                                                                                                     59 (50–69)NS
+                                                                                                                                                     62.5 (40–67)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      tion of the local anesthetic in the nerve and perineural tissue.7
+                                                                                                                                                                                                                                                                                                                                                                                                                      It is regularly used as an adjunct for local anesthetics to
+                                                                                                                                             T30
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      reduce systemic absorption and consecutive toxic phenomena
+                                                                                                                                                                                                                                                                                                                                                                                                                      of the injected local anesthetic. Furthermore, many clinicians
+                                        For personal use only.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      assume a shortened nerve block onset time and prolonged
+                                                                                                                                                     68.5 (56–76)
+                                                                                                                                                     64.5 (59–72)
+                                                                                                                                                     58.5 (49–69)
+                                                                                                                                                     62 (40–66)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      anesthetic nerve blockade when epinephrine is used.20
+                                                                                                                                                                                                                                                                                                                                                                                                                          However, some authors believe that when used as an
+                                                                                                                                             T25
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      adjunct, epinephrine might be an independent risk factor
+                                                                                                                                                                                                                                                                                                                                                                                                                      for nerve damage due to relevant ischemia.5,8,23 Our study
+                                                                                                                                                     68.5 (54–76)
+
+                                                                                                                                                     62.5 (48–69)
+                                                                                                                                                     66 (61–73)
+                                                                                                                                                     63 (42–69)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      showed no further statistically significant impairment of
+                                                                                                                                                                                                                                                                                                                                                                                                                      nerve blood flow (when compared with bupivacaine alone).
+                                                                                                                                             T20
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      However, two nerves of the BupiEpi group did have relevant
+                                                                                                                                                                                                                                                                                                                                                                                                                      desaturations during measurements (SO2 nadir values of 3%
+                                                                                                                                                     62.5 (52–69)
+                                                                                                                                                     62.5 (43–69)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      at T20 and 10% at T10 in another nerve). Thus, despite no
+                                                                                                                                                     69 (55–77)
+                                                                                                                                                     66 (62–73)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      significant difference between both groups of bupivacaine,
+                                                                                                                                             T15
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      with and without epinephrine, we would recommend not
+                                                                                                                                                                                                                                                                                                                                                                                                                      to use epinephrine in a patient population with preexisting
+                                                                                                                                                     65.5 (55–68)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      peripheral nerve damage (i.e., diabetic polyneuropathy).
+                                                                                                                                                     69 (53–78)
+                                                                                                                                                     66 (56–70)
+                                                                                                                                                     64 (43–68)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                          Clonidine is widely used as an adjunct to local anesthetic in
+                                                                                                                                             T10
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      different peripheral nerve blockades.20,24 It prolongs the dura-
+                                                                                                                                                                                                                                                                                                                                                                                                                      tion of the blockade due to unknown mechanisms. Due to its
+                                                                                                                                                                                                                                                                                                                                                                                                                      alpha-2-adrenergic effects, vasodilatation might be assumed
+                                                                                                                                                     70 (55–79)
+                                                                                                                                                     65 (50–69)
+                                                                                                                                                     61 (52–64)
+                                                                                                                                                     65 (45–78)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      in peripheral tissues, without risk of nerve ischemia. How-
+                                                                                                                                             T5
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      ever, clinical side effects, such as sedation or bradycardia, are
+                                                                                                       Table 4 Relative hemoglobin content
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      regularly observed.20,25 In experimental models of peripheral
+                                                                                                                                                                                                                                                                                                                                                                                                                      neuropathy, clonidine acts as an anti-inflammatory drug.26–28
+                                                                                                                                                     68.5 (66–70)NS
+                                                                                                                                                     68.5 (61–74)NS
+                                                                                                                                                     73 (65–79)NS
+                                                                                                                                                     65 (46–77)
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      Thus, its clinical effects and anti-inflammatory potential are
+                                                                                                                                                                                                                                                                                                                                                                                                                      interesting factors for the regional anesthetist. Our experi-
+                                                                                                                                                                      p < 0.05. For details see text.
+                                                                                                                                             T0
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      mental data give further evidence of safety when perineural
+                                                                                                                                                                                                                                                                                                                                                                                                                      clonidine is used in combination with local anesthetics. No
+                                                                                                                                                                                                                                                                                                                                                                                                                      further alterations of nerve microcirculation or tissue oximetry
+                                                                                                                                                     Bupivacaine
+
+                                                                                                                                                     BupiCloni
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                      were observed, compared with bupivacaine alone.
+                                                                                                                                             Group
+
+
+
+
+                                                                                                                                                     BupiEpi
+                                                                                                                                                     Saline
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                          Systemic data did not differ, in any way that was clinically
+                                                                                                                                                                                                                                                                                                                                                                                                                      relevant, between the time points T0, T30, and T60 when
+
+
+                                                                                                             Journal of Pain Research 2018:11                                                                                                                                                                                                                                                                                                            submit your manuscript | www.dovepress.com
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        233
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Dovepress
+
+
+
+                  Powered by TCPDF (www.tcpdf.org)
+
+===== [PDF page 8 of 9] =====
+Dovepress
+
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+Wiesmann et al
+
+c­ ompared between each group. This is important due to the
+response of nerve SO2 to central hypoxia and cardiovascular
+changes as described by Ibrahim et al.29 Moreover, this aspect is
+a potential bias within previous published studies of nerve blood
+flow measurements in animals where changes in oxygen saturation and circulation were not, or were inadequately, controlled.
+Laser-Doppler flowmetry is an established method for investigating nerve blood flow alterations.4,9,30 Nevertheless, responses
+of the underlying tissues to blood flow reductions have been
+poorly investigated for local anesthetic applications. The use
+of the O2C device enabled us to investigate the consequences
+of (microvascular) nerve blood flow alterations with regard to
+local post-capillary oximetry and hemoglobin content as critical parameters for tissue hypoxia and potential tissue damage.
+
+Limitations
+Our experimental study has several limitations, which should
+be kept in mind before transferring to clinical practice. First,
+the differences between the results in this animal study
+might not be easily extrapolated to humans, due to possible
+differences in nerve blood flow and underlying regulative
+mechanisms between pigs and humans. Changes in vascular
+tone might be influenced by general anesthesia, the surgical
+preparation,31 and the mounted probe resting on the nerves.
+Changes in blood pressure, systemic oxygen saturation, and
+end tidal carbon dioxide might have an impact on nerve blood
+flow due to limited autoregulation of nerve blood flow.30,32
+These important bias factors are controlled for in our study
+by invasive blood pressure monitoring, as well as the use
+of controlled mechanical ventilation with fixed inspired
+oxygen fraction, and the use of capnometry for establishing
+normocapnia. Furthermore, our investigation focused only
+on median nerves, but potential differences between nerve
+vasculature must be regarded. However, Kihara et al showed
+no significant differences between different nerve types or
+fascicle size.32 Our measurements were performed for 60 min,
+which is higher than in previous studies. Nevertheless, the
+vasoconstrictive effects of the test solutions persisted for longer time periods. Further studies should evaluate this aspect
+using long-term measurements and include histological or
+electrophysiological evaluation. Measurement of compound
+muscle action potential might be a helpful approach in further
+studies for assessing the acute and long-term effects of the
+investigated interventions as shown in previous studies.33,34
+“Downstream” (distal) measurements of overall tissue or
+nerve tissue perfusion and oxygenation by using near-infrared
+spectroscopy or other methods as a result of block-related
+vasodilation might be another interesting topic.35
+
+234
+
+Powered by TCPDF (www.tcpdf.org)
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Neurotoxicity of local anesthetics is not caused solely by
+ischemia as a result of reduced tissue perfusion. Bupivacaine
+was shown to be a weak uncoupler of mitochondrial oxidative
+phosphorylation resulting in apoptosis in neural cells.36,37
+
+Conclusion
+Based on our experimental study results, the addition of
+epinephrine or clonidine to bupivacaine does not result in
+any relevant changes of nerve blood flow, or tissue oximetry,
+compared with bupivacaine alone. However, bupivacaine
+does show a relevant depression of nerve blood flow without
+resulting in severe nerve tissue ischemia. Thus, impairment
+of nerve blood flow by bupivacaine alone is not modified
+in a relevant way by the combination of bupivacaine with
+clonidine. The combination of bupivacaine with epinephrine shows no statistically significant differences in nerve
+tissue perfusion or tissue oxygen saturation. Ischemia as a
+consequence of the use of bupivacaine alone or in combination with epinephrine or clonidine was a rare event in our
+experimental study. Thus, ischemia is not a potential clinical
+relevant risk factor of peripheral nerve damage resulting from
+the administration of the aforementioned drugs.
+
+Acknowledgment
+This study was performed by using departmental funding.
+
+Disclosure
+TW received consultancy fees from B. Braun. HW received
+speaker fees from Syntetica, B. Braun, Teleflex, and Vygon.
+TS received speaker fees from B. Braun, Teleflex, and
+Vygon. The other authors report no conflicts of interest in
+this work.
+
+References
+
+1. Bell MA, Weddell AG. A descriptive study of the blood vessels of the
+sciatic nerve in the rat, man and other mammals. Brain. 1984;107 (Pt 3):
+871–898.
+2. Bell MA, Weddell AG. A morphometric study of intrafascicular vessels
+of mammalian sciatic nerve. Muscle Nerve. 1984;7(7):524–534.
+3. Mizisin AP, Weerasuriya A. Homeostatic regulation of the endoneurial
+microenvironment during development, aging and in response to trauma,
+disease and toxic insult. Acta Neuropathol. 2010;121(3):291–312.
+4. Myers RR, Heckman HM. Effects of local anesthesia on nerve blood
+flow: studies using lidocaine with and without epinephrine. Anesthesiology. 1989;71(5):757–762.
+5. Hogan QH. Pathophysiology of peripheral nerve injury during regional
+anesthesia. Reg Anesth Pain Med. 2008;33(5):435–441.
+6. Neal JM, Barrington MJ, Brull R, et al. The second ASRA practice
+advisory on neurologic complications associated with regional anesthesia and pain medicine: executive summary 2015. Reg Anesth Pain
+Med. 2015;40(5):401–430.
+7. Neal JM. Effects of epinephrine in local anesthetics on the central and
+peripheral nervous systems: neurotoxicity and neural blood flow. Reg
+Anesth Pain Med. 2003;28(2):124–134.
+
+Journal of Pain Research 2018:11
+
+
+----- [PDF page 8 of 9: layout view of the same page] -----
+                                                                                                       Wiesmann et al                                                                                                                       Dovepress
+
+
+                                                                                                       c­ ompared between each group. This is important due to the                Neurotoxicity of local anesthetics is not caused solely by
+                                                                                                        response of nerve SO2 to central hypoxia and cardiovascular           ischemia as a result of reduced tissue perfusion. Bupivacaine
+                                                                                                       changes as described by Ibrahim et al.29 Moreover, this aspect is      was shown to be a weak uncoupler of mitochondrial oxidative
+                                                                                                       a potential bias within previous published studies of nerve blood      phosphorylation resulting in apoptosis in neural cells.36,37
+                                                                                                       flow measurements in animals where changes in oxygen satura-
+                                                                                                       tion and circulation were not, or were inadequately, controlled.       Conclusion
+                                                                                                            Laser-Doppler flowmetry is an established method for inves-       Based on our experimental study results, the addition of
+                                                                                                       tigating nerve blood flow alterations.4,9,30 Nevertheless, responses   epinephrine or clonidine to bupivacaine does not result in
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+
+
+
+
+                                                                                                        of the underlying tissues to blood flow reductions have been          any relevant changes of nerve blood flow, or tissue oximetry,
+                                                                                                        poorly investigated for local anesthetic applications. The use        compared with bupivacaine alone. However, bupivacaine
+                                                                                                        of the O2C device enabled us to investigate the consequences          does show a relevant depression of nerve blood flow without
+                                                                                                        of (microvascular) nerve blood flow alterations with regard to        resulting in severe nerve tissue ischemia. Thus, impairment
+                                                                                                        local post-capillary oximetry and hemoglobin content as criti-        of nerve blood flow by bupivacaine alone is not modified
+                                                                                                        cal parameters for tissue hypoxia and potential tissue damage.        in a relevant way by the combination of bupivacaine with
+                                                                                                                                                                              clonidine. The combination of bupivacaine with epineph-
+                                                                                                       Limitations                                                            rine shows no statistically significant differences in nerve
+                                                                                                       Our experimental study has several limitations, which should           tissue perfusion or tissue oxygen saturation. Ischemia as a
+                                                                                                       be kept in mind before transferring to clinical practice. First,       consequence of the use of bupivacaine alone or in combina-
+                                        For personal use only.
+
+
+
+
+                                                                                                       the differences between the results in this animal study               tion with epinephrine or clonidine was a rare event in our
+                                                                                                       might not be easily extrapolated to humans, due to possible            experimental study. Thus, ischemia is not a potential clinical
+                                                                                                       differences in nerve blood flow and underlying regulative              relevant risk factor of peripheral nerve damage resulting from
+                                                                                                       mechanisms between pigs and humans. Changes in vascular                the administration of the aforementioned drugs.
+                                                                                                       tone might be influenced by general anesthesia, the surgical
+                                                                                                       preparation,31 and the mounted probe resting on the nerves.            Acknowledgment
+                                                                                                       Changes in blood pressure, systemic oxygen saturation, and             This study was performed by using departmental funding.
+                                                                                                       end tidal carbon dioxide might have an impact on nerve blood
+                                                                                                       flow due to limited autoregulation of nerve blood flow.30,32           Disclosure
+                                                                                                       These important bias factors are controlled for in our study           TW received consultancy fees from B. Braun. HW received
+                                                                                                       by invasive blood pressure monitoring, as well as the use              speaker fees from Syntetica, B. Braun, Teleflex, and Vygon.
+                                                                                                       of controlled mechanical ventilation with fixed inspired               TS received speaker fees from B. Braun, Teleflex, and
+                                                                                                       oxygen fraction, and the use of capnometry for establishing            Vygon. The other authors report no conflicts of interest in
+                                                                                                       normocapnia. Furthermore, our investigation focused only               this work.
+                                                                                                       on median nerves, but potential differences between nerve
+                                                                                                       vasculature must be regarded. However, Kihara et al showed             References
+                                                                                                                                                                               1. Bell MA, Weddell AG. A descriptive study of the blood vessels of the
+                                                                                                       no significant differences between different nerve types or                sciatic nerve in the rat, man and other mammals. Brain. 1984;107 (Pt 3):
+                                                                                                       fascicle size.32 Our measurements were performed for 60 min,               871–898.
+                                                                                                                                                                               2. Bell MA, Weddell AG. A morphometric study of intrafascicular vessels
+                                                                                                       which is higher than in previous studies. Nevertheless, the                of mammalian sciatic nerve. Muscle Nerve. 1984;7(7):524–534.
+                                                                                                       vasoconstrictive effects of the test solutions persisted for lon-       3. Mizisin AP, Weerasuriya A. Homeostatic regulation of the endoneurial
+                                                                                                       ger time periods. Further studies should evaluate this aspect              microenvironment during development, aging and in response to trauma,
+                                                                                                                                                                                  disease and toxic insult. Acta Neuropathol. 2010;121(3):291–312.
+                                                                                                       using long-term measurements and include histological or                4. Myers RR, Heckman HM. Effects of local anesthesia on nerve blood
+                                                                                                       electrophysiological evaluation. Measurement of compound                   flow: studies using lidocaine with and without epinephrine. Anesthesiol-
+                                                                                                                                                                                  ogy. 1989;71(5):757–762.
+                                                                                                       muscle action potential might be a helpful approach in further          5. Hogan QH. Pathophysiology of peripheral nerve injury during regional
+                                                                                                       studies for assessing the acute and long-term effects of the               anesthesia. Reg Anesth Pain Med. 2008;33(5):435–441.
+                                                                                                                                                                               6. Neal JM, Barrington MJ, Brull R, et al. The second ASRA practice
+                                                                                                       investigated interventions as shown in previous studies.33,34
+                                                                                                                                                                                  advisory on neurologic complications associated with regional anes-
+                                                                                                       “Downstream” (distal) measurements of overall tissue or                    thesia and pain medicine: executive summary 2015. Reg Anesth Pain
+                                                                                                       nerve tissue perfusion and oxygenation by using near-infrared              Med. 2015;40(5):401–430.
+                                                                                                                                                                               7. Neal JM. Effects of epinephrine in local anesthetics on the central and
+                                                                                                       spectroscopy or other methods as a result of block-related                 peripheral nervous systems: neurotoxicity and neural blood flow. Reg
+                                                                                                       vasodilation might be another interesting topic.35                         Anesth Pain Med. 2003;28(2):124–134.
+
+
+
+
+                                                                                                       234       submit your manuscript | www.dovepress.com                                                           Journal of Pain Research 2018:11
+                                                                                                                 Dovepress
+
+
+
+                  Powered by TCPDF (www.tcpdf.org)
+
+===== [PDF page 9 of 9] =====
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+For personal use only.
+
+Dovepress
+8. Partridge BL. The effects of local anesthetics and epinephrine on rat
+sciatic nerve blood flow. Anesthesiology. 1991;75(2):243–250.
+9. Bouaziz H, Iohom G, Estèbe JP, Campana WM, Myers RR. Effects of
+levobupivacaine and ropivacaine on rat sciatic nerve blood flow. Br J
+Anaesth. 2005;95(5):696–700.
+10. Kilkenny C, Browne WJ, Cuthill IC, Emerson M, Altman DG. Improving bioscience research reporting: the ARRIVE guidelines for reporting
+animal research. PLoS Biol. 2010;8(6):e1000412.
+11. Steinfeldt T, Graf J, Schneider J, et al. Histological consequences
+of needle-nerve contact following nerve stimulation in a pig model.
+Anesthesiol Res Pract. 2011;2011:591851.
+12. Steinfeldt T, Wiesmann T, Nimphius W, et al. Perineural hematoma may
+result in nerve inflammation and myelin damage. Reg Anesth Pain Med.
+2014;39(6):513–519.
+13. Wiesmann T, Bornträger A, Vassiliou T, et al. Minimal current
+intensity to elicit an evoked motor response cannot discern between
+needle-nerve contact and intraneural needle insertion. Anesth Analg.
+2013;118(3):681–686.
+14. Forst T, Hohberg C, Tarakci E, Forst S, Kann P, Pfützner A. Reliability
+of lightguide spectrophotometry (O2C®) for the investigation of skin
+tissue microvascular blood flow and tissue oxygen supply in diabetic
+and nondiabetic subjects. J Diabetes Sci Technol. 2008;2(6):1151–1156.
+15. Beckert S, Witte MB, Königsrainer A, Coerper S. The impact of the
+micro-lightguide O2C for the quantification of tissue ischemia in diabetic foot ulcers. Diabetes Care. 2004;27(12):2863–2867.
+16. Scheeren TW. Monitoring the microcirculation in the critically ill patient:
+reflectance spectroscopy. Intensive Care Med. 2011;37(6):1045–1046.
+17. Schmelzer JD, Zochodne DW, Low PA. Ischemic and reperfusion injury
+of rat peripheral nerve. Proc Natl Acad Sci U S A. 1989;86(5):1639–1642.
+18. Kihara M, Zollman PJ, Schmelzer JD, Low PA. The influence of dose of
+microspheres on nerve blood flow, electrophysiology, and fiber degeneration of rat peripheral nerve. Muscle Nerve. 1993;16(12):1383–1389.
+19. Nukada H, Powell HC, Myers RR. Spatial distribution of nerve injury
+after occlusion of individual major vessels in rat sciatic nerves. J Neuropathol Exp Neurol. 1993;52(5):452–459.
+20. Kirksey MA, Haskins SC, Cheng J, Liu SS. Local anesthetic peripheral nerve block adjuvants for prolongation of analgesia: a systematic
+qualitative review. PLoS One. 2015;10(9):e0137312.
+21. Krug A. Microcirculation and oxygen supply: method of so-called O2C.
+Phlebologie. 2007;36:300–312.
+22. Palmer GM, Cairns BE, Berkes SL, Dunning PS, Taylor GA, Berde CB.
+The effects of lidocaine and adrenergic agonists on rat sciatic nerve and
+skeletal muscle blood flow in vivo. Anesth Analg. 2002;95(4):1080–1086.
+23. Selander D, Brattsand R, Lundborg G, Nordborg C, Olsson Y. Local
+anesthetics: importance of mode of application, concentration and
+adrenaline for the appearance of nerve lesions. An experimental study
+of axonal degeneration and barrier damage after intrafascicular injection or topical application of bupivacaine (Marcain). Acta Anaesthesiol
+Scand. 1979;23(2):127–136.
+
+Journal of Pain Research
+
+Publish your work in this journal
+The Journal of Pain Research is an international, peer reviewed, open
+access, online journal that welcomes laboratory and clinical findings
+in the fields of pain research and the prevention and management
+of pain. Original research, reviews, symposium reports, hypothesis formation and commentaries are all considered for publication.
+
+Nerve tissue oximetry and nerve blood flow
+24. Axelsson K, Gupta A. Local anaesthetic adjuvants: neuraxial versus peripheral nerve block. Curr Opin Anaesthesiol. 2009;22(5):
+649–654.
+25. Pöpping DM, Elia N, Marret E, Wenk M, Tramèr MR. Clonidine
+as an adjuvant to local anesthetics for peripheral nerve and plexus
+blocks: a meta-analysis of randomized trials. Anesthesiology.
+2009;111(2):406–415.
+26. Lavand’homme PM, Eisenach JC. Perioperative administration of the
+α2-adrenoceptor agonist clonidine at the site of nerve injury reduces
+the development of mechanical hypersensitivity and modulates local
+cytokine expression. Pain. 2003;105(1–2):247–254.
+27. Romero-Sandoval A, Eisenach JC. Perineural clonidine reduces
+mechanical hypersensitivity and cytokine production in established
+nerve injury. Anesthesiology. 2006;104(2):351–355.
+28. Romero-Sandoval A, Eisenach JC. Clonidine reduces hypersensitivity
+and alters the balance of pro- and anti-inflammatory leukocytes after
+local injection at the site of inflammatory neuritis. Brain Behav Immun.
+2007;21(5):569–580.
+29. Ibrahim S, Laude EA, Bee D, Eaton S, Ward JD, Harris ND. Combined microlightguide spectrophotometry and microendoscopy for
+measurement of oxygen saturation in peripheral nerves. Physiol Meas.
+1999;20(1):65–73.
+30. Rundquist I, Smith QR, Michel ME, Ask P, Oberg PA, Rapoport SI.
+Sciatic nerve blood flow measured by laser Doppler flowmetry and
+[14C]iodoantipyrine. Am J Physiol. 1985;248(3 Pt 2):H311–H317.
+31. Sugimoto H, Monafo WW, Eliasson SG. Regional sciatic nerve and
+muscle blood flow in conscious and anesthetized rats. Am J Physiol.
+1986;251(6 Pt 2):H1211–H1216.
+32. Kihara M, Weerasuriya A, Low PA. Endoneurial blood flow in rat sciatic
+nerve during development. J Physiol. 1991;439:351–360.
+33. Kirchmair L, Ströhle M, Löscher WN, Kreutziger J, Voelckel WG,
+Lirk P. Neurophysiological effects of needle trauma and intraneural
+injection in a porcine model: a pilot study. Acta Anaesthesiol Scand.
+2016;60(3):393–399.
+34. Atanassoff PG, Weiss BM, Brull SJ, et al. Compound motor action
+potential recording distinguishes differential onset of motor block of
+the obturator nerve in response to etidocaine or bupivacaine. Anesth
+Analg. 1996;82(2):317–320.
+35. Tighe PJ, Elliott CE, Lucas SD, Boezaart AP. Noninvasive tissue
+oxygen saturation determined by near-infrared spectroscopy following peripheral nerve block. Acta Anaesthesiol Scand. 2011;55(10):
+1239–1246.
+36. Myers RR, Kalichman MW, Reisner LS, Powell HC. Neurotoxicity of
+local anesthetics: altered perineurial permeability, edema, and nerve
+fiber injury. Anesthesiology. 1986;64(1):29–35.
+37. Kalichman MW, Powell HC, Myers RR. Quantitative histologic analysis
+of local anesthetic-induced injury to rat sciatic nerve. J Pharmacol Exp
+Ther. 1989;250(1):406–413.
+
+Dovepress
+The manuscript management system is completely online and includes
+a very quick and fair peer-review system, which is all easy to use. Visit
+http://www.dovepress.com/testimonials.php to read real quotes from
+published authors.
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-pain-research-journal
+
+Journal of Pain Research 2018:11
+
+submit your manuscript | www.dovepress.com
+
+Dovepress
+
+Powered by TCPDF (www.tcpdf.org)
+
+235
+
+
+----- [PDF page 9 of 9: layout view of the same page] -----
+                                                                                                       Dovepress                                                                                                                   Nerve tissue oximetry and nerve blood flow
+
+                                                                                                        8. Partridge BL. The effects of local anesthetics and epinephrine on rat                     24. Axelsson K, Gupta A. Local anaesthetic adjuvants: neuraxial ver-
+                                                                                                           sciatic nerve blood flow. Anesthesiology. 1991;75(2):243–250.                                 sus peripheral nerve block. Curr Opin Anaesthesiol. 2009;22(5):
+                                                                                                        9. Bouaziz H, Iohom G, Estèbe JP, Campana WM, Myers RR. Effects of                               649–654.
+                                                                                                           levobupivacaine and ropivacaine on rat sciatic nerve blood flow. Br J                     25. Pöpping DM, Elia N, Marret E, Wenk M, Tramèr MR. Clonidine
+                                                                                                           Anaesth. 2005;95(5):696–700.                                                                  as an adjuvant to local anesthetics for peripheral nerve and plexus
+                                                                                                       10. Kilkenny C, Browne WJ, Cuthill IC, Emerson M, Altman DG. Improv-                              blocks: a meta-analysis of randomized trials. Anesthesiology.
+                                                                                                           ing bioscience research reporting: the ARRIVE guidelines for reporting                        2009;111(2):406–415.
+                                                                                                           animal research. PLoS Biol. 2010;8(6):e1000412.                                           26. Lavand’homme PM, Eisenach JC. Perioperative administration of the
+                                                                                                       11. Steinfeldt T, Graf J, Schneider J, et al. Histological consequences                           α2-adrenoceptor agonist clonidine at the site of nerve injury reduces
+                                                                                                           of needle-nerve contact following nerve stimulation in a pig model.                           the development of mechanical hypersensitivity and modulates local
+                                                                                                           Anesthesiol Res Pract. 2011;2011:591851.                                                      cytokine expression. Pain. 2003;105(1–2):247–254.
+Journal of Pain Research downloaded from https://www.dovepress.com/ by 188.72.126.106 on 02-Aug-2018
+
+
+
+
+                                                                                                       12. Steinfeldt T, Wiesmann T, Nimphius W, et al. Perineural hematoma may                      27. Romero-Sandoval A, Eisenach JC. Perineural clonidine reduces
+                                                                                                           result in nerve inflammation and myelin damage. Reg Anesth Pain Med.                          mechanical hypersensitivity and cytokine production in established
+                                                                                                           2014;39(6):513–519.                                                                           nerve injury. Anesthesiology. 2006;104(2):351–355.
+                                                                                                       13. Wiesmann T, Bornträger A, Vassiliou T, et al. Minimal current                             28. Romero-Sandoval A, Eisenach JC. Clonidine reduces hypersensitivity
+                                                                                                           intensity to elicit an evoked motor response cannot discern between                           and alters the balance of pro- and anti-inflammatory leukocytes after
+                                                                                                           needle-nerve contact and intraneural needle insertion. Anesth Analg.                          local injection at the site of inflammatory neuritis. Brain Behav Immun.
+                                                                                                           2013;118(3):681–686.                                                                          2007;21(5):569–580.
+                                                                                                       14. Forst T, Hohberg C, Tarakci E, Forst S, Kann P, Pfützner A. Reliability                   29. Ibrahim S, Laude EA, Bee D, Eaton S, Ward JD, Harris ND. Com-
+                                                                                                           of lightguide spectrophotometry (O2C®) for the investigation of skin                          bined microlightguide spectrophotometry and microendoscopy for
+                                                                                                           tissue microvascular blood flow and tissue oxygen supply in diabetic                          measurement of oxygen saturation in peripheral nerves. Physiol Meas.
+                                                                                                           and nondiabetic subjects. J Diabetes Sci Technol. 2008;2(6):1151–1156.                        1999;20(1):65–73.
+                                                                                                       15. Beckert S, Witte MB, Königsrainer A, Coerper S. The impact of the                         30. Rundquist I, Smith QR, Michel ME, Ask P, Oberg PA, Rapoport SI.
+                                                                                                           micro-lightguide O2C for the quantification of tissue ischemia in dia-                        Sciatic nerve blood flow measured by laser Doppler flowmetry and
+                                                                                                           betic foot ulcers. Diabetes Care. 2004;27(12):2863–2867.                                      [14C]iodoantipyrine. Am J Physiol. 1985;248(3 Pt 2):H311–H317.
+                                        For personal use only.
+
+
+
+
+                                                                                                       16. Scheeren TW. Monitoring the microcirculation in the critically ill patient:               31. Sugimoto H, Monafo WW, Eliasson SG. Regional sciatic nerve and
+                                                                                                           reflectance spectroscopy. Intensive Care Med. 2011;37(6):1045–1046.                           muscle blood flow in conscious and anesthetized rats. Am J Physiol.
+                                                                                                       17. Schmelzer JD, Zochodne DW, Low PA. Ischemic and reperfusion injury                            1986;251(6 Pt 2):H1211–H1216.
+                                                                                                           of rat peripheral nerve. Proc Natl Acad Sci U S A. 1989;86(5):1639–1642.                  32. Kihara M, Weerasuriya A, Low PA. Endoneurial blood flow in rat sciatic
+                                                                                                       18. Kihara M, Zollman PJ, Schmelzer JD, Low PA. The influence of dose of                          nerve during development. J Physiol. 1991;439:351–360.
+                                                                                                           microspheres on nerve blood flow, electrophysiology, and fiber degen-                     33. Kirchmair L, Ströhle M, Löscher WN, Kreutziger J, Voelckel WG,
+                                                                                                           eration of rat peripheral nerve. Muscle Nerve. 1993;16(12):1383–1389.                         Lirk P. Neurophysiological effects of needle trauma and intraneural
+                                                                                                       19. Nukada H, Powell HC, Myers RR. Spatial distribution of nerve injury                           injection in a porcine model: a pilot study. Acta Anaesthesiol Scand.
+                                                                                                           after occlusion of individual major vessels in rat sciatic nerves. J Neu-                     2016;60(3):393–399.
+                                                                                                           ropathol Exp Neurol. 1993;52(5):452–459.                                                  34. Atanassoff PG, Weiss BM, Brull SJ, et al. Compound motor action
+                                                                                                       20. Kirksey MA, Haskins SC, Cheng J, Liu SS. Local anesthetic periph-                             potential recording distinguishes differential onset of motor block of
+                                                                                                           eral nerve block adjuvants for prolongation of analgesia: a systematic                        the obturator nerve in response to etidocaine or bupivacaine. Anesth
+                                                                                                           qualitative review. PLoS One. 2015;10(9):e0137312.                                            Analg. 1996;82(2):317–320.
+                                                                                                       21. Krug A. Microcirculation and oxygen supply: method of so-called O2C.                      35. Tighe PJ, Elliott CE, Lucas SD, Boezaart AP. Noninvasive tissue
+                                                                                                           Phlebologie. 2007;36:300–312.                                                                 oxygen saturation determined by near-infrared spectroscopy follow-
+                                                                                                       22. Palmer GM, Cairns BE, Berkes SL, Dunning PS, Taylor GA, Berde CB.                             ing peripheral nerve block. Acta Anaesthesiol Scand. 2011;55(10):
+                                                                                                           The effects of lidocaine and adrenergic agonists on rat sciatic nerve and                     1239–1246.
+                                                                                                           skeletal muscle blood flow in vivo. Anesth Analg. 2002;95(4):1080–1086.                   36. Myers RR, Kalichman MW, Reisner LS, Powell HC. Neurotoxicity of
+                                                                                                       23. Selander D, Brattsand R, Lundborg G, Nordborg C, Olsson Y. Local                              local anesthetics: altered perineurial permeability, edema, and nerve
+                                                                                                           anesthetics: importance of mode of application, concentration and                             fiber injury. Anesthesiology. 1986;64(1):29–35.
+                                                                                                           adrenaline for the appearance of nerve lesions. An experimental study                     37. Kalichman MW, Powell HC, Myers RR. Quantitative histologic analysis
+                                                                                                           of axonal degeneration and barrier damage after intrafascicular injec-                        of local anesthetic-induced injury to rat sciatic nerve. J Pharmacol Exp
+                                                                                                           tion or topical application of bupivacaine (Marcain). Acta Anaesthesiol                       Ther. 1989;250(1):406–413.
+                                                                                                           Scand. 1979;23(2):127–136.
+
+
+
+
+                                                                                                           Journal of Pain Research                                                                                                                           Dovepress
+                                                                                                           Publish your work in this journal
+                                                                                                           The Journal of Pain Research is an international, peer reviewed, open                     The manuscript management system is completely online and includes
+                                                                                                           access, online journal that welcomes laboratory and clinical findings                     a very quick and fair peer-review system, which is all easy to use. Visit
+                                                                                                           in the fields of pain research and the prevention and management                          http://www.dovepress.com/testimonials.php to read real quotes from
+                                                                                                           of pain. Original research, reviews, symposium reports, hypoth-                           published authors.
+                                                                                                           esis formation and commentaries are all considered for publication.
+                                                                                                           Submit your manuscript here: https://www.dovepress.com/journal-of-pain-research-journal
+
+
+
+
+                                                                                                       Journal of Pain Research 2018:11                                                                                              submit your manuscript | www.dovepress.com
+                                                                                                                                                                                                                                                                                  235
+                                                                                                                                                                                                                                                                  Dovepress
+
+
+
+                  Powered by TCPDF (www.tcpdf.org)
+

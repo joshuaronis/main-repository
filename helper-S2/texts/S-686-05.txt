@@ -1,0 +1,1148 @@
+SOURCE FILE: S-686-05 - Cui 2017 - Effect of Repetitive Intracutaneous Injections with Local Anesthetics and Steroids for Acute Thoracic Herpes Zoster.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 7] =====
+Pain Medicine Advance Access published August 4, 2016
+Pain Medicine 2016; 0: 1–7
+doi: 10.1093/pm/pnw190
+
+Original Research Article
+
+Effect of Repetitive Intracutaneous Injections
+with Local Anesthetics and Steroids for Acute
+Thoracic Herpes Zoster and Incidence of
+Postherpetic Neuralgia
+
+*Department of Pain Treatment, the First People’s
+Hospital of Lianyungang City, Lianyungang, Jiangsu
+Province, People’s Republic of China; †Department of
+Anesthesiology, the First People’s Hospital of
+Lianyungang City, Lianyungang, Jiangsu Province,
+People’s Republic of China
+Correspondence to: Ji-ying Feng, MD, Department of
+Anesthesiology, The First People’s Hospital of
+Lianyungang City, Lianyungang, Jiangsu Province,
+People’s Republic of China. Tel: þ86 0518 85870510;
+Fax.: þ86 0518 85456700; E-mail: fengjysd@163.com.
+Funding sources: This work was funded by
+Lianyungang Science and Technology Project
+(SH1402, ZD1501), National Science Foundation of
+Jiangsu Province (BK20160423) and Lianyungang
+Health Bureau Project (QN1401, QN130105).
+Conflict of interest: There are no conflicts of interest to
+report.
+Authors X. Zhang and J. Cui contributed equally to
+this work.
+
+Abstract
+Background. Treatment of established postherpetic neuralgia (PHN) is difficult and often disappointing. In this study, we assessed the efficacy
+of repetitive intracutaneous injections with local
+anesthetics and steroids in acute thoracic herpes
+zoster (HZ) pain, herpetic eruption, and incidence
+of PHN.
+
+Methods. Ninety-three patients with acute thoracic
+HZ were randomly assigned to receive a standard
+treatment of antiviral medication with p.o. analgesics or the standard treatment with the addition of
+repetitive intracutaneous injections of a local anesthetic and steroid mixture. Patients were permitted
+to take tramadol when the visual analog scale
+(VAS)  4. Pain assessment using VAS was conducted at the initial visit, as well as 1, 2, 4, 12, and
+24 weeks after the end of the treatments.
+Results. In comparison with the standard treatment
+group, the VAS scores of the intracutaneous injection
+group were significantly lower during the study. The
+intracutaneous injection group also reported shorter
+duration of pain and skin eruption than the control
+group (P 5 0.005 vs P < 0.001, respectively). At 1
+month post-therapy, 12.8% patients in the intracutaneous injection group reported zoster-associated
+pain, compared with 47.8% in the standard treatment
+group (P < 0.001). At 3 and 6 months post-therapy, the
+incidence of PHN was still significantly lower in the
+intracutaneous injection group than the standard
+treatment group. EuroQol VAS scores were significantly higher in the intracutaneous injection group vs
+standard treatment group (P < 0.001).
+Conclusion. Repetitive intracutaneous injections
+with local anesthetics and steroids along with standard treatment significantly reduce the duration of
+pain and herpetic eruption and incidence of PHN.
+Key Words. Repetitive Intracutaneous Injection;
+Local Anesthetics; Steroid; Thoracic; Herpes
+Zoster; Postherpetic Neuralgia
+Introduction
+Herpes zoster (HZ) has an estimated incidence of 25%
+in the general population and occurs in approximately
+
+C 2016 American Academy of Pain Medicine. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+V
+
+1
+
+Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+
+Ji-zheng Cui, MD,* Xiao-bao Zhang, MD,† Pin Zhu,
+MD,† Zhi-bin Zhao, MD,† Zhu-sheng Geng, MD,*
+Yun-hai Zhang, MD,* Liang Tian, MD,† Heng-fei
+Luan, MD,† and Ji-ying Feng, MD†
+
+
+----- [PDF page 1 of 7: layout view of the same page] -----
+                      Pain Medicine Advance Access published August 4, 2016
+Pain Medicine 2016; 0: 1–7
+doi: 10.1093/pm/pnw190
+
+
+
+
+Original Research Article
+Effect of Repetitive Intracutaneous Injections
+with Local Anesthetics and Steroids for Acute
+Thoracic Herpes Zoster and Incidence of
+Postherpetic Neuralgia
+
+
+
+
+                                                                                                                                   Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+Ji-zheng Cui, MD,* Xiao-bao Zhang, MD,† Pin Zhu,                        Methods. Ninety-three patients with acute thoracic
+MD,† Zhi-bin Zhao, MD,† Zhu-sheng Geng, MD,*                            HZ were randomly assigned to receive a standard
+Yun-hai Zhang, MD,* Liang Tian, MD,† Heng-fei                           treatment of antiviral medication with p.o. analge-
+Luan, MD,† and Ji-ying Feng, MD†                                        sics or the standard treatment with the addition of
+                                                                        repetitive intracutaneous injections of a local anes-
+                                                                        thetic and steroid mixture. Patients were permitted
+*Department of Pain Treatment, the First People’s                       to take tramadol when the visual analog scale
+Hospital of Lianyungang City, Lianyungang, Jiangsu                      (VAS)  4. Pain assessment using VAS was con-
+Province, People’s Republic of China; †Department of                    ducted at the initial visit, as well as 1, 2, 4, 12, and
+Anesthesiology, the First People’s Hospital of                          24 weeks after the end of the treatments.
+Lianyungang City, Lianyungang, Jiangsu Province,
+People’s Republic of China                                              Results. In comparison with the standard treatment
+                                                                        group, the VAS scores of the intracutaneous injection
+Correspondence to: Ji-ying Feng, MD, Department of                      group were significantly lower during the study. The
+Anesthesiology, The First People’s Hospital of                          intracutaneous injection group also reported shorter
+Lianyungang City, Lianyungang, Jiangsu Province,                        duration of pain and skin eruption than the control
+People’s Republic of China. Tel: þ86 0518 85870510;                     group (P 5 0.005 vs P < 0.001, respectively). At 1
+Fax.: þ86 0518 85456700; E-mail: fengjysd@163.com.                      month post-therapy, 12.8% patients in the intracuta-
+                                                                        neous injection group reported zoster-associated
+Funding sources: This work was funded by                                pain, compared with 47.8% in the standard treatment
+Lianyungang Science and Technology Project                              group (P < 0.001). At 3 and 6 months post-therapy, the
+(SH1402, ZD1501), National Science Foundation of                        incidence of PHN was still significantly lower in the
+Jiangsu Province (BK20160423) and Lianyungang                           intracutaneous injection group than the standard
+Health Bureau Project (QN1401, QN130105).                               treatment group. EuroQol VAS scores were signifi-
+                                                                        cantly higher in the intracutaneous injection group vs
+Conflict of interest: There are no conflicts of interest to
+                                                                        standard treatment group (P < 0.001).
+report.
+Authors X. Zhang and J. Cui contributed equally to                      Conclusion. Repetitive intracutaneous injections
+this work.                                                              with local anesthetics and steroids along with stan-
+                                                                        dard treatment significantly reduce the duration of
+                                                                        pain and herpetic eruption and incidence of PHN.
+Abstract
+                                                                        Key Words. Repetitive Intracutaneous Injection;
+                                                                        Local Anesthetics; Steroid; Thoracic; Herpes
+Background. Treatment of established posther-
+                                                                        Zoster; Postherpetic Neuralgia
+petic neuralgia (PHN) is difficult and often disap-
+pointing. In this study, we assessed the efficacy
+of repetitive intracutaneous injections with local                      Introduction
+anesthetics and steroids in acute thoracic herpes
+zoster (HZ) pain, herpetic eruption, and incidence                      Herpes zoster (HZ) has an estimated incidence of 25%
+of PHN.                                                                 in the general population and occurs in approximately
+
+
+
+C 2016 American Academy of Pain Medicine. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+V                                                                                                                             1
+
+===== [PDF page 2 of 7] =====
+Cui et al.
+50% of those over 85 years old [1,2]. The most frequent
+complication of HZ is postherpetic neuralgia (PHN),
+which can dramatically affect patients’ quality of life.
+Treatment of established PHN is often disappointing,
+and current existing interventions are not completely effective in all cases of PHN [3]. Therefore, an important
+focus of current research is the development of more
+effective treatments for preventing PHN. The current
+consensus is that the early treatment of HZ results in
+less acute pain, accelerates the rash healing process,
+and reduces the incidence of developing PHN.
+
+An interventional strategy with significantly fewer adverse effects may be intracutaneous injections of local
+anesthetics and corticosteroids. Few empirical studies
+have described the use of intracutaneous injections in
+acute HZ pain [17–20]. None of the available studies,
+however, was a well-designed randomized controlled
+trial for acute pain in HZ. Therefore, the purpose of this
+study is to evaluate the effectiveness of repetitive intracutaneous injections on acute HZ pain, duration of herpetic eruption, and incidence of PHN.
+Methods
+Study Design
+In accordance with the Declaration of Helsinki and subsequent amendments and in compliance with the approval of the Human Ethics Committee of the First
+Hospital of Lianyungang City as well as good clinical
+practice, this study was designed as a prospective randomized placebo-controlled clinical trial from July 2010
+to June 2013. Before participating, all patients signed
+informed consent forms.
+2
+
+Participants in the study were limited to those who met
+the following criteria: ages 50–80 years old, experiencing HZ within 7 days after onset of the rash, chest wall
+herpetic eruption, and HZ pain intensity  4 on the visual
+analog scale (VAS).
+Patients were excluded if they had known allergies to
+the medications used, any clinically significant or unstable condition, coagulation abnormalities, infection at the
+site of injection, or any intolerance to the study.
+Procedures
+Baseline measurements of the clinical characteristics included pain intensity, the time of first injection, the number of affected dermatomes, and quality of life. The
+injection solution was prepared by a nurse who did not
+participate in the study. The injection was performed by
+the doctor (Cui Jizheng), and all follow-up was conducted by a second blinded doctor (Zhang Xiaobao).
+Using a computer-generated sequence, the study patients were assigned into one of the following groups.
+Control group: The patients received the current standard treatment (antiviral medication and analgesics) for
+HZ. In this study, acyclovir (800 mg five times daily for 7
+days) was administered to all of the patients. The patients were given tramadol (50–100 mg in accordance to
+both body weight and patients’ tolerability) for pain control when VAS  4. The permitted maximum daily dose
+was 400 mg.
+Intracutaneous injection group: Patients allocated to the
+intracutaneous injection group also received the standard treatment and intracutaneous injections of 15 ml
+0.25% ropivacaine and 40 mg methylprednisolone every
+48 h for a week (total 4 injections) .
+The areas injected were determined according to the
+distribution of the skin lesions and nerve segmental distribution of the pain. The intracutaneous injections
+were placed along the midclavicular line, axillary line,
+and subscapularis line as determined by the dermtomal
+distribution of pain and the rash. For example, in one
+patient, the dermtomal distribution of pain and the lesion was T4–T6 on the right side of the body, so the solutions were injected into the right side of the
+midclavicular line, axillary line, and subscapularis line between T4 and T6 (Figure 1). Maximum therapeutic effect
+cannot be anticipated unless all of the affected areas
+are injected. Therefore, the areas of eruption or sites of
+pain, burning, or itching were also selectively injected,
+and special consideration was given to the most painful
+areas. A 2-ml plastic syringe (B. Braun OmnifixV,
+Germany) with a thin needle (B. Braun Omnifix; diameter: 0.40 mm, length: 20 mm) was utilized for intracutaneous injections. Each patient received intracutaneous
+injections of 0.5–1 ml solutions of 0.25% ropivacaine
+plus 40 mg methylprednisolone/per 15 ml solution at
+R
+
+Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+
+The concomitant inflammation of the ganglion, peripheral
+nerve, and nerve endings (skin damage) is supposedly
+responsible for HZ-associated pain [4]. This tissue damage and inflammation excites nociceptors, causing both
+excitation and repetitive painful stimuli leading to central
+sensitization of the nociceptive system, which is believed
+to be the most important mechanism underlying longlasting pain associated with PHN [5,6]. Interventions that
+reduce the inflammation and repetitive painful stimuli
+during the acute phase of HZ might alleviate central sensitization (dorsal horn) and substantially decrease the development of PHN [7,8]. Epidemiological studies have
+demonstrated that the incidence of PHN is proportional
+to the degree of pain and inflammation in acute HZ [9].
+Therefore, interventions aimed at reducing the inflammation and blocking the painful stimuli from reaching the
+central nervous system may be effective in decreasing
+the occurrence of PHN. Currently, regional anesthetic
+techniques like epidural, paravertebral block, intrathecal,
+and sympathetic nerve blocks have been used in treating pain caused by HZ and PHN [10–13]. While the effectiveness of the aforementioned intervention strategies
+on preventing of PHN is promising, they do not completely prevent the development of PHN without any risk
+[13–16].
+
+Patients
+
+
+----- [PDF page 2 of 7: layout view of the same page] -----
+Cui et al.
+
+50% of those over 85 years old [1,2]. The most frequent        Patients
+complication of HZ is postherpetic neuralgia (PHN),
+which can dramatically affect patients’ quality of life.       Participants in the study were limited to those who met
+Treatment of established PHN is often disappointing,           the following criteria: ages 50–80 years old, experienc-
+and current existing interventions are not completely ef-      ing HZ within 7 days after onset of the rash, chest wall
+fective in all cases of PHN [3]. Therefore, an important       herpetic eruption, and HZ pain intensity  4 on the visual
+focus of current research is the development of more           analog scale (VAS).
+effective treatments for preventing PHN. The current
+consensus is that the early treatment of HZ results in         Patients were excluded if they had known allergies to
+less acute pain, accelerates the rash healing process,         the medications used, any clinically significant or unsta-
+and reduces the incidence of developing PHN.                   ble condition, coagulation abnormalities, infection at the
+                                                               site of injection, or any intolerance to the study.
+The concomitant inflammation of the ganglion, peripheral
+nerve, and nerve endings (skin damage) is supposedly           Procedures
+responsible for HZ-associated pain [4]. This tissue dam-
+age and inflammation excites nociceptors, causing both         Baseline measurements of the clinical characteristics in-
+excitation and repetitive painful stimuli leading to central   cluded pain intensity, the time of first injection, the num-
+
+
+
+
+                                                                                                                               Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+sensitization of the nociceptive system, which is believed     ber of affected dermatomes, and quality of life. The
+to be the most important mechanism underlying long-            injection solution was prepared by a nurse who did not
+lasting pain associated with PHN [5,6]. Interventions that     participate in the study. The injection was performed by
+reduce the inflammation and repetitive painful stimuli         the doctor (Cui Jizheng), and all follow-up was con-
+during the acute phase of HZ might alleviate central sen-      ducted by a second blinded doctor (Zhang Xiaobao).
+sitization (dorsal horn) and substantially decrease the de-    Using a computer-generated sequence, the study pa-
+velopment of PHN [7,8]. Epidemiological studies have           tients were assigned into one of the following groups.
+demonstrated that the incidence of PHN is proportional
+to the degree of pain and inflammation in acute HZ [9].        Control group: The patients received the current stan-
+Therefore, interventions aimed at reducing the inflamma-       dard treatment (antiviral medication and analgesics) for
+tion and blocking the painful stimuli from reaching the        HZ. In this study, acyclovir (800 mg five times daily for 7
+central nervous system may be effective in decreasing          days) was administered to all of the patients. The pa-
+the occurrence of PHN. Currently, regional anesthetic          tients were given tramadol (50–100 mg in accordance to
+techniques like epidural, paravertebral block, intrathecal,    both body weight and patients’ tolerability) for pain con-
+and sympathetic nerve blocks have been used in treat-          trol when VAS  4. The permitted maximum daily dose
+ing pain caused by HZ and PHN [10–13]. While the ef-           was 400 mg.
+fectiveness of the aforementioned intervention strategies
+on preventing of PHN is promising, they do not com-            Intracutaneous injection group: Patients allocated to the
+pletely prevent the development of PHN without any risk        intracutaneous injection group also received the stan-
+[13–16].                                                       dard treatment and intracutaneous injections of 15 ml
+                                                               0.25% ropivacaine and 40 mg methylprednisolone every
+An interventional strategy with significantly fewer ad-        48 h for a week (total 4 injections) .
+verse effects may be intracutaneous injections of local
+anesthetics and corticosteroids. Few empirical studies         The areas injected were determined according to the
+have described the use of intracutaneous injections in         distribution of the skin lesions and nerve segmental dis-
+acute HZ pain [17–20]. None of the available studies,          tribution of the pain. The intracutaneous injections
+however, was a well-designed randomized controlled             were placed along the midclavicular line, axillary line,
+trial for acute pain in HZ. Therefore, the purpose of this     and subscapularis line as determined by the dermtomal
+study is to evaluate the effectiveness of repetitive intra-    distribution of pain and the rash. For example, in one
+cutaneous injections on acute HZ pain, duration of her-        patient, the dermtomal distribution of pain and the le-
+petic eruption, and incidence of PHN.                          sion was T4–T6 on the right side of the body, so the so-
+                                                               lutions were injected into the right side of the
+Methods                                                        midclavicular line, axillary line, and subscapularis line be-
+                                                               tween T4 and T6 (Figure 1). Maximum therapeutic effect
+Study Design                                                   cannot be anticipated unless all of the affected areas
+                                                               are injected. Therefore, the areas of eruption or sites of
+In accordance with the Declaration of Helsinki and sub-        pain, burning, or itching were also selectively injected,
+sequent amendments and in compliance with the ap-              and special consideration was given to the most painful
+                                                                                                                          R
+proval of the Human Ethics Committee of the First              areas. A 2-ml plastic syringe (B. Braun OmnifixV,
+Hospital of Lianyungang City as well as good clinical          Germany) with a thin needle (B. Braun Omnifix; diame-
+practice, this study was designed as a prospective ran-        ter: 0.40 mm, length: 20 mm) was utilized for intracuta-
+domized placebo-controlled clinical trial from July 2010       neous injections. Each patient received intracutaneous
+to June 2013. Before participating, all patients signed        injections of 0.5–1 ml solutions of 0.25% ropivacaine
+informed consent forms.                                        plus 40 mg methylprednisolone/per 15 ml solution at
+
+
+2
+
+===== [PDF page 3 of 7] =====
+Intracutaneous Injections for Thoracic Herpes Zoster
+significance of 0.05 (a ¼ 0.05) and 80% power. Allowing
+for 10% loss of follow-up, 98 patients were included.
+A statistical analysis was performed using SPSS version
+16.0 (SPSS Inc., Chicago, IL). Continuous quantitative
+data were expressed as mean and standard deviation.
+Frequency and proportion were used for qualitative
+data. For quantitative data, Student’s t-test with
+Bonferroni correction was used to compare the two
+groups. For qualitative data, Fisher’s exact test and the
+v2 test were used. P < 0.05 was considered statistically
+significant.
+Results
+
+every injection point. The distance between each injection was 2 cm. A total of 15 ml solutions were injected.
+Outcome Measures
+Pain severity was evaluated using VAS (0 ¼ no pain,
+10 ¼ worst pain imaginable) score. VAS scores were assessed at the initial visit (basal) and 1, 2, 4, 12, and 24
+weeks after the end of the injections. The time of complete resolution of pain and herpes eruption was recorded for each patient. The incidence of PHN (defined
+as the presence of pain of any grade related to the prior
+outbreak) was evaluated at 1, 3, and 6 months after
+acute HZ.
+The patients’ quality of life was assessed using the Euro
+quality of life visual analog scale (EuroQoL VAS;
+0 ¼ does not interfere, 10 ¼ complete interference)[21] at
+the initial visit and 1, 3, and 6 months after the treatment. The amount of tramadol (mg/d) each patient consumed was collected weekly for 4 weeks, and any side
+effects (bleeding at the injection site, injection pain, infection, and drug-related side effects) during the study
+were also recorded.
+Statistical Analysis
+According to the study done by Wood et al. [22], the
+expected incidence of PHN in patients above 50 years
+old in the control group was 25%. We aimed for 5% incidence in the intracutaneous group, so the difference
+between the incidence of PHN in the two groups was
+20%. A calculated sample size of 44 patients in each
+group was needed, which provided a level of statistical
+
+The intracutaneous group reported a significantly shorter
+duration of pain (25.7 6 37.2 vs 58.2 6 66.5 days,
+P ¼ 0.005; Table 1). The intracutaneous group also had
+a significantly shorter duration of herpetic eruption and
+skin healing (17.9 6 7.0 vs 30.8 6 6.9 days, P < 0.001;
+Table 1). The same group also reported a significantly
+lower incidence of PHN after 1 month (12.8% vs 47.8%,
+P < 0.001), 3 months (6.4% vs 28.3%, P ¼ 0.005), and
+6 months (4.3% vs 17.4%, P ¼ 0.022).
+As shown in Table 2, the VAS at baseline was similar
+between the two groups. Significantly lower VAS was
+noticed in the intracutaneous group throughout the
+study period.
+Concerning the rescue drug’s (tramadol) consumption
+per day, there was a significantly lower dosage in the intracutaneous group than in the control group. There was
+no significant difference in the incidence of drowsiness
+(6.1% vs 6.5%, P ¼ 1.000) and nausea or vomiting (8.5%
+vs 8.7%, P ¼ 1.000) between the two groups (Table 3).
+The quality of life (EuroQoL VAS) improved in both
+groups after 1, 3, and 6 months compared with the
+baseline. The improvement was also significant at all the
+follow-up time points in the intracutaneous group when
+compared with the control group (Table 4).
+It was noticed that injection pain was the most common
+side effect of the intracutaneous injection. The injection
+itself tends to be painful despite the use of ropivacaine,
+although few individuals complain of it unduly. In some
+individuals, especially in those of advanced age, bruising
+occurs at the injected sites. Other side effects, including
+abscesses, cutaneous atrophy, scarring, tenderness,
+vertigo, dizziness or giddiness, sweating, and moon
+face were not encountered throughout the study.
+3
+
+Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+
+Figure 1 The intracutaneous injections were placed
+along the axillary line (A), midclavicular line (B), and subscapularis line (C) between T4 and T6.
+
+A total of 96 patients were randomly allocated to
+the control group (n ¼ 48) and the intracutaneous group
+(n ¼ 48). Two patients in the control group and one patient in the intracutaneous group did not complete the
+study due to a loss of follow-up. There were no statistically significant differences between the two groups with
+respect to demographic and clinical characteristics
+(Table 1).
+
+
+----- [PDF page 3 of 7: layout view of the same page] -----
+                                                                Intracutaneous Injections for Thoracic Herpes Zoster
+
+                                                                  significance of 0.05 (a ¼ 0.05) and 80% power. Allowing
+                                                                  for 10% loss of follow-up, 98 patients were included.
+
+                                                                  A statistical analysis was performed using SPSS version
+                                                                  16.0 (SPSS Inc., Chicago, IL). Continuous quantitative
+                                                                  data were expressed as mean and standard deviation.
+                                                                  Frequency and proportion were used for qualitative
+                                                                  data. For quantitative data, Student’s t-test with
+                                                                  Bonferroni correction was used to compare the two
+                                                                  groups. For qualitative data, Fisher’s exact test and the
+                                                                  v2 test were used. P < 0.05 was considered statistically
+                                                                  significant.
+
+                                                                  Results
+
+                                                                  A total of 96 patients were randomly allocated to
+                                                                  the control group (n ¼ 48) and the intracutaneous group
+
+
+
+
+                                                                                                                                Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+                                                                  (n ¼ 48). Two patients in the control group and one pa-
+                                                                  tient in the intracutaneous group did not complete the
+                                                                  study due to a loss of follow-up. There were no statisti-
+                                                                  cally significant differences between the two groups with
+Figure 1 The intracutaneous injections were placed
+                                                                  respect to demographic and clinical characteristics
+along the axillary line (A), midclavicular line (B), and sub-
+                                                                  (Table 1).
+scapularis line (C) between T4 and T6.
+                                                                  The intracutaneous group reported a significantly shorter
+                                                                  duration of pain (25.7 6 37.2 vs 58.2 6 66.5 days,
+every injection point. The distance between each injec-           P ¼ 0.005; Table 1). The intracutaneous group also had
+tion was 2 cm. A total of 15 ml solutions were injected.          a significantly shorter duration of herpetic eruption and
+                                                                  skin healing (17.9 6 7.0 vs 30.8 6 6.9 days, P < 0.001;
+                                                                  Table 1). The same group also reported a significantly
+Outcome Measures
+                                                                  lower incidence of PHN after 1 month (12.8% vs 47.8%,
+                                                                  P < 0.001), 3 months (6.4% vs 28.3%, P ¼ 0.005), and
+Pain severity was evaluated using VAS (0 ¼ no pain,
+                                                                  6 months (4.3% vs 17.4%, P ¼ 0.022).
+10 ¼ worst pain imaginable) score. VAS scores were as-
+sessed at the initial visit (basal) and 1, 2, 4, 12, and 24
+                                                                  As shown in Table 2, the VAS at baseline was similar
+weeks after the end of the injections. The time of com-
+                                                                  between the two groups. Significantly lower VAS was
+plete resolution of pain and herpes eruption was re-
+                                                                  noticed in the intracutaneous group throughout the
+corded for each patient. The incidence of PHN (defined
+                                                                  study period.
+as the presence of pain of any grade related to the prior
+outbreak) was evaluated at 1, 3, and 6 months after
+                                                                  Concerning the rescue drug’s (tramadol) consumption
+acute HZ.
+                                                                  per day, there was a significantly lower dosage in the in-
+                                                                  tracutaneous group than in the control group. There was
+The patients’ quality of life was assessed using the Euro
+                                                                  no significant difference in the incidence of drowsiness
+quality of life visual analog scale (EuroQoL VAS;
+                                                                  (6.1% vs 6.5%, P ¼ 1.000) and nausea or vomiting (8.5%
+0 ¼ does not interfere, 10 ¼ complete interference)[21] at
+                                                                  vs 8.7%, P ¼ 1.000) between the two groups (Table 3).
+the initial visit and 1, 3, and 6 months after the treat-
+ment. The amount of tramadol (mg/d) each patient con-
+                                                                  The quality of life (EuroQoL VAS) improved in both
+sumed was collected weekly for 4 weeks, and any side
+                                                                  groups after 1, 3, and 6 months compared with the
+effects (bleeding at the injection site, injection pain, in-
+                                                                  baseline. The improvement was also significant at all the
+fection, and drug-related side effects) during the study
+                                                                  follow-up time points in the intracutaneous group when
+were also recorded.
+                                                                  compared with the control group (Table 4).
+
+Statistical Analysis                                              It was noticed that injection pain was the most common
+                                                                  side effect of the intracutaneous injection. The injection
+According to the study done by Wood et al. [22], the              itself tends to be painful despite the use of ropivacaine,
+expected incidence of PHN in patients above 50 years              although few individuals complain of it unduly. In some
+old in the control group was 25%. We aimed for 5% in-             individuals, especially in those of advanced age, bruising
+cidence in the intracutaneous group, so the difference            occurs at the injected sites. Other side effects, including
+between the incidence of PHN in the two groups was                abscesses, cutaneous atrophy, scarring, tenderness,
+20%. A calculated sample size of 44 patients in each              vertigo, dizziness or giddiness, sweating, and moon
+group was needed, which provided a level of statistical           face were not encountered throughout the study.
+
+
+                                                                                                                           3
+
+===== [PDF page 4 of 7] =====
+Cui et al.
+
+Table 1
+
+Demographic data and patient outcomes in the studied groups
+
+Patient
+
+Intracutaneous
+injection group n ¼ 48
+(completed 47)
+
+P values
+
+63.0 6 4.3
+19/27
+22/24
+4/46 (8.7%)
+3/46 (6.5%)
+4.1 6 1.9
+
+63.7 6 3.1
+21/26
+23/24
+5/47 (8.5%)
+3/47 (6.1%)
+4.1 6 2.0
+
+0.332
+0.742
+0.915
+1.000
+1.000
+0.907
+
+22/46(47.8%)
+13/46 (28.3%)
+9/46 (17.4%)
+58.2 6 66.5
+30.8 6 6.9
+
+6/47(12.8%)*
+3/47 (6.4%)*
+2/47 (4.3%)*
+25.7 6 37.2*
+17.9 6 7.0*
+
+< 0.001
+0.005
+0.022
+0.005
+< 0.001
+
+Values are in mean 6 SD and in number (%).
+*Significant when compared with the other group.
+
+Table 2
+
+Visual analogue score in the studied groups
+
+VAS
+Control group (n ¼ 46)
+Intracutaneous injection
+group (n ¼ 47)
+P values
+
+Basal
+
+1 week
+
+2 weeks
+
+4 weeks
+
+12 weeks
+
+24 weeks
+
+7.5 6 1.4
+7.5 6 1.7
+
+5.2 6 2.5
+4.0 6 3.0*
+
+3.8 6 2.7
+2.4 6 2.5*
+
+2.8 6 3.2
+0.85 6 2.3*
+
+1.7 6 2.9
+0.49 6 1.9*
+
+1.4 6 2.8
+0.32 6 1.5*
+
+0.973
+
+0.030
+
+0.009
+
+0.001
+
+0.019
+
+0.033
+
+Values are in mean 6 SD.
+*Significant when compared with the other group.
+
+Discussion
+The findings of this randomized, placebo-controlled
+study show that repetitive intracutaneous injections of a
+15-ml solution of ropivacaine 0.25% and methylprednisolone 40 mg/15 ml in acute thoracic HZ within 1 week
+of rash onset not only effectively alleviated zosterassociated pain and reduced the course of skin eruption, but also significantly reduced the incidence of
+PHN. Our results also demonstrated that repetitive intracutaneous injections treatment significantly reduced the
+average dosage of the rescue drug (tramadol) and improved the overall quality of life (EQ-VAS).
+The results in the standard treatment group indicated
+that antiviral medications can effectively reduce acute
+HZ pain, hasten rash healing, and reduce the incidence
+of PHN [23–25]. The incidence of PHN in the standard
+treatment group was 47.8% at 1 month, 28.3% at 3
+months, and 17.4% at 6 months after the treatment.
+Wood and his coworkers [22] reported the incidence of
+
+4
+
+PHN was 25% at 3 months, and Schmader [26] reported the presence of PHN in 15% of patients being
+treated with antiviral drugs at 6 months. The slight variability among the studies may be due to different patient
+inclusion and exclusion criteria, different antiviral medications, and different PHN definitions.
+Although intracutaneous injections with local anesthetics
+and corticosteroids have been used for decades both to
+treat zoster-associated pain and to prevent or treat PHN
+[17–19,27], the effectiveness of this treatment has not
+previously been evaluated in a randomized clinical trial. In
+1976, Epstein [19] reported that an average of 4.4% of
+111 patients with zoster developed postherpetic neuralgia. In 1981, Epstein [18] published remarkable results
+for a case series in which 272 patients (68% > 50 years
+old) suffering from acute HZ received subcutaneous daily
+injections with a triamcinolone mixture under the areas of
+eruption until acceptable pain relief was obtained; only
+2.9% of those patients developed PHN. Chiarello [20]
+studied the effectiveness of infiltrating the dermatomes of
+
+Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+
+Age (years)
+Male/Female
+Side (left/right)
+Nausea/vomiting
+Drowsiness
+Time of block (days)
+Incidence of PHN
+1 month
+3 months
+6 months
+Duration of pain (days)
+Duration of eruption (days)
+
+Control group n ¼ 48
+(completed 46)
+
+
+----- [PDF page 4 of 7: layout view of the same page] -----
+Cui et al.
+
+Table 1      Demographic data and patient outcomes in the studied groups
+
+                                                                                  Intracutaneous
+                                          Control group n ¼ 48                injection group n ¼ 48
+Patient                                     (completed 46)                        (completed 47)                    P values
+
+Age (years)                                    63.0 6 4.3                          63.7 6 3.1                        0.332
+Male/Female                                       19/27                               21/26                          0.742
+Side (left/right)                                 22/24                               23/24                          0.915
+Nausea/vomiting                                4/46 (8.7%)                         5/47 (8.5%)                       1.000
+Drowsiness                                     3/46 (6.5%)                         3/47 (6.1%)                       1.000
+Time of block (days)                            4.1 6 1.9                           4.1 6 2.0                        0.907
+Incidence of PHN
+1 month                                       22/46(47.8%)                         6/47(12.8%)*                     < 0.001
+3 months                                      13/46 (28.3%)                        3/47 (6.4%)*                      0.005
+6 months                                      9/46 (17.4%)                         2/47 (4.3%)*                      0.022
+Duration of pain (days)                        58.2 6 66.5                         25.7 6 37.2*                      0.005
+
+
+
+
+                                                                                                                                Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+Duration of eruption (days)                     30.8 6 6.9                          17.9 6 7.0*                     < 0.001
+
+Values are in mean 6 SD and in number (%).
+*Significant when compared with the other group.
+
+
+
+
+Table 2      Visual analogue score in the studied groups
+
+VAS                             Basal          1 week          2 weeks         4 weeks           12 weeks         24 weeks
+
+Control group (n ¼ 46)        7.5 6 1.4      5.2 6 2.5        3.8 6 2.7       2.8 6 3.2         1.7 6 2.9        1.4 6 2.8
+Intracutaneous injection      7.5 6 1.7      4.0 6 3.0*       2.4 6 2.5*     0.85 6 2.3*       0.49 6 1.9*      0.32 6 1.5*
+  group (n ¼ 47)
+P values                        0.973              0.030         0.009           0.001            0.019             0.033
+
+Values are in mean 6 SD.
+*Significant when compared with the other group.
+
+
+
+
+Discussion                                                       PHN was 25% at 3 months, and Schmader [26] re-
+                                                                 ported the presence of PHN in 15% of patients being
+The findings of this randomized, placebo-controlled              treated with antiviral drugs at 6 months. The slight vari-
+study show that repetitive intracutaneous injections of a        ability among the studies may be due to different patient
+15-ml solution of ropivacaine 0.25% and methylprednis-           inclusion and exclusion criteria, different antiviral medi-
+olone 40 mg/15 ml in acute thoracic HZ within 1 week             cations, and different PHN definitions.
+of rash onset not only effectively alleviated zoster-
+associated pain and reduced the course of skin erup-             Although intracutaneous injections with local anesthetics
+tion, but also significantly reduced the incidence of            and corticosteroids have been used for decades both to
+PHN. Our results also demonstrated that repetitive intra-        treat zoster-associated pain and to prevent or treat PHN
+cutaneous injections treatment significantly reduced the         [17–19,27], the effectiveness of this treatment has not
+average dosage of the rescue drug (tramadol) and im-             previously been evaluated in a randomized clinical trial. In
+proved the overall quality of life (EQ-VAS).                     1976, Epstein [19] reported that an average of 4.4% of
+                                                                 111 patients with zoster developed postherpetic neural-
+The results in the standard treatment group indicated            gia. In 1981, Epstein [18] published remarkable results
+that antiviral medications can effectively reduce acute          for a case series in which 272 patients (68% > 50 years
+HZ pain, hasten rash healing, and reduce the incidence           old) suffering from acute HZ received subcutaneous daily
+of PHN [23–25]. The incidence of PHN in the standard             injections with a triamcinolone mixture under the areas of
+treatment group was 47.8% at 1 month, 28.3% at 3                 eruption until acceptable pain relief was obtained; only
+months, and 17.4% at 6 months after the treatment.               2.9% of those patients developed PHN. Chiarello [20]
+Wood and his coworkers [22] reported the incidence of            studied the effectiveness of infiltrating the dermatomes of
+
+
+
+4
+
+===== [PDF page 5 of 7] =====
+Intracutaneous Injections for Thoracic Herpes Zoster
+
+Table 3
+
+The rescue drug (tramadol) dosage administration per day in the studied groups
+
+Tramadol (mg/d)
+Control group (n ¼ 46)
+Intracutaneous injection group (n ¼ 47)
+P values
+
+1 week
+
+2 weeks
+
+3 weeks
+
+4 weeks
+
+138 6 69
+76 6 52*
+< 0.001
+
+111 6 78
+56 6 67*
+< 0.001
+
+85 6 63
+36 6 40*
+< 0.001
+
+57 6 65
+29 6 44*
+0.016
+
+Values are in mean 6 SD.
+*Significant when compared with the other group.
+
+Table 4
+
+EuroQoL VAS in the studied groups
+0 month
+
+1 month
+
+3 months
+
+6 months
+
+Control group (n ¼ 46)
+Intracutaneous injection group (n ¼ 47)
+P Values
+
+2.4 6 1.5
+2.4 6 1.5
+0.803
+
+6.0 6 3.4
+8.7 6 2.8*
+< 0.001
+
+7.1 6 3.0
+9.3 6 2.1*
+< 0.001
+
+7.6 6 3.0
+9.6 6 1.8*
+< 0.001
+
+Values are in mean 6 SD.
+*Significant when compared with the other group.
+
+acute herpetic pain (defined as pain  3 months after
+rash onset) using a mixture of lidocaine, epinephrine, and
+triamcinolone solution in a series of 13 HZ patients, and
+reported that 8 were completely free of pain; 2 experienced almost no pain except for an occasional annoying,
+crawling feeling; 1 experienced a substantial reduction in
+pain; and 1 experienced no relief. In the current study,
+we compared the effects of intracutaneous injections
+with ropivacaine and methylprednisolone in addition to
+standard treatment of antiviral and oral analgesics with
+standard treatment in 93 HZ patients for the prevention
+of PHN. The intracutaneous injection group had a significantly lower incidence of PHN (12.8%, 6.4%, and 4.3%
+after 1, 3, and 6 months, respectively) compared with the
+standard treatment group (47.8%, 28.3%, and 17.4% after 1, 3, and 6 months, respectively).
+In the current study, intracutaneous injection using local
+anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol)
+at each follow-up time point, indicating a better quality of
+analgesia in the intracutaneous injection group.
+The significantly shorter duration of skin eruption in the
+intracutaneous injection group may be attributed to the
+dense intracutaneous injections. These injections
+may have caused increased intraneural blood flow, reduced inflammation, and vasodilatation of the affected
+dermatomes, resulting in an accelerated resolution of
+skin rash and promotion of skin healing.
+It is accepted that acute HZ pain intensity and PHN are
+well-established factors for a low quality of life [26]. In
+
+the current study, intracutaneous injections reduced
+both the pain intensity (VAS) and the incidence of PHN
+more than the standard treatment.
+The shorter duration of pain and skin eruption, lower average dosage of rescue drug, lower incidence of PHN,
+and higher quality of life noticed in the intracutaneous
+injection group may be attributed to the utilization of intracutaneous injections of local anesthetics and corticosteroids. Although the actual mechanism is not
+established, it is known that intracutaneous injections
+using local anesthetics and corticosteroids have been
+shown to prevent the development of PHN [17–20].
+Reducing acute HZ pain can be achieved by blocking
+C-nociceptors and afferent transmission of the pain
+stimulus using local anesthetics. In addition, this reduction of pain may be attributed to the capacity of local
+anesthetics to inhibit the axonal diffusion of the
+varicella-zoster virus. It is recognized that corticosteroids
+are effective for both the zoster-associated pain and for
+the prevention of PHN. Applying corticosteroids at the
+affected dermatomes may decrease neuronal damage
+by hindering swelling-induced neuronal ischemia.
+Furthermore, the effectiveness of corticosteroids for the
+prevention of PHN may be a result of lysosomal protection and inhibition of the inflammatory process.
+It is recognized that the treatment of HZ should be initiated as early as possible, and it is generally believed that
+9–12 days are necessary for central damage to occur
+[23–25,27,28]. Our study used early (within 1 week) intracutaneous injections for treatment of HZ and thus
+demonstrated the clinical effect of early intracutaneous
+
+5
+
+Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+
+EQ-VAS
+
+
+----- [PDF page 5 of 7: layout view of the same page] -----
+                                                               Intracutaneous Injections for Thoracic Herpes Zoster
+
+Table 3     The rescue drug (tramadol) dosage administration per day in the studied groups
+
+Tramadol (mg/d)                                      1 week               2 weeks              3 weeks              4 weeks
+
+Control group (n ¼ 46)                             138 6 69              111 6 78              85 6 63              57 6 65
+Intracutaneous injection group (n ¼ 47)             76 6 52*              56 6 67*             36 6 40*             29 6 44*
+P values                                            < 0.001               < 0.001               < 0.001              0.016
+
+Values are in mean 6 SD.
+*Significant when compared with the other group.
+
+
+
+
+Table 4     EuroQoL VAS in the studied groups
+
+EQ-VAS                                             0 month            1 month               3 months              6 months
+
+
+
+
+                                                                                                                                 Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+Control group (n ¼ 46)                             2.4 6 1.5          6.0 6 3.4             7.1 6 3.0             7.6 6 3.0
+Intracutaneous injection group (n ¼ 47)            2.4 6 1.5          8.7 6 2.8*            9.3 6 2.1*            9.6 6 1.8*
+P Values                                             0.803             < 0.001               < 0.001               < 0.001
+
+Values are in mean 6 SD.
+*Significant when compared with the other group.
+
+
+
+
+acute herpetic pain (defined as pain  3 months after            the current study, intracutaneous injections reduced
+rash onset) using a mixture of lidocaine, epinephrine, and       both the pain intensity (VAS) and the incidence of PHN
+triamcinolone solution in a series of 13 HZ patients, and        more than the standard treatment.
+reported that 8 were completely free of pain; 2 experi-
+enced almost no pain except for an occasional annoying,          The shorter duration of pain and skin eruption, lower av-
+crawling feeling; 1 experienced a substantial reduction in       erage dosage of rescue drug, lower incidence of PHN,
+pain; and 1 experienced no relief. In the current study,         and higher quality of life noticed in the intracutaneous
+we compared the effects of intracutaneous injections             injection group may be attributed to the utilization of in-
+with ropivacaine and methylprednisolone in addition to           tracutaneous injections of local anesthetics and cortico-
+standard treatment of antiviral and oral analgesics with         steroids. Although the actual mechanism is not
+standard treatment in 93 HZ patients for the prevention          established, it is known that intracutaneous injections
+of PHN. The intracutaneous injection group had a signifi-        using local anesthetics and corticosteroids have been
+cantly lower incidence of PHN (12.8%, 6.4%, and 4.3%             shown to prevent the development of PHN [17–20].
+after 1, 3, and 6 months, respectively) compared with the        Reducing acute HZ pain can be achieved by blocking
+standard treatment group (47.8%, 28.3%, and 17.4% af-            C-nociceptors and afferent transmission of the pain
+ter 1, 3, and 6 months, respectively).                           stimulus using local anesthetics. In addition, this reduc-
+                                                                 tion of pain may be attributed to the capacity of local
+In the current study, intracutaneous injection using local       anesthetics to inhibit the axonal diffusion of the
+anesthetics plus corticosteroids resulted in lower pain in-      varicella-zoster virus. It is recognized that corticosteroids
+tensity (VAS) and fewer doses of rescue drug (tramadol)          are effective for both the zoster-associated pain and for
+at each follow-up time point, indicating a better quality of     the prevention of PHN. Applying corticosteroids at the
+analgesia in the intracutaneous injection group.                 affected dermatomes may decrease neuronal damage
+                                                                 by hindering swelling-induced neuronal ischemia.
+The significantly shorter duration of skin eruption in the       Furthermore, the effectiveness of corticosteroids for the
+intracutaneous injection group may be attributed to the          prevention of PHN may be a result of lysosomal protec-
+dense intracutaneous injections. These injections                tion and inhibition of the inflammatory process.
+may have caused increased intraneural blood flow, re-
+duced inflammation, and vasodilatation of the affected           It is recognized that the treatment of HZ should be initi-
+dermatomes, resulting in an accelerated resolution of            ated as early as possible, and it is generally believed that
+skin rash and promotion of skin healing.                         9–12 days are necessary for central damage to occur
+                                                                 [23–25,27,28]. Our study used early (within 1 week) in-
+It is accepted that acute HZ pain intensity and PHN are          tracutaneous injections for treatment of HZ and thus
+well-established factors for a low quality of life [26]. In      demonstrated the clinical effect of early intracutaneous
+
+
+
+                                                                                                                             5
+
+===== [PDF page 6 of 7] =====
+Cui et al.
+injection treatment for acute HZ. Several limitations of
+our study will need to be addressed in future studies.
+The current study was designed to be a single-center
+study, and the number of participants was relatively
+small. The follow-up time was limited to 6 months, and
+the systemic absorption of corticosteroid was unknown.
+Finally, the optimum dosage of anesthetics and corticosteroids and the frequency of rejection remain to be
+determined.
+
+Conclusions
+
+10 van Wijck AJ, Opstelten W, Moons KG, et al. The
+PINE study of epidural steroids and local anaesthetics to prevent postherpetic neuralgia: A randomised controlled trial. Lancet 2006;367:219–24.
+11 Makharita MY, Amr YM, El-Bayoumy Y. Single paravertebral injection for acute thoracic herpes zoster: A randomized controlled trial. Pain Practice 2015;15:229–35.
+12 Kotani N, Kushikata T, Hashimoto H, et al.
+Intrathecal methylprednisolone for intractable postherpetic neuralgia. N Engl J Med. 2000;343:1514–9.
+13 Kumar V, Krone K, Mathieu A. Neuraxial and sympathetic blocks in herpes zoster and postherpetic
+neuralgia. Reg Anesth Pain Med 2004;29:454–61.
+14 Abram SE, O’Connor TC. Complications associated
+with epidural steroid injections. Reg Anesth Pain
+Med 1996;21:149–62.
+
+Acknowledgments
+This work was funded by Lianyungang Science and
+Technology Project (SH1402, ZD1501) and Lianyungang
+Health Bureau Project (QN1401, QN130105).
+
+Referencs
+1 Schmader K. Herpes zoster in older adults. Clin
+Infect Dis 2001;32:1481–6.
+2 Miller E, Marshall R, Vurdien J. Epidemiology, outcome and control of varicella-zoster infection. Rev
+Med Microbiol 1993;4:222–30.
+3 Whitley RJ, Volpi A, Mckendrick M, Wijck AV,
+Oaklander AL. Management of herpes zoster and
+post-herpetic neuralgia now and in the future. J Clin
+Virol 2010;48 suppl 1:S20–8.
+4 Haanpaa M, Dastidar P, Weinberg A, et al. CSF and
+MRI findings in patients with acute herpes zoster.
+Neurology 1998;51:1405–11.
+5 Bennett GJ. Hypotheses on the pathogenesis of herpes
+zoster—associated pain. Ann Neurol 1994;35:S38–41.
+6 Woolf CJ. A new strategy for the treatment of inflammatory pain. Drugs 1994;47:1–9.
+7 Kelly DJ, Ahmad M, Brull SJ. Preemptive analgesia
+I: Physiological pathways and pharmacological modalities. Can J Anaesth 2001;48:1000–10.
+8 Johnson RW. Consequences and management of
+pain in herpes zoster. J Infect Dis 2002;186:S83–90.
+6
+
+15 Hempenstall K, Nurmikko TJ, Johnson RW, A’Hern RP,
+Rice AS. Analgesic therapy in postherpetic neuralgia: A
+quantitative systematic review. PLoS Med 2005;2:e164.
+16 Manchikanti L, Hirsch JA. Neurological complications associated with epidural steroid injections.
+Curr Pain Headache Rep 2015;19:1–10.
+17 Herr H. Prognostic factors of postherpetic neuralgia.
+Methods 2002;7:9.
+18 Epstein E. Pharmacology and therapeutics:
+Treatment of herpes zoster and postzoster neuralgia
+by subcutaneous injection of triamcinolone. Int J
+Dermatol 1981;20:65–7.
+19 EPSTEIN E. Treatment of zoster and postzoster
+neuralgia by the intralesional injection of triamcinolone: A computer analysis of 199 cases. Int J
+Dermatol 1976;15:762–9.
+20 Chiarello SE. Tumescent infiltration of corticosteroids, lidocaine, and epinephrine into dermatomes
+of acute herpetic pain or postherpetic neuralgia.
+Arch Dermatol 1998;134:279–81.
+21 Group TE. EuroQol-a new facility for the measurement of health-related quality of life. Health Policy
+1990;16:199–208.
+22 Wood M, Kay R, Dworkin R, Soong S-J, Whitley R.
+Oral acyclovir therapy accelerates pain resolution in
+patients with herpes zoster: A meta-analysis of
+placebo-controlled trials. Clinical Infectious Diseases
+1996;22:341–7.
+
+Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+
+Our study demonstrated that repetitive intracutaneous
+injections with ropivacaine and methylprednisolone plus
+standard treatment with acyclovir and tramadol are
+more effective than the standard treatment alone in reducing the duration of pain and skin eruption, preventing PHN, decreasing the dosage of rescue drugs, and
+improving the quality of life.
+
+9 Forbes HJ, Thomas SL, Smeeth L, et al. A systematic review and meta-analysis of risk factors for
+postherpetic neuralgia. Pain 2016;157:30–54.
+
+
+----- [PDF page 6 of 7: layout view of the same page] -----
+Cui et al.
+
+injection treatment for acute HZ. Several limitations of       9 Forbes HJ, Thomas SL, Smeeth L, et al. A system-
+our study will need to be addressed in future studies.           atic review and meta-analysis of risk factors for
+The current study was designed to be a single-center             postherpetic neuralgia. Pain 2016;157:30–54.
+study, and the number of participants was relatively
+small. The follow-up time was limited to 6 months, and        10 van Wijck AJ, Opstelten W, Moons KG, et al. The
+the systemic absorption of corticosteroid was unknown.           PINE study of epidural steroids and local anaes-
+Finally, the optimum dosage of anesthetics and cortico-          thetics to prevent postherpetic neuralgia: A rando-
+steroids and the frequency of rejection remain to be             mised controlled trial. Lancet 2006;367:219–24.
+determined.
+                                                              11 Makharita MY, Amr YM, El-Bayoumy Y. Single paraver-
+                                                                 tebral injection for acute thoracic herpes zoster: A ran-
+Conclusions                                                      domized controlled trial. Pain Practice 2015;15:229–35.
+
+                                                              12 Kotani N, Kushikata T, Hashimoto H, et al.
+Our study demonstrated that repetitive intracutaneous
+injections with ropivacaine and methylprednisolone plus          Intrathecal methylprednisolone for intractable post-
+standard treatment with acyclovir and tramadol are               herpetic neuralgia. N Engl J Med. 2000;343:1514–9.
+more effective than the standard treatment alone in re-
+
+
+
+
+                                                                                                                             Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+                                                              13 Kumar V, Krone K, Mathieu A. Neuraxial and sym-
+ducing the duration of pain and skin eruption, prevent-
+ing PHN, decreasing the dosage of rescue drugs, and              pathetic blocks in herpes zoster and postherpetic
+improving the quality of life.                                   neuralgia. Reg Anesth Pain Med 2004;29:454–61.
+
+                                                              14 Abram SE, O’Connor TC. Complications associated
+                                                                 with epidural steroid injections. Reg Anesth Pain
+                                                                 Med 1996;21:149–62.
+Acknowledgments
+                                                              15 Hempenstall K, Nurmikko TJ, Johnson RW, A’Hern RP,
+This work was funded by Lianyungang Science and                  Rice AS. Analgesic therapy in postherpetic neuralgia: A
+Technology Project (SH1402, ZD1501) and Lianyungang              quantitative systematic review. PLoS Med 2005;2:e164.
+Health Bureau Project (QN1401, QN130105).
+                                                              16 Manchikanti L, Hirsch JA. Neurological complica-
+                                                                 tions associated with epidural steroid injections.
+Referencs                                                        Curr Pain Headache Rep 2015;19:1–10.
+ 1 Schmader K. Herpes zoster in older adults. Clin
+   Infect Dis 2001;32:1481–6.                                 17 Herr H. Prognostic factors of postherpetic neuralgia.
+                                                                 Methods 2002;7:9.
+    2 Miller E, Marshall R, Vurdien J. Epidemiology, out-
+      come and control of varicella-zoster infection. Rev     18 Epstein E. Pharmacology and therapeutics:
+      Med Microbiol 1993;4:222–30.                               Treatment of herpes zoster and postzoster neuralgia
+                                                                 by subcutaneous injection of triamcinolone. Int J
+    3 Whitley RJ, Volpi A, Mckendrick M, Wijck AV,               Dermatol 1981;20:65–7.
+      Oaklander AL. Management of herpes zoster and
+      post-herpetic neuralgia now and in the future. J Clin   19 EPSTEIN E. Treatment of zoster and postzoster
+      Virol 2010;48 suppl 1:S20–8.                               neuralgia by the intralesional injection of triamcino-
+                                                                 lone: A computer analysis of 199 cases. Int J
+    4 Haanpaa M, Dastidar P, Weinberg A, et al. CSF and          Dermatol 1976;15:762–9.
+      MRI findings in patients with acute herpes zoster.
+      Neurology 1998;51:1405–11.                              20 Chiarello SE. Tumescent infiltration of corticoste-
+                                                                 roids, lidocaine, and epinephrine into dermatomes
+    5 Bennett GJ. Hypotheses on the pathogenesis of herpes       of acute herpetic pain or postherpetic neuralgia.
+      zoster—associated pain. Ann Neurol 1994;35:S38–41.         Arch Dermatol 1998;134:279–81.
+
+    6 Woolf CJ. A new strategy for the treatment of in-       21 Group TE. EuroQol-a new facility for the measure-
+      flammatory pain. Drugs 1994;47:1–9.                        ment of health-related quality of life. Health Policy
+                                                                 1990;16:199–208.
+    7 Kelly DJ, Ahmad M, Brull SJ. Preemptive analgesia
+      I: Physiological pathways and pharmacological mo-       22 Wood M, Kay R, Dworkin R, Soong S-J, Whitley R.
+      dalities. Can J Anaesth 2001;48:1000–10.                   Oral acyclovir therapy accelerates pain resolution in
+                                                                 patients with herpes zoster: A meta-analysis of
+    8 Johnson RW. Consequences and management of                 placebo-controlled trials. Clinical Infectious Diseases
+      pain in herpes zoster. J Infect Dis 2002;186:S83–90.       1996;22:341–7.
+
+
+6
+
+===== [PDF page 7 of 7] =====
+Intracutaneous Injections for Thoracic Herpes Zoster
+23 Dworkin RH, Johnson RW, Breuer J, et al.
+Recommendations for the management of herpes
+zoster. Clin Infect Dis 2007;44:S1–S26.
+
+26 Schmader KE. Epidemiology and impact on quality
+of life of postherpetic neuralgia and painful diabetic
+neuropathy. Clin J Pain 2002;18:350–4.
+
+24 Gross G, Schöfer H, Wassilew S, et al. Herpes zoster guideline of the German dermatology society
+(DDG). J Clin Virol 2003;26:277–89.
+
+27 Head H, Campbell A, Kennedy P. The pathology of
+herpes zoster and its bearing on sensory localisation. Rev Med Virol 1997;7:131–43.
+
+25 Johnson RW. Herpes zoster and postherpetic neuralgia. Expert Rev Vaccines 2010;9:21–6.
+
+28 devinsky O, cho E-S, petito CK, price RW. Herpes
+zoster myelitis. Brain 1991;114:1181–96.
+
+Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+
+7
+
+
+----- [PDF page 7 of 7: layout view of the same page] -----
+                                                         Intracutaneous Injections for Thoracic Herpes Zoster
+
+23 Dworkin RH, Johnson RW, Breuer J, et al.                26 Schmader KE. Epidemiology and impact on quality
+   Recommendations for the management of herpes               of life of postherpetic neuralgia and painful diabetic
+   zoster. Clin Infect Dis 2007;44:S1–S26.                    neuropathy. Clin J Pain 2002;18:350–4.
+
+24 Gross G, Schöfer H, Wassilew S, et al. Herpes zos-     27 Head H, Campbell A, Kennedy P. The pathology of
+   ter guideline of the German dermatology society            herpes zoster and its bearing on sensory localisa-
+   (DDG). J Clin Virol 2003;26:277–89.                        tion. Rev Med Virol 1997;7:131–43.
+
+25 Johnson RW. Herpes zoster and postherpetic neu-         28 devinsky O, cho E-S, petito CK, price RW. Herpes
+   ralgia. Expert Rev Vaccines 2010;9:21–6.                   zoster myelitis. Brain 1991;114:1181–96.
+
+
+
+
+                                                                                                                       Downloaded from http://painmedicine.oxfordjournals.org/ by guest on August 8, 2016
+
+
+
+
+                                                                                                                  7
+

@@ -1,0 +1,959 @@
+SOURCE FILE: S-686-42 - Alam 2010 - Safety of peak serum lidocaine concentration after Mohs micrographic surgery a prospective cohort study.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 6] =====
+Safety of peak serum lidocaine concentration after
+Mohs micrographic surgery: A prospective
+cohort study
+Murad Alam, MD, MSCI,a,b,c Dominic Ricci, MD,e Jillian Havey, BS,a Alfred Rademaker, PhD,d
+Joslyn Witherspoon, MD, MPH,a and Dennis P. West, PhDa
+Chicago and Maywood, Illinois
+Background: Large volumes of dilute local anesthesia are increasingly used not only for liposuction but also
+for other large cutaneous surgeries, including skin cancer excision. Although the lidocaine serum levels and
+peaks after injection of tumescent anesthesia in the trunk were shown to be safe even when used in high doses,
+the levels after use of less dilute (1% lidocaine) solutions for facial cancer surgery have not been described.
+Objective: We sought to ascertain whether perioperative peak lidocaine levels during Mohs micrographic
+surgery approach thresholds for lidocaine toxicity.
+Methods: In this prospective cohort study, each Mohs micrographic procedure was commenced per
+routine protocol, with use of injectable 1% lidocaine with 1:200,000 epinephrine and 1:10 8.4% bicarbonate
+for local anesthesia. Six peripheral blood draws of 5 mL each were performed and sent for serum lidocaine
+concentration measurement. Blood draws were obtained before and after the first two stages of Mohs
+micrographic surgery, and before and after the third stage or wound repair, as appropriate. Subjects and
+investigators reported any symptoms or signs of lidocaine toxicity. The main outcome measures include:
+(1) number of subjects exhibiting at least one level higher than the threshold for toxicity; and (2) sustained
+elevated lidocaine levels in one or more subjects.
+Results: Mean total lidocaine volume per subject was 15 mL (range: 5-48 mL). The highest peak serum
+lidocaine level detected at any time point (blood draw) for any subject was 0.3 g/mL. Mean serum
+lidocaine level for all 6 time points was less than 0.1 g/mL and was thus not detected. Detectable lidocaine
+levels were found to be associated with higher mean (P = .028) and median (P = .008) total lidocaine doses.
+Because no toxic levels were detected, it was not possible to measure sustained high lidocaine levels.
+Limitations: Limitations of this study include the lack of use of very concentrated (eg, 2% vs 1%) lidocaine
+solution.
+Conclusions: Lidocaine use during Mohs micrographic surgery does not appear to result in serum
+lidocaine levels approaching toxic levels even when relatively high total lidocaine doses are used. There is
+an association between higher total lidocaine dose and perioperative peak serum lidocaine level. ( J Am
+Acad Dermatol 2010;63:87-92.)
+Key words: local anesthesia; Mohs micrographic; safety; surgery; toxicity.
+
+I
+
+n the United States, a large proportion of nonmelanoma skin cancers of the head and neck are
+removed by Mohs micrographic surgery, a
+
+staged procedure performed with local anesthetic,
+commonly 0.5% to 2% lidocaine with epinephrine.
+Historically, Mohs micrographic surgery has been
+
+From the Departments of Dermatology,a Otolaryngology-Head
+and Neck Surgery,b Surgery,c and Preventive Medicine,d
+Feinberg School of Medicine, Northwestern University, Chicago; and Loyola University, Stritch School of Medicine,e
+Maywood.
+Conflicts of interest: None declared.
+Supported by Departmental Research Funds, Department of
+Dermatology, Northwestern University.
+ClinicalTrials.gov Identifier NCT00793169
+
+Presented in part at the 2009 American Academy of Dermatology
+Annual Meeting, San Francisco, CA, March 8, 2009.
+Accepted for publication August 30, 2009.
+Reprint requests: Murad Alam, MD, MSCI, Department of
+Dermatology, Northwestern University, 676 N St Clair, Suite
+1600, Chicago, IL 60611. E-mail: m-alam@northwestern.edu.
+Published online May 12, 2010.
+0190-9622/$36.00
+ª 2009 by the American Academy of Dermatology, Inc.
+doi:10.1016/j.jaad.2009.08.046
+
+87
+
+
+----- [PDF page 1 of 6: layout view of the same page] -----
+    Safety of peak serum lidocaine concentration after
+        Mohs micrographic surgery: A prospective
+                       cohort study
+        Murad Alam, MD, MSCI,a,b,c Dominic Ricci, MD,e Jillian Havey, BS,a Alfred Rademaker, PhD,d
+                      Joslyn Witherspoon, MD, MPH,a and Dennis P. West, PhDa
+                                    Chicago and Maywood, Illinois
+
+    Background: Large volumes of dilute local anesthesia are increasingly used not only for liposuction but also
+    for other large cutaneous surgeries, including skin cancer excision. Although the lidocaine serum levels and
+    peaks after injection of tumescent anesthesia in the trunk were shown to be safe even when used in high doses,
+    the levels after use of less dilute (1% lidocaine) solutions for facial cancer surgery have not been described.
+
+    Objective: We sought to ascertain whether perioperative peak lidocaine levels during Mohs micrographic
+    surgery approach thresholds for lidocaine toxicity.
+
+    Methods: In this prospective cohort study, each Mohs micrographic procedure was commenced per
+    routine protocol, with use of injectable 1% lidocaine with 1:200,000 epinephrine and 1:10 8.4% bicarbonate
+    for local anesthesia. Six peripheral blood draws of 5 mL each were performed and sent for serum lidocaine
+    concentration measurement. Blood draws were obtained before and after the first two stages of Mohs
+    micrographic surgery, and before and after the third stage or wound repair, as appropriate. Subjects and
+    investigators reported any symptoms or signs of lidocaine toxicity. The main outcome measures include:
+    (1) number of subjects exhibiting at least one level higher than the threshold for toxicity; and (2) sustained
+    elevated lidocaine levels in one or more subjects.
+
+    Results: Mean total lidocaine volume per subject was 15 mL (range: 5-48 mL). The highest peak serum
+    lidocaine level detected at any time point (blood draw) for any subject was 0.3 g/mL. Mean serum
+    lidocaine level for all 6 time points was less than 0.1 g/mL and was thus not detected. Detectable lidocaine
+    levels were found to be associated with higher mean (P = .028) and median (P = .008) total lidocaine doses.
+    Because no toxic levels were detected, it was not possible to measure sustained high lidocaine levels.
+
+    Limitations: Limitations of this study include the lack of use of very concentrated (eg, 2% vs 1%) lidocaine
+    solution.
+
+    Conclusions: Lidocaine use during Mohs micrographic surgery does not appear to result in serum
+    lidocaine levels approaching toxic levels even when relatively high total lidocaine doses are used. There is
+    an association between higher total lidocaine dose and perioperative peak serum lidocaine level. ( J Am
+    Acad Dermatol 2010;63:87-92.)
+
+    Key words: local anesthesia; Mohs micrographic; safety; surgery; toxicity.
+
+
+
+I    n the United States, a large proportion of non-            staged procedure performed with local anesthetic,
+     melanoma skin cancers of the head and neck are             commonly 0.5% to 2% lidocaine with epinephrine.
+     removed by Mohs micrographic surgery, a                    Historically, Mohs micrographic surgery has been
+
+From the Departments of Dermatology,a Otolaryngology-Head       Presented in part at the 2009 American Academy of Dermatology
+   and Neck Surgery,b Surgery,c and Preventive Medicine,d          Annual Meeting, San Francisco, CA, March 8, 2009.
+   Feinberg School of Medicine, Northwestern University, Chi-   Accepted for publication August 30, 2009.
+   cago; and Loyola University, Stritch School of Medicine,e    Reprint requests: Murad Alam, MD, MSCI, Department of
+   Maywood.                                                        Dermatology, Northwestern University, 676 N St Clair, Suite
+Conflicts of interest: None declared.                              1600, Chicago, IL 60611. E-mail: m-alam@northwestern.edu.
+Supported by Departmental Research Funds, Department of         Published online May 12, 2010.
+   Dermatology, Northwestern University.                        0190-9622/$36.00
+ClinicalTrials.gov Identifier NCT00793169                       ª 2009 by the American Academy of Dermatology, Inc.
+                                                                doi:10.1016/j.jaad.2009.08.046
+
+
+                                                                                                                          87
+
+===== [PDF page 2 of 6] =====
+88 Alam et al
+
+J AM ACAD DERMATOL
+JULY 2010
+
+performed without reported adverse events associlevels were sustained over time. Serum lidocaine
+ated with lidocaine toxicity. However, there is a
+levels were assessed at multiple time points in
+dearth of studies assessing the intraoperative blood
+subjects undergoing Mohs micrographic surgery
+lidocaine levels during Mohs micrographic surgery.
+for nonmelanoma skin cancer of the head and
+As the half-life of lidocaine when injected locally
+neck. Peak plasma lidocaine levels, the primary
+is 120 minutes (with normal liver function),1 large
+outcome measure, were compared with accepted
+volume intralesional injections carry the potential
+thresholds for lidocaine toxicity. Secondary outcome
+risk of lidocaine toxicity. As
+measures included subjecserum lidocaine levels aptive and objective assessment
+CAPSULE SUMMARY
+proach 3 g/mL, patients
+of the signs and symptoms
+may begin to experience
+of lidocaine toxicity. This
+Injection of moderate to large volumes
+nonspecific subjective sympstudy was approved by
+of dilute lidocaine solution (1%
+toms such as feeling lightthe Northwestern University
+lidocaine) for anesthesia and hemostasis
+headed, dizzy, and drowsy.
+Institutional Review Board
+during facial cancer and reconstructive
+The threshold for objective
+and the Robert H. Lurie
+surgery appears to be safe.
+signs of lidocaine toxicity is 5
+Comprehensive
+Cancer
+Symptoms or signs of lidocaine toxicity
+g/mL, at which point musCenter at Northwestern
+are not observed and serum levels
+cular fasciculations, tinnitus,
+University.
+All
+enrolled
+remain far below the 5-g/mL threshold
+and paresthesia are seen.2
+patients provided written inthat is associated with objective signs of
+Serum lidocaine concentraformed consent.
+lidocaine toxicity.
+tions exceeding 9 g/mL are
+associated with seizures,
+Setting and participants
+coma, respiratory arrest, and cardiac arrest.3,4
+The setting was the multisurgeon surgical unit of
+Many studies have been published documenting
+an urban university-based dermatology service.
+efficacy and safety of lidocaine for tumescent anesConsecutive patients aged 18 years and older prethesia for liposuction.5-7 Ostad et al8 showed that a
+senting to the university for Mohs micrographic
+level of 55 mg/kg is safe. However, appropriate
+surgery for removal of basal cell or cutaneous squaparameters for injectable Mohs micrographic surgery
+mous cell carcinoma of the head and neck were
+anesthesia may differ from those for tumescent
+eligible for enrollment if they were otherwise in
+anesthesia for at least two reasons. First, as docugood health and did not have lidocaine sensitivity,
+mented by Rubin et al,9 injections into the more
+bleeding disorders, pregnancy, or medical condivascular head and neck sites associated with Mohs
+tions that would impair hepatic blood flow required
+micrographic surgery results in faster systemic abfor lidocaine metabolism (congestive heart failure,
+sorption and higher peak concentrations than injecliver dysfunction, peripheral vascular disease). All
+tions at truncal sites. Unlike at truncal sites, where
+enrolled subjects provided written informed conpeak blood lidocaine levels were reached 12 hours
+sent. Subjects were consecutively enrolled in two
+after injection, head and neck injections induce peak
+groups of 10 patients each, 6 months apart in 2007
+lidocaine levels in 5 to 8 hours. Second, although
+and 2008, respectively. The 4 patients who declined
+tumescent anesthesia requires high quantities of
+to participate mentioned as the primary reason their
+dilute lidocaine (0.05%-0.1%), intralesional anesthereluctance to undergo the multiple blood draws
+sia during Mohs micrographic surgery uses lidocaine
+required as part of this study.
+which is 5 to 10 times as concentrated, and this may
+also lead to higher peak lidocaine levels.
+Interventions
+To our knowledge, no studies have documented
+Subjects were seen in the dermatology clinic the
+the safe dose of local anesthesia for Mohs microday of their Mohs micrographic procedure for nongraphic surgery.
+melanoma skin cancer. Screening and eligibility
+assessment was followed by obtaining informed
+METHODS
+consent from eligible and willing subjects. For each
+Design overview
+subject, age, height, weight, medical history, and
+This was a prospective cohort study with an
+current medications and allergies were recorded.
+objective outcome measure. The primary objective
+Each Mohs micrographic procedure was comof this study was to determine whether local injecmenced per routine protocol, with use of injectable
+tion of lidocaine used during Mohs micrographic
+lidocaine with epinephrine and bicarbonate for local
+surgery elevated serum lidocaine concentrations to a
+anesthesia. Five minutes before the first injection of
+toxic level, and secondarily, whether such toxic
+1% lidocaine with 1:200,000 epinephrine and 8.4%
+d
+
+d
+
+
+----- [PDF page 2 of 6: layout view of the same page] -----
+88 Alam et al                                                                                  J AM ACAD DERMATOL
+                                                                                                          JULY 2010
+
+
+
+performed without reported adverse events associ-            levels were sustained over time. Serum lidocaine
+ated with lidocaine toxicity. However, there is a            levels were assessed at multiple time points in
+dearth of studies assessing the intraoperative blood         subjects undergoing Mohs micrographic surgery
+lidocaine levels during Mohs micrographic surgery.           for nonmelanoma skin cancer of the head and
+   As the half-life of lidocaine when injected locally       neck. Peak plasma lidocaine levels, the primary
+is 120 minutes (with normal liver function),1 large          outcome measure, were compared with accepted
+volume intralesional injections carry the potential          thresholds for lidocaine toxicity. Secondary outcome
+risk of lidocaine toxicity. As                                                        measures included subjec-
+serum lidocaine levels ap-                                                            tive and objective assessment
+proach 3 g/mL, patients            CAPSULE SUMMARY                                   of the signs and symptoms
+may begin to experience                                                               of lidocaine toxicity. This
+                                   d  Injection of moderate to large volumes
+nonspecific subjective symp-                                                          study was approved by
+                                      of dilute lidocaine solution (1%
+toms such as feeling light-                                                           the Northwestern University
+                                      lidocaine) for anesthesia and hemostasis
+headed, dizzy, and drowsy.                                                            Institutional Review Board
+                                      during facial cancer and reconstructive
+The threshold for objective                                                           and the Robert H. Lurie
+                                      surgery appears to be safe.
+signs of lidocaine toxicity is 5                                                      Comprehensive          Cancer
+g/mL, at which point mus-         d  Symptoms or signs of lidocaine toxicity         Center at Northwestern
+cular fasciculations, tinnitus,       are not observed and serum levels               University.    All    enrolled
+and paresthesia are seen.2            remain far below the 5-g/mL threshold          patients provided written in-
+Serum lidocaine concentra-            that is associated with objective signs of      formed consent.
+tions exceeding 9 g/mL are           lidocaine toxicity.
+associated with seizures,                                                             Setting and participants
+coma, respiratory arrest, and cardiac arrest.3,4                 The setting was the multisurgeon surgical unit of
+   Many studies have been published documenting              an urban university-based dermatology service.
+efficacy and safety of lidocaine for tumescent anes-         Consecutive patients aged 18 years and older pre-
+thesia for liposuction.5-7 Ostad et al8 showed that a        senting to the university for Mohs micrographic
+level of 55 mg/kg is safe. However, appropriate              surgery for removal of basal cell or cutaneous squa-
+parameters for injectable Mohs micrographic surgery          mous cell carcinoma of the head and neck were
+anesthesia may differ from those for tumescent               eligible for enrollment if they were otherwise in
+anesthesia for at least two reasons. First, as docu-         good health and did not have lidocaine sensitivity,
+mented by Rubin et al,9 injections into the more             bleeding disorders, pregnancy, or medical condi-
+vascular head and neck sites associated with Mohs            tions that would impair hepatic blood flow required
+micrographic surgery results in faster systemic ab-          for lidocaine metabolism (congestive heart failure,
+sorption and higher peak concentrations than injec-          liver dysfunction, peripheral vascular disease). All
+tions at truncal sites. Unlike at truncal sites, where       enrolled subjects provided written informed con-
+peak blood lidocaine levels were reached 12 hours            sent. Subjects were consecutively enrolled in two
+after injection, head and neck injections induce peak        groups of 10 patients each, 6 months apart in 2007
+lidocaine levels in 5 to 8 hours. Second, although           and 2008, respectively. The 4 patients who declined
+tumescent anesthesia requires high quantities of             to participate mentioned as the primary reason their
+dilute lidocaine (0.05%-0.1%), intralesional anesthe-        reluctance to undergo the multiple blood draws
+sia during Mohs micrographic surgery uses lidocaine          required as part of this study.
+which is 5 to 10 times as concentrated, and this may
+also lead to higher peak lidocaine levels.                   Interventions
+   To our knowledge, no studies have documented                  Subjects were seen in the dermatology clinic the
+the safe dose of local anesthesia for Mohs micro-            day of their Mohs micrographic procedure for non-
+graphic surgery.                                             melanoma skin cancer. Screening and eligibility
+                                                             assessment was followed by obtaining informed
+METHODS                                                      consent from eligible and willing subjects. For each
+Design overview                                              subject, age, height, weight, medical history, and
+   This was a prospective cohort study with an               current medications and allergies were recorded.
+objective outcome measure. The primary objective                 Each Mohs micrographic procedure was com-
+of this study was to determine whether local injec-          menced per routine protocol, with use of injectable
+tion of lidocaine used during Mohs micrographic              lidocaine with epinephrine and bicarbonate for local
+surgery elevated serum lidocaine concentrations to a         anesthesia. Five minutes before the first injection of
+toxic level, and secondarily, whether such toxic             1% lidocaine with 1:200,000 epinephrine and 8.4%
+
+===== [PDF page 3 of 6] =====
+Alam et al 89
+
+J AM ACAD DERMATOL
+VOLUME 63, NUMBER 1
+
+sodium bicarbonate, 5 mL of blood was drawn from
+a previously placed intravenous line and sent in a
+labeled test tube to our reference chemistry laboratory for a serum lidocaine concentration measured
+via gas chromatography (first blood draw).
+Another 5 mL of blood was then drawn from the
+same line within 5 minutes after the first injection of
+lidocaine after removal of the first stage of the Mohs
+micrographic procedure (second blood draw). The
+third blood draw was taken before the second
+injection of lidocaine associated with the second
+stage of the Mohs micrographic procedure, and
+fourth blood draw was taken immediately after the
+removal of the second stage. The fifth blood draw
+was taken before closure of the wound if the second
+stage cleared the tumor, or before stage 3 of the
+procedure if clearance of the tumor did not occur by
+the second stage. The sixth blood draw was obtained
+immediately after closure of the wound or after stage
+3. If the Mohs micrographic procedure required only
+a single stage, fifth and sixth blood draws were
+omitted.
+After completion of the blood draws, the intravenous line was carefully removed and discarded.
+To assess lidocaine levels over time, blood draws
+were collected over a maximum of 8 hours. Patients
+were queried by investigator-administered questionnaire regarding any subjectively noted symptoms (dizziness, drowsiness, or lightheadedness;
+muscle twitching, ringing of the ears, blurred or
+double vision, or numbness/tingling in places not
+around the injection site; sensations of warmth or
+cold; and chest pain or back pain) associated with
+early lidocaine toxicity. Investigators assessed any
+signs of lidocaine toxicity by serial physical
+examination during the course of the surgery.
+Specifically, patients were monitored for slow or
+shallow breathing (signs of respiratory depression);
+drowsiness or dizziness (associated with bradycardia and hypotension); nervousness, euphoria, confusion, tremors, and twitching (signs of central
+nervous system manifestations, which can be excitatory and/or depressant); and seizures or loss of
+consciousness (indications of severe neurologic
+and/or circulatory impairment).
+
+Outcomes and follow-up
+As this study had a single screening and intervention visit, there was no follow-up beyond the 6 hours
+of the study procedure. The primary outcome measure was peak lidocaine level per subject, as detected
+by the series of 6 blood draws. The secondary
+outcome measure was subjective (patient self-report
+via investigator-administered questionnaire) or
+
+objective (investigator detected) assessment of signs
+and symptoms of lidocaine toxicity.
+Statistical analysis
+The primary objective of this study was to determine whether local injection of lidocaine used during Mohs micrographic surgery will elevate serum
+lidocaine concentrations to a level that could cause
+systemic symptoms. This was assessed by descriptive
+statistics, with counting of the number of enrolled
+patients exhibiting levels higher than the threshold
+for toxicity. Because the aim was to detect sustained
+elevated lidocaine levels, such an adverse outcome
+was defined as 3 or more toxic lidocaine levels out of
+the 6 measured (either contiguous or sporadic) for
+any specific subject. With 20 patients, this study
+provided a 95% chance of detecting lidocaine toxicity if the underlying true rate of toxicity in this
+population were 12% or greater.
+In addition, subjects were subdivided into two
+categories, those with all lidocaine levels undetectable (\0.1 g/mL), and those with at least one level
+that was detectable ([0.1 g/mL). For the two
+groups, the median (rank sum test) and mean (t
+test) total lidocaine doses per subject were compared, as were the mean (t test) ages of subjects in
+the two groups.
+
+RESULTS
+Two groups of 10 patients were enrolled consecutively 6 months apart in 2007 and 2008, respectively (Table I). The gap of 6 months was designed
+to minimize seasonal or other similarity between
+presenting subjects. The 4 patients who declined to
+participate mentioned as the primary reason their
+reluctance to undergo the multiple blood draws
+required as part of this study. One patient who
+consented and was enrolled declined blood draws
+after the first draw and was excluded from further
+analysis. Complete data were obtained for 19
+(12 male) subjects with mean age of 60 years (range:
+42-96).
+Lidocaine was injected 3 times for each patient.
+The first injection was performed at a median of 5
+minutes (range: 3-25 minutes) after the initial blood
+draw; the second injection at 98 minutes (52-142
+minutes); and the third at 222 minutes (135-356
+minutes). Mean lidocaine dose per injection was
+3 mL (range: 1-30 mL).
+The highest lidocaine level detected at any time
+point for any subject was 0.3 g/mL. Because no
+toxic levels were detected, the statistical test
+designed to detect sustained high lidocaine levels
+was not performed. The greatest number of patients
+with a detectable lidocaine level was at the sixth
+
+
+----- [PDF page 3 of 6: layout view of the same page] -----
+J AM ACAD DERMATOL                                                                              Alam et al 89
+VOLUME 63, NUMBER 1
+
+
+
+sodium bicarbonate, 5 mL of blood was drawn from          objective (investigator detected) assessment of signs
+a previously placed intravenous line and sent in a        and symptoms of lidocaine toxicity.
+labeled test tube to our reference chemistry labora-
+tory for a serum lidocaine concentration measured         Statistical analysis
+via gas chromatography (first blood draw).                   The primary objective of this study was to deter-
+    Another 5 mL of blood was then drawn from the         mine whether local injection of lidocaine used dur-
+same line within 5 minutes after the first injection of   ing Mohs micrographic surgery will elevate serum
+lidocaine after removal of the first stage of the Mohs    lidocaine concentrations to a level that could cause
+micrographic procedure (second blood draw). The           systemic symptoms. This was assessed by descriptive
+third blood draw was taken before the second              statistics, with counting of the number of enrolled
+injection of lidocaine associated with the second         patients exhibiting levels higher than the threshold
+stage of the Mohs micrographic procedure, and             for toxicity. Because the aim was to detect sustained
+fourth blood draw was taken immediately after the         elevated lidocaine levels, such an adverse outcome
+removal of the second stage. The fifth blood draw         was defined as 3 or more toxic lidocaine levels out of
+was taken before closure of the wound if the second       the 6 measured (either contiguous or sporadic) for
+stage cleared the tumor, or before stage 3 of the         any specific subject. With 20 patients, this study
+procedure if clearance of the tumor did not occur by      provided a 95% chance of detecting lidocaine toxic-
+the second stage. The sixth blood draw was obtained       ity if the underlying true rate of toxicity in this
+immediately after closure of the wound or after stage     population were 12% or greater.
+3. If the Mohs micrographic procedure required only          In addition, subjects were subdivided into two
+a single stage, fifth and sixth blood draws were          categories, those with all lidocaine levels undetect-
+omitted.                                                  able (\0.1 g/mL), and those with at least one level
+    After completion of the blood draws, the intra-       that was detectable ([0.1 g/mL). For the two
+venous line was carefully removed and discarded.          groups, the median (rank sum test) and mean (t
+To assess lidocaine levels over time, blood draws         test) total lidocaine doses per subject were com-
+were collected over a maximum of 8 hours. Patients        pared, as were the mean (t test) ages of subjects in
+were queried by investigator-administered ques-           the two groups.
+tionnaire regarding any subjectively noted symp-
+toms (dizziness, drowsiness, or lightheadedness;          RESULTS
+muscle twitching, ringing of the ears, blurred or            Two groups of 10 patients were enrolled con-
+double vision, or numbness/tingling in places not         secutively 6 months apart in 2007 and 2008, respec-
+around the injection site; sensations of warmth or        tively (Table I). The gap of 6 months was designed
+cold; and chest pain or back pain) associated with        to minimize seasonal or other similarity between
+early lidocaine toxicity. Investigators assessed any      presenting subjects. The 4 patients who declined to
+signs of lidocaine toxicity by serial physical            participate mentioned as the primary reason their
+examination during the course of the surgery.             reluctance to undergo the multiple blood draws
+Specifically, patients were monitored for slow or         required as part of this study. One patient who
+shallow breathing (signs of respiratory depression);      consented and was enrolled declined blood draws
+drowsiness or dizziness (associated with bradycar-        after the first draw and was excluded from further
+dia and hypotension); nervousness, euphoria, con-         analysis. Complete data were obtained for 19
+fusion, tremors, and twitching (signs of central          (12 male) subjects with mean age of 60 years (range:
+nervous system manifestations, which can be excit-        42-96).
+atory and/or depressant); and seizures or loss of            Lidocaine was injected 3 times for each patient.
+consciousness (indications of severe neurologic           The first injection was performed at a median of 5
+and/or circulatory impairment).                           minutes (range: 3-25 minutes) after the initial blood
+                                                          draw; the second injection at 98 minutes (52-142
+                                                          minutes); and the third at 222 minutes (135-356
+Outcomes and follow-up                                    minutes). Mean lidocaine dose per injection was
+   As this study had a single screening and interven-     3 mL (range: 1-30 mL).
+tion visit, there was no follow-up beyond the 6 hours        The highest lidocaine level detected at any time
+of the study procedure. The primary outcome mea-          point for any subject was 0.3 g/mL. Because no
+sure was peak lidocaine level per subject, as detected    toxic levels were detected, the statistical test
+by the series of 6 blood draws. The secondary             designed to detect sustained high lidocaine levels
+outcome measure was subjective (patient self-report       was not performed. The greatest number of patients
+via investigator-administered questionnaire) or           with a detectable lidocaine level was at the sixth
+
+===== [PDF page 4 of 6] =====
+90 Alam et al
+
+J AM ACAD DERMATOL
+JULY 2010
+
+Table I. Demographics and lidocaine histories for subjects in group 1 (September 2007) and group 2 (March
+2008)
+Group
+
+Subject
+
+Age, y
+
+Gender
+
+Weight, lb
+
+Total volume
+of 1.0% lidocaine, mL
+
+Time of last
+blood draw, min
+
+Time of peak
+serum level, min
+
+Peak serum
+level, g/mL
+
+1
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+80
+56
+42
+54
+69
+53
+54
+60
+78
+69
+77
+42
+57
+67
+75
+67
+51
+45
+96
+
+M
+M
+F
+M
+M
+F
+M
+M
+M
+M
+M
+F
+M
+M
+F
+M
+F
+F
+F
+
+225
+160
+110
+220
+230
+160
+165
+190
+153
+170
+142
+225
+185
+250
+133
+158
+129
+154
+170
+
+31.5
+33
+13
+12
+48
+8
+5
+18
+10.5
+12
+10.5
+7
+8.5
+12.25
+8.5
+15
+6.5
+12
+9
+
+368
+320
+254
+363
+468
+295
+328
+245
+345
+210
+207
+249
+257
+214
+164
+229
+157
+213
+142
+
+368
+320
+468
+245
+345
+-
+
+0.2
+0.2
+\0.1
+\0.1
+0.3
+\0.1
+\0.1
+0.3
+0.3
+\0.1
+\0.1
+\0.1
+\0.1
+\0.1
+\0.1
+\0.1
+\0.1
+\0.1
+\0.1
+
+2
+
+F, Female; M, male.
+
+Fig 1. Number of subjects with detectable serum lidocaine concentrations (\0.1 g/mL) at each blood draw.
+
+blood draw (5 patients) (Fig 1). Median levels at each
+blood draw were 0.1 g/mL; peak (maximum) levels
+were highest at fourth, fifth, and sixth blood draws,
+when they were 0.3 g/mL (Fig 2).
+When the subjects were divided into two groups,
+5 with undetectable lidocaine levels at all time
+points, and 14 with at least one detectable level,
+detectable lidocaine levels were found to be associated with higher mean (P = .028) and median (P =
+.008) total lidocaine doses. There was no difference
+in age between the two groups (P = .30).
+Two subjects reported symptoms. A 56-year-old
+man reported a headache after the first Mohs micrographic surgery stage. A 42-year-old woman reported
+
+Fig 2. Maximal peak serum lidocaine concentrations at
+each blood draw.
+
+feeling shaky after the first Mohs micrographic surgery stage.
+
+DISCUSSION
+This study did not detect measured toxic lidocaine
+levels during Mohs micrographic surgery for nonmelanoma skin cancer of the head and neck. The
+
+
+----- [PDF page 4 of 6: layout view of the same page] -----
+90 Alam et al                                                                                         J AM ACAD DERMATOL
+                                                                                                                   JULY 2010
+
+
+
+Table I. Demographics and lidocaine histories for subjects in group 1 (September 2007) and group 2 (March
+2008)
+                                                          Total volume         Time of last      Time of peak      Peak serum
+Group     Subject     Age, y   Gender   Weight, lb   of 1.0% lidocaine, mL   blood draw, min   serum level, min   level, g/mL
+  1          1         80        M        225               31.5                  368                368              0.2
+             2         56        M        160               33                    320                320              0.2
+             3         42        F        110               13                    254                 -              \0.1
+             4         54        M        220               12                    363                 -              \0.1
+             5         69        M        230               48                    468                468              0.3
+             6         53        F        160                8                    295                 -              \0.1
+             7         54        M        165                5                    328                 -              \0.1
+             8         60        M        190               18                    245                245              0.3
+             9         78        M        153               10.5                  345                345              0.3
+  2          1         69        M        170               12                    210                 -              \0.1
+             2         77        M        142               10.5                  207                 -              \0.1
+             3         42        F        225                7                    249                 -              \0.1
+             4         57        M        185                8.5                  257                 -              \0.1
+             5         67        M        250               12.25                 214                 -              \0.1
+             6         75        F        133                8.5                  164                 -              \0.1
+             7         67        M        158               15                    229                 -              \0.1
+             8         51        F        129                6.5                  157                 -              \0.1
+             9         45        F        154               12                    213                 -              \0.1
+            10         96        F        170                9                    142                 -              \0.1
+
+F, Female; M, male.
+
+
+
+
+Fig 1. Number of subjects with detectable serum lido-
+caine concentrations (\0.1 g/mL) at each blood draw.
+
+blood draw (5 patients) (Fig 1). Median levels at each
+blood draw were 0.1 g/mL; peak (maximum) levels
+were highest at fourth, fifth, and sixth blood draws,
+when they were 0.3 g/mL (Fig 2).
+   When the subjects were divided into two groups,                  Fig 2. Maximal peak serum lidocaine concentrations at
+5 with undetectable lidocaine levels at all time                    each blood draw.
+points, and 14 with at least one detectable level,
+detectable lidocaine levels were found to be associ-                feeling shaky after the first Mohs micrographic sur-
+ated with higher mean (P = .028) and median (P =                    gery stage.
+.008) total lidocaine doses. There was no difference
+in age between the two groups (P = .30).                            DISCUSSION
+   Two subjects reported symptoms. A 56-year-old                       This study did not detect measured toxic lidocaine
+man reported a headache after the first Mohs micro-                 levels during Mohs micrographic surgery for non-
+graphic surgery stage. A 42-year-old woman reported                 melanoma skin cancer of the head and neck. The
+
+===== [PDF page 5 of 6] =====
+J AM ACAD DERMATOL
+
+Alam et al 91
+
+VOLUME 63, NUMBER 1
+
+hypothesis that systemic absorption of lidocaine
+from the head and neck is more efficient than that
+from the trunk, and therefore potentially more likely
+to create harmfully high peak lidocaine levels, was
+thus not supported. Similarly, it did not appear that
+the higher concentration of Mohs micrographic surgery anesthesia compared with tumescent anesthesia predisposed patients to higher or more rapidly
+elevated peak lidocaine levels.
+Investigators did not note any symptoms or signs
+of lidocaine toxicity in any of the subjects. The two
+subjects reporting ‘‘headache’’ and ‘‘feeling shaky,’’
+respectively, did so after the first stage of Mohs
+micrographic surgery, when this was more likely
+associated with epinephrine-induced tachycardia
+than lidocaine effect; even at their sixth and final
+blood draw, neither of these subjects had lidocaine
+levels above the 0.1-g/mL level.
+Significantly, this study specifically obtained serial
+lidocaine levels over a span of up to 8 hours
+(maximum 7.8 hours, mean 4.4 hours). Although
+the precise blood collection times varied because of
+the constraints of Mohs micrographic surgery, this
+overall target permitted assessment of lidocaine
+levels at the 5.8-hour point that Rubin et al9 reported
+being associated with peak levels when injections
+are above the level of the clavicles.
+Surprisingly, even high-volume total doses of as
+much as 48 mL of 1% lidocaine with epinephrine and
+bicarbonate were associated with lidocaine levels of
+no more than 0.3 g/mL, a tenth the level associated
+with the earliest and mildest symptoms of lidocaine
+toxicity. For the sake of comparison, the quantity of
+lidocaine in 50 mL of 1% lidocaine is comparable
+with that in the volume of tumescent fluid found by
+Ostad et al8 to be safe during body liposuction in an
+average-sized (70 kg) adult. Based on our data, it
+appears that significantly more than 50 mL of 1%
+lidocaine can be used safely in Mohs micrographic
+surgery performed over several hours.
+There were some limitations in the study data.
+First, serum rather than plasma lidocaine levels were
+measured. Depending on the substance for which a
+blood level is being measured, serum and plasma
+levels may be similar, serum levels may be higher, or
+plasma levels may be higher. For lidocaine levels,
+plasma and serum levels are similar, and serum levels
+are more routinely reported by reference laboratories. Hence our selection of serum levels for this
+study.
+Our results showed a peak serum level 10 to
+30 times below the plasma toxicity threshold and
+this huge difference is highly unlikely to be
+accounted for by minor differences in measurement technique.
+
+Another limitation is that blood was not drawn
+from subjects many hours after their final lidocaine
+injection as this was impractical and not in patients’
+best medical interest. It is thus theoretically possible
+that lidocaine levels would have continued to
+increase for some time after the last blood draw
+before peaking. However, it is also likely the contribution of the initial lidocaine injections would start to
+wane as the contribution of the final injections would
+increase.
+This study does add to the information currently
+provided by the Food and Drug Administration
+(FDA) regarding clinical use of lidocaine.
+According to the package insert,10 during epidural
+anesthesia, peripheral nerve block, and local infiltration, the recommended maximum dosage of
+lidocaine hydrochloride and epinephrine injection,
+United States Pharmacopeia, should not exceed
+7 mg/kg (3.5 mg/lb) of body weight, and in general
+it is recommended that the maximum total dose
+should not exceed 500 mg. These FDA recommendations apply to total dose regardless of route of
+administration. There are also less stringent recommendations that serve only as a guide: among these
+are the suggestion that percutaneous infiltration be
+limited to 1 to 60 mL of 0.5% to 1% lidocaine, with a
+total dose of 300 mg. Very significantly, the total dose
+recommendations appear to apply only to the dose
+delivered at one point in time. Thus, it is noted that
+the half-life of lidocaine during epidural use is 1.5 to
+2 hours, and it is therefore deemed allowable to
+re-dose at this site after 90 minutes. Similar considerations presumably apply to intradermal, subcutaneous, and percutaneous injections, but specific time
+intervals for re-dosing are not given for these. Our
+study provides further information about the interval
+dosing of lidocaine at head and neck sites, and
+shows that, as in the case of epidural anesthesia, redosing can be safely performed when doses infiltrated at any one time point do not exceed a
+threshold amount. It is noteworthy that 3 of our 20
+patients received total doses in excess of the 300 mg
+that FDA recommends for skin infiltration, but as
+these total doses were delivered over a span of many
+hours, no adverse events occurred.
+Overall, the results of this study suggest that
+moderate-volume, repeated injections of 1% lidocaine during Mohs micrographic surgery of the head
+and neck are safe. Although this study does not
+provide information regarding a safe maximum total
+dose, it strongly suggests that at least 50 mL of 1%
+lidocaine and likely much more can be used in the
+staged Mohs micrographic procedure without any
+adverse signs or symptoms, and with barely detectable systemic serum lidocaine levels.
+
+
+----- [PDF page 5 of 6: layout view of the same page] -----
+J AM ACAD DERMATOL                                                                                  Alam et al 91
+VOLUME 63, NUMBER 1
+
+
+
+hypothesis that systemic absorption of lidocaine                Another limitation is that blood was not drawn
+from the head and neck is more efficient than that          from subjects many hours after their final lidocaine
+from the trunk, and therefore potentially more likely       injection as this was impractical and not in patients’
+to create harmfully high peak lidocaine levels, was         best medical interest. It is thus theoretically possible
+thus not supported. Similarly, it did not appear that       that lidocaine levels would have continued to
+the higher concentration of Mohs micrographic sur-          increase for some time after the last blood draw
+gery anesthesia compared with tumescent anesthe-            before peaking. However, it is also likely the contri-
+sia predisposed patients to higher or more rapidly          bution of the initial lidocaine injections would start to
+elevated peak lidocaine levels.                             wane as the contribution of the final injections would
+   Investigators did not note any symptoms or signs         increase.
+of lidocaine toxicity in any of the subjects. The two           This study does add to the information currently
+subjects reporting ‘‘headache’’ and ‘‘feeling shaky,’’      provided by the Food and Drug Administration
+respectively, did so after the first stage of Mohs          (FDA) regarding clinical use of lidocaine.
+micrographic surgery, when this was more likely             According to the package insert,10 during epidural
+associated with epinephrine-induced tachycardia             anesthesia, peripheral nerve block, and local infil-
+than lidocaine effect; even at their sixth and final        tration, the recommended maximum dosage of
+blood draw, neither of these subjects had lidocaine         lidocaine hydrochloride and epinephrine injection,
+levels above the 0.1-g/mL level.                           United States Pharmacopeia, should not exceed
+   Significantly, this study specifically obtained serial   7 mg/kg (3.5 mg/lb) of body weight, and in general
+lidocaine levels over a span of up to 8 hours               it is recommended that the maximum total dose
+(maximum 7.8 hours, mean 4.4 hours). Although               should not exceed 500 mg. These FDA recommen-
+the precise blood collection times varied because of        dations apply to total dose regardless of route of
+the constraints of Mohs micrographic surgery, this          administration. There are also less stringent recom-
+overall target permitted assessment of lidocaine            mendations that serve only as a guide: among these
+levels at the 5.8-hour point that Rubin et al9 reported     are the suggestion that percutaneous infiltration be
+being associated with peak levels when injections           limited to 1 to 60 mL of 0.5% to 1% lidocaine, with a
+are above the level of the clavicles.                       total dose of 300 mg. Very significantly, the total dose
+   Surprisingly, even high-volume total doses of as         recommendations appear to apply only to the dose
+much as 48 mL of 1% lidocaine with epinephrine and          delivered at one point in time. Thus, it is noted that
+bicarbonate were associated with lidocaine levels of        the half-life of lidocaine during epidural use is 1.5 to
+no more than 0.3 g/mL, a tenth the level associated        2 hours, and it is therefore deemed allowable to
+with the earliest and mildest symptoms of lidocaine         re-dose at this site after 90 minutes. Similar consid-
+toxicity. For the sake of comparison, the quantity of       erations presumably apply to intradermal, subcuta-
+lidocaine in 50 mL of 1% lidocaine is comparable            neous, and percutaneous injections, but specific time
+with that in the volume of tumescent fluid found by         intervals for re-dosing are not given for these. Our
+Ostad et al8 to be safe during body liposuction in an       study provides further information about the interval
+average-sized (70 kg) adult. Based on our data, it          dosing of lidocaine at head and neck sites, and
+appears that significantly more than 50 mL of 1%            shows that, as in the case of epidural anesthesia, re-
+lidocaine can be used safely in Mohs micrographic           dosing can be safely performed when doses infil-
+surgery performed over several hours.                       trated at any one time point do not exceed a
+   There were some limitations in the study data.           threshold amount. It is noteworthy that 3 of our 20
+First, serum rather than plasma lidocaine levels were       patients received total doses in excess of the 300 mg
+measured. Depending on the substance for which a            that FDA recommends for skin infiltration, but as
+blood level is being measured, serum and plasma             these total doses were delivered over a span of many
+levels may be similar, serum levels may be higher, or       hours, no adverse events occurred.
+plasma levels may be higher. For lidocaine levels,              Overall, the results of this study suggest that
+plasma and serum levels are similar, and serum levels       moderate-volume, repeated injections of 1% lido-
+are more routinely reported by reference laborato-          caine during Mohs micrographic surgery of the head
+ries. Hence our selection of serum levels for this          and neck are safe. Although this study does not
+study.                                                      provide information regarding a safe maximum total
+   Our results showed a peak serum level 10 to              dose, it strongly suggests that at least 50 mL of 1%
+30 times below the plasma toxicity threshold and            lidocaine and likely much more can be used in the
+this huge difference is highly unlikely to be               staged Mohs micrographic procedure without any
+accounted for by minor differences in measure-              adverse signs or symptoms, and with barely detect-
+ment technique.                                             able systemic serum lidocaine levels.
+
+===== [PDF page 6 of 6] =====
+92 Alam et al
+
+J AM ACAD DERMATOL
+JULY 2010
+
+REFERENCES
+1. Thomson PD, Melmon KL, Richardson JA, Cohn K, Steinbrunn W,
+Cudihee R, et al. Lidocaine pharmacokinetics in advanced heart
+failure, liver disease, and renal failure in humans. Ann Intern
+Med 1973;78:499-508.
+2. Butterwick KJ, Goldman MP, Sriprachya-Anunt S. Lidocaine
+levels during the first two hours of infiltration of dilute
+anesthetic solution for tumescent liposuction: rapid versus
+slow delivery. Dermatol Surg 1999;25:681-90.
+3. Becker DE, Reed KL. Essentials of local anesthetic pharmacology. Anesth Prog 2006;53:98-109.
+4. Foldes FF, Molloy R, McNall PG, Koukal LR. Comparison of
+toxicity of intravenously given local anesthesia agents in man.
+JAMA 1960;172:1493-8.
+
+5. Hanke CW, Bernstein G, Bullock S. Safety of tumescent
+liposuction in 15,336 patients. Dermatol Surg 1995;21:459-62.
+6. Klein JA, Kassarjdian NA. Lidocaine toxicity with tumescent
+liposuction. Dermatol Surg 1997;23:1169-74.
+7. Lillis PJ. The tumescent technique for liposuction surgery.
+Dermatol Clin 1990;8:439.
+8. Ostad A, Kageyama N, Moy RL. Tumescent anesthesia with a
+lidocaine dose of 55 mg/kg is safe for liposuction. Dermatol
+Surg 1996;22:921-7.
+9. Rubin JP, Xie Z, Davidson C, Rosow CE, Chang Y, Maw JW Jr. Rapid
+absorption of tumescent lidocaine above the clavicles: a prospective clinical study. Plast Reconstr Surg 2005;115:1744-51.
+10. Lidocaine hydrochloride and epinephrine injection, USP (for
+infiltration and nerve block) [package insert]. 2008. Lake
+Forest, IL: Hospira, Inc.
+
+
+----- [PDF page 6 of 6: layout view of the same page] -----
+92 Alam et al                                                                                                   J AM ACAD DERMATOL
+                                                                                                                              JULY 2010
+
+
+
+REFERENCES                                                             5. Hanke CW, Bernstein G, Bullock S. Safety of tumescent
+ 1. Thomson PD, Melmon KL, Richardson JA, Cohn K, Steinbrunn W,           liposuction in 15,336 patients. Dermatol Surg 1995;21:459-62.
+    Cudihee R, et al. Lidocaine pharmacokinetics in advanced heart     6. Klein JA, Kassarjdian NA. Lidocaine toxicity with tumescent
+    failure, liver disease, and renal failure in humans. Ann Intern       liposuction. Dermatol Surg 1997;23:1169-74.
+    Med 1973;78:499-508.                                               7. Lillis PJ. The tumescent technique for liposuction surgery.
+ 2. Butterwick KJ, Goldman MP, Sriprachya-Anunt S. Lidocaine              Dermatol Clin 1990;8:439.
+    levels during the first two hours of infiltration of dilute        8. Ostad A, Kageyama N, Moy RL. Tumescent anesthesia with a
+    anesthetic solution for tumescent liposuction: rapid versus           lidocaine dose of 55 mg/kg is safe for liposuction. Dermatol
+    slow delivery. Dermatol Surg 1999;25:681-90.                          Surg 1996;22:921-7.
+ 3. Becker DE, Reed KL. Essentials of local anesthetic pharma-         9. Rubin JP, Xie Z, Davidson C, Rosow CE, Chang Y, Maw JW Jr. Rapid
+    cology. Anesth Prog 2006;53:98-109.                                   absorption of tumescent lidocaine above the clavicles: a pro-
+ 4. Foldes FF, Molloy R, McNall PG, Koukal LR. Comparison of              spective clinical study. Plast Reconstr Surg 2005;115:1744-51.
+    toxicity of intravenously given local anesthesia agents in man.   10. Lidocaine hydrochloride and epinephrine injection, USP (for
+    JAMA 1960;172:1493-8.                                                 infiltration and nerve block) [package insert]. 2008. Lake
+                                                                          Forest, IL: Hospira, Inc.
+

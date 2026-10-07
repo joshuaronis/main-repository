@@ -1,0 +1,514 @@
+SOURCE FILE: S-686-07 - Effendy 2015 - Plasma concentrations and analgesic efficacy of lidocaine and prilocaine in leg ulcer-related pain during daily app.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 3] =====
+Research letter
+
+Plasma concentrations and analgesic efficacy
+of lidocaine and prilocaine in leg ulcer-related
+pain during daily application of lidocaine–
+prilocaine cream (EMLATM) for 10 days
+DOI: 10.1111/bjd.13605
+Chronic moderate or severe ulcer pain reported in 37–75% of
+patients is associated with anxiety, depression and deleterious
+effects on quality of life.1–3
+Eutectic mixture of lidocaine and prilocaine (EMLATM; AstraZeneca UK Ltd, Luton, U.K.) cream significantly reduces the
+pain of sharp debridement and the occurrence of postdebridement pain.4–9 A single dose of 5–10 g repeated 1–3 times
+weekly for up to 15 doses results in plasma concentrations of
+lidocaine and prilocaine well below the threshold for signs of
+central nervous system toxicity (5000–6000 ng mL 1).5,10
+However, concentrations of the local anaesthetics have not
+been assessed after daily repeated application of the maximum
+recommended dose (10 g) over several days.
+We report a study designed to determine the plasma concentrations of lidocaine and prilocaine during repeated daily
+application, for 10 days, of 10 g EMLA to leg ulcers, and to
+evaluate the analgesic effect on chronic ulcer pain.
+This open study, conducted at five departments of dermatology in Germany, was approved by the relevant local ethics
+committees. Patients gave written informed consent prior to
+participation. The protocol was submitted to the German
+Federal Institute for Medicines and Medical Devices, Bonn,
+Germany.
+The toxicity of lidocaine and prilocaine is assumed to be
+additive. The study was designed to determine a 95% confidence interval (CI) for the 90th percentile (P90) of the added
+peak plasma concentrations of lidocaine and prilocaine, assuming a normal distribution. A one-sided (upper) confidence
+limit was used, with the objective of confirming that plasma
+concentrations are unlikely to approach toxic levels. In order
+to estimate the P90 of the maximum plasma concentration
+(Cmax) with a power of 90% and a probability that ≥ 99% of
+the Cmax values would fall below the upper confidence bound
+(P = 099),11 24 patients were required.
+Patients requiring debridement had a leg ulcer for at least
+6 weeks, with an ulcer surface area of at least 50 cm2, and
+were scheduled for at least 10 days of inpatient treatment,
+including sharp ulcer debridement. Patients not requiring
+debridement instead experienced moderate or severe chronic
+ulcer pain.
+
+The ulcer was rinsed with saline, after which 10 g EMLA
+cream, 25 mg + 25 mg g 1, was, for 10 days, applied in a
+thick layer daily and the ulcer covered with cling film. In
+patients with ulcers > 125 cm2, part of the ulcer measuring
+125 cm2 was marked so that only this area was covered with
+EMLA cream. The adjacent parts of the ulcer were covered
+with a protective dressing, for example zinc oxide soft paste.
+After 1 h, any remaining cream was wiped away and sharp
+debridement by a disposable curette (Stiefel, Research Triangle
+Park, NC, U.S.A.) performed for the first 5 days and, when
+indicated for achieving a clean ulcer, for up to 10 days. A
+clean ulcer was defined as a surface without black necroses,
+slough or fibrinous plaques. Between treatments a hydrocolloid ulcer dressing (Comfeel:plusTM; Coloplast, Humlebaek,
+Denmark) or a soft silicone dressing (MepilexTM; M€
+olnlycke
+Health Care, Gothenburg, Sweden) was applied. Compression
+bandages were generally applied on venous ulcers.
+By projecting its outline onto transparent film of known
+weight and calculating the ulcer area, the size of the ulcer was
+measured on days 1 and 10. Patients were asked standard
+questions each day before the application of EMLA. The first
+question was ‘Please rate the current intensity of the pain from
+your ulcer using the pain ruler’. The visual analogue scale
+(VAS) ruler with a slider (Flinders Medical Centre, Bedford
+Park, Australia) displayed a 100-mm horizontal ungraded line
+anchored by the words ‘no pain’ and ‘worst pain imaginable’.12
+Blood samples (5 mL) were drawn from an antecubital vein
+immediately prior to application of cream, and also 30, 60,
+80, 100, 120, 140, 160, 180 and 240 min after the start of
+application of the first dose (day 1) and the last dose (day
+10), and immediately before the start of application of EMLA
+on days 2, 4, 6 and 8.
+Lidocaine and prilocaine were determined by reversedphase liquid chromatography–tandem mass spectrometry with
+electrospray ionization in human plasma and ultrafiltration
+of acidified plasma. The limit of quantification was
+049 ng mL 1 for lidocaine and 044 ng mL 1 for prilocaine.
+The upper limit of the 95% CI for the P90 was calculated
+for the sum of lidocaine and prilocaine concentrations.11 In
+addition, the covariation between age, ulcer area, ulcer type
+and treatment day, and Cmax values was evaluated by regression and correlation analysis. Two-sided 95% CIs for the mean
+differences between days 10 and 1 were also calculated for
+Cmax.
+The analysis of development over time of chronic ulcer pain
+included patients with moderate or severe pain on enrolment.
+
+© 2014 The Authors British Journal of Dermatology
+British Journal of Dermatology (2015) 173, pp259–261
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+
+259
+
+
+----- [PDF page 1 of 3: layout view of the same page] -----
+Research letter
+
+
+
+Plasma concentrations and analgesic efficacy                                The ulcer was rinsed with saline, after which 10 g EMLA
+of lidocaine and prilocaine in leg ulcer-related                         cream, 25 mg + 25 mg g 1, was, for 10 days, applied in a
+pain during daily application of lidocaine–                              thick layer daily and the ulcer covered with cling film. In
+prilocaine cream (EMLATM) for 10 days                                    patients with ulcers > 125 cm2, part of the ulcer measuring
+                                                                         125 cm2 was marked so that only this area was covered with
+DOI: 10.1111/bjd.13605                                                   EMLA cream. The adjacent parts of the ulcer were covered
+                                                                         with a protective dressing, for example zinc oxide soft paste.
+Chronic moderate or severe ulcer pain reported in 37–75% of                 After 1 h, any remaining cream was wiped away and sharp
+patients is associated with anxiety, depression and deleterious          debridement by a disposable curette (Stiefel, Research Triangle
+effects on quality of life.1–3                                           Park, NC, U.S.A.) performed for the first 5 days and, when
+   Eutectic mixture of lidocaine and prilocaine (EMLATM; Astra-          indicated for achieving a clean ulcer, for up to 10 days. A
+Zeneca UK Ltd, Luton, U.K.) cream significantly reduces the              clean ulcer was defined as a surface without black necroses,
+pain of sharp debridement and the occurrence of postdebride-             slough or fibrinous plaques. Between treatments a hydrocol-
+ment pain.4–9 A single dose of 5–10 g repeated 1–3 times                 loid ulcer dressing (Comfeel:plusTM; Coloplast, Humlebaek,
+weekly for up to 15 doses results in plasma concentrations of            Denmark) or a soft silicone dressing (MepilexTM; M€     olnlycke
+lidocaine and prilocaine well below the threshold for signs of           Health Care, Gothenburg, Sweden) was applied. Compression
+central nervous system toxicity (5000–6000 ng mL 1).5,10                 bandages were generally applied on venous ulcers.
+However, concentrations of the local anaesthetics have not                  By projecting its outline onto transparent film of known
+been assessed after daily repeated application of the maximum            weight and calculating the ulcer area, the size of the ulcer was
+recommended dose (10 g) over several days.                               measured on days 1 and 10. Patients were asked standard
+   We report a study designed to determine the plasma con-               questions each day before the application of EMLA. The first
+centrations of lidocaine and prilocaine during repeated daily            question was ‘Please rate the current intensity of the pain from
+application, for 10 days, of 10 g EMLA to leg ulcers, and to             your ulcer using the pain ruler’. The visual analogue scale
+evaluate the analgesic effect on chronic ulcer pain.                     (VAS) ruler with a slider (Flinders Medical Centre, Bedford
+   This open study, conducted at five departments of derma-              Park, Australia) displayed a 100-mm horizontal ungraded line
+tology in Germany, was approved by the relevant local ethics             anchored by the words ‘no pain’ and ‘worst pain imagin-
+committees. Patients gave written informed consent prior to              able’.12
+participation. The protocol was submitted to the German                     Blood samples (5 mL) were drawn from an antecubital vein
+Federal Institute for Medicines and Medical Devices, Bonn,               immediately prior to application of cream, and also 30, 60,
+Germany.                                                                 80, 100, 120, 140, 160, 180 and 240 min after the start of
+   The toxicity of lidocaine and prilocaine is assumed to be             application of the first dose (day 1) and the last dose (day
+additive. The study was designed to determine a 95% confi-               10), and immediately before the start of application of EMLA
+dence interval (CI) for the 90th percentile (P90) of the added           on days 2, 4, 6 and 8.
+peak plasma concentrations of lidocaine and prilocaine, assum-              Lidocaine and prilocaine were determined by reversed-
+ing a normal distribution. A one-sided (upper) confidence                phase liquid chromatography–tandem mass spectrometry with
+limit was used, with the objective of confirming that plasma             electrospray ionization in human plasma and ultrafiltration
+concentrations are unlikely to approach toxic levels. In order           of acidified plasma. The limit of quantification was
+to estimate the P90 of the maximum plasma concentration                  049 ng mL 1 for lidocaine and 044 ng mL 1 for prilocaine.
+(Cmax) with a power of 90% and a probability that ≥ 99% of                  The upper limit of the 95% CI for the P90 was calculated
+the Cmax values would fall below the upper confidence bound              for the sum of lidocaine and prilocaine concentrations.11 In
+(P = 099),11 24 patients were required.                                 addition, the covariation between age, ulcer area, ulcer type
+   Patients requiring debridement had a leg ulcer for at least           and treatment day, and Cmax values was evaluated by regres-
+6 weeks, with an ulcer surface area of at least 50 cm2, and              sion and correlation analysis. Two-sided 95% CIs for the mean
+were scheduled for at least 10 days of inpatient treatment,              differences between days 10 and 1 were also calculated for
+including sharp ulcer debridement. Patients not requiring                Cmax.
+debridement instead experienced moderate or severe chronic                  The analysis of development over time of chronic ulcer pain
+ulcer pain.                                                              included patients with moderate or severe pain on enrolment.
+
+
+© 2014 The Authors British Journal of Dermatology                              British Journal of Dermatology (2015) 173, pp259–261   259
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use,
+distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.
+
+===== [PDF page 2 of 3] =====
+260 Research letter
+
+The change in pain scores for pretreatment pain over time
+was tested by calculating individual regression lines for pretreatment pain intensity. The hypothesis of the slope being
+equal to zero was then tested with a two-sided t-test.
+Twenty-five patients participated, of whom 15 (60%)
+reported on enrolment chronic ulcer pain of moderate or
+severe intensity (Table 1). Eight of the 14 patients who regularly used analgesics for ulcer pain were prescribed opioids.
+No symptoms of systemic local anaesthetic toxicity were
+observed.
+Cmax values observed at similar time points were similar on
+days 1 and 10 for lidocaine, prilocaine, and the sum of lidocaine
+and prilocaine concentrations (Fig. 1), with the two-sided 95%
+CI for each difference between day 1 and day 10 values
+
+including zero ( 690 to 1121 ng mL 1 for lidocaine; 280
+to 326 ng mL 1 for prilocaine; and 975 to 1422 ng mL 1
+for the sum of lidocaine and prilocaine).
+The Cmax of the sum of lidocaine and prilocaine concentrations on day 10 was 615 ng mL 1. The upper limit of the
+95% CI for the P90 of Cmax was 1515 ng mL 1; the maximum Cmax observed was 1910 ng mL 1. The median decrease
+in ulcer area in the debridement group was 167 cm2, corresponding to 17% healing (Table 1).
+The size of the ulcer area had a significant effect (P < 001)
+on the peak values. Increasing the ulcer area by 1 cm2 resulted
+in an estimated increase in Cmax of 72 ng mL 1 for the sum
+of lidocaine and prilocaine. Cmax values did not depend on
+patient age (P > 070) or ulcer type (P > 050).
+
+Table 1 Patients, ulcer characteristics and ulcer area
+Debridement (n = 23)
+
+Nondebridement (n = 2)
+
+Age (years)
+710
+595
+Male/female
+5/18
+1/1
+Weight (kg)
+85
+78
+Ulcer aetiology (n)
+Venous
+15
+2
+Arteriovenous
+5
+0
+Vasculitic
+3
+0
+Duration of ulcer(s) (months)
+259
+621
+Baseline study ulcer area (cm2)
+974 (620–1600)
+1084 (700–1460)
+Day 10 ulcer area (cm2)a
+864 (540–1290)
+1144 (520–1770)
+Change in ulcer area (cm2)a
+167 ( 830 to 20)
+61 ( 190 to 310)
+Degree of chronic ulcer pain on enrolment (VRS)
+None
+4
+0
+Slight
+5
+1b
+Moderate
+11
+1
+Severe
+3
+0
+VAS
+560 (0–920)
+425 (200–650)
+Degree of chronic ulcer pain, patients with moderate or severe pain on enrolment (VAS)
+Day 1
+75 (46–92)
+Day 10
+21 (0–72)c
+
+Total (n = 25)
+710 (360–920)
+6/19
+85 (55–157)
+17
+5
+3
+361 (20–7940)
+978 (620–1600)
+–
+–
+
+Values are given as median (range) unless otherwise indicated. VRS, verbal rating scale; VAS, visual analogue scale. aThree patients in whom
+only part of the ulcer was treated with EMLATM were excluded from this analysis; bthe patient included in the chronic pain group who
+reported slight pain on enrolment was excluded from the evaluation of change of ulcer-related pain over time; cP < 001.
+
+Fig 1. Mean (95% confidence interval)
+plasma concentrations of lidocaine, prilocaine,
+and the sum of lidocaine and prilocaine on
+day 10, after daily application of 10 g EMLATM
+cream for 60 min, for 10 days.
+British Journal of Dermatology (2015) 173, pp259–261
+
+© 2014 The Authors British Journal of Dermatology
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+
+
+----- [PDF page 2 of 3: layout view of the same page] -----
+260 Research letter
+
+
+The change in pain scores for pretreatment pain over time                  including zero ( 690 to 1121 ng mL 1 for lidocaine; 280
+was tested by calculating individual regression lines for pre-             to 326 ng mL 1 for prilocaine; and 975 to 1422 ng mL 1
+treatment pain intensity. The hypothesis of the slope being                for the sum of lidocaine and prilocaine).
+equal to zero was then tested with a two-sided t-test.                        The Cmax of the sum of lidocaine and prilocaine concentra-
+   Twenty-five patients participated, of whom 15 (60%)                     tions on day 10 was 615 ng mL 1. The upper limit of the
+reported on enrolment chronic ulcer pain of moderate or                    95% CI for the P90 of Cmax was 1515 ng mL 1; the maxi-
+severe intensity (Table 1). Eight of the 14 patients who regu-             mum Cmax observed was 1910 ng mL 1. The median decrease
+larly used analgesics for ulcer pain were prescribed opioids.              in ulcer area in the debridement group was 167 cm2, corre-
+No symptoms of systemic local anaesthetic toxicity were                    sponding to 17% healing (Table 1).
+observed.                                                                     The size of the ulcer area had a significant effect (P < 001)
+   Cmax values observed at similar time points were similar on             on the peak values. Increasing the ulcer area by 1 cm2 resulted
+days 1 and 10 for lidocaine, prilocaine, and the sum of lidocaine          in an estimated increase in Cmax of 72 ng mL 1 for the sum
+and prilocaine concentrations (Fig. 1), with the two-sided 95%             of lidocaine and prilocaine. Cmax values did not depend on
+CI for each difference between day 1 and day 10 values                     patient age (P > 070) or ulcer type (P > 050).
+
+Table 1 Patients, ulcer characteristics and ulcer area
+
+                                                  Debridement (n = 23)               Nondebridement (n = 2)                   Total (n = 25)
+  Age (years)                                   710                                 595                                   710 (360–920)
+    Male/female                                  5/18                                 1/1                                    6/19
+    Weight (kg)                                 85                                   78                                     85 (55–157)
+  Ulcer aetiology (n)
+    Venous                                      15                                    2                                     17
+    Arteriovenous                                5                                    0                                      5
+    Vasculitic                                   3                                    0                                      3
+  Duration of ulcer(s) (months)                 259                                 621                                   361 (20–7940)
+  Baseline study ulcer area (cm2)               974 (620–1600)                   1084 (700–1460)                      978 (620–1600)
+  Day 10 ulcer area (cm2)a                      864 (540–1290)                   1144 (520–1770)                      –
+  Change in ulcer area (cm2)a                   167 ( 830 to 20)                   61 ( 190 to 310)                   –
+  Degree of chronic ulcer pain on enrolment (VRS)
+    None                                         4                                    0
+    Slight                                       5                                    1b
+    Moderate                                    11                                    1
+    Severe                                       3                                    0
+    VAS                                         560 (0–920)                        425 (200–650)
+  Degree of chronic ulcer pain, patients with moderate or severe pain on enrolment (VAS)
+    Day 1                                       75 (46–92)
+    Day 10                                      21 (0–72)c
+
+  Values are given as median (range) unless otherwise indicated. VRS, verbal rating scale; VAS, visual analogue scale. aThree patients in whom
+  only part of the ulcer was treated with EMLATM were excluded from this analysis; bthe patient included in the chronic pain group who
+  reported slight pain on enrolment was excluded from the evaluation of change of ulcer-related pain over time; cP < 001.
+
+
+
+
+                                                                                                   Fig 1. Mean (95% confidence interval)
+                                                                                                   plasma concentrations of lidocaine, prilocaine,
+                                                                                                   and the sum of lidocaine and prilocaine on
+                                                                                                   day 10, after daily application of 10 g EMLATM
+                                                                                                   cream for 60 min, for 10 days.
+
+British Journal of Dermatology (2015) 173, pp259–261                                             © 2014 The Authors British Journal of Dermatology
+                                                           published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+
+===== [PDF page 3 of 3] =====
+Research letter
+
+Mean predose samples taken before EMLA application on
+days 3, 5, 7 and 9 were 29–43 ng mL 1 and 59–
+73 ng mL 1 for lidocaine and prilocaine, respectively, indicating minimal residual concentrations 24 h after the previous
+treatment.
+In patients with moderate or severe chronic ulcer pain,
+prior to enrolment the median pretreatment VAS pain score
+was 75, which decreased gradually to 21 by day 10
+(P < 0001). Purcell et al. described a patient with an extremely painful (VAS score of 9/10) leg ulcer, with increasing
+difficulty with daily activities and poor sleep.13 EMLA applied
+to the ulcer and left overnight reduced the pain to a VAS score
+of 5/10 within the first 24 h. After 3 weeks the pain score
+was further reduced to 3/10, suggesting that the use of EMLA
+in patients with painful leg ulcers deserves further study. Parenteral prilocaine HCl in doses exceeding 600 mg can cause
+methaemoglobinaemia in adults. Ten grams of EMLA contains
+250 mg prilocaine; when the remaining cream is wiped off
+from ulcers after 60 min the bioavailability is approximately
+15–25%.14 Local transient pallor (2–4%) or erythema (2–6%)
+of the ulcer at the removal of EMLA may theoretically be
+caused by the biphasic effects of local anaesthetics on vascular
+smooth muscle, increasing concentrations modulating constriction into dilatation;15 however, similar frequencies are
+observed with placebo cream.
+Daily application of 10 g EMLA to ulcers of a maximum
+size of 125 cm2 for 60 min, combined with sharp debridement when indicated, for up to 10 days, is well tolerated. The
+sum of plasma concentrations of lidocaine and prilocaine
+shows no apparent accumulation over 10 days, with the maximum peak concentration < 40% of that associated with toxic
+reactions.
+
+Acknowledgments
+We are grateful to biostatistician Jan Henriksson for the power
+calculations performed to determine the number of patients
+required for this study. We also thank Drs Dorothee Dill-Muller and Iris Wollner, Department of Dermatology of University
+Clinic Homburg-Saar; Professor Eberhard Rabe and Dr Katharina Hamm, Department of Dermatology of University Bonn;
+and Professor Edgar Dippel and Dr Katharina Kreutzer, Department of Dermatology of Municipal Hospital Lemgo, for contributing patients to this multicentre study.
+1
+Department of Dermatology, Municipal
+Hospital Bielefeld, An der Rosenhoehe 27,
+Bielefeld DE-33647, Germany
+2
+Department of Dermatology, Helios
+Klinikum, Wuppertal, Germany
+
+I. EFFENDY1
+A. GELBER1,†
+P. LEHMANN2
+G. HULEDAL3
+S. LILLIEBORG3
+
+261
+
+3
+
+Department of Global Medicines
+Development, AstraZeneca, S€odert€alje
+SE-151 85, Sweden
+Correspondence: Isaak Effendy.
+E-mail: isaak.effendy@klinikumbielefeld.de
+†
+Current address: Private Practice for
+Dermatology, Bielefeld, Germany
+
+References
+1 Jones J, Barr W, Robinson J. Depression in patients with chronic
+venous ulceration. Br J Nurs 2006; 15:S17–23.
+2 Hofman D, Ryan TJ, Arnold F et al. Pain in venous leg ulcers.
+J Wound Care 1997; 6:222–4.
+3 Noonan L, Burge SM. Venous leg ulcers: is pain a problem? Phlebology 1998; 13:14–19.
+4 Holm J, Andren B, Grafford K. Pain control in the surgical
+debridement of leg ulcers by the use of a topical lidocaine–prilocaine cream, EMLA. Acta Derm Venereol 1990; 70:132–6.
+5 Lok C, Paul C, Amblard P et al. EMLA cream as a topical anesthetic for
+the repeated mechanical debridement of venous leg ulcers: a doubleblind, placebo-controlled study. J Am Acad Dermatol 1999; 40:208–13.
+6 Agrifoglio G, Domanin M, Baggio E et al. EMLA anaesthetic cream
+for sharp debridement of venous leg ulcers. A double-blind, placebo-controlled study. Phlebology 2000; 15:81–3.
+7 Rosenthal D, Murphy F, Gottschalk R et al. Using a topical anaesthetic cream to reduce pain during sharp debridement of chronic
+leg ulcers. J Wound Care 2001; 10:503–5.
+8 Briggs M, Nelson EA, Martyn-St James M. Topical agents or dressings for pain in venous leg ulcers. Cochrane Database Syst Rev 2012;
+11:001177.
+9 Hansson C, Holm J, Lillieborg S et al. Repeated treatment with
+lidocaine/prilocaine cream (EMLA) as a topical anaesthetic for the
+cleansing of venous leg ulcers: a controlled study. Acta Derm Venereol
+1993; 73:231–3.
+10 Covino BG, Wildsmith JAW. Clinical pharmacology of local anesthetic agents. In: Neural Blockade in Clinical Anesthesia and Management of
+Pain (Cousins MJ, Bridenbaugh PO, eds), 3rd edn. Philadelphia,
+PA: Lippincott-Raven Publishers, 1998; 97–128.
+11 Hahn GJ, Meeker WQ. Statistical Intervals. A Guide for Practitioners. New
+York: John Wiley & Sons, 1991.
+12 Scott J, Huskisson EC. Graphic representation of pain. Pain 1976;
+2:175–84.
+13 Purcell A, Marshall A, King J, Buckley T. Eutectic mixture of local
+anaesthetics (EMLA) 5% cream as a primary dressing on a painful
+lower leg ulcer. J Wound Care 2012; 21:309–10.
+14 Enander Malmros I, Nilsen T, Lillieborg S. Plasma concentrations
+and analgesic effect of EMLA (lidocaine/prilocaine) cream for the
+cleansing of leg ulcers. Acta Derm Venereol 1990; 70:227–30.
+15 Aps C, Reynolds F. The effect of concentration on vasoactivity of
+bupivacaine and lignocaine. Br J Anaesth 1976; 48:1171–4.
+Funding sources: This study was funded by AstraZeneca.
+Conflicts of interest: S.L. is an employee of AstraZeneca, and G.H. was
+an employee of AstraZeneca during the conduct of this study.
+
+© 2014 The Authors British Journal of Dermatology
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+
+British Journal of Dermatology (2015) 173, pp259–261
+
+
+----- [PDF page 3 of 3: layout view of the same page] -----
+                                                                                                                               Research letter      261
+
+                                                                           3
+   Mean predose samples taken before EMLA application on                    Department of Global Medicines
+days 3, 5, 7 and 9 were 29–43 ng mL 1 and 59–                             Development, AstraZeneca, S€odert€alje
+73 ng mL 1 for lidocaine and prilocaine, respectively, indi-              SE-151 85, Sweden
+cating minimal residual concentrations 24 h after the previous             Correspondence: Isaak Effendy.
+treatment.                                                                 E-mail: isaak.effendy@klinikumbielefeld.de
+                                                                           †
+   In patients with moderate or severe chronic ulcer pain,                   Current address: Private Practice for
+prior to enrolment the median pretreatment VAS pain score                  Dermatology, Bielefeld, Germany
+was 75, which decreased gradually to 21 by day 10
+(P < 0001). Purcell et al. described a patient with an extre-
+                                                                           References
+mely painful (VAS score of 9/10) leg ulcer, with increasing
+difficulty with daily activities and poor sleep.13 EMLA applied             1 Jones J, Barr W, Robinson J. Depression in patients with chronic
+to the ulcer and left overnight reduced the pain to a VAS score               venous ulceration. Br J Nurs 2006; 15:S17–23.
+                                                                            2 Hofman D, Ryan TJ, Arnold F et al. Pain in venous leg ulcers.
+of 5/10 within the first 24 h. After 3 weeks the pain score
+                                                                              J Wound Care 1997; 6:222–4.
+was further reduced to 3/10, suggesting that the use of EMLA                3 Noonan L, Burge SM. Venous leg ulcers: is pain a problem? Phlebol-
+in patients with painful leg ulcers deserves further study. Par-              ogy 1998; 13:14–19.
+enteral prilocaine HCl in doses exceeding 600 mg can cause                  4 Holm J, Andren B, Grafford K. Pain control in the surgical
+methaemoglobinaemia in adults. Ten grams of EMLA contains                     debridement of leg ulcers by the use of a topical lidocaine–prilo-
+250 mg prilocaine; when the remaining cream is wiped off                      caine cream, EMLA. Acta Derm Venereol 1990; 70:132–6.
+from ulcers after 60 min the bioavailability is approximately               5 Lok C, Paul C, Amblard P et al. EMLA cream as a topical anesthetic for
+                                                                              the repeated mechanical debridement of venous leg ulcers: a double-
+15–25%.14 Local transient pallor (2–4%) or erythema (2–6%)
+                                                                              blind, placebo-controlled study. J Am Acad Dermatol 1999; 40:208–13.
+of the ulcer at the removal of EMLA may theoretically be                    6 Agrifoglio G, Domanin M, Baggio E et al. EMLA anaesthetic cream
+caused by the biphasic effects of local anaesthetics on vascular              for sharp debridement of venous leg ulcers. A double-blind, pla-
+smooth muscle, increasing concentrations modulating con-                      cebo-controlled study. Phlebology 2000; 15:81–3.
+striction into dilatation;15 however, similar frequencies are               7 Rosenthal D, Murphy F, Gottschalk R et al. Using a topical anaes-
+observed with placebo cream.                                                  thetic cream to reduce pain during sharp debridement of chronic
+   Daily application of 10 g EMLA to ulcers of a maximum                      leg ulcers. J Wound Care 2001; 10:503–5.
+                                                                            8 Briggs M, Nelson EA, Martyn-St James M. Topical agents or dress-
+size of 125 cm2 for 60 min, combined with sharp debride-
+                                                                              ings for pain in venous leg ulcers. Cochrane Database Syst Rev 2012;
+ment when indicated, for up to 10 days, is well tolerated. The                11:001177.
+sum of plasma concentrations of lidocaine and prilocaine                    9 Hansson C, Holm J, Lillieborg S et al. Repeated treatment with
+shows no apparent accumulation over 10 days, with the maxi-                   lidocaine/prilocaine cream (EMLA) as a topical anaesthetic for the
+mum peak concentration < 40% of that associated with toxic                    cleansing of venous leg ulcers: a controlled study. Acta Derm Venereol
+reactions.                                                                    1993; 73:231–3.
+                                                                           10 Covino BG, Wildsmith JAW. Clinical pharmacology of local anes-
+                                                                              thetic agents. In: Neural Blockade in Clinical Anesthesia and Management of
+Acknowledgments                                                               Pain (Cousins MJ, Bridenbaugh PO, eds), 3rd edn. Philadelphia,
+                                                                              PA: Lippincott-Raven Publishers, 1998; 97–128.
+We are grateful to biostatistician Jan Henriksson for the power            11 Hahn GJ, Meeker WQ. Statistical Intervals. A Guide for Practitioners. New
+calculations performed to determine the number of patients                    York: John Wiley & Sons, 1991.
+required for this study. We also thank Drs Dorothee Dill-Mul-              12 Scott J, Huskisson EC. Graphic representation of pain. Pain 1976;
+ler and Iris Wollner, Department of Dermatology of University                 2:175–84.
+                                                                           13 Purcell A, Marshall A, King J, Buckley T. Eutectic mixture of local
+Clinic Homburg-Saar; Professor Eberhard Rabe and Dr Kathari-
+                                                                              anaesthetics (EMLA) 5% cream as a primary dressing on a painful
+na Hamm, Department of Dermatology of University Bonn;                        lower leg ulcer. J Wound Care 2012; 21:309–10.
+and Professor Edgar Dippel and Dr Katharina Kreutzer, Depart-              14 Enander Malmros I, Nilsen T, Lillieborg S. Plasma concentrations
+ment of Dermatology of Municipal Hospital Lemgo, for con-                     and analgesic effect of EMLA (lidocaine/prilocaine) cream for the
+tributing patients to this multicentre study.                                 cleansing of leg ulcers. Acta Derm Venereol 1990; 70:227–30.
+                                                                           15 Aps C, Reynolds F. The effect of concentration on vasoactivity of
+1                                                                             bupivacaine and lignocaine. Br J Anaesth 1976; 48:1171–4.
+  Department of Dermatology, Municipal                 I. EFFENDY1
+Hospital Bielefeld, An der Rosenhoehe 27,            A. GELBER1,†          Funding sources: This study was funded by AstraZeneca.
+Bielefeld DE-33647, Germany                          P. LEHMANN2
+2
+  Department of Dermatology, Helios                  G. HULEDAL3           Conflicts of interest: S.L. is an employee of AstraZeneca, and G.H. was
+Klinikum, Wuppertal, Germany                        S. LILLIEBORG3         an employee of AstraZeneca during the conduct of this study.
+
+
+
+
+© 2014 The Authors British Journal of Dermatology                                         British Journal of Dermatology (2015) 173, pp259–261
+published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists.
+

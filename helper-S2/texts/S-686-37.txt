@@ -1,0 +1,1262 @@
+SOURCE FILE: S-686-37 - Wang 2011 - GRK2 in sensory neurons regulates epinephrine-induced signalling and duration of mechanical hyperalgesia.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Typographic ligatures (fi, fl, ff) are written out as plain letters.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 10] =====
+Ò
+
+PAIN 152 (2011) 1649–1658
+
+www.elsevier.com/locate/pain
+
+GRK2 in sensory neurons regulates epinephrine-induced signalling and duration
+of mechanical hyperalgesia
+Huijing Wang a,b, Cobi J. Heijnen a, Niels Eijkelkamp a,c, Anibal Garza Carbajal a, Manfred Schedlowski d,
+Keith W. Kelley e, Robert Dantzer e, Annemieke Kavelaars a,e,⇑
+a
+
+Laboratory of Neuroimmunology and Developmental Origins of Disease, University Medical Center Utrecht, 3584 EA Utrecht, The Netherlands
+Department of Pharmacology, Shanghai Medical College, Fudan University, 200032 Shanghai, PR China
+Molecular Nociception Group, University College London, London WC1E 6BT, UK
+d
+Institute of Medical Psychology and Immunobiology, University Hospital Essen, University Duisburg-Essen, Essen, Germany
+e
+Integrative Immunology and Behavior Program, College of Medicine and College of ACES, University of Illinois at Urbana-Champaign, Urbana, IL, USA
+b
+c
+
+Sponsorships or competing interests that may be relevant to content are disclosed at the end of this article
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 13 December 2010
+Received in revised form 26 January 2011
+Accepted 4 March 2011
+
+Keywords:
+G protein-coupled receptor kinase 2
+PKA
+PKCe
+Allodynia
+Chronic pain
+
+a b s t r a c t
+Epinephrine (EPI) contributes to hyperalgesia in inflammatory and stress conditions. EPI signals via
+adrenoceptors, which are regulated by G protein-coupled receptor kinase 2 (GRK2). We previously
+reported that GRK2 is decreased in nociceptors during chronic inflammation. Herein, we investigated
+whether GRK2 modulates EPI-induced mechanical and thermal hyperalgesia by using GRK2+/ mice,
+which express 50% of the GRK2 protein. We demonstrate for the first time that EPI-induced mechanical
+as well as thermal hyperalgesia is prolonged to approximately 21 days in GRK2+/ mice, whereas it lasts
+only 3 to 4 days in wild-type mice. Using cell- specific GRK2-deficient mice, we further show that a low
+level of GRK2 in primary sensory neurons is critical for this prolongation of EPI-induced hyperalgesia.
+Low GRK2 in microglia had only a small effect on EPI-induced hyperalgesia. Low GRK2 in astrocytes
+did not alter EPI-induced hyperalgesia. EPI-induced hyperalgesia was prolonged similarly in mice with
+tamoxifen-induced homozygous or heterozygous deletion of GRK2. In terms of EPI signalling pathways,
+the protein kinase A (PKA) inhibitor H-89 inhibited EPI-induced mechanical hyperalgesia in wild-type
+mice, whereas H-89 had no effect in mice with low GRK2 in sensory neurons (SNS-GRK2+/ mice). Conversely, intraplantar injection of the protein kinase Ce PKCe inhibitor TAT-PKCev1-2 inhibited hyperalgesia
+in sensory neuron specific (SNS)-GRK2+/ mice and not in wild-type mice. These results indicate that low
+GRK2 in primary sensory neurons switches EPI-induced signalling from a protein kinase A-dependent
+toward a PKCe-dependent pathway that ultimately mediates prolonged EPI-induced hyperalgesia.
+Ó 2011 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+
+1. Introduction
+The sympathoadrenal system contributes to several forms of
+pain, including inflammatory pain, stress-induced pain, and neuropathic pain, via secretion of catecholamines such as epinephrine
+(EPI) and norepinephrine [15,17,28]. Moreover, local administration of EPI induces transient thermal and mechanical hyperalgesia
+[18]. EPI exerts its effects by high affinity binding to b1- and
+b2-adrenergic receptors (ARs), and by lower affinity binding to aARs. These receptors belong to the family of G protein-coupled
+receptors (GPCRs). Signalling via these GPCRs is regulated by a
+
+⇑ Corresponding author at: Laboratory for Neuroimmunology and Developmental
+Origins of Disease, University Medical Center Utrecht, Lundlaan 6, Office KC
+03.068.0, 3584 EA Utrecht, The Netherlands. Tel.: +31 88 755 4360; fax: +31 88 755
+5311.
+E-mail address: a.kavelaars@umcutrecht.nl (A. Kavelaars).
+
+family of kinases known as G protein-coupled-receptor kinases
+(GRKs). GRK2 is also known as beta-adrenergic receptor kinase 1.
+GRK2 rapidly phosphorylates EPI-activated b2-adrenergic receptors
+on serine residues 355 and 356 [10,13,30,33]. This phosphorylation
+facilitates the binding of b-arrestins that promote internalisation
+and recycling of the b2-AR [27,29]. Moreover, b-arrestins also act
+as scaffold proteins to enhance further downstream signalling
+[29]. In addition to regulating cellular signalling by acting at the
+receptor level, GRK2 also interacts with multiple downstream signalling molecules such as exchange protein activated by cAMP
+(Epac), Akt, extracellular signal regulated kinase (ERK) 1/2, phosphoinositide-3 kinase (PI3 kinase), and p38 mitogen-activated
+protein kinase (MAPK) [6,16,21,23,26].
+We have demonstrated previously that the cellular level of
+GRK2 determines the intensity and duration of inflammatory
+thermal hyperalgesia. We showed that in GRK2+/ mice with an
+approximately 50% decrease in cellular GRK2 level, the thermal
+
+0304-3959/$36.00 Ó 2011 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.pain.2011.03.010
+
+
+----- [PDF page 1 of 10: layout view of the same page] -----
+                                                                  Ò
+                                                          PAIN 152 (2011) 1649–1658
+
+
+                                                                                                                                      www.elsevier.com/locate/pain
+
+
+
+
+GRK2 in sensory neurons regulates epinephrine-induced signalling and duration
+of mechanical hyperalgesia
+Huijing Wang a,b, Cobi J. Heijnen a, Niels Eijkelkamp a,c, Anibal Garza Carbajal a, Manfred Schedlowski d,
+Keith W. Kelley e, Robert Dantzer e, Annemieke Kavelaars a,e,⇑
+a
+  Laboratory of Neuroimmunology and Developmental Origins of Disease, University Medical Center Utrecht, 3584 EA Utrecht, The Netherlands
+b
+  Department of Pharmacology, Shanghai Medical College, Fudan University, 200032 Shanghai, PR China
+c
+  Molecular Nociception Group, University College London, London WC1E 6BT, UK
+d
+  Institute of Medical Psychology and Immunobiology, University Hospital Essen, University Duisburg-Essen, Essen, Germany
+e
+  Integrative Immunology and Behavior Program, College of Medicine and College of ACES, University of Illinois at Urbana-Champaign, Urbana, IL, USA
+
+
+
+Sponsorships or competing interests that may be relevant to content are disclosed at the end of this article
+
+a r t i c l e         i n f o                            a b s t r a c t
+
+Article history:                                         Epinephrine (EPI) contributes to hyperalgesia in inflammatory and stress conditions. EPI signals via
+Received 13 December 2010                                adrenoceptors, which are regulated by G protein-coupled receptor kinase 2 (GRK2). We previously
+Received in revised form 26 January 2011                 reported that GRK2 is decreased in nociceptors during chronic inflammation. Herein, we investigated
+Accepted 4 March 2011
+                                                         whether GRK2 modulates EPI-induced mechanical and thermal hyperalgesia by using GRK2+/ mice,
+                                                         which express 50% of the GRK2 protein. We demonstrate for the first time that EPI-induced mechanical
+                                                         as well as thermal hyperalgesia is prolonged to approximately 21 days in GRK2+/ mice, whereas it lasts
+Keywords:
+                                                         only 3 to 4 days in wild-type mice. Using cell- specific GRK2-deficient mice, we further show that a low
+G protein-coupled receptor kinase 2
+PKA
+                                                         level of GRK2 in primary sensory neurons is critical for this prolongation of EPI-induced hyperalgesia.
+PKCe                                                     Low GRK2 in microglia had only a small effect on EPI-induced hyperalgesia. Low GRK2 in astrocytes
+Allodynia                                                did not alter EPI-induced hyperalgesia. EPI-induced hyperalgesia was prolonged similarly in mice with
+Chronic pain                                             tamoxifen-induced homozygous or heterozygous deletion of GRK2. In terms of EPI signalling pathways,
+                                                         the protein kinase A (PKA) inhibitor H-89 inhibited EPI-induced mechanical hyperalgesia in wild-type
+                                                         mice, whereas H-89 had no effect in mice with low GRK2 in sensory neurons (SNS-GRK2+/ mice). Con-
+                                                         versely, intraplantar injection of the protein kinase Ce PKCe inhibitor TAT-PKCev1-2 inhibited hyperalgesia
+                                                         in sensory neuron specific (SNS)-GRK2+/ mice and not in wild-type mice. These results indicate that low
+                                                         GRK2 in primary sensory neurons switches EPI-induced signalling from a protein kinase A-dependent
+                                                         toward a PKCe-dependent pathway that ultimately mediates prolonged EPI-induced hyperalgesia.
+                                                            Ó 2011 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+
+
+
+
+1. Introduction                                                                              family of kinases known as G protein-coupled-receptor kinases
+                                                                                             (GRKs). GRK2 is also known as beta-adrenergic receptor kinase 1.
+   The sympathoadrenal system contributes to several forms of                                GRK2 rapidly phosphorylates EPI-activated b2-adrenergic receptors
+pain, including inflammatory pain, stress-induced pain, and neuro-                            on serine residues 355 and 356 [10,13,30,33]. This phosphorylation
+pathic pain, via secretion of catecholamines such as epinephrine                             facilitates the binding of b-arrestins that promote internalisation
+(EPI) and norepinephrine [15,17,28]. Moreover, local administra-                             and recycling of the b2-AR [27,29]. Moreover, b-arrestins also act
+tion of EPI induces transient thermal and mechanical hyperalgesia                            as scaffold proteins to enhance further downstream signalling
+[18]. EPI exerts its effects by high affinity binding to b1- and                              [29]. In addition to regulating cellular signalling by acting at the
+b2-adrenergic receptors (ARs), and by lower affinity binding to a-                            receptor level, GRK2 also interacts with multiple downstream sig-
+ARs. These receptors belong to the family of G protein-coupled                               nalling molecules such as exchange protein activated by cAMP
+receptors (GPCRs). Signalling via these GPCRs is regulated by a                              (Epac), Akt, extracellular signal regulated kinase (ERK) 1/2, phos-
+                                                                                             phoinositide-3 kinase (PI3 kinase), and p38 mitogen-activated
+                                                                                             protein kinase (MAPK) [6,16,21,23,26].
+ ⇑ Corresponding author at: Laboratory for Neuroimmunology and Developmental                    We have demonstrated previously that the cellular level of
+Origins of Disease, University Medical Center Utrecht, Lundlaan 6, Office KC                  GRK2 determines the intensity and duration of inflammatory
+03.068.0, 3584 EA Utrecht, The Netherlands. Tel.: +31 88 755 4360; fax: +31 88 755
+                                                                                             thermal hyperalgesia. We showed that in GRK2+/ mice with an
+5311.
+    E-mail address: a.kavelaars@umcutrecht.nl (A. Kavelaars).
+                                                                                             approximately 50% decrease in cellular GRK2 level, the thermal
+
+0304-3959/$36.00 Ó 2011 International Association for the Study of Pain. Published by Elsevier B.V. All rights reserved.
+doi:10.1016/j.pain.2011.03.010
+
+===== [PDF page 2 of 10] =====
+1650
+
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+hyperalgesia induced by carrageenan, prostaglandin E2 (PGE2),
+chemokine (C–C motif) ligand 3 (CCL3), and interleukin (IL)-1b is
+markedly prolonged [5,6,19,34]. Moreover, our recent studies
+revealed that during chronic carrageenan-induced inflammation
+of the paw, GRK2 protein expression is downregulated in dorsal
+root ganglion (DRG) neurons, which underlines the translational
+significance of our concept [6].
+In general, activation of b2-AR by EPI increases intracellular levels of cyclic adenosine monophosphate (cAMP) via activation of a
+heterotrimeric G protein of the Gs subclass. This increase in cAMP
+activates PKA to induce a cellular response [3]. In addition, b2-AR
+activation leads to signalling to mitogen-activated protein kinase
+kinase (MEK)/ERK via coupling to Gi and/or via the scaffold function of b-arrestins [11]. Moreover, cAMP activates not only PKA
+but also Epac, which in turn activates PKCe [1,6,12].
+The aim of the present study is to investigate the impact of low
+endogenous GRK2 in sensory neurons on mechanical and thermal
+hyperalgesia induced by the stress hormone EPI.
+2. Materials and methods
+2.1. Animals
+Male and female C57BL/6 mice age 12 to 14 weeks and heterozygous for targeted deletion of the GRK2 gene (GRK2+/ ) were used
+
+together with their wild-type (WT) littermates. As GRK2 / mice
+die in utero, only GRK2+/ mice were studied [14]. Sensory
+neuron-specific GRK2+/ (SNS-GRK2+/ ), mciroglia/macrophagespecific lysozym M (LysM)-GRK2+/ , astrocyte-specific glial fibrillary acidic protein (GFAP)-GRK2+/ , and control SNS-GRK2+/+,
+LysM-GRK2+/+, GFAP-GRK2+/+ offspring were generated by breeding homozygous Nav1.8-CRE [32], LysM-CRE (Jackson Laboratories,
+Bar Harbor, ME, USA) and heterozygous GFAP-CRE (Jackson Laboratories) transgenic mice with GRK2-fLOX mice [22]. Heterozygous
+floxed GRK2 mice were used to obtain the same reduction in
+GRK2 levels in specific cells as that in heterozygous GRK2+/ mice.
+Tamoxifen-inducible (TAM-) GRK2+/ and TAM-GRK2 / mice
+were generated by crossing transgenic mice overexpressing Crefused to 2 mutant estrogen receptor ligand-binding domains under
+the control of the a-myosin heavy chain (aMHC) promoter (aMHCMerCreMer (Jackson Laboratory) [31]) with heterozygous GRK2LOX mice. To induce Cre expression, adult mice were treated with
+tamoxifen (Sigma-Aldrich, St Louis, MO, USA; intraperitoneally,
+2 mg/mouse, in saline containing 9% ethanol and 51% sunflower
+oil for 5 consecutive days).
+All mice were genotyped by polymerase chain reaction analysis
+on genomic DNA. Mice were bred and maintained in the animal
+facility of the University of Utrecht (the Netherlands). All
+experiments were performed in accordance with international
+guidelines and approved by the University Medical Center Utrecht
+
+Fig. 1. EPI-induced mechanical hyperalgesia in GRK2+/ and WT mice. Mice received an intraplantar injection of EPI (10 ng/2.5 lL/paw) in the hind paw. EPI-induced changes
+in mechanical sensitivity were determined using von Frey hairs. (A) Mechanical hyperalgesia in female WT and GRK2+/ mice. (B) Mechanical hyperalgesia in male WT and
+GRK2+/ mice. Data are expressed as the change in 50% paw withdrawal thresholds calculated as described in the Methods section and represent mean ± SEM. Baseline heat
+withdrawal latencies did not differ between groups. n = 8/group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001. EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2; WT = wild type;
+SEM = standard error of the mean.
+
+
+----- [PDF page 2 of 10: layout view of the same page] -----
+                                                                                      Ò
+1650                                                              H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+
+hyperalgesia induced by carrageenan, prostaglandin E2 (PGE2),                              together with their wild-type (WT) littermates. As GRK2 / mice
+chemokine (C–C motif) ligand 3 (CCL3), and interleukin (IL)-1b is                          die in utero, only GRK2+/ mice were studied [14]. Sensory
+markedly prolonged [5,6,19,34]. Moreover, our recent studies                               neuron-specific GRK2+/ (SNS-GRK2+/ ), mciroglia/macrophage-
+revealed that during chronic carrageenan-induced inflammation                               specific lysozym M (LysM)-GRK2+/ , astrocyte-specific glial fibril-
+of the paw, GRK2 protein expression is downregulated in dorsal                             lary acidic protein (GFAP)-GRK2+/ , and control SNS-GRK2+/+,
+root ganglion (DRG) neurons, which underlines the translational                            LysM-GRK2+/+, GFAP-GRK2+/+ offspring were generated by breed-
+significance of our concept [6].                                                            ing homozygous Nav1.8-CRE [32], LysM-CRE (Jackson Laboratories,
+   In general, activation of b2-AR by EPI increases intracellular lev-                     Bar Harbor, ME, USA) and heterozygous GFAP-CRE (Jackson Labora-
+els of cyclic adenosine monophosphate (cAMP) via activation of a                           tories) transgenic mice with GRK2-fLOX mice [22]. Heterozygous
+heterotrimeric G protein of the Gs subclass. This increase in cAMP                         floxed GRK2 mice were used to obtain the same reduction in
+activates PKA to induce a cellular response [3]. In addition, b2-AR                        GRK2 levels in specific cells as that in heterozygous GRK2+/ mice.
+activation leads to signalling to mitogen-activated protein kinase                             Tamoxifen-inducible (TAM-) GRK2+/ and TAM-GRK2 / mice
+kinase (MEK)/ERK via coupling to Gi and/or via the scaffold func-                          were generated by crossing transgenic mice overexpressing Cre-
+tion of b-arrestins [11]. Moreover, cAMP activates not only PKA                            fused to 2 mutant estrogen receptor ligand-binding domains under
+but also Epac, which in turn activates PKCe [1,6,12].                                      the control of the a-myosin heavy chain (aMHC) promoter (aMHC-
+   The aim of the present study is to investigate the impact of low                        MerCreMer (Jackson Laboratory) [31]) with heterozygous GRK2-
+endogenous GRK2 in sensory neurons on mechanical and thermal                               LOX mice. To induce Cre expression, adult mice were treated with
+hyperalgesia induced by the stress hormone EPI.                                            tamoxifen (Sigma-Aldrich, St Louis, MO, USA; intraperitoneally,
+                                                                                           2 mg/mouse, in saline containing 9% ethanol and 51% sunflower
+2. Materials and methods                                                                   oil for 5 consecutive days).
+                                                                                               All mice were genotyped by polymerase chain reaction analysis
+2.1. Animals                                                                               on genomic DNA. Mice were bred and maintained in the animal
+                                                                                           facility of the University of Utrecht (the Netherlands). All
+   Male and female C57BL/6 mice age 12 to 14 weeks and hetero-                             experiments were performed in accordance with international
+zygous for targeted deletion of the GRK2 gene (GRK2+/ ) were used                          guidelines and approved by the University Medical Center Utrecht
+
+
+
+
+Fig. 1. EPI-induced mechanical hyperalgesia in GRK2+/ and WT mice. Mice received an intraplantar injection of EPI (10 ng/2.5 lL/paw) in the hind paw. EPI-induced changes
+in mechanical sensitivity were determined using von Frey hairs. (A) Mechanical hyperalgesia in female WT and GRK2+/ mice. (B) Mechanical hyperalgesia in male WT and
+GRK2+/ mice. Data are expressed as the change in 50% paw withdrawal thresholds calculated as described in the Methods section and represent mean ± SEM. Baseline heat
+withdrawal latencies did not differ between groups. n = 8/group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001. EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2; WT = wild type;
+SEM = standard error of the mean.
+
+===== [PDF page 3 of 10] =====
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+1651
+
+experimental animal committee. The experimenter was blinded for
+genotype and treatment during all measurements.
+
+Imaging Densitometer and analysed with Quantity One Software
+(Bio-Rad, Berkely, CA, USA).
+
+2.2. Drugs
+
+2.5. Immunohistochemistry
+
+Stock solutions of EPI (( )-epinephrine (+)bitartrate, Sigma)
+were prepared freshly as 4 mg/mL in ascorbic acid (4 mg/mL in distilled water) to minimize oxidation. Further dilutions were made in
+saline just before use and were kept on ice in subdued lighting conditions. A total volume of 2.5 lL EPI per paw was injected intraplantarly to induce hyperalgesia.
+The a-AR blocker phentolamine (Sigma, 2.5 lL, 0.08 mg/mL in
+saline), the b2-AR blocker ICI-118,551 (Sigma, 2.5 lL, 0.08 mg/mL
+in saline), the PKA inhibitor H-89, (Sigma; 5 lL, 5.4 lg/lL in
+saline), the PKCe inhibitor TAT-PKCev1-2, (W.M. Keck Facility, Yale
+University, New Haven, CT, USA; 2.5 lL, 1 lg/lL in saline) and
+the MEK/ERK inhibitor (U0126, Sigma; 2.5 lL, 1 lg/lL in 5% dimethyl sulfoxide (DMSO)) were injected intraplantarly 30 minutes
+before EPI injection. Saline, scrambled TAT-PKCev1-2, or 5% DMSO
+were used as a control.
+
+Mice were deeply anaesthetized with an overdose of sodium
+pentobarbital (50 mg/kg, intraperitoneally), and transcardially
+perfused with phosphate-buffered saline (PBS) followed by 4%
+paraformaldehyde, after which DRGs were isolated. DRGs were
+post-fixed in the same fixative at 4 °C for 4 hours. Subsequently,
+DRGs were cryoprotected in 20% sucrose in PBS at 4 °C, followed
+by 30% sucrose in PBS. The DRGs were then embedded in OCT compound and frozen at 80 °C. Frozen sections of DRGs (10 lm) were
+washed in PBS and then incubated in 0.3% H2O2 for 30 minutes.
+After washing with 0.1% Triton X-100 in PBS (PBST), the sections
+were blocked with 2% normal goat serum in PBST and streptavidin/biotin blocking kit (Vector Laboratories, Burlingame, CA,
+USA). Sections were then incubated with biotinylated isolectin B4
+(IB4, 10 lg/mL, Vector Laboratories, Burlingame, CA, USA) and
+mouse-anti-a-tubulin (1:100, Sigma) overnight at 4 °C. The slides
+were then incubated with Alexa-488-conjugated streptavidin
+(1:200, Invitrogen, Paisley, UK) and Alexa-594-conjugated goat-
+
+2.3. Mechanical and thermal hyperalgesia
+Before the experiments, mice were exposed to the equipment
+without any nociceptive stimulation for 1 to 2 hours per day for
+2 days. On the third day, mice were placed in the test environment
+15 to 20 minutes before testing. Baseline responses were determined on 3 days before intraplantar injection of EPI. Mechanical
+hyperalgesia was measured using von Frey hairs as previously described [34]. The 50% paw withdrawal threshold was calculated
+using the up-and-down method [2]. In short, animals were placed
+on a wire grid bottom through which the von Frey hairs were applied (bending force range from 0.02 to 1.4 g, starting with 0.16 g;
+Stoelting, Wood Dale, IL, USA). The hair force was increased or decreased according to the response. Clear paw withdrawal, shaking,
+or licking were considered as nociceptive-like responses. Ambulation was considered an ambiguous response, and in such cases the
+stimulus was repeated.
+Heat withdrawal latency times were determined using the Hargreaves (IITC Life Science; Woodland Hills, CA, USA) test as described previously [9]. Intensity of the light beam was chosen to
+induce a heat withdrawal latency time of approximately 8 seconds
+at baseline.
+2.4. Western blotting
+Mice were killed by CO2 asphyxiation. Spinal cords and dorsal
+root ganglia (DRGs) were isolated. All samples were frozen in liquid nitrogen. The spinal cord and DRG samples were homogenized in ice-cold lysis buffer (50 mM Tris, pH 8, 5 mM
+Ethylenediaminetetraacetic acid (EDtA), 150 mM NaCl, 1% Nonidet,
+0.5% deoxycholic acid, 0.1% sodium dodecyl sulfate (SDS)) containing protease inhibitor mix (1 mM phenylmethanesulfonyl fluoride
+(PMSF), 10 lg/mL leupeptin, 200 lg/mL benzamidin, 5 lg/mL pepstatin). Protein concentrations were determined using Bradford
+protein assay (Bio-Rad, Alphen a/d Rijn, The Netherlands). Proteins
+were separated by 10% SDS–poly acrylamide gele electrophoresis
+(PAGE) and transferred to nitrocellulose membranes. Blots were
+stained with rabbit-anti-GRK2 (1:300, Santa Cruz Biotechnology)
+and goat-anti-b-actin (1:2000, Santa Cruz Biotechnology, Santa
+Cruz, CA, USA), then incubated with donkey-anti-rabbit-horseradish peroxidase (HRP) (1:5000, Amersham Biosciences, Amersham,
+UK) and donkey-anti-goat-HRP (1:5000, Santa Cruz Biotechnology,
+Snata Cruz, CA, USA). Specific bands were developed by chemiluminescence (ECL, Amersham Biosciences, Amersham, UK) followed
+by X-ray film exposure. The films were scanned with a GS-700
+
+Fig. 2. EPI-induced thermal hyperalgesia in GRK2+/ and WT mice. (A) Female WT
+and GRK2+/ mice received an intraplantar injection with EPI, and changes in heat
+withdrawal latencies were determined using the Hargreaves test. (B) EPI-induced
+thermal hyperalgesia in male WT and GRK2+/ mice. Data are expressed as the
+percent change in heat withdrawal latency and represent mean ± SEM. Baseline
+heat withdrawal latencies did not differ between groups. n = 8/group. ⁄P < .05,
+⁄⁄
+P < .01, ⁄⁄⁄P < .001. EPI = epinephrine; GRK2 = G protein-coupled receptor kinase
+2; WT = wild type; SEM = standard error of the mean.
+
+
+----- [PDF page 3 of 10: layout view of the same page] -----
+                                                                       Ò
+                                                    H. Wang et al. / PAIN 152 (2011) 1649–1658                                                           1651
+
+
+experimental animal committee. The experimenter was blinded for            Imaging Densitometer and analysed with Quantity One Software
+genotype and treatment during all measurements.                            (Bio-Rad, Berkely, CA, USA).
+
+2.2. Drugs                                                                 2.5. Immunohistochemistry
+
+    Stock solutions of EPI (( )-epinephrine (+)bitartrate, Sigma)             Mice were deeply anaesthetized with an overdose of sodium
+were prepared freshly as 4 mg/mL in ascorbic acid (4 mg/mL in dis-         pentobarbital (50 mg/kg, intraperitoneally), and transcardially
+tilled water) to minimize oxidation. Further dilutions were made in        perfused with phosphate-buffered saline (PBS) followed by 4%
+saline just before use and were kept on ice in subdued lighting con-       paraformaldehyde, after which DRGs were isolated. DRGs were
+ditions. A total volume of 2.5 lL EPI per paw was injected intra-          post-fixed in the same fixative at 4 °C for 4 hours. Subsequently,
+plantarly to induce hyperalgesia.                                          DRGs were cryoprotected in 20% sucrose in PBS at 4 °C, followed
+    The a-AR blocker phentolamine (Sigma, 2.5 lL, 0.08 mg/mL in            by 30% sucrose in PBS. The DRGs were then embedded in OCT com-
+saline), the b2-AR blocker ICI-118,551 (Sigma, 2.5 lL, 0.08 mg/mL          pound and frozen at 80 °C. Frozen sections of DRGs (10 lm) were
+in saline), the PKA inhibitor H-89, (Sigma; 5 lL, 5.4 lg/lL in             washed in PBS and then incubated in 0.3% H2O2 for 30 minutes.
+saline), the PKCe inhibitor TAT-PKCev1-2, (W.M. Keck Facility, Yale        After washing with 0.1% Triton X-100 in PBS (PBST), the sections
+University, New Haven, CT, USA; 2.5 lL, 1 lg/lL in saline) and             were blocked with 2% normal goat serum in PBST and streptavi-
+the MEK/ERK inhibitor (U0126, Sigma; 2.5 lL, 1 lg/lL in 5% di-             din/biotin blocking kit (Vector Laboratories, Burlingame, CA,
+methyl sulfoxide (DMSO)) were injected intraplantarly 30 minutes           USA). Sections were then incubated with biotinylated isolectin B4
+before EPI injection. Saline, scrambled TAT-PKCev1-2, or 5% DMSO           (IB4, 10 lg/mL, Vector Laboratories, Burlingame, CA, USA) and
+were used as a control.                                                    mouse-anti-a-tubulin (1:100, Sigma) overnight at 4 °C. The slides
+                                                                           were then incubated with Alexa-488-conjugated streptavidin
+2.3. Mechanical and thermal hyperalgesia                                   (1:200, Invitrogen, Paisley, UK) and Alexa-594-conjugated goat-
+
+   Before the experiments, mice were exposed to the equipment
+without any nociceptive stimulation for 1 to 2 hours per day for
+2 days. On the third day, mice were placed in the test environment
+15 to 20 minutes before testing. Baseline responses were deter-
+mined on 3 days before intraplantar injection of EPI. Mechanical
+hyperalgesia was measured using von Frey hairs as previously de-
+scribed [34]. The 50% paw withdrawal threshold was calculated
+using the up-and-down method [2]. In short, animals were placed
+on a wire grid bottom through which the von Frey hairs were ap-
+plied (bending force range from 0.02 to 1.4 g, starting with 0.16 g;
+Stoelting, Wood Dale, IL, USA). The hair force was increased or de-
+creased according to the response. Clear paw withdrawal, shaking,
+or licking were considered as nociceptive-like responses. Ambula-
+tion was considered an ambiguous response, and in such cases the
+stimulus was repeated.
+   Heat withdrawal latency times were determined using the Har-
+greaves (IITC Life Science; Woodland Hills, CA, USA) test as de-
+scribed previously [9]. Intensity of the light beam was chosen to
+induce a heat withdrawal latency time of approximately 8 seconds
+at baseline.
+
+2.4. Western blotting
+
+   Mice were killed by CO2 asphyxiation. Spinal cords and dorsal
+root ganglia (DRGs) were isolated. All samples were frozen in li-
+quid nitrogen. The spinal cord and DRG samples were homoge-
+nized in ice-cold lysis buffer (50 mM Tris, pH 8, 5 mM
+Ethylenediaminetetraacetic acid (EDtA), 150 mM NaCl, 1% Nonidet,
+0.5% deoxycholic acid, 0.1% sodium dodecyl sulfate (SDS)) contain-
+ing protease inhibitor mix (1 mM phenylmethanesulfonyl fluoride
+(PMSF), 10 lg/mL leupeptin, 200 lg/mL benzamidin, 5 lg/mL pep-
+statin). Protein concentrations were determined using Bradford
+protein assay (Bio-Rad, Alphen a/d Rijn, The Netherlands). Proteins
+were separated by 10% SDS–poly acrylamide gele electrophoresis
+(PAGE) and transferred to nitrocellulose membranes. Blots were
+stained with rabbit-anti-GRK2 (1:300, Santa Cruz Biotechnology)
+and goat-anti-b-actin (1:2000, Santa Cruz Biotechnology, Santa             Fig. 2. EPI-induced thermal hyperalgesia in GRK2+/ and WT mice. (A) Female WT
+Cruz, CA, USA), then incubated with donkey-anti-rabbit-horserad-           and GRK2+/ mice received an intraplantar injection with EPI, and changes in heat
+ish peroxidase (HRP) (1:5000, Amersham Biosciences, Amersham,              withdrawal latencies were determined using the Hargreaves test. (B) EPI-induced
+UK) and donkey-anti-goat-HRP (1:5000, Santa Cruz Biotechnology,            thermal hyperalgesia in male WT and GRK2+/ mice. Data are expressed as the
+                                                                           percent change in heat withdrawal latency and represent mean ± SEM. Baseline
+Snata Cruz, CA, USA). Specific bands were developed by chemilu-             heat withdrawal latencies did not differ between groups. n = 8/group. ⁄P < .05,
+minescence (ECL, Amersham Biosciences, Amersham, UK) followed              ⁄⁄
+                                                                              P < .01, ⁄⁄⁄P < .001. EPI = epinephrine; GRK2 = G protein-coupled receptor kinase
+by X-ray film exposure. The films were scanned with a GS-700                 2; WT = wild type; SEM = standard error of the mean.
+
+===== [PDF page 4 of 10] =====
+1652
+
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+anti-mouse antibody (1:200, Invitrogen, Paisley, UK). We stained
+sections for IB4 because IB4 + neurons are thought to mediate
+inflammatory hyperalgesia.
+2.6. Data analysis
+Data are expressed as mean ± standard error of the mean (SEM).
+Statistical analysis was carried out using Student t-test, 1 way
+analysis of variance (ANOVA), or 2-way ANOVA followed by Bonferroni analysis. A P value <.05 was considered to be statistically
+significant.
+3. Results
+3.1. EPI-induced mechanical and thermal hyperalgesia in
+GRK2+/ mice
+To investigate whether GRK2 regulates EPI-induced mechanical
+hyperalgesia, we measured 50% paw withdrawal thresholds in WT
+and GRK2+/ mice in response to intraplantar injection of EPI.
+Mechanical thresholds at baseline were similar in female and
+male WT and GRK2+/ mice (females: 0.86 ± 0.06 g vs 0.82 ±
+0.09 g; n = 8; males: 0.99 ± 0.04 g vs 0.96 ± 0.04 g; n = 8). In
+GRK2+/ mice, EPI-induced hyperalgesia lasted approximately
+21 days vs 3 to 4 days in WT mice (Fig. 1A and B). EPI-induced
+mechanical hyperalgesia was prolonged to a similar extent in
+female and male GRK2+/ mice (Fig. 1A and B). At a low dose of
+EPI (3 ng/paw), mechanical hyperalgesia also lasted longer in
+
+GRK2+/ than in WT mice (Fig. 1C). In addition, at this low dose
+of EPI, acute hyperalgesia was increased in GRK2+/ mice.
+EPI-induced thermal hyperalgesia also differed between WT
+and GRK2+/ mice. In male and female WT mice, EPI-induced thermal hyperalgesia lasted 3 to 4 days. However, in GRK2+/ mice,
+thermal hyperalgesia was of markedly longer duration (nearly
+21 days) (Fig. 2A and B). Consistent with our previous reports
+[5,6,34], baseline heat withdrawal latencies were similar in WT
+and GRK2+/ mice (female: 7.90 ± 0.15 seconds vs 7.97 ± 0.18 seconds; male: 8.47 ± 0.09 seconds vs 8.35 ± 0.10 seconds; n = 8).
+The effect of reduced GRK2 on hyperalgesia was similar in male
+and female mice. Our earlier experiments on the contribution of
+GRK2 to hyperalgesia were all performed in female mice [5,6,34].
+Therefore, we used only female mice for all subsequent
+experiments.
+3.2. EPI-induced hyperalgesia in mice with tamoxifen-inducible
+heterozygous and homozygous GRK2 deletion
+Because mice homozygous for GRK2 deletion in all cells die in
+utero, we used TAM-GRK2+/ and TAM-GRK2 / mice to compare
+the effect of partial and complete ablation of GRK2 in all tissues
+on EPI-induced mechanical hyperalgesia. This set of experiments
+also allowed us to investigate whether the difference in hyperalgesia in GRK2+/ and WT mice could be caused by a developmental
+consequence of GRK2 deletion. TAM-GRK2+/ mice have a 40% to
+approximately 50% reduction in GRK2 protein, and TAM-GRK2 /
+mice have a 85% to approximately 90% reduction of GRK2 protein
+
+Fig. 3. EPI-induced mechanical hyperalgesia in mice with inducible deletion of GRK2. (A) EPI (10 ng/2.5 lL/paw) induced mechanical hyperalgesia in female TAM-GRK2+/+
+(WT), TAM-GRK2+/ , and TAM-GRK2 / mice (n = 8/group). Data are expressed as the change in 50% paw withdrawal thresholds calculated as described in the Methods
+section and represent mean ± SEM. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001. (B) GRK2 protein level in DRG, spinal cord and peritoneal macrophages from female tamoxifen-treated
+inducible GRK2-deficient mice. GRK2 protein levels were determined by Western blot analysis of tissue homogenates (n = 3–4/group). Insets display representative blots.
+EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2; WT = wild type; SEM = standard error of the mean; TAM = tamoxifen-inducible; DRG = dorsal root ganglia.
+
+
+----- [PDF page 4 of 10: layout view of the same page] -----
+                                                                                 Ò
+1652                                                          H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+
+anti-mouse antibody (1:200, Invitrogen, Paisley, UK). We stained                      GRK2+/ than in WT mice (Fig. 1C). In addition, at this low dose
+sections for IB4 because IB4 + neurons are thought to mediate                         of EPI, acute hyperalgesia was increased in GRK2+/ mice.
+inflammatory hyperalgesia.                                                                EPI-induced thermal hyperalgesia also differed between WT
+                                                                                      and GRK2+/ mice. In male and female WT mice, EPI-induced ther-
+2.6. Data analysis                                                                    mal hyperalgesia lasted 3 to 4 days. However, in GRK2+/ mice,
+                                                                                      thermal hyperalgesia was of markedly longer duration (nearly
+   Data are expressed as mean ± standard error of the mean (SEM).                     21 days) (Fig. 2A and B). Consistent with our previous reports
+Statistical analysis was carried out using Student t-test, 1 way                      [5,6,34], baseline heat withdrawal latencies were similar in WT
+analysis of variance (ANOVA), or 2-way ANOVA followed by Bon-                         and GRK2+/ mice (female: 7.90 ± 0.15 seconds vs 7.97 ± 0.18 sec-
+ferroni analysis. A P value <.05 was considered to be statistically                   onds; male: 8.47 ± 0.09 seconds vs 8.35 ± 0.10 seconds; n = 8).
+significant.                                                                              The effect of reduced GRK2 on hyperalgesia was similar in male
+                                                                                      and female mice. Our earlier experiments on the contribution of
+3. Results                                                                            GRK2 to hyperalgesia were all performed in female mice [5,6,34].
+                                                                                      Therefore, we used only female mice for all subsequent
+3.1. EPI-induced mechanical and thermal hyperalgesia in                               experiments.
+GRK2+/ mice
+                                                                                      3.2. EPI-induced hyperalgesia in mice with tamoxifen-inducible
+   To investigate whether GRK2 regulates EPI-induced mechanical                       heterozygous and homozygous GRK2 deletion
+hyperalgesia, we measured 50% paw withdrawal thresholds in WT
+and GRK2+/ mice in response to intraplantar injection of EPI.                            Because mice homozygous for GRK2 deletion in all cells die in
+   Mechanical thresholds at baseline were similar in female and                       utero, we used TAM-GRK2+/ and TAM-GRK2 / mice to compare
+male WT and GRK2+/ mice (females: 0.86 ± 0.06 g vs 0.82 ±                             the effect of partial and complete ablation of GRK2 in all tissues
+0.09 g; n = 8; males: 0.99 ± 0.04 g vs 0.96 ± 0.04 g; n = 8). In                      on EPI-induced mechanical hyperalgesia. This set of experiments
+GRK2+/ mice, EPI-induced hyperalgesia lasted approximately                            also allowed us to investigate whether the difference in hyperalge-
+21 days vs 3 to 4 days in WT mice (Fig. 1A and B). EPI-induced                        sia in GRK2+/ and WT mice could be caused by a developmental
+mechanical hyperalgesia was prolonged to a similar extent in                          consequence of GRK2 deletion. TAM-GRK2+/ mice have a 40% to
+female and male GRK2+/ mice (Fig. 1A and B). At a low dose of                         approximately 50% reduction in GRK2 protein, and TAM-GRK2 /
+EPI (3 ng/paw), mechanical hyperalgesia also lasted longer in                         mice have a 85% to approximately 90% reduction of GRK2 protein
+
+
+
+
+Fig. 3. EPI-induced mechanical hyperalgesia in mice with inducible deletion of GRK2. (A) EPI (10 ng/2.5 lL/paw) induced mechanical hyperalgesia in female TAM-GRK2+/+
+(WT), TAM-GRK2+/ , and TAM-GRK2 / mice (n = 8/group). Data are expressed as the change in 50% paw withdrawal thresholds calculated as described in the Methods
+section and represent mean ± SEM. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001. (B) GRK2 protein level in DRG, spinal cord and peritoneal macrophages from female tamoxifen-treated
+inducible GRK2-deficient mice. GRK2 protein levels were determined by Western blot analysis of tissue homogenates (n = 3–4/group). Insets display representative blots.
+EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2; WT = wild type; SEM = standard error of the mean; TAM = tamoxifen-inducible; DRG = dorsal root ganglia.
+
+===== [PDF page 5 of 10] =====
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+Fig. 4. Contribution of a- and b2-AR to EPI-induced hyperalgesia. Female WT (A)
+and GRK2+/ (B) mice were received an intraplantar injection with the a-AR
+receptor antagonist phentolamine (0.2 lg/2.5 lL/paw), the b2-AR antagonist ICI118551 (0.2 lg/2.5 lL/paw) or vehicle 30 minutes before intraplantar administration of EPI. Data are expressed as the change in 50% paw withdrawal thresholds
+calculated as described in the Methods section and represent mean ± SEM. n = 4–6/
+group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001 vs vehicle group. EPI = epinephrine; GRK2 = G
+protein-coupled receptor kinase 2; WT = wild type; SEM = standard error of the
+mean.
+
+in DRG and spinal cord, as assessed by Western blots (Fig. 3A).
+Expression of GRK2 was also decreased in other tissues, for example peritoneal macrophages (Fig. 3A). Tamoxifen-treated TAMGRK2+/+ (WT) littermates were used as control subjects. Baseline
+mechanical thresholds after tamoxifen treatment were similar for
+all genotypes (GRK2+/+: 0.92 ± 0.02 g; TAM-GRK2+/ : 0.94 ± 0.04 g;
+TAM-GRK2 / : 0.97 ± 0.04 g; n = 8/group). EPI (10 ng/paw) induced
+significantly prolonged mechanical hyperalgesia in both TAMGRK2+/ and TAM-GRK2 / mice in comparison with TAM-GRK2+/+
+mice. Interestingly, there was no difference in the course of EPI-induced hyperalgesia between mice heterozygous and homozygous
+for deletion of the GRK2 gene (Fig. 3B). These data indicate that a
+50% decrease of GRK2 is sufficient to maximally prolong EPI-induced
+hyperalgesia. In addition, they argue against a possible bias due to a
+developmental side effect of GRK2 deficiency.
+3.3. Effect of phentolamine and ICI-118,551 on EPI-induced
+mechanical hyperalgesia
+Next we investigated whether the prolongation of EPI-induced
+mechanical hyperalgesia in mice with a reduced level of GRK2 is
+mediated by a switch in the use of AR subtype. We used the specific b2-AR blocker, ICI-118,551 and the a-AR blocker phentol-
+
+1653
+
+Fig. 5. Contribution of low GRK2 in sensory neurons to EPI-induced hyperalgesia.
+(A) EPI (10 ng/2.5 lL/paw) induced mechanical hyperalgesia in female SNS-GRK2+/+
+and SNS-GRK2+/ mice. Mechanical hyperalgesia is expressed as the change in 50%
+paw withdrawal thresholds calculated as described in the Methods section. (B) EPI
+(10 ng/2.5 lL/paw) induced thermal hyperalgesia in female SNS-GRK2+/+ and SNSGRK2+/ mice. Heat withdrawal latency was determined using the Hargreaves test.
+Data are expressed as mean ± SEM. N = 8/group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001.
+EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2; SEM = standard
+error of the mean; SNS = sensory neuron specific.
+
+amine. In both WT (Fig. 4A) and GRK2+/ (Fig. 4B) mice, the
+b2-AR blocker inhibited EPI-induced hyperalgesia. In contrast, the
+a-AR blocker, phentolamine, had no effect on EPI-induced hyperalgesia in both genotypes.
+3.4. Role of neuronal GRK2 in EPI-induced hyperalgesia
+To investigate whether deficiency of GRK2 only in nociceptors
+was sufficient to prolong EPI-induced hyperalgesia, we used female
+heterozygous SNS-GRK2+/ mice and SNS-GRK2+/+ control littermates. SNS-GRK2+/ mice have a reduced level of GRK2 in
+Nav1.8-positive peripheral sensory neurons, of which 85% are nociceptors [6,32]. EPI-induced mechanical hyperalgesia was slightly
+but significantly enhanced in SNS-GRK2+/ mice (Fig. 5A), and
+lasted approximately 21 days. Mechanical hyperalgesia in control
+littermates returned to baseline levels within 4 days.
+EPI-induced thermal hyperalgesia was also markedly prolonged
+in SNS-GRK2+/ as compared with WT mice (Fig. 5B). Baseline
+mechanical thresholds (SNS-GRK2+/ mice and WT littermates:
+0.90 ± 0.03 g vs 0.86 ± 0.04 g) and heat withdrawal latencies
+(SNS-GRK2+/ mice and WT littermates, 8.23 ± 0.08 seconds vs
+8.02 ± 0.10 seconds) were similar in both genotypes.
+
+
+----- [PDF page 5 of 10: layout view of the same page] -----
+                                                                                        Ò
+                                                                 H. Wang et al. / PAIN 152 (2011) 1649–1658                                                             1653
+
+
+
+
+Fig. 4. Contribution of a- and b2-AR to EPI-induced hyperalgesia. Female WT (A)             Fig. 5. Contribution of low GRK2 in sensory neurons to EPI-induced hyperalgesia.
+and GRK2+/ (B) mice were received an intraplantar injection with the a-AR                   (A) EPI (10 ng/2.5 lL/paw) induced mechanical hyperalgesia in female SNS-GRK2+/+
+receptor antagonist phentolamine (0.2 lg/2.5 lL/paw), the b2-AR antagonist ICI-             and SNS-GRK2+/ mice. Mechanical hyperalgesia is expressed as the change in 50%
+118551 (0.2 lg/2.5 lL/paw) or vehicle 30 minutes before intraplantar administra-            paw withdrawal thresholds calculated as described in the Methods section. (B) EPI
+tion of EPI. Data are expressed as the change in 50% paw withdrawal thresholds              (10 ng/2.5 lL/paw) induced thermal hyperalgesia in female SNS-GRK2+/+ and SNS-
+calculated as described in the Methods section and represent mean ± SEM. n = 4–6/           GRK2+/ mice. Heat withdrawal latency was determined using the Hargreaves test.
+group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001 vs vehicle group. EPI = epinephrine; GRK2 = G       Data are expressed as mean ± SEM. N = 8/group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001.
+protein-coupled receptor kinase 2; WT = wild type; SEM = standard error of the              EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2; SEM = standard
+mean.                                                                                       error of the mean; SNS = sensory neuron specific.
+
+
+
+
+in DRG and spinal cord, as assessed by Western blots (Fig. 3A).
+                                                                                            amine. In both WT (Fig. 4A) and GRK2+/ (Fig. 4B) mice, the
+Expression of GRK2 was also decreased in other tissues, for exam-
+                                                                                            b2-AR blocker inhibited EPI-induced hyperalgesia. In contrast, the
+ple peritoneal macrophages (Fig. 3A). Tamoxifen-treated TAM-
+                                                                                            a-AR blocker, phentolamine, had no effect on EPI-induced hyperal-
+GRK2+/+ (WT) littermates were used as control subjects. Baseline
+                                                                                            gesia in both genotypes.
+mechanical thresholds after tamoxifen treatment were similar for
+all genotypes (GRK2+/+: 0.92 ± 0.02 g; TAM-GRK2+/ : 0.94 ± 0.04 g;
+TAM-GRK2 / : 0.97 ± 0.04 g; n = 8/group). EPI (10 ng/paw) induced                           3.4. Role of neuronal GRK2 in EPI-induced hyperalgesia
+significantly prolonged mechanical hyperalgesia in both TAM-
+GRK2+/ and TAM-GRK2 / mice in comparison with TAM-GRK2+/+                                       To investigate whether deficiency of GRK2 only in nociceptors
+mice. Interestingly, there was no difference in the course of EPI-in-                       was sufficient to prolong EPI-induced hyperalgesia, we used female
+duced hyperalgesia between mice heterozygous and homozygous                                 heterozygous SNS-GRK2+/ mice and SNS-GRK2+/+ control litter-
+for deletion of the GRK2 gene (Fig. 3B). These data indicate that a                         mates. SNS-GRK2+/ mice have a reduced level of GRK2 in
+50% decrease of GRK2 is sufficient to maximally prolong EPI-induced                          Nav1.8-positive peripheral sensory neurons, of which 85% are noci-
+hyperalgesia. In addition, they argue against a possible bias due to a                      ceptors [6,32]. EPI-induced mechanical hyperalgesia was slightly
+developmental side effect of GRK2 deficiency.                                                but significantly enhanced in SNS-GRK2+/ mice (Fig. 5A), and
+                                                                                            lasted approximately 21 days. Mechanical hyperalgesia in control
+3.3. Effect of phentolamine and ICI-118,551 on EPI-induced                                  littermates returned to baseline levels within 4 days.
+mechanical hyperalgesia                                                                         EPI-induced thermal hyperalgesia was also markedly prolonged
+                                                                                            in SNS-GRK2+/ as compared with WT mice (Fig. 5B). Baseline
+   Next we investigated whether the prolongation of EPI-induced                             mechanical thresholds (SNS-GRK2+/ mice and WT littermates:
+mechanical hyperalgesia in mice with a reduced level of GRK2 is                             0.90 ± 0.03 g vs 0.86 ± 0.04 g) and heat withdrawal latencies
+mediated by a switch in the use of AR subtype. We used the spe-                             (SNS-GRK2+/ mice and WT littermates, 8.23 ± 0.08 seconds vs
+cific b2-AR blocker, ICI-118,551 and the a-AR blocker phentol-                               8.02 ± 0.10 seconds) were similar in both genotypes.
+
+===== [PDF page 6 of 10] =====
+1654
+
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+3.5. Role of microglial/macrophage and astrocyte GRK2 in EPI-induced
+hyperalgesia
+To assess the contribution of low GRK2 in microglia/macrophages
+to the prolongation of EPI-induced hyperalgesia, we compared
+heterozygous LysM-GRK2+/ mice with control LysM-GRK2+/+
+littermates. LysM-GRK2+/ mice have a reduced level of GRK2 only
+in microglia/macrophages/granulocytes [5]. EPI-induced mechanical and thermal hyperalgesia were prolonged by 2 to 4 days in
+LysM-GRK2+/ mice compared with control LysM-GRK2+/+ littermates. However, EPI-induced hyperalgesia in LysM-GRK2+/ mice
+lasted significantly shorter than in GRK2+/ mice with low GRK2
+in all cells (Fig. 6A and B as compared with Fig. 1). Baseline 50%
+paw withdrawal thresholds (0.85 ± 0.02 g vs 0.89 ± 0.02 g; n = 8/
+group) and heat withdrawal latency times (7.94 ± 0.11 seconds vs
+8.25 ± 0.13 seconds; n = 8/group) were similar between LysMGRK2+/ mice and control littermates.
+To assess the contribution of low GRK2 in astrocytes, we measured EPI-induced hyperalgesia in GFAP-GRK2+/ mice and control
+littermates. The data in Fig. 7 show that EPI-induced mechanical
+hyperalgesia in GFAP-GRK2+/ mice did not differ from control
+littermates.
+3.6. DRG structure
+To examine the effects of GRK2 deletion on gross morphology of
+the DRG, we compared the distribution of different subtypes of
+DRG neurons in SNS-GRK2+/ and WT mice. We did not observe
+any genotype-related difference in the percentage of IB4+ and
+IB4- small-diameter neurons that are thought to be important for
+inflammatory hyperalgesia. In addition, there were no differences
+in the size distribution of DRG neurons between genotypes (Fig. 8).
+Fig. 6. Contribution of low GRK2 in microglia to EPI-induced hyperalgesia. (A) EPIinduced mechanical hyperalgesia in female LysM-GRK2+/+ and LysM-GRK2+/ mice.
+Mechanical hyperalgesia is expressed as the change in 50% paw withdrawal
+thresholds calculated as described in the Methods section. (B) EPI (10 ng/2.5 lL/
+paw) induced thermal hyperalgesia in female LysM-GRK2+/+ and LysM-GRK2+/
+mice. Heat withdrawal latency was determined with Hargreaves test. Data are
+expressed as mean ± SEM. n = 8/group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001. EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2; SEM = standard error of the
+mean.
+
+3.7. Effect of low GRK2 EPI-induced hyperalgesic signalling
+Next we investigated whether a decrease in nociceptor GRK2
+led to a change in the use of signalling pathways that mediate
+EPI-induced hyperalgesia. In WT mice, the PKA inhibitor H-89 significantly reduced EPI-induced mechanical hyperalgesia (Fig. 9A).
+However, in SNS-GRK2+/ mice, H-89 had no effect at all on EPI-induced mechanical hyperalgesia (Fig. 9B). Conversely, pretreatment
+with the PKCe inhibitor TAT-PKCev1-2 had no detectable effect on
+EPI-induced mechanical hyperalgesia in WT mice (Fig. 9C),
+whereas inhibition of PKCe in SNS-GRK2+/ mice markedly reduced
+EPI-induced mechanical hyperalgesia (Fig. 9D). Notably, the severity and duration of EPI-induced hyperalgesia in TAT-PKCev1-2-treated SNS-GRK2+/ mice was similar to that of WT mice.
+The MEK inhibitor U0126 partially inhibited the acute phase of
+EPI-induced mechanical hyperalgesia in both WT and SNS-GRK2+/
+mice and entirely prevented the late phase of EPI-induced mechanical hyperalgesia in SNS-GRK2+/ mice (Fig. 9E and F).
+4. Discussion
+
+Fig. 7. Contribution of low GRK2 in astrocytes to EPI-induced mechanical hyperalgesia. EPI (10 ng/2.5 lL/paw) induced mechanical hyperalgesia in female GFAPGRK2+/+ and GFAP-GRK2+/ mice. Baseline 50% paw withdrawal thresholds
+(0.92 ± 0.03 g vs 0.92 ± 0.03 g) were similar between GFAP-GRK2+/ mice and
+control littermates. Data are expressed as the change in 50% paw withdrawal
+thresholds calculated as described in the Methods section and represent mean ± SEM. n = 8/group. EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2;
+SEM = standard error of the mean; GFAP = glial fibrillary acidic protein.
+
+We recently identified GRK2 as a key regulator of the duration
+and intensity of thermal hyperalgesia induced by peripheral injection of the inflammatory stimuli PGE2, carrageenan, CCL3, and IL-1
+[5,6,34].
+In this study, we focused on the contribution of GRK2 to
+mechanical hyperalgesia induced by the stress hormone EPI. We
+showed that EPI-induced mechanical hyperalgesia was markedly
+prolonged in both male and female GRK2+/ mice from 3 to 4 days
+in WT animals to approximately 21 days in GRK2+/ mice. Thermal
+hyperalgesia induced by EPI was also markedly prolonged in
+GRK2+/ mice. In SNS-GRK2+/ mice, which have a low GRK2
+level only in NaV1.8+-peripheral sensory neurons, EPI-induced
+
+
+----- [PDF page 6 of 10: layout view of the same page] -----
+                                                                                         Ò
+1654                                                              H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+
+                                                                                             3.5. Role of microglial/macrophage and astrocyte GRK2 in EPI-induced
+                                                                                             hyperalgesia
+
+                                                                                                 To assess the contribution of low GRK2 in microglia/macrophages
+                                                                                             to the prolongation of EPI-induced hyperalgesia, we compared
+                                                                                             heterozygous LysM-GRK2+/ mice with control LysM-GRK2+/+
+                                                                                             littermates. LysM-GRK2+/ mice have a reduced level of GRK2 only
+                                                                                             in microglia/macrophages/granulocytes [5]. EPI-induced mechani-
+                                                                                             cal and thermal hyperalgesia were prolonged by 2 to 4 days in
+                                                                                             LysM-GRK2+/ mice compared with control LysM-GRK2+/+ litter-
+                                                                                             mates. However, EPI-induced hyperalgesia in LysM-GRK2+/ mice
+                                                                                             lasted significantly shorter than in GRK2+/ mice with low GRK2
+                                                                                             in all cells (Fig. 6A and B as compared with Fig. 1). Baseline 50%
+                                                                                             paw withdrawal thresholds (0.85 ± 0.02 g vs 0.89 ± 0.02 g; n = 8/
+                                                                                             group) and heat withdrawal latency times (7.94 ± 0.11 seconds vs
+                                                                                             8.25 ± 0.13 seconds; n = 8/group) were similar between LysM-
+                                                                                             GRK2+/ mice and control littermates.
+                                                                                                 To assess the contribution of low GRK2 in astrocytes, we mea-
+                                                                                             sured EPI-induced hyperalgesia in GFAP-GRK2+/ mice and control
+                                                                                             littermates. The data in Fig. 7 show that EPI-induced mechanical
+                                                                                             hyperalgesia in GFAP-GRK2+/ mice did not differ from control
+                                                                                             littermates.
+
+                                                                                             3.6. DRG structure
+
+                                                                                                 To examine the effects of GRK2 deletion on gross morphology of
+                                                                                             the DRG, we compared the distribution of different subtypes of
+                                                                                             DRG neurons in SNS-GRK2+/ and WT mice. We did not observe
+                                                                                             any genotype-related difference in the percentage of IB4+ and
+                                                                                             IB4- small-diameter neurons that are thought to be important for
+                                                                                             inflammatory hyperalgesia. In addition, there were no differences
+                                                                                             in the size distribution of DRG neurons between genotypes (Fig. 8).
+Fig. 6. Contribution of low GRK2 in microglia to EPI-induced hyperalgesia. (A) EPI-
+induced mechanical hyperalgesia in female LysM-GRK2+/+ and LysM-GRK2+/ mice.                 3.7. Effect of low GRK2 EPI-induced hyperalgesic signalling
+Mechanical hyperalgesia is expressed as the change in 50% paw withdrawal
+thresholds calculated as described in the Methods section. (B) EPI (10 ng/2.5 lL/                Next we investigated whether a decrease in nociceptor GRK2
+paw) induced thermal hyperalgesia in female LysM-GRK2+/+ and LysM-GRK2+/
+mice. Heat withdrawal latency was determined with Hargreaves test. Data are
+                                                                                             led to a change in the use of signalling pathways that mediate
+expressed as mean ± SEM. n = 8/group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001. EPI = epineph-       EPI-induced hyperalgesia. In WT mice, the PKA inhibitor H-89 sig-
+rine; GRK2 = G protein-coupled receptor kinase 2; SEM = standard error of the                nificantly reduced EPI-induced mechanical hyperalgesia (Fig. 9A).
+mean.                                                                                        However, in SNS-GRK2+/ mice, H-89 had no effect at all on EPI-in-
+                                                                                             duced mechanical hyperalgesia (Fig. 9B). Conversely, pretreatment
+                                                                                             with the PKCe inhibitor TAT-PKCev1-2 had no detectable effect on
+                                                                                             EPI-induced mechanical hyperalgesia in WT mice (Fig. 9C),
+                                                                                             whereas inhibition of PKCe in SNS-GRK2+/ mice markedly reduced
+                                                                                             EPI-induced mechanical hyperalgesia (Fig. 9D). Notably, the sever-
+                                                                                             ity and duration of EPI-induced hyperalgesia in TAT-PKCev1-2-trea-
+                                                                                             ted SNS-GRK2+/ mice was similar to that of WT mice.
+                                                                                                 The MEK inhibitor U0126 partially inhibited the acute phase of
+                                                                                             EPI-induced mechanical hyperalgesia in both WT and SNS-GRK2+/
+                                                                                             mice and entirely prevented the late phase of EPI-induced mechan-
+                                                                                             ical hyperalgesia in SNS-GRK2+/ mice (Fig. 9E and F).
+
+                                                                                             4. Discussion
+
+                                                                                                We recently identified GRK2 as a key regulator of the duration
+                                                                                             and intensity of thermal hyperalgesia induced by peripheral injec-
+                                                                                             tion of the inflammatory stimuli PGE2, carrageenan, CCL3, and IL-1
+                                                                                             [5,6,34].
+                                                                                                In this study, we focused on the contribution of GRK2 to
+Fig. 7. Contribution of low GRK2 in astrocytes to EPI-induced mechanical hyper-
+                                                                                             mechanical hyperalgesia induced by the stress hormone EPI. We
+algesia. EPI (10 ng/2.5 lL/paw) induced mechanical hyperalgesia in female GFAP-              showed that EPI-induced mechanical hyperalgesia was markedly
+GRK2+/+ and GFAP-GRK2+/ mice. Baseline 50% paw withdrawal thresholds                         prolonged in both male and female GRK2+/ mice from 3 to 4 days
+(0.92 ± 0.03 g vs 0.92 ± 0.03 g) were similar between GFAP-GRK2+/ mice and                   in WT animals to approximately 21 days in GRK2+/ mice. Thermal
+control littermates. Data are expressed as the change in 50% paw withdrawal
+                                                                                             hyperalgesia induced by EPI was also markedly prolonged in
+thresholds calculated as described in the Methods section and represent mean ± -
+SEM. n = 8/group. EPI = epinephrine; GRK2 = G protein-coupled receptor kinase 2;             GRK2+/ mice. In SNS-GRK2+/ mice, which have a low GRK2
+SEM = standard error of the mean; GFAP = glial fibrillary acidic protein.                     level only in NaV1.8+-peripheral sensory neurons, EPI-induced
+
+===== [PDF page 7 of 10] =====
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+1655
+
+Fig. 8. Effect of GRK2 deficiency on DRG morphology. IB4 (green) and a-tubulin (red) double staining in DRGs of (A) SNS-GRK2+/+ (WT) and (B) SNS-GRK2+/ mice. (C)
+Percentage of IB4 + and IB4- neurons and (D) size-percentage histogram for DRG neurons from SNS-GRK2+/+ and SNS-GRK2+/ mice. Data are expressed as mean ± SEM of 3 to
+4 mice per group and are based on >500 neurons from multiple DRGs per mouse. GRK2 = G protein-coupled receptor kinase 2; WT = wild type; SEM = standard error of the
+mean; DRG = dorsal root ganglia; IB4 = isolectin B4; SNS = sensory neuron specific.
+
+mechanical hyperalgesia was prolonged to the same extent as in
+GRK2+/ mice, which have low GRK2 in all cells. These data clearly
+show that a reduction in the level of GRK2 in primary sensory neurons alone is sufficient to mimic the effect of low GRK2 in all cells
+on EPI-induced hyperalgesia.
+In our earlier studies we had shown that the level of GRK2 in
+microglia/macrophages plays an important role in determining
+duration of thermal hyperalgesia induced by carrageenan, CCL3,
+and the cytokine IL-1b [6,34]. For example, IL-1-induced hyperalgesia lasted only 1 day in WT mice but approximately 8 days in
+LysM-GRK2+/
+mice. Similarly, carrageenan-induced thermal
+hyperalgesia was prolonged from 3 days in WT mice to more than
+20 days in LysM-GRK2+/ mice. In contrast, however, we show here
+that a reduced level of GRK2 in microglia/macrophages has only a
+small effect on EPI-induced mechanical and thermal hyperalgesia.
+There is another discrepancy between the present results and
+those obtained in the model of PGE2-induced hyperalgesia. In this
+last model, a reduction in nociceptor GRK2 only was not sufficient
+to fully explain the more pronounced prolongation of PGE2-hyperalgesia in total GRK2+/ mice [6]. These findings imply that low
+GRK2 in other cells, e.g., microglia/macrophages contributes to
+the longer duration of the hyperalgesic response to PGE2 in mice
+with low GRK2 in all cells. In the present study, EPI-induced
+mechanical and thermal hyperalgesia was prolonged to the same
+extent in SNS-GRK2+/ mice as compared with GRK2+/ mice.
+
+Therefore, we propose that low GRK2 in nociceptors alone is sufficient to obtain the maximal effect of low GRK2 on EPI-induced
+hyperalgesia, whereas low GRK2 in both nociceptors and in
+microglia/macrophages is required to maximally prolong PGE2
+hyperalgesia. GRK2 in astrocytes had no effect on regulating hyperalgesia in response to all stimuli we tested so far, including EPI.
+Considering the fact that activation of both PGE2 and adrenergic
+receptors increases intracellular cAMP while CCL3 and IL-1b receptors signal via cAMP-independent pathways [20,25,35], we suggest
+that neuronal GRK2 orchestrates the duration of inflammatory
+hyperalgesia only when the inflammatory stimulus involves a
+cAMP signalling component.
+At a low dose of EPI (3 ng/mouse), hyperalgesia in GRK2+/
+mice was not only prolonged, but in the acute phase also increased. These findings indicate that low GRK2 may shift the
+dose-response curve for EPI to the left. The higher dose of EPI-increased acute hyperalgesia was also observed in GRK2-deficient
+mice in some but not all experiments, which may be due to a ceiling effect. It has been reported that b-AR and specifically b2-AR
+mediate mechanical hyperalgesia in response to EPI in rats
+[4,12,18]. However, EPI is also an agonist for b1-AR and can activate a-AR with lower affinity. All of these ARs are GPCRs and have
+been shown to be a substrate for regulation by GRKs [10,24]. To
+establish that the prolonged hyperalgesia in conditions of low
+neuronal GRK2 is not the result of a switch in the use of AR sub-
+
+
+----- [PDF page 7 of 10: layout view of the same page] -----
+                                                                                Ò
+                                                             H. Wang et al. / PAIN 152 (2011) 1649–1658                                                         1655
+
+
+
+
+Fig. 8. Effect of GRK2 deficiency on DRG morphology. IB4 (green) and a-tubulin (red) double staining in DRGs of (A) SNS-GRK2+/+ (WT) and (B) SNS-GRK2+/ mice. (C)
+Percentage of IB4 + and IB4- neurons and (D) size-percentage histogram for DRG neurons from SNS-GRK2+/+ and SNS-GRK2+/ mice. Data are expressed as mean ± SEM of 3 to
+4 mice per group and are based on >500 neurons from multiple DRGs per mouse. GRK2 = G protein-coupled receptor kinase 2; WT = wild type; SEM = standard error of the
+mean; DRG = dorsal root ganglia; IB4 = isolectin B4; SNS = sensory neuron specific.
+
+
+
+mechanical hyperalgesia was prolonged to the same extent as in                       Therefore, we propose that low GRK2 in nociceptors alone is suffi-
+GRK2+/ mice, which have low GRK2 in all cells. These data clearly                    cient to obtain the maximal effect of low GRK2 on EPI-induced
+show that a reduction in the level of GRK2 in primary sensory neu-                   hyperalgesia, whereas low GRK2 in both nociceptors and in
+rons alone is sufficient to mimic the effect of low GRK2 in all cells                 microglia/macrophages is required to maximally prolong PGE2
+on EPI-induced hyperalgesia.                                                         hyperalgesia. GRK2 in astrocytes had no effect on regulating hyper-
+    In our earlier studies we had shown that the level of GRK2 in                    algesia in response to all stimuli we tested so far, including EPI.
+microglia/macrophages plays an important role in determining                         Considering the fact that activation of both PGE2 and adrenergic
+duration of thermal hyperalgesia induced by carrageenan, CCL3,                       receptors increases intracellular cAMP while CCL3 and IL-1b recep-
+and the cytokine IL-1b [6,34]. For example, IL-1-induced hyperal-                    tors signal via cAMP-independent pathways [20,25,35], we suggest
+gesia lasted only 1 day in WT mice but approximately 8 days in                       that neuronal GRK2 orchestrates the duration of inflammatory
+LysM-GRK2+/       mice. Similarly, carrageenan-induced thermal                       hyperalgesia only when the inflammatory stimulus involves a
+hyperalgesia was prolonged from 3 days in WT mice to more than                       cAMP signalling component.
+20 days in LysM-GRK2+/ mice. In contrast, however, we show here                         At a low dose of EPI (3 ng/mouse), hyperalgesia in GRK2+/
+that a reduced level of GRK2 in microglia/macrophages has only a                     mice was not only prolonged, but in the acute phase also in-
+small effect on EPI-induced mechanical and thermal hyperalgesia.                     creased. These findings indicate that low GRK2 may shift the
+    There is another discrepancy between the present results and                     dose-response curve for EPI to the left. The higher dose of EPI-in-
+those obtained in the model of PGE2-induced hyperalgesia. In this                    creased acute hyperalgesia was also observed in GRK2-deficient
+last model, a reduction in nociceptor GRK2 only was not sufficient                    mice in some but not all experiments, which may be due to a ceil-
+to fully explain the more pronounced prolongation of PGE2-hyper-                     ing effect. It has been reported that b-AR and specifically b2-AR
+algesia in total GRK2+/ mice [6]. These findings imply that low                       mediate mechanical hyperalgesia in response to EPI in rats
+GRK2 in other cells, e.g., microglia/macrophages contributes to                      [4,12,18]. However, EPI is also an agonist for b1-AR and can acti-
+the longer duration of the hyperalgesic response to PGE2 in mice                     vate a-AR with lower affinity. All of these ARs are GPCRs and have
+with low GRK2 in all cells. In the present study, EPI-induced                        been shown to be a substrate for regulation by GRKs [10,24]. To
+mechanical and thermal hyperalgesia was prolonged to the same                        establish that the prolonged hyperalgesia in conditions of low
+extent in SNS-GRK2+/ mice as compared with GRK2+/ mice.                              neuronal GRK2 is not the result of a switch in the use of AR sub-
+
+===== [PDF page 8 of 10] =====
+1656
+
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+Fig. 9. Contribution of PKA, PKCe, and MEK/ERK signalling pathways to EPI-induced mechanical hyperalgesia. Female SNS-GRK2+/+ (WT) (A) and SNS-GRK2+/ (B) mice
+received an intraplantar injection of H-89 or vehicle 30 minutes before intraplantar administration of EPI. The change in mechanical sensitivity was monitored over time.
+Female SNS-GRK2+/+ (C) and SNS-GRK2+/ (D) mice received an intraplantar injection of TAT-PKCev1-2 or TAT-scrambled PKCev1-2 30 minutes before intraplantar
+administration of EPI (10 ng/2.5 lL/paw). Female SNS-GRK2+/+ (E) and SNS-GRK2+/ (F) mice received an intraplantar injection of U0126 or vehicle 30 minutes before
+intraplantar administration of EPI (10 ng/2.5 lL/paw). Data are expressed as the change in 50% paw withdrawal thresholds calculated as described in the Methods section and
+represent mean ± SEM. n = 6–8/group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001. PKA = protein kinase A; PKC = protein kinase C; MEK/ERK = mitogen-activated protein kinase kinase/
+extracelllular signal-regulated kinase; EPI = epinephrine; SNS = sensory neuron specific; GRK2 = G protein-coupled receptor kinase 2; TAT = protein transduction sequence;
+WT = wild type; SEM = standard error of the mean.
+
+type, we administered a b2-AR blocker (ICI-118,551) or an a-AR
+blocker (phentolamine) before intraplantar EPI injection. Our results showed that phentolamine had no effect on EPI-induced
+hyperalgesia in WT and GRK2+/ mice. However, ICI-118,551
+attenuated EPI-induced hyperalgesia in both genotypes. These
+findings indicate that the prolongation of hyperalgesia in conditions of low GRK2 is unlikely to be due to a switch in the use of
+other AR subtypes in GRK2-deficient mice. In addition, this finding
+confirms earlier studies showing that b2-AR are responsible for
+mediating EPI-induced hyperalgesia [12]. However, we cannot
+completely exclude that other AR subtypes also contribute partially to EPI-induced hyperalgesia in both genotypes.
+
+GRK2 is required for fetal development because mice with complete ablation of GRK2 die in utero [14]. However, no data are
+available on the contribution of low GRK2 to the development of
+DRG neurons. This is important because changes in the architecture of the DRG may have consequences for regulation of the
+hyperalgesic response. We therefore analysed the effect of GRK2
+reduction on the distribution of the different subpopulations of
+DRG neurons. Our data show that the percentages of neurons of
+all sizes do not differ among genotypes. Small-sized primary sensory neurons have been reported to selectively express IB4 binding
+sites [8], and relatively high IB4 binding is specific for C-nociceptor-type neurons [7]. When analysing the percentage of IB4(+)
+
+
+----- [PDF page 8 of 10: layout view of the same page] -----
+                                                                                   Ò
+1656                                                           H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+
+
+
+Fig. 9. Contribution of PKA, PKCe, and MEK/ERK signalling pathways to EPI-induced mechanical hyperalgesia. Female SNS-GRK2+/+ (WT) (A) and SNS-GRK2+/ (B) mice
+received an intraplantar injection of H-89 or vehicle 30 minutes before intraplantar administration of EPI. The change in mechanical sensitivity was monitored over time.
+Female SNS-GRK2+/+ (C) and SNS-GRK2+/ (D) mice received an intraplantar injection of TAT-PKCev1-2 or TAT-scrambled PKCev1-2 30 minutes before intraplantar
+administration of EPI (10 ng/2.5 lL/paw). Female SNS-GRK2+/+ (E) and SNS-GRK2+/ (F) mice received an intraplantar injection of U0126 or vehicle 30 minutes before
+intraplantar administration of EPI (10 ng/2.5 lL/paw). Data are expressed as the change in 50% paw withdrawal thresholds calculated as described in the Methods section and
+represent mean ± SEM. n = 6–8/group. ⁄P < .05, ⁄⁄P < .01, ⁄⁄⁄P < .001. PKA = protein kinase A; PKC = protein kinase C; MEK/ERK = mitogen-activated protein kinase kinase/
+extracelllular signal-regulated kinase; EPI = epinephrine; SNS = sensory neuron specific; GRK2 = G protein-coupled receptor kinase 2; TAT = protein transduction sequence;
+WT = wild type; SEM = standard error of the mean.
+
+
+
+
+type, we administered a b2-AR blocker (ICI-118,551) or an a-AR                              GRK2 is required for fetal development because mice with com-
+blocker (phentolamine) before intraplantar EPI injection. Our re-                       plete ablation of GRK2 die in utero [14]. However, no data are
+sults showed that phentolamine had no effect on EPI-induced                             available on the contribution of low GRK2 to the development of
+hyperalgesia in WT and GRK2+/ mice. However, ICI-118,551                                DRG neurons. This is important because changes in the architec-
+attenuated EPI-induced hyperalgesia in both genotypes. These                            ture of the DRG may have consequences for regulation of the
+findings indicate that the prolongation of hyperalgesia in condi-                        hyperalgesic response. We therefore analysed the effect of GRK2
+tions of low GRK2 is unlikely to be due to a switch in the use of                       reduction on the distribution of the different subpopulations of
+other AR subtypes in GRK2-deficient mice. In addition, this finding                       DRG neurons. Our data show that the percentages of neurons of
+confirms earlier studies showing that b2-AR are responsible for                          all sizes do not differ among genotypes. Small-sized primary sen-
+mediating EPI-induced hyperalgesia [12]. However, we cannot                             sory neurons have been reported to selectively express IB4 binding
+completely exclude that other AR subtypes also contribute par-                          sites [8], and relatively high IB4 binding is specific for C-nocicep-
+tially to EPI-induced hyperalgesia in both genotypes.                                   tor-type neurons [7]. When analysing the percentage of IB4(+)
+
+===== [PDF page 9 of 10] =====
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+and IB4( ) DRG neurons in WT and GRK2-deficient mice, we found
+that there was no difference in the percentage of IB4(+) neurons.
+To investigate whether the effect of low GRK2 on EPI hyperalgesia is dependent on other more functional developmental effects,
+we used tamoxifen-inducible GRK2 / and GRK2+/ mice. The results of these experiments do not point toward a contribution of
+developmental effects of low GRK2 to hyperalgesia; EPI-induced
+hyperalgesia was similarly enhanced and prolonged in mice with
+low GRK2 in all cells during the entire life span versus mice in
+which the reduction in GRK2 in all cells was induced in adult life.
+Interestingly, we observed a lack of gene dosage effect when comparing the hyperalgesic response to EPI in tamoxifen-inducible
+GRK2 / and GRK2+/ mice, suggesting that a 50% decrease of
+GRK2 is already sufficient to induce a maximal effect on the prolongation of EPI-induced hyperalgesia.
+In terms of signalling pathways, we showed here that EPI-induced hyperalgesia in WT mice was blocked by the PKA inhibitor
+H-89. However, in SNS-GRK2+/ mice, we did not observe any effect of the PKA inhibitor on EPI-induced mechanical hyperalgesia.
+Conversely, inhibition of PKCe did not affect EPI-induced hyperalgesia in female WT mice, whereas it inhibited EPI-hyperalgesia in
+SNS-GRK2+/ mice. These results are in accordance with the mechanism we recently proposed for regulation of PGE2-induced thermal hyperalgesia by low nociceptor GRK2 [6]. Thus, our present
+findings confirm and expand further the emerging scenario that
+low nociceptor GRK2 induces a switch in cAMP signalling from
+PKA- toward PKCe-dependent pathways.
+Hucho et al. have described that cAMP signalling to PKCe
+involves Epac [12]. We have shown that in vitro low GRK2 causes
+biased cAMP signalling to Epac and its downstream target Rap1 [6].
+We also showed that GRK2 and Epac1 are present in the same protein complex, and we proposed that binding of GRK2 to Epac inhibits activation of Epac in response to cAMP-inducing agents. This
+interpretation is supported by our finding that in vitro, Rap1 activation by the Epac activator 8p-CPT is stronger in GRK2+/ DRG
+neurons as compared with WT DRG neurons [6]. On the basis of
+all of these converging data, we propose that low GRK2 in nociceptors determines neuronal responsiveness to cAMP-inducing agents
+by shifting the balance from PKA to PKCe via a mechanism involving increased Epac activation when GRK2 is low.
+The signalling routes involved in EPI-induced mechanical
+hyperalgesia as analysed by the Randall-Selito test in rats have
+been described before by Dina et al. [4]. These investigators
+showed that female rats do not use PKA but only MEK signalling
+to establish EPI-induced mechanical hyperalgesia [4]. Our results
+indicate that in WT female mice EPI-induced mechanical hyperalgesia is mediated by both PKA and MEK/ERK. These apparent differences in the use of PKA may be due to species differences (rat
+versus mouse), the way mechanical threshold was analysed (von
+Frey versus Randall-Selito test), and/or the use of different PKA
+inhibitors (H89 versus the peptide inhibitor WIPTIDE).
+In mice with low neuronal GRK2, the prolonged hyperalgesia is
+no longer dependent on PKA but is routed via both PKCe and MEK/
+ERK-dependent pathways because blocking of either of these pathways prevented the prolongation of hyperalgesia. We therefore
+propose that the EPI-induced activation of the MEK/ERK pathway
+predominates in conditions of both normal and low GRK2. Low
+nociceptor GRK2 biases EPI signalling from PKA to PKCe, but activity of both the MEK/ERK and the PKCe pathway is required for
+development of prolonged hyperalgesia in mice with low nociceptor GRK2. Whether in conditions of low GRK2 MEK/ERK becomes
+part of the signalling complex with (Epac-)PKCe or MEK/ERK activation occurs as part of a separate signalling route remains to be
+established.
+The fact that inflammation reduces GRK2 in both DRGs and
+spinal cord to the same extent as in the heterozygous knockout
+
+1657
+
+mice [6,34] underlines the translational significance of our current
+data and extends the emerging concept that GRK2 is a pivotal molecule in the transition from acute to prolonged hyperalgesia in disease processes comprising inflammation and/or chronic stress.
+Acknowledgements
+The authors are greatly indebted to Dr. J.N. Wood, University
+College London, London, UK, for sharing the Nav1.8-CRE mice and
+to Dr. G.W. Dorn 2nd, Center for Pharmacogenomics, Department
+of Medicine, Washington University School of Medicine, St. Louis,
+MO, USA, for sharing the GRK2-fLox mice. We thank Mrs. Ilona
+den Hartog for technical assistance. The authors have no conflicts
+of interest related to this study.
+References
+[1] Bos JL. Epac proteins: multi-purpose cAMP targets. Trends Biochem Sci
+2006;31:680–6.
+[2] Chaplan SR, Bach FW, Pogrel JW, Chung JM, Yaksh TL. Quantitative assessment
+of tactile allodynia in the rat paw. J Neurosci Methods 1994;53:55–63.
+[3] Daaka Y, Luttrell LM, Lefkowitz RJ. Switching of the coupling of the beta2adrenergic receptor to different G proteins by protein kinase A. Nature
+1997;390:88–91.
+[4] Dina OA, Aley KO, Isenberg W, Messing RO, Levine JD. Sex hormones regulate
+the contribution of PKCepsilon and PKA signalling in inflammatory pain in the
+rat. Eur J Neurosci 2001;13:2227–33.
+[5] Eijkelkamp N, Heijnen CJ, Willemen HL, Deumens R, Joosten EA, Kleibeuker W,
+den Hartog I, van Velthoven CT, Nijboer C, Nassar MA, Dorn GW, Wood JN,
+Kavelaars A. GRK2: a novel cell-specific regulator of severity and duration of
+inflammatory pain. J Neurosci 2010;30:2138–49.
+[6] Eijkelkamp N, Wang H, Garza-Carbajal A, Willemen HL, Zwartkruis FJ, Wood
+JN, Dantzer R, Kelley KW, Heijnen CJ, Kavelaars A. Low nociceptor GRK2
+prolongs prostaglandin E2 hyperalgesia via biased cAMP signalling to Epac/
+Rap1, protein kinase Ce, and MEK/ERK. J Neurosci 2010;30:12806–15.
+[7] Fang X, Djouhri L, McMullan S, Berry C, Waxman SG, Okuse K, Lawson SN.
+Intense isolectin-B4 binding in rat dorsal root ganglion neurons distinguishes
+C-fiber nociceptors with broad action potentials and high Nav1.9 expression. J
+Neurosci 2006;26:7281–92.
+[8] Gerke MB, Plenderleith MB. Binding sites for the plant lectin Bandeiraea
+simplicifolia I-isolectin B(4) are expressed by nociceptive primary sensory
+neurones. Brain Res 2001;911:101–4.
+[9] Hargreaves K, Dubner R, Brown F, Flores C, Joris J. A new and sensitive method
+for measuring thermal nociception in cutaneous hyperalgesia. Pain
+1988;32:77–88.
+[10] Hausdorff WP, Lohse MJ, Bouvier M, Liggett SB, Caron MG, Lefkowitz RJ. Two
+kinases mediate agonist-dependent phosphorylation and desensitization of
+the beta 2-adrenergic receptor. Symp Soc Exp Biol 1990;44:225–40.
+[11] Houslay MD, Baillie GS. Beta-arrestin-recruited phosphodiesterase-4
+desensitizes the AKAP79/PKA-mediated switching of beta2-adrenoceptor
+signalling to activation of ERK. Biochem Soc Trans 2005;33:1333–6.
+[12] Hucho TB, Dina OA, Levine JD. Epac mediates a cAMP-to-PKC signalling in
+inflammatory pain: an isolectin B4(+) neuron-specific mechanism. J Neurosci
+2005;25:6119–26.
+[13] Iyer V, Tran TM, Foster E, Dai W, Clark RB, Knoll BJ. Differential
+phosphorylation and dephosphorylation of beta2-adrenoceptor sites Ser262
+and Ser355, 356. Br J Pharmacol 2006;147:249–59.
+[14] Jaber M, Koch WJ, Rockman H, Smith B, Bond RA, Sulik KK, Ross Jr J, Lefkowitz
+RJ, Caron MG, Giros B. Essential role of beta-adrenergic receptor kinase 1 in
+cardiac development and function. Proc Natl Acad Sci USA 1996;93:12974–9.
+[15] Janig W, Levine JD, Michaelis M. Interactions of sympathetic and primary
+afferent neurons following nerve injury and tissue trauma. Prog Brain Res
+1996;113:161–84.
+[16] Jimenez-Sainz MC, Murga C, Kavelaars A, Jurado-Pueyo M, Krakstad BF,
+Heijnen CJ, Mayor Jr F, Aragay AM. G protein-coupled receptor kinase 2
+negatively regulates chemokine signalling at a level downstream from G
+protein subunits. Mol Biol Cell 2006;17:25–31.
+[17] Khasar SG, Dina OA, Green PG, Levine JD. Sound stress-induced long-term
+enhancement of mechanical hyperalgesia in rats is maintained by
+sympathoadrenal catecholamines. J Pain 2009;10:1073–7.
+[18] Khasar SG, McCarter G, Levine JD. Epinephrine produces a beta-adrenergic
+receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat
+nociceptors. J Neurophysiol 1999;81:1104–12.
+[19] Kleibeuker W, Ledeboer A, Eijkelkamp N, Watkins LR, Maier SF, Zijlstra J,
+Heijnen CJ, Kavelaars A. A role for G protein-coupled receptor kinase 2 in
+mechanical allodynia. Eur J Neurosci 2007;25:1696–704.
+[20] Kuno K, Matsushima K. The IL-1 receptor signalling pathway. J Leukoc Biol
+1994;56:542–7.
+[21] Liu S, Premont RT, Kontos CD, Zhu S, Rockey DC. A crucial role for GRK2 in
+regulation of endothelial cell nitric oxide synthase function in portal
+hypertension. Nat Med 2005;11:952–8.
+
+
+----- [PDF page 9 of 10: layout view of the same page] -----
+                                                                      Ò
+                                                   H. Wang et al. / PAIN 152 (2011) 1649–1658                                                          1657
+
+
+and IB4( ) DRG neurons in WT and GRK2-deficient mice, we found             mice [6,34] underlines the translational significance of our current
+that there was no difference in the percentage of IB4(+) neurons.         data and extends the emerging concept that GRK2 is a pivotal mol-
+    To investigate whether the effect of low GRK2 on EPI hyperalge-       ecule in the transition from acute to prolonged hyperalgesia in dis-
+sia is dependent on other more functional developmental effects,          ease processes comprising inflammation and/or chronic stress.
+we used tamoxifen-inducible GRK2 / and GRK2+/ mice. The re-
+sults of these experiments do not point toward a contribution of          Acknowledgements
+developmental effects of low GRK2 to hyperalgesia; EPI-induced
+hyperalgesia was similarly enhanced and prolonged in mice with                The authors are greatly indebted to Dr. J.N. Wood, University
+low GRK2 in all cells during the entire life span versus mice in          College London, London, UK, for sharing the Nav1.8-CRE mice and
+which the reduction in GRK2 in all cells was induced in adult life.       to Dr. G.W. Dorn 2nd, Center for Pharmacogenomics, Department
+Interestingly, we observed a lack of gene dosage effect when com-         of Medicine, Washington University School of Medicine, St. Louis,
+paring the hyperalgesic response to EPI in tamoxifen-inducible            MO, USA, for sharing the GRK2-fLox mice. We thank Mrs. Ilona
+GRK2 / and GRK2+/ mice, suggesting that a 50% decrease of                 den Hartog for technical assistance. The authors have no conflicts
+GRK2 is already sufficient to induce a maximal effect on the pro-          of interest related to this study.
+longation of EPI-induced hyperalgesia.
+    In terms of signalling pathways, we showed here that EPI-in-          References
+duced hyperalgesia in WT mice was blocked by the PKA inhibitor
+H-89. However, in SNS-GRK2+/ mice, we did not observe any ef-              [1] Bos JL. Epac proteins: multi-purpose cAMP targets. Trends Biochem Sci
+                                                                               2006;31:680–6.
+fect of the PKA inhibitor on EPI-induced mechanical hyperalgesia.
+                                                                           [2] Chaplan SR, Bach FW, Pogrel JW, Chung JM, Yaksh TL. Quantitative assessment
+Conversely, inhibition of PKCe did not affect EPI-induced hyperal-             of tactile allodynia in the rat paw. J Neurosci Methods 1994;53:55–63.
+gesia in female WT mice, whereas it inhibited EPI-hyperalgesia in          [3] Daaka Y, Luttrell LM, Lefkowitz RJ. Switching of the coupling of the beta2-
+                                                                               adrenergic receptor to different G proteins by protein kinase A. Nature
+SNS-GRK2+/ mice. These results are in accordance with the mech-
+                                                                               1997;390:88–91.
+anism we recently proposed for regulation of PGE2-induced ther-            [4] Dina OA, Aley KO, Isenberg W, Messing RO, Levine JD. Sex hormones regulate
+mal hyperalgesia by low nociceptor GRK2 [6]. Thus, our present                 the contribution of PKCepsilon and PKA signalling in inflammatory pain in the
+findings confirm and expand further the emerging scenario that                   rat. Eur J Neurosci 2001;13:2227–33.
+                                                                           [5] Eijkelkamp N, Heijnen CJ, Willemen HL, Deumens R, Joosten EA, Kleibeuker W,
+low nociceptor GRK2 induces a switch in cAMP signalling from                   den Hartog I, van Velthoven CT, Nijboer C, Nassar MA, Dorn GW, Wood JN,
+PKA- toward PKCe-dependent pathways.                                           Kavelaars A. GRK2: a novel cell-specific regulator of severity and duration of
+    Hucho et al. have described that cAMP signalling to PKCe                   inflammatory pain. J Neurosci 2010;30:2138–49.
+                                                                           [6] Eijkelkamp N, Wang H, Garza-Carbajal A, Willemen HL, Zwartkruis FJ, Wood
+involves Epac [12]. We have shown that in vitro low GRK2 causes                JN, Dantzer R, Kelley KW, Heijnen CJ, Kavelaars A. Low nociceptor GRK2
+biased cAMP signalling to Epac and its downstream target Rap1 [6].             prolongs prostaglandin E2 hyperalgesia via biased cAMP signalling to Epac/
+We also showed that GRK2 and Epac1 are present in the same pro-                Rap1, protein kinase Ce, and MEK/ERK. J Neurosci 2010;30:12806–15.
+                                                                           [7] Fang X, Djouhri L, McMullan S, Berry C, Waxman SG, Okuse K, Lawson SN.
+tein complex, and we proposed that binding of GRK2 to Epac inhib-              Intense isolectin-B4 binding in rat dorsal root ganglion neurons distinguishes
+its activation of Epac in response to cAMP-inducing agents. This               C-fiber nociceptors with broad action potentials and high Nav1.9 expression. J
+interpretation is supported by our finding that in vitro, Rap1 acti-            Neurosci 2006;26:7281–92.
+                                                                           [8] Gerke MB, Plenderleith MB. Binding sites for the plant lectin Bandeiraea
+vation by the Epac activator 8p-CPT is stronger in GRK2+/ DRG
+                                                                               simplicifolia I-isolectin B(4) are expressed by nociceptive primary sensory
+neurons as compared with WT DRG neurons [6]. On the basis of                   neurones. Brain Res 2001;911:101–4.
+all of these converging data, we propose that low GRK2 in nocicep-         [9] Hargreaves K, Dubner R, Brown F, Flores C, Joris J. A new and sensitive method
+                                                                               for measuring thermal nociception in cutaneous hyperalgesia. Pain
+tors determines neuronal responsiveness to cAMP-inducing agents
+                                                                               1988;32:77–88.
+by shifting the balance from PKA to PKCe via a mechanism involv-          [10] Hausdorff WP, Lohse MJ, Bouvier M, Liggett SB, Caron MG, Lefkowitz RJ. Two
+ing increased Epac activation when GRK2 is low.                                kinases mediate agonist-dependent phosphorylation and desensitization of
+    The signalling routes involved in EPI-induced mechanical                   the beta 2-adrenergic receptor. Symp Soc Exp Biol 1990;44:225–40.
+                                                                          [11] Houslay MD, Baillie GS. Beta-arrestin-recruited phosphodiesterase-4
+hyperalgesia as analysed by the Randall-Selito test in rats have               desensitizes the AKAP79/PKA-mediated switching of beta2-adrenoceptor
+been described before by Dina et al. [4]. These investigators                  signalling to activation of ERK. Biochem Soc Trans 2005;33:1333–6.
+showed that female rats do not use PKA but only MEK signalling            [12] Hucho TB, Dina OA, Levine JD. Epac mediates a cAMP-to-PKC signalling in
+                                                                               inflammatory pain: an isolectin B4(+) neuron-specific mechanism. J Neurosci
+to establish EPI-induced mechanical hyperalgesia [4]. Our results              2005;25:6119–26.
+indicate that in WT female mice EPI-induced mechanical hyperal-           [13] Iyer V, Tran TM, Foster E, Dai W, Clark RB, Knoll BJ. Differential
+gesia is mediated by both PKA and MEK/ERK. These apparent dif-                 phosphorylation and dephosphorylation of beta2-adrenoceptor sites Ser262
+                                                                               and Ser355, 356. Br J Pharmacol 2006;147:249–59.
+ferences in the use of PKA may be due to species differences (rat         [14] Jaber M, Koch WJ, Rockman H, Smith B, Bond RA, Sulik KK, Ross Jr J, Lefkowitz
+versus mouse), the way mechanical threshold was analysed (von                  RJ, Caron MG, Giros B. Essential role of beta-adrenergic receptor kinase 1 in
+Frey versus Randall-Selito test), and/or the use of different PKA              cardiac development and function. Proc Natl Acad Sci USA 1996;93:12974–9.
+                                                                          [15] Janig W, Levine JD, Michaelis M. Interactions of sympathetic and primary
+inhibitors (H89 versus the peptide inhibitor WIPTIDE).
+                                                                               afferent neurons following nerve injury and tissue trauma. Prog Brain Res
+    In mice with low neuronal GRK2, the prolonged hyperalgesia is              1996;113:161–84.
+no longer dependent on PKA but is routed via both PKCe and MEK/           [16] Jimenez-Sainz MC, Murga C, Kavelaars A, Jurado-Pueyo M, Krakstad BF,
+                                                                               Heijnen CJ, Mayor Jr F, Aragay AM. G protein-coupled receptor kinase 2
+ERK-dependent pathways because blocking of either of these path-
+                                                                               negatively regulates chemokine signalling at a level downstream from G
+ways prevented the prolongation of hyperalgesia. We therefore                  protein subunits. Mol Biol Cell 2006;17:25–31.
+propose that the EPI-induced activation of the MEK/ERK pathway            [17] Khasar SG, Dina OA, Green PG, Levine JD. Sound stress-induced long-term
+predominates in conditions of both normal and low GRK2. Low                    enhancement of mechanical hyperalgesia in rats is maintained by
+                                                                               sympathoadrenal catecholamines. J Pain 2009;10:1073–7.
+nociceptor GRK2 biases EPI signalling from PKA to PKCe, but activ-        [18] Khasar SG, McCarter G, Levine JD. Epinephrine produces a beta-adrenergic
+ity of both the MEK/ERK and the PKCe pathway is required for                   receptor-mediated mechanical hyperalgesia and in vitro sensitization of rat
+development of prolonged hyperalgesia in mice with low nocicep-                nociceptors. J Neurophysiol 1999;81:1104–12.
+                                                                          [19] Kleibeuker W, Ledeboer A, Eijkelkamp N, Watkins LR, Maier SF, Zijlstra J,
+tor GRK2. Whether in conditions of low GRK2 MEK/ERK becomes                    Heijnen CJ, Kavelaars A. A role for G protein-coupled receptor kinase 2 in
+part of the signalling complex with (Epac-)PKCe or MEK/ERK acti-               mechanical allodynia. Eur J Neurosci 2007;25:1696–704.
+vation occurs as part of a separate signalling route remains to be        [20] Kuno K, Matsushima K. The IL-1 receptor signalling pathway. J Leukoc Biol
+                                                                               1994;56:542–7.
+established.                                                              [21] Liu S, Premont RT, Kontos CD, Zhu S, Rockey DC. A crucial role for GRK2 in
+    The fact that inflammation reduces GRK2 in both DRGs and                    regulation of endothelial cell nitric oxide synthase function in portal
+spinal cord to the same extent as in the heterozygous knockout                 hypertension. Nat Med 2005;11:952–8.
+
+===== [PDF page 10 of 10] =====
+1658
+
+Ò
+
+H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+[22] Matkovich SJ, Diwan A, Klanke JL, Hammer DJ, Marreez Y, Odley AM, Brunskill
+EW, Koch WJ, Schwartz RJ, Dorn GW. Cardiac-specific ablation of G-protein
+receptor kinase 2 redefines its roles in heart development and beta-adrenergic
+signalling. Circ Res 2006;99:996–1003.
+[23] Naga Prasad SV, Laporte SA, Chamberlain D, Caron MG, Barak L, Rockman HA.
+Phosphoinositide 3-kinase regulates beta2-adrenergic receptor endocytosis by
+AP-2 recruitment to the receptor/beta-arrestin complex. J Cell Biol
+2002;158:563–75.
+[24] Pao CS, Benovic JL. Structure/function analysis of alpha2A-adrenergic receptor
+interaction with G protein-coupled receptor kinase 2. J Biol Chem
+2005;280:11052–8.
+[25] Parker LC, Luheshi GN, Rothwell NJ, Pinteaux E. IL-1 beta signalling in glial
+cells in wildtype and IL-1RI deficient mice. Br J Pharmacol
+2002;136:312–20.
+[26] Peregrin S, Jurado-Pueyo M, Campos PM, Sanz-Moreno V, Ruiz-Gomez A,
+Crespo P, Mayor Jr F, Murga C. Phosphorylation of p38 by GRK2 at the docking
+groove unveils a novel mechanism for inactivating p38MAPK. Curr Biol
+2006;16:2042–7.
+[27] Premont RT, Gainetdinov RR. Physiological roles of G protein-coupled receptor
+kinases and arrestins. Annu Rev Physiol 2007;69:511–34.
+[28] Raja SN. Peripheral modulatory effects of catecholamines in inflammatory and
+neuropathic pain. Adv Pharmacol 1998;42:567–71.
+
+[29] Reiter E, Lefkowitz RJ. GRKs and beta-arrestins: roles in receptor silencing,
+trafficking and signalling. Trends Endocrinol Metab 2006;17:159–65.
+[30] Seibold A, Williams B, Huang ZF, Friedman J, Moore RH, Knoll BJ, Clark RB.
+Localization of the sites mediating desensitization of the beta(2)-adrenergic
+receptor by the GRK pathway. Mol Pharmacol 2000;58:1162–73.
+[31] Sohal DS, Nghiem M, Crackower MA, Witt SA, Kimball TR, Tymitz KM,
+Penninger JM, Molkentin JD. Temporally regulated and tissue-specific gene
+manipulations in the adult and embryonic heart using a tamoxifen-inducible
+Cre protein. Circ Res 2001;89:20–5.
+[32] Stirling LC, Forlani G, Baker MD, Wood JN, Matthews EA, Dickenson AH, Nassar
+MA. Nociceptor-specific gene deletion using heterozygous NaV1.8-Cre
+recombinase mice. Pain 2005;113:27–36.
+[33] Wang Y, DeArcangelis V, Gao X, Ramani B, Jung YS, Xiang Y. Norepinephrineand epinephrine-induced distinct beta2-adrenoceptor signalling is dictated by
+GRK2 phosphorylation in cardiomyocytes. J Biol Chem 2008;283:1799–807.
+[34] Willemen HL, Eijkelkamp N, Wang H, Dantzer R, Dorn GW, Kelley KW, Heijnen
+CJ, Kavelaars A. Microglial/macrophage GRK2 determines duration of
+peripheral IL-1beta-induced hyperalgesia: contribution of spinal cord
+CX3CR1, p38 and IL-1 signalling. Pain 2010;150:550–60.
+[35] Zhang N, Inan S, Cowan A, Sun R, Wang JM, Rogers TJ, Caterina M, Oppenheim
+JJ. A proinflammatory chemokine, CCL3, sensitizes the heat- and capsaicingated ion channel TRPV1. Proc Natl Acad Sci USA 2005;102:4536–41.
+
+
+----- [PDF page 10 of 10: layout view of the same page] -----
+                                                                                      Ò
+1658                                                            H. Wang et al. / PAIN 152 (2011) 1649–1658
+
+
+[22] Matkovich SJ, Diwan A, Klanke JL, Hammer DJ, Marreez Y, Odley AM, Brunskill          [29] Reiter E, Lefkowitz RJ. GRKs and beta-arrestins: roles in receptor silencing,
+     EW, Koch WJ, Schwartz RJ, Dorn GW. Cardiac-specific ablation of G-protein                  trafficking and signalling. Trends Endocrinol Metab 2006;17:159–65.
+     receptor kinase 2 redefines its roles in heart development and beta-adrenergic        [30] Seibold A, Williams B, Huang ZF, Friedman J, Moore RH, Knoll BJ, Clark RB.
+     signalling. Circ Res 2006;99:996–1003.                                                    Localization of the sites mediating desensitization of the beta(2)-adrenergic
+[23] Naga Prasad SV, Laporte SA, Chamberlain D, Caron MG, Barak L, Rockman HA.                 receptor by the GRK pathway. Mol Pharmacol 2000;58:1162–73.
+     Phosphoinositide 3-kinase regulates beta2-adrenergic receptor endocytosis by         [31] Sohal DS, Nghiem M, Crackower MA, Witt SA, Kimball TR, Tymitz KM,
+     AP-2 recruitment to the receptor/beta-arrestin complex. J Cell Biol                       Penninger JM, Molkentin JD. Temporally regulated and tissue-specific gene
+     2002;158:563–75.                                                                          manipulations in the adult and embryonic heart using a tamoxifen-inducible
+[24] Pao CS, Benovic JL. Structure/function analysis of alpha2A-adrenergic receptor            Cre protein. Circ Res 2001;89:20–5.
+     interaction with G protein-coupled receptor kinase 2. J Biol Chem                    [32] Stirling LC, Forlani G, Baker MD, Wood JN, Matthews EA, Dickenson AH, Nassar
+     2005;280:11052–8.                                                                         MA. Nociceptor-specific gene deletion using heterozygous NaV1.8-Cre
+[25] Parker LC, Luheshi GN, Rothwell NJ, Pinteaux E. IL-1 beta signalling in glial             recombinase mice. Pain 2005;113:27–36.
+     cells in wildtype and IL-1RI deficient mice. Br J Pharmacol                           [33] Wang Y, DeArcangelis V, Gao X, Ramani B, Jung YS, Xiang Y. Norepinephrine-
+     2002;136:312–20.                                                                          and epinephrine-induced distinct beta2-adrenoceptor signalling is dictated by
+[26] Peregrin S, Jurado-Pueyo M, Campos PM, Sanz-Moreno V, Ruiz-Gomez A,                       GRK2 phosphorylation in cardiomyocytes. J Biol Chem 2008;283:1799–807.
+     Crespo P, Mayor Jr F, Murga C. Phosphorylation of p38 by GRK2 at the docking         [34] Willemen HL, Eijkelkamp N, Wang H, Dantzer R, Dorn GW, Kelley KW, Heijnen
+     groove unveils a novel mechanism for inactivating p38MAPK. Curr Biol                      CJ, Kavelaars A. Microglial/macrophage GRK2 determines duration of
+     2006;16:2042–7.                                                                           peripheral IL-1beta-induced hyperalgesia: contribution of spinal cord
+[27] Premont RT, Gainetdinov RR. Physiological roles of G protein-coupled receptor             CX3CR1, p38 and IL-1 signalling. Pain 2010;150:550–60.
+     kinases and arrestins. Annu Rev Physiol 2007;69:511–34.                              [35] Zhang N, Inan S, Cowan A, Sun R, Wang JM, Rogers TJ, Caterina M, Oppenheim
+[28] Raja SN. Peripheral modulatory effects of catecholamines in inflammatory and               JJ. A proinflammatory chemokine, CCL3, sensitizes the heat- and capsaicin-
+     neuropathic pain. Adv Pharmacol 1998;42:567–71.                                           gated ion channel TRPV1. Proc Natl Acad Sci USA 2005;102:4536–41.
+

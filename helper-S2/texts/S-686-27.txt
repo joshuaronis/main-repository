@@ -1,0 +1,1085 @@
+SOURCE FILE: S-686-27 - Schmittner 2010 - Influence of high dose tumescent local anaesthesia with prilocaine on systemic interleukin (IL)-6 IL-8 and tumour n.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 6] =====
+JEADV
+
+DOI: 10.1111/j.1468-3083.2010.03653.x
+
+ORIGINAL ARTICLE
+
+Influence of high dose tumescent local anaesthesia with
+prilocaine on systemic interleukin (IL)-6, IL-8 and tumour
+necrosis factor-a
+MD Schmittner,†,*,1 J Faulhaber,‡,1 B Kemler,† W Koenen,‡ JO Thumfart,§ C Weiss,– M Neumaier,§
+GC Beck†
+†
+
+Department of Anaesthesiology and Surgical Intensive Care Medicine, ‡Department of Dermatology, Venereology and
+Allergology, §Institute for Clinical Chemistry , and –Department of Medical Statistics and Biomathematics, University Medical
+Center Mannheim, Ruprecht-Karls-University of Heidelberg, Mannheim, Germany
+*Correspondence: MD Schmittner. E-mail: marc.schmittner@umm.de
+
+Abstract
+Background and objective Tumescent local anaesthesia (TLA) with high prilocaine doses leads to formation of
+methemoglobin (MHb) which is known to be a potent activator of pro-inflammatory endothelial cell response in vitro.
+As TLA is widely used for large dermatological resections, the aim of this study was to investigate the effects of high
+prilocaine doses on the systemic inflammatory response in vivo and its clinical relevance.
+Methods This prospective study examines the influence of MHb on serum interleukin (IL)-6, IL-8 and tumour
+necrosis tumour necrosis (TNF)-a levels up to 72 h after application of TLA with prilocaine in doses higher than
+600 mg.
+Results A total of 30 patients received prilocaine in a median dose of 1500 mg (range: 880–4160 mg) for large
+resections. Peak prilocaine serum concentration was reached 4 h (0.72 ± 0.07 lg ⁄ mL), the maximum concentration
+of MHb (7.43 ± 0.87%) and IL-6 (28.4 ± 4.1 U ⁄ L) 12 h after TLA application. TNF-a and IL-8 release were not found
+significantly increased. Three patients developed MHb concentrations >15%.
+Conclusions This clinical study shows for the first time that a high prilocaine serum concentration leads in vivo to
+elevated systemic levels of IL-6 but not of IL-8 and TNF-a because of initial high MHb levels. Because of possible
+and unpredictable high MHb concentrations, TLA should only be performed with prilocaine in doses of 2.5 mg ⁄ kg. In
+general, new solutions of TLA are necessary to achieve adequate anaesthesia for large dermatological resections to
+decrease the risk of methemoglobinaemia.
+Received: 15 October 2009; Accepted: 15 February 2010
+
+Keywords
+anaesthetic techniques, cytokines, dermatological surgery, methemoglobin, prilocaine, tumescent local anaesthesia
+
+Conflict of interest
+None declared.
+
+Introduction
+Tumescent local anaesthesia (TLA) is an anaesthesia technique
+where high fluid volumes containing diluted local anaesthetics are
+infused subcutaneously. Initially used to facilitate liposuction,1
+TLA is carried out for plastic, dermatological and proctological
+surgery also in ambulatory settings.2–4 Reports of adverse sideeffects after liposuction in TLA with lidocaine made prilocaine to
+become the preferred substance.5 Prilocaine is an amide-type local
+anaesthetic with an extremely high distribution volume. However,
+prilocaine is known as a trigger for methemoglobinaemia by its
+1
+
+These authors contributed equally to this work.
+
+JEADV 2010, 24, 1400–1405
+
+metabolites o-toluidine and nitrosotoluidine.6,7 Although an upper
+limit of 2.5 mg ⁄ kg prilocaine was recently recommended, some
+authors reported the use of up to 43 mg ⁄ kg.8–10 Thus, elevated
+methemoglobin (MHb) serum levels are presumable, especially in
+extended resections in dermatological surgery, when large
+amounts of TLA are applied.11 There is a high interindividual variability in the amount of MHb formed for any given dose of prilocaine administered but MHb is more likely to happen with higher
+doses.12 This effect may also be potentiated by other oxidative
+drugs.8 The production of MHb has clinical consequences: it
+causes a shift of the oxygen-dissociation curve to the left,13 it can
+result in respiratory failure14 and a variety of physically symptoms.
+
+ª 2010 The Authors
+Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+
+----- [PDF page 1 of 6: layout view of the same page] -----
+DOI: 10.1111/j.1468-3083.2010.03653.x                                                                                                         JEADV
+
+
+
+ORIGINAL ARTICLE
+
+Influence of high dose tumescent local anaesthesia with
+prilocaine on systemic interleukin (IL)-6, IL-8 and tumour
+necrosis factor-a
+MD Schmittner,†,*,1 J Faulhaber,‡,1 B Kemler,† W Koenen,‡ JO Thumfart,§ C Weiss,– M Neumaier,§
+GC Beck†
+†
+ Department of Anaesthesiology and Surgical Intensive Care Medicine, ‡Department of Dermatology, Venereology and
+Allergology, §Institute for Clinical Chemistry , and –Department of Medical Statistics and Biomathematics, University Medical
+Center Mannheim, Ruprecht-Karls-University of Heidelberg, Mannheim, Germany
+*Correspondence: MD Schmittner. E-mail: marc.schmittner@umm.de
+
+
+Abstract
+Background and objective Tumescent local anaesthesia (TLA) with high prilocaine doses leads to formation of
+methemoglobin (MHb) which is known to be a potent activator of pro-inflammatory endothelial cell response in vitro.
+As TLA is widely used for large dermatological resections, the aim of this study was to investigate the effects of high
+prilocaine doses on the systemic inflammatory response in vivo and its clinical relevance.
+Methods This prospective study examines the influence of MHb on serum interleukin (IL)-6, IL-8 and tumour
+necrosis tumour necrosis (TNF)-a levels up to 72 h after application of TLA with prilocaine in doses higher than
+600 mg.
+Results A total of 30 patients received prilocaine in a median dose of 1500 mg (range: 880–4160 mg) for large
+resections. Peak prilocaine serum concentration was reached 4 h (0.72 ± 0.07 lg ⁄ mL), the maximum concentration
+of MHb (7.43 ± 0.87%) and IL-6 (28.4 ± 4.1 U ⁄ L) 12 h after TLA application. TNF-a and IL-8 release were not found
+significantly increased. Three patients developed MHb concentrations >15%.
+Conclusions This clinical study shows for the first time that a high prilocaine serum concentration leads in vivo to
+elevated systemic levels of IL-6 but not of IL-8 and TNF-a because of initial high MHb levels. Because of possible
+and unpredictable high MHb concentrations, TLA should only be performed with prilocaine in doses of 2.5 mg ⁄ kg. In
+general, new solutions of TLA are necessary to achieve adequate anaesthesia for large dermatological resections to
+decrease the risk of methemoglobinaemia.
+Received: 15 October 2009; Accepted: 15 February 2010
+
+Keywords
+anaesthetic techniques, cytokines, dermatological surgery, methemoglobin, prilocaine, tumescent local anaesthesia
+
+
+Conflict of interest
+None declared.
+
+
+
+Introduction                                                                 metabolites o-toluidine and nitrosotoluidine.6,7 Although an upper
+Tumescent local anaesthesia (TLA) is an anaesthesia technique                limit of 2.5 mg ⁄ kg prilocaine was recently recommended, some
+where high fluid volumes containing diluted local anaesthetics are           authors reported the use of up to 43 mg ⁄ kg.8–10 Thus, elevated
+infused subcutaneously. Initially used to facilitate liposuction,1           methemoglobin (MHb) serum levels are presumable, especially in
+TLA is carried out for plastic, dermatological and proctological             extended resections in dermatological surgery, when large
+surgery also in ambulatory settings.2–4 Reports of adverse side-             amounts of TLA are applied.11 There is a high interindividual vari-
+effects after liposuction in TLA with lidocaine made prilocaine to           ability in the amount of MHb formed for any given dose of prilo-
+become the preferred substance.5 Prilocaine is an amide-type local           caine administered but MHb is more likely to happen with higher
+anaesthetic with an extremely high distribution volume. However,             doses.12 This effect may also be potentiated by other oxidative
+prilocaine is known as a trigger for methemoglobinaemia by its               drugs.8 The production of MHb has clinical consequences: it
+                                                                             causes a shift of the oxygen-dissociation curve to the left,13 it can
+1
+These authors contributed equally to this work.                              result in respiratory failure14 and a variety of physically symptoms.
+
+
+                                                                                                                                     ª 2010 The Authors
+JEADV 2010, 24, 1400–1405          Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+===== [PDF page 2 of 6] =====
+Influence of high dose prilocaine on IL-6, IL-8 and TNF-a
+
+1401
+
+Healthy individuals without anaemia have few symptoms at 15%
+MHb, but levels of 20–30% can cause mental status changes, headache, fatigue, exercise intolerance, dizziness and syncope and levels
+of 50% result in dysrhytmias, seizures, coma and death.15
+Furthermore, MHb is a critical mediator of the inflammatory
+response, as a product of NO and nitrate production, e.g. as a
+mediator of oxydative stress, and as the source of haeme and iron
+with additional proinflammatory and oxidative proclivities.16
+Mainly known from sepsis research, endothelial cells act as
+direct targets for free MHb.17,18 In vitro studies demonstrate that
+MHb is a potent activator of endothelial cells through NF-kBmediated up-regulation of cell adhesion molecule expression,
+chemokine and cytokine production.19
+Most patients treated with TLA-procedures are day surgery
+patients and therefore, a detailed knowledge about side-effects of
+prilocaine is necessary to guarantee high safety standards. So far,
+there are no clinical data published, describing in vivo inflammatory response as a result of high prilocaine doses under clinical
+conditions. This fact might be of significant importance for an
+early hospital discharge.
+The present prospective study examines the influence of prilocaine-induced MHb on serum levels of interleukin (IL)-6, IL-8
+and tumour necrosis factor (TNF)-a up to 72 h after application
+of TLA with prilocaine in doses higher than 600 mg in extended
+dermatological surgery and investigates clinical symptoms.
+
+cannulation with a 16-gauge peripheral needle was performed in
+all patients undergoing the procedure (Liniest Purr; KLINIKA
+Medical, Singen, Germany) and an infusion with a maximum of
+500 mL balanced crystalloid solution (Deltajonin; Delta Select,
+Dreieich, Germany) was started. ECG, non-invasive arterial blood
+pressure and SO2 were measured at 5-min intervals throughout
+the entire operation.
+
+Methods
+This prospective, single-centre, observational study was performed
+according to the guidelines of the Ethic Commission II, Faculty
+for Clinical Medicine Mannheim, Germany (Vote: 2007-258NMA) and was registered internationally (International Standard
+Randomised Controlled Trial Number Register, ISRCTN:
+19821978). From January until September 2008, 42 patients
+received in-house dermatological procedures in TLA. Eight
+patients did not meet the inclusion criteria whereas four declined
+participation. Verbal and written information was given to each of
+the 30 adult patients before informed written consent was
+obtained.
+Inclusion and exclusion criteria
+
+All patients [16 male ⁄ 14 female, 18–85 years; American Society of
+Anaesthesiologists physical (ASA) status I–III] undergoing inhouse dermatological procedures in TLA were eligible to take part
+in the study. Exclusion criteria were an allergy against prilocaine,
+patients considered to be ASA status IV–VI and pregnancy.
+Patients and procedures
+
+Prior to the scheduled operation, all patients had to see an anaesthesiologist for premedication and were informed verbally and in
+written form about the study before consenting to participate. All
+patients received 7.5 mg midazolam (Dormicum; Roche Pharma,
+Grenzach-Wyhlen, Germany) for oral premedication. Venous
+
+JEADV 2010, 24, 1400–1405
+
+Tumescent local anaesthesia
+
+The TLA solution consisted of 2 mg prilocaine + 0.5 mg epinephrine (Xylonest 0.5% with Adrenalin 1 : 250, Astra Zeneca, Wedel,
+Germany) solved in 500 mL of balanced crystalloid solution (Deltajonin; Delta Select) and was manufactured directly before the
+start of surgery. Each patient received at least 600 mg prilocaine,
+which is equal to 150-mL of TLA solution via a TLA-pump (Cutanest, Liposat, Moeller Medical, Fulda, Germany). Optionally,
+propofol (Propofol 1%; Fresenius Kabi, Bad Homburg, Germany)
+was injected until a light level of sedation was reached, referring to
+an observer’s assessment of alertness ⁄ sedation of 4–5 (OAA ⁄ S).20
+Oxygen was applied at a flow rate of 8 L ⁄ min via an oxygen mask.
+Respiration was monitored by measuring oxygen saturation and
+by semiquantitative CO2 detection.
+Blood samples and analysis
+
+Blood samples were drawn before application of TLA solution
+(basal) as well as 1, 2, 4, 12, 24, 48 and 72 h. All blood samples
+(15 mL ⁄ sample) were drawn via a 16-gauge cannula inserted into
+the forarm vein and collected in heparinized syringes. MHb was
+immediately analysed on an ABL 835 (Radiometer, Willich, Germany) in haemolysed venous blood. Hb, lactate dehydrogenase
+(LDH), cytokeratin (CK), C-reactive protein (CRP) and procalcitonin (PCT) were analysed in the Institute of Clinical Chemistry
+of University Medical Centre Mannheim. After centrifugation at
+20 C (4000 U ⁄ min, 5 min), separated serum samples were
+stored at )20 C until essayed. Using commercially available
+ELISA kits, serum levels of IL-6, IL-8 and TNF-a (using Immunotech EIA IL-6, IM1120, EIA IL-8, IM2237 and EIA TNF-a,
+IM1121, Marseille, France) were measured. Serum prilocaine
+levels were measured using liquid chromatography-mass spectrometry (Agilent 1200 HPLC-System, Waldbronn, Germany;
+HCT-Ultra, Bruker Daltonics, Bremen, Germany). Sample preparation contained protein precipitation via TCA, and dilution of
+supernatant 1 : 2 with buffer A (H2O LC-MS Chromasolv;
+Fluka, Steinheim, Germany; 0.2% Acetic acid Merck, Darmstadt,
+Germany; 2 mM Ammonium acetate; Merck, Darmstadt,
+Germany). High performance liquid chromatography was performed in buffer A using an analytical Synergie 4 U POLAR-RP
+80A column (Phenomenex, Aschaffenburg, Germany) applying a
+linear gradient from 0% to 60% buffer B (Methanol Fluka, Steinheim, Germany; 0.2% acetic acid) over 10 min. Prilocaine was
+identified by his [MH] + ion with m ⁄ z 221.2 and quantified by
+the area of the base peak of this signal.
+
+ª 2010 The Authors
+Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+
+----- [PDF page 2 of 6: layout view of the same page] -----
+Influence of high dose prilocaine on IL-6, IL-8 and TNF-a                                                                                        1401
+
+
+
+
+Healthy individuals without anaemia have few symptoms at 15%               cannulation with a 16-gauge peripheral needle was performed in
+MHb, but levels of 20–30% can cause mental status changes, head-           all patients undergoing the procedure (Liniest Purr; KLINIKA
+ache, fatigue, exercise intolerance, dizziness and syncope and levels      Medical, Singen, Germany) and an infusion with a maximum of
+of 50% result in dysrhytmias, seizures, coma and death.15                  500 mL balanced crystalloid solution (Deltajonin; Delta Select,
+Furthermore, MHb is a critical mediator of the inflammatory                Dreieich, Germany) was started. ECG, non-invasive arterial blood
+response, as a product of NO and nitrate production, e.g. as a             pressure and SO2 were measured at 5-min intervals throughout
+mediator of oxydative stress, and as the source of haeme and iron          the entire operation.
+with additional proinflammatory and oxidative proclivities.16
+   Mainly known from sepsis research, endothelial cells act as             Tumescent local anaesthesia
+direct targets for free MHb.17,18 In vitro studies demonstrate that        The TLA solution consisted of 2 mg prilocaine + 0.5 mg epineph-
+MHb is a potent activator of endothelial cells through NF-kB-              rine (Xylonest 0.5% with Adrenalin 1 : 250, Astra Zeneca, Wedel,
+mediated up-regulation of cell adhesion molecule expression,               Germany) solved in 500 mL of balanced crystalloid solution (Del-
+chemokine and cytokine production.19                                       tajonin; Delta Select) and was manufactured directly before the
+   Most patients treated with TLA-procedures are day surgery               start of surgery. Each patient received at least 600 mg prilocaine,
+patients and therefore, a detailed knowledge about side-effects of         which is equal to 150-mL of TLA solution via a TLA-pump (Cuta-
+prilocaine is necessary to guarantee high safety standards. So far,        nest, Liposat, Moeller Medical, Fulda, Germany). Optionally,
+there are no clinical data published, describing in vivo inflamma-         propofol (Propofol 1%; Fresenius Kabi, Bad Homburg, Germany)
+tory response as a result of high prilocaine doses under clinical          was injected until a light level of sedation was reached, referring to
+conditions. This fact might be of significant importance for an            an observer’s assessment of alertness ⁄ sedation of 4–5 (OAA ⁄ S).20
+early hospital discharge.                                                  Oxygen was applied at a flow rate of 8 L ⁄ min via an oxygen mask.
+   The present prospective study examines the influence of prilo-          Respiration was monitored by measuring oxygen saturation and
+caine-induced MHb on serum levels of interleukin (IL)-6, IL-8              by semiquantitative CO2 detection.
+and tumour necrosis factor (TNF)-a up to 72 h after application
+of TLA with prilocaine in doses higher than 600 mg in extended             Blood samples and analysis
+dermatological surgery and investigates clinical symptoms.                 Blood samples were drawn before application of TLA solution
+                                                                           (basal) as well as 1, 2, 4, 12, 24, 48 and 72 h. All blood samples
+Methods                                                                    (15 mL ⁄ sample) were drawn via a 16-gauge cannula inserted into
+This prospective, single-centre, observational study was performed         the forarm vein and collected in heparinized syringes. MHb was
+according to the guidelines of the Ethic Commission II, Faculty            immediately analysed on an ABL 835 (Radiometer, Willich, Ger-
+for Clinical Medicine Mannheim, Germany (Vote: 2007-258N-                  many) in haemolysed venous blood. Hb, lactate dehydrogenase
+MA) and was registered internationally (International Standard             (LDH), cytokeratin (CK), C-reactive protein (CRP) and procalci-
+Randomised Controlled Trial Number Register, ISRCTN:                       tonin (PCT) were analysed in the Institute of Clinical Chemistry
+19821978). From January until September 2008, 42 patients                  of University Medical Centre Mannheim. After centrifugation at
+received in-house dermatological procedures in TLA. Eight                  20 C (4000 U ⁄ min, 5 min), separated serum samples were
+patients did not meet the inclusion criteria whereas four declined         stored at )20 C until essayed. Using commercially available
+participation. Verbal and written information was given to each of         ELISA kits, serum levels of IL-6, IL-8 and TNF-a (using Immu-
+the 30 adult patients before informed written consent was                  notech EIA IL-6, IM1120, EIA IL-8, IM2237 and EIA TNF-a,
+obtained.                                                                  IM1121, Marseille, France) were measured. Serum prilocaine
+                                                                           levels were measured using liquid chromatography-mass spec-
+Inclusion and exclusion criteria                                           trometry (Agilent 1200 HPLC-System, Waldbronn, Germany;
+All patients [16 male ⁄ 14 female, 18–85 years; American Society of        HCT-Ultra, Bruker Daltonics, Bremen, Germany). Sample prepa-
+Anaesthesiologists physical (ASA) status I–III] undergoing in-             ration contained protein precipitation via TCA, and dilution of
+house dermatological procedures in TLA were eligible to take part          supernatant 1 : 2 with buffer A (H2O LC-MS Chromasolv;
+in the study. Exclusion criteria were an allergy against prilocaine,       Fluka, Steinheim, Germany; 0.2% Acetic acid Merck, Darmstadt,
+patients considered to be ASA status IV–VI and pregnancy.                  Germany; 2 mM Ammonium acetate; Merck, Darmstadt,
+                                                                           Germany). High performance liquid chromatography was per-
+Patients and procedures                                                    formed in buffer A using an analytical Synergie 4 U POLAR-RP
+Prior to the scheduled operation, all patients had to see an anaes-        80A column (Phenomenex, Aschaffenburg, Germany) applying a
+thesiologist for premedication and were informed verbally and in           linear gradient from 0% to 60% buffer B (Methanol Fluka, Stein-
+written form about the study before consenting to participate. All         heim, Germany; 0.2% acetic acid) over 10 min. Prilocaine was
+patients received 7.5 mg midazolam (Dormicum; Roche Pharma,                identified by his [MH] + ion with m ⁄ z 221.2 and quantified by
+Grenzach-Wyhlen, Germany) for oral premedication. Venous                   the area of the base peak of this signal.
+
+
+                                                                                                                                   ª 2010 The Authors
+JEADV 2010, 24, 1400–1405        Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+===== [PDF page 3 of 6] =====
+Schmittner et al.
+
+1402
+
+Cycloheximide treatment
+
+Table 1 Demographical and clinical characteristics
+
+To study if the upregulation of IL-6 production was resulting from
+de novo synthesis, whole blood samples were stimulated or not
+with prilocaine in the presence or absence of cycloheximide (CX).
+Whole blood (1.0 mL) was either unstimulated or stimulated for
+24 h with prilocaine or o-toluidine in concentrations ranging from
+0.2 to 20 lg ⁄ mL in the presence or absence of CX. CX-concentration (10 lg ⁄ mL) was optimized in the previous studies and a
+possible toxic effect of CX could be excluded. Serum was harvested
+and IL-6 production was measured using enzyme-linked-immunosorbent serologic assay.
+
+(n = 30)
+Gender (M ⁄ F)
+
+16 ⁄ 14
+
+Age (years)
+
+54.9 ± 18.1
+
+Body mass index (kg · m2)
+
+28.8 ± 6.0
+
+Prilocaine (mg ⁄ kg)
+
+19.8 ± 5.6
+
+Malignant melanoma ⁄ acne
+inversa ⁄ malignant skin tumours
+
+20 ⁄ 8 ⁄ 2
+
+For quantitative data (except prilocaine dose), characteristic values are
+presented as mean ± SD.
+
+skin tumours (Table 1). Table 2 shows the serum concentrations
+of all measured parameters.
+
+Statistical analysis
+
+Quantitative data are presented as mean ± SD. To evaluate the
+course of serum concentrations of prilocaine, MHb and cytokines
+by time, ANOVA for repeated measurements have been performed.
+Differences between two time points have been tested with t-tests
+for two paired samples. Test results with P < 0.05 were considered
+as statistically significant. For all statistical calculations, the SAS
+System (release 9.01; SAS Institute, Cary, NC, USA) has been
+used.
+
+Results
+A total of 30 patients (16 male ⁄ 14 female, age 54.9 ± 18.1 years,
+body weight 85.0 ± 20.0 kg) received prilocaine in an average dose
+of 19.8 mg ⁄ kg (±5.6 mg ⁄ kg, median total amount: 1500, range:
+880–4160 mg). Of all the patients, 20 had a malignant melanoma,
+eight suffered from acne inversa and two patient had malignant
+
+Prilocaine serum concentration
+
+Serum prilocaine (Fig. 1) had its peak with 0.72 ± 0.07 lg ⁄ mL
+4 h after TLA application. Only in two patients prilocaine was
+detected 48 h after TLA in marginal increased concentrations
+(P < 0.0001 for changes in concentration over time; ANOVA).
+MHb serum concentration
+
+Basal MHb serum levels (Fig. 2) were 0.62 ± 0.03%. The level
+increased to 1.56 ± 0.13% after 1 h, to 3.06 ± 0.33% after 2 h, to
+6.31 ± 0.8% after 4 h with a peak of 7.43 ± 0.87% 12 h after TLA
+(each P < 0.0001 after 2, 4 and 12 h compared with basal). MHb
+serum levels decreased rapidly to 1.36 ± 0.18% after 24 h and to
+0.51 ± 0.05% after 48 h (P < 0.0001 for MHb serum level changes
+over time; ANOVA).
+
+Table 2 Serum concentrations of all measured parameters
+Prilocaine
+(lg ⁄ mL)
+
+MHb, % (range)
+
+CRP (mg ⁄ L)
+
+LDH (U ⁄ L)
+
+PCT (ng ⁄ mL)
+
+Basal
+
+0
+
+0.62 ± 0.03 (0.4–0.9)
+
+5.4 ± 1.6
+
+200.3 ± 7.2
+
+0.109 ± 0.004
+
+1h
+
+0.42 ± 0.05
+
+1.56 ± 0.13 (0.6–3.2)
+
+5.4 ± 1.5
+
+197.3 ± 9.7
+
+0.110 ± 0.004
+
+2h
+
+0.55 ± 0.06
+
+3.06 ± 0.33 (0.5–7.2)
+
+5.4 ± 1.5
+
+199.7 ± 10.1
+
+0.108 ± 0.004
+
+4h
+
+0.72 ± 0.07
+
+6.31 ± 0.80 (1.5–17.9)
+
+5.4 ± 1.5
+
+202. 3 ± 9.3
+
+0.108 ± 0.005
+
+12 h
+
+0.17 ± 0.05
+
+7.43 ± 0.87 (1.7–20.7)
+
+7.5 ± 1.9
+
+210.7 ± 11.0
+
+0.105 ± 0.003
+
+24 h
+
+0.04 ± 0.03
+
+1.36 ± 0.18 (0.5–4.5)
+
+14.4 ± 4.4
+
+207.0 ± 10.7
+
+0.105 ± 0.003
+
+48 h
+
+0.02 ± 0.01
+
+0.51 ± 0.05 (0.1–1.3)
+
+24.2 ± 5.4
+
+206.3 ± 9.7
+
+0.105 ± 0.004
+
+72 h
+
+Not available
+
+Not available
+
+Not available
+
+Not available
+
+Not available
+
+CK (U ⁄ L)
+
+IL-6 (U ⁄ L)
+
+IL-8 (U ⁄ L)
+
+TNF-a (U ⁄ L)
+
+Basal
+
+102.9 ± 10.5
+
+9.5 ± 2.5
+
+15.5 ± 3.6
+
+15.8 ± 1.6
+
+1h
+
+102.5 ± 9.6
+
+8.0 ± 2.1
+
+12.5 ± 3.3
+
+15.6 ± 1.6
+
+2h
+
+101.3 ± 10.1
+
+9.0 ± 1.5
+
+16.6 ± 4.2
+
+15.4 ± 1.4
+
+4h
+
+103.6 ± 8.4
+
+16.1 ± 1.7
+
+11.6 ± 3.5
+
+13.9 ± 1.5
+
+12 h
+
+114.4 ± 8.8
+
+28.4 ± 4.1
+
+11.3 ± 3.0
+
+13.5 ± 1.6
+
+24 h
+
+121.3 ± 11.5
+
+21.4 ± 3.7
+
+11.8 ± 2.7
+
+14.0 ± 1.5
+
+48 h
+
+114.2 ± 11.7
+
+16.1 ± 3.0
+
+14.8 ± 3.6
+
+15.6 ± 1.8
+
+72 h
+
+Not available
+
+14.8 ± 3.6
+
+14.7 ± 2.9
+
+16.3 ± 2.8
+
+Characteristic values are mean ± SD.
+MHb, methemoglobin; CRP, C-reactive protein; IL, interleukin; TNF, tumour necrosis factor; CK, cytokeratin; LDH, lactate dehydrogenase; PCT,
+procalcitonin.
+
+JEADV 2010, 24, 1400–1405
+
+ª 2010 The Authors
+Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+
+----- [PDF page 3 of 6: layout view of the same page] -----
+1402                                                                                                                              Schmittner et al.
+
+
+
+
+Cycloheximide treatment                                                      Table 1 Demographical and clinical characteristics
+To study if the upregulation of IL-6 production was resulting from                                                                         (n = 30)
+de novo synthesis, whole blood samples were stimulated or not                Gender (M ⁄ F)                                                16 ⁄ 14
+with prilocaine in the presence or absence of cycloheximide (CX).            Age (years)                                                   54.9 ± 18.1
+Whole blood (1.0 mL) was either unstimulated or stimulated for               Body mass index (kg · m2)                                     28.8 ± 6.0
+24 h with prilocaine or o-toluidine in concentrations ranging from           Prilocaine (mg ⁄ kg)                                          19.8 ± 5.6
+0.2 to 20 lg ⁄ mL in the presence or absence of CX. CX-concentra-            Malignant melanoma ⁄ acne                                     20 ⁄ 8 ⁄ 2
+tion (10 lg ⁄ mL) was optimized in the previous studies and a                 inversa ⁄ malignant skin tumours
+possible toxic effect of CX could be excluded. Serum was harvested           For quantitative data (except prilocaine dose), characteristic values are
+and IL-6 production was measured using enzyme-linked-immu-                   presented as mean ± SD.
+nosorbent serologic assay.
+                                                                             skin tumours (Table 1). Table 2 shows the serum concentrations
+Statistical analysis                                                         of all measured parameters.
+Quantitative data are presented as mean ± SD. To evaluate the
+course of serum concentrations of prilocaine, MHb and cytokines              Prilocaine serum concentration
+by time, ANOVA for repeated measurements have been performed.                Serum prilocaine (Fig. 1) had its peak with 0.72 ± 0.07 lg ⁄ mL
+Differences between two time points have been tested with t-tests            4 h after TLA application. Only in two patients prilocaine was
+for two paired samples. Test results with P < 0.05 were considered           detected 48 h after TLA in marginal increased concentrations
+as statistically significant. For all statistical calculations, the SAS      (P < 0.0001 for changes in concentration over time; ANOVA).
+System (release 9.01; SAS Institute, Cary, NC, USA) has been
+used.                                                                        MHb serum concentration
+                                                                             Basal MHb serum levels (Fig. 2) were 0.62 ± 0.03%. The level
+Results                                                                      increased to 1.56 ± 0.13% after 1 h, to 3.06 ± 0.33% after 2 h, to
+A total of 30 patients (16 male ⁄ 14 female, age 54.9 ± 18.1 years,          6.31 ± 0.8% after 4 h with a peak of 7.43 ± 0.87% 12 h after TLA
+body weight 85.0 ± 20.0 kg) received prilocaine in an average dose           (each P < 0.0001 after 2, 4 and 12 h compared with basal). MHb
+of 19.8 mg ⁄ kg (±5.6 mg ⁄ kg, median total amount: 1500, range:             serum levels decreased rapidly to 1.36 ± 0.18% after 24 h and to
+880–4160 mg). Of all the patients, 20 had a malignant melanoma,              0.51 ± 0.05% after 48 h (P < 0.0001 for MHb serum level changes
+eight suffered from acne inversa and two patient had malignant               over time; ANOVA).
+
+
+Table 2 Serum concentrations of all measured parameters
+
+                   Prilocaine                  MHb, % (range)                     CRP (mg ⁄ L)                LDH (U ⁄ L)                PCT (ng ⁄ mL)
+                    (lg ⁄ mL)
+Basal                  0                     0.62 ± 0.03 (0.4–0.9)                 5.4 ± 1.6                  200.3 ± 7.2                0.109 ± 0.004
+1h                 0.42 ± 0.05               1.56 ± 0.13 (0.6–3.2)                 5.4 ± 1.5                  197.3 ± 9.7                0.110 ± 0.004
+2h                 0.55 ± 0.06               3.06 ± 0.33 (0.5–7.2)                 5.4 ± 1.5                  199.7 ± 10.1               0.108 ± 0.004
+4h                 0.72 ± 0.07               6.31 ± 0.80 (1.5–17.9)                5.4 ± 1.5                 202. 3 ± 9.3                0.108 ± 0.005
+12 h               0.17 ± 0.05               7.43 ± 0.87 (1.7–20.7)                7.5 ± 1.9                  210.7 ± 11.0               0.105 ± 0.003
+24 h               0.04 ± 0.03               1.36 ± 0.18 (0.5–4.5)               14.4 ± 4.4                   207.0 ± 10.7               0.105 ± 0.003
+48 h               0.02 ± 0.01               0.51 ± 0.05 (0.1–1.3)               24.2 ± 5.4                   206.3 ± 9.7                0.105 ± 0.004
+72 h              Not available              Not available                       Not available               Not available               Not available
+                  CK (U ⁄ L)                 IL-6 (U ⁄ L)                        IL-8 (U ⁄ L)                TNF-a (U ⁄ L)
+Basal             102.9 ± 10.5                9.5 ± 2.5                          15.5 ± 3.6                  15.8 ± 1.6
+1h                102.5 ± 9.6                 8.0 ± 2.1                          12.5 ± 3.3                  15.6 ± 1.6
+2h                101.3 ± 10.1                9.0 ± 1.5                          16.6 ± 4.2                  15.4 ± 1.4
+4h                103.6 ± 8.4                16.1 ± 1.7                          11.6 ± 3.5                  13.9 ± 1.5
+12 h              114.4 ± 8.8                28.4 ± 4.1                          11.3 ± 3.0                  13.5 ± 1.6
+24 h              121.3 ± 11.5               21.4 ± 3.7                          11.8 ± 2.7                  14.0 ± 1.5
+48 h              114.2 ± 11.7               16.1 ± 3.0                          14.8 ± 3.6                  15.6 ± 1.8
+72 h              Not available              14.8 ± 3.6                          14.7 ± 2.9                  16.3 ± 2.8
+Characteristic values are mean ± SD.
+MHb, methemoglobin; CRP, C-reactive protein; IL, interleukin; TNF, tumour necrosis factor; CK, cytokeratin; LDH, lactate dehydrogenase; PCT,
+procalcitonin.
+
+
+
+                                                                                                                                     ª 2010 The Authors
+JEADV 2010, 24, 1400–1405          Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+===== [PDF page 4 of 6] =====
+Influence of high dose prilocaine on IL-6, IL-8 and TNF-a
+
+Figure 1 Serum prilocaine concentrations. Presented are
+mean ± SD of all patients (black line) and only patients with
+malignant melanoma (grey line). *P < 0.001 and **P < 0.0001 vs.
+sample 0 (basal).
+
+1403
+
+Figure 3 Serum concentrations of interleukin-6. Presented are
+mean ± SD of all patients (black line) and only patients with
+malignant melanoma (grey line). *P < 0.05 and **P < 0.0001 vs.
+sample 0 (basal).
+
+with malignant melanoma react differently to prilocaine
+application. This hypothesis could be excluded (Figs 1–3).
+IL-6 serum concentration
+
+Figure 2 Serum methemoglobin concentrations. Presented are
+mean ± SD of all patients (black line) and only patients with
+malignant melanoma (grey line). **P < 0.0001 vs. sample 0
+(basal).
+
+Special clinical courses
+
+Overall, an MHb concentration >15% was measured in three
+patients:
+1 One 44-year-old male and one 67-year-old female patient
+developed a methemoglobinaemia (20.7% and 20.0%)
+with a maximum at 12 h after TLA. No clinical symptoms
+were observed and no specific therapy was indicated.
+2 Four hours after TLA, one 18-year-old female patient
+suffering from a malignant melanoma developed mild
+symptoms of cyanosis and hyperventilation at a maximum MHb concentration of 17.9%. She received oxygen
+via a face mask and a mild sedation. The symptoms
+disappeared about one hour later. The MHb concentration was found decreased to 8.0%, 12 h after prilocaine
+application.
+3 We conducted the calculations with all patients (n = 30)
+and in addition only with patients, suffering from a malignant melanoma (n = 22). It may be speculated that patients
+
+JEADV 2010, 24, 1400–1405
+
+Basal IL-6 serum level (9.5 ± 2.5 U ⁄ L; Fig. 3) was altered after 1
+and 2 h, but increased significantly to 16.1 ± 1.7 U ⁄ L after 4 h
+(P = 0.0149 compared with basal) coinciding with the systemic
+maximum concentration of prilocaine. IL-6 concentration reached
+a peak maximum of 28.4 ± 4.1 U ⁄ L (P < 0.001) 12 h after TLA.
+After 24 h IL-6 level decreased to 21.4 ± 3.7 U ⁄ L (P = 0.0002), to
+16.1 ± 3.0 U ⁄ L after 48 h (P = 0.0437) and reached basal level
+after 72 h (P < 0.0001 for changes in response over time; ANOVA).
+IL-8 and TNF-a serum concentrations
+
+Serum levels of IL-8 and TNF-a serum did not change significantly in the chronological sequence compared with baseline levels
+(Table 2; P = 0.2667 and 0.3171 respectively). Furthermore, no
+statistically significant correlation between the applied doses of
+prilocaine and MHb or prilocaine serum levels and IL-6, IL-8 or
+TNF-a concentrations could be detected.
+CRP serum concentration
+
+From basal level of 5.4 ± 1.6 mg ⁄ L, the concentration of CRP
+increased to 7.5 ± 1.9 mg ⁄ L and to 14.4 ± 4.4 mg ⁄ L at 12 and
+24 h respectively (P = 0.0030). A CRP peak maximum of 24.2 ±
+5.4 mg ⁄ L was reached at 48 h (P < 0.0001 compared with basal
+levels).
+Serum concentrations of CK, LDH and PCT
+
+We observed no statistically significant change in serum concentrations of CK, LDH and PCT over the described period
+of the study (P = 0.1666, 0.9590 and 0.8599 respectively). The
+analysis of PCT was stopped after 20 patients as no correlation was found.
+
+ª 2010 The Authors
+Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+
+----- [PDF page 4 of 6: layout view of the same page] -----
+Influence of high dose prilocaine on IL-6, IL-8 and TNF-a                                                                                      1403
+
+
+
+
+                                                                         Figure 3 Serum concentrations of interleukin-6. Presented are
+Figure 1 Serum prilocaine concentrations. Presented are
+                                                                         mean ± SD of all patients (black line) and only patients with
+mean ± SD of all patients (black line) and only patients with
+                                                                         malignant melanoma (grey line). *P < 0.05 and **P < 0.0001 vs.
+malignant melanoma (grey line). *P < 0.001 and **P < 0.0001 vs.
+                                                                         sample 0 (basal).
+sample 0 (basal).
+
+
+
+                                                                              with malignant melanoma react differently to prilocaine
+                                                                              application. This hypothesis could be excluded (Figs 1–3).
+
+
+                                                                         IL-6 serum concentration
+                                                                         Basal IL-6 serum level (9.5 ± 2.5 U ⁄ L; Fig. 3) was altered after 1
+                                                                         and 2 h, but increased significantly to 16.1 ± 1.7 U ⁄ L after 4 h
+                                                                         (P = 0.0149 compared with basal) coinciding with the systemic
+                                                                         maximum concentration of prilocaine. IL-6 concentration reached
+                                                                         a peak maximum of 28.4 ± 4.1 U ⁄ L (P < 0.001) 12 h after TLA.
+                                                                         After 24 h IL-6 level decreased to 21.4 ± 3.7 U ⁄ L (P = 0.0002), to
+                                                                         16.1 ± 3.0 U ⁄ L after 48 h (P = 0.0437) and reached basal level
+Figure 2 Serum methemoglobin concentrations. Presented are               after 72 h (P < 0.0001 for changes in response over time; ANOVA).
+mean ± SD of all patients (black line) and only patients with
+malignant melanoma (grey line). **P < 0.0001 vs. sample 0
+(basal).                                                                 IL-8 and TNF-a serum concentrations
+                                                                         Serum levels of IL-8 and TNF-a serum did not change signifi-
+                                                                         cantly in the chronological sequence compared with baseline levels
+Special clinical courses                                                 (Table 2; P = 0.2667 and 0.3171 respectively). Furthermore, no
+Overall, an MHb concentration >15% was measured in three                 statistically significant correlation between the applied doses of
+patients:                                                                prilocaine and MHb or prilocaine serum levels and IL-6, IL-8 or
+  1 One 44-year-old male and one 67-year-old female patient              TNF-a concentrations could be detected.
+     developed a methemoglobinaemia (20.7% and 20.0%)
+     with a maximum at 12 h after TLA. No clinical symptoms              CRP serum concentration
+     were observed and no specific therapy was indicated.                From basal level of 5.4 ± 1.6 mg ⁄ L, the concentration of CRP
+  2 Four hours after TLA, one 18-year-old female patient                 increased to 7.5 ± 1.9 mg ⁄ L and to 14.4 ± 4.4 mg ⁄ L at 12 and
+     suffering from a malignant melanoma developed mild                  24 h respectively (P = 0.0030). A CRP peak maximum of 24.2 ±
+     symptoms of cyanosis and hyperventilation at a maxi-                5.4 mg ⁄ L was reached at 48 h (P < 0.0001 compared with basal
+     mum MHb concentration of 17.9%. She received oxygen                 levels).
+     via a face mask and a mild sedation. The symptoms
+     disappeared about one hour later. The MHb concentra-                Serum concentrations of CK, LDH and PCT
+     tion was found decreased to 8.0%, 12 h after prilocaine             We observed no statistically significant change in serum con-
+     application.                                                        centrations of CK, LDH and PCT over the described period
+  3 We conducted the calculations with all patients (n = 30)             of the study (P = 0.1666, 0.9590 and 0.8599 respectively). The
+     and in addition only with patients, suffering from a malig-         analysis of PCT was stopped after 20 patients as no correla-
+     nant melanoma (n = 22). It may be speculated that patients          tion was found.
+
+
+                                                                                                                                 ª 2010 The Authors
+JEADV 2010, 24, 1400–1405      Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+===== [PDF page 5 of 6] =====
+Schmittner et al.
+
+1404
+
+Correlations
+
+At no time statistically significant correlations between the applied
+prilocaine doses and the serum prilocaine concentrations were
+found. However, an association between the serum prilocaine concentration and the simultaneously measured MHb concentration
+at 2 h (r = 0.38686, P = 0.0347) and at 4 h was detected
+(r = 0.49455, P = 0.0055). Indeed, MHb concentration after 4 h
+and after 12 h seemed to be directly influenced by the serum prilocaine concentration measured earlier (r = 0.50126 with P = 0.0048
+and r = 0.41852 with P = 0.0214 respectively). No correlation
+between MHb and IL-6 concentration was found at any time.
+In vitro analysis
+
+Interleukin-6 synthesis was completely inhibited under simultaneous CX and prilocaine stimulation, indicating the de novo synthesis of this chemokine by immunmodulatory cells (data not
+shown). The same experiments were performed with o-toluidin
+alone, where also a complete inhibition of IL-6 synthesis was
+observed. However, no differences compared with the results
+under prilocaine stimulation were observed.
+
+Discussion
+This clinical study demonstrates for the first time that high doses
+of prilocaine induce MHb generation and the enhanced release of
+IL-6, but not of IL-8 or TNF-a in vivo. IL-6 was de novo synthesized upon prilocaine therapy, as no IL-6 could be detected in
+serum of stimulated or unstimulated blood that was cultured in
+the presence of CX.
+Our study based on the results of a recent manuscript
+demonstrating the MHb-induced production and release of
+IL-6 and IL-8, as well as elevated membrane expression of
+E-selectin in vitro.19 This activation is mediated by mechanisms
+initiated at the cell membrane level or through intermediates
+of an MHb-dependent catabolism upstream of hemoxygenase-1
+action. These in vitro observations indicate that the presence
+of free MHb in blood or interstitial fluid may contribute to
+endothelial cell activation.
+Interleukin-6 is the main stimulator of the production of acutephase proteins in the liver.21 Specifically, the expression of CRP, a
+preferred marker for the systemic inflammatory reaction22 is
+under the direct influence of IL-6. Indeed, the observed CRP
+serum concentrations (beginning to increase at 12 h after TLA)
+represent the time lapse of CRP transcription induction in
+response to increasing systemic IL-6 concentrations. Other authors
+found a correlation of CRP and IL-6 as an index of oxidative stress
+in patients with high risk of cardiovascular disease.23 We interpret
+the increase of IL-6 and CRP not as a sign of an acute infection
+but as a prilocaine-induced phenomenon. A positive correlation
+between serum CRP and IL-6 as well as IL-8 was found during the
+first year after lung transplantation which was explained by
+systemic or local inflammation after transplantation.24 In contrast
+to the early detectable IL-6, we did not observe increased concen-
+
+JEADV 2010, 24, 1400–1405
+
+trations of IL-8 at any time. It seems that an acute-phase reaction
+is initiated but not prolonged over a 12-h period.
+Current publications recommend a dose limitation of
+2.5 mg ⁄ kg.8 The applied dose in our study was higher than that in
+the studies of Lindenblatt (6.8 ± 0.8 mg ⁄ kg) and Rudlof
+(6.88 mg ⁄ kg), comparable with Sagoo (10–20 mg ⁄ kg) but lower
+than the excessive doses used in the study of Mang et al. (28.8–
+42.6 mg ⁄ kg).3,9,10,25 The high amount of TLA was necessary to
+achieve an adequate anaesthesia for the large dermatological resections. To our knowledge, there is no other TLA solution published
+yet, which can be applied with lower risks.
+Methemoglobinaemia can induce direct hypoxic injury as well
+as organ damage through inflammation.16 Patients can be symptomatic from methemoglobinaemia and require treatment with
+values as low as 8%.8,26 This value was exceeded in our study to
+up to 20.7%.
+In general, lidocaine and prilocaine may be used for TLA.
+Reports about fatal complications after tumescent liposuction with
+lidocaine prohibit its application.5,27 Usually a 0.05% prilocaine
+solution is recommended for liposuction.9 In the case of larger
+dermatological procedures, such as extended tumour resections,
+the anaesthetic potency is usually insufficient. However, prilocaine
+in a concentration of 0.4% provides adequate analgesia, but in
+extended resections increased MHb levels were detected.28
+Taken together, even high doses of prilocaine do not necessarily
+lead to a clinically significant methemoglobinaemia. MHb concentration after 4 h and after 12 h seemed to be directly influenced by
+the serum prilocaine concentration measured earlier, while no correlation between MHb and IL-6 concentration was found at any
+time. MHb is a stimulator for a significant systemic elevation of
+IL-6, but not for IL-8 or TNF-a. We did not observe acute-phase
+reactions in response to threefold increased systemic concentrations of IL-6. Therefore, TLA with high dose prilocaine is considered to be safe in case of inflammatory response and provides
+appropriate anaesthetic effects also in day surgery. As a result of
+possible and unpredictable high MHb concentrations, TLA can
+only be recommended with prilocaine in doses of 2.5 mg ⁄ kg.8
+Further investigations are now necessary to explain the difference in cytokine production on molecular level and to improve the
+development of TLA solutions to reach an adequate analgesia and
+to minimize side-effects, in extended dermatological resections.
+
+References
+1 Klein JA. The tumescent technique for liposuction surgery. Am J
+Cosmetic Surg 1987; 4: 263.
+2 Bussen D, Sailer M, Fuchs KH, Thiede A. Tumescent local anaesthesia
+in proctologic surgery. Chirurg 2003; 74: 839–843.
+3 Rudlof K, Rueffert H, Wehner M, Wetzig T, Eichhorn K, Olthoff D.
+Tumescent local anaesthesia in dermatologic surgery. Anaesthesist 2007;
+56: 785–789.
+4 Abramson DL. Tumescent abdominoplasty: an ambulatory office procedure. Aesthetic Plast Surg 1998; 22: 404–407.
+5 Rao RB, Ely SF, Hoffmann RS. Deaths related to liposuction. N Engl J
+Med 1999; 340: 1471–1475.
+
+ª 2010 The Authors
+Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+
+----- [PDF page 5 of 6: layout view of the same page] -----
+1404                                                                                                                            Schmittner et al.
+
+
+
+
+Correlations                                                               trations of IL-8 at any time. It seems that an acute-phase reaction
+At no time statistically significant correlations between the applied      is initiated but not prolonged over a 12-h period.
+prilocaine doses and the serum prilocaine concentrations were                  Current publications recommend a dose limitation of
+found. However, an association between the serum prilocaine con-           2.5 mg ⁄ kg.8 The applied dose in our study was higher than that in
+centration and the simultaneously measured MHb concentration               the studies of Lindenblatt (6.8 ± 0.8 mg ⁄ kg) and Rudlof
+at 2 h (r = 0.38686, P = 0.0347) and at 4 h was detected                   (6.88 mg ⁄ kg), comparable with Sagoo (10–20 mg ⁄ kg) but lower
+(r = 0.49455, P = 0.0055). Indeed, MHb concentration after 4 h             than the excessive doses used in the study of Mang et al. (28.8–
+and after 12 h seemed to be directly influenced by the serum prilo-        42.6 mg ⁄ kg).3,9,10,25 The high amount of TLA was necessary to
+caine concentration measured earlier (r = 0.50126 with P = 0.0048          achieve an adequate anaesthesia for the large dermatological resec-
+and r = 0.41852 with P = 0.0214 respectively). No correlation              tions. To our knowledge, there is no other TLA solution published
+between MHb and IL-6 concentration was found at any time.                  yet, which can be applied with lower risks.
+                                                                               Methemoglobinaemia can induce direct hypoxic injury as well
+In vitro analysis                                                          as organ damage through inflammation.16 Patients can be symp-
+Interleukin-6 synthesis was completely inhibited under simulta-            tomatic from methemoglobinaemia and require treatment with
+neous CX and prilocaine stimulation, indicating the de novo syn-           values as low as 8%.8,26 This value was exceeded in our study to
+thesis of this chemokine by immunmodulatory cells (data not                up to 20.7%.
+shown). The same experiments were performed with o-toluidin                    In general, lidocaine and prilocaine may be used for TLA.
+alone, where also a complete inhibition of IL-6 synthesis was              Reports about fatal complications after tumescent liposuction with
+observed. However, no differences compared with the results                lidocaine prohibit its application.5,27 Usually a 0.05% prilocaine
+under prilocaine stimulation were observed.                                solution is recommended for liposuction.9 In the case of larger
+                                                                           dermatological procedures, such as extended tumour resections,
+Discussion                                                                 the anaesthetic potency is usually insufficient. However, prilocaine
+This clinical study demonstrates for the first time that high doses        in a concentration of 0.4% provides adequate analgesia, but in
+of prilocaine induce MHb generation and the enhanced release of            extended resections increased MHb levels were detected.28
+IL-6, but not of IL-8 or TNF-a in vivo. IL-6 was de novo synthe-               Taken together, even high doses of prilocaine do not necessarily
+sized upon prilocaine therapy, as no IL-6 could be detected in             lead to a clinically significant methemoglobinaemia. MHb concen-
+serum of stimulated or unstimulated blood that was cultured in             tration after 4 h and after 12 h seemed to be directly influenced by
+the presence of CX.                                                        the serum prilocaine concentration measured earlier, while no cor-
+   Our study based on the results of a recent manuscript                   relation between MHb and IL-6 concentration was found at any
+demonstrating the MHb-induced production and release of                    time. MHb is a stimulator for a significant systemic elevation of
+IL-6 and IL-8, as well as elevated membrane expression of                  IL-6, but not for IL-8 or TNF-a. We did not observe acute-phase
+E-selectin in vitro.19 This activation is mediated by mechanisms           reactions in response to threefold increased systemic concentra-
+initiated at the cell membrane level or through intermediates              tions of IL-6. Therefore, TLA with high dose prilocaine is consid-
+of an MHb-dependent catabolism upstream of hemoxygenase-1                  ered to be safe in case of inflammatory response and provides
+action. These in vitro observations indicate that the presence             appropriate anaesthetic effects also in day surgery. As a result of
+of free MHb in blood or interstitial fluid may contribute to               possible and unpredictable high MHb concentrations, TLA can
+endothelial cell activation.                                               only be recommended with prilocaine in doses of 2.5 mg ⁄ kg.8
+   Interleukin-6 is the main stimulator of the production of acute-            Further investigations are now necessary to explain the differ-
+phase proteins in the liver.21 Specifically, the expression of CRP, a      ence in cytokine production on molecular level and to improve the
+preferred marker for the systemic inflammatory reaction22 is               development of TLA solutions to reach an adequate analgesia and
+under the direct influence of IL-6. Indeed, the observed CRP               to minimize side-effects, in extended dermatological resections.
+serum concentrations (beginning to increase at 12 h after TLA)
+represent the time lapse of CRP transcription induction in                 References
+response to increasing systemic IL-6 concentrations. Other authors          1 Klein JA. The tumescent technique for liposuction surgery. Am J
+                                                                              Cosmetic Surg 1987; 4: 263.
+found a correlation of CRP and IL-6 as an index of oxidative stress
+                                                                            2 Bussen D, Sailer M, Fuchs KH, Thiede A. Tumescent local anaesthesia
+in patients with high risk of cardiovascular disease.23 We interpret          in proctologic surgery. Chirurg 2003; 74: 839–843.
+the increase of IL-6 and CRP not as a sign of an acute infection            3 Rudlof K, Rueffert H, Wehner M, Wetzig T, Eichhorn K, Olthoff D.
+but as a prilocaine-induced phenomenon. A positive correlation                Tumescent local anaesthesia in dermatologic surgery. Anaesthesist 2007;
+                                                                              56: 785–789.
+between serum CRP and IL-6 as well as IL-8 was found during the
+                                                                            4 Abramson DL. Tumescent abdominoplasty: an ambulatory office proce-
+first year after lung transplantation which was explained by                  dure. Aesthetic Plast Surg 1998; 22: 404–407.
+systemic or local inflammation after transplantation.24 In contrast         5 Rao RB, Ely SF, Hoffmann RS. Deaths related to liposuction. N Engl J
+to the early detectable IL-6, we did not observe increased concen-            Med 1999; 340: 1471–1475.
+
+
+
+
+                                                                                                                                   ª 2010 The Authors
+JEADV 2010, 24, 1400–1405        Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+===== [PDF page 6 of 6] =====
+Influence of high dose prilocaine on IL-6, IL-8 and TNF-a
+
+1405
+
+6 Khan NA, Kruse JA. Methemoglobinemia induced by topical anaesthesia: a case report and review. Am J Med Sci 1999; 318: 415–418.
+7 Dumont L, Mardirosoff C, Dumont C, Mattys M, Massaut J. Methemoglobinaemia induced by a low dose of prilocaine during interscalenic
+block. Acta Anaesthesiol Belg 1995; 46: 39–42.
+8 Guay J. Methemoglobinemia related to local anesthetics: a summary of
+242 episodes. Anesth Analg 2009; 108: 837–845.
+9 Lindenblatt N, Belusa L, Tiefenbach B, Schareck W, Olbrisch RR. Prilocaine serum levels and methemoglobinemia in patients undergoing
+tumescent liposuction involving less than 2000 mL. Aesth Plast Surg
+2004; 28: 435–440.
+10 Mang WL, Materak J, Kuntz S, Sawatzki K, Arnold W. Liposuktion in
+Tumeszenzlokalanaesthesie – Grenzen der Prilocaindosierung. Zschr
+Hautkrankh 1999; 74: 157–161.
+11 Vasters FG, Eberhart LHJ, Koch T, Kranke P, Wulf H, Morin AM. Risk
+factors for prilocaine-induced methemoglobinaemia following peripheral regional anaesthesia. Eur J Anaesthesiol 2006; 23: 760–765.
+12 Sadove MS, Jobgen EA, Heller FN, Rosenberg R. Methemoglobinemia –
+an effect of a new local anesthetic L-67 (prilocaine). Acta Anaesthesiol
+Scand Suppl 1965; 16: 175–182.
+13 Mansuouri A, Lurie A. Concise review: methemoglobinemia. Am J
+Hematol 1993; 42: 7–12.
+14 Margulies DR, Manookian CM. Methemoglobinemia as a cause of
+respiratory failure. J Trauma 2002; 52: 796–797.
+15 Jaffe E. Methemoglobin pathophysiology. Prog Clin Biol Res 1981; 51:
+133–151.
+16 Umbreit J. Methemoglobin – it¢s not just blue: a concise review. Am J
+Hematol 2007; 82: 134–144.
+17 Hack CE, Zeerleder S. The endothelium in sepsis: source of and a target
+for inflammation. Crit Care Med 2001; 29: S21–S27.
+18 Spolarcis Z. Endotoxemia, pentose cycle, and the oxidant ⁄ antioxidant balance in the hepatic sinusoid. J Leukoc Biol 1998; 63: 534–
+541.
+
+19 Liu X, Spolarics Z. Methemoglobin is a potent activator of endothelial cells by stimulating IL-6 and IL-8 production and E-selectin
+membrane expression. Am J Physiol Cell Physiol 2003; 285: 1036–
+1046.
+20 Chernik DA, Gillings D, Laine H et al. Validity and reliability of the
+observer¢s assessment of alertness ⁄ sedation scale: study with intravenous
+midazolam. J Clin Psychopharmacil 1990; 10: 244–251.
+21 Pfaefflin A, Schleicher E. Inflammation markers in point-of-care testing
+(POCT). Anal Bioanal Chem 2009; 393: 1473–1480.
+22 Gabay C, Kushner I. Acute-phase proteins and other systemic responses
+to inflammation. N Engl J Med 1999; 340: 448–454.
+23 Il¢Yasova D, Ivanova A, Morrow JD, Cesari M, Pahor M. Correlation
+between two markers of inflammation, serum C-reactive protein and
+interleukin 6, and indices of oxidative stress in patients with high risk
+of cardiovascular disease. Biomarkers 2008; 13: 41–51.
+24 Vos R, Vanaudenaerde BM, De Vleeschauwer SI, Van Raemdonck DE,
+Dupont LJ, Verleden GM. Serum C-reactive protein levels correlate
+with markers of airway inflammation after lung transplantation: a role
+of systemic inflammation in bronchiolitis obliterans syndrome?
+Transplant Proc 2009; 41: 595–598.
+25 Sagoo KS, Inoue K, Winkler W, Salfeld K. Pharmacokinetics of tumescent local anaesthesia with prilocaine in surgery of varicose veins.
+Phlebologie 2000; 29: 154–162.
+26 Ash-Bernal R, Wise R, Wright SM. Acquired methemoglobinemia: a
+retrospective series of 138 cases at 2 teaching hospitals. Medicine
+(Baltimore) 2004; 83: 265–273.
+27 Grazer FM, de Jong RH. Fatal outcomes from liposuction:
+census survey of cosmetic surgeons. Plast Reconstr Surg 2000; 105:
+436–446.
+28 Kortgen A, Janneck U, Vetsch A, Bauer M. Methemoglobinemia due
+to prilocaine after plexus anaesthesia. Reduction by prophylactic
+administration of ascorbic acid? Anaesthesist 2003; 52: 1020–
+1026.
+
+JEADV 2010, 24, 1400–1405
+
+ª 2010 The Authors
+Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+
+
+----- [PDF page 6 of 6: layout view of the same page] -----
+Influence of high dose prilocaine on IL-6, IL-8 and TNF-a                                                                                             1405
+
+
+
+
+ 6 Khan NA, Kruse JA. Methemoglobinemia induced by topical anaesthe-          19 Liu X, Spolarics Z. Methemoglobin is a potent activator of endothe-
+   sia: a case report and review. Am J Med Sci 1999; 318: 415–418.               lial cells by stimulating IL-6 and IL-8 production and E-selectin
+ 7 Dumont L, Mardirosoff C, Dumont C, Mattys M, Massaut J. Methemo-              membrane expression. Am J Physiol Cell Physiol 2003; 285: 1036–
+   globinaemia induced by a low dose of prilocaine during interscalenic          1046.
+   block. Acta Anaesthesiol Belg 1995; 46: 39–42.                             20 Chernik DA, Gillings D, Laine H et al. Validity and reliability of the
+ 8 Guay J. Methemoglobinemia related to local anesthetics: a summary of          observer¢s assessment of alertness ⁄ sedation scale: study with intravenous
+   242 episodes. Anesth Analg 2009; 108: 837–845.                                midazolam. J Clin Psychopharmacil 1990; 10: 244–251.
+ 9 Lindenblatt N, Belusa L, Tiefenbach B, Schareck W, Olbrisch RR. Prilo-     21 Pfaefflin A, Schleicher E. Inflammation markers in point-of-care testing
+   caine serum levels and methemoglobinemia in patients undergoing               (POCT). Anal Bioanal Chem 2009; 393: 1473–1480.
+   tumescent liposuction involving less than 2000 mL. Aesth Plast Surg        22 Gabay C, Kushner I. Acute-phase proteins and other systemic responses
+   2004; 28: 435–440.                                                            to inflammation. N Engl J Med 1999; 340: 448–454.
+10 Mang WL, Materak J, Kuntz S, Sawatzki K, Arnold W. Liposuktion in          23 Il¢Yasova D, Ivanova A, Morrow JD, Cesari M, Pahor M. Correlation
+   Tumeszenzlokalanaesthesie – Grenzen der Prilocaindosierung. Zschr             between two markers of inflammation, serum C-reactive protein and
+   Hautkrankh 1999; 74: 157–161.                                                 interleukin 6, and indices of oxidative stress in patients with high risk
+11 Vasters FG, Eberhart LHJ, Koch T, Kranke P, Wulf H, Morin AM. Risk            of cardiovascular disease. Biomarkers 2008; 13: 41–51.
+   factors for prilocaine-induced methemoglobinaemia following periph-        24 Vos R, Vanaudenaerde BM, De Vleeschauwer SI, Van Raemdonck DE,
+   eral regional anaesthesia. Eur J Anaesthesiol 2006; 23: 760–765.              Dupont LJ, Verleden GM. Serum C-reactive protein levels correlate
+12 Sadove MS, Jobgen EA, Heller FN, Rosenberg R. Methemoglobinemia –             with markers of airway inflammation after lung transplantation: a role
+   an effect of a new local anesthetic L-67 (prilocaine). Acta Anaesthesiol      of systemic inflammation in bronchiolitis obliterans syndrome?
+   Scand Suppl 1965; 16: 175–182.                                                Transplant Proc 2009; 41: 595–598.
+13 Mansuouri A, Lurie A. Concise review: methemoglobinemia. Am J              25 Sagoo KS, Inoue K, Winkler W, Salfeld K. Pharmacokinetics of tumes-
+   Hematol 1993; 42: 7–12.                                                       cent local anaesthesia with prilocaine in surgery of varicose veins.
+14 Margulies DR, Manookian CM. Methemoglobinemia as a cause of                   Phlebologie 2000; 29: 154–162.
+   respiratory failure. J Trauma 2002; 52: 796–797.                           26 Ash-Bernal R, Wise R, Wright SM. Acquired methemoglobinemia: a
+15 Jaffe E. Methemoglobin pathophysiology. Prog Clin Biol Res 1981; 51:          retrospective series of 138 cases at 2 teaching hospitals. Medicine
+   133–151.                                                                      (Baltimore) 2004; 83: 265–273.
+16 Umbreit J. Methemoglobin – it¢s not just blue: a concise review. Am J      27 Grazer FM, de Jong RH. Fatal outcomes from liposuction:
+   Hematol 2007; 82: 134–144.                                                    census survey of cosmetic surgeons. Plast Reconstr Surg 2000; 105:
+17 Hack CE, Zeerleder S. The endothelium in sepsis: source of and a target       436–446.
+   for inflammation. Crit Care Med 2001; 29: S21–S27.                         28 Kortgen A, Janneck U, Vetsch A, Bauer M. Methemoglobinemia due
+18 Spolarcis Z. Endotoxemia, pentose cycle, and the oxidant ⁄ antioxi-           to prilocaine after plexus anaesthesia. Reduction by prophylactic
+   dant balance in the hepatic sinusoid. J Leukoc Biol 1998; 63: 534–            administration of ascorbic acid? Anaesthesist 2003; 52: 1020–
+   541.                                                                          1026.
+
+
+
+
+                                                                                                                                      ª 2010 The Authors
+JEADV 2010, 24, 1400–1405           Journal of the European Academy of Dermatology and Venereology ª 2010 European Academy of Dermatology and Venereology
+

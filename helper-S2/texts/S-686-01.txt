@@ -1,0 +1,894 @@
+SOURCE FILE: S-686-01 - Baroni 2013 - Effect of articaine on mental nerve anterior portion histological analysis in rats.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Typographic ligatures (fi, fl, ff) are written out as plain letters.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 6] =====
+Acta Odontologica Scandinavica, 2013; 71: 82–87
+
+ORIGINAL ARTICLE
+
+Effect of articaine on mental nerve anterior portion: Histological
+analysis in rats
+
+DANIELA BELISÁRIO BARONI1, MICHELLE FRANZ-MONTAN1,2, KARINA COGO1,3,
+LUCIANA ARANHA BERTO1, MARIA CRISTINA VOLPATO1,
+PEDRO DUARTE NOVAES4 & FRANCISCO CARLOS GROPPO1
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+For personal use only.
+
+1
+
+Department of Physiological Sciences, Piracicaba Dental School, University of Campinas-UNICAMP, Piracicaba, SP,
+Brazil, 2Department of Biochemistry, Institute of Biology, UNICAMP, Campinas, SP, Brazil, 3Department of Oral
+Biology, Dentistry School, University of Taubaté, Taubaté, SP, Brazil, and 4Department of Morphology, Piracicaba
+Dental School, UNICAMP, Piracicaba, SP, Brazil
+
+Abstract
+Objectives. The aim of this study was to evaluate the possible toxic effects of articaine and lidocaine on mental nerve, due to
+the increasing number of paresthesia cases after nerve blocks. Materials and methods. The drugs were injected in the
+anterior portion of mental nerve of 24 rats, divided into three groups: G1—4% articaine with 1:100,000 epinephrine; G2—2%
+lidocaine with 1:100,000 epinephrine and G3—plain 1:100,000 epinephrine solution. These solutions were injected in the
+right side of the rat’s mandible and the left side was used as control (0.9% saline solution). Previously to the injections, the
+animals were anesthetized with thiopental and, 24 h after the injections, their jaws were removed and submitted to routine
+histological techniques. A histopathological analysis was performed by optical microscopy. Results. An inflammatory
+infiltration was found around mental nerve, classified as intense for G3, moderate for G1 and light for both G2 and control
+groups. No injuries were found in nervous structure, despite the inflammatory reaction observed around it. Conclusion. The
+results suggest that articaine is not toxic to the nervous structure and further studies are necessary to explain the possible
+relation between articaine injection and paresthesia.
+
+Key Words: anesthesia, articaine, local anesthetics, mental nerve, paresthesia
+
+Introduction
+Local anesthetics are among the most effective and
+safest drugs used in medicine and dentistry for the
+control and management of pain [1]. It is impracticable to provide effective dental care without the use
+of local anesthetics. Even though these drugs have an
+impressive history of efficacy and safety, all local
+anesthetics have the potential to produce significant
+toxicity.
+Paresthesia is a possible adverse event, presented as
+a prolonged complete anesthesia or an altered sensation, ranging from complete numbness to burning,
+tingling or continual pain, that persists beyond the
+expected duration of action of a local anesthetic
+injection [2,3].
+
+Articaine is a widely used local anesthetic in several
+European countries [4]. A number of advantages
+making it an attractive choice for specific cases has
+been related. In addition, it was recently considered as
+the best anesthetic choice in dentistry [5].
+Usually, the local anesthetics contain benzene as
+the aromatic ring, but articaine has a thiophene
+ring providing great liposolubility. Cases of successful anesthesia after infiltration of the mandible
+are attributed to its high liposolubility and higher
+concentration when compared to lidocaine [6].
+Previous studies showed greater success rates in
+the first molar after mandibular buccal infiltration
+with 4% articaine with 1:100,000 epinephrine than
+after 2% lidocaine with 1:100,000 epinephrine
+injection [7,8].
+
+Correspondence: Michelle Franz-Montan, University of Campinas, Piracicaba Dental School, Av. Limeira, 901. CEP: 13414-903. Piracicaba, SP, Brazil.
+E-mail: franzmontan@hotmail.com
+(Received 4 May 2011; revised 9 November 2011; accepted 14 December 2011)
+ISSN 0001-6357 print/ISSN 1502-3850 online  2013 Informa Healthcare
+DOI: 10.3109/00016357.2011.654243
+
+
+----- [PDF page 1 of 6: layout view of the same page] -----
+                                                                                             Acta Odontologica Scandinavica, 2013; 71: 82–87
+
+
+
+                                                                                             ORIGINAL ARTICLE
+
+
+
+                                                                                             Effect of articaine on mental nerve anterior portion: Histological
+                                                                                             analysis in rats
+
+
+                                                                                             DANIELA BELISÁRIO BARONI1, MICHELLE FRANZ-MONTAN1,2, KARINA COGO1,3,
+                                                                                             LUCIANA ARANHA BERTO1, MARIA CRISTINA VOLPATO1,
+                                                                                             PEDRO DUARTE NOVAES4 & FRANCISCO CARLOS GROPPO1
+                                                                                             1
+                                                                                              Department of Physiological Sciences, Piracicaba Dental School, University of Campinas-UNICAMP, Piracicaba, SP,
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+
+
+
+
+                                                                                             Brazil, 2Department of Biochemistry, Institute of Biology, UNICAMP, Campinas, SP, Brazil, 3Department of Oral
+                                                                                             Biology, Dentistry School, University of Taubaté, Taubaté, SP, Brazil, and 4Department of Morphology, Piracicaba
+                                                                                             Dental School, UNICAMP, Piracicaba, SP, Brazil
+
+
+
+                                                                                             Abstract
+                                                                                             Objectives. The aim of this study was to evaluate the possible toxic effects of articaine and lidocaine on mental nerve, due to
+                                                                                             the increasing number of paresthesia cases after nerve blocks. Materials and methods. The drugs were injected in the
+                                                                                             anterior portion of mental nerve of 24 rats, divided into three groups: G1—4% articaine with 1:100,000 epinephrine; G2—2%
+                                                                                             lidocaine with 1:100,000 epinephrine and G3—plain 1:100,000 epinephrine solution. These solutions were injected in the
+                                  For personal use only.
+
+
+
+
+                                                                                             right side of the rat’s mandible and the left side was used as control (0.9% saline solution). Previously to the injections, the
+                                                                                             animals were anesthetized with thiopental and, 24 h after the injections, their jaws were removed and submitted to routine
+                                                                                             histological techniques. A histopathological analysis was performed by optical microscopy. Results. An inflammatory
+                                                                                             infiltration was found around mental nerve, classified as intense for G3, moderate for G1 and light for both G2 and control
+                                                                                             groups. No injuries were found in nervous structure, despite the inflammatory reaction observed around it. Conclusion. The
+                                                                                             results suggest that articaine is not toxic to the nervous structure and further studies are necessary to explain the possible
+                                                                                             relation between articaine injection and paresthesia.
+
+                                                                                             Key Words: anesthesia, articaine, local anesthetics, mental nerve, paresthesia
+
+
+                                                                                             Introduction                                                                    Articaine is a widely used local anesthetic in several
+                                                                                                                                                                           European countries [4]. A number of advantages
+                                                                                             Local anesthetics are among the most effective and                            making it an attractive choice for specific cases has
+                                                                                             safest drugs used in medicine and dentistry for the                           been related. In addition, it was recently considered as
+                                                                                             control and management of pain [1]. It is impracti-                           the best anesthetic choice in dentistry [5].
+                                                                                             cable to provide effective dental care without the use                          Usually, the local anesthetics contain benzene as
+                                                                                             of local anesthetics. Even though these drugs have an                         the aromatic ring, but articaine has a thiophene
+                                                                                             impressive history of efficacy and safety, all local                           ring providing great liposolubility. Cases of suc-
+                                                                                             anesthetics have the potential to produce significant                          cessful anesthesia after infiltration of the mandible
+                                                                                             toxicity.                                                                     are attributed to its high liposolubility and higher
+                                                                                                Paresthesia is a possible adverse event, presented as                      concentration when compared to lidocaine [6].
+                                                                                             a prolonged complete anesthesia or an altered sensa-                          Previous studies showed greater success rates in
+                                                                                             tion, ranging from complete numbness to burning,                              the first molar after mandibular buccal infiltration
+                                                                                             tingling or continual pain, that persists beyond the                          with 4% articaine with 1:100,000 epinephrine than
+                                                                                             expected duration of action of a local anesthetic                             after 2% lidocaine with 1:100,000 epinephrine
+                                                                                             injection [2,3].                                                              injection [7,8].
+
+
+
+                                                                                             Correspondence: Michelle Franz-Montan, University of Campinas, Piracicaba Dental School, Av. Limeira, 901. CEP: 13414-903. Piracicaba, SP, Brazil.
+                                                                                             E-mail: franzmontan@hotmail.com
+
+                                                                                             (Received 4 May 2011; revised 9 November 2011; accepted 14 December 2011)
+                                                                                             ISSN 0001-6357 print/ISSN 1502-3850 online  2013 Informa Healthcare
+                                                                                             DOI: 10.3109/00016357.2011.654243
+
+===== [PDF page 2 of 6] =====
+Toxicity of articaine in nerve structure
+
+83
+
+IAN
+trunk
+
+Injection
+site
+
+Metal
+nerve
+
+Figure 1. Injection site and diagram of inferior alveolar nerve branch distribution in the adult rat (adapted from Naftel et al. [18]).
+
+1:100,000 epinephrine after mental block infiltration
+in rats.
+
+Recently, Batista da Silva et al. [9] demonstrated
+that articaine promoted higher anesthesia success and
+longer duration of anesthesia than lidocaine after
+incisive/mental nerve block.
+The ester group in the articaine molecule allows it
+to be hydrolyzed by plasma esterases as well as by
+hepatic microssomal enzymes [4], resulting in a
+shorter half-life when compared to other amides.
+For this reason, articaine presents less risk for systemic toxicity [6].
+In spite of those advantages, an increase of
+paresthesia cases has been reported after inferior
+alveolar blocks with 4% articaine and prilocaine solutions when compared with other local anesthetics
+[10–13]. Despite the overall low incidence of paresthesia, the nerve damage could be permanent [13].
+The possible mechanisms of paresthesia caused by
+articaine injection are still not clear. The aim of this
+study was to compare the toxicities of 4% articaine
+with 1:100,000 epinephrine and 2% lidocaine with
+
+Methods
+Materials
+This study was approved by the Institutional Committee for Ethics in Animal Research of the University
+of Campinas (CEEA-Unicamp/Protocol Number
+#830-1).
+Twenty-four male Wistar rats (Rattus norvegicus albinus), 60 days of age and weighing 175 g ± 25 g,
+obtained from the Multidisciplinary Center for Biological Investigation of the University of Campinas
+(CEMIB/Unicamp, Campinas, SP, Brazil) were
+maintained at a controlled room temperature
+(21 ± 0.5 C) and a 12-h light-dark cycle. The
+animals were kept in plastic cages with access to
+food and water ad libitum. Prior to the surgical
+
+6
+Inflammatory infiltrate scores
+
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+For personal use only.
+
+Lingual
+nerve
+
+*
+
+5
+4
+3
+2
+1
+0
+Treated side
+
+Control side
+
+Articaine
+
+Treated side
+
+Control side
+
+Lidocaine
+
+Treated side
+
+Control side
+
+Epinephrine
+
+Figure 2. Average of the inflammatory scores for all groups.
+
+
+----- [PDF page 2 of 6: layout view of the same page] -----
+                                                                                                                                                                                                              Toxicity of articaine in nerve structure   83
+                                                                                                                                                                                                                                              IAN
+                                                                                                                                                                                                                                             trunk
+
+
+                                                                                                                                                            Metal
+                                                                                                                           Injection                        nerve
+                                                                                                                              site
+
+
+
+
+                                                                                                                                                                                                                                 Lingual
+                                                                                                                                                                                                                                  nerve
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+
+
+
+
+                                                                                               Figure 1. Injection site and diagram of inferior alveolar nerve branch distribution in the adult rat (adapted from Naftel et al. [18]).
+
+
+
+
+                                                                                                Recently, Batista da Silva et al. [9] demonstrated                                                1:100,000 epinephrine after mental block infiltration
+                                                                                             that articaine promoted higher anesthesia success and                                                in rats.
+                                                                                             longer duration of anesthesia than lidocaine after
+                                                                                             incisive/mental nerve block.                                                                         Methods
+                                                                                                The ester group in the articaine molecule allows it
+                                  For personal use only.
+
+
+
+
+                                                                                             to be hydrolyzed by plasma esterases as well as by                                                   Materials
+                                                                                             hepatic microssomal enzymes [4], resulting in a
+                                                                                             shorter half-life when compared to other amides.                                                     This study was approved by the Institutional Com-
+                                                                                             For this reason, articaine presents less risk for sys-                                               mittee for Ethics in Animal Research of the University
+                                                                                             temic toxicity [6].                                                                                  of Campinas (CEEA-Unicamp/Protocol Number
+                                                                                                In spite of those advantages, an increase of                                                      #830-1).
+                                                                                             paresthesia cases has been reported after inferior                                                     Twenty-four male Wistar rats (Rattus norvegicus -
+                                                                                             alveolar blocks with 4% articaine and prilocaine solu-                                               albinus), 60 days of age and weighing 175 g ± 25 g,
+                                                                                             tions when compared with other local anesthetics                                                     obtained from the Multidisciplinary Center for Bio-
+                                                                                             [10–13]. Despite the overall low incidence of pares-                                                 logical Investigation of the University of Campinas
+                                                                                             thesia, the nerve damage could be permanent [13].                                                    (CEMIB/Unicamp, Campinas, SP, Brazil) were
+                                                                                                The possible mechanisms of paresthesia caused by                                                  maintained at a controlled room temperature
+                                                                                             articaine injection are still not clear. The aim of this                                             (21 ± 0.5 C) and a 12-h light-dark cycle. The
+                                                                                             study was to compare the toxicities of 4% articaine                                                  animals were kept in plastic cages with access to
+                                                                                             with 1:100,000 epinephrine and 2% lidocaine with                                                     food and water ad libitum. Prior to the surgical
+
+
+
+                                                                                                                                                6
+                                                                                                               Inflammatory infiltrate scores
+
+
+
+
+                                                                                                                                                5                                                                      *
+
+                                                                                                                                                4
+
+                                                                                                                                                3
+
+                                                                                                                                                2
+
+                                                                                                                                                1
+
+                                                                                                                                                0
+                                                                                                                                                    Treated side    Control side   Treated side    Control side   Treated side     Control side
+                                                                                                                                                             Articaine                     Lidocaine                       Epinephrine
+
+                                                                                                                                                             Figure 2. Average of the inflammatory scores for all groups.
+
+===== [PDF page 3 of 6] =====
+84
+
+D. B. Baroni et al.
+
+Table I. Inflammatory infiltrate scores (median – interquartilic
+deviation) according to the groups.
+Inflammatory infiltrate scores
+(median – interquartilic deviation)
+Treated side
+
+Control side
+
+3 (0.25)
+
+2 (0.25)
+
+Lidocaine
+
+2 (1)
+
+2 (0.25)
+
+Epinephrine
+
+4 (1)
+
+2 (1)
+
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+For personal use only.
+
+Articaine
+
+procedures, all animals were handled for 5 days to
+acclimate to the laboratory environment and experimental procedure.
+The rats were divided into three groups (n = 8).
+This number was established according to studies that
+used local anesthetics in rats [14–17]. The groups
+were represented by: Group 1, articaine 4% with
+epinephrine 1:100,000; Group 2, lidocaine 2% with
+epinephrine 1:100,000; and Group 3, solution of
+epinephrine 1:100,000.
+Anesthetic procedure
+Slightly general anesthesia was induced by a subcutaneous injection of a thiopental sodium solution
+(Thiopentax - Cristália, São Paulo, Brazil) in the
+concentration of 40 mg/kg before the administration
+of local anesthetic solution.
+The previous described solutions (0.1 mL) were
+injected in the alveolar mucosa close to the lowerright first molar of rats (Figure 1); 0.1 mL of a saline
+solution (0.9% sodium chloride solution) was injected
+as negative control in the contralateral mucosa of all
+animals. After 24 h, the animals were killed and the
+samples (mandible and the soft tissue adhered) were
+removed. The mandibles were divided into the left
+(negative control) and the right half-mandibles.
+
+Metal nerve
+Perineurum
+
+Histological analysis
+The specimens were placed in labeled plastic recipients containing 10% buffered formalin for 12 h for
+fixation of the organic tissue remnants. Afterwards,
+the specimens were washed for 1 h, decalcified in 4%
+EDTA (ethylene diamino tetraacetic acid), according to Warshawsky and Moore’s [19] method, and
+embedded in paraffin. Transversal serial 6 m-thick
+cross-sections were obtained by using a microtome
+(E. Leitz, Wetzlar, Hessen, Germany) and stained
+with hematoxylin and eosin. From each block,
+eight sections were chosen, after each 20 m, in
+the point that mental nerve started to cross the
+cortical bone.
+The samples were examined with an optical microscope (Eclipse E 600; Nikon, Shinagawa-ku, Tokio,
+Japan) at 100  and 400  magnifications. The
+images were captured using Adobe Premiere 5.1 software (Adobe Systems Inc., San Jose, CA) and were
+analyzed using Corel Photo Paint 10 software (Corel
+Corporation Inc., Mountain View, CA).
+The images were submitted to qualitative analysis in
+order to evaluate the intensity of leucocytes infiltration
+and/or any possible necrosis area. A preliminary pilot
+study conducted according to other previous studies
+[20,21] allowed the use of a qualitative score of the
+local tissue inflammation. The soft tissue and nervous
+structure near the injection site were analyzed. The
+score was defined based on the following descriptions:
+(1) no inflammatory infiltration, (2) very light inflammatory infiltration, (3) light inflammatory infiltration,
+(4) moderate inflammatory infiltration and (5) intense
+inflammatory infiltration.
+Statistical analysis
+Data were submitted to the Kruskal-Wallis and Dunn
+tests (alpha = 5%).
+
+Inflammatory
+infiltration in
+conjunctive tissue
+
+Mandibular
+bone
+
+Figure 3. Histological slices from Group 1 (4% articaine with 1:100,000 epinephrine)–treated side (100 and 400 , respectively). Presence of
+moderate inflammatory infiltration around mental nerve.
+
+
+----- [PDF page 3 of 6: layout view of the same page] -----
+                                                                                             84      D. B. Baroni et al.
+
+                                                                                             Table I. Inflammatory infiltrate scores (median – interquartilic           Histological analysis
+                                                                                             deviation) according to the groups.
+                                                                                                                            Inflammatory infiltrate scores
+                                                                                                                                                                      The specimens were placed in labeled plastic reci-
+                                                                                                                          (median – interquartilic deviation)         pients containing 10% buffered formalin for 12 h for
+                                                                                                                                                                      fixation of the organic tissue remnants. Afterwards,
+                                                                                                                       Treated side                 Control side      the specimens were washed for 1 h, decalcified in 4%
+                                                                                                                                                                      EDTA (ethylene diamino tetraacetic acid), accord-
+                                                                                             Articaine                   3 (0.25)                     2 (0.25)
+                                                                                                                                                                      ing to Warshawsky and Moore’s [19] method, and
+                                                                                             Lidocaine                       2 (1)                    2 (0.25)
+                                                                                                                                                                      embedded in paraffin. Transversal serial 6 m-thick
+                                                                                             Epinephrine                     4 (1)                      2 (1)         cross-sections were obtained by using a microtome
+                                                                                                                                                                      (E. Leitz, Wetzlar, Hessen, Germany) and stained
+                                                                                                                                                                      with hematoxylin and eosin. From each block,
+                                                                                             procedures, all animals were handled for 5 days to                       eight sections were chosen, after each 20 m, in
+                                                                                             acclimate to the laboratory environment and experi-                      the point that mental nerve started to cross the
+                                                                                             mental procedure.                                                        cortical bone.
+                                                                                               The rats were divided into three groups (n = 8).                          The samples were examined with an optical micro-
+                                                                                             This number was established according to studies that
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+
+
+
+
+                                                                                                                                                                      scope (Eclipse E 600; Nikon, Shinagawa-ku, Tokio,
+                                                                                             used local anesthetics in rats [14–17]. The groups                       Japan) at 100  and 400  magnifications. The
+                                                                                             were represented by: Group 1, articaine 4% with                          images were captured using Adobe Premiere 5.1 soft-
+                                                                                             epinephrine 1:100,000; Group 2, lidocaine 2% with                        ware (Adobe Systems Inc., San Jose, CA) and were
+                                                                                             epinephrine 1:100,000; and Group 3, solution of                          analyzed using Corel Photo Paint 10 software (Corel
+                                                                                             epinephrine 1:100,000.                                                   Corporation Inc., Mountain View, CA).
+                                                                                                                                                                         The images were submitted to qualitative analysis in
+                                                                                             Anesthetic procedure                                                     order to evaluate the intensity of leucocytes infiltration
+                                                                                                                                                                      and/or any possible necrosis area. A preliminary pilot
+                                                                                             Slightly general anesthesia was induced by a subcu-                      study conducted according to other previous studies
+                                                                                             taneous injection of a thiopental sodium solution                        [20,21] allowed the use of a qualitative score of the
+                                  For personal use only.
+
+
+
+
+                                                                                             (Thiopentax - Cristália, São Paulo, Brazil) in the                      local tissue inflammation. The soft tissue and nervous
+                                                                                             concentration of 40 mg/kg before the administration                      structure near the injection site were analyzed. The
+                                                                                             of local anesthetic solution.                                            score was defined based on the following descriptions:
+                                                                                                The previous described solutions (0.1 mL) were                        (1) no inflammatory infiltration, (2) very light inflam-
+                                                                                             injected in the alveolar mucosa close to the lower-                      matory infiltration, (3) light inflammatory infiltration,
+                                                                                             right first molar of rats (Figure 1); 0.1 mL of a saline                  (4) moderate inflammatory infiltration and (5) intense
+                                                                                             solution (0.9% sodium chloride solution) was injected                    inflammatory infiltration.
+                                                                                             as negative control in the contralateral mucosa of all
+                                                                                             animals. After 24 h, the animals were killed and the                     Statistical analysis
+                                                                                             samples (mandible and the soft tissue adhered) were
+                                                                                             removed. The mandibles were divided into the left                        Data were submitted to the Kruskal-Wallis and Dunn
+                                                                                             (negative control) and the right half-mandibles.                         tests (alpha = 5%).
+
+
+                                                                                                                                            Inflammatory
+                                                                                                                      Metal nerve            infiltration in
+                                                                                                                                          conjunctive tissue
+
+                                                                                                                Perineurum       Mandibular
+                                                                                                                                   bone
+
+
+
+
+                                                                                             Figure 3. Histological slices from Group 1 (4% articaine with 1:100,000 epinephrine)–treated side (100 and 400 , respectively). Presence of
+                                                                                             moderate inflammatory infiltration around mental nerve.
+
+===== [PDF page 4 of 6] =====
+Toxicity of articaine in nerve structure
+
+85
+
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+For personal use only.
+
+Figure 4. Histological slices from Group 1–control side (100 and 400 , respectively). Less inflammatory infiltration around mental nerve than
+treated side.
+
+Figure 5. Histological slices from Group 2 (2% lidocaine with 1:100,000 epinephrine)–treated side (100 and 400 , respectively). Presence of
+light inflammatory infiltration around mental nerve.
+
+Figure 6. Histological slices from Group 2–control side (100 and 400 , respectively). Presence of light inflammatory infiltration around
+mental nerve.
+
+Figure 7. Histological slices from Group 3 (solution of 1:100,000 epinephrine)–treated side (100 and 400 , respectively). Presence of intense
+inflammatory infiltration around mental nerve.
+
+
+----- [PDF page 4 of 6: layout view of the same page] -----
+                                                                                                                                                                                    Toxicity of articaine in nerve structure           85
+
+
+
+
+                                                                                             Figure 4. Histological slices from Group 1–control side (100 and 400 , respectively). Less inflammatory infiltration around mental nerve than
+                                                                                             treated side.
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+
+
+
+
+                                                                                             Figure 5. Histological slices from Group 2 (2% lidocaine with 1:100,000 epinephrine)–treated side (100 and 400 , respectively). Presence of
+                                                                                             light inflammatory infiltration around mental nerve.
+                                  For personal use only.
+
+
+
+
+                                                                                             Figure 6. Histological slices from Group 2–control side (100 and 400 , respectively). Presence of light inflammatory infiltration around
+                                                                                             mental nerve.
+
+
+
+
+                                                                                             Figure 7. Histological slices from Group 3 (solution of 1:100,000 epinephrine)–treated side (100 and 400 , respectively). Presence of intense
+                                                                                             inflammatory infiltration around mental nerve.
+
+===== [PDF page 5 of 6] =====
+86
+
+D. B. Baroni et al.
+
+Figure 8. Histological slices from Group 3–control side (100 and 400 , respectively). Less inflammatory infiltration around mental nerve than
+treated side.
+
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+For personal use only.
+
+Results
+Figure 2 and Table I show the scores obtained for the
+inflammatory cells 24 h after local injections (Groups
+1–3). The mental nerve was not histologically affected
+by the treatments. However, higher scores (p < 0.05) of
+inflammation in connective tissue were observed when
+epinephrine was administered alone (Group 3) than
+associated with the local anesthetics (Groups 1 and 2).
+Figures 3,4,5,6,7,8 show histological slices of
+mandibles from groups 1, 2 and 3; treated and control
+sides, respectively.
+Discussion
+Permanent paresthesia following a local anesthetic
+injection is a possible adverse event. Articaine, which
+is a widely used anesthetic in Europe, has been
+investigated with regard to its potential in causing
+paresthesia. Several authors [10–13] have reported
+that 4% solutions used in dentistry, articaine and
+prilocaine, are associated with paresthesia, mainly
+for inferior alveolar blocks. In addition, very few or
+no reports were attributed to lidocaine. Other followup studies have observed similar results [22–26]. So,
+it was suggested that an important cause of paresthesia
+could be related to the local anesthetic dosedependent neurotoxicity. Some in vitro studies support this hypothesis [27,28].
+Studies focusing on the toxicity of lidocaine showed
+that high concentrations of this local anesthetic
+resulted in irreversible conduction block while no
+effect was found in low concentrations [29,30]. In
+addition, prilocaine and lidocaine at the same concentration presented equivalent neurotoxicity in rats [31].
+There are some reports of undesirable effects related to
+articaine use in dentistry [32–34]; however, most of them
+involve isolated cases. Unlike studies that support the
+hypothesis that articaine has neurotoxic potential,
+Leuschner and Leblanc [23] documented no pathomorphological systemic changes after the administration of
+4% articaine in rats and dogs, even at toxic doses. Doses
+up to more than 10-times the maximum recommended
+dosage for humans revealed no evidence of harm to the
+
+fetus or to other reproduction phases. Local tolerance of
+this drug was considered by those authors to be ‘good’ to
+‘very good’.
+Similarly, in the present study no significant increase in
+score inflammation was observed 24 h after articaine
+injection. Microscopic analysis of nervous structure
+showed no difference between the treated and the control
+sides. Ribeiro et al. [35] also observed no significant
+inflammatory reaction after subcutaneous articaine
+injection in rats when compared to lidocaine, bupivacaine and mepivacaine. In addition, the intensity of
+inflammatory reaction was not dose-dependent.
+The same authors showed that lidocaine solution
+produced the least intense inflammation level, when
+compared to the other local anesthetic solutions. Similarly, the present study demonstrated that lidocaine was
+similar to saline solution and less toxic then articaine,
+although no statistical difference was observed.
+The most intense inflammatory infiltration was
+observed when epinephrine was administered without
+local anesthetic (Group 3). This could be explained
+by the most intense vasoconstriction in the connective
+tissue, causing a more expressive hypoxia. This hypoxia is usually compensated by a vasodilation promoted in clinical doses by all local anesthetics used in
+dentistry [36]. Despite the intense inflammation
+observed in this group, there was no evidence of injury
+to the nervous structure.
+Although the higher incidence of paresthesia associated to the use of 4% articaine formulation in
+comparison to other local anesthetics [10–13], the
+hypothesis that this local anesthetic may be neurotoxic
+was not confirmed in the present study.
+The results of the present study suggest that
+articaine is not toxic to the nervous structure and
+that further studies are necessary to explain the
+possible relation between articaine injection and
+paresthesia.
+Acknowledgments
+The authors would like to acknowledge CNPq
+(Conselho Nacional de Desenvolvimento Científico
+e Tecnológico) for the financial support to this study.
+
+
+----- [PDF page 5 of 6: layout view of the same page] -----
+                                                                                             86      D. B. Baroni et al.
+
+
+
+
+                                                                                             Figure 8. Histological slices from Group 3–control side (100 and 400 , respectively). Less inflammatory infiltration around mental nerve than
+                                                                                             treated side.
+
+                                                                                             Results                                                                  fetus or to other reproduction phases. Local tolerance of
+                                                                                                                                                                      this drug was considered by those authors to be ‘good’ to
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+
+
+
+
+                                                                                             Figure 2 and Table I show the scores obtained for the                    ‘very good’.
+                                                                                             inflammatory cells 24 h after local injections (Groups                       Similarly, in the present study no significant increase in
+                                                                                             1–3). The mental nerve was not histologically affected                   score inflammation was observed 24 h after articaine
+                                                                                             by the treatments. However, higher scores (p < 0.05) of                  injection. Microscopic analysis of nervous structure
+                                                                                             inflammation in connective tissue were observed when                      showed no difference between the treated and the control
+                                                                                             epinephrine was administered alone (Group 3) than                        sides. Ribeiro et al. [35] also observed no significant
+                                                                                             associated with the local anesthetics (Groups 1 and 2).                  inflammatory reaction after subcutaneous articaine
+                                                                                                Figures 3,4,5,6,7,8 show histological slices of                       injection in rats when compared to lidocaine, bupiva-
+                                                                                             mandibles from groups 1, 2 and 3; treated and control                    caine and mepivacaine. In addition, the intensity of
+                                                                                             sides, respectively.                                                     inflammatory reaction was not dose-dependent.
+                                                                                                                                                                         The same authors showed that lidocaine solution
+                                  For personal use only.
+
+
+
+
+                                                                                             Discussion                                                               produced the least intense inflammation level, when
+                                                                                                                                                                      compared to the other local anesthetic solutions. Simi-
+                                                                                             Permanent paresthesia following a local anesthetic                       larly, the present study demonstrated that lidocaine was
+                                                                                             injection is a possible adverse event. Articaine, which                  similar to saline solution and less toxic then articaine,
+                                                                                             is a widely used anesthetic in Europe, has been                          although no statistical difference was observed.
+                                                                                             investigated with regard to its potential in causing                        The most intense inflammatory infiltration was
+                                                                                             paresthesia. Several authors [10–13] have reported                       observed when epinephrine was administered without
+                                                                                             that 4% solutions used in dentistry, articaine and                       local anesthetic (Group 3). This could be explained
+                                                                                             prilocaine, are associated with paresthesia, mainly                      by the most intense vasoconstriction in the connective
+                                                                                             for inferior alveolar blocks. In addition, very few or                   tissue, causing a more expressive hypoxia. This hyp-
+                                                                                             no reports were attributed to lidocaine. Other follow-                   oxia is usually compensated by a vasodilation pro-
+                                                                                             up studies have observed similar results [22–26]. So,                    moted in clinical doses by all local anesthetics used in
+                                                                                             it was suggested that an important cause of paresthesia                  dentistry [36]. Despite the intense inflammation
+                                                                                             could be related to the local anesthetic dose-                           observed in this group, there was no evidence of injury
+                                                                                             dependent neurotoxicity. Some in vitro studies sup-                      to the nervous structure.
+                                                                                             port this hypothesis [27,28].                                               Although the higher incidence of paresthesia asso-
+                                                                                                Studies focusing on the toxicity of lidocaine showed                  ciated to the use of 4% articaine formulation in
+                                                                                             that high concentrations of this local anesthetic                        comparison to other local anesthetics [10–13], the
+                                                                                             resulted in irreversible conduction block while no                       hypothesis that this local anesthetic may be neurotoxic
+                                                                                             effect was found in low concentrations [29,30]. In                       was not confirmed in the present study.
+                                                                                             addition, prilocaine and lidocaine at the same concen-                      The results of the present study suggest that
+                                                                                             tration presented equivalent neurotoxicity in rats [31].                 articaine is not toxic to the nervous structure and
+                                                                                                There are some reports of undesirable effects related to              that further studies are necessary to explain the
+                                                                                             articaine use in dentistry [32–34]; however, most of them                possible relation between articaine injection and
+                                                                                             involve isolated cases. Unlike studies that support the                  paresthesia.
+                                                                                             hypothesis that articaine has neurotoxic potential,
+                                                                                             Leuschner and Leblanc [23] documented no pathomor-                       Acknowledgments
+                                                                                             phological systemic changes after the administration of
+                                                                                             4% articaine in rats and dogs, even at toxic doses. Doses                The authors would like to acknowledge CNPq
+                                                                                             up to more than 10-times the maximum recommended                         (Conselho Nacional de Desenvolvimento Científico
+                                                                                             dosage for humans revealed no evidence of harm to the                    e Tecnológico) for the financial support to this study.
+
+===== [PDF page 6 of 6] =====
+Toxicity of articaine in nerve structure
+Declaration of interest: The authors report no
+conflicts of interest. The authors alone are responsible
+for the content and writing of the paper.
+
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+For personal use only.
+
+References
+[1] Malamed SF. Local anesthetics: dentistry’s most important
+drugs, clinical update 2006. J Calif Dent Assoc 2006;34:
+971–6.
+[2] Haas DA. Articaine and paresthesia: epidemiological studies.
+J Am Coll Dent 2006;73:5–10.
+[3] Garisto GA, Gaffen AS, Lawrence HP, Tenenbaum HC,
+Haas DA. Occurrence of paresthesia after dental local anesthetic administration in the United States. J Am Dent Assoc
+2010;141:836–44.
+[4] Oertel R, Rahn R, Kirch W. Clinical pharmacokinetics of
+articaine. Clin Pharmacokinet 1997;33:417–25.
+[5] Nizharadze N, Mamaladze M, Chipashvili N, Vadachkoria D.
+Articaine - the best choice of local anesthetic in contemporary
+dentistry. Georgian Med News 2011;190:15–23.
+[6] Becker DE, Reed KL. Essentials of local anesthetic pharmacology. Anesth Prog 2006;53:98–109.
+[7] Kanaa MD, Whitworth JM, Corbett IP, Meechan JG. Articaine and lidocaine mandibular buccal infiltration anesthesia:
+a prospective randomized double-blind cross-over study.
+J Endod 2006;32:296–8.
+[8] Robertson D, Nusstein J, Reader A, Beck M, McCartney M.
+The anesthetic efficacy of articaine in buccal infiltration of
+mandibular posterior teeth. J Am Dent Assoc 2007;138:
+1104–12.
+[9] Batista da Silva C, Berto LA, Volpato MC, Ramacciato JC,
+Motta RH, Ranali J, et al. Anesthetic efficacy of articaine and
+lidocaine for incisive/mental nerve block. J Endod 2010;36:
+438–41.
+[10] Haas DA, Lennon D. A 21 year retrospective study of reports
+of paresthesia following local anesthetic administration. J Can
+Dent Assoc 1995;61:319–30.
+[11] Gaffen AS, Haas DA. Retrospective review of voluntary
+reports of nonsurgical paresthesia in dentistry. J Can Dent
+Assoc 2009;75:579.
+[12] Garisto GA, Gaffen AS, Lawrence HP, Tenenbaum HC,
+Haas DA. Occurrence of paresthesia after dental local anesthetic administration in the United States. J Am Dent Assoc
+2010;141:836–44.
+[13] Hillerup S, Jensen R. Nerve injury caused by mandibular block analgesia. Int J Oral Maxillofac Surg 2006;35:
+437–43.
+[14] Arreto CD, Robert C, Limoge A, Gaudy JF. Use of the jaw
+opening reflex for assessing the effects of local anaesthetics in
+freely moving rats. J Pharmacol Toxicol Methods 2002;48:
+45–51.
+[15] Baliki M, Al-Amin HA, Atweh SF, Jaber M, Hawwa N,
+Jabbur SJ, et al. Attenuation of neuropathic manifestations
+by local block of the activities of the ventrolateral orbitofrontal area in the rat. Neuroscience 2003;120:1093–104.
+[16] Leiker BJ, Nanda RS, Currier GF, Howes RI, Sinha PK. The
+effects of exogenous prostaglandins on orthodontic tooth
+movement in rats. Am J Orthod Dentofacial Orthop 1995;
+108:380–8.
+[17] Rifai K, Chidiac JJ, Hawwa N, Baliki M, Jabbur SJ, Saadé NE.
+Occlusion of dentinal tubules and selective block of pulp
+innervation prevent the nociceptive behaviour induced in
+
+87
+
+rats by intradental application of irritants. Arch Oral Biol
+2004;49:457–68.
+[18] Naftel JP, Richards LP, Pan M, Bernanke JM. Course and
+composition of the nerves that supply the mandibular teeth of
+the rat. Anat Rec 1999;256:433–47.
+[19] Warshawsky H, Moore G. A technique for the fixation and
+decalcification of rat incisors for electron microscopy.
+J Histochem Cytochem 1967;15:542–9.
+[20] Scheib SA, Garner WH. Anti-inflammatory effects of topical
+ocular MAXIDEX administration to rabbits following vitrectomy or lensectomy. Exp Eye Res 2004;79:893–902.
+[21] Shipper G, Teixeira FB, Arnold RR, Trope M. Periapical
+inflammation after coronal microbial inoculation of dog roots
+filled with gutta-percha or resilon. J Endod 2005;31:91–6.
+[22] Haas DA. An update on local anesthetics in dentistry. J Can
+Dent Assoc 2002;68:546–51.
+[23] Leuschner J, Leblanc D. Studies on the toxicological profile of
+the local anaesthetic articaine. Arzneimittelforschung 1999;
+49:126–32.
+[24] Pitkanen MT, Xu M, Haasio J, Rosenberg PH. Comparison of
+0.5% articaine and 0.5% prilocaine in intravenous regional
+anesthesia of the arm: a cross-over study in volunteers. Reg
+Anesth Pain Med 1999;24:131–5.
+[25] Ruetsch YA, Boni T, Borgeat A. From cocaine to ropivacaine:
+the history of local anesthetic drugs. Curr Top Med Chem
+2001;1:175–82.
+[26] Simon MA, Vree TB, Gielen MJ, Booij LH. Comparison of
+the effects and disposition kinetics of articaine and lidocaine in
+20 patients undergoing intravenous regional anaesthesia
+during day case surgery. Pharm World Sci 1998;20:88–92.
+[27] Werdehausen R, Fazeli S, Braun S, Hermanns H,
+Essmann F, Hollmann MW, et al. Apoptosis induction by
+different local anaesthetics in a neuroblastoma cell line. Br J
+Anaesth 2009;103:711–18.
+[28] Hillerup S, Bakke M, Larsen JO, Thomsen CE, Gerds TA.
+Concentration-dependent neurotoxicity of articaine: an
+electrophysiological and stereological study of the rat sciatic
+nerve. Anesth Analg 2011;112:1330–8.
+[29] Lambert LA, Lambert DH, Strichartz GR. Irreversible conduction block in isolated nerve by high concentrations of local
+anesthetics. Anesthesiology 1994;80:1082–93.
+[30] Johnson ME, Saenz JA, DaSilva AD, Uhl CB, Gores GJ.
+Effect of local anesthetic on neuronal cytoplasmic calcium and
+plasma membrane lysis (necrosis) in a cell culture model.
+Anesthesiology 2002;97:1466–76.
+[31] Radwan IAM, Saito S, Goto F. The neurotoxicity of local
+anesthetics on growing neurons: a comparative study of lidocaine, bupivacaine, mepivacaine, and ropivacaine. Anesth
+Analg 2002;94:319–24.
+[32] El-Qutob D, Morales C, Pelaez A. Allergic reaction caused by
+articaine. Allergol Immunopathol 2005;33:115–16.
+[33] Finsterer J, Haberler C, Schmiedel J. Deterioration of
+Kearns-Sayre syndrome following articaine administration
+for local anesthesia. Clin Neuropharmacol 2005;28:148–9.
+[34] Magliocca KR, Kessel NC, Cortright GW. Transient diplopia
+following maxillary local anesthetic injection. Oral Surg Oral
+Med Oral Pathol Oral Radiol Endod 2006;101:730–3.
+[35] Ribeiro PD Jr, Sanches MG, Okamoto T. Comparative analysis of tissue reactions to anesthetic solutions: histological
+analysis in subcutaneous tissue of rats. Anesth Prog 2003;
+50:169–80.
+[36] Malamed SF. Handbook of local anesthesia. 5th ed. St Louis,
+MO: CV Mosby; 2004.
+
+
+----- [PDF page 6 of 6: layout view of the same page] -----
+                                                                                                                                                                                  Toxicity of articaine in nerve structure              87
+
+                                                                                             Declaration of interest: The authors report no                               rats by intradental application of irritants. Arch Oral Biol
+                                                                                                                                                                          2004;49:457–68.
+                                                                                             conflicts of interest. The authors alone are responsible
+                                                                                                                                                                     [18] Naftel JP, Richards LP, Pan M, Bernanke JM. Course and
+                                                                                             for the content and writing of the paper.                                    composition of the nerves that supply the mandibular teeth of
+                                                                                                                                                                          the rat. Anat Rec 1999;256:433–47.
+                                                                                             References                                                              [19] Warshawsky H, Moore G. A technique for the fixation and
+                                                                                                                                                                          decalcification of rat incisors for electron microscopy.
+                                                                                              [1] Malamed SF. Local anesthetics: dentistry’s most important               J Histochem Cytochem 1967;15:542–9.
+                                                                                                  drugs, clinical update 2006. J Calif Dent Assoc 2006;34:           [20] Scheib SA, Garner WH. Anti-inflammatory effects of topical
+                                                                                                  971–6.                                                                  ocular MAXIDEX administration to rabbits following vitrec-
+                                                                                              [2] Haas DA. Articaine and paresthesia: epidemiological studies.            tomy or lensectomy. Exp Eye Res 2004;79:893–902.
+                                                                                                  J Am Coll Dent 2006;73:5–10.                                       [21] Shipper G, Teixeira FB, Arnold RR, Trope M. Periapical
+                                                                                              [3] Garisto GA, Gaffen AS, Lawrence HP, Tenenbaum HC,                       inflammation after coronal microbial inoculation of dog roots
+                                                                                                  Haas DA. Occurrence of paresthesia after dental local anes-             filled with gutta-percha or resilon. J Endod 2005;31:91–6.
+                                                                                                  thetic administration in the United States. J Am Dent Assoc        [22] Haas DA. An update on local anesthetics in dentistry. J Can
+                                                                                                  2010;141:836–44.                                                        Dent Assoc 2002;68:546–51.
+                                                                                              [4] Oertel R, Rahn R, Kirch W. Clinical pharmacokinetics of            [23] Leuschner J, Leblanc D. Studies on the toxicological profile of
+                                                                                                  articaine. Clin Pharmacokinet 1997;33:417–25.                           the local anaesthetic articaine. Arzneimittelforschung 1999;
+                                                                                              [5] Nizharadze N, Mamaladze M, Chipashvili N, Vadachkoria D.                49:126–32.
+Acta Odontol Scand Downloaded from informahealthcare.com by Nyu Medical Center on 05/27/15
+
+
+
+
+                                                                                                  Articaine - the best choice of local anesthetic in contemporary    [24] Pitkanen MT, Xu M, Haasio J, Rosenberg PH. Comparison of
+                                                                                                  dentistry. Georgian Med News 2011;190:15–23.                            0.5% articaine and 0.5% prilocaine in intravenous regional
+                                                                                              [6] Becker DE, Reed KL. Essentials of local anesthetic pharma-              anesthesia of the arm: a cross-over study in volunteers. Reg
+                                                                                                  cology. Anesth Prog 2006;53:98–109.                                     Anesth Pain Med 1999;24:131–5.
+                                                                                              [7] Kanaa MD, Whitworth JM, Corbett IP, Meechan JG. Arti-              [25] Ruetsch YA, Boni T, Borgeat A. From cocaine to ropivacaine:
+                                                                                                  caine and lidocaine mandibular buccal infiltration anesthesia:           the history of local anesthetic drugs. Curr Top Med Chem
+                                                                                                  a prospective randomized double-blind cross-over study.                 2001;1:175–82.
+                                                                                                  J Endod 2006;32:296–8.                                             [26] Simon MA, Vree TB, Gielen MJ, Booij LH. Comparison of
+                                                                                              [8] Robertson D, Nusstein J, Reader A, Beck M, McCartney M.                 the effects and disposition kinetics of articaine and lidocaine in
+                                                                                                  The anesthetic efficacy of articaine in buccal infiltration of            20 patients undergoing intravenous regional anaesthesia
+                                                                                                  mandibular posterior teeth. J Am Dent Assoc 2007;138:                   during day case surgery. Pharm World Sci 1998;20:88–92.
+                                                                                                  1104–12.                                                           [27] Werdehausen R, Fazeli S, Braun S, Hermanns H,
+                                                                                              [9] Batista da Silva C, Berto LA, Volpato MC, Ramacciato JC,                Essmann F, Hollmann MW, et al. Apoptosis induction by
+                                  For personal use only.
+
+
+
+
+                                                                                                  Motta RH, Ranali J, et al. Anesthetic efficacy of articaine and          different local anaesthetics in a neuroblastoma cell line. Br J
+                                                                                                  lidocaine for incisive/mental nerve block. J Endod 2010;36:             Anaesth 2009;103:711–18.
+                                                                                                  438–41.                                                            [28] Hillerup S, Bakke M, Larsen JO, Thomsen CE, Gerds TA.
+                                                                                             [10] Haas DA, Lennon D. A 21 year retrospective study of reports             Concentration-dependent neurotoxicity of articaine: an
+                                                                                                  of paresthesia following local anesthetic administration. J Can         electrophysiological and stereological study of the rat sciatic
+                                                                                                  Dent Assoc 1995;61:319–30.                                              nerve. Anesth Analg 2011;112:1330–8.
+                                                                                             [11] Gaffen AS, Haas DA. Retrospective review of voluntary              [29] Lambert LA, Lambert DH, Strichartz GR. Irreversible con-
+                                                                                                  reports of nonsurgical paresthesia in dentistry. J Can Dent             duction block in isolated nerve by high concentrations of local
+                                                                                                  Assoc 2009;75:579.                                                      anesthetics. Anesthesiology 1994;80:1082–93.
+                                                                                             [12] Garisto GA, Gaffen AS, Lawrence HP, Tenenbaum HC,                  [30] Johnson ME, Saenz JA, DaSilva AD, Uhl CB, Gores GJ.
+                                                                                                  Haas DA. Occurrence of paresthesia after dental local anes-             Effect of local anesthetic on neuronal cytoplasmic calcium and
+                                                                                                  thetic administration in the United States. J Am Dent Assoc             plasma membrane lysis (necrosis) in a cell culture model.
+                                                                                                  2010;141:836–44.                                                        Anesthesiology 2002;97:1466–76.
+                                                                                             [13] Hillerup S, Jensen R. Nerve injury caused by mandi-                [31] Radwan IAM, Saito S, Goto F. The neurotoxicity of local
+                                                                                                  bular block analgesia. Int J Oral Maxillofac Surg 2006;35:              anesthetics on growing neurons: a comparative study of lido-
+                                                                                                  437–43.                                                                 caine, bupivacaine, mepivacaine, and ropivacaine. Anesth
+                                                                                             [14] Arreto CD, Robert C, Limoge A, Gaudy JF. Use of the jaw                 Analg 2002;94:319–24.
+                                                                                                  opening reflex for assessing the effects of local anaesthetics in   [32] El-Qutob D, Morales C, Pelaez A. Allergic reaction caused by
+                                                                                                  freely moving rats. J Pharmacol Toxicol Methods 2002;48:                articaine. Allergol Immunopathol 2005;33:115–16.
+                                                                                                  45–51.                                                             [33] Finsterer J, Haberler C, Schmiedel J. Deterioration of
+                                                                                             [15] Baliki M, Al-Amin HA, Atweh SF, Jaber M, Hawwa N,                       Kearns-Sayre syndrome following articaine administration
+                                                                                                  Jabbur SJ, et al. Attenuation of neuropathic manifestations             for local anesthesia. Clin Neuropharmacol 2005;28:148–9.
+                                                                                                  by local block of the activities of the ventrolateral orbito-      [34] Magliocca KR, Kessel NC, Cortright GW. Transient diplopia
+                                                                                                  frontal area in the rat. Neuroscience 2003;120:1093–104.                following maxillary local anesthetic injection. Oral Surg Oral
+                                                                                             [16] Leiker BJ, Nanda RS, Currier GF, Howes RI, Sinha PK. The                Med Oral Pathol Oral Radiol Endod 2006;101:730–3.
+                                                                                                  effects of exogenous prostaglandins on orthodontic tooth           [35] Ribeiro PD Jr, Sanches MG, Okamoto T. Comparative anal-
+                                                                                                  movement in rats. Am J Orthod Dentofacial Orthop 1995;                  ysis of tissue reactions to anesthetic solutions: histological
+                                                                                                  108:380–8.                                                              analysis in subcutaneous tissue of rats. Anesth Prog 2003;
+                                                                                             [17] Rifai K, Chidiac JJ, Hawwa N, Baliki M, Jabbur SJ, Saadé NE.            50:169–80.
+                                                                                                  Occlusion of dentinal tubules and selective block of pulp          [36] Malamed SF. Handbook of local anesthesia. 5th ed. St Louis,
+                                                                                                  innervation prevent the nociceptive behaviour induced in                MO: CV Mosby; 2004.
+

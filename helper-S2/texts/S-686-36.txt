@@ -1,0 +1,1362 @@
+SOURCE FILE: S-686-36 - Wang 2008 - Use of bulleyaconitine A as an adjuvant for prolonged cutaneous analgesia in the rat.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 9] =====
+Pain Mechanisms
+Section Editors: Tony L. Yaksh/Quinn H. Hogan
+
+Use of Bulleyaconitine A as an Adjuvant for Prolonged
+Cutaneous Analgesia in the Rat
+Chi-Fei Wang, MD*
+Peter Gerner, MD*
+Birgitta Schmidt, MD†
+Zhen Zhong Xu, PhD*
+Carla Nau, MD‡
+Sho-Ya Wang, PhD§
+Ru-Rong Ji, PhD*
+Ging Kuo Wang, PhD*
+
+BACKGROUND: Bulleyaconitine A (BLA) is an analgesic and antiinflammatory drug
+isolated from Aconitum plants. BLA has several potential targets, including
+voltage-gated Na⫹ channels. We tested whether BLA elicited long-lasting cutaneous analgesia, when co-injected with lidocaine and epinephrine, as a model for
+prolonged infiltration anesthesia.
+METHODS: The local anesthetic properties of BLA were assessed by the patch-clamp
+technique in HEK293t cells expressing Nav1.7 and Nav1.8 neuronal Na⫹ channels,
+both crucial for nociception. Drug solutions (0.6 mL) were injected subcutaneously
+via rat shaved dorsal skin. Inhibition of the cutaneous trunci muscle reflex was
+evaluated by pinpricks. Skin cross-sections were stained with hematoxylin and
+eosin or with antibodies against PGP9.5.
+RESULTS: BLA at 10 ␮M interacted minimally with resting or inactivated Nav1.7 and
+Nav1.8 Na⫹ channels when infrequently stimulated to ⫹50 mV for 3 ms. However,
+when stimulated at 2 Hz for 1000 pulses, their peak Na⫹ currents were ⬎90%
+reduced by BLA. This use-dependent inhibition was not significantly reversed after
+15-min washing. Complete nociceptive blockade after injection of lidocaine
+(0.5%)/epinephrine (1:200,000) lasted for approximately 1 h in rats; full recovery occurred after approximately 6 h. Co-injection of 0.125 mM BLA with
+lidocaine/epinephrine increased the duration of complete nociceptive blockade to
+24 h. Full recovery occurred after approximately 6 days. Skin histology including
+peripheral nerve fibers appeared unaffected by BLA.
+CONCLUSIONS: BLA inhibits Nav1.7 and Nav1.8 Na⫹ currents in a use-dependent
+manner. Co-injection of BLA at ⱕ0.125 mM with lidocaine and epinephrine elicits
+complete cutaneous analgesia that lasts for up to 24 h without adverse effects.
+(Anesth Analg 2008;107:1397–1405)
+
+B
+
+ulleyaconitine A (BLA) is isolated from Aconitum
+plants and classified as an “aconitine-like” alkaloid.1
+Aconitine not only inhibits neuronal Na⫹ currents
+during repetitive pulses but also shifts the voltage
+dependence of Na⫹ channel activation toward the
+hyperpolarizing direction and induces threshold Na⫹
+currents near the resting potential.2 BLA likewise
+reduces peak neuronal Na⫹ currents by more than
+90% after 1000 repetitive pulses.3 The shift in Na⫹
+channel activation by BLA also occurs, but threshold
+Na⫹ currents appear minimal. Such a phenomenon
+
+From the Departments of *Anesthesiology, Perioperative and
+Pain Medicine, †Pathology, Brigham and Women’s Hospital, Harvard Medical School, Boston, Massachusetts; ‡Department of Anesthesiology, Friedrich-Alexander-University Erlangen-Nuremberg,
+Erlangen, Germany; and §Department of Biology, State University
+of New York, Albany, New York.
+Accepted for publication May 3, 2008.
+Supported by National Institutes of Health, Bethesda, MD Grant
+GM48090 to G.K.W. and S-Y.W.
+Address correspondence and reprint requests to Ging Kuo
+Wang, PhD, Department of Anesthesiology, Perioperative and Pain
+Medicine, Brigham and Women’s Hospital, 75 Francis St., Boston,
+MA 02115. Address e-mail to wang@zeus.bwh.harvard.edu.
+Copyright © 2008 International Anesthesia Research Society
+DOI: 10.1213/ane.0b013e318182401b
+
+Vol. 107, No. 4, October 2008
+
+could be due to a greater reduction of the singlechannel conductance by BLA.4
+After IV administration, most aconitine-like alkaloids cause cardiac arrhythmia and induce hyperexcitability.5 Despite these potential side effects, in China
+BLA in solution (0.2 mg/2 mL; IM) or in tablet (0.4
+mg) has been prescribed for the treatment of chronic
+pain and rheumatoid arthritis. Among many possible
+in vivo targets, the central catecholaminergic and serotoninergic systems are thought to be involved in
+analgesia induced by aconitine-like alkaloids.1,6,7 Recently, we reported that BLA when co-injected with
+lidocaine or epinephrine elicited complete sciatic
+nerve block that lasted for approximately 4 h in rats.3
+However, it remains untested whether BLA, when
+injected subcutaneously, induces cutaneous analgesia
+or hyperexcitability.
+In this study, we first examined the inhibition of
+Nav1.7 and Nav1.8 neuronal Na⫹ currents by BLA,
+since these channels are crucial for the excitability of
+peripheral nociceptive nerve fibers and are implicated
+as attractive targets for novel analgesic drugs.8 –10 In
+addition, we determined the efficacy of BLA alone and
+as an adjuvant for cutaneous analgesia in vivo. We
+found that subcutaneous injection of BLA alone at
+ⱖ0.25 mM induced acute systemic side effects in rats,
+1397
+
+
+----- [PDF page 1 of 9: layout view of the same page] -----
+Pain Mechanisms
+Section Editors: Tony L. Yaksh/Quinn H. Hogan
+
+
+
+
+Use of Bulleyaconitine A as an Adjuvant for Prolonged
+Cutaneous Analgesia in the Rat
+                    Chi-Fei Wang, MD*        BACKGROUND: Bulleyaconitine A (BLA) is an analgesic and antiinflammatory drug
+                                             isolated from Aconitum plants. BLA has several potential targets, including
+                      Peter Gerner, MD*      voltage-gated Na⫹ channels. We tested whether BLA elicited long-lasting cutane-
+                                             ous analgesia, when co-injected with lidocaine and epinephrine, as a model for
+                                             prolonged infiltration anesthesia.
+                Birgitta Schmidt, MD†        METHODS: The local anesthetic properties of BLA were assessed by the patch-clamp
+                                             technique in HEK293t cells expressing Nav1.7 and Nav1.8 neuronal Na⫹ channels,
+                Zhen Zhong Xu, PhD*          both crucial for nociception. Drug solutions (0.6 mL) were injected subcutaneously
+                                             via rat shaved dorsal skin. Inhibition of the cutaneous trunci muscle reflex was
+                         Carla Nau, MD‡      evaluated by pinpricks. Skin cross-sections were stained with hematoxylin and
+                                             eosin or with antibodies against PGP9.5.
+                   Sho-Ya Wang, PhD§         RESULTS: BLA at 10 ␮M interacted minimally with resting or inactivated Nav1.7 and
+                                             Nav1.8 Na⫹ channels when infrequently stimulated to ⫹50 mV for 3 ms. However,
+                       Ru-Rong Ji, PhD*      when stimulated at 2 Hz for 1000 pulses, their peak Na⫹ currents were ⬎90%
+                                             reduced by BLA. This use-dependent inhibition was not significantly reversed after
+                                             15-min washing. Complete nociceptive blockade after injection of lidocaine
+                Ging Kuo Wang, PhD*          (0.5%)/epinephrine (1:200,000) lasted for approximately 1 h in rats; full reco-
+                                             very occurred after approximately 6 h. Co-injection of 0.125 mM BLA with
+                                             lidocaine/epinephrine increased the duration of complete nociceptive blockade to
+                                             24 h. Full recovery occurred after approximately 6 days. Skin histology including
+                                             peripheral nerve fibers appeared unaffected by BLA.
+                                             CONCLUSIONS: BLA inhibits Nav1.7 and Nav1.8 Na⫹ currents in a use-dependent
+                                             manner. Co-injection of BLA at ⱕ0.125 mM with lidocaine and epinephrine elicits
+                                             complete cutaneous analgesia that lasts for up to 24 h without adverse effects.
+                                             (Anesth Analg 2008;107:1397–1405)
+
+
+
+
+B   ulleyaconitine A (BLA) is isolated from Aconitum
+plants and classified as an “aconitine-like” alkaloid.1
+                                                                          could be due to a greater reduction of the single-
+                                                                          channel conductance by BLA.4
+Aconitine not only inhibits neuronal Na⫹ currents                            After IV administration, most aconitine-like alka-
+during repetitive pulses but also shifts the voltage                      loids cause cardiac arrhythmia and induce hyperexcit-
+dependence of Na⫹ channel activation toward the                           ability.5 Despite these potential side effects, in China
+hyperpolarizing direction and induces threshold Na⫹                       BLA in solution (0.2 mg/2 mL; IM) or in tablet (0.4
+currents near the resting potential.2 BLA likewise                        mg) has been prescribed for the treatment of chronic
+reduces peak neuronal Na⫹ currents by more than                           pain and rheumatoid arthritis. Among many possible
+90% after 1000 repetitive pulses.3 The shift in Na⫹                       in vivo targets, the central catecholaminergic and sero-
+channel activation by BLA also occurs, but threshold                      toninergic systems are thought to be involved in
+Na⫹ currents appear minimal. Such a phenomenon                            analgesia induced by aconitine-like alkaloids.1,6,7 Re-
+                                                                          cently, we reported that BLA when co-injected with
+                                                                          lidocaine or epinephrine elicited complete sciatic
+   From the Departments of *Anesthesiology, Perioperative and             nerve block that lasted for approximately 4 h in rats.3
+Pain Medicine, †Pathology, Brigham and Women’s Hospital, Har-             However, it remains untested whether BLA, when
+vard Medical School, Boston, Massachusetts; ‡Department of Anes-
+thesiology, Friedrich-Alexander-University Erlangen-Nuremberg,
+                                                                          injected subcutaneously, induces cutaneous analgesia
+Erlangen, Germany; and §Department of Biology, State University           or hyperexcitability.
+of New York, Albany, New York.                                               In this study, we first examined the inhibition of
+   Accepted for publication May 3, 2008.                                  Nav1.7 and Nav1.8 neuronal Na⫹ currents by BLA,
+   Supported by National Institutes of Health, Bethesda, MD Grant         since these channels are crucial for the excitability of
+GM48090 to G.K.W. and S-Y.W.
+                                                                          peripheral nociceptive nerve fibers and are implicated
+   Address correspondence and reprint requests to Ging Kuo
+Wang, PhD, Department of Anesthesiology, Perioperative and Pain           as attractive targets for novel analgesic drugs.8 –10 In
+Medicine, Brigham and Women’s Hospital, 75 Francis St., Boston,           addition, we determined the efficacy of BLA alone and
+MA 02115. Address e-mail to wang@zeus.bwh.harvard.edu.                    as an adjuvant for cutaneous analgesia in vivo. We
+   Copyright © 2008 International Anesthesia Research Society             found that subcutaneous injection of BLA alone at
+DOI: 10.1213/ane.0b013e318182401b
+                                                                          ⱖ0.25 mM induced acute systemic side effects in rats,
+Vol. 107, No. 4, October 2008                                                                                                1397
+
+===== [PDF page 2 of 9] =====
+as detailed in the Results section. The systemic toxicity
+of BLA at ⱕ0.125 mM, however, was minimal. Unexpectedly, we found that cutaneous analgesia lasts for
+up to 6 days when BLA is co-injected with the
+lidocaine/epinephrine mixture subcutaneously. The
+implications and possible mechanisms of such prolonged cutaneous analgesia will be discussed.
+
+METHODS
+Drugs
+BLA was purchased from Axxora, San Diego, CA.
+The BLA stock solution (50 mM) was prepared and
+stored at 4°C. Lidocaine-HCl 2.0% and epinephrine
+(1:1,000 or 1 mg/mL) vials were purchased from
+Abbott Laboratories, North Chicago, IL.
+
+Transient Transfection
+Human embryonic kidney cells (HEK293t) were
+grown in Ti-25 flasks to approximately 50% confluence in DMEM (Life Technologies, Rockville, MD)
+containing 10% fetal bovine serum (HyClone, Logan,
+UT), 1% penicillin and streptomycin solution (Sigma,
+St. Louis, MO), 3 mM taurine, and 25 mM HEPES (Life
+Technologies), and then transfected by calcium phosphate precipitation. Transfection of hNav1.711 and
+rNav1.812 Na⫹ channel clone (10 ␮g) along with rat or
+human ␤1-pcDNA1/Amp (20 ␮g) and reporter CD8pih3m (1 ␮g) was adequate for current recording. We
+used hNav1.7 because it was available to us as a gift
+from Dr. Klugbauer. Cells were replated 15 h after
+transfection in 35-mm dishes, maintained at 37°C in a
+5% CO2 incubator, and used after 1– 4 days. For cells
+expressing Nav1.8 channels, lidocaine (1 mM) was
+included in the medium as reported.13 Transfectionpositive cells were identified with CD8-immunobeads
+(Dynabeads, Lake Success, NY).
+
+Whole-Cell Voltage-Clamp Experiments
+
+Whole-cell configuration was used to record Na⫹
+currents of HEK293t cells at room temperature
+(21–24°C).14 Currents were acquired with an Axopatch
+200B amplifier and pCLAMP 9 software (Molecular
+Devices, Sunnyvale, CA), filtered at 5 kHz, and
+sampled at 20 kHz. Borosilicate micropipettes were
+pulled (P-87, Sutter Instrument, Novato, CA) and
+heat-polished. Pipette electrodes contained 100 mM
+NaF, 30 mM NaCl, 10 mM EGTA, and 10 mM HEPES
+adjusted to pH 7.2 with CsOH. Access resistance was
+generally 1–3 M␻. Series resistance was compensated
+by ⬎85%; holding potential was set at ⫺140 mV. The
+bath solution contained 65 mM NaCl, 85 mM choline
+Cl, 2 mM CaCl2, and 10 mM HEPES adjusted to pH 7.4
+with tetramethylammonium hydroxide. Drugs were
+diluted with the bath solution and applied to the cell
+surface from a series of small-bore glass tubes.
+
+Drug Injection and Neurobehavioral Examination
+The protocol for animal studies was approved by
+the Harvard Medical Area Standing Committee on
+1398
+
+Bulleyaconitine A for Prolonged Infiltration Anesthesia
+
+Animals. Male Sprague-Dawley rats (250 –300 gm)
+were purchased from Charles River Laboratory (Wilmington, MA). All rats were briefly anesthetized by
+inhalation of 1%–2% sevoflurane (Abbott Laboratories;
+North Chicago, IL). Drug solutions freshly prepared in
+0.9% NaCl saline were injected subcutaneously via the
+shaved dorsal thoracolumbar region. The injection
+resulted in a circular wheal, which was then marked
+with ink. Groups of six rats were injected with each
+test solution.
+The cutaneous trunci muscle reflex (CTMR) was
+measured as a reaction to noxious pinprick.15 A Von
+Frey filament (26.0 g) was affixed to an 18-gauge
+needle and used to standardize the stimulus intensity.
+After observing the animal’s normal reaction to six
+pinpricks applied on the contralateral control side, six
+pinpricks were then applied inside the wheal. No
+CTMR response after six pinpricks was defined as
+complete blockade (i.e., 100% of maximum possible
+effect [MPE]); three responses as 50% MPE; and six
+responses after six pinpricks as 0% MPE. The observer
+was blinded to the drugs used. Systemic side effects
+such as sedation, arrhythmia, respiratory distress, and
+hypothermia were also evaluated. For sedation: rats
+appeared immobile and restful when injected with 2%
+lidocaine. For arrhythmia: the rats’ heart rates were
+monitored by an electrocardiogram monitor as needed.
+For respiratory distress: rats developed air hunger and
+discharged fluid from deep airways (as determined
+postmortem). For hypothermia: the body temperature
+was monitored by hand and compared with uninjected
+rats.
+
+Skin Histology and Immunohistochemistry
+For tissue toxicity, skin was excised from euthanized rats, fixed by 10% formalin, cross-sectioned, and
+stained with hematoxylin and eosin. To determine
+whether nerve degeneration occurred after the drug
+injection, we performed immunohistochemistry in the
+hindpaw and back skin using a PGP-9.5 antibody that
+stained all nerve fibers.16 Rats were killed with isoflurane and perfused through the ascending aorta with
+saline followed by 4% paraformaldehyde. Skins were
+dissected, postfixed in the same fixative overnight,
+and cross-sectioned in a cryostat (30 ␮m in thickness).
+All sections were first blocked with 2% control serum
+for 1 h at room temperature and incubated overnight
+at 4°C with primary antibody against PGP9.5 (antirabbit, 1:1000, Biogenesis, Sandown, NH). The sections
+were then incubated for 1 h at room temperature with
+Cy3-conjugated secondary antibody (1:400). Finally,
+the sections were mounted on slides, coverslipped with a medium containing p-phenylenediamineglycerol, and examined by a fluorescence-microscope
+equipped with a CCD digital camera. The times of
+animal termination in these experiments are specified in
+the figure legends and all sections were coded in a
+blinded fashion.
+ANESTHESIA & ANALGESIA
+
+
+----- [PDF page 2 of 9: layout view of the same page] -----
+as detailed in the Results section. The systemic toxicity         Animals. Male Sprague-Dawley rats (250 –300 gm)
+of BLA at ⱕ0.125 mM, however, was minimal. Unex-                  were purchased from Charles River Laboratory (Wil-
+pectedly, we found that cutaneous analgesia lasts for             mington, MA). All rats were briefly anesthetized by
+up to 6 days when BLA is co-injected with the                     inhalation of 1%–2% sevoflurane (Abbott Laboratories;
+lidocaine/epinephrine mixture subcutaneously. The                 North Chicago, IL). Drug solutions freshly prepared in
+implications and possible mechanisms of such pro-                 0.9% NaCl saline were injected subcutaneously via the
+longed cutaneous analgesia will be discussed.                     shaved dorsal thoracolumbar region. The injection
+                                                                  resulted in a circular wheal, which was then marked
+METHODS                                                           with ink. Groups of six rats were injected with each
+Drugs                                                             test solution.
+                                                                     The cutaneous trunci muscle reflex (CTMR) was
+   BLA was purchased from Axxora, San Diego, CA.
+The BLA stock solution (50 mM) was prepared and                   measured as a reaction to noxious pinprick.15 A Von
+stored at 4°C. Lidocaine-HCl 2.0% and epinephrine                 Frey filament (26.0 g) was affixed to an 18-gauge
+(1:1,000 or 1 mg/mL) vials were purchased from                    needle and used to standardize the stimulus intensity.
+Abbott Laboratories, North Chicago, IL.                           After observing the animal’s normal reaction to six
+                                                                  pinpricks applied on the contralateral control side, six
+Transient Transfection                                            pinpricks were then applied inside the wheal. No
+   Human embryonic kidney cells (HEK293t) were                    CTMR response after six pinpricks was defined as
+grown in Ti-25 flasks to approximately 50% conflu-                complete blockade (i.e., 100% of maximum possible
+ence in DMEM (Life Technologies, Rockville, MD)                   effect [MPE]); three responses as 50% MPE; and six
+containing 10% fetal bovine serum (HyClone, Logan,                responses after six pinpricks as 0% MPE. The observer
+UT), 1% penicillin and streptomycin solution (Sigma,              was blinded to the drugs used. Systemic side effects
+St. Louis, MO), 3 mM taurine, and 25 mM HEPES (Life               such as sedation, arrhythmia, respiratory distress, and
+Technologies), and then transfected by calcium phos-              hypothermia were also evaluated. For sedation: rats
+phate precipitation. Transfection of hNav1.711 and                appeared immobile and restful when injected with 2%
+rNav1.812 Na⫹ channel clone (10 ␮g) along with rat or             lidocaine. For arrhythmia: the rats’ heart rates were
+human ␤1-pcDNA1/Amp (20 ␮g) and reporter CD8-                     monitored by an electrocardiogram monitor as needed.
+pih3m (1 ␮g) was adequate for current recording. We               For respiratory distress: rats developed air hunger and
+used hNav1.7 because it was available to us as a gift             discharged fluid from deep airways (as determined
+from Dr. Klugbauer. Cells were replated 15 h after                postmortem). For hypothermia: the body temperature
+transfection in 35-mm dishes, maintained at 37°C in a             was monitored by hand and compared with uninjected
+5% CO2 incubator, and used after 1– 4 days. For cells             rats.
+expressing Nav1.8 channels, lidocaine (1 mM) was
+included in the medium as reported.13 Transfection-
+                                                                  Skin Histology and Immunohistochemistry
+positive cells were identified with CD8-immunobeads
+                                                                     For tissue toxicity, skin was excised from eutha-
+(Dynabeads, Lake Success, NY).
+                                                                  nized rats, fixed by 10% formalin, cross-sectioned, and
+Whole-Cell Voltage-Clamp Experiments                              stained with hematoxylin and eosin. To determine
+   Whole-cell configuration was used to record Na⫹                whether nerve degeneration occurred after the drug
+currents of HEK293t cells at room temperature                     injection, we performed immunohistochemistry in the
+(21–24°C).14 Currents were acquired with an Axopatch              hindpaw and back skin using a PGP-9.5 antibody that
+200B amplifier and pCLAMP 9 software (Molecular                   stained all nerve fibers.16 Rats were killed with isoflu-
+Devices, Sunnyvale, CA), filtered at 5 kHz, and                   rane and perfused through the ascending aorta with
+sampled at 20 kHz. Borosilicate micropipettes were                saline followed by 4% paraformaldehyde. Skins were
+pulled (P-87, Sutter Instrument, Novato, CA) and                  dissected, postfixed in the same fixative overnight,
+heat-polished. Pipette electrodes contained 100 mM                and cross-sectioned in a cryostat (30 ␮m in thickness).
+NaF, 30 mM NaCl, 10 mM EGTA, and 10 mM HEPES                      All sections were first blocked with 2% control serum
+adjusted to pH 7.2 with CsOH. Access resistance was               for 1 h at room temperature and incubated overnight
+generally 1–3 M␻. Series resistance was compensated               at 4°C with primary antibody against PGP9.5 (antirab-
+by ⬎85%; holding potential was set at ⫺140 mV. The                bit, 1:1000, Biogenesis, Sandown, NH). The sections
+bath solution contained 65 mM NaCl, 85 mM choline                 were then incubated for 1 h at room temperature with
+Cl, 2 mM CaCl2, and 10 mM HEPES adjusted to pH 7.4                Cy3-conjugated secondary antibody (1:400). Finally,
+with tetramethylammonium hydroxide. Drugs were                    the sections were mounted on slides, coversli-
+diluted with the bath solution and applied to the cell            pped with a medium containing p-phenylenediamine-
+surface from a series of small-bore glass tubes.                  glycerol, and examined by a fluorescence-microscope
+                                                                  equipped with a CCD digital camera. The times of
+Drug Injection and Neurobehavioral Examination                    animal termination in these experiments are specified in
+   The protocol for animal studies was approved by                the figure legends and all sections were coded in a
+the Harvard Medical Area Standing Committee on                    blinded fashion.
+
+1398    Bulleyaconitine A for Prolonged Infiltration Anesthesia                                 ANESTHESIA & ANALGESIA
+
+===== [PDF page 3 of 9] =====
+Figure 1. Resting and inactivated
+Nav1.7 and Nav1.8 channels are insensitive to 10 ␮M bulleyaconitine
+A (BLA). Superimposed traces of
+Nav1.7 and Nav1.8 Na⫹ currents
+were recorded before (solid trace)
+and 5 min after application of 10 ␮M
+BLA (dashed trace). For the resting
+Nav1.7 (A) and Nav1.8 (C) block by
+BLA, the cell was held at ⫺140 mV
+and stimulated once every 30 s by a
+brief test pulse (⫹50 mV for 3 ms). For
+the inactivated Nav1.7 (B) and Nav1.8
+(D) block by BLA, the cell was depolarized to ⫺70 mV and ⫺40 for 10 s,
+respectively. An interpulse (⫺140 mV
+for 100 ms), which allowed drug-free
+inactivated Na⫹ channels to recover,
+was applied before the brief test
+pulse.
+
+Statistical Analysis
+An unpaired Student’s t-test was used to evaluate
+the degree of Na⫹ channel block. P values of ⬍0.05
+were considered statistically significant. One-way
+analysis of variance was used to evaluate the significance of differences in the CTMR block, and in the
+area under the curve (AUC) among groups. Given a
+significant F test (P ⬍ 0.05), a Bonferroni adjustment
+was performed to obtain post hoc pairwise tests for
+contrasts of interest. Because of the ordinal categorical
+nature of the block scores, an overall test for drug
+effect was also obtained via generalized estimating
+equations.17 A cumulative logistic ordinal model was
+fit with a linear and quadratic trend in time and time
+by group interaction. The overall P value was calculated via PROC GENMOD (SAS 9.1, Carey, NC).
+
+RESULTS
+BLA at 10 ␮M Did Not Interact with Resting or
+Inactivated States of Nav1.7 and Nav1.8 Naⴙ Channels
+Figure 1A shows traces of outward Na⫹ currents
+recorded at ⫹50 mV from Hek293t cells expressing
+Nav1.7 Na⫹ channels before (solid trace) and after
+(dotted trace) external application of 10 ␮M BLA for 5
+min. The Na⫹ currents were outward because the
+intracellular solution contained 130 mM Na⫹ ions.18
+Recordings of outward Na⫹ currents minimized the
+access resistance artifact due to positive feedback
+cycle. The direction of Na⫹ currents is governed by the
+Na⫹ reversal potential and has little influence on Na⫹
+channel function. No effects of BLA on either the peak
+amplitude or current-decaying kinetics were evident
+Vol. 107, No. 4, October 2008
+
+when the cell was stimulated once every 30 s. The ratio
+of peak currents before and after 10 ␮M BLA was
+97.3 ⫾ 1.5% (n ⫽ 6), demonstrating that BLA did not
+block the resting Na⫹ channels at the ⫺140 mV
+holding potential.
+Since local anesthetics interact preferentially with
+inactivated Na⫹ channels,19 we tested whether BLA
+also displayed such a preference for inactivated
+Nav1.7 Na⫹ channels. We applied a conditioning
+pulse of ⫺70 mV for 10 s to allow fast-inactivated Na⫹
+channels to interact with 10 ␮M BLA (Fig. 1B), as
+shown for local anesthetics with this pulse protocol.20,21 Under this condition, BLA did not inhibit the
+peak hNav1.7 Na⫹ currents, nor did it affect the
+fast-decaying kinetics of Nav1.7 Na⫹ currents. The ratio
+of peak currents before and after 10 ␮M BLA was 99.5 ⫾
+1.9% (n ⫽ 5) for inactivated Nav1.7 channels. We therefore conclude, that BLA does not interact with resting or
+inactivated Nav1.7 Na⫹ channels significantly. Similar
+results were observed for the resting and inactivated
+Nav1.8 Na⫹ channels as shown in the bottom panels of
+Figure 1 C and D, respectively. A conditioning pulse of
+⫺40 mV for 10 s (Fig. 1D) was used for the inactivated
+rNav1.8 Na⫹ channels as reported earlier.12 The ratio of
+peak currents before and after 10 ␮M BLA was 96.4 ⫾
+2.2% (n ⫽ 5) for resting Nav1.8 Na⫹ channels and 96.7 ⫾
+3.7% (n ⫽ 5) for inactivated Nav1.8 Na⫹ channels.
+Preliminary results showed that an increase of BLA
+concentration to 100 ␮M did not produce much block
+(⬍10%) of inactivated Na⫹ channels. This small block
+could be due to the block of the open Na⫹ channels
+during the test pulse as described next.
+© 2008 International Anesthesia Research Society
+
+1399
+
+
+----- [PDF page 3 of 9: layout view of the same page] -----
+Figure 1. Resting and inactivated
+Nav1.7 and Nav1.8 channels are in-
+sensitive to 10 ␮M bulleyaconitine
+A (BLA). Superimposed traces of
+Nav1.7 and Nav1.8 Na⫹ currents
+were recorded before (solid trace)
+and 5 min after application of 10 ␮M
+BLA (dashed trace). For the resting
+Nav1.7 (A) and Nav1.8 (C) block by
+BLA, the cell was held at ⫺140 mV
+and stimulated once every 30 s by a
+brief test pulse (⫹50 mV for 3 ms). For
+the inactivated Nav1.7 (B) and Nav1.8
+(D) block by BLA, the cell was depo-
+larized to ⫺70 mV and ⫺40 for 10 s,
+respectively. An interpulse (⫺140 mV
+for 100 ms), which allowed drug-free
+inactivated Na⫹ channels to recover,
+was applied before the brief test
+pulse.
+
+
+
+
+Statistical Analysis                                        when the cell was stimulated once every 30 s. The ratio
+    An unpaired Student’s t-test was used to evaluate       of peak currents before and after 10 ␮M BLA was
+the degree of Na⫹ channel block. P values of ⬍0.05          97.3 ⫾ 1.5% (n ⫽ 6), demonstrating that BLA did not
+were considered statistically significant. One-way          block the resting Na⫹ channels at the ⫺140 mV
+analysis of variance was used to evaluate the signifi-      holding potential.
+cance of differences in the CTMR block, and in the             Since local anesthetics interact preferentially with
+area under the curve (AUC) among groups. Given a            inactivated Na⫹ channels,19 we tested whether BLA
+significant F test (P ⬍ 0.05), a Bonferroni adjustment      also displayed such a preference for inactivated
+was performed to obtain post hoc pairwise tests for         Nav1.7 Na⫹ channels. We applied a conditioning
+contrasts of interest. Because of the ordinal categorical   pulse of ⫺70 mV for 10 s to allow fast-inactivated Na⫹
+nature of the block scores, an overall test for drug        channels to interact with 10 ␮M BLA (Fig. 1B), as
+effect was also obtained via generalized estimating         shown for local anesthetics with this pulse proto-
+equations.17 A cumulative logistic ordinal model was        col.20,21 Under this condition, BLA did not inhibit the
+fit with a linear and quadratic trend in time and time      peak hNav1.7 Na⫹ currents, nor did it affect the
+by group interaction. The overall P value was calcu-        fast-decaying kinetics of Nav1.7 Na⫹ currents. The ratio
+lated via PROC GENMOD (SAS 9.1, Carey, NC).                 of peak currents before and after 10 ␮M BLA was 99.5 ⫾
+                                                            1.9% (n ⫽ 5) for inactivated Nav1.7 channels. We there-
+RESULTS                                                     fore conclude, that BLA does not interact with resting or
+BLA at 10 ␮M Did Not Interact with Resting or               inactivated Nav1.7 Na⫹ channels significantly. Similar
+Inactivated States of Nav1.7 and Nav1.8 Naⴙ Channels        results were observed for the resting and inactivated
+   Figure 1A shows traces of outward Na⫹ currents           Nav1.8 Na⫹ channels as shown in the bottom panels of
+recorded at ⫹50 mV from Hek293t cells expressing            Figure 1 C and D, respectively. A conditioning pulse of
+Nav1.7 Na⫹ channels before (solid trace) and after          ⫺40 mV for 10 s (Fig. 1D) was used for the inactivated
+(dotted trace) external application of 10 ␮M BLA for 5      rNav1.8 Na⫹ channels as reported earlier.12 The ratio of
+min. The Na⫹ currents were outward because the              peak currents before and after 10 ␮M BLA was 96.4 ⫾
+intracellular solution contained 130 mM Na⫹ ions.18         2.2% (n ⫽ 5) for resting Nav1.8 Na⫹ channels and 96.7 ⫾
+Recordings of outward Na⫹ currents minimized the            3.7% (n ⫽ 5) for inactivated Nav1.8 Na⫹ channels.
+access resistance artifact due to positive feedback         Preliminary results showed that an increase of BLA
+cycle. The direction of Na⫹ currents is governed by the     concentration to 100 ␮M did not produce much block
+Na⫹ reversal potential and has little influence on Na⫹      (⬍10%) of inactivated Na⫹ channels. This small block
+channel function. No effects of BLA on either the peak      could be due to the block of the open Na⫹ channels
+amplitude or current-decaying kinetics were evident         during the test pulse as described next.
+
+Vol. 107, No. 4, October 2008                                            © 2008 International Anesthesia Research Society   1399
+
+===== [PDF page 4 of 9] =====
+Figure 2. Use-dependent block of Nav1.7
+
+and Nav1.8 Na⫹ currents by Bulleyaconitine A (BLA). (A) Superimposed
+traces of Nav1.7 Na⫹ currents were recorded in the presence of 10 ␮M BLA
+with 1000 repetitive pulses (⫹50 mV for
+4 ms) applied at 2 Hz. The cell was
+perfused with 10 ␮M BLA approximately 5 min before repetitive pulses.
+Current traces are labeled with the number of corresponding pulses, ranging
+from 1P to 1000P. (B) Superimposed
+traces of Nav1.8 Na⫹ currents were recorded in the presence of 10 ␮M BLA
+with 1000 repetitive pulses. The conditions were the same as described in (A).
+Control experiments in the absence of
+BLA showed little reduction of Nav1.7 or
+Nav1.8 peak currents during repetitive
+pulses.
+
+BLA Inhibited Nav1.7 and Nav1.8 Naⴙ Currents in a
+Use-Dependent Manner
+When the cell was stimulated at 2 Hz, however,
+Nav1.7 Na⫹ currents were progressively reduced by
+10 ␮M BLA. Figure 2A shows selected traces of Nav1.7
+Na⫹ currents at ⫹50 mV with 1000 repetitive pulses.
+Peak Na⫹ currents decreased progressively until they
+reached a steady-state level near 1000P. The amount of
+reduction by 10 ␮M BLA was 91.1 ⫾ 2.0% (n ⫽ 5) after
+1000 repetitive pulses. This use-dependent block was
+not significantly reversed after 15-min washing with
+the drug-free solution; 89.7 ⫾ 1.0% (n ⫽ 5) of Na⫹
+currents remained unaccountable. In contrast, usedependent block by lidocaine or bupivacaine reversed
+fully within 1 min even without washout.22
+Under identical conditions, BLA at 10 ␮M inhibited
+peak Nav1.8 Na⫹ currents by 91.5 ⫾ 1.2% (n ⫽ 7) (Fig.
+2B) after 1000 repetitive pulses. Most of the late Na⫹
+currents were proportionally reduced during repetitive pulses. Once it occurred, this use-dependent
+inhibition of Nav1.8 Na⫹ currents was also not significantly reversed after 15-min washing with the drugfree solution; 89.0 ⫾ 2.4% (n ⫽ 7) of Na⫹ currents
+remained unaccountable. Control experiments in the
+absence of BLA showed little reduction of Nav1.7 and
+Nav1.8 peak currents during repetitive pulses. These
+results suggested that BLA interacted only with open
+states of Nav1.7 and Nav1.8 Na⫹ channels in a usedependent manner. Such a binding phenomenon was
+commonly found among Na⫹ channel activators.4,23
+
+Figure 3. Cutaneous analgesia induced by Bulleyaconitine A
+(BLA) alone or as an adjuvant. The cutaneous trunci muscle
+reflex (CTMR) was determined as described in Methods. In
+each group, six rats were tested and their % maximum
+possible effect (MPE) ⫾ se was plotted against the corresponding time interval. Subcutaneous injection of 600 ␮L
+lidocaine (0.5%)/epinephrine (1:200,000) produced a complete CTMR block (100% MPE) lasting for approximately 1 h
+(open circle). The CTMR block recovered fully after 6 h.
+With 600 ␮L of BLA at 0.125 mM, the complete CTMR block
+lasted for approximately 3 h and recovered fully after
+approximately 24 h (open square). With co-injection of 600
+␮L of BLA 0.125 mM/lidocaine (0.5%)/epinephrine
+(1:200,000), the complete CTMR block lasted for approximately 24 h and recovered fully after approximately 144 h or
+approximately 6 days (closed square).
+
+Cutaneous Analgesia and Side Effects Induced by Single
+Injections of BLA
+After subcutaneous injections of 0.125 mM BLA in a
+volume of 0.6 mL via the dorsal surface of the thoracolumbar region, complete nociceptive blockade in the
+CTMR assay lasted for approximately 3 h in rats (Fig.
+3; open squares). Onset for cutaneous analgesia
+reached complete blockage approximately 30 min
+after injection; full recovery occurred in approximately 24 h. No obvious systemic side effects were
+1400
+
+Bulleyaconitine A for Prolonged Infiltration Anesthesia
+
+evident during the nociceptive blockade period except
+that 2 of 6 rats had mild diarrhea approximately 1 h
+after injection. When injected with 0.25 mM BLA (0.6
+mL), rats appeared sedated, and developed various
+systemic side effects as judged by clinic observations:
+arrhythmia, respiratory distress, and hypothermia approximately 1.5 h after injection. Four of 6 rats died
+approximately 2 h after injection. When injected with
+ANESTHESIA & ANALGESIA
+
+
+----- [PDF page 4 of 9: layout view of the same page] -----
+                                                                                        Figure 2. Use-dependent block of Nav1.7
+                                                                                        and Nav1.8 Na⫹ currents by Bulleya-
+                                                                                        conitine A (BLA). (A) Superimposed
+                                                                                        traces of Nav1.7 Na⫹ currents were re-
+                                                                                        corded in the presence of 10 ␮M BLA
+                                                                                        with 1000 repetitive pulses (⫹50 mV for
+                                                                                        4 ms) applied at 2 Hz. The cell was
+                                                                                        perfused with 10 ␮M BLA approxi-
+                                                                                        mately 5 min before repetitive pulses.
+                                                                                        Current traces are labeled with the num-
+                                                                                        ber of corresponding pulses, ranging
+                                                                                        from 1P to 1000P. (B) Superimposed
+                                                                                        traces of Nav1.8 Na⫹ currents were re-
+                                                                                        corded in the presence of 10 ␮M BLA
+                                                                                        with 1000 repetitive pulses. The condi-
+                                                                                        tions were the same as described in (A).
+                                                                                        Control experiments in the absence of
+                                                                                        BLA showed little reduction of Nav1.7 or
+                                                                                        Nav1.8 peak currents during repetitive
+                                                                                        pulses.
+
+BLA Inhibited Nav1.7 and Nav1.8 Naⴙ Currents in a
+Use-Dependent Manner
+   When the cell was stimulated at 2 Hz, however,
+Nav1.7 Na⫹ currents were progressively reduced by
+10 ␮M BLA. Figure 2A shows selected traces of Nav1.7
+Na⫹ currents at ⫹50 mV with 1000 repetitive pulses.
+Peak Na⫹ currents decreased progressively until they
+reached a steady-state level near 1000P. The amount of
+reduction by 10 ␮M BLA was 91.1 ⫾ 2.0% (n ⫽ 5) after
+1000 repetitive pulses. This use-dependent block was
+not significantly reversed after 15-min washing with
+the drug-free solution; 89.7 ⫾ 1.0% (n ⫽ 5) of Na⫹
+currents remained unaccountable. In contrast, use-
+dependent block by lidocaine or bupivacaine reversed
+fully within 1 min even without washout.22
+   Under identical conditions, BLA at 10 ␮M inhibited
+peak Nav1.8 Na⫹ currents by 91.5 ⫾ 1.2% (n ⫽ 7) (Fig.
+2B) after 1000 repetitive pulses. Most of the late Na⫹            Figure 3. Cutaneous analgesia induced by Bulleyaconitine A
+currents were proportionally reduced during repeti-               (BLA) alone or as an adjuvant. The cutaneous trunci muscle
+tive pulses. Once it occurred, this use-dependent                 reflex (CTMR) was determined as described in Methods. In
+                                                                  each group, six rats were tested and their % maximum
+inhibition of Nav1.8 Na⫹ currents was also not signifi-           possible effect (MPE) ⫾ se was plotted against the corre-
+cantly reversed after 15-min washing with the drug-               sponding time interval. Subcutaneous injection of 600 ␮L
+free solution; 89.0 ⫾ 2.4% (n ⫽ 7) of Na⫹ currents                lidocaine (0.5%)/epinephrine (1:200,000) produced a com-
+remained unaccountable. Control experiments in the                plete CTMR block (100% MPE) lasting for approximately 1 h
+absence of BLA showed little reduction of Nav1.7 and              (open circle). The CTMR block recovered fully after 6 h.
+                                                                  With 600 ␮L of BLA at 0.125 mM, the complete CTMR block
+Nav1.8 peak currents during repetitive pulses. These              lasted for approximately 3 h and recovered fully after
+results suggested that BLA interacted only with open              approximately 24 h (open square). With co-injection of 600
+states of Nav1.7 and Nav1.8 Na⫹ channels in a use-                ␮L of BLA 0.125 mM/lidocaine (0.5%)/epinephrine
+dependent manner. Such a binding phenomenon was                   (1:200,000), the complete CTMR block lasted for approxi-
+commonly found among Na⫹ channel activators.4,23                  mately 24 h and recovered fully after approximately 144 h or
+                                                                  approximately 6 days (closed square).
+Cutaneous Analgesia and Side Effects Induced by Single
+Injections of BLA
+   After subcutaneous injections of 0.125 mM BLA in a             evident during the nociceptive blockade period except
+volume of 0.6 mL via the dorsal surface of the thora-             that 2 of 6 rats had mild diarrhea approximately 1 h
+columbar region, complete nociceptive blockade in the             after injection. When injected with 0.25 mM BLA (0.6
+CTMR assay lasted for approximately 3 h in rats (Fig.             mL), rats appeared sedated, and developed various
+3; open squares). Onset for cutaneous analgesia                   systemic side effects as judged by clinic observations:
+reached complete blockage approximately 30 min                    arrhythmia, respiratory distress, and hypothermia ap-
+after injection; full recovery occurred in approxi-               proximately 1.5 h after injection. Four of 6 rats died
+mately 24 h. No obvious systemic side effects were                approximately 2 h after injection. When injected with
+
+1400    Bulleyaconitine A for Prolonged Infiltration Anesthesia                                  ANESTHESIA & ANALGESIA
+
+===== [PDF page 5 of 9] =====
+Figure 4. Dose-response curve of Bulleyaconitine A (BLA) as
+an adjuvant in cutaneous analgesia. BLA at various concentrations (0.05– 0.125 mM) was co-injected with lidocane
+(0.5%) and epinephrine (1:200,000). Cutaneous trunci muscle
+reflex (CTMR) was measured at various intervals as described in the Methods section. At each BLA concentration,
+six rats were tested and their % maximum possible effect
+(MPE) ⫾ se was plotted against the corresponding time
+interval.
+
+the concentration of 0.5 mM BLA, all rats (3/3) died
+approximately 1–2 h after injection.
+
+Coadministration of BLA with Lidocaine and Epinephrine
+To prolong cutaneous analgesia, we tested a solution containing a mixture of 0.125 mM BLA/0.5%
+lidocaine/1:200,000 epinephrine. Epinephrine is a vasoconstrictor that limits blood flow in tissue, but its
+effects usually last only for a couple of hours. Unexpectedly, co-injection of 0.125 mM BLA with lidocaine
+(0.5%)/epinephrine (1:200,000) increased the duration
+of complete nociceptive blockade from 3 to 24 h; full
+recovery occurred after 6 days (Fig. 3; closed versus
+open square). Furthermore, we found no apparent
+systemic side effects of BLA in treated rats. In a
+control experiment, lidocaine (0.5%) plus epinephrine
+(1:200,000) produced a short complete nociceptive
+blockade, approximately 1 h in duration (Fig. 3; open
+circles). Epinephrine itself at 1:200,000 induced partial,
+transient analgesia after subcutaneous injections, but
+its effects were cleared within 2 h.24
+Figure 4 shows the dose-response curves of BLA
+plus the 0.5% lidocaine/1:200,000 epinephrine mixture. These dose-response data indicated that the
+higher the BLA concentration (ranging from 0.05 to
+0.125 mM) in this drug mixture, the longer the duration of the complete cutaneous analgesia. Figure 5
+shows the time for full recovery from cutaneous
+analgesia under various drug combinations. Interestingly, the duration to full recovery remained relatively
+constant with BLA concentrations at 0.075, 0.1, and
+0.125 mM (lasting for 144 h or 6 days). To compare the
+overall drug-combination effects in cutaneous analgesia, we measured their areas under the curve (AUC;
+Vol. 107, No. 4, October 2008
+
+Figure 5. Time to full recovery from cutaneous analgesia
+after injections of various solutions. In each group, six rats
+were injected and their full recovery times (h ⫾ se) from
+cutaneous analgesia were tested, as described in Methods,
+and plotted against the drug injected. One-way analysis of
+variance was used to test for overall mean differences in
+time to full recovery from cutaneous analgesia among 1)
+Bulleyaconitine A (BLA) 0.125 mM, BLA 0.075 mM⫹Epi
+(epinephrine; 1:200,000), and BLA 0.075 mM⫹Lido/Epi
+(0.5% lidocaine and 1:200,000 epinephrine); 2) BLA 0.125
+mM, BLA 0.125 mM⫹lidocaine 0.5%, and BLA 0.125
+mM⫹Lido/Epi; and 3) mixtures of Lido/Epi with BLA
+ranging from 0.050 to 0.125 mM. Given a significant F test
+(P ⬍ 0.05), pairwise post hoc Bonferroni tests were performed
+for multiple pairwise comparisons. 1) F value was 27.5 with
+P ⬍ 0.001. But there was no significant difference between
+BLA 0.075 mM⫹Epi and BLA 0.075 mM⫹Lido/Epi. 2) F
+value was 334.1 with P ⬍ 0.001. **P ⬍ 0.001, compared with
+the BLA 0.125 mM group. There was no significant difference between BLA 0.125 mM and BLA 0.125 mM⫹lidocaine
+0.5%. 3) F value was 48.4 with P ⬍ 0.001. ⫹⫹P ⬍ 0.001,
+compared with the BLA 0.05 mM⫹Lido/Epi group.
+
+%MPE * time). Table 1 shows that the AUCs for the
+BLA/lidocaine/epinephrine solution was 1403.7
+when 0.05 mM BLA was tested, whereas the AUCs
+were measured 6211.0, 7019.5, 8125.5, respectively,
+when 0.075, 0.1, and 0.125 mM were included. AUCs
+for 0.125 mM BLA/0.5% lidocaine and for 0.075 mM
+BLA/1:200,000 epinephrine were measured 1035.5
+and 5015.5, respectively (Table 1). These results suggested that epinephrine was more important than
+lidocaine for the long-lasting cutaneous analgesia induced by BLA/lidocaine/epinephrine.
+
+Coadministration of BLA with Lidocaine
+To test whether lidocaine minimizes the systemic
+side effects of BLA, we co-administered 0.125 mM or
+0.25 mM BLA along with 0.5% lidocaine subcutaneously. Onset for cutaneous analgesia was rapid and
+reached its maximal effects within 5–10 min, probably
+due to the rapid action of 0.5% lidocaine. Complete
+nociceptive blockade lasted for 3– 6 h; full recovery
+occurred in 24 h. This duration to full recovery from
+nociceptive blockade was not longer than that induced
+by 0.125 mM BLA alone (Fig. 5 and Table 1). Systemic
+© 2008 International Anesthesia Research Society
+
+1401
+
+
+----- [PDF page 5 of 9: layout view of the same page] -----
+                                                              Figure 5. Time to full recovery from cutaneous analgesia
+Figure 4. Dose-response curve of Bulleyaconitine A (BLA) as   after injections of various solutions. In each group, six rats
+an adjuvant in cutaneous analgesia. BLA at various concen-    were injected and their full recovery times (h ⫾ se) from
+trations (0.05– 0.125 mM) was co-injected with lidocane       cutaneous analgesia were tested, as described in Methods,
+(0.5%) and epinephrine (1:200,000). Cutaneous trunci muscle   and plotted against the drug injected. One-way analysis of
+reflex (CTMR) was measured at various intervals as de-        variance was used to test for overall mean differences in
+scribed in the Methods section. At each BLA concentration,    time to full recovery from cutaneous analgesia among 1)
+six rats were tested and their % maximum possible effect      Bulleyaconitine A (BLA) 0.125 mM, BLA 0.075 mM⫹Epi
+(MPE) ⫾ se was plotted against the corresponding time         (epinephrine; 1:200,000), and BLA 0.075 mM⫹Lido/Epi
+interval.                                                     (0.5% lidocaine and 1:200,000 epinephrine); 2) BLA 0.125
+                                                              mM, BLA 0.125 mM⫹lidocaine 0.5%, and BLA 0.125
+                                                              mM⫹Lido/Epi; and 3) mixtures of Lido/Epi with BLA
+the concentration of 0.5 mM BLA, all rats (3/3) died          ranging from 0.050 to 0.125 mM. Given a significant F test
+approximately 1–2 h after injection.                          (P ⬍ 0.05), pairwise post hoc Bonferroni tests were performed
+                                                              for multiple pairwise comparisons. 1) F value was 27.5 with
+Coadministration of BLA with Lidocaine and Epinephrine        P ⬍ 0.001. But there was no significant difference between
+   To prolong cutaneous analgesia, we tested a solu-          BLA 0.075 mM⫹Epi and BLA 0.075 mM⫹Lido/Epi. 2) F
+                                                              value was 334.1 with P ⬍ 0.001. **P ⬍ 0.001, compared with
+tion containing a mixture of 0.125 mM BLA/0.5%                the BLA 0.125 mM group. There was no significant differ-
+lidocaine/1:200,000 epinephrine. Epinephrine is a va-         ence between BLA 0.125 mM and BLA 0.125 mM⫹lidocaine
+soconstrictor that limits blood flow in tissue, but its       0.5%. 3) F value was 48.4 with P ⬍ 0.001. ⫹⫹P ⬍ 0.001,
+effects usually last only for a couple of hours. Unex-        compared with the BLA 0.05 mM⫹Lido/Epi group.
+pectedly, co-injection of 0.125 mM BLA with lidocaine
+(0.5%)/epinephrine (1:200,000) increased the duration
+of complete nociceptive blockade from 3 to 24 h; full         %MPE * time). Table 1 shows that the AUCs for the
+recovery occurred after 6 days (Fig. 3; closed versus         BLA/lidocaine/epinephrine solution was 1403.7
+open square). Furthermore, we found no apparent               when 0.05 mM BLA was tested, whereas the AUCs
+systemic side effects of BLA in treated rats. In a            were measured 6211.0, 7019.5, 8125.5, respectively,
+control experiment, lidocaine (0.5%) plus epinephrine         when 0.075, 0.1, and 0.125 mM were included. AUCs
+(1:200,000) produced a short complete nociceptive             for 0.125 mM BLA/0.5% lidocaine and for 0.075 mM
+blockade, approximately 1 h in duration (Fig. 3; open         BLA/1:200,000 epinephrine were measured 1035.5
+circles). Epinephrine itself at 1:200,000 induced partial,    and 5015.5, respectively (Table 1). These results sug-
+transient analgesia after subcutaneous injections, but        gested that epinephrine was more important than
+its effects were cleared within 2 h.24                        lidocaine for the long-lasting cutaneous analgesia in-
+   Figure 4 shows the dose-response curves of BLA             duced by BLA/lidocaine/epinephrine.
+plus the 0.5% lidocaine/1:200,000 epinephrine mix-
+ture. These dose-response data indicated that the             Coadministration of BLA with Lidocaine
+higher the BLA concentration (ranging from 0.05 to               To test whether lidocaine minimizes the systemic
+0.125 mM) in this drug mixture, the longer the dura-          side effects of BLA, we co-administered 0.125 mM or
+tion of the complete cutaneous analgesia. Figure 5            0.25 mM BLA along with 0.5% lidocaine subcutane-
+shows the time for full recovery from cutaneous               ously. Onset for cutaneous analgesia was rapid and
+analgesia under various drug combinations. Interest-          reached its maximal effects within 5–10 min, probably
+ingly, the duration to full recovery remained relatively      due to the rapid action of 0.5% lidocaine. Complete
+constant with BLA concentrations at 0.075, 0.1, and           nociceptive blockade lasted for 3– 6 h; full recovery
+0.125 mM (lasting for 144 h or 6 days). To compare the        occurred in 24 h. This duration to full recovery from
+overall drug-combination effects in cutaneous analge-         nociceptive blockade was not longer than that induced
+sia, we measured their areas under the curve (AUC;            by 0.125 mM BLA alone (Fig. 5 and Table 1). Systemic
+
+Vol. 107, No. 4, October 2008                                               © 2008 International Anesthesia Research Society   1401
+
+===== [PDF page 6 of 9] =====
+Table 1. Relative Values of the Area Under the Curve (AUC;
+MPE% * h) Versus Drug Combinations
+Drug combinations
+0.5% Lidocaine/Epinephrine
+0.125 mM BLA
+0.125 mM BLA/0.5% Lidocaine
+0.075 mM BLA/Epinephrine
+0.050 mM BLA/Lidocaine/
+Epinephrine
+0.075 mM BLA/Lidocaine/
+Epinephrine
+0.100 mM BLA/Lidocaine/
+Epinephrine
+0.125 mM BLA/Lidocaine/
+Epinephrine
+
+AUC
+(mean ⴞ SEM , n ⴝ 6)
+394.8 ⫾ 17.1*†
+940.0 ⫾ 99.0
+1035.5 ⫾ 108.4
+5015.5 ⫾ 1113.2†
+1403.7 ⫾ 221.8
+6211.0 ⫾ 568.7†‡
+7019.5 ⫾ 630.8†‡
+8125.5 ⫾ 464.6†‡
+
+Most data are derived from Figures 3 and 4 and presented as mean ⫾ SEM. The control
+solution (0.5% lidocaine/1:200,000 epinephrine) has a significantly smaller AUC than all
+other test solutions (* P ⬍ 0.05). An unpaired Student’s t-test was used to test for a
+difference between each drug combination and 0.125 mM bulleyaconitine A (BLA). † ⫽ P ⬍
+0.05. No significant difference was found among 0.125 mM BLA, 0.125mM BLA/0.5%
+lidocaine, and 0.05 mM BLA/lidocaine/epinephrine. One-way analysis of variance was used
+to test for overall mean differences in the area under the curve among mixtures of
+lidocaine/epinephrine, with BLA ranging from 0.050 to 0.125 mM. Given a significant F test
+(F value ⫽ 35.6) with P ⬍ 0.001, pairwise post hoc Bonferroni tests were performed for
+multiple pairwise comparisons. ‡ P ⬍ 0.001, compared with the 0.050 mM BLA/
+lidocaine/epinephrine group. The GEE statistic analyses likewise supported these conclusions.
+
+adverse effects with arrhythmia, sedation, and hypothermia occurred approximately 1.5 h after injection of
+0.25 mM BLA/0.5% lidocaine, but these adverse effects were less severe than those induced by the
+injection of 0.25 mM BLA alone. Only one of six rats
+died approximately 9 h after injection, from respiratory failure (versus 4 of 6 rats died approximately 2 h
+after injection with 0.25 mM BLA alone). Thus, coinjection of BLA with lidocaine lessened the severity
+of the systemic side effects induced by 0.25 mM BLA
+but did not appear to prolong the time to full recovery
+from cutaneous analgesia.
+
+Lack of Tissue Toxicity by BLA
+Tissue toxicity after co-injection of BLA 0.1 to 0.125
+mM along with 0.5% lidocaine and 1:200,000 epinephrine was examined in cross-sections of the rats’ skin
+tissue by a pathologist (Dr. Berigitta Schmidt). There
+were no apparent changes in histology compared with
+the control sections, except for mild lymphocytic
+perivascular infiltration approximately 6 days after
+co-injection (Fig. 6). Inflammation scores in and around the
+injected area, however, were not significantly different
+from the control. Furthermore, we observed no apparent loss in PGP9.5 immunostained peripheral nerve
+fibers in both the back and paw skins approximately 1
+day after co-injection (Fig. 7). The number of nerve
+fibers in each optical field for paw skins, for example,
+ranged 18 –24 (mean ⫾ se ⫽ 21.3 ⫾ 0.7, in 9 sections
+from 3 animals) in the saline group and 19 –23 (21.6 ⫾
+0.5, P ⫽ 0.732) in the BLA-treated group.
+
+DISCUSSION
+We have demonstrated that BLA is a potent usedependent blocker for both Nav1.7 and Nav1.8 Na⫹
+1402
+
+Bulleyaconitine A for Prolonged Infiltration Anesthesia
+
+Figure 6. A representative light micrograph of the skin tissue
+after Bulleyaconitine A injection. Rat shaved dorsal skin was
+injected with 0.6 mL of 0.1 mM Bulleyaconitine A/0.5%
+lidocaine/1:200,000 epinephrine. After full recovery from
+cutaneous analgesia (approximately 6 days), the skin tissue
+around the injected site was processed and hematoxylin and
+eosin stained as described in the Methods. The epidermis
+layer of the skin is shown on top, followed by the dermis,
+muscle, and subcutaneous layer. Magnification: 4⫻; inset,
+40⫻. The circles in the inset indicate examples of the mild
+lymphocytic perivascular infiltratration within the subcutaneous layer.
+currents and that subcutaneous injection of BLA as an
+adjuvant to lidocaine/epinephrine drastically prolongs the duration of cutaneous analgesia. The significance and implications of these findings are discussed
+as follows.
+
+BLA as a Potent Use-Dependent Blocker for Nav1.7 and
+Nav1.8 Naⴙ Channel Isoforms
+
+Nav1.7 and Nav1.8 Na⫹ channels are expressed
+predominantly in nociceptive neurons within dorsal
+root ganglia.8 Nav1.7 is likely responsible for a threshold current near the resting potential,25 whereas
+Nav1.8 is responsible for most of the current underlying the action potentials in nociceptive neurons.26
+Accumulated evidence supports the notion that these
+two isoforms are essential for the development of
+acute, inflammatory, and neuropathic pain.9,10 BLA at
+10 ␮M potently inhibits both Nav1.7 and Nav1.8 Na⫹
+currents during repetitive pulses but interacts minimally with resting or inactivated Nav1.7 and Nav1.8
+Na⫹ channels. Previously, we have also demonstrated
+that BLA drastically reduced neuronal Na⫹ currents
+during repetitive pulses in GH3 cells, which expressed
+neuronal Nav1.1, 1.2, 1.3, and 1.6 Na⫹ channels.27 In
+fact, all the blocking phenotypes induced by BLA in
+Nav1.7 and Nav1.8 isoforms are similar to those found
+in GH3 cells. We therefore conclude that BLA is
+nonselective for these neuronal Na⫹ channels, including isoforms responsible for norciception.
+Unlike other Na⫹ channel activators (e.g., batrachotoxin and veratridine),4,23 BLA does not simultaneously elicit persistent late Na⫹ currents during
+repetitive pulses whereas the peak Na⫹ currents are
+reduced (Fig. 2). This phenotype implies that 1) BLA
+ANESTHESIA & ANALGESIA
+
+
+----- [PDF page 6 of 9: layout view of the same page] -----
+Table 1. Relative Values of the Area Under the Curve (AUC;
+MPE% * h) Versus Drug Combinations
+                                                             AUC
+       Drug combinations                              (mean ⴞ SEM , n ⴝ 6)
+0.5% Lidocaine/Epinephrine                                   394.8 ⫾ 17.1*†
+0.125 mM BLA                                                 940.0 ⫾ 99.0
+0.125 mM BLA/0.5% Lidocaine                                 1035.5 ⫾ 108.4
+0.075 mM BLA/Epinephrine                                    5015.5 ⫾ 1113.2†
+0.050 mM BLA/Lidocaine/                                     1403.7 ⫾ 221.8
+   Epinephrine
+0.075 mM BLA/Lidocaine/                                     6211.0 ⫾ 568.7†‡
+   Epinephrine
+0.100 mM BLA/Lidocaine/                                     7019.5 ⫾ 630.8†‡
+   Epinephrine
+0.125 mM BLA/Lidocaine/                                     8125.5 ⫾ 464.6†‡
+   Epinephrine                                                                                  Figure 6. A representative light micrograph of the skin tissue
+Most data are derived from Figures 3 and 4 and presented as mean ⫾ SEM. The control             after Bulleyaconitine A injection. Rat shaved dorsal skin was
+solution (0.5% lidocaine/1:200,000 epinephrine) has a significantly smaller AUC than all        injected with 0.6 mL of 0.1 mM Bulleyaconitine A/0.5%
+other test solutions (* P ⬍ 0.05). An unpaired Student’s t-test was used to test for a
+difference between each drug combination and 0.125 mM bulleyaconitine A (BLA). † ⫽ P ⬍          lidocaine/1:200,000 epinephrine. After full recovery from
+0.05. No significant difference was found among 0.125 mM BLA, 0.125mM BLA/0.5%                  cutaneous analgesia (approximately 6 days), the skin tissue
+lidocaine, and 0.05 mM BLA/lidocaine/epinephrine. One-way analysis of variance was used         around the injected site was processed and hematoxylin and
+to test for overall mean differences in the area under the curve among mixtures of              eosin stained as described in the Methods. The epidermis
+lidocaine/epinephrine, with BLA ranging from 0.050 to 0.125 mM. Given a significant F test
+(F value ⫽ 35.6) with P ⬍ 0.001, pairwise post hoc Bonferroni tests were performed for          layer of the skin is shown on top, followed by the dermis,
+multiple pairwise comparisons. ‡ P ⬍ 0.001, compared with the 0.050 mM BLA/                     muscle, and subcutaneous layer. Magnification: 4⫻; inset,
+lidocaine/epinephrine group. The GEE statistic analyses likewise supported these conclusions.   40⫻. The circles in the inset indicate examples of the mild
+                                                                                                lymphocytic perivascular infiltratration within the subcuta-
+                                                                                                neous layer.
+adverse effects with arrhythmia, sedation, and hypo-
+thermia occurred approximately 1.5 h after injection of                                         currents and that subcutaneous injection of BLA as an
+0.25 mM BLA/0.5% lidocaine, but these adverse ef-                                               adjuvant to lidocaine/epinephrine drastically pro-
+fects were less severe than those induced by the                                                longs the duration of cutaneous analgesia. The signifi-
+injection of 0.25 mM BLA alone. Only one of six rats                                            cance and implications of these findings are discussed
+died approximately 9 h after injection, from respira-                                           as follows.
+tory failure (versus 4 of 6 rats died approximately 2 h
+after injection with 0.25 mM BLA alone). Thus, co-                                              BLA as a Potent Use-Dependent Blocker for Nav1.7 and
+injection of BLA with lidocaine lessened the severity                                           Nav1.8 Naⴙ Channel Isoforms
+of the systemic side effects induced by 0.25 mM BLA                                                Nav1.7 and Nav1.8 Na⫹ channels are expressed
+but did not appear to prolong the time to full recovery                                         predominantly in nociceptive neurons within dorsal
+from cutaneous analgesia.                                                                       root ganglia.8 Nav1.7 is likely responsible for a thresh-
+                                                                                                old current near the resting potential,25 whereas
+Lack of Tissue Toxicity by BLA                                                                  Nav1.8 is responsible for most of the current underly-
+   Tissue toxicity after co-injection of BLA 0.1 to 0.125                                       ing the action potentials in nociceptive neurons.26
+mM along with 0.5% lidocaine and 1:200,000 epineph-                                             Accumulated evidence supports the notion that these
+rine was examined in cross-sections of the rats’ skin                                           two isoforms are essential for the development of
+tissue by a pathologist (Dr. Berigitta Schmidt). There                                          acute, inflammatory, and neuropathic pain.9,10 BLA at
+were no apparent changes in histology compared with                                             10 ␮M potently inhibits both Nav1.7 and Nav1.8 Na⫹
+the control sections, except for mild lymphocytic                                               currents during repetitive pulses but interacts mini-
+perivascular infiltration approximately 6 days after                                            mally with resting or inactivated Nav1.7 and Nav1.8
+co-injection (Fig. 6). Inflammation scores in and around the                                    Na⫹ channels. Previously, we have also demonstrated
+injected area, however, were not significantly different                                        that BLA drastically reduced neuronal Na⫹ currents
+from the control. Furthermore, we observed no appar-                                            during repetitive pulses in GH3 cells, which expressed
+ent loss in PGP9.5 immunostained peripheral nerve                                               neuronal Nav1.1, 1.2, 1.3, and 1.6 Na⫹ channels.27 In
+fibers in both the back and paw skins approximately 1                                           fact, all the blocking phenotypes induced by BLA in
+day after co-injection (Fig. 7). The number of nerve                                            Nav1.7 and Nav1.8 isoforms are similar to those found
+fibers in each optical field for paw skins, for example,                                        in GH3 cells. We therefore conclude that BLA is
+ranged 18 –24 (mean ⫾ se ⫽ 21.3 ⫾ 0.7, in 9 sections                                            nonselective for these neuronal Na⫹ channels, includ-
+from 3 animals) in the saline group and 19 –23 (21.6 ⫾                                          ing isoforms responsible for norciception.
+0.5, P ⫽ 0.732) in the BLA-treated group.                                                          Unlike other Na⫹ channel activators (e.g., batracho-
+                                                                                                toxin and veratridine),4,23 BLA does not simulta-
+DISCUSSION                                                                                      neously elicit persistent late Na⫹ currents during
+  We have demonstrated that BLA is a potent use-                                                repetitive pulses whereas the peak Na⫹ currents are
+dependent blocker for both Nav1.7 and Nav1.8 Na⫹                                                reduced (Fig. 2). This phenotype implies that 1) BLA
+
+1402          Bulleyaconitine A for Prolonged Infiltration Anesthesia                                                           ANESTHESIA & ANALGESIA
+
+===== [PDF page 7 of 9] =====
+Figure 7. PGP9.5 immunostaining of
+rat skin. (A) Paw skin, low magnification; saline (left panel), control
+side; Bulleyaconitine A (BLA) (right
+panel), injected side (0.1 mL of 0.125
+mM BLA/0.5% lidocaine/1:200,000
+epinephrine for paw or 0.6 mL for
+back skins). Skin samples were taken
+approximately 24 h after injection. (B)
+Paw skin, high magnification; (C)
+Back skin, high magnification. Nonspecific staining (*) on the skin surface
+was also present. Arrows indicate nerve
+fibers in the epidermis of the skin. Scale
+bars, 50 ␮m.
+
+preferentially binds with the open state of Nav1.7 and
+Nav1.8 Na⫹ channels, 2) fast Na⫹ channel inactivation
+still reaches its completion, and 3) upon binding, BLA
+reduces their single-channel conductance but more
+so than batrachotoxin and veratridine. The singlechannel conductance in the presence of BLA may be
+miniscule, since BLA inhibits ⬎90% peak Na⫹ currents after 1000 repetitive pulses. There is little reversal of the use-dependent inhibition of Nav1.7 and
+Nav1.8 Na⫹ currents after 15-min washing. This slowreversal phenomenon suggests that BLA dissociates
+rather slowly from its binding site.
+
+Use of BLA as an Adjuvant in the Lidocaine/Epinephrine
+Mixture for Prolonged Cutaneous Analgesia
+With a single injection, BLA (0.6 mL at 0.125 mM)
+elicits complete cutaneous block that lasts for 3 h.
+However, when BLA is co-injected with lidocaine
+(0.5%)/epinephrine (1:200,000) the complete cutaneous block lasts for up to 24 h (Fig. 3). It seems puzzling
+that BLA prolongs cutaneous analgesia so drastically
+Vol. 107, No. 4, October 2008
+
+when co-injected with lidocaine/epinephrine. The action of lidocaine/epinephrine cannot account for such
+prolongation, since their effects wear off within 6 h
+(Fig. 3). In particular, lidocaine alone did not prolong
+cutaneous analgesia induced by BLA (Fig. 5). Four
+alternative explanations could be considered for this
+synergistic action. First, BLA may be “trapped” within
+the skin tissue which then acts as a reservoir for its
+slow release. Such BLA trapping may be greatly
+enhanced by epinephrine. This mechanism is equivalent to the slow release of haloperidol decanoate after
+IM injection28 and implies that BLA remains near the
+site of injection for as long as 24 h, so that cutaneous
+analgesia persists. Second, BLA may bind tightly with
+its receptor within Na⫹ channels and does not dissociate from the receptor site readily. In our view, the
+tight BLA binding with Na⫹ channels likely operates as
+a supporting role in prolonged anesthesia/analgesia.
+This is because the complete sensory block by 0.125 mM
+BLA alone lasts no longer than 3 h (Fig. 3; open square),
+© 2008 International Anesthesia Research Society
+
+1403
+
+
+----- [PDF page 7 of 9: layout view of the same page] -----
+Figure 7. PGP9.5 immunostaining of
+rat skin. (A) Paw skin, low magnifi-
+cation; saline (left panel), control
+side; Bulleyaconitine A (BLA) (right
+panel), injected side (0.1 mL of 0.125
+mM BLA/0.5% lidocaine/1:200,000
+epinephrine for paw or 0.6 mL for
+back skins). Skin samples were taken
+approximately 24 h after injection. (B)
+Paw skin, high magnification; (C)
+Back skin, high magnification. Non-
+specific staining (*) on the skin surface
+was also present. Arrows indicate nerve
+fibers in the epidermis of the skin. Scale
+bars, 50 ␮m.
+
+
+
+
+preferentially binds with the open state of Nav1.7 and       when co-injected with lidocaine/epinephrine. The ac-
+Nav1.8 Na⫹ channels, 2) fast Na⫹ channel inactivation        tion of lidocaine/epinephrine cannot account for such
+still reaches its completion, and 3) upon binding, BLA       prolongation, since their effects wear off within 6 h
+reduces their single-channel conductance but more            (Fig. 3). In particular, lidocaine alone did not prolong
+so than batrachotoxin and veratridine. The single-           cutaneous analgesia induced by BLA (Fig. 5). Four
+channel conductance in the presence of BLA may be            alternative explanations could be considered for this
+miniscule, since BLA inhibits ⬎90% peak Na⫹ cur-             synergistic action. First, BLA may be “trapped” within
+rents after 1000 repetitive pulses. There is little rever-   the skin tissue which then acts as a reservoir for its
+sal of the use-dependent inhibition of Nav1.7 and            slow release. Such BLA trapping may be greatly
+Nav1.8 Na⫹ currents after 15-min washing. This slow-         enhanced by epinephrine. This mechanism is equiva-
+reversal phenomenon suggests that BLA dissociates            lent to the slow release of haloperidol decanoate after
+rather slowly from its binding site.
+                                                             IM injection28 and implies that BLA remains near the
+                                                             site of injection for as long as 24 h, so that cutaneous
+Use of BLA as an Adjuvant in the Lidocaine/Epinephrine
+Mixture for Prolonged Cutaneous Analgesia                    analgesia persists. Second, BLA may bind tightly with
+   With a single injection, BLA (0.6 mL at 0.125 mM)         its receptor within Na⫹ channels and does not disso-
+elicits complete cutaneous block that lasts for 3 h.         ciate from the receptor site readily. In our view, the
+However, when BLA is co-injected with lidocaine              tight BLA binding with Na⫹ channels likely operates as
+(0.5%)/epinephrine (1:200,000) the complete cutane-          a supporting role in prolonged anesthesia/analgesia.
+ous block lasts for up to 24 h (Fig. 3). It seems puzzling   This is because the complete sensory block by 0.125 mM
+that BLA prolongs cutaneous analgesia so drastically         BLA alone lasts no longer than 3 h (Fig. 3; open square),
+
+Vol. 107, No. 4, October 2008                                             © 2008 International Anesthesia Research Society   1403
+
+===== [PDF page 8 of 9] =====
+whereas the complete sensory block by the BLA/
+lidocaine/epinephrine mixture lasts for 24 h (Fig. 3;
+closed square). Third, trapped BLA may affect the level
+of Na⫹ channels within the plasma membrane (e.g.,
+channel expression or degradation). Finally, the fourth
+possible explanation is that trapped BLA damages the
+skin tissue, including nociceptive nerve fibers; however,
+as discussed next, we observed no apparent tissue toxicity after BLA injection.
+
+Potential Tissue Toxicity and Side Effects After Cutaneous
+Injection of BLA as an Adjuvant
+Even though cutaneous analgesia lasted for several
+days after co-injection of BLA/lidocaine/epinephrine,
+we observed no tissue damage in the cross-sections of
+the skin surrounding the injected site. The epidermis,
+dermis, and blood vessels all appeared intact (Fig. 6).
+Mild lymphocytic perivascular infiltration was noted
+but inflammation scores were not significantly different from the control. Furthermore, the possibility that
+BLA exhibited selective toxicity towards peripheral
+nerve fibers was excluded by PGP 9.5 immunostaining. The number of peripheral nerve fibers remained
+unchanged one day after BLA injection (Fig. 7).
+One documented drawback of using BLA and other
+aconitine-like alkaloids is their narrow therapeutic
+index.5 However, this shortcoming may become less
+serious at lower BLA concentrations. The systemic
+side effects were minimal in rats when the concentration of BLA injected was ⱕ0.125 mM; all rats behaved
+normally during the entire observation period. In
+addition, we found that subcutaneous co-injection of
+lidocaine and epinephrine also reduced the systemic
+side effects of BLA, probably due to vasoconstriction.
+
+Possible BLA Applications in Infiltration Anesthesia
+BLA at ⱕ0.125 mM is effective for producing cutaneous analgesia with minimal adverse effects. Lidocaine may be added for rapid on-set in cutaneous
+analgesia, whereas epinephrine may be added to
+lengthen its duration and/or to reduce BLA dosage
+(Fig. 5). Prolonged cutaneous analgesia induced by
+BLA as an adjuvant could have important clinical
+applications. First, long-lasting cutaneous analgesia
+may be beneficial for patients with postoperative
+pain.29,30 Second, BLA possesses antiinflammatory
+properties that may have added benefits for patients
+with inflammation after surgery. Third, prolonged
+cutaneous analgesia may also alleviate neuropathic
+pain, which is likely caused by high-frequency discharges.31–33 Additional studies using various pain
+models will be needed to test these possibilities.
+ACKNOWLEDGMENTS
+The authors thank Mr. Nathanael Hevelone, MPH, Biostatistician, Center for Surgery and Public Health, Brigham
+and Women’s Hospital, Boston, MA, for help in statistical
+analyses.
+1404
+
+Bulleyaconitine A for Prolonged Infiltration Anesthesia
+
+REFERENCES
+1. Zhu DY, Bai DL, Tang XC. Recent studies on traditional Chinese
+medicinal plants. Drug Dev Res 1986;39:147–57
+2. Rao S, Sikdar SK. Modification of alpha subunit of RIIA sodium
+channels by aconitine. Pflugers Arch 2000;439:349 –55
+3. Wang CF, Gerner P, Wang SY, Wang GK. Bulleyaconitine A
+isolated from Aconitum plant displays long-acting local anesthetic properties in vitro and in vivo. Anesthesiology 2007;107:
+82–90
+4. Wang SY, Wang GK. Voltage-gated sodium channels as primary
+targets of diverse lipid-soluble neurotoxins. Cell Signal 2003;15: 151–9
+5. Friese J, Gleitz J, Gutser UT, Heubach JF, Matthiesen T, Wilffert
+B, Selve N. Aconitum sp. alkaloids: the modulation of voltagedependent Na⫹ channels, toxicity and antinociceptive properties. Eur J Pharmacol 1997;337:165–74
+6. Ameri A. The effects of Aconitum alkaloids on the central
+nervous system. Prog Neurobiol 1998;56:211–35
+7. Murayama M, Ito T, Konno C, Hikino H. Mechanism of
+analgesic action of mesaconitine. I. Relationship between analgesic effect and central monoamines or opiate receptors. Eur
+J Pharmacol 1984;101:29 –36
+8. Wood JN, Boorman JP, Okuse K, Baker MD. Voltage-gated sodium
+channels and pain pathways. J Neurobiol 2004;61: 55–71
+9. Nassar MA, Stirling LC, Forlani G, Baker MD, Matthews EA,
+Dickenson AH, Wood JN. Nociceptor-specific gene deletion
+reveals a major role for Nav1.7 (PN1) in acute and inflammatory
+pain. Proc Natl Acad Sci U S A 2004;101:12706 –11
+10. Jarvis MF, Honore P, Shieh CC, Chapman M, Joshi S, Zhang XF,
+Kort M, Carroll W, Marron B, Atkinson R, Thomas J, Liu D,
+Krambis M, Liu Y, McGaraughty S, Chu K, Roeloffs R, Zhong C,
+Mikusa JP, Hernandez G, Gauvin D, Wade C, Zhu C, Pai M,
+Scanio M, Shi L, Drizin I, Gregg R, Matulenko M, Hakeem A,
+Gross M, Johnson M, Marsh K, Wagoner PK, Sullivan JP,
+Faltynek CR, Krafte DS. A-803467, a potent and selective Nav1.8
+sodium channel blocker, attenuates neuropathic and inflammatory pain in the rat. Proc Natl Acad Sci U S A 2007;104:8520 –5
+11. Klugbauer N, Lacinova L, Flockerzi V, Hofmann F. Structure
+and functional expression of a new member of the tetrodotoxinsensitive voltage-activated sodium channel family from human
+neuroendocrine cells. EMBO J 1995;14:1084 –90
+12. Leffler A, Reiprich A, Mohapatra DP, Nau C. Use-dependent
+block by lidocaine but not amitriptyline is more pronounced in
+tetrodotoxin (TTX)-Resistant Nav1.8 than in TTX-sensitive Na⫹
+channels. J Pharmacol Exp Ther 2007;320:354 – 64
+13. Zhao J, Ziane R, Chatelier A, O’leary M, Chahine M. Lidocaine
+promotes the trafficking and functional expression of Nav1.8
+sodium channels in mammalian cells. J Neurophysiol 2007;98:
+467–77
+14. Hamill OP, Marty E, Neher ME, Sakmann B, Sigworth FJ.
+Improved patch-clamp techniques for high-resolution current
+recording from cells and cell-free membrane patches. Pflugers
+Arch 1981;391:85–100
+15. Khan MA, Gerner P, Wang GK. Amitriptyline for prolonged
+cutaneous analgesia in the rat. Anesthesiology 2002;96:
+109 –16
+16. Simone DA, Nolano M, Johnson T, Wendelschafer-Crabb G,
+Kennedy WR. Intradermal injection of capsaicin in humans
+produces degeneration and subsequent reinnervation of epidermal nerve fibers: correlation with sensory function. J Neurosci
+1998;18:8947–59
+17. Lipsitz SR, Kim K, Zhao L. Analysis of Repeated Categorical Data
+Using Generalized Estimating Equations. Stat Med 1994;13:
+1149 – 63
+18. Cota G, Armstrong CM. Sodium channel gating in clonal
+pituitary cells: the inactivation step is not voltage dependent.
+J Gen Physiol 1989;94:213–32
+19. Hille B. Local anesthetics: hydrophilic and hydrophobic pathways
+for the drug receptor reaction. J Gen Physiol 1977;69: 497–515
+20. Nau C, Wang SY, Strichartz GR, Wang GK. Block of human
+heart hH1 sodium channels by the enantiomers of bupivacaine.
+Anesthesiology 2000;93:1022–33
+21. Nau C, Wang GK. Interactions of local anesthetics with voltagegated Na⫹ channels. J Membr Biol 2004;201:1– 8
+22. Clarkson CW, Hendeghem LM. Mechanism of bupivacaine
+depression of cardiac conduction: fast block of sodium channels
+during the action potential with slow recovery from block
+during diastole. Anesthesiology 1985;62:396 – 405
+
+ANESTHESIA & ANALGESIA
+
+
+----- [PDF page 8 of 9: layout view of the same page] -----
+whereas the complete sensory block by the BLA/                    REFERENCES
+lidocaine/epinephrine mixture lasts for 24 h (Fig. 3;
+                                                                   1. Zhu DY, Bai DL, Tang XC. Recent studies on traditional Chinese
+closed square). Third, trapped BLA may affect the level               medicinal plants. Drug Dev Res 1986;39:147–57
+of Na⫹ channels within the plasma membrane (e.g.,                  2. Rao S, Sikdar SK. Modification of alpha subunit of RIIA sodium
+channel expression or degradation). Finally, the fourth               channels by aconitine. Pflugers Arch 2000;439:349 –55
+                                                                   3. Wang CF, Gerner P, Wang SY, Wang GK. Bulleyaconitine A
+possible explanation is that trapped BLA damages the                  isolated from Aconitum plant displays long-acting local anes-
+skin tissue, including nociceptive nerve fibers; however,             thetic properties in vitro and in vivo. Anesthesiology 2007;107:
+as discussed next, we observed no apparent tissue tox-                82–90
+                                                                   4. Wang SY, Wang GK. Voltage-gated sodium channels as primary
+icity after BLA injection.                                            targets of diverse lipid-soluble neurotoxins. Cell Signal 2003;15: 151–9
+                                                                   5. Friese J, Gleitz J, Gutser UT, Heubach JF, Matthiesen T, Wilffert
+                                                                      B, Selve N. Aconitum sp. alkaloids: the modulation of voltage-
+Potential Tissue Toxicity and Side Effects After Cutaneous            dependent Na⫹ channels, toxicity and antinociceptive proper-
+Injection of BLA as an Adjuvant                                       ties. Eur J Pharmacol 1997;337:165–74
+   Even though cutaneous analgesia lasted for several              6. Ameri A. The effects of Aconitum alkaloids on the central
+                                                                      nervous system. Prog Neurobiol 1998;56:211–35
+days after co-injection of BLA/lidocaine/epinephrine,              7. Murayama M, Ito T, Konno C, Hikino H. Mechanism of
+we observed no tissue damage in the cross-sections of                 analgesic action of mesaconitine. I. Relationship between anal-
+the skin surrounding the injected site. The epidermis,                gesic effect and central monoamines or opiate receptors. Eur
+                                                                      J Pharmacol 1984;101:29 –36
+dermis, and blood vessels all appeared intact (Fig. 6).            8. Wood JN, Boorman JP, Okuse K, Baker MD. Voltage-gated sodium
+Mild lymphocytic perivascular infiltration was noted                  channels and pain pathways. J Neurobiol 2004;61: 55–71
+but inflammation scores were not significantly differ-             9. Nassar MA, Stirling LC, Forlani G, Baker MD, Matthews EA,
+                                                                      Dickenson AH, Wood JN. Nociceptor-specific gene deletion
+ent from the control. Furthermore, the possibility that               reveals a major role for Nav1.7 (PN1) in acute and inflammatory
+BLA exhibited selective toxicity towards peripheral                   pain. Proc Natl Acad Sci U S A 2004;101:12706 –11
+nerve fibers was excluded by PGP 9.5 immunostain-                 10. Jarvis MF, Honore P, Shieh CC, Chapman M, Joshi S, Zhang XF,
+                                                                      Kort M, Carroll W, Marron B, Atkinson R, Thomas J, Liu D,
+ing. The number of peripheral nerve fibers remained                   Krambis M, Liu Y, McGaraughty S, Chu K, Roeloffs R, Zhong C,
+unchanged one day after BLA injection (Fig. 7).                       Mikusa JP, Hernandez G, Gauvin D, Wade C, Zhu C, Pai M,
+   One documented drawback of using BLA and other                     Scanio M, Shi L, Drizin I, Gregg R, Matulenko M, Hakeem A,
+                                                                      Gross M, Johnson M, Marsh K, Wagoner PK, Sullivan JP,
+aconitine-like alkaloids is their narrow therapeutic                  Faltynek CR, Krafte DS. A-803467, a potent and selective Nav1.8
+index.5 However, this shortcoming may become less                     sodium channel blocker, attenuates neuropathic and inflamma-
+serious at lower BLA concentrations. The systemic                     tory pain in the rat. Proc Natl Acad Sci U S A 2007;104:8520 –5
+                                                                  11. Klugbauer N, Lacinova L, Flockerzi V, Hofmann F. Structure
+side effects were minimal in rats when the concentra-                 and functional expression of a new member of the tetrodotoxin-
+tion of BLA injected was ⱕ0.125 mM; all rats behaved                  sensitive voltage-activated sodium channel family from human
+normally during the entire observation period. In                     neuroendocrine cells. EMBO J 1995;14:1084 –90
+                                                                  12. Leffler A, Reiprich A, Mohapatra DP, Nau C. Use-dependent
+addition, we found that subcutaneous co-injection of                  block by lidocaine but not amitriptyline is more pronounced in
+lidocaine and epinephrine also reduced the systemic                   tetrodotoxin (TTX)-Resistant Nav1.8 than in TTX-sensitive Na⫹
+side effects of BLA, probably due to vasoconstriction.                channels. J Pharmacol Exp Ther 2007;320:354 – 64
+                                                                  13. Zhao J, Ziane R, Chatelier A, O’leary M, Chahine M. Lidocaine
+                                                                      promotes the trafficking and functional expression of Nav1.8
+Possible BLA Applications in Infiltration Anesthesia                  sodium channels in mammalian cells. J Neurophysiol 2007;98:
+                                                                      467–77
+   BLA at ⱕ0.125 mM is effective for producing cuta-              14. Hamill OP, Marty E, Neher ME, Sakmann B, Sigworth FJ.
+neous analgesia with minimal adverse effects. Lido-                   Improved patch-clamp techniques for high-resolution current
+caine may be added for rapid on-set in cutaneous                      recording from cells and cell-free membrane patches. Pflugers
+                                                                      Arch 1981;391:85–100
+analgesia, whereas epinephrine may be added to                    15. Khan MA, Gerner P, Wang GK. Amitriptyline for prolonged
+lengthen its duration and/or to reduce BLA dosage                     cutaneous analgesia in the rat. Anesthesiology 2002;96:
+(Fig. 5). Prolonged cutaneous analgesia induced by                    109 –16
+                                                                  16. Simone DA, Nolano M, Johnson T, Wendelschafer-Crabb G,
+BLA as an adjuvant could have important clinical                      Kennedy WR. Intradermal injection of capsaicin in humans
+applications. First, long-lasting cutaneous analgesia                 produces degeneration and subsequent reinnervation of epider-
+may be beneficial for patients with postoperative                     mal nerve fibers: correlation with sensory function. J Neurosci
+                                                                      1998;18:8947–59
+pain.29,30 Second, BLA possesses antiinflammatory                 17. Lipsitz SR, Kim K, Zhao L. Analysis of Repeated Categorical Data
+properties that may have added benefits for patients                  Using Generalized Estimating Equations. Stat Med 1994;13:
+with inflammation after surgery. Third, prolonged                     1149 – 63
+                                                                  18. Cota G, Armstrong CM. Sodium channel gating in clonal
+cutaneous analgesia may also alleviate neuropathic                    pituitary cells: the inactivation step is not voltage dependent.
+pain, which is likely caused by high-frequency dis-                   J Gen Physiol 1989;94:213–32
+charges.31–33 Additional studies using various pain               19. Hille B. Local anesthetics: hydrophilic and hydrophobic pathways
+                                                                      for the drug receptor reaction. J Gen Physiol 1977;69: 497–515
+models will be needed to test these possibilities.                20. Nau C, Wang SY, Strichartz GR, Wang GK. Block of human
+                                                                      heart hH1 sodium channels by the enantiomers of bupivacaine.
+                                                                      Anesthesiology 2000;93:1022–33
+ACKNOWLEDGMENTS                                                   21. Nau C, Wang GK. Interactions of local anesthetics with voltage-
+   The authors thank Mr. Nathanael Hevelone, MPH, Bio-                gated Na⫹ channels. J Membr Biol 2004;201:1– 8
+statistician, Center for Surgery and Public Health, Brigham       22. Clarkson CW, Hendeghem LM. Mechanism of bupivacaine
+                                                                      depression of cardiac conduction: fast block of sodium channels
+and Women’s Hospital, Boston, MA, for help in statistical             during the action potential with slow recovery from block
+analyses.                                                             during diastole. Anesthesiology 1985;62:396 – 405
+
+1404    Bulleyaconitine A for Prolonged Infiltration Anesthesia                                           ANESTHESIA & ANALGESIA
+
+===== [PDF page 9 of 9] =====
+23. Hille B. Modification of gating in voltage-sensitive channels. Ion
+Channels of Excitable Membranes. Sunderland, Massachusetts:
+Sinauer Associates Inc., 2001:635– 62
+24. Khodorova AB, Strichartz GR. The addition of dilute epinephrine produces equieffectiveness of bupivacaine enantiomers for
+cutaneous analgesia in the rat. Anaesth Analg 2000;91:410 – 6
+25. Cummins TR, Howe JR, Waxman SG. Slow closed-state inactivation: a novel mechanism underlying ramp currents in cells
+expressing the hNE/PN1 sodium channel. J Neurosci 1998;18:
+9607–19
+26. Djouhri L, Fang X, Okuse K, Wood JN, Berry CM, Lawson SN.
+The TTX-resistant sodium channel Nav1.8 (SNS/PN3): expression and correlation with membrane properties in rat nociceptive primary afferent neurons. J Physiol 2003;550:739 –52
+27. Vega AV, Espinaosa JL, Lopez-Dominguez AM, Lopez-Santiago
+LF, Navarrete A, Cota G. L-type calcium channel activation
+up-regulates the mRNAs for two different sodium channel
+alpha subunits (Nav1.2 and Nav1.3) in rat pituitary GH3 cells.
+Brain Res Mol Brain Res 2003;116:115–25
+
+28. McEvoy JP. Risks versus benefits of different types of longacting injectable antipsychotics. J Clin Psychiatry 2006;67 (Suppl
+5):15–18
+29. de Jong RH. On the horizon. Local Anesthetics. St. Louis: Mosby
+Yearbook, Inc., 1994:381– 401
+30. Wang GK, Strichartz GR. Therapeutic Na⫹ channel blockers
+beneficial for pain syndromes. Drug Dev Res 2002;54:154 – 8
+31. Devor M, Seltzer Z Pathphysiology of damaged nerves in
+relation to chronic pain. In: Wall PD, Melzack R, eds. Textbook
+of Pain. New York: Churchill Livingston, 1999:129 – 64
+32. Amir R, Argoff CE, Bennett GJ, Cummins TR, Durieux ME,
+Gerner P, Gold MS, Porreca F, Strichartz GR. The role of sodium
+channels in chronic inflammatory and neuropathic pain. J Pain
+2006;7:S1–S29
+33. Priest B, Hunter JC. Voltage-gated sodium channels as molecular targets for neuropathic pain. Drug Dev Res 2006;67:360 –75
+
+ERRATUM
+In the article “Palenosetron Exhibits Unique Molecular Interactions with the 5-HT3 Receptor,” which
+appeared in the August 2008 issue of volume 107 of Anesthesia & Analgesia on pages 469 –78, two of the
+authors’ names were not corrected due to a copyediting error. The authors’ names should have appeared
+as Ed B. Massuda and Edward Rubenstein.
+This error has been corrected in the online version of the article available at www.anesthesia-analgesia.org.
+Rojas C, Stathis M, Thomas AG, Massuda EB, Alt J, Zhang J, Rubenstein E, Sebastiani S, Cantoreggi S,
+Snyder SH, Slusher B. Palenosetron exhibits unique molecular interactions with the 5-HT3 receptor. Anesth
+Analg 2008;107:469 –78
+DOI: 10.1213/01.ane.0000335041.73530.86
+
+Vol. 107, No. 4, October 2008
+
+© 2008 International Anesthesia Research Society
+
+1405
+
+
+----- [PDF page 9 of 9: layout view of the same page] -----
+23. Hille B. Modification of gating in voltage-sensitive channels. Ion   28. McEvoy JP. Risks versus benefits of different types of long-
+    Channels of Excitable Membranes. Sunderland, Massachusetts:              acting injectable antipsychotics. J Clin Psychiatry 2006;67 (Suppl
+    Sinauer Associates Inc., 2001:635– 62                                    5):15–18
+24. Khodorova AB, Strichartz GR. The addition of dilute epineph-         29. de Jong RH. On the horizon. Local Anesthetics. St. Louis: Mosby
+    rine produces equieffectiveness of bupivacaine enantiomers for           Yearbook, Inc., 1994:381– 401
+    cutaneous analgesia in the rat. Anaesth Analg 2000;91:410 – 6        30. Wang GK, Strichartz GR. Therapeutic Na⫹ channel blockers
+25. Cummins TR, Howe JR, Waxman SG. Slow closed-state inacti-                beneficial for pain syndromes. Drug Dev Res 2002;54:154 – 8
+    vation: a novel mechanism underlying ramp currents in cells          31. Devor M, Seltzer Z Pathphysiology of damaged nerves in
+    expressing the hNE/PN1 sodium channel. J Neurosci 1998;18:               relation to chronic pain. In: Wall PD, Melzack R, eds. Textbook
+    9607–19
+                                                                             of Pain. New York: Churchill Livingston, 1999:129 – 64
+26. Djouhri L, Fang X, Okuse K, Wood JN, Berry CM, Lawson SN.
+                                                                         32. Amir R, Argoff CE, Bennett GJ, Cummins TR, Durieux ME,
+    The TTX-resistant sodium channel Nav1.8 (SNS/PN3): expres-
+    sion and correlation with membrane properties in rat nocicep-            Gerner P, Gold MS, Porreca F, Strichartz GR. The role of sodium
+    tive primary afferent neurons. J Physiol 2003;550:739 –52                channels in chronic inflammatory and neuropathic pain. J Pain
+27. Vega AV, Espinaosa JL, Lopez-Dominguez AM, Lopez-Santiago                2006;7:S1–S29
+    LF, Navarrete A, Cota G. L-type calcium channel activation           33. Priest B, Hunter JC. Voltage-gated sodium channels as molecu-
+    up-regulates the mRNAs for two different sodium channel                  lar targets for neuropathic pain. Drug Dev Res 2006;67:360 –75
+    alpha subunits (Nav1.2 and Nav1.3) in rat pituitary GH3 cells.
+    Brain Res Mol Brain Res 2003;116:115–25
+
+
+
+
+   ERRATUM
+     In the article “Palenosetron Exhibits Unique Molecular Interactions with the 5-HT3 Receptor,” which
+   appeared in the August 2008 issue of volume 107 of Anesthesia & Analgesia on pages 469 –78, two of the
+   authors’ names were not corrected due to a copyediting error. The authors’ names should have appeared
+   as Ed B. Massuda and Edward Rubenstein.
+   This error has been corrected in the online version of the article available at www.anesthesia-analgesia.org.
+   Rojas C, Stathis M, Thomas AG, Massuda EB, Alt J, Zhang J, Rubenstein E, Sebastiani S, Cantoreggi S,
+   Snyder SH, Slusher B. Palenosetron exhibits unique molecular interactions with the 5-HT3 receptor. Anesth
+   Analg 2008;107:469 –78
+   DOI: 10.1213/01.ane.0000335041.73530.86
+
+
+
+
+Vol. 107, No. 4, October 2008                                                            © 2008 International Anesthesia Research Society   1405
+

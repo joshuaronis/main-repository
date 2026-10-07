@@ -1,0 +1,1310 @@
+SOURCE FILE: S-686-18 - Mülkoğlu 2020 - Notalgia paresthetica clinical features radiological evaluation and a novel therapeutic option.pdf
+PAGE NUMBERS: "PDF page N" counts pages of this PDF from 1; it is not the journal page number.
+Each page appears twice: first in reading order (columns unwrapped, best for quotes), then as a pdftotext -layout view (best for tables).
+
+===== [PDF page 1 of 8] =====
+Mülkoğlu and Nacır BMC Neurology
+(2020) 20:191
+https://doi.org/10.1186/s12883-020-01773-6
+
+RESEARCH ARTICLE
+
+Open Access
+
+Notalgia paresthetica: clinical features,
+radiological evaluation, and a novel
+therapeutic option
+Cevriye Mülkoğlu*
+
+and Barış Nacır
+
+Abstract
+Background/objective: Notalgia paresthetica (NP) is a sensory neuropathy characterized by localized pruritus and
+pain, presenting with or without a well-circumscribed hyperpigmented patch in the upper back. Abnormal
+sensations, such as burning, numbness, and paresthesia are often present in patients with NP. In this study, we
+clinically and radiologically analyzed patients with NP. The literature contains studies describing lidocaine
+treatments involving intravenous and topical applications for NP. We also investigated the effect of intradermal
+lidocaine injection on patients with NP.
+Methods: A total of 80 patients (45 patients with NP and 35 suffering from dorsalgia without NP) were included in
+the study. The age, gender and body mass index (BMI) of the patients, and the characteristics of their symptoms
+were recorded. The severity of pain and pruritus was assessed by the Visual Analog Scale (VAS). Radiography and
+magnetic resonance imaging of the spine were performed. In this study, we intradermally administered lidocaine
+diluted with saline into the upper back over three sessions. 1 cc 2% lidocaine was diluted with 5 cc 0.9% saline, and
+a total of 6 cc lidocaine mixture was obtained. The injection was performed locally at 1-cm intervals around the
+hyperpigmented patch and segmentally along the C2-T6 spinous processes. These patients were called for a followup at the second and fourth weeks and third month.
+Results: There was no statistically significant difference between the two groups in terms of age, BMI, VAS-pain
+score, and duration of symptoms (p > 0.05 for all). Forty-six cervical and/or thoracic degenerative changes or
+herniated nucleus pulposus (HNP) were detected in patients with NP. There was a significantly higher number of
+HNP at the C6–7 segment and cervical degenerative changes in the NP group (p < 0.05). The VAS-pain and VASpruritus scores were significantly decreased at all follow-up sessions, and improvement was sustained by lidocaine
+up to the third month.
+Conclusion: Cervical degenerative changes and HNP of the C6–7 segment seem to be contributing factors for NP.
+Local lidocaine can be effective for pain relief and pruritus in NP.
+Keywords: Notalgia paresthetica, Dorsalgia, Itching, Lidocaine, Spine
+
+* Correspondence: drckaraca@hotmail.com
+Department of Physical Medicine and Rehabilitation, Health Sciences
+University Ankara Training and Research Hospital, Ulucanlar street, Ankara,
+Turkey
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+
+
+----- [PDF page 1 of 8: layout view of the same page] -----
+Mülkoğlu and Nacır BMC Neurology       (2020) 20:191
+https://doi.org/10.1186/s12883-020-01773-6
+
+
+
+
+ RESEARCH ARTICLE                                                                                                                                    Open Access
+
+Notalgia paresthetica: clinical features,
+radiological evaluation, and a novel
+therapeutic option
+Cevriye Mülkoğlu*            and Barış Nacır
+
+
+  Abstract
+  Background/objective: Notalgia paresthetica (NP) is a sensory neuropathy characterized by localized pruritus and
+  pain, presenting with or without a well-circumscribed hyperpigmented patch in the upper back. Abnormal
+  sensations, such as burning, numbness, and paresthesia are often present in patients with NP. In this study, we
+  clinically and radiologically analyzed patients with NP. The literature contains studies describing lidocaine
+  treatments involving intravenous and topical applications for NP. We also investigated the effect of intradermal
+  lidocaine injection on patients with NP.
+  Methods: A total of 80 patients (45 patients with NP and 35 suffering from dorsalgia without NP) were included in
+  the study. The age, gender and body mass index (BMI) of the patients, and the characteristics of their symptoms
+  were recorded. The severity of pain and pruritus was assessed by the Visual Analog Scale (VAS). Radiography and
+  magnetic resonance imaging of the spine were performed. In this study, we intradermally administered lidocaine
+  diluted with saline into the upper back over three sessions. 1 cc 2% lidocaine was diluted with 5 cc 0.9% saline, and
+  a total of 6 cc lidocaine mixture was obtained. The injection was performed locally at 1-cm intervals around the
+  hyperpigmented patch and segmentally along the C2-T6 spinous processes. These patients were called for a follow-
+  up at the second and fourth weeks and third month.
+  Results: There was no statistically significant difference between the two groups in terms of age, BMI, VAS-pain
+  score, and duration of symptoms (p > 0.05 for all). Forty-six cervical and/or thoracic degenerative changes or
+  herniated nucleus pulposus (HNP) were detected in patients with NP. There was a significantly higher number of
+  HNP at the C6–7 segment and cervical degenerative changes in the NP group (p < 0.05). The VAS-pain and VAS-
+  pruritus scores were significantly decreased at all follow-up sessions, and improvement was sustained by lidocaine
+  up to the third month.
+  Conclusion: Cervical degenerative changes and HNP of the C6–7 segment seem to be contributing factors for NP.
+  Local lidocaine can be effective for pain relief and pruritus in NP.
+  Keywords: Notalgia paresthetica, Dorsalgia, Itching, Lidocaine, Spine
+
+
+
+
+* Correspondence: drckaraca@hotmail.com
+Department of Physical Medicine and Rehabilitation, Health Sciences
+University Ankara Training and Research Hospital, Ulucanlar street, Ankara,
+Turkey
+
+                                         © The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+                                         which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+                                         appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+                                         changes were made. The images or other third party material in this article are included in the article's Creative Commons
+                                         licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+                                         licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+                                         permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+                                         The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+                                         data made available in this article, unless otherwise stated in a credit line to the data.
+
+===== [PDF page 2 of 8] =====
+Mülkoğlu and Nacır BMC Neurology
+
+(2020) 20:191
+
+Background
+Notalgia paresthetica (NP) is characterized by localized
+chronic pruritus medial or inferior to the scapulae with
+or without an associated hyperpigmented macule. It is
+believed that NP is relatively common but perhaps
+underdiagnosed [1]. NP can exacerbate from time to
+time and lasts for months to years. It is widely accepted
+that NP is a sensory neuropathy which occurs as a result
+of the alteration of the cutaneous branches of the posterior rami, especially the upper branches of the T2-T6
+spinal nerves [2, 3].
+Although the etiology of NP has not yet been completely elucidated, degenerative changes of the cervical
+spine are considered to be associated with its pathogenesis
+[4, 5]. NP mostly occurs in women aged 54 to 62 years [6].
+The condition is usually unilateral and rarely bilateral.
+Clinical symptoms in NP vary, including pain, burning,
+coldness, pruritus, numbness, tingling, paresthesia, allodynia, hyperalgesia, and hypoesthesia. Hypo/hyperpigmented
+well-circumscribed patches, macules, and hyperkeratosis
+may be observed secondary to scratching on the midupper portion of the back associated with the distribution
+of the T2-T6 dermatome [3, 7] (Fig. 1). Most studies suggested a thoracic polyradiculopathy due to spinal nerve
+entrapment is the primary etiology for pruritus. Another
+attributed factor is the anatomical right angle of sensory
+nerve fibers penetration through the multifidus muscle
+
+Fig. 1 The arrow shows unilateral hyperpigmented macule in the
+medio-inferior scapulae
+
+Page 2 of 8
+
+[3]. Muscle strain and spasm can cause these nerve fibers
+to impingement.
+There are no primary cutaneous lesions in NP, these lesions are just secondary to chronic scratching and rubbing
+[8, 9]. Although the occurrence of NP is not rare, most
+cases are overlooked; therefore, it is often undiagnosed.
+The studies performed to date provide only limited data
+concerning the clinical and radiological findings of NP.
+The treatment of NP is multidisciplinary, including
+topical agents (intralesional steroids, botulinum toxin A,
+capsaicin, and lidocaine), systemic drug treatments
+(gabapentin, oxcarbazepine, and amitriptyline) and physical therapy methods (TENS, cervical traction, exercise,
+and manipulation) [2, 3, 10]. In the literature, there are
+studies describing lidocaine treatments for NP. Cruz
+et al. reported a 39-years-old woman diagnosed with NP
+and treated by the daily application of topical lidocaine
+patches on the symptomatic region and exercises (postural corrective exercises, scapular muscle strengthening,
+and pectoral muscle stretching). The patient was mentioned that if she stopped using the lidocaine patches,
+the symptoms reappeared, at 2 weeks after the first
+examination. Three months later, she presented with
+complete symptom relief without the need for topical
+lidocaine treatment. The patient was symptom-free at
+the seventh-month follow-up [11]. Chtompel et al. presented a 50-year-old female with spinal cord injury. The
+patient was diagnosed with NP and treated with intravenous lidocaine for the management of NP. Three infusions of lidocaine at two-week intervals at a dose of 1
+mg/kg bolus followed by 4 mg/kg infusion over 1 h were
+administered. Following the first two infusions, neuropathic pain was not relieved; however, significant relief
+of pruritus was observed [2]. We also previously reported a 73-year-old male case with NP treated with
+therapeutic lidocaine injections. In that case, we locally
+administered lidocaine into the upper back to relieve
+pain and obtained successful results related to neuropathic back pain. At the second-week follow-up, the
+VAS score of the patient was observed to have decreased
+from 7 to 1 [12].
+The primary aim of this study was to investigate the
+clinical findings and localization of damage radiologically
+in patients with NP. Secondly, we aimed to evaluate the
+effect of therapeutic lidocaine injections on NP patients.
+
+Methods
+In this cross-sectional study, a total of 80 patients who
+presented to our outpatient clinic between August 2018
+and June 2019 were included in this study. Forty-five patients diagnosed with NP were recruited for the NP group
+and 35 who had dorsalgia without NP were included in
+the control group. Patients under 18 years of age, those
+with chronic inflammatory, infectious, neurological,
+
+
+----- [PDF page 2 of 8: layout view of the same page] -----
+Mülkoğlu and Nacır BMC Neurology       (2020) 20:191                                                               Page 2 of 8
+
+
+
+
+Background                                                        [3]. Muscle strain and spasm can cause these nerve fibers
+Notalgia paresthetica (NP) is characterized by localized          to impingement.
+chronic pruritus medial or inferior to the scapulae with             There are no primary cutaneous lesions in NP, these le-
+or without an associated hyperpigmented macule. It is             sions are just secondary to chronic scratching and rubbing
+believed that NP is relatively common but perhaps                 [8, 9]. Although the occurrence of NP is not rare, most
+underdiagnosed [1]. NP can exacerbate from time to                cases are overlooked; therefore, it is often undiagnosed.
+time and lasts for months to years. It is widely accepted         The studies performed to date provide only limited data
+that NP is a sensory neuropathy which occurs as a result          concerning the clinical and radiological findings of NP.
+of the alteration of the cutaneous branches of the poster-           The treatment of NP is multidisciplinary, including
+ior rami, especially the upper branches of the T2-T6              topical agents (intralesional steroids, botulinum toxin A,
+spinal nerves [2, 3].                                             capsaicin, and lidocaine), systemic drug treatments
+  Although the etiology of NP has not yet been com-               (gabapentin, oxcarbazepine, and amitriptyline) and phys-
+pletely elucidated, degenerative changes of the cervical          ical therapy methods (TENS, cervical traction, exercise,
+spine are considered to be associated with its pathogenesis       and manipulation) [2, 3, 10]. In the literature, there are
+[4, 5]. NP mostly occurs in women aged 54 to 62 years [6].        studies describing lidocaine treatments for NP. Cruz
+The condition is usually unilateral and rarely bilateral.         et al. reported a 39-years-old woman diagnosed with NP
+Clinical symptoms in NP vary, including pain, burning,            and treated by the daily application of topical lidocaine
+coldness, pruritus, numbness, tingling, paresthesia, allody-      patches on the symptomatic region and exercises (pos-
+nia, hyperalgesia, and hypoesthesia. Hypo/hyperpigmented          tural corrective exercises, scapular muscle strengthening,
+well-circumscribed patches, macules, and hyperkeratosis           and pectoral muscle stretching). The patient was men-
+may be observed secondary to scratching on the mid-               tioned that if she stopped using the lidocaine patches,
+upper portion of the back associated with the distribution        the symptoms reappeared, at 2 weeks after the first
+of the T2-T6 dermatome [3, 7] (Fig. 1). Most studies sug-         examination. Three months later, she presented with
+gested a thoracic polyradiculopathy due to spinal nerve           complete symptom relief without the need for topical
+entrapment is the primary etiology for pruritus. Another          lidocaine treatment. The patient was symptom-free at
+attributed factor is the anatomical right angle of sensory        the seventh-month follow-up [11]. Chtompel et al. pre-
+nerve fibers penetration through the multifidus muscle            sented a 50-year-old female with spinal cord injury. The
+                                                                  patient was diagnosed with NP and treated with intra-
+                                                                  venous lidocaine for the management of NP. Three infu-
+                                                                  sions of lidocaine at two-week intervals at a dose of 1
+                                                                  mg/kg bolus followed by 4 mg/kg infusion over 1 h were
+                                                                  administered. Following the first two infusions, neuro-
+                                                                  pathic pain was not relieved; however, significant relief
+                                                                  of pruritus was observed [2]. We also previously re-
+                                                                  ported a 73-year-old male case with NP treated with
+                                                                  therapeutic lidocaine injections. In that case, we locally
+                                                                  administered lidocaine into the upper back to relieve
+                                                                  pain and obtained successful results related to neuro-
+                                                                  pathic back pain. At the second-week follow-up, the
+                                                                  VAS score of the patient was observed to have decreased
+                                                                  from 7 to 1 [12].
+                                                                     The primary aim of this study was to investigate the
+                                                                  clinical findings and localization of damage radiologically
+                                                                  in patients with NP. Secondly, we aimed to evaluate the
+                                                                  effect of therapeutic lidocaine injections on NP patients.
+
+                                                                  Methods
+                                                                  In this cross-sectional study, a total of 80 patients who
+                                                                  presented to our outpatient clinic between August 2018
+                                                                  and June 2019 were included in this study. Forty-five pa-
+                                                                  tients diagnosed with NP were recruited for the NP group
+                                                                  and 35 who had dorsalgia without NP were included in
+ Fig. 1 The arrow shows unilateral hyperpigmented macule in the
+                                                                  the control group. Patients under 18 years of age, those
+ medio-inferior scapulae
+                                                                  with chronic inflammatory, infectious, neurological,
+
+===== [PDF page 3 of 8] =====
+Mülkoğlu and Nacır BMC Neurology
+
+(2020) 20:191
+
+psychiatric, rheumatologic and malignant diseases, local
+or diffuse other skin diseases, and those with history of
+trauma to the cervical and/or thoracic spine were
+excluded.
+The study was approved by the local ethics committee
+and was conducted in accordance with the ethical standards specified in the 1964 Declaration of Helsinki and
+its later amendments. The patients were informed by the
+researchers about the aim of the study and the confidentiality of their personal information. The informed consent was obtained from all participants.
+The patients’ age, gender, weight and height were recorded. The body mass index (BMI) was calculated in
+kg/cm2. The characteristics and duration of the symptoms and dermatomal localization of the lesions were
+noted. The presence of spinal trauma history was questioned, and the patients with such history were not included in the study. The visual analogue scale (VAS) was
+used to assess the severity of current pain and pruritus
+based on a chart numbered from 0 (no symptoms) to 10
+(maximum severity). All patients were queried for the
+localization of the complaints, including pruritus, pain,
+hyperpigmented skin lesions, and paresthesia. The diagnosis of NP was made by the same clinician based on
+the physical examination findings and medical history.
+The participants also underwent a neurologic examination of the spine and the extremities for motor and sensorial functions. The radiographic assessment with
+anteroposterior/lateral X-rays and magnetic resonance
+imaging (MRI) of the cervical and thoracic spine was
+completed for all participants, and the results were interpreted by another researcher blinded to the physical
+examination findings of the patients. The MRI findings
+of the cervical and thoracic spine, such as herniated nucleus pulposus (HNP), spinal stenosis, and degenerative
+changes were noted. After the diagnosis of NP and physical examination, therapeutic lidocaine injections were
+planned for the 22 patients in the NP group. Following
+the patients’ informed written consent, the clothes on
+the upper part of the body were removed. The patients
+were placed on the examination table in the prone position and asked to clench both hands and put their forehead on their hands and relax. The spinous processes
+between C2 and T6 and the right-left 2 cm lateral of
+these processes were marked with a pencil. Skin antisepsis was provided locally with chlorhexidine alcohol.
+Lidocaine solution diluted with saline was prepared. For
+this, 2% lidocaine ampoule and 0.9% saline were used. 1
+cc lidocaine was diluted with 5 cc saline, and a total of 6
+cc mixture was obtained. The diluted lidocaine mixture
+was intradermally administered at a dose of approximately 0.2–0.3 cc from each marked point. Small bumps
+appeared on the skin. The injection was performed locally at 1-cm intervals around the hyperpigmented patch
+
+Page 3 of 8
+
+and segmentally along the C2-T6 spinous processes
+(Fig. 2). After the first application, the injections were repeated at the second and fourth weeks, taking the total
+number of sessions to three. Topical capsaicin was prescribed to the remaining patients in the NP group. All of
+the patients were called for a follow-up at the second
+and fourth weeks and third month. The VAS-pain and
+VAS-pruritus scores were assessed at these visits.
+Statistical analysis
+
+Statistical analyses were conducted using the Statistical
+Package for the Social Sciences (SSPS) software (SPPS
+Inc., Chicago, USA), version 21.0. The Shapiro-Wilk test
+was used to evaluate the normality of data distribution.
+The normally distributed data were presented as mean ±
+standard deviation (SD) and for the data without normal
+distribution, the median (minimum-maximum) and
+interquartile range (IQR) values were used. The categorical variables were given as numbers (n) and frequency
+rates (%). For the comparison of the paired groups, the
+independent samples t-test (normal distribution) and the
+Mann-Whitney U test (non-normal distribution) were
+used for the quantitative data. For non-normally distributed variables, the Friedman’s test was conducted. The
+relationship between the non-normally distributed variables was assessed with the Spearman correlation analysis. The Pearson chi-square test was used to test the
+differences in rates. p < 0.05 was considered to be statistically significant.
+
+Results
+In this study, a total of 80 patients (45 with NP and 35
+suffering from dorsalgia without NP) were assessed. The
+majority of the patients in the NP group were female
+(n = 39; 87%). In the control group, there were 21 (60%)
+females and 14 (40%) males. The number of the females
+
+Fig. 2 Lidocaine mixture diluted with saline was intradermally
+administered at 1-cm intervals around the hyperpigmented patch
+and along the C2-T6 spinous processes
+
+
+----- [PDF page 3 of 8: layout view of the same page] -----
+Mülkoğlu and Nacır BMC Neurology   (2020) 20:191                                                                      Page 3 of 8
+
+
+
+
+psychiatric, rheumatologic and malignant diseases, local      and segmentally along the C2-T6 spinous processes
+or diffuse other skin diseases, and those with history of     (Fig. 2). After the first application, the injections were re-
+trauma to the cervical and/or thoracic spine were             peated at the second and fourth weeks, taking the total
+excluded.                                                     number of sessions to three. Topical capsaicin was pre-
+   The study was approved by the local ethics committee       scribed to the remaining patients in the NP group. All of
+and was conducted in accordance with the ethical stan-        the patients were called for a follow-up at the second
+dards specified in the 1964 Declaration of Helsinki and       and fourth weeks and third month. The VAS-pain and
+its later amendments. The patients were informed by the       VAS-pruritus scores were assessed at these visits.
+researchers about the aim of the study and the confiden-
+tiality of their personal information. The informed con-      Statistical analysis
+sent was obtained from all participants.                      Statistical analyses were conducted using the Statistical
+   The patients’ age, gender, weight and height were re-      Package for the Social Sciences (SSPS) software (SPPS
+corded. The body mass index (BMI) was calculated in           Inc., Chicago, USA), version 21.0. The Shapiro-Wilk test
+kg/cm2. The characteristics and duration of the symp-         was used to evaluate the normality of data distribution.
+toms and dermatomal localization of the lesions were          The normally distributed data were presented as mean ±
+noted. The presence of spinal trauma history was ques-        standard deviation (SD) and for the data without normal
+tioned, and the patients with such history were not in-       distribution, the median (minimum-maximum) and
+cluded in the study. The visual analogue scale (VAS) was      interquartile range (IQR) values were used. The categor-
+used to assess the severity of current pain and pruritus      ical variables were given as numbers (n) and frequency
+based on a chart numbered from 0 (no symptoms) to 10          rates (%). For the comparison of the paired groups, the
+(maximum severity). All patients were queried for the         independent samples t-test (normal distribution) and the
+localization of the complaints, including pruritus, pain,     Mann-Whitney U test (non-normal distribution) were
+hyperpigmented skin lesions, and paresthesia. The diag-       used for the quantitative data. For non-normally distrib-
+nosis of NP was made by the same clinician based on           uted variables, the Friedman’s test was conducted. The
+the physical examination findings and medical history.        relationship between the non-normally distributed vari-
+The participants also underwent a neurologic examin-          ables was assessed with the Spearman correlation ana-
+ation of the spine and the extremities for motor and sen-     lysis. The Pearson chi-square test was used to test the
+sorial functions. The radiographic assessment with            differences in rates. p < 0.05 was considered to be statis-
+anteroposterior/lateral X-rays and magnetic resonance         tically significant.
+imaging (MRI) of the cervical and thoracic spine was
+completed for all participants, and the results were inter-   Results
+preted by another researcher blinded to the physical          In this study, a total of 80 patients (45 with NP and 35
+examination findings of the patients. The MRI findings        suffering from dorsalgia without NP) were assessed. The
+of the cervical and thoracic spine, such as herniated nu-     majority of the patients in the NP group were female
+cleus pulposus (HNP), spinal stenosis, and degenerative       (n = 39; 87%). In the control group, there were 21 (60%)
+changes were noted. After the diagnosis of NP and phys-       females and 14 (40%) males. The number of the females
+ical examination, therapeutic lidocaine injections were
+planned for the 22 patients in the NP group. Following
+the patients’ informed written consent, the clothes on
+the upper part of the body were removed. The patients
+were placed on the examination table in the prone pos-
+ition and asked to clench both hands and put their fore-
+head on their hands and relax. The spinous processes
+between C2 and T6 and the right-left 2 cm lateral of
+these processes were marked with a pencil. Skin antisep-
+sis was provided locally with chlorhexidine alcohol.
+Lidocaine solution diluted with saline was prepared. For
+this, 2% lidocaine ampoule and 0.9% saline were used. 1
+cc lidocaine was diluted with 5 cc saline, and a total of 6
+cc mixture was obtained. The diluted lidocaine mixture
+was intradermally administered at a dose of approxi-
+mately 0.2–0.3 cc from each marked point. Small bumps          Fig. 2 Lidocaine mixture diluted with saline was intradermally
+                                                               administered at 1-cm intervals around the hyperpigmented patch
+appeared on the skin. The injection was performed lo-
+                                                               and along the C2-T6 spinous processes
+cally at 1-cm intervals around the hyperpigmented patch
+
+===== [PDF page 4 of 8] =====
+Mülkoğlu and Nacır BMC Neurology
+
+(2020) 20:191
+
+Page 4 of 8
+
+in the NP group was significantly higher than those in
+the control group (p < 0.001). The mean age of the patients was 54.7 ± 12.2 (range 27–77) years for the NP
+group and 56.8 ± 10.4 years for the control group. The
+study groups were similar in terms of age, BMI, VASpain score, and duration of symptoms (p > 0.05 for all).
+The characteristic of pain was burning in 22 patients
+(49%), pricking in 14 patients (31%), tingling in seven
+patients (16%), and coldness in two patients (4%) in the
+NP group. The complaints were localized around the right
+scapulae in 18 patients (40%), on the left side in 24 patients (53%) and bilateral in three patients (7%). Intense
+itching was present on the mid-upper back in all of the
+patients. Hypoesthesia was present in 18 patients (40%)
+and hyperesthesia in three (7%), while 20 (44%) patients
+described paresthesia in the affected area. A typical hyperpigmented unilateral patch around the medio-inferior
+scapulae was observed in 34 (76%) patients (Fig. 1). Only
+three patients had bilateral hyperchromic patches. Eight
+patients (18%) had no skin lesions on the back. The demographic and clinical characteristics of the participants are
+summarized in Table 1.
+We did not find any statistically significant correlation
+between BMI and the duration of NP (r = 0.1, p = 0.38).
+
+There was also no statistically significant correlation between gender and VAS-pain scores (r = − 0.2, p = 0.12)
+in the NP group.
+The radiological evaluation revealed 46 spinal pathologies, such as degenerative changes of the vertebrae,
+spinal stenosis, and HNP in 39 patients (87%) in the NP
+group. Ten of these patients had degenerative changes
+and spinal stenosis in the cervical spine and nine had degenerative changes or HNP in the thoracic segments.
+There were a total of 32 HNPs on the cervical and thoracic spine. Thirteen of 32 HNP were on the C6–7 segment (29%). There were nine HNP on the C5–6
+segment (20%). The HNP of the thoracic segments were
+present in only five patients. In the control group, 21 patients had a total of 25 cervical and thoracic spinal pathologies. The number of HNP on the C6–7 segment was
+significantly higher in the NP group than in the control
+group. The remaining radiological findings of the control
+group were similar to the NP group (p > 0.05). The
+radiological findings of the participants are shown in
+Table 2.
+We planned local lidocaine injections for 22 patients.
+Since 2 patients did not come to the second injection,
+they were excluded from the study and the evaluation
+
+Table 1 Clinical and demographic characteristics of the patients with NP and in control group
+NP group (n:45)
+
+Control group (n:35)
+
+P value
+
+39 (87%)
+
+21 (60%)
+
+< 0.001
+
+Male (n) (%)
+
+6 (13%)
+
+14 (40%)
+
+Age (years) (mean ± SD) (min-max)
+
+54.7 ± 12.2 (27–77)
+
+56.8 ± 10.4
+
+0.64
+
+Female (n)(%)
+
+2
+
+BMI (kg/m ) (mean ± SD)
+
+29.9 ± 1.8
+
+27.8 ± 2.0
+
+0.39
+
+Duration of Symptoms (months)(Median) (min-max)(IQR)
+
+12 (1–240) (33)
+
+10 (2–190) (29)
+
+0.28
+
+VAS-pain (Median) (min-max)(IQR)
+
+8 (5–10) (2)
+
+7 (3–9)(2)
+
+0.55
+
+VAS-pruritus (Median) (min-max)(IQR)
+
+6 (0–9) (7)
+
+–
+–
+
+Dermatomal Localization (n)(%)
+Right
+
+18 (40%)
+
+Left
+
+24 (53%)
+
+Bilateral
+
+3 (7%)
+–
+
+Clinical findings (n)(%)
+Pruritus
+
+45 (100%)
+
+Burning
+
+22 (49%)
+
+Paresthesia
+
+20 (44%)
+
+Hypoesthesia
+
+18 (40%)
+
+Prickling
+
+14 (31%)
+
+Tingling
+
+7 (16%)
+
+Hyperesthesia
+
+3 (7%)
+
+Coldness
+
+2 (4%)
+
+Bold p values show significance. Statistical significance was set at p < 0.05
+NP Notalgia paresthetica, n Number, BMI Body mass index, VAS Visual analogue scale, SD Standard deviation, IQR Interquartile range
+
+
+----- [PDF page 4 of 8: layout view of the same page] -----
+Mülkoğlu and Nacır BMC Neurology             (2020) 20:191                                                                              Page 4 of 8
+
+
+
+
+in the NP group was significantly higher than those in                            There was also no statistically significant correlation be-
+the control group (p < 0.001). The mean age of the pa-                            tween gender and VAS-pain scores (r = − 0.2, p = 0.12)
+tients was 54.7 ± 12.2 (range 27–77) years for the NP                             in the NP group.
+group and 56.8 ± 10.4 years for the control group. The                               The radiological evaluation revealed 46 spinal patholo-
+study groups were similar in terms of age, BMI, VAS-                              gies, such as degenerative changes of the vertebrae,
+pain score, and duration of symptoms (p > 0.05 for all).                          spinal stenosis, and HNP in 39 patients (87%) in the NP
+   The characteristic of pain was burning in 22 patients                          group. Ten of these patients had degenerative changes
+(49%), pricking in 14 patients (31%), tingling in seven                           and spinal stenosis in the cervical spine and nine had de-
+patients (16%), and coldness in two patients (4%) in the                          generative changes or HNP in the thoracic segments.
+NP group. The complaints were localized around the right                          There were a total of 32 HNPs on the cervical and thor-
+scapulae in 18 patients (40%), on the left side in 24 pa-                         acic spine. Thirteen of 32 HNP were on the C6–7 seg-
+tients (53%) and bilateral in three patients (7%). Intense                        ment (29%). There were nine HNP on the C5–6
+itching was present on the mid-upper back in all of the                           segment (20%). The HNP of the thoracic segments were
+patients. Hypoesthesia was present in 18 patients (40%)                           present in only five patients. In the control group, 21 pa-
+and hyperesthesia in three (7%), while 20 (44%) patients                          tients had a total of 25 cervical and thoracic spinal path-
+described paresthesia in the affected area. A typical hyper-                      ologies. The number of HNP on the C6–7 segment was
+pigmented unilateral patch around the medio-inferior                              significantly higher in the NP group than in the control
+scapulae was observed in 34 (76%) patients (Fig. 1). Only                         group. The remaining radiological findings of the control
+three patients had bilateral hyperchromic patches. Eight                          group were similar to the NP group (p > 0.05). The
+patients (18%) had no skin lesions on the back. The demo-                         radiological findings of the participants are shown in
+graphic and clinical characteristics of the participants are                      Table 2.
+summarized in Table 1.                                                               We planned local lidocaine injections for 22 patients.
+   We did not find any statistically significant correlation                      Since 2 patients did not come to the second injection,
+between BMI and the duration of NP (r = 0.1, p = 0.38).                           they were excluded from the study and the evaluation
+
+
+
+Table 1 Clinical and demographic characteristics of the patients with NP and in control group
+                                                                             NP group (n:45)                     Control group (n:35)      P value
+Female (n)(%)                                                                39 (87%)                            21 (60%)                  < 0.001
+Male (n) (%)                                                                 6 (13%)                             14 (40%)
+Age (years) (mean ± SD) (min-max)                                            54.7 ± 12.2 (27–77)                 56.8 ± 10.4                 0.64
+              2
+BMI (kg/m ) (mean ± SD)                                                      29.9 ± 1.8                          27.8 ± 2.0                  0.39
+Duration of Symptoms (months)(Median) (min-max)(IQR)                         12 (1–240) (33)                     10 (2–190) (29)             0.28
+VAS-pain (Median) (min-max)(IQR)                                             8 (5–10) (2)                        7 (3–9)(2)                  0.55
+VAS-pruritus (Median) (min-max)(IQR)                                         6 (0–9) (7)                         –
+Dermatomal Localization (n)(%)                                                                                   –
+  Right                                                                      18 (40%)
+  Left                                                                       24 (53%)
+  Bilateral                                                                  3 (7%)
+Clinical findings (n)(%)                                                                                         –
+  Pruritus                                                                   45 (100%)
+  Burning                                                                    22 (49%)
+  Paresthesia                                                                20 (44%)
+  Hypoesthesia                                                               18 (40%)
+  Prickling                                                                  14 (31%)
+  Tingling                                                                   7 (16%)
+  Hyperesthesia                                                              3 (7%)
+  Coldness                                                                   2 (4%)
+Bold p values show significance. Statistical significance was set at p < 0.05
+NP Notalgia paresthetica, n Number, BMI Body mass index, VAS Visual analogue scale, SD Standard deviation, IQR Interquartile range
+
+===== [PDF page 5 of 8] =====
+Mülkoğlu and Nacır BMC Neurology
+
+(2020) 20:191
+
+Page 5 of 8
+
+Table 2 The cervical and thoracic radiological findings of the participants
+Spinal pathology
+
+NP group (n:39)
+
+Control group (n:21)
+
+P value
+
+C3–4 HNP, C4–5 HNP (n)(%)
+
+5 (11%)
+
+3 (9%)
+
+0.19
+
+C5–6 HNP (n)(%)
+
+9 (20%)
+
+5 (14%)
+
+0.06
+
+C6–7 HNP (n)(%)
+
+13 (29%)
+
+6 (17%)
+
+0.02
+
+Cervical degenerative changes, spinal stenosis (n)(%)
+
+10 (22%)
+
+4 (11%)
+
+0.04
+
+Thoracic HNP
+
+5 (11%)
+
+4 (11%)
+
+0.70
+
+Thoracic degenerative changes (n)(%)
+
+4 (9%)
+
+3 (9%)
+
+0.85
+
+NP Notalgia paresthetica, n Number, HNP Herniated nucleus pulposus; Bold p values show significance. Statistical significance was set at p < 0.05
+
+was made on 20 patients. After the third session of lidocaine injection, the VAS-pain and VAS-pruritus scores
+were significantly decreased at the second- and fourthweek follow-up. We did not observe any adverse effect
+due to lidocaine at the follow-up visits at the second and
+fourth weeks. The relief of pain and pruritus continued
+for up to 3 months. The results of lidocaine treatment
+are summarized in Table 3.
+
+Discussion
+NP was first described by a Russian neurologist Astwazaturow in 1934. The term notalgia is derived from
+notos (back) and algos (pain). NP is a sensory neuropathy that depends on the alteration of the dorsal cutaneous sensory nerves of the upper back. This nerve
+alteration may be secondary to localized entrapment
+(possibly by the adjacent muscles) or central damage (related to the pathologies of the spine) or both [6].
+In this study, we clinically and radiologically evaluated
+45 patients diagnosed with NP. Although the occurrence
+of NP is not rare, most cases are undiagnosed. Therefore, clinicians should be careful not to overlook this
+condition. The most common clinical findings of our
+Table 3 The results of therapeutic lidocaine application on
+patients with notalgia paresthetica
+Patients (n:20)
+The median VAS-pain score
+0.day
+
+8 (5–9)
+
+2nd week
+
+4 (3–6)
+
+4th week
+
+2 (2–5)
+p < 0.001
+
+After 3 months
+
+2 (1–4)
+
+The median VAS-pruritus score
+0.day
+
+7 (5–8)
+
+2nd week
+
+5 (3–6)
+
+4th week
+
+1 (0–4)
+p < 0.001
+
+After 3 months
+
+1 (0–3)
+
+VAS Visual analog scale, n Number; Bold p values show significance. Statistical
+significance was set at p < 0.05
+
+patients were itching (100%), burning sensation (49%),
+and hypoesthesia (40%). In addition, a total of 46 spinal
+pathologies were revealed radiologically in 39 patients
+with NP (87%). When compared to the control group,
+there were a significantly higher number of cervical degenerative changes and HNP of the C6–7 segment in
+the NP group. We intradermally administered lidocaine
+diluted with saline over a total of three sessions at twoweek intervals for the treatment of NP. We achieved
+successful results related to pain and pruritus.
+Pruritus occurs secondary to neuropathic pain,
+paresthesia, and hyperesthesia, and negatively affects
+quality of life in patients with NP [3]. Another important
+clinical finding in this patient group is a well-defined hyperpigmented macule which is not a primary lesion but
+develops secondary to chronic rubbing and scratching.
+Chronic itching causes neurogenic release of substance
+P into the skin, proliferation of epidermal cells, and
+hyperkeratosis of the skin. A skin biopsy shows nonspecific post-inflammatory hyperpigmentation, mild
+hyperkeratosis, and infiltration of amyloidosis in the
+papillary dermis [13, 14]. In the current study, persistent
+itching was present in all of the patients, but hyperpigmented macules were not seen in eight (18%) patients.
+The typical hyperpigmented patch was not observed in
+up to two-thirds of the published cases in the literature
+[15, 16]. There are reported NP cases in which the appearance of the skin is completely normal [17, 18].
+Degenerative changes in the spine, osteophytes,
+trauma, accidents, spinal stenosis, disc herniation, paraspinal muscle spasm, and fibrous bands are the main
+factors that cause spinal nerve entrapment [13, 19]. Patients with NP frequently have several structural spinal
+vertebral diseases on the cervical and/or thoracic spine.
+Degenerative changes, disc herniation, kyphosis, osteoarthritis, scoliosis, spinal stenosis, vertebral arthrosis,
+and hyperostosis are among the changes in the spine related to NP. Savk et al. evaluated the entire vertebral column radiography and MRI findings of 43 patients with
+NP. They observed degenerative changes or HNP in 34
+patients (79%). A total of 22 HNP were observed in 17
+patients. HNP were on the cervical segments in 18 cases
+and thoracic segments in four. In that study, in 61% of
+
+
+----- [PDF page 5 of 8: layout view of the same page] -----
+Mülkoğlu and Nacır BMC Neurology              (2020) 20:191                                                                                         Page 5 of 8
+
+
+
+
+Table 2 The cervical and thoracic radiological findings of the participants
+Spinal pathology                                                             NP group (n:39)                     Control group (n:21)                   P value
+C3–4 HNP, C4–5 HNP (n)(%)                                                    5 (11%)                             3 (9%)                                 0.19
+C5–6 HNP (n)(%)                                                              9 (20%)                             5 (14%)                                0.06
+C6–7 HNP (n)(%)                                                              13 (29%)                            6 (17%)                                0.02
+Cervical degenerative changes, spinal stenosis (n)(%)                        10 (22%)                            4 (11%)                                0.04
+Thoracic HNP                                                                 5 (11%)                             4 (11%)                                0.70
+Thoracic degenerative changes (n)(%)                                         4 (9%)                              3 (9%)                                 0.85
+NP Notalgia paresthetica, n Number, HNP Herniated nucleus pulposus; Bold p values show significance. Statistical significance was set at p < 0.05
+
+
+was made on 20 patients. After the third session of lido-                             patients were itching (100%), burning sensation (49%),
+caine injection, the VAS-pain and VAS-pruritus scores                                 and hypoesthesia (40%). In addition, a total of 46 spinal
+were significantly decreased at the second- and fourth-                               pathologies were revealed radiologically in 39 patients
+week follow-up. We did not observe any adverse effect                                 with NP (87%). When compared to the control group,
+due to lidocaine at the follow-up visits at the second and                            there were a significantly higher number of cervical de-
+fourth weeks. The relief of pain and pruritus continued                               generative changes and HNP of the C6–7 segment in
+for up to 3 months. The results of lidocaine treatment                                the NP group. We intradermally administered lidocaine
+are summarized in Table 3.                                                            diluted with saline over a total of three sessions at two-
+                                                                                      week intervals for the treatment of NP. We achieved
+Discussion                                                                            successful results related to pain and pruritus.
+NP was first described by a Russian neurologist Astwa-                                   Pruritus occurs secondary to neuropathic pain,
+zaturow in 1934. The term notalgia is derived from                                    paresthesia, and hyperesthesia, and negatively affects
+notos (back) and algos (pain). NP is a sensory neur-                                  quality of life in patients with NP [3]. Another important
+opathy that depends on the alteration of the dorsal cuta-                             clinical finding in this patient group is a well-defined hy-
+neous sensory nerves of the upper back. This nerve                                    perpigmented macule which is not a primary lesion but
+alteration may be secondary to localized entrapment                                   develops secondary to chronic rubbing and scratching.
+(possibly by the adjacent muscles) or central damage (re-                             Chronic itching causes neurogenic release of substance
+lated to the pathologies of the spine) or both [6].                                   P into the skin, proliferation of epidermal cells, and
+  In this study, we clinically and radiologically evaluated                           hyperkeratosis of the skin. A skin biopsy shows non-
+45 patients diagnosed with NP. Although the occurrence                                specific post-inflammatory hyperpigmentation, mild
+of NP is not rare, most cases are undiagnosed. There-                                 hyperkeratosis, and infiltration of amyloidosis in the
+fore, clinicians should be careful not to overlook this                               papillary dermis [13, 14]. In the current study, persistent
+condition. The most common clinical findings of our                                   itching was present in all of the patients, but hyperpig-
+                                                                                      mented macules were not seen in eight (18%) patients.
+Table 3 The results of therapeutic lidocaine application on                           The typical hyperpigmented patch was not observed in
+patients with notalgia paresthetica                                                   up to two-thirds of the published cases in the literature
+                                                                Patients (n:20)       [15, 16]. There are reported NP cases in which the ap-
+The median VAS-pain score
+                                                                                      pearance of the skin is completely normal [17, 18].
+                                                                                         Degenerative changes in the spine, osteophytes,
+  0.day                                                         8 (5–9)
+                                                                                      trauma, accidents, spinal stenosis, disc herniation, para-
+  2nd week                                                      4 (3–6)               spinal muscle spasm, and fibrous bands are the main
+  4th week                                                      2 (2–5)               factors that cause spinal nerve entrapment [13, 19]. Pa-
+                                                                p < 0.001             tients with NP frequently have several structural spinal
+  After 3 months                                                2 (1–4)               vertebral diseases on the cervical and/or thoracic spine.
+The median VAS-pruritus score
+                                                                                      Degenerative changes, disc herniation, kyphosis, osteo-
+                                                                                      arthritis, scoliosis, spinal stenosis, vertebral arthrosis,
+  0.day                                                         7 (5–8)
+                                                                                      and hyperostosis are among the changes in the spine re-
+  2nd week                                                      5 (3–6)               lated to NP. Savk et al. evaluated the entire vertebral col-
+  4th week                                                      1 (0–4)               umn radiography and MRI findings of 43 patients with
+                                                                p < 0.001             NP. They observed degenerative changes or HNP in 34
+  After 3 months                                                1 (0–3)               patients (79%). A total of 22 HNP were observed in 17
+VAS Visual analog scale, n Number; Bold p values show significance. Statistical
+                                                                                      patients. HNP were on the cervical segments in 18 cases
+significance was set at p < 0.05                                                      and thoracic segments in four. In that study, in 61% of
+
+===== [PDF page 6 of 8] =====
+Mülkoğlu and Nacır BMC Neurology
+
+(2020) 20:191
+
+the patients, the localization of symptoms was consistent
+with the radiological findings, such as degenerative
+changes. The authors concluded that spinal changes
+could be considered as a contributing factor to NP [20].
+In the current study, we radiologically evaluated 45 patients with NP and detected 46 spinal pathologies in 39
+of these patients (87%). Similarly, we found that the
+HNP of the cervical segments were at a higher rate than
+those of the thoracic segments in the NP group. In contrast to Savk et al., we also had a control group in our
+study. We found significantly more cervical degenerative
+changes and HNP of the C6–7 segment in the NP group
+than in the control group. Our study involved the evaluation of the radiological findings of the largest number
+of patients with NP in the literature.
+Alai et al. reported a single case with cervical spinal
+stenosis correlated with the clinical symptoms of NP.
+They considered that NP might be a cutaneous sign of
+an underlying degenerative cervical spine disease [21].
+We also observed degenerative changes and spinal stenosis mostly on the cervical spine (22%) in the NP group.
+The HNP of the C6–7 segment were most commonly
+revealed disc lesions. These findings support the idea
+that cervical spinal pathologies may be a contributing
+factor to the pathogenesis of NP.
+Eisenberg et al. reported the case of a 76-year-old male with
+NP. His MRI revealed C4 nerve root impingement, which was
+associated with clinical symptoms. For the treatment of this
+case, the cervical epidural steroid injections applied resulted in
+a nearly complete recovery of symptoms [22].
+Raison-Peyron et al. examined 12 NP patients with
+dorsal spinal X-rays and detected dorsal arthroses in
+nine cases. In four of six NP patients, successful results
+were obtained by spinal physiotherapy [15]. The relief
+achieved in patients through spinal physiotherapy is evidence that the pathogenesis of NP is related to the compression of the spinal nerves. In our patients, the
+degenerative changes and HNP of the cervical segments
+were more common than those of the thoracic segments.
+Thirty-seven cervical degenerative changes or HNP were
+detected in 39 patients with NP, while only nine patients
+had thoracic spinal lesions. According to our results,
+cervical spinal degenerative changes and HNPs may contribute to the pathogenesis of NP.
+Pagliarello et al. clinically evaluated 65 patients (female/male: 1.6) with NP and reported that the female
+gender had worse disease severity. In addition, they
+found that a higher BMI was associated with a longer
+disease duration [16]. In our study, the majority of the
+patients were female (n = 39; 87%). In contrast to
+Pagliarello et al., we found no statistically significant correlation between gender and VAS-pain scores (r = − 0.2,
+p = 0.12). We also did not find any significant correlation
+between BMI and disease duration (r = 0.1, p = 0.38).
+
+Page 6 of 8
+
+A treatment modality that completely relieves NP symptoms has not yet been established. Topical, intralesional,
+systemic, peri-neural, and non-pharmacologic approaches
+have been tested. Topical anesthetics, topical capsaicin,
+intralesional corticosteroid, and botulinum toxins are the
+preferred local treatment applications. Gabapentin, oxcarbazepine, amitriptyline, paravertebral local anesthetic
+blocks, spinal manipulation, physical therapy (transcutaneous electrical nerve stimulation, stretching and strengthening exercises, and cervical traction) are among the other
+treatment options for NP [6, 10, 23, 24].
+Physiotherapy also aims to correct musculoskeletal
+dysfunctions and has been reported to have sustained
+benefits in treating NP [11, 25–27]. Zagarella et al. investigated the effects of a 12-week program involving exercises and stretches (three times daily for five to 10
+min) on 12 patients with NP. The authors attempted to
+relieve the sensory neuropathy caused by paraspinal
+muscle compression and achieved a satisfactory improvement in 11 of 12 patients without any adverse effects [25].
+Sahhar et al. reported 20 patients who underwent a
+six-week physiotherapy program consisting of targeted
+pressure and manipulation to release muscular spasm
+and improve thoracic facet and costovertebral joint mobility. Clinical recovery was mentioned in 13/20 patients,
+with four patients having complete relief without any adverse effects [26]. Due to their easy accessibility, efficacy,
+and minimal adverse effects, physical therapy modalities
+and exercises are commonly considered or combined
+with other treatments in NP.
+Surgical decompression can also be considered as an
+alternative treatment strategy for peripheral nerve entrapment in NP. Williams et al. reported a 33-year-old
+female diagnosed with the compression of the dorsal
+branches of the T4 and T5 spinal nerves. The authors
+confirmed the NP diagnosis by Marcaine blockage to the
+right of the spinous process at the T4 and T5 levels. The
+local anesthetic blockage relieved her pain for four to 5
+h. Surgical decompression of the dorsal branches of
+these nerves was performed, and at 4 months after neurolysis, she was symptom-free [28].
+Chtompel et al. presented the case of a 50-year-old
+woman with spinal cord injury caused by an epidural abscess. This patient was diagnosed with NP and treated
+with intravenous lidocaine for the management of
+neuropathic pruritus. The authors applied a series of
+three infusions of lidocaine at two-week intervals at a
+dose of 1 mg/kg bolus, followed by 4 mg/kg infusion
+over 1 h. Following the first two infusions, there was no
+change in the level of neuropathic pain. However, significant relief of itching was noted. They concluded that
+intravenous lidocaine was effective in reducing neuropathic itching [2].
+
+
+----- [PDF page 6 of 8: layout view of the same page] -----
+Mülkoğlu and Nacır BMC Neurology      (2020) 20:191                                                                     Page 6 of 8
+
+
+
+
+the patients, the localization of symptoms was consistent              A treatment modality that completely relieves NP symp-
+with the radiological findings, such as degenerative                 toms has not yet been established. Topical, intralesional,
+changes. The authors concluded that spinal changes                   systemic, peri-neural, and non-pharmacologic approaches
+could be considered as a contributing factor to NP [20].             have been tested. Topical anesthetics, topical capsaicin,
+In the current study, we radiologically evaluated 45 pa-             intralesional corticosteroid, and botulinum toxins are the
+tients with NP and detected 46 spinal pathologies in 39              preferred local treatment applications. Gabapentin, oxcar-
+of these patients (87%). Similarly, we found that the                bazepine, amitriptyline, paravertebral local anesthetic
+HNP of the cervical segments were at a higher rate than              blocks, spinal manipulation, physical therapy (transcutane-
+those of the thoracic segments in the NP group. In con-              ous electrical nerve stimulation, stretching and strength-
+trast to Savk et al., we also had a control group in our             ening exercises, and cervical traction) are among the other
+study. We found significantly more cervical degenerative             treatment options for NP [6, 10, 23, 24].
+changes and HNP of the C6–7 segment in the NP group                    Physiotherapy also aims to correct musculoskeletal
+than in the control group. Our study involved the evalu-             dysfunctions and has been reported to have sustained
+ation of the radiological findings of the largest number             benefits in treating NP [11, 25–27]. Zagarella et al. in-
+of patients with NP in the literature.                               vestigated the effects of a 12-week program involving ex-
+   Alai et al. reported a single case with cervical spinal           ercises and stretches (three times daily for five to 10
+stenosis correlated with the clinical symptoms of NP.                min) on 12 patients with NP. The authors attempted to
+They considered that NP might be a cutaneous sign of                 relieve the sensory neuropathy caused by paraspinal
+an underlying degenerative cervical spine disease [21].              muscle compression and achieved a satisfactory im-
+We also observed degenerative changes and spinal sten-               provement in 11 of 12 patients without any adverse ef-
+osis mostly on the cervical spine (22%) in the NP group.             fects [25].
+The HNP of the C6–7 segment were most commonly                         Sahhar et al. reported 20 patients who underwent a
+revealed disc lesions. These findings support the idea               six-week physiotherapy program consisting of targeted
+that cervical spinal pathologies may be a contributing               pressure and manipulation to release muscular spasm
+factor to the pathogenesis of NP.                                    and improve thoracic facet and costovertebral joint mo-
+   Eisenberg et al. reported the case of a 76-year-old male with     bility. Clinical recovery was mentioned in 13/20 patients,
+NP. His MRI revealed C4 nerve root impingement, which was            with four patients having complete relief without any ad-
+associated with clinical symptoms. For the treatment of this         verse effects [26]. Due to their easy accessibility, efficacy,
+case, the cervical epidural steroid injections applied resulted in   and minimal adverse effects, physical therapy modalities
+a nearly complete recovery of symptoms [22].                         and exercises are commonly considered or combined
+   Raison-Peyron et al. examined 12 NP patients with                 with other treatments in NP.
+dorsal spinal X-rays and detected dorsal arthroses in                  Surgical decompression can also be considered as an
+nine cases. In four of six NP patients, successful results           alternative treatment strategy for peripheral nerve en-
+were obtained by spinal physiotherapy [15]. The relief               trapment in NP. Williams et al. reported a 33-year-old
+achieved in patients through spinal physiotherapy is evi-            female diagnosed with the compression of the dorsal
+dence that the pathogenesis of NP is related to the com-             branches of the T4 and T5 spinal nerves. The authors
+pression of the spinal nerves. In our patients, the                  confirmed the NP diagnosis by Marcaine blockage to the
+degenerative changes and HNP of the cervical segments                right of the spinous process at the T4 and T5 levels. The
+were more common than those of the thoracic segments.                local anesthetic blockage relieved her pain for four to 5
+Thirty-seven cervical degenerative changes or HNP were               h. Surgical decompression of the dorsal branches of
+detected in 39 patients with NP, while only nine patients            these nerves was performed, and at 4 months after neu-
+had thoracic spinal lesions. According to our results,               rolysis, she was symptom-free [28].
+cervical spinal degenerative changes and HNPs may con-                 Chtompel et al. presented the case of a 50-year-old
+tribute to the pathogenesis of NP.                                   woman with spinal cord injury caused by an epidural ab-
+   Pagliarello et al. clinically evaluated 65 patients (fe-          scess. This patient was diagnosed with NP and treated
+male/male: 1.6) with NP and reported that the female                 with intravenous lidocaine for the management of
+gender had worse disease severity. In addition, they                 neuropathic pruritus. The authors applied a series of
+found that a higher BMI was associated with a longer                 three infusions of lidocaine at two-week intervals at a
+disease duration [16]. In our study, the majority of the             dose of 1 mg/kg bolus, followed by 4 mg/kg infusion
+patients were female (n = 39; 87%). In contrast to                   over 1 h. Following the first two infusions, there was no
+Pagliarello et al., we found no statistically significant cor-       change in the level of neuropathic pain. However, sig-
+relation between gender and VAS-pain scores (r = − 0.2,              nificant relief of itching was noted. They concluded that
+p = 0.12). We also did not find any significant correlation          intravenous lidocaine was effective in reducing neuro-
+between BMI and disease duration (r = 0.1, p = 0.38).                pathic itching [2].
+
+===== [PDF page 7 of 8] =====
+Mülkoğlu and Nacır BMC Neurology
+
+(2020) 20:191
+
+In the current study, 20 patients in the NP group suffering from pruritus and neuropathic pain were locally
+administered therapeutic lidocaine, and improvement
+was observed to sustain for up to 3 months. We obtained successful results in relieving of pain and pruritus
+of the patients with NP by simple intradermal lidocaine
+injections. Therefore, we did not consider the need to
+block the dorsal spinal nerves with a deeper injection
+method.
+Therapeutic local anesthesia (neural therapy) is a modality using injections with local anesthetics for diagnosis and therapy (indications include functional disorders,
+inflammatory diseases, and acute and chronic pain). The
+real purpose, though, is not to apply local anesthetics.
+The generation of targeted stimuli (through the needle)
+and the selective extinction of other stimuli (through the
+local anesthetic) affect both the organization of the nervous system and tissue perfusion, thereby disrupting
+positive feedback actions (vicious circle) in the pain
+cycle. This treatment modality stimulates the regulatory
+mechanisms and plastic properties of the vegetative nervous system, primarily in two stages: first, via segmental
+reflectory processes, and second via the so-called interference field (irritation zone), which may initiate and/or
+sustain pain and inflammation regardless of the affected
+segment [29–33].
+This study has certain limitations. Firstly, the radiological findings of the patients were evaluated by X-ray
+and MRI, but their consistency with the clinical findings
+was not evaluated. Secondly, the patients were not
+followed up after the third months of lidocaine application. It remains unclear whether the efficacy of lidocaine
+treatment is durable or continuous injections are required for greater benefit in patients with NP. Thus, further controlled studies with a long-term follow-up are
+recommended. We also did not have a control group
+with NP who did not undergo lidocaine treatment.
+Thirdly, in the current cross-sectional study, it was difficult to draw definitive conclusions concerning the treatment applied. Further prospective, randomized,
+controlled studies with larger patient groups are needed
+to elucidate the clinical properties, underlying spinal
+pathologies, and etiopathogenesis of NP.
+
+Conclusion
+We conclude that cervical degenerative pathologies, especially HNP of the C6–7 segment are possible contributing factors to NP. The relationship between cervical
+spinal lesions and NP must be further investigated in future randomized controlled trials. Local lidocaine therapy appears to be a safe treatment option for patients
+with NP, especially in terms of its antipruritic and pain
+relief effect that lasts for up to 3 months.
+
+Page 7 of 8
+
+Abbreviations
+NP: Notalgia paresthetica; HNP: Herniated nucleus pulposus; BMI: Body mass
+index; VAS: Visual analog scale
+Acknowledgements
+Not applicable.
+Authors’ contributions
+All of authors have participated sufficiently and equally in the submission.
+CM: Literature search and writing the manuscript. BN and CM: Selecting the
+cases, and editing the manuscript. All authors have read and approved the
+final version of the article.
+Funding
+Not applicable.
+Availability of data and materials
+The datasets generated and/or analysed during the current study are not
+publicly available due to the patients’ privacy but are available from the
+corresponding author on reasonable request.
+Ethics approval and consent to participate
+The study protocol was approved by the Clinical Research Ethics Committee
+of the Health Sciences University Ankara Training and Research Hospital. All
+procedures performed in studies involving human participants were in
+accordance with the ethical standards of the institutional and national
+research committee and with the 1964 Helsinki declaration and its later
+amendments or comparable ethical standards. Written informed consent
+was obtained from all individual participants included in the study.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 27 March 2020 Accepted: 10 May 2020
+
+References
+1. Howard M, Sahhar L, Andrews F, Bergman R, Gin D. Notalgia paresthetica: a
+review for dermatologists. Int J Dermatol. 2017;57(4):388–92.
+2. Chtompel Y, Eghtesadi M, Vargas-Schaffer G. A case report of refractory
+notalgia paresthetica treated with lidocaine infusions. Am J Case Rep. 2017;
+18:1225–8.
+3. Maciel AA, Cunha PR, Laraia IO, Trevisan F. Efficacy of gabapentin in the
+improvement of pruritus and quality of life of patients with notalgia
+paresthetica. An Bras Dermatol. 2014;89(4):570–5.
+4. Low R, Swanson LA, Swanson DL. Notalgia paresthetica relieved by cervical
+traction. J Am Board Fam Med. 2017;30(6):835–7.
+5. Savk E, Savk SO. On brachioradial pruritus and notalgia paresthetica. J Am
+Acad Dermatol. 2004;50(5):800–1.
+6. Cohen PR. Notalgia paresthetica: a novel approach to treatment with
+Cryolipolysis. Cureus. 2017;9(9):e1719. https://doi.org/10.7759/cureus.1719.
+7. Marcusson JA, Lundh B, Sidén A, Persson A. Notalgia paresthetica--puzzling
+posterior pigmented pruritic patch. Report on two cases. Acta Derm
+Venereol. 1990;70(5):452–4.
+8. Robbins BA, Ferrer-Bruker SJ. Notalgia Paresthetica. StatPearls. Treasure
+Island: StatPearls Publishing; 2019. PMID: 29262015.
+9. Shin J, Kim YC. Neuropathic itch of the back: a case of notalgia paresthetica.
+Ann Dermatol. 2014;26(3):392–4.
+10. Ansari A, Weinstein D, Sami N. Notalgia paresthetica: treatment review and
+algorithmic approach. J Dermatolog Treat. 2019;3:1–9.
+11. Cruz CM, Antunes F. Physical medicine and rehabilitation role on notalgia
+paresthetica: case report and treatment review. Am J Phys Med Rehabil.
+2018;97(12):929–32.
+12. Mülkoğlu C, Nacir B, Genç H. An alternative in the treatment of notalgia
+paresthetica: neural therapy. Int J Dermatol. 2018;57(9):e70–1.
+13. Ellis C. Notalgia paresthetica: the unreachable itch. Dermatol Pract Concept.
+2013;3(1):3–6.
+
+
+----- [PDF page 7 of 8: layout view of the same page] -----
+Mülkoğlu and Nacır BMC Neurology   (2020) 20:191                                                                                  Page 7 of 8
+
+
+
+
+  In the current study, 20 patients in the NP group suf-       Abbreviations
+fering from pruritus and neuropathic pain were locally         NP: Notalgia paresthetica; HNP: Herniated nucleus pulposus; BMI: Body mass
+                                                               index; VAS: Visual analog scale
+administered therapeutic lidocaine, and improvement
+was observed to sustain for up to 3 months. We ob-             Acknowledgements
+tained successful results in relieving of pain and pruritus    Not applicable.
+of the patients with NP by simple intradermal lidocaine
+                                                               Authors’ contributions
+injections. Therefore, we did not consider the need to         All of authors have participated sufficiently and equally in the submission.
+block the dorsal spinal nerves with a deeper injection         CM: Literature search and writing the manuscript. BN and CM: Selecting the
+method.                                                        cases, and editing the manuscript. All authors have read and approved the
+                                                               final version of the article.
+  Therapeutic local anesthesia (neural therapy) is a mo-
+dality using injections with local anesthetics for diagno-     Funding
+sis and therapy (indications include functional disorders,     Not applicable.
+inflammatory diseases, and acute and chronic pain). The
+                                                               Availability of data and materials
+real purpose, though, is not to apply local anesthetics.       The datasets generated and/or analysed during the current study are not
+The generation of targeted stimuli (through the needle)        publicly available due to the patients’ privacy but are available from the
+and the selective extinction of other stimuli (through the     corresponding author on reasonable request.
+local anesthetic) affect both the organization of the ner-
+                                                               Ethics approval and consent to participate
+vous system and tissue perfusion, thereby disrupting           The study protocol was approved by the Clinical Research Ethics Committee
+positive feedback actions (vicious circle) in the pain         of the Health Sciences University Ankara Training and Research Hospital. All
+cycle. This treatment modality stimulates the regulatory       procedures performed in studies involving human participants were in
+                                                               accordance with the ethical standards of the institutional and national
+mechanisms and plastic properties of the vegetative ner-       research committee and with the 1964 Helsinki declaration and its later
+vous system, primarily in two stages: first, via segmental     amendments or comparable ethical standards. Written informed consent
+reflectory processes, and second via the so-called inter-      was obtained from all individual participants included in the study.
+ference field (irritation zone), which may initiate and/or
+                                                               Consent for publication
+sustain pain and inflammation regardless of the affected       Not applicable.
+segment [29–33].
+  This study has certain limitations. Firstly, the radio-      Competing interests
+                                                               The authors declare that they have no competing interests.
+logical findings of the patients were evaluated by X-ray
+and MRI, but their consistency with the clinical findings      Received: 27 March 2020 Accepted: 10 May 2020
+was not evaluated. Secondly, the patients were not
+followed up after the third months of lidocaine applica-
+                                                               References
+tion. It remains unclear whether the efficacy of lidocaine     1. Howard M, Sahhar L, Andrews F, Bergman R, Gin D. Notalgia paresthetica: a
+treatment is durable or continuous injections are re-              review for dermatologists. Int J Dermatol. 2017;57(4):388–92.
+quired for greater benefit in patients with NP. Thus, fur-     2. Chtompel Y, Eghtesadi M, Vargas-Schaffer G. A case report of refractory
+                                                                   notalgia paresthetica treated with lidocaine infusions. Am J Case Rep. 2017;
+ther controlled studies with a long-term follow-up are             18:1225–8.
+recommended. We also did not have a control group              3. Maciel AA, Cunha PR, Laraia IO, Trevisan F. Efficacy of gabapentin in the
+with NP who did not undergo lidocaine treatment.                   improvement of pruritus and quality of life of patients with notalgia
+                                                                   paresthetica. An Bras Dermatol. 2014;89(4):570–5.
+Thirdly, in the current cross-sectional study, it was diffi-   4. Low R, Swanson LA, Swanson DL. Notalgia paresthetica relieved by cervical
+cult to draw definitive conclusions concerning the treat-          traction. J Am Board Fam Med. 2017;30(6):835–7.
+ment applied. Further prospective, randomized,                 5. Savk E, Savk SO. On brachioradial pruritus and notalgia paresthetica. J Am
+                                                                   Acad Dermatol. 2004;50(5):800–1.
+controlled studies with larger patient groups are needed       6. Cohen PR. Notalgia paresthetica: a novel approach to treatment with
+to elucidate the clinical properties, underlying spinal            Cryolipolysis. Cureus. 2017;9(9):e1719. https://doi.org/10.7759/cureus.1719.
+pathologies, and etiopathogenesis of NP.                       7. Marcusson JA, Lundh B, Sidén A, Persson A. Notalgia paresthetica--puzzling
+                                                                   posterior pigmented pruritic patch. Report on two cases. Acta Derm
+                                                                   Venereol. 1990;70(5):452–4.
+                                                               8. Robbins BA, Ferrer-Bruker SJ. Notalgia Paresthetica. StatPearls. Treasure
+Conclusion                                                         Island: StatPearls Publishing; 2019. PMID: 29262015.
+                                                               9. Shin J, Kim YC. Neuropathic itch of the back: a case of notalgia paresthetica.
+We conclude that cervical degenerative pathologies, es-            Ann Dermatol. 2014;26(3):392–4.
+pecially HNP of the C6–7 segment are possible contrib-         10. Ansari A, Weinstein D, Sami N. Notalgia paresthetica: treatment review and
+uting factors to NP. The relationship between cervical             algorithmic approach. J Dermatolog Treat. 2019;3:1–9.
+                                                               11. Cruz CM, Antunes F. Physical medicine and rehabilitation role on notalgia
+spinal lesions and NP must be further investigated in fu-          paresthetica: case report and treatment review. Am J Phys Med Rehabil.
+ture randomized controlled trials. Local lidocaine ther-           2018;97(12):929–32.
+apy appears to be a safe treatment option for patients         12. Mülkoğlu C, Nacir B, Genç H. An alternative in the treatment of notalgia
+                                                                   paresthetica: neural therapy. Int J Dermatol. 2018;57(9):e70–1.
+with NP, especially in terms of its antipruritic and pain      13. Ellis C. Notalgia paresthetica: the unreachable itch. Dermatol Pract Concept.
+relief effect that lasts for up to 3 months.                       2013;3(1):3–6.
+
+===== [PDF page 8 of 8] =====
+Mülkoğlu and Nacır BMC Neurology
+
+(2020) 20:191
+
+14. Bernhard JD. Notalgia paresthetica, macular posterior pigmentary
+incontinence, macular amyloidosis and pruritus. Acta Derm Venereol. 1997;
+77(2):164.
+15. Raison-Peyron N, Meunier L, Acevedo M, Meynadier J. Notalgia paresthetica:
+clinical, physiopathological and therapeutic aspects. A study of 12 cases. J
+Eur Acad Dermatol Venereol. 1999;12:215–21.
+16. Pagliarello C, Fabrizi G, De Felici B, Casanova D, Feliciani C, Di Nuzzo S.
+Notalgia paresthetica: factors associated with its perceived severity,
+duration, side, and localization. Int J Dermatol. 2017;56(9):932–8.
+17. Weber PJ, Poulos EG. Notalgia paresthetica-case reports and histological
+appraisal. J Am Acad Dermatol. 1988;18:25–30.
+18. Layton AM, Cotterill JA. Notalgia paraesthetica-report of three cases and
+their treatment. Clin Exp Dermatol. 1991;16(3):197–8.
+19. Terzi R, Bekdik ŞP. A rare cause of neuropathic pain in the back: Notalgia
+paresthetica. Noro Psikiyatr Ars. 2016;53(1):89–90.
+20. Savk O, Savk E. Investigation of spinal pathology in notalgia paresthetica. J
+Am Acad Dermatol. 2005;52:1085–7.
+21. Alai NN, Skinner HB, Nabili ST, Jeffes E, Shahrokni S, Saemi AM. Notalgia
+paresthetica associated with cervical spinal stenosis and cervicothoracic disk
+disease at C4 through C7. Cutis. 2010;85(2):77–81.
+22. Eisenberg E, Barmeir E, Bergman R. Notalgia paresthetica associated with
+nerve root impingement. J Am Acad Dermatol. 1997;37:998–1000.
+23. Pérez-Pérez LC. General features and treatment of notalgia paresthetica.
+Skinmed. 2011;9:353–8.
+24. Andersen HH, Sand C, Elberling J. Considerable variability in the efficacy of
+8% capsaicin topical patches in the treatment of chronic pruritus in 3
+patients with notalgia paresthetica. Ann Dermatol. 2016;28(1):86–9.
+25. Zagarella S, Kapila S, Fallahi A. Notalgia paraesthetica: a pilot study of
+treatment with simple exercises and stretches. Australas J Dermatol. 2016;
+57(3):222–4.
+26. Sahhar L, Howard M, Allnutt K, Andrews F, Bergman R, Gin D. Treatment of
+notalgia paraesthetica with manipulative physiotherapy. Australas J
+Dermatol. 2018;59(3):241–3.
+27. Fleischer AB, Meade TJ, Fleischer AB. Notalgia paresthetica: successful
+treatment with exercises. Acta Derm Venereol. 2011;91(3):356–7.
+28. Williams EH, Rosson GD, Elsamanoudi I, Dellon AL. Surgical decompression
+for notalgia paresthetica: a case report. Microsurgery. 2010;30(1):70–2.
+https://doi.org/10.1002/micr.20702.
+29. Egli S, Pfister M, Ludin SM, Puente de la Vega K, Busato A, Fischer L. Longterm results of therapeutic local anesthesia (neural therapy) in 280 referred
+refractory chronic pain patients. BMC Complement Altern Med. 2015;15:200.
+https://doi.org/10.1186/s12906-015-0735-z.
+30. Fischer L. Pathophysiology of pain and neural therapy. Praxis (Bern 1994).
+2003;92(48):2051–9.
+31. Bahekar AA, Singh S, Saha S, Molnar J, Arora R. The prevalence and
+incidence of coronary heart disease is significantly increased in
+periodontitis: a meta-analysis. Am Heart J. 2007;154:830–7.
+32. Cornelissen P, van Kleef M, Mekhail N, Day M, van Zundert J. Evidencebased interventional pain medicine according to clinical diagnoses. 3.
+Persistent idiopathic facial pain. Pain Pract. 2009;9:443–8.
+33. Fukai K, Takiguchi T, Ando Y, Aoyama H, Miyakawa Y, Ito G, Inoue M, Sasaki
+H. Associations between functional tooth number and physical complaints
+of community-residing adults in a 15-year cohort study. Geriatr Gerontol Int.
+2009;9:366–71.
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Page 8 of 8
+
+
+----- [PDF page 8 of 8: layout view of the same page] -----
+Mülkoğlu and Nacır BMC Neurology               (2020) 20:191                         Page 8 of 8
+
+
+
+
+14. Bernhard JD. Notalgia paresthetica, macular posterior pigmentary
+    incontinence, macular amyloidosis and pruritus. Acta Derm Venereol. 1997;
+    77(2):164.
+15. Raison-Peyron N, Meunier L, Acevedo M, Meynadier J. Notalgia paresthetica:
+    clinical, physiopathological and therapeutic aspects. A study of 12 cases. J
+    Eur Acad Dermatol Venereol. 1999;12:215–21.
+16. Pagliarello C, Fabrizi G, De Felici B, Casanova D, Feliciani C, Di Nuzzo S.
+    Notalgia paresthetica: factors associated with its perceived severity,
+    duration, side, and localization. Int J Dermatol. 2017;56(9):932–8.
+17. Weber PJ, Poulos EG. Notalgia paresthetica-case reports and histological
+    appraisal. J Am Acad Dermatol. 1988;18:25–30.
+18. Layton AM, Cotterill JA. Notalgia paraesthetica-report of three cases and
+    their treatment. Clin Exp Dermatol. 1991;16(3):197–8.
+19. Terzi R, Bekdik ŞP. A rare cause of neuropathic pain in the back: Notalgia
+    paresthetica. Noro Psikiyatr Ars. 2016;53(1):89–90.
+20. Savk O, Savk E. Investigation of spinal pathology in notalgia paresthetica. J
+    Am Acad Dermatol. 2005;52:1085–7.
+21. Alai NN, Skinner HB, Nabili ST, Jeffes E, Shahrokni S, Saemi AM. Notalgia
+    paresthetica associated with cervical spinal stenosis and cervicothoracic disk
+    disease at C4 through C7. Cutis. 2010;85(2):77–81.
+22. Eisenberg E, Barmeir E, Bergman R. Notalgia paresthetica associated with
+    nerve root impingement. J Am Acad Dermatol. 1997;37:998–1000.
+23. Pérez-Pérez LC. General features and treatment of notalgia paresthetica.
+    Skinmed. 2011;9:353–8.
+24. Andersen HH, Sand C, Elberling J. Considerable variability in the efficacy of
+    8% capsaicin topical patches in the treatment of chronic pruritus in 3
+    patients with notalgia paresthetica. Ann Dermatol. 2016;28(1):86–9.
+25. Zagarella S, Kapila S, Fallahi A. Notalgia paraesthetica: a pilot study of
+    treatment with simple exercises and stretches. Australas J Dermatol. 2016;
+    57(3):222–4.
+26. Sahhar L, Howard M, Allnutt K, Andrews F, Bergman R, Gin D. Treatment of
+    notalgia paraesthetica with manipulative physiotherapy. Australas J
+    Dermatol. 2018;59(3):241–3.
+27. Fleischer AB, Meade TJ, Fleischer AB. Notalgia paresthetica: successful
+    treatment with exercises. Acta Derm Venereol. 2011;91(3):356–7.
+28. Williams EH, Rosson GD, Elsamanoudi I, Dellon AL. Surgical decompression
+    for notalgia paresthetica: a case report. Microsurgery. 2010;30(1):70–2.
+    https://doi.org/10.1002/micr.20702.
+29. Egli S, Pfister M, Ludin SM, Puente de la Vega K, Busato A, Fischer L. Long-
+    term results of therapeutic local anesthesia (neural therapy) in 280 referred
+    refractory chronic pain patients. BMC Complement Altern Med. 2015;15:200.
+    https://doi.org/10.1186/s12906-015-0735-z.
+30. Fischer L. Pathophysiology of pain and neural therapy. Praxis (Bern 1994).
+    2003;92(48):2051–9.
+31. Bahekar AA, Singh S, Saha S, Molnar J, Arora R. The prevalence and
+    incidence of coronary heart disease is significantly increased in
+    periodontitis: a meta-analysis. Am Heart J. 2007;154:830–7.
+32. Cornelissen P, van Kleef M, Mekhail N, Day M, van Zundert J. Evidence-
+    based interventional pain medicine according to clinical diagnoses. 3.
+    Persistent idiopathic facial pain. Pain Pract. 2009;9:443–8.
+33. Fukai K, Takiguchi T, Ando Y, Aoyama H, Miyakawa Y, Ito G, Inoue M, Sasaki
+    H. Associations between functional tooth number and physical complaints
+    of community-residing adults in a 15-year cohort study. Geriatr Gerontol Int.
+    2009;9:366–71.
+
+
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
