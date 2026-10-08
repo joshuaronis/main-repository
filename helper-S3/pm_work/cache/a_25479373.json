@@ -1,0 +1,14 @@
+{
+ "pmid": "25479373",
+ "year": "2014",
+ "first_author": "Darré L",
+ "title": "Permeation and dynamics of an open-activated TRPV1 channel.",
+ "journal": "J Mol Biol",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.1016/j.jmb.2014.11.016",
+ "pmcid": "",
+ "abstract": "Transient receptor potential (TRP) ion channels constitute a large and diverse protein family, found in yeast and widespread in the animal kingdom. TRP channels work as sensors for a wide range of cellular and environmental signals. Understanding how these channels respond to physical and chemical stimuli has been hindered by the limited structural information available until now. The three-dimensional structure of the vanilloid receptor 1 (TRPV1) was recently determined by single particle electron cryo-microscopy, offering for the first time the opportunity to explore ionic conduction in TRP channels at atomic detail. In this study, we present molecular dynamics simulations of the open-activated pore domain of TRPV1 in the presence of three cationic species: Na(+), Ca(2+) and K(+). The dynamics of these ions while interacting with the channel pore allowed us to rationalize their permeation mechanism in terms of a pathway involving three binding sites at the intracellular cavity, as well as the extracellular and intracellular entrance of the selectivity filter. Furthermore, conformational analysis of the pore in the presence of these ions reveals specific ion-mediated structural changes in the selectivity filter, which influences the permeability properties of the TRPV1 channel.",
+ "source": "PubMed connector get_article_metadata, retrieved 2026-10-08T15:05:56Z"
+}

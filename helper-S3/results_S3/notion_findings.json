@@ -478,5 +478,50 @@
   "corrected_wording": "Whether covering a smaller area than the pain occupies produces proportionally less relief, or none, is not settled, but it has been varied once deliberately: in a three-arm randomised trial in painful diabetic polyneuropathy of both lower limbs, treating one foot at the full per-patient total was compared with dividing that total between both feet, and the two arms differed on one of ten items, hot sensation, which improved less under the wider, thinner coverage. What no trial has done is vary the fraction of a single painful region treated, or hold the amount per point constant while changing the area.",
   "importance": "medium",
   "notes": "Same claim C002, second sentence. The page's 'What would settle it' — a dose-and-area trial holding units constant and varying the fraction treated — is still unanswered, because this trial held the patient total constant and let the amount per point fall."
+ },
+ {
+  "finding_id": "S3-F033",
+  "paper_id": "S-686-06",
+  "page": "Pain biology, ion channels, and topical anesthetics for small fiber neuropathy",
+  "page_url": "https://app.notion.com/p/34210b7903aa8002aad4eba9787cb947",
+  "page_version": "2026-09-26T18:29:03.713Z",
+  "section": "3.4.3 The conformational change: how ligand binding physically opens the pore",
+  "sentence_as_it_stands": "This rotation widens the pore from a closed diameter of ~1 Å (too small for ions) to an open diameter of ~10 Å (large enough for Ca²⁺ and Na⁺).",
+  "kind": "wrong-figure",
+  "quote": "In this study, we present molecular dynamics simulations of the open-activated pore-domain of TRPV1 in the presence of three cationic species: Na+, … Ca2+ and K+.",
+  "page_in_paper": 2,
+  "corrected_wording": "This rotation widens the lower gate from a hydrophobic seal about 5 Å across when closed — narrow enough to block hydrated ions — to about 8 Å with capsaicin and about 9 Å when the channel is held fully open by resiniferatoxin with a spider toxin, which is wide enough for hydrated Na⁺ and Ca²⁺ (Cao 2013).",
+  "importance": "high",
+  "notes": "The closed figure is wrong by about fivefold and the parenthesis is wrong in kind: at about 5 Å the gate is too narrow for a hydrated ion, not too narrow for an ion. The open figure is roughly right but belongs to the fully-open state produced by resiniferatoxin plus double-knot toxin; capsaicin alone, which is what this page is about, opens the gate less. Source: Cao E, Liao M, Cheng Y, Julius D, Nature 2013;504(7478):113–118, doi:10.1038/nature12823, section 'Opening of the lower gate' (PMC4023639). Darré 2015 — the paper on the record for this item — simulates the open state only and cannot supply either figure."
+ },
+ {
+  "finding_id": "S3-F034",
+  "paper_id": "S-686-06",
+  "page": "Pain biology, ion channels, and topical anesthetics for small fiber neuropathy",
+  "page_url": "https://app.notion.com/p/34210b7903aa8002aad4eba9787cb947",
+  "page_version": "2026-09-26T18:29:03.713Z",
+  "section": "Part 13 Sources > What has no source, item 8",
+  "sentence_as_it_stands": "The pore diameters of about 1 Å closed and 10 Å open in 3.4.3. Structural figures given without a structure paper attached.",
+  "kind": "open-question-answered",
+  "quote": "In this study, we present molecular dynamics simulations of the open-activated pore-domain of TRPV1 in the presence of three cationic species: Na+, … Ca2+ and K+.",
+  "page_in_paper": 2,
+  "corrected_wording": "The pore diameters in 3.4.3 now have a structure paper attached, and the closed figure does not survive it: Cao 2013 (Nature 504:113–118, doi:10.1038/nature12823) measures the lower gate at about 5 Å closed, about 8 Å with capsaicin and about 9 Å fully open, by pore radii calculated from cryo-EM maps. The '10 Å open' figure is close to the fully-open measurement; the '1 Å closed' figure has no counterpart and should be corrected rather than sourced.",
+  "importance": "medium",
+  "notes": "This item can be closed once 3.4.3 is corrected. The molecular dynamics paper the record pointed at (Darré 2015) is the wrong candidate: it models the open-activated state only."
+ },
+ {
+  "finding_id": "S3-F035",
+  "paper_id": "S-686-06",
+  "page": "Pain biology, ion channels, and topical anesthetics for small fiber neuropathy",
+  "page_url": "https://app.notion.com/p/34210b7903aa8002aad4eba9787cb947",
+  "page_version": "2026-09-26T18:29:03.713Z",
+  "section": "3.4.3 The conformational change: how ligand binding physically opens the pore",
+  "sentence_as_it_stands": "The S6 segments, which form the inner lining of the pore, rotate outward like an iris opening.",
+  "kind": "understated",
+  "quote": "conformational analysis of the pore in the presence of these ions reveals specific ion-mediated structural changes in the selectivity filter, which influences … the permeability properties of the TRPV1 channel.",
+  "page_in_paper": 2,
+  "corrected_wording": "The S6 segments, which form the inner lining of the pore, swing outward — the side chain of a single isoleucine rotating away from the central axis is what unseals the gate — and TRPV1 has a second gate above it, at the selectivity filter, which rearranges as well when the channel opens fully. Capsaicin on its own opens the lower gate while leaving the filter unchanged, so the two gates can move separately; they appear to be allosterically coupled through the pore helix (Cao 2013). The S1–S4 domain, which moves in voltage-gated channels, stays still.",
+  "importance": "medium",
+  "notes": "Not wrong, but single-gated where the structural literature is dual-gated, and the distinction matters on this page because the capsaicin-bound state is the partially activated one. The simulation paper adds that the filter is unusually flexible and that its geometry changes with the ion passing through it, and that its authors never saw Ca²⁺ cross the filter in 1.6 µs, concluding that a further structural change must be required for calcium permeability (pp. 11–12) — a caveat on 3.4.4's calcium-influx picture."
  }
 ]

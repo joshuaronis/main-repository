@@ -1,0 +1,86 @@
+{
+ "paper_id": "S-686-06",
+ "citation": "Darré L, Furini S, Domene C. Permeation and dynamics of an open-activated TRPV1 channel. J Mol Biol 2015;427(2):537–549",
+ "pmid": "25479373",
+ "doi": "10.1016/j.jmb.2014.11.016",
+ "right_paper": true,
+ "text_quality": "ok with effort: 29-page Elsevier accepted manuscript (unedited proof) with a cover page, so journal pagination (537–549) does not apply and the pages below are PDF pages. The 'ACCEPTED MANUSCRIPT' watermark is inside the text layer, dropping the letters RI, SC, NU, MA, D, TE, CE, AC and P into the running text and splitting sentences mid-phrase; quotes below are joined with '…' across those breaks. Figures are images and were not read, so the pore profiles plotted in them were not available.",
+ "design": "All-atom molecular dynamics simulation study — no experiment, no subjects. Starting model: the pore domain only (residues 570–686) of the open-activated TRPV1 cryo-EM structure (PDB 3J5Q, 3.80 Å), in a POPC bilayer with 150 mM NaCl, KCl or CaCl2; two independent trajectories per ion species, 1.6 µs cumulative. S1–S4 and the intracellular domain are absent, the intracellular gate was held open by harmonic restraints, and the agonist RTX and toxin DkTx present in the experimental structure were omitted. Only the open-activated state is simulated: there is no closed or apo comparator anywhere in the paper.",
+ "population": "Not applicable: one simulated TRPV1 tetramer pore domain in a model membrane.",
+ "n": "Not applicable; six trajectories (two per ion species), 1.6 µs in total.",
+ "setting": "Department of Chemistry, King's College London; Department of Medical Biotechnologies, University of Siena; Chemistry Research Laboratory, University of Oxford. Computing on EPSRC NSCCS, Archer and the Hartree Centre.",
+ "intervention": "Not applicable; the variable is the ion species in solution (Na+, K+, Ca2+).",
+ "comparator": "The three ion species against each other, and the simulated pore against its own experimental starting structure.",
+ "duration": "1.6 µs of simulated time.",
+ "outcomes": "Ion binding sites along the permeation pathway and transitions between them; conformational analysis of the selectivity filter (inter-residue distances, symmetry, RMSD). No closed-state geometry and no closed-versus-open pore comparison is reported, and the only pore dimension given for the open state is the diameter of one binding site inside the selectivity filter.",
+ "key_results": [
+  {
+   "quote": "In this study, we present molecular dynamics simulations of the open-activated pore-domain of TRPV1 in the presence of three cationic species: Na+, … Ca2+ and K+.",
+   "page": 2
+  },
+  {
+   "quote": "The initial atomic model was based on the structure of the TRPV1 channel determined by electron microscopy at a resolution of 3.80 Å (Protein data bank entry 3J5Q). Only the pore domain was considered in the model (residue 570 to 686).",
+   "page": 12
+  },
+  {
+   "quote": "Compared to the experimental structure, the simulated protein lacks helices S1-S4 and the intracellular domain of the channel.",
+   "page": 4
+  },
+  {
+   "quote": "Therefore, as we would like to study conduction events, closure of the intracellular gate was prevented by applying weak harmonic potentials that restrained the Cα atoms of the inner and outer helices to their experimental positions",
+   "page": 4
+  },
+  {
+   "quote": "From a mechanistic point of view, the wider … diameter of the pore compared to the diameter of the cations argues against a sieving phenomenon.",
+   "page": 3
+  },
+  {
+   "quote": "In the case of K+ ions, this intracellular binding site is similar to the analogous region in Na + selective channels, namely a large … site (diameter ~8 Å) surrounded by carbonyl oxygen atoms, with a symmetric architecture.",
+   "page": 11
+  },
+  {
+   "quote": "We did not observe any Ca2+ ion reaching the intracellular entrance of the SF.",
+   "page": 11
+  },
+  {
+   "quote": "In other words, a structural change has to take place in the SF to increase its permeability to Ca 2+, and this transition is still missing in our simulations.",
+   "page": 12
+  },
+  {
+   "quote": "conformational analysis of the pore in the presence of these ions reveals specific ion-mediated structural changes in the selectivity filter, which influences … the permeability properties of the TRPV1 channel.",
+   "page": 2
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Firstly, transitions of Ca2+ ions to this region might be lacking because the simulated trajectories are not long enough.",
+   "page": 11
+  },
+  {
+   "quote": "An alternative hypothesis is that Ca 2+ ions are poorly described in the model adopted for the simulations [29]. In particular, in the case of divalent Ca2+ ions, the absence of polarization effects in the adopted force field might result in simulation artifacts",
+   "page": 11
+  },
+  {
+   "quote": "This hypothesis implies that the structure of the SF of TRPV1 permeable to Ca 2+ ions is not … the one observed experimentally, nor the one sampled in our MD trajectories.",
+   "page": 12
+  }
+ ],
+ "funding_conflicts": "No funding statement and no competing-interests declaration in the accepted manuscript; the acknowledgment names computing resources only (EPSRC NSCCS, Archer, Hartree Centre), p. 13.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Cao E, Liao M, Cheng Y, Julius D. TRPV1 structures in distinct conformations reveal activation mechanisms. Nature 2013;504(7478):113–118",
+   "pmid": "24305161",
+   "why": "The cryo-EM paper this simulation is built on (PDB 3J5Q) and the actual source of the open- and closed-state pore dimensions the Notion page gives without a citation; it measures the lower gate in three states and reports a dual gate."
+  },
+  {
+   "citation": "Liao M, Cao E, Julius D, Cheng Y. Structure of the TRPV1 ion channel determined by electron cryo-microscopy. Nature 2013;504(7478):107–112",
+   "pmid": "24305160",
+   "why": "The companion paper holding the apo (closed) structure, where the closed-state constriction is measured."
+  },
+  {
+   "citation": "Hui K, Liu B, Qin F. Capsaicin activation of the pain receptor, VR1: multiple open states from both partial and full binding. Biophys J 2003;84(5):2957–2968",
+   "pmid": "12719227",
+   "why": "Cited for TRPV1 having multiple open states; bears on the page quoting a single open-pore figure, since capsaicin and resiniferatoxin do not open the gate to the same width."
+  }
+ ]
+}

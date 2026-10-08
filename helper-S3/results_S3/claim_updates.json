@@ -271,5 +271,18 @@
   "page": 2,
   "proposed_wording": "",
   "reason": "Checked and unchanged. This randomised controlled trial states an amount per injection point and a spacing between points, but no units-per-area figure, so the claim as worded still holds for controlled trials; the per-area number remains a derivation, here from a trial's geometry rather than from a sentence in it. The narrowing already recorded (one uncontrolled study dosed explicitly by area) is unaffected. Figures not recorded here, per the dose rule."
+ },
+ {
+  "claim_id": "E029",
+  "paper_id": "S-686-06",
+  "pmid": "25479373",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "In this study, we present molecular dynamics simulations of the open-activated pore-domain of TRPV1 in the presence of three cationic species: Na+, … Ca2+ and K+.",
+  "page": 2,
+  "proposed_wording": "The pore diameters in 3.4.3 have a source and one of them is wrong. The cryo-EM structure paper (Cao 2013, Nature 504:113–118) measures the lower gate in three states: closed, it is a hydrophobic seal about 5 Å across, too narrow for hydrated ions rather than for bare ions; with capsaicin it widens to about 8 Å; fully open, with resiniferatoxin and a spider toxin, to about 9 Å. The 'about 10 Å open' figure is close to that last number; the 'about 1 Å closed' figure corresponds to nothing in the paper and should be replaced, with the structure paper cited.",
+  "reason": "Answer to the open question, in two steps. The paper flagged for full text, Darré 2015, cannot supply either figure: it is a molecular dynamics study of the open-activated state alone, built on PDB 3J5Q, with S1–S4 and the intracellular domain removed and the intracellular gate restrained open, so it has no closed-state geometry at all (pp. 2, 4, 12). The only pore dimension it prints is the diameter of an ion binding site inside the selectivity filter, about 8 Å, which is not the gate (p. 11) and is easy to mistake for an open-pore diameter. The figures belong instead to the structure paper Darré is built on, Cao 2013 (PMID 24305161, PMC4023639), whose full text gives the lower gate as a 5.3 Å hydrophobic seal when closed, 7.6 Å with capsaicin and 9.3 Å fully open, and the selectivity filter widening from 4.6 to 7.6 Å at its narrowest point. So a structure paper does report these pore dimensions — the claim that the figures are given without one available is refuted — and attaching it corrects the closed figure from about 1 Å to about 5 Å."
  }
 ]

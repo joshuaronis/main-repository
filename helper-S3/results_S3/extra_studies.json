@@ -8,5 +8,15 @@
   ],
   "what_it_shows": "Single case report, postherpetic neuralgia, 76-year-old woman resistant to standard therapies: QST suggested an 'irritable nociceptor' pathophysiology; she was then treated with neat peppermint oil containing menthol, with almost immediate pain relief lasting 4–6 hours per application, continuing over 2 months of follow-up, with one minor side effect. Not a trial; no cold-hyperalgesia subgroup.",
   "quote_from_abstract": "The pattern of quantitative sensory testing results for this patient led the authors to believe that she had an \"irritable nociceptor\" type of pathophysiology."
+ },
+ {
+  "pmid": "24305161",
+  "citation": "Cao E, Liao M, Cheng Y, Julius D. TRPV1 structures in distinct conformations reveal activation mechanisms. Nature 2013;504(7478):113–118. doi:10.1038/nature12823 (PMC4023639)",
+  "found_in_paper": "S-686-06",
+  "bears_on_claim_ids": [
+   "E029"
+  ],
+  "what_it_shows": "The structure paper the page's pore figures belong to, and it contradicts one of them. Cryo-EM structures of TRPV1 in three states — apo/closed, capsaicin-bound, and resiniferatoxin plus double-knot toxin (fully open) — with pore radii calculated by the HOLE program. From the PubMed Central full text, section 'Opening of the lower gate': in the closed channel I679 in S6 forms a hydrophobic seal 5.3 Å across, called too narrow to pass hydrated ions — not about 1 Å; with RTX/DkTx the lower gate expands to 9.3 Å, which is close to the page's 'about 10 Å'; with capsaicin alone it reaches 7.6 Å and the selectivity filter does not change, a state the authors call partially activated. Section 'Rearrangements in the outer pore region': the pore helix tilts about 1.9 Å from the axis and the filter's narrowest point widens from 4.6 to 7.6 Å between G643 carbonyl oxygens. The paper's conclusion is a dual gate — selectivity filter above, hydrophobic constriction below — with the S1–S4 domain stationary, rather than a single iris-like widening. Figures read from the PMC full text (open access); the full text was kept outside the repository, so the quote recorded here is from the PubMed abstract.",
+  "quote_from_abstract": "TRPV1 opening is associated with major structural rearrangements in the outer pore, including the pore helix and selectivity filter, as well as pronounced dilation of a hydrophobic constriction at the lower gate, suggesting a dual gating mechanism."
  }
 ]
