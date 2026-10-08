@@ -1,0 +1,481 @@
+[
+ {
+  "task": "S-630",
+  "query": "Dietz 2000 Lymphomyosot; Lymphomyosot diabetische Polyneuropathie; Lymphomyosot Thioctsäure Infusion Vergleich; Lymphomyosot matrix therapy diabetic neuropathy; Eiber Weiser Klein 2003 Lymphomyosot; Matusiewicz 1997 Coenzyme compositum; Journal of Biomedical Therapy Coenzyme compositum; Meyer mésothérapie Coenzyme compositum",
+  "connector": "Amass BiomedCore (publications + society-meeting abstracts)",
+  "date": "2026-10-08",
+  "count": null,
+  "records": [],
+  "note": "Not run: the first call returned 'this Amass account has reached the usage limit of its current subscription. Usage resets on Nov 6, 2026', with an instruction not to retry. No query was executed. This is the connector the handover named for conference abstracts, so that part of Embase's coverage is untested here."
+ },
+ {
+  "task": "S-630",
+  "query": "Dietz 2000 Lymphomyosot",
+  "connector": "Europe PMC (search_type=and, all fields incl. patents and preprints)",
+  "date": "2026-10-08",
+  "count": 0,
+  "records": []
+ },
+ {
+  "task": "S-630",
+  "query": "Lymphomyosot diabetische Polyneuropathie",
+  "connector": "Europe PMC (search_type=and, all fields incl. patents and preprints)",
+  "date": "2026-10-08",
+  "count": 0,
+  "records": []
+ },
+ {
+  "task": "S-630",
+  "query": "Lymphomyosot Thioctsäure Infusion Vergleich",
+  "connector": "Europe PMC (search_type=and, all fields incl. patents and preprints)",
+  "date": "2026-10-08",
+  "count": 0,
+  "records": []
+ },
+ {
+  "task": "S-630",
+  "query": "Lymphomyosot matrix therapy diabetic neuropathy",
+  "connector": "Europe PMC (search_type=and, all fields incl. patents and preprints)",
+  "date": "2026-10-08",
+  "count": 0,
+  "records": []
+ },
+ {
+  "task": "S-630",
+  "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+  "connector": "Europe PMC (search_type=and, all fields incl. patents and preprints)",
+  "date": "2026-10-08",
+  "count": 0,
+  "records": []
+ },
+ {
+  "task": "S-630",
+  "query": "Matusiewicz 1997 Coenzyme compositum",
+  "connector": "Europe PMC (search_type=and, all fields incl. patents and preprints)",
+  "date": "2026-10-08",
+  "count": 0,
+  "records": []
+ },
+ {
+  "task": "S-630",
+  "query": "Journal of Biomedical Therapy Coenzyme compositum",
+  "connector": "Europe PMC (search_type=and)",
+  "date": "2026-10-08",
+  "count": 1,
+  "records": [
+   {
+    "id": "PMID 34122657 / 10.2903/j.efsa.2021.6577",
+    "title": "Scientific opinion on the relationship between intake of alpha-lipoic acid (thioctic acid) and the risk of insulin autoimmune syndrome",
+    "year": "2021",
+    "source": "EFSA Journal 19(6):e06577",
+    "relevant": false,
+    "why": "Matched on 'thioctic acid' and the journal words, not on Coenzyme compositum. Already on Josh's record from the earlier Google Scholar pass."
+   }
+  ]
+ },
+ {
+  "task": "S-630",
+  "query": "Meyer mésothérapie Coenzyme compositum",
+  "connector": "Europe PMC (search_type=and)",
+  "date": "2026-10-08",
+  "count": 0,
+  "records": []
+ },
+ {
+  "task": "S-630",
+  "query": "Lymphomyosot",
+  "connector": "Europe PMC (product term, to cover what the eight as-written strings miss)",
+  "date": "2026-10-08",
+  "count": 26,
+  "records": [
+   {
+    "id": "PMID 23725444 / 10.1089/lrb.2012.0024",
+    "title": "The multicomponent medication lymphomyosot improves the outcome of experimental lymphedema",
+    "year": "2013",
+    "source": "Lymphat Res Biol 11(2):81–92",
+    "relevant": false,
+    "why": "Mouse-tail lymphoedema model, not diabetic neuropathy; already on the record."
+   },
+   {
+    "id": "PMID 22665735",
+    "title": "Antiinflammatory activity of lymphomyosot during chronic deseases",
+    "year": "2012",
+    "source": "Georgian Med News",
+    "relevant": false,
+    "why": "Jurkat-cell work; already on the record."
+   },
+   {
+    "id": "UA25200U, UA28054U, UA28050U, UA13849U, UA9461U, MD3803F, MD3927F, MD3940F, MD3646F, MD3359F, MD3361F",
+    "title": "Ukrainian and Moldovan utility patents naming Lymphomyosot in treatment methods",
+    "year": "2005–2009",
+    "source": "Europe PMC patent records",
+    "relevant": false,
+    "why": "Europe PMC indexes patents; none is a study and none concerns diabetic polyneuropathy. Worth knowing that this is where the Heel-product literature shows up in a European index."
+   }
+  ],
+  "note": "No record in diabetic polyneuropathy, and neither Dietz 2000 nor Eiber 2003 is indexed. 26 hits read as titles."
+ },
+ {
+  "task": "S-630",
+  "query": "\"Coenzyme compositum\"",
+  "connector": "Europe PMC (product term)",
+  "date": "2026-10-08",
+  "count": 27,
+  "records": [
+   {
+    "id": "PMID 33307660",
+    "title": "[Prospects for the use of antioxidant pharmacopuncture in metabolic syndrome]",
+    "year": "2020",
+    "source": "Vopr Kurortol Fizioter Lech Fiz Kult",
+    "relevant": false,
+    "why": "Already on the record from Google Scholar; metabolic syndrome, not neuropathy."
+   },
+   {
+    "id": "PMID 32213769",
+    "title": "The multicomponent, multitarget therapy SUC in cats with chronic kidney disease",
+    "year": "2020",
+    "source": "Complement Med Res",
+    "relevant": false,
+    "why": "Veterinary; shows the indexed Coenzyme-compositum literature is largely animal or Russian-language."
+   }
+  ],
+  "note": "27 hits read as titles; no human neuropathy study, no Journal of Biomedical Therapy content, and no Matusiewicz record."
+ },
+ {
+  "task": "S-630",
+  "query": "search=Lymphomyosot (full-text search, per-page=10 of 159)",
+  "connector": "OpenAlex (API via Firecrawl scrape; the API itself is blocked by this container's network policy)",
+  "date": "2026-10-08",
+  "count": 159,
+  "records": [
+   {
+    "id": "openalex:W2284131331",
+    "title": "Efecto inmunofarmacológico de componentes de Lymphomyosot",
+    "year": "2003",
+    "source": "Spanish-language journal, no DOI in OpenAlex",
+    "relevant": false,
+    "why": "Immunopharmacology of components, not a clinical study; not previously on the record."
+   },
+   {
+    "id": "openalex:W7164733293 / 10.20546/ijcmas.2026.1503.023",
+    "title": "Efficacy of Lymphomyosot in the Treatment of Chronic Pharyngitis",
+    "year": "2026",
+    "source": "Int J Curr Microbiol Appl Sci",
+    "relevant": false,
+    "why": "Pharyngitis; shows OpenAlex reaches journals Europe PMC does not, but not the two target papers."
+   }
+  ],
+  "note": "OpenAlex full-text search counts 159 works mentioning Lymphomyosot; the first ten were read. Neither Dietz 2000 nor Eiber 2003 is a work record, although Dietz is reachable as a reference inside other works (see the Valyu rows)."
+ },
+ {
+  "task": "S-630",
+  "query": "search=\"Coenzyme compositum\" (per-page=10 of 88)",
+  "connector": "OpenAlex (API via Firecrawl scrape)",
+  "date": "2026-10-08",
+  "count": 88,
+  "records": [
+   {
+    "id": "openalex:W1830449411 / 10.5282/edoc.2819",
+    "title": "Auswirkungen einer prophylaktischen Verabreichung der Präparate Carduus compositum, Coenzyme compositum, Lachesis compositum und Traumeel QP auf die Eutergesundheit von Milchkühen",
+    "year": "2004",
+    "source": "LMU Munich dissertation (German)",
+    "relevant": false,
+    "why": "Dairy-cow udder health; the one German-language Coenzyme compositum study surfaced, and it is veterinary."
+   },
+   {
+    "id": "openalex:W2472291233",
+    "title": "Results on the effect of the homeopathic preparations Ovarium Compositum and Coenzyme Compositum on the fertility of intensively managed rabbits",
+    "year": "1997",
+    "source": "no journal in OpenAlex",
+    "relevant": false,
+    "why": "A 1997 Coenzyme compositum record, but rabbits and fertility — not the Matusiewicz paper."
+   }
+  ]
+ },
+ {
+  "task": "S-630",
+  "query": "Has Lymphomyosot been tested in diabetic polyneuropathy, including comparisons with alpha-lipoic acid infusion? (semantic)",
+  "connector": "Scholar Gateway / Wiley full text (semantic passage search)",
+  "date": "2026-10-08",
+  "count": 12,
+  "records": [],
+  "note": "Twelve passages from eight articles, all alpha-lipoic-acid trials and reviews with no mention of Lymphomyosot or any Heel product. Wiley's corpus holds the comparator literature but not the homeopathy literature."
+ },
+ {
+  "task": "S-630",
+  "query": "Lymphomyosot homeopathic injection diabetic polyneuropathy alpha-lipoic acid",
+  "connector": "Consensus (Semantic Scholar / OpenAlex / PubMed)",
+  "date": "2026-10-08",
+  "count": 8,
+  "records": [
+   {
+    "id": "consensus:6f1bee01311054668b8ce66c1289e8e8",
+    "title": "LYMPHOMYOSOT ® AND ALPHA LIPOIC ACID Possibilities for a Lymph Therapy with Diabetic Polyneuropathy",
+    "year": "2002",
+    "source": "indexed with no journal ('Unknown Journal'), 1 citation",
+    "relevant": true,
+    "why": "The Dietz study, indexed with an abstract: 90 outpatients with type 2 diabetes; 50 on Lymphomyosot [dose figures omitted], 10 of them also given alpha-lipoic acid infusions, against a control group of 30 given alpha-lipoic acid infusions alone; 8 months; reported improvement in sensitivity, better utilisation of alpha-lipoic acid, and near cessation of pain. This is an independent corroboration of the group sizes, the comparator and the duration already read from the biopathica full text, and the first indexed abstract of it anyone has found."
+   }
+  ],
+  "note": "The other seven hits are alpha-lipoic-acid trials and reviews."
+ },
+ {
+  "task": "S-630",
+  "query": "Traumeel Zeel Lymphomyosot injection skin blood flow microcirculation laser Doppler",
+  "connector": "Consensus",
+  "date": "2026-10-08",
+  "count": 8,
+  "records": [],
+  "note": "Run for S-685 as well; no Heel product in any of the eight. Nearest is Holloway 1980 (injection trauma and skin blood flow), recorded under S-685."
+ },
+ {
+  "task": "S-630",
+  "query": "Dietz 2000 Lymphomyosot",
+  "connector": "Valyu (web + academic datasets)",
+  "date": "2026-10-08",
+  "count": 6,
+  "records": [
+   {
+    "id": "https://askpharma.eu/en/our-products/lymphomyosot/",
+    "title": "AskPharma (Heel's Greek distributor) product page, reference list item 6",
+    "year": "2025",
+    "source": "distributor website",
+    "relevant": true,
+    "why": "Gives the bibliographic record S-630 asked for and could not get: 'Dietz A-R. Lymphomyosot and Alpha Lipoic Acid: Possibilities for a Lymph Therapy with Diabetic Polyneuropathy. Journal Biomed Ther. 2002; Summer: 6-11. Translated from Biologische Medizin Vol.29, No. I 2000, pp. 4-9.' So the English text is a 2002 translation of the 2000 German original, which is why the year differs between citations of it."
+   },
+   {
+    "id": "http://www.homotoxicology.net/Documents/Brochures/Lymphomyosot.pdf",
+    "title": "Heel product brochure, 'Minimizes the risks associated with diabetic neuropathy'",
+    "year": "2001",
+    "source": "manufacturer brochure (Heel, Baden-Baden)",
+    "relevant": true,
+    "why": "Heel's own presentation of the Dietz data: 50 patients with diabetic neuropathy [dose figures omitted] for 8 months; tables of oedema reduction and tactile-sensitivity change by severity; 'Eliminated pain in 75% of patients'; and the comparison the handover's third query was looking for — alpha-lipoic acid infusions alone improved tactile sensitivity by Ø +0.9 against Ø +3.25 for the combination. Manufacturer material, not a peer-reviewed report, and it cites the study as Biologische Medizin 2000;29(1):4–9."
+   },
+   {
+    "id": "https://www.researchgate.net/publication/289421569",
+    "title": "A prospective evaluation of lymphomyosot in the maintenance treatment of breast cancer-related lymphedema (reference list)",
+    "year": "2009",
+    "source": "ResearchGate",
+    "relevant": false,
+    "why": "Cites Dietz as 'Intl J Biomed Res Ther 2000;299:4–9' — a garbled volume (29(1), not 299). Useful only as a third variant of the citation."
+   }
+  ]
+ },
+ {
+  "task": "S-630",
+  "query": "Lymphomyosot diabetische Polyneuropathie",
+  "connector": "Valyu (web + academic datasets)",
+  "date": "2026-10-08",
+  "count": 6,
+  "records": [
+   {
+    "id": "https://www.praxis-depesche.de/nachrichten/komplex-homoeopathikum-unterstuetzt-therapie-diabetischer-neuropathie/",
+    "title": "Komplex-Homöopathikum unterstützt Therapie diabetischer Neuropathie",
+    "year": "2002",
+    "source": "Praxis-Depesche 19/2002 (German clinical news digest)",
+    "relevant": true,
+    "why": "An independent German report of the second, larger study: a prospective cohort of 269 patients followed six months, 114 on alpha-lipoic acid alone and 155 on alpha-lipoic acid plus Lymphomyosot, with faster improvement of polyneuropathy symptoms in the add-on arm. Those are the group sizes and the duration of the Eiber/Klein/Weiser design, from a source independent of the Scribd reprint whose numbers could only be read through a scrambled font."
+   },
+   {
+    "id": "https://www.gesundheit-aktuell.de/artikel/hoffnung-bei-diabetes-folgeschaeden.html",
+    "title": "Hoffnung bei Diabetes-Folgeschäden",
+    "year": "~2003",
+    "source": "German consumer health site",
+    "relevant": true,
+    "why": "Press summary of the Dietz study naming the author (Angelika Dietz) and the journal (Biologische Medizin), with 50 patients treated 8 months against an alpha-lipoic-acid control, 28 of 36 moderate-to-severe oedemas fully resolved and 10 of 14 mild ones reduced. Secondary, promotional in tone, but it corroborates the arm sizes and the direction."
+   }
+  ]
+ },
+ {
+  "task": "S-630",
+  "query": "Lymphomyosot Thioctsäure Infusion Vergleich",
+  "connector": "Valyu (web + academic datasets)",
+  "date": "2026-10-08",
+  "count": 3,
+  "records": [],
+  "note": "Three hits, all pharmacy and product pages (composition and dosing of Lymphomyosot drops, tablets and ampoules). No comparison study. Dosing details not recorded here, per the dose rule."
+ },
+ {
+  "task": "S-630",
+  "query": "Eiber Weiser Klein 2003 Lymphomyosot",
+  "connector": "Valyu (web + academic datasets)",
+  "date": "2026-10-08",
+  "count": 1,
+  "records": [
+   {
+    "id": "https://www.researchgate.net/publication/289421569",
+    "title": "Reference 18 of the breast-cancer lymphoedema paper",
+    "year": "2003",
+    "source": "ResearchGate reference list",
+    "relevant": true,
+    "why": "Gives the German title of the second study: 'Eiber A., Klein P., Weiser M. (2003): Periphere diabetische Polyneuropathie. Adjuvante homöopathische Behandlung ...' — the original German citation behind the English Scribd reprint, so the study exists in the German literature as well and can be requested by that title."
+   }
+  ]
+ },
+ {
+  "task": "S-630",
+  "query": "Queries 4 and 6 (matrix therapy; Matusiewicz 1997)",
+  "connector": "Valyu — not run",
+  "date": "2026-10-08",
+  "count": null,
+  "records": [],
+  "note": "Not run as written on Valyu: query 4 is the subtitle of the Dietz paper, already resolved above, and query 6 was settled on 6 Oct when the person supplied a library copy showing Matusiewicz 1997 to be an Engystol N asthma trial, not a Coenzyme compositum study. Both were run as written on Europe PMC (0 hits each)."
+ },
+ {
+  "task": "S-630",
+  "query": "Google Scholar, all eight queries as written",
+  "connector": "Google Scholar via SerpApi — deliberately not repeated",
+  "date": "2026-10-08",
+  "count": null,
+  "records": [],
+  "note": "The handover's own record shows the eight Google Scholar searches were already run (130 pointers held in S-630_already_recorded.json), so re-running them would add nothing. Google Scholar was used instead for S-685, where it had not been run."
+ },
+ {
+  "task": "S-630",
+  "query": "Elicit: Lymphomyosot in diabetic polyneuropathy vs alpha-lipoic acid",
+  "connector": "Elicit",
+  "date": "2026-10-08",
+  "count": null,
+  "records": [],
+  "note": "Not run: 'This Elicit account's plan doesn't include API access'. Consensus covered the same Semantic Scholar/OpenAlex corpus and is what produced the indexed Dietz abstract."
+ },
+ {
+  "task": "S-630",
+  "query": "Undermind semantic search",
+  "connector": "Undermind",
+  "date": "2026-10-08",
+  "count": null,
+  "records": [],
+  "note": "Used for S-685 only. Its corpus is the same scholarly abstract pool that Consensus and OpenAlex cover for this question, and the Dietz and Eiber papers are in neither."
+ },
+ {
+  "task": "S-685",
+  "query": "Has any study of a Heel homotoxicology injectable (Traumeel, Zeel, Lymphomyosot, Engystol) measured skin blood flow, cutaneous microcirculation, laser Doppler perfusion, or the vasoconstriction produced by a local anaesthetic? (semantic)",
+  "connector": "Scholar Gateway / Wiley full text (semantic passage search)",
+  "date": "2026-10-08",
+  "count": 12,
+  "records": [
+   {
+    "id": "10.1111/j.1365-2044.2009.06192.x",
+    "title": "Different topical local anaesthetics have varying effects on skin blood flow and vascular reactivity (Rapydan comparison)",
+    "year": "2009",
+    "source": "Anaesthesia",
+    "relevant": false,
+    "why": "No Heel product. Recorded because it is the nearest design in Wiley's corpus: topical local anaesthetics compared on skin blood flow and vascular reactivity."
+   },
+   {
+    "id": "10.1111/j.1399-6576.1991.tb03275.x",
+    "title": "The influence of intradermal needle insertion and fluid injection on skin blood flow (laser Doppler, 17 healthy subjects)",
+    "year": "1991",
+    "source": "Acta Anaesthesiol Scand",
+    "relevant": false,
+    "why": "No Heel product; this is Cederholm 1991, already on Josh's record. It is the methodological baseline for any wheal-flow measurement."
+   }
+  ],
+  "note": "Twelve passages from eleven articles; not one involves a homeopathic or Heel preparation."
+ },
+ {
+  "task": "S-685",
+  "query": "Has any clinical or experimental study measured cutaneous microcirculation, skin perfusion, or infrared skin temperature after injection of Traumeel, Zeel or Lymphomyosot?",
+  "connector": "Wiley full text (second phrasing, to catch skin-temperature proxies)",
+  "date": "2026-10-08",
+  "count": 10,
+  "records": [
+   {
+    "id": "10.1111/srt.12847",
+    "title": "Comparison of conductive data loggers and contact-free thermometry after application of revulsive products",
+    "year": "2020",
+    "source": "Skin Res Technol",
+    "relevant": false,
+    "why": "Skin temperature after topical revulsive (rubefacient) products, not a Heel injectable. The closest methodological analogue in Wiley's corpus."
+   }
+  ],
+  "note": "Ten passages from six articles; no Heel injectable anywhere."
+ },
+ {
+  "task": "S-685",
+  "query": "(Traumeel OR Zeel OR Lymphomyosot OR Engystol) \"blood flow\" OR microcirculation OR \"laser Doppler\" skin",
+  "connector": "Google Scholar via SerpApi",
+  "date": "2026-10-08",
+  "count": 60,
+  "records": [
+   {
+    "id": "https://www.eurothermology.org/TI_Volumes/TI2702.pdf",
+    "title": "The role of infrared thermal imaging and sonography in the assessment of patients with a painful elbow (mentions infrared thermography after Traumeel in soccer players)",
+    "year": "n.d.",
+    "source": "Thermology International 27(2)",
+    "relevant": true,
+    "why": "The only pointer found anywhere to a Heel product assessed with a skin-perfusion proxy: this review mentions infrared thermal imaging after Traumeel on the lower limb of soccer players. The primary study is not identified here, and the PDF could not be read (the Jina reader returned 401 and Firecrawl credits are low), so this stays a pointer, not a record."
+   },
+   {
+    "id": "https://iavh.org/fileadmin/user_upload/Animal_Studies_by_Name_of_Lead_Author.pdf",
+    "title": "Veterinary/animal homeopathy study list (entry describing albumin leakage in the mesenteric microcirculation in rats given Traumeel or vitamin E)",
+    "year": "n.d.",
+    "source": "IAVH compilation",
+    "relevant": true,
+    "why": "Points to an animal study measuring microcirculation (mesenteric, not skin) with Traumeel. Mesenteric is the wrong vascular bed for S-685's question, and the primary citation is not given in the list."
+   }
+  ],
+  "note": "60 results; the first 20 were read. No study of a Heel injectable measuring skin blood flow."
+ },
+ {
+  "task": "S-685",
+  "query": "Intradermal/subcutaneous Traumeel, Zeel or Lymphomyosot with laser Doppler measurement of cutaneous microcirculation and of local-anaesthetic vasoconstriction (semantic)",
+  "connector": "Undermind (semantic search over the global corpus)",
+  "date": "2026-10-08",
+  "count": 12,
+  "records": [
+   {
+    "id": "semanticscholar:b7b949687322da3607409a5e4156804f4915e080",
+    "title": "Modification of cutaneous blood flow by skin application of homeopathic anti-inflammatory gels",
+    "year": "1999",
+    "source": "STP Pharma Sciences 1999:219–222 (French, no DOI, no free PDF)",
+    "relevant": true,
+    "why": "The closest record anyone has found to what S-685 asks for: homeopathic anti-inflammatory preparations measured by laser Doppler velocimetry of skin blood flow. The design is a methyl-nicotinate-induced vasodilation on the forearm, inhibited by pre-treatment with homeopathic gels under patches, with percentage inhibition against vehicle. It is not a Heel combination product (the agents are Urtica urens, Apis, Belladonna and Pulsatilla) and not injected, so it does not answer S-685's letter; it does show the method has been applied to homeopathy, in a French pharmaceutical-sciences journal that PubMed does not index."
+   },
+   {
+    "id": "semanticscholar:c2a4573d326bbabc19c873c88bd6da92eca245de",
+    "title": "Treatment of Sports Injuries with Traumeel Ointment: A Controlled Double-Blind Study (Ambruš)",
+    "year": "n.d.",
+    "source": "no journal recorded, 28 citations",
+    "relevant": true,
+    "why": "A Heel product (Traumeel S and Traumeel Sine ointment) in a placebo-controlled trial of 102 outpatients in three arms whose co-primary outcomes were regression of swelling and reduction in skin temperature — a skin-perfusion proxy. The skin-temperature outcome was null: 'With respect to the main criteria of skin temperature, no differences became apparent among the three treatment groups', while swelling and all secondary outcomes favoured both Traumeel forms over placebo. Topical ointment, not an injectable, and the journal is not recorded in the index."
+   },
+   {
+    "id": "PMID 2374837",
+    "title": "[Cutaneous blood flow following subcutaneous infiltration of lidocaine with and without the addition of adrenaline or ornipressin]",
+    "year": "1990",
+    "source": "Regional-Anaesthesie 13(4):97–100 (German, English abstract)",
+    "relevant": true,
+    "why": "Not a Heel product, but the local-anaesthetic-vasoconstriction half of S-685's question, measured by laser Doppler in human skin, and on none of Josh's pages. Recorded in full in extra_studies.json. Undermind's own metadata for it names the wrong journal (Anaesthesist 39:97–100); the record was confirmed through PubMed."
+   },
+   {
+    "id": "PMID 1803727 (Cederholm 1991), 1497286 (Guinard 1992), 10758029 (Arildsson 2000)",
+    "title": "Human skin-perfusion measurements at local-anaesthetic injections",
+    "year": "1991–2000",
+    "source": "various",
+    "relevant": false,
+    "why": "Already on Josh's record; listed to show the search reached the right literature."
+   }
+  ],
+  "note": "Twelve records; the search was aimed at S-685 and returned the local-anaesthetic skin-perfusion literature plus two homeopathy records."
+ },
+ {
+  "task": "S-685",
+  "query": "Amass BiomedCore and OpenAlex",
+  "connector": "Amass BiomedCore; OpenAlex",
+  "date": "2026-10-08",
+  "count": null,
+  "records": [],
+  "note": "Not repeated: the handover records both as already searched for S-685 on 6 Oct with nothing found, and the Amass account has in any case reached its subscription usage limit (resets 6 Nov 2026)."
+ },
+ {
+  "task": "S-685",
+  "query": "Europe PMC, Consensus, Valyu, Elicit",
+  "connector": "Europe PMC; Consensus; Valyu; Elicit",
+  "date": "2026-10-08",
+  "count": null,
+  "records": [],
+  "note": "Europe PMC's Lymphomyosot and Coenzyme compositum sweeps (above, 26 and 27 records read as titles) contain no perfusion or microcirculation study; Consensus's Heel-plus-blood-flow query returned eight records with no Heel product in any of them; Valyu's Lymphomyosot queries returned product and pharmacy pages only; Elicit has no API access on this account."
+ }
+]

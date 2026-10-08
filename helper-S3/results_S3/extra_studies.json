@@ -18,5 +18,19 @@
   ],
   "what_it_shows": "The structure paper the page's pore figures belong to, and it contradicts one of them. Cryo-EM structures of TRPV1 in three states — apo/closed, capsaicin-bound, and resiniferatoxin plus double-knot toxin (fully open) — with pore radii calculated by the HOLE program. From the PubMed Central full text, section 'Opening of the lower gate': in the closed channel I679 in S6 forms a hydrophobic seal 5.3 Å across, called too narrow to pass hydrated ions — not about 1 Å; with RTX/DkTx the lower gate expands to 9.3 Å, which is close to the page's 'about 10 Å'; with capsaicin alone it reaches 7.6 Å and the selectivity filter does not change, a state the authors call partially activated. Section 'Rearrangements in the outer pore region': the pore helix tilts about 1.9 Å from the axis and the filter's narrowest point widens from 4.6 to 7.6 Å between G643 carbonyl oxygens. The paper's conclusion is a dual gate — selectivity filter above, hydrophobic constriction below — with the S1–S4 domain stationary, rather than a single iris-like widening. Figures read from the PMC full text (open access); the full text was kept outside the repository, so the quote recorded here is from the PubMed abstract.",
   "quote_from_abstract": "TRPV1 opening is associated with major structural rearrangements in the outer pore, including the pore helix and selectivity filter, as well as pronounced dilation of a hydrophobic constriction at the lower gate, suggesting a dual gating mechanism."
+ },
+ {
+  "pmid": "2374837",
+  "citation": "Fruhstorfer H, Nolte H, Ziegenhagel U. [Cutaneous blood flow following subcutaneous infiltration of lidocaine with and without the addition of adrenaline or ornipressin]. Reg Anaesth 1990 Jun;13(4):97–100 (German, English abstract; no DOI). Found through PubMed after Undermind surfaced the record; its Undermind metadata gives the journal as Anaesthesist 39:97–100, which is wrong.",
+  "found_in_paper": "Task 2 / S-685 connector search (Undermind), not a packet paper",
+  "bears_on_claim_ids": [
+   "C087",
+   "C088",
+   "D000",
+   "C072",
+   "C085"
+  ],
+  "what_it_shows": "A laser-Doppler measurement of human skin perfusion at an intracutaneous local-anaesthetic infiltration, in twelve volunteers, with four solutions: plain lidocaine, lidocaine with adrenaline, and lidocaine with a vasopressin analogue (ornipressin) at two concentrations [dose figures omitted]. The skin was heated to maximal perfusion first, so every change is measured downwards from a vasodilated baseline: plain lidocaine alone cut perfusion to 59 ± 25% of maximal, adrenaline took it to 19 ± 21%, and the vasopressin analogue to 23 ± 16% and 26 ± 23%; the latency of maximal reduction was the same for all four. Raising the vasopressin analogue's concentration did not deepen the vasoconstriction. Bearing on the claims: C087 (nobody has found a dilution at which epinephrine widens skin vessels) is corroborated by an independent measurement; C088 stands, because these were healthy forearms with no neuropathic comparator; D000 and D060 stand, because the abstract reports a minimal flow and a latency, not a recording beyond ninety minutes. The point worth carrying to the pages is that the plain solution was itself a net narrower against a heat-maximised baseline. Not read in full: German, no PDF free, abstract only. It appears on no page of the record and in no claim — the clearest example of what an Embase-style index of German-language anaesthesia journals adds.",
+  "quote_from_abstract": "Blood flow was measured with a laser Doppler flowmeter; before the infiltration the skin was locally heated to 40 degrees C in order to obtain maximal perfusion (Flow 100) … Lido caused a significant decrease in flow to 59 +/- 25% (M +/- SD)."
  }
 ]
