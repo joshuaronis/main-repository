@@ -594,5 +594,512 @@
   "needs_full_text": [],
   "_source_line": 1991,
   "_note": "only-study claim about Kim 1979"
+ },
+ {
+  "claim_id": "W-R025",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "9a.5 Mepivacaine; 9a.2 The only six-drug human intradermal head-to-head",
+  "claim": "And yet in human skin it is the most consistent vasoconstrictor of the six drugs ever compared head to head — significant at all three concentrations, P < 0.001, the only drug in Willatts & Reynolds to reach that threshold (9a.2).",
+  "elements_said_absent": {
+   "population": "human skin",
+   "intervention": "six local anaesthetics",
+   "design": "head-to-head intradermal",
+   "outcome": "vasoactivity",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\") AND (lidocaine OR lignocaine) AND (bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR procaine OR chloroprocaine OR etidocaine OR articaine OR tetracaine OR amethocaine) AND (comparison OR compared OR comparative) AND (volunteers OR volunteer OR \"healthy subjects\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 13,
+    "screened": 13,
+    "date_searched": "2026-10-07T06:15:11Z"
+   },
+   {
+    "query": "intradermal injection healthy volunteers comparison of local anaesthetic agents duration of skin analgesia wheal",
+    "engine": "amass",
+    "count": 30,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "TITLE_ABS:(intradermal OR intracutaneous OR \"skin wheal\" OR \"skin weal\" OR \"intradermally\") AND TITLE_ABS:(\"local anaesthetics\" OR \"local anesthetics\" OR \"local anaesthetic\" OR \"local anesthetic\" OR lignocaine OR lidocaine OR mepivacaine OR prilocaine OR procaine OR bupivacaine) AND TITLE_ABS:(vasoconstrictor OR vasoconstriction OR pallor OR blanching OR vasodilatation OR vasodilation OR \"vascular effects\" OR erythema) AND TITLE_ABS:(volunteers OR subjects OR human OR comparison OR compared)",
+    "engine": "europepmc",
+    "count": 38,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "4041306",
+    "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011",
+    "matches": "The claim's own source, and it is a genuine six-drug head-to-head: two esters (procaine, amethocaine) and four amides (cinchocaine, lignocaine, mepivacaine, prilocaine) by intradermal injection in 10 volunteers, double-blind, with vascular effects and duration of action recorded and mepivacaine singled out for a marked vasoconstrictor effect.",
+    "misses": "Nothing within the claim's scope."
+   },
+   {
+    "pmid": "776194",
+    "citation": "Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent aptocaine. Br J Anaesth 1976;48:347-352",
+    "matches": "A second multi-agent human intradermal head-to-head with a vasoactivity endpoint, by the same senior author: double-blind, aptocaine against lignocaine and bupivacaine in 28 volunteers and against mepivacaine and prilocaine in 27 subjects, with area of anaesthesia, duration of action and vasoconstrictor activity all reported, and mepivacaine among the comparators.",
+    "misses": "Five agents, not six, and the comparison is split across two separate trials in two different subject groups rather than one head-to-head in a single group."
+   },
+   {
+    "pmid": "7326166",
+    "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53:1211-1216",
+    "matches": "Human intradermal head-to-head with vascular effect and duration endpoints in 23 volunteers, and it is about mepivacaine specifically, including its vasoconstrictor power across a concentration range.",
+    "misses": "Three preparations of one drug (two isomers and the racemate) plus saline, not six drugs."
+   },
+   {
+    "pmid": "7887101",
+    "citation": "Prien T. Intradermal anaesthesia: comparison of several compounds. Acta Anaesthesiol Scand 1994;38",
+    "matches": "Randomised double-blind intradermal wheal study of six preparations in 600 patients, including two mepivacaine products.",
+    "misses": "Outcome is pain on infiltration and on cannulation, not vasoactivity or duration; one preparation per patient, so between-subject rather than head-to-head within subjects; the six preparations include saline and two brands of one drug."
+   },
+   {
+    "pmid": "30035116",
+    "citation": "Local Anesthetics, Procaine, Lidocaine, and Mepivacaine Show Vasodilatation but No Type 1 Allergy: A Double-Blind, Placebo-Controlled Study. 2017",
+    "matches": "Double-blind placebo-controlled human intradermal study of three local anaesthetics with a vascular (vasodilatation) endpoint, mepivacaine among them.",
+    "misses": "Three drugs, not six; record read from the Europe PMC listing only, as the Amass record fetch was refused once the subscription limit was reached."
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": false,
+  "evidence_pmid": "776194",
+  "quote": "In terms of activity as determined by area of anaesthesia, and of duration of action, aptocaine was similar to mepivacaine and more active and long-lasting than lignocaine and prilocaine.",
+  "proposed_wording": "Willatts & Reynolds 1985 (PMID 4041306) appears to be the only study comparing six local anaesthetics head to head by intradermal injection in one group of volunteers with a vasoactivity endpoint; a second multi-agent human intradermal head-to-head with a vasoconstrictor endpoint, covering five agents including mepivacaine across two subject groups, exists (Reynolds 1976, PMID 776194), as do smaller human intradermal comparisons (Fairley & Reynolds 1981, PMID 7326166).",
+  "reason": "Reynolds 1976 matches the population (human skin), the design (double-blind intradermal head-to-head) and the outcome (vasoconstrictor activity, with duration also recorded), and it includes mepivacaine among the comparators; it does not match the 'six drugs' element, covering five agents in two separate trials of 28 and 27 subjects rather than six in one group. So the literal uniqueness of the six-drug design survives, but 'the six drugs ever compared head to head' overstates the universe of human intradermal vasoactivity comparisons, and mepivacaine's standing was also assessed against other agents in 1976. The page's convention at 0.1 means the fix is to the wording.",
+  "needs_full_text": [],
+  "_source_line": 2301,
+  "_note": "only-study claim about Willatts & Reynolds 1985"
+ },
+ {
+  "claim_id": "W-R026",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "15.2 Duration",
+  "claim": "Standing: 48 citing publications, 36 classified statements — 1 supporting, 1 contrasting, no editorial notices; the contrasting statement concerns onset time in a dental study, and no paper has contradicted the 21.5-hour duration.",
+  "elements_said_absent": {
+   "population": "any",
+   "intervention": "ropivacaine",
+   "design": "any",
+   "outcome": "contradiction of the 21.5-hour duration",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "ropivacaine AND (\"digital block\" OR \"digital nerve block\" OR \"digital nerve blocks\" OR \"digital blocks\" OR \"ring block\" OR \"finger block\" OR \"toe block\" OR \"wing block\" OR \"transthecal\" OR \"metacarpal block\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 27,
+    "screened": 27,
+    "date_searched": "2026-10-07T06:22:22Z"
+   },
+   {
+    "query": "TITLE_ABS:(ropivacaine) AND TITLE_ABS:(\"digital nerve block\" OR \"digital block\" OR \"digital blocks\" OR \"finger block\" OR \"ring block\" OR \"wrist block\" OR \"ankle block\" OR \"web space\") AND TITLE_ABS:(duration OR analgesia OR anesthesia OR anaesthesia OR onset)",
+    "engine": "europepmc",
+    "count": 16,
+    "screened": 16,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "17519714",
+    "citation": "Keramidas EG, Rodopoulou SG. Ropivacaine versus lidocaine in digital nerve blocks: a prospective study. Plast Reconstr Surg 2007;119:2148-2152",
+    "matches": "The claim's own source; prospective randomised double-blind, 70 patients having digit reconstruction, mean duration of postoperative anaesthesia 21.5 hours (range 19 to 23) for ropivacaine against 2.4 hours for lidocaine.",
+    "misses": "Nothing; this is the figure under test."
+   },
+   {
+    "pmid": "23076005",
+    "citation": "Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Hafner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253",
+    "matches": "A second measurement of the same thing: prospective double-blind randomised, 20 volunteers and 80 fingers, two-injection dorsal-technique digital nerve block, with plain ropivacaine as one arm and duration of pain reduction as an outcome. The arms other than ropivacaine-with-epinephrine, which includes plain ropivacaine, gave pain reduction between 4.6 and 8.1 hours - below the lower bound of the Keramidas range for the same drug and the same block.",
+    "misses": "Healthy volunteers without an operation rather than postoperative patients, and the endpoint is duration of pain reduction rather than duration of anaesthesia, so the two figures are not strictly the same measurement."
+   }
+  ],
+  "verdict": "refuted",
+  "uncertain": false,
+  "evidence_pmid": "23076005",
+  "quote": "The longest pain reduction was shown for ropivacaine [dose figure omitted] and epinephrine with 18.0 hours (group 2); the other groups were between 4.6 to 8.1 hours.",
+  "proposed_wording": "A second double-blind randomised study of ropivacaine digital nerve block reports a markedly shorter duration of pain reduction for plain ropivacaine than the 21.5 hours of Keramidas 2007 (Schnabl 2013, PMID 23076005, 20 volunteers, 80 fingers); the citation-statement count does not register it.",
+  "reason": "Schnabl 2013 measures duration after a ropivacaine digital nerve block - the same drug, route and block type as Keramidas - and reports every arm except ropivacaine-with-epinephrine, plain ropivacaine included, as giving pain reduction well below the lower bound of the Keramidas 19-to-23-hour range. So a published paper does reach a conflicting figure even though no citing paper was classified as contrasting. This is exactly the failure the page's own convention at 0.1 warns about, so the correction is to the Standing clause's wording: the count means no citing paper was classified as contradicting, not that no study disagrees. The populations differ (volunteers without surgery versus postoperative patients) and the endpoints are named differently, which should be stated alongside.",
+  "needs_full_text": [],
+  "_source_line": 2877,
+  "_note": "citation-standing claim; the page's own convention at 0.1 warns that zero contrasting citation statements does not mean no study disagrees"
+ },
+ {
+  "claim_id": "W-R027",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "4.4 The full concentration ladder",
+  "claim": "This pools the 1991, 1992 and 1994 studies and gives the complete ordering that no single paper provides.",
+  "elements_said_absent": {
+   "population": "human skin",
+   "intervention": "ropivacaine concentration ladder",
+   "design": "any",
+   "outcome": "the complete ordering",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "ropivacaine AND (skin OR cutaneous OR dermal OR intradermal OR fingertip OR fingerpad OR \"digital\") AND (\"blood flow\" OR perfusion OR \"laser Doppler\" OR vasoconstriction OR vasodilation OR vasodilatation OR flux OR \"microcirculation\" OR \"skin temperature\" OR \"perfusion index\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 45,
+    "screened": 45,
+    "date_searched": "2026-10-07T06:09:03Z"
+   },
+   {
+    "query": "ropivacaine AND intradermal",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 16,
+    "screened": 16,
+    "date_searched": "2026-10-07T06:27:42Z"
+   },
+   {
+    "query": "TITLE_ABS:(ropivacaine) AND TITLE_ABS:(\"skin blood flow\" OR \"laser Doppler\" OR intradermal OR \"cutaneous blood flow\" OR perfusion) AND TITLE_ABS:(concentration OR concentrations OR \"dose-response\" OR \"dose response\" OR dose)",
+    "engine": "europepmc",
+    "count": 34,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "1286053",
+    "citation": "Cederholm I, Evers H, Lofstrom JB. Skin blood flow after intradermal injection of ropivacaine in various concentrations with and without epinephrine evaluated by laser Doppler flowmetry. Reg Anesth 1992;17:322-328",
+    "matches": "The single paper that comes closest to a complete ladder: 23 volunteers, randomised double-blind, laser Doppler flowmetry at 20, 40, 60 and 90 min, five ropivacaine concentrations in series 1 with saline, lidocaine and an untreated area as controls, and three concentrations with epinephrine in series 2, reported as a dose-response relationship.",
+    "misses": "Two rungs of the ladder the page tabulates are absent from this paper, and it carries no bupivacaine arm, so the cross-drug rows of the ordering are not in it."
+   },
+   {
+    "pmid": "8067217",
+    "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38:322-327",
+    "matches": "Covers the upper half of the concentration range for ropivacaine and bupivacaine, plain and with adrenaline, in 10 volunteers.",
+    "misses": "Vascular effect by visual inspection (nil, pink, pale) rather than laser Doppler flow, so its rungs are not on the same measurement scale as the 1992 paper's."
+   },
+   {
+    "pmid": "2038927",
+    "citation": "Cederholm I, Evers H, Lofstrom JB. Effect of intradermal injection of saline or a local anaesthetic agent on skin blood flow - a methodological study in man. Acta Anaesthesiol Scand 1991;35:208-215",
+    "matches": "Supplies the saline, needle-size and three-drug comparison rows by laser Doppler in 17 volunteers.",
+    "misses": "Only two concentrations per drug, so it provides no ladder of its own."
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "",
+  "quote": "",
+  "proposed_wording": "Not found in searches of Europe PMC and in an earlier worker's PubMed searches through October 2026: no single paper reporting the whole ropivacaine intradermal concentration ladder on one measurement scale. The nearest is Cederholm 1992 (PMID 1286053), which covers five concentrations by laser Doppler flowmetry with saline, lidocaine and untreated controls; the remaining rungs and the bupivacaine rows come from Cederholm 1991 (PMID 2038927) and 1994 (PMID 8067217).",
+  "reason": "Three searches turned up only the three Cederholm papers and no fourth source covering the full range. Each covers part of it: 1992 has the longest flow ladder but misses two of the concentrations the page tabulates and has no bupivacaine arm, while 1994 spans the upper concentrations but scores vascular effect visually rather than by flow. So the thesis is doing real pooling work and the claim holds, with the qualification that one paper already carries most of the flow ladder.",
+  "needs_full_text": [],
+  "_source_line": 732,
+  "_note": "only-source claim about the Cederholm 1994 dissertation"
+ },
+ {
+  "claim_id": "W-R028",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "An independent replication of the peak",
+  "claim": "(b) It calculates the expected local tissue concentration, which nobody else has done.",
+  "elements_said_absent": {
+   "population": "any",
+   "intervention": "ropivacaine",
+   "design": "calculation",
+   "outcome": "expected local tissue concentration",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(ropivacaine OR levobupivacaine OR bupivacaine OR lidocaine OR mepivacaine OR \"local anesthetic\" OR \"local anesthetics\") AND (\"local tissue concentration\" OR \"local tissue concentrations\" OR \"tissue concentration\" OR \"tissue concentrations\") AND (vasoconstriction OR contraction OR aorta OR \"vascular smooth muscle\" OR arteriole OR arteries)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 13,
+    "screened": 13,
+    "date_searched": "2026-10-07T06:12:24Z"
+   },
+   {
+    "query": "(ropivacaine OR levobupivacaine OR bupivacaine OR lidocaine OR mepivacaine) AND (vasoconstriction OR contraction) AND (aorta OR \"aortic rings\" OR arteries OR arterioles) AND (\"protein binding\" OR \"unbound\" OR \"free fraction\" OR \"clinical concentration\" OR \"clinically relevant concentration\" OR \"clinically relevant concentrations\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 5,
+    "screened": 5,
+    "date_searched": "2026-10-07T06:12:37Z"
+   },
+   {
+    "query": "TITLE_ABS:(\"expected local tissue concentration\" OR \"local tissue concentration\" OR \"local tissue concentrations\" OR \"interstitial concentration\" OR \"estimated tissue concentration\" OR \"free concentration\" OR \"unbound concentration\") AND TITLE_ABS:(\"local anesthetic\" OR \"local anaesthetic\" OR ropivacaine OR bupivacaine OR lidocaine OR mepivacaine OR levobupivacaine) AND TITLE_ABS:(vasoconstriction OR contraction OR vascular OR aorta OR artery OR clinical OR \"protein binding\")",
+    "engine": "europepmc",
+    "count": 18,
+    "screened": 18,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "9120806",
+    "citation": "Effects of vasoconstriction on dermal pharmacokinetics and local tissue distribution of compounds. 1994",
+    "matches": "Addresses local tissue concentration in skin and its dependence on vasoconstriction, which is the nearest subject match found.",
+    "misses": "Dermal pharmacokinetics of compounds generally, not a calculation of the expected local tissue concentration of a named local anaesthetic from its protein binding, and not tied to a vasoconstricting concentration window."
+   },
+   {
+    "pmid": "24819972",
+    "citation": "Ropivacaine (total and unbound) and AGP concentrations after transversus abdominis plane block for analgesia after abdominal surgery. 2014",
+    "matches": "Measures total and unbound ropivacaine with alpha-1-acid glycoprotein concentrations in humans, so it handles the unbound fraction explicitly.",
+    "misses": "Plasma concentrations after a trunk block, not an expected local tissue concentration at the injection site; no vascular-response comparison."
+   },
+   {
+    "pmid": "17227622",
+    "citation": "Involvement of alpha1-acid glycoprotein in inter-individual variation of disposition kinetics of ropivacaine following epidural infusion. 2007",
+    "matches": "Ropivacaine protein binding and unbound disposition in humans.",
+    "misses": "Systemic disposition after epidural infusion, not a local tissue concentration calculation."
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "",
+  "quote": "",
+  "proposed_wording": "Not found in searches of Europe PMC and in an earlier worker's PubMed searches through October 2026: no second paper calculating the expected local tissue concentration of ropivacaine at a clinical injection concentration from its protein binding and comparing it with a vasoconstricting concentration range. Studies measuring total and unbound ropivacaine in plasma exist (PMID 24819972, PMID 17227622) and dermal tissue distribution under vasoconstriction has been studied for compounds generally (PMID 9120806).",
+  "reason": "A Europe PMC title/abstract search on local, interstitial, free and unbound tissue concentration terms crossed with the named local anaesthetics returned 18 records, all of them plasma protein-binding or systemic pharmacokinetic studies, and the two reused PubMed searches on the same question returned 13 and 5 records with nothing matching. Nothing found performs the arithmetic Sohn 2012 performs. The page's convention at 0.1 already scopes this as search-limited, which remains the right framing.",
+  "needs_full_text": [],
+  "_source_line": 886,
+  "_note": "only-study claim about Sohn 2012"
+ },
+ {
+  "claim_id": "W-R029",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "What else the paper establishes",
+  "claim": "Nobody has shown it in a wheal.",
+  "elements_said_absent": {
+   "population": "a wheal",
+   "intervention": "vasoconstricting local anaesthetic",
+   "design": "any",
+   "outcome": "prolonged duration of action",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(intradermal OR intradermally OR wheal OR wheals OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (\"laser Doppler\" OR \"blood flow\" OR perfusion OR \"skin blood flow\") AND (pinprick OR \"pin-prick\" OR \"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\" OR \"sensory block\" OR \"analgesia\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 13,
+    "screened": 13,
+    "date_searched": "2026-10-07T06:23:09Z"
+   },
+   {
+    "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\") AND (vasoconstriction OR vasoconstrictor OR \"blood flow\" OR perfusion OR blanching OR pallor) AND (duration) AND (correlation OR correlated OR correlates OR \"related to\" OR relationship) AND (skin OR cutaneous OR intradermal OR subcutaneous OR infiltration OR dermal OR pulpal OR gingival)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 51,
+    "screened": 51,
+    "date_searched": "2026-10-07T06:11:11Z"
+   },
+   {
+    "query": "TITLE_ABS:(intradermal OR intracutaneous OR \"skin wheal\" OR \"skin weal\" OR \"intradermally\") AND TITLE_ABS:(\"local anaesthetics\" OR \"local anesthetics\" OR \"local anaesthetic\" OR \"local anesthetic\" OR lignocaine OR lidocaine OR mepivacaine OR prilocaine OR procaine OR bupivacaine) AND TITLE_ABS:(vasoconstrictor OR vasoconstriction OR pallor OR blanching OR vasodilatation OR vasodilation OR \"vascular effects\" OR erythema) AND TITLE_ABS:(volunteers OR subjects OR human OR comparison OR compared)",
+    "engine": "europepmc",
+    "count": 38,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "TITLE_ABS:(vasoconstriction OR vasoconstrictor OR \"blood flow\" OR blanching OR pallor) AND TITLE_ABS:(duration) AND TITLE_ABS:(correlation OR correlated OR correlate OR relationship OR \"associated with\") AND TITLE_ABS:(anesthesia OR anaesthesia OR anesthetic OR anaesthetic OR analgesia)",
+    "engine": "europepmc",
+    "count": 135,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "4041306",
+    "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011",
+    "matches": "Shows it in a wheal: six local anaesthetics given by intradermal injection to 10 volunteers, double-blind, with both vascular effect and duration of action measured in the same wheals, and the log dose-duration slopes reported as reflecting the observed vasoactivity.",
+    "misses": "Vasoactivity recorded as observed colour change rather than measured flow; no ropivacaine arm."
+   },
+   {
+    "pmid": "666948",
+    "citation": "Aps C, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of bupivacaine. Br J Clin Pharmacol 1978;6:63-68",
+    "matches": "Also in a wheal: 17 volunteers, double-blind, eight concentrations of each isomer plus saline; the isomer that showed a vasoconstrictor effect was also the longer-acting, with higher apparent in vivo potency.",
+    "misses": "One drug's two isomers, and the pairing is observed rather than tested as an association."
+   },
+   {
+    "pmid": "7326166",
+    "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53:1211-1216",
+    "matches": "The same experiment in 23 volunteers for mepivacaine isomers, with colour change and duration both recorded in the wheals.",
+    "misses": "Reports that the longer duration was not associated with superior vasoconstrictor power, i.e. the opposite result, so the wheal evidence is not uniform."
+   },
+   {
+    "pmid": "8067217",
+    "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38:322-327",
+    "matches": "Intradermal wheals in 10 volunteers with both the vascular effect and the duration of dermal analgesia measured; the drug that blanched more often was also the longer-acting of the two, and adding adrenaline lengthened both.",
+    "misses": "The paper reports the two outcomes side by side without testing an association between them."
+   }
+  ],
+  "verdict": "refuted",
+  "uncertain": false,
+  "evidence_pmid": "4041306",
+  "quote": "Duration of action was concentration-dependent for all six drugs, the slopes of the log dose--duration plots reflecting the observed vasoactivity.",
+  "proposed_wording": "The relation between a local anaesthetic's vasoactivity and its duration has been examined in human intradermal wheals: Willatts & Reynolds 1985 (PMID 4041306) reports the log dose-duration slopes as reflecting the observed vasoactivity across six drugs, Aps & Reynolds 1978 (PMID 666948) pairs vasoconstriction with longer duration across bupivacaine isomers, and Fairley & Reynolds 1981 (PMID 7326166) reports no such association for mepivacaine isomers.",
+  "reason": "The claim's elements - a wheal, a vasoconstricting local anaesthetic, any design, prolonged duration of action - are all matched by Willatts & Reynolds 1985, which measured vasoactivity and duration in the same intradermal wheals in volunteers and reported the dose-duration slopes as reflecting the vasoactivity; the page holds that paper in full text and cites it in 9a.2. Aps 1978 points the same way and Fairley 1981 the other, so the right correction is not 'nobody has shown it in a wheal' but that it has been examined in wheals with mixed results and never for ropivacaine. Under the page's search-limited convention this is a wording fix.",
+  "needs_full_text": [],
+  "_source_line": 730,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R030",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "6.8a Four adjacent literatures on repeated or prolonged exposure",
+  "claim": "Reassuring in direction, but the tissue is incised and subcutaneous rather than intact neuropathic dermis, and no study measures innervation.",
+  "elements_said_absent": {
+   "population": "any",
+   "intervention": "repeated or prolonged local anaesthetic exposure",
+   "design": "any",
+   "outcome": "innervation",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(\"wound infusion\" OR \"wound infiltration\" OR \"wound instillation\" OR \"incisional infusion\" OR \"continuous infiltration\" OR \"wound catheter\") AND (ropivacaine OR bupivacaine OR levobupivacaine OR lidocaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (histology OR histological OR histopathology OR innervation OR \"nerve fibers\" OR \"nerve fibres\" OR neurotoxicity OR \"wound healing\" OR \"tissue toxicity\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 65,
+    "screened": 65,
+    "date_searched": "2026-10-07T06:19:24Z"
+   },
+   {
+    "query": "(\"continuous wound\" OR \"wound catheter\" OR \"incisional catheter\" OR \"wound infiltration\" OR \"local infiltration\") AND (\"local anesthetic\" OR \"local anaesthetic\" OR ropivacaine OR bupivacaine) AND (\"nerve fiber density\" OR \"nerve fibre density\" OR \"intraepidermal\" OR \"PGP9.5\" OR \"PGP 9.5\" OR reinnervation OR \"cutaneous innervation\" OR \"skin innervation\" OR neurotoxicity)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 9,
+    "screened": 9,
+    "date_searched": "2026-10-07T06:27:19Z"
+   },
+   {
+    "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (infiltration OR intradermal OR intracutaneous OR \"subcutaneous injection\" OR \"skin injection\" OR \"wound infiltration\") AND (\"nerve fibers\" OR \"nerve fibres\" OR \"nerve fiber\" OR \"nerve fibre\" OR innervation OR neurites OR \"sensory nerve\" OR \"cutaneous nerves\") AND (histology OR histological OR immunohistochemistry OR immunohistochemical OR morphology OR biopsy OR density)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 286,
+    "screened": 200,
+    "date_searched": "2026-10-07T06:19:07Z"
+   },
+   {
+    "query": "TITLE_ABS:(\"wound infiltration\" OR \"wound infusion\" OR \"continuous infiltration\" OR \"wound catheter\" OR \"repeated injection\" OR \"repeated injections\" OR \"continuous peripheral nerve block\" OR \"prolonged exposure\") AND TITLE_ABS:(ropivacaine OR bupivacaine OR lidocaine OR levobupivacaine OR \"local anaesthetic\" OR \"local anesthetic\") AND TITLE_ABS:(innervation OR reinnervation OR \"nerve fiber\" OR \"nerve fibre\" OR \"nerve fibers\" OR \"nerve fibres\" OR \"nerve fiber density\" OR histology OR histological OR immunohistochemistry)",
+    "engine": "europepmc",
+    "count": 6,
+    "screened": 6,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "23095130",
+    "citation": "Abrao J, Fernandes CR, White PF, Shimano AC, Okubo R, Lima GB, Bachur JA, Garcia SB. Effect of local anaesthetic infiltration with bupivacaine and ropivacaine on wound healing: a placebo-controlled study. Int Wound J 2014;11:379-385",
+    "matches": "The rat wound study the page is describing: 72 rats, randomised double-blind infiltration with saline, bupivacaine or ropivacaine before a standardised incision, with histochemistry and mechanical testing on day 3 and day 14.",
+    "misses": "The histological endpoints are macrophage count, transforming growth factor beta-1, collagen and CD34; innervation and nerve fibre density are not among them."
+   },
+   {
+    "pmid": "21197231",
+    "citation": "Zarucco L, Driessen B, Scandella M, Cozzi F, Cantile C. Sensory nerve conduction and nociception in the equine lower forelimb during perineural bupivacaine infusion along the palmar nerves. Can J Vet Res 2010;74:305-313",
+    "matches": "The nearest study of prolonged local-anaesthetic exposure with a nerve endpoint: continuous perineural bupivacaine infusion over six days in horses against saline in the contralateral limb, with sensory nerve conduction velocity measured to detect nerve injury and myelinated fibre morphometry performed on palmar nerve specimens.",
+    "misses": "Perineural catheter rather than wound infiltration; the morphometry characterises fibre distribution in separate animals rather than measuring the effect of the infusion, and the infusion endpoint is conduction velocity, not innervation density."
+   },
+   {
+    "pmid": "21530339",
+    "citation": "Wehrfritz A, Namer B, Ihmsen H, Mueller C, Filitz J, Koppert W, Leffler A. Differential effects on sensory functions and measures of epidermal nerve fiber density after application of a lidocaine patch (5%) on healthy human skin. Eur J Pain 2011;15:907-912",
+    "matches": "A study of prolonged local-anaesthetic exposure that does measure innervation: randomised double-blind, healthy volunteers, six weeks of patch against placebo patch, epidermal nerve fibre density in skin blister roofs.",
+    "misses": "Topical patch on intact skin rather than continuous infiltration of an incised wound, so it sits outside the sub-literature this sentence is about; the page cites it separately in 6.7."
+   },
+   {
+    "pmid": "21867476",
+    "citation": "Richard BM, Ott LR, Haan D, Brubaker AN, Cole PI, Nelson KG, Ross PE, Rebelatto MC, Newton PE. The safety and tolerability evaluation of DepoFoam bupivacaine administered by incision wound infiltration in rabbits and dogs. Expert Opin Investig Drugs 2011;20:1327-1341",
+    "matches": "Incision wound infiltration in two species with histology at day 3 and day 15 and wound-healing follow-up.",
+    "misses": "Histology of the surgical site and wound healing; no innervation or nerve fibre endpoint."
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": false,
+  "evidence_pmid": "21530339",
+  "quote": "A moderate but significant decrease in epidermal nerve fiber density was observed in skin blister roofs obtained after 42days of treatment with lidocaine patches.",
+  "proposed_wording": "Within the continuous wound-infiltration literature, searches of Europe PMC and of an earlier worker's PubMed searches through October 2026 found no study with an innervation or nerve-fibre-density endpoint; prolonged local-anaesthetic exposure has been studied with an innervation endpoint by another route in humans (Wehrfritz 2011, PMID 21530339) and with nerve conduction and fibre morphometry during six-day perineural infusion in horses (Zarucco 2010, PMID 21197231).",
+  "reason": "Judged inside the bullet's own scope - continuous infiltration of incised subcutaneous tissue - the claim holds: the rat wound study and the animal wound-infiltration safety work measure inflammatory, collagen, vascular and healing endpoints, never innervation. As a bare sentence 'no study measures innervation' is too broad, because the page's own 6.7 cites a human study of six weeks' local-anaesthetic exposure that counted epidermal nerve fibres, and Zarucco 2010 measured nerve conduction after six days of perineural infusion. Adding 'in this literature' or 'in the wound-infiltration studies' makes it exact.",
+  "needs_full_text": [],
+  "_source_line": 1935,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R031",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "The flare is measurably blunted in neuropathic skin",
+  "claim": "So a ropivacaine wheal suppresses the very flare its own needle creates, which is a third term nobody has separated.",
+  "elements_said_absent": {
+   "population": "any",
+   "intervention": "local anaesthetic wheal",
+   "design": "any",
+   "outcome": "separation of drug-suppressed flare from needle-created flare",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(lidocaine OR lignocaine OR ropivacaine OR bupivacaine OR mepivacaine OR prilocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anaesthesia\" OR \"local anesthesia\" OR EMLA) AND (\"needle insertion\" OR \"needle trauma\" OR \"injection trauma\" OR \"insertion trauma\" OR \"needle stick\" OR \"needle prick\") AND (\"blood flow\" OR flare OR \"axon reflex\" OR erythema OR \"laser Doppler\" OR perfusion)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 12,
+    "screened": 12,
+    "date_searched": "2026-10-07T06:12:48Z"
+   },
+   {
+    "query": "(diabetic OR diabetes OR neuropathy OR neuropathic OR polyneuropathy OR postherpetic OR \"small fiber\" OR \"small fibre\" OR CRPS OR \"complex regional\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthesia\" OR \"local anaesthesia\") AND (\"skin blood flow\" OR \"cutaneous blood flow\" OR \"laser Doppler\" OR \"axon reflex\" OR flare OR LDIflare OR \"skin perfusion\" OR microcirculation OR \"microvascular\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 51,
+    "screened": 51,
+    "date_searched": "2026-10-07T06:13:10Z"
+   },
+   {
+    "query": "TITLE_ABS:(\"axon reflex\" OR \"axon-reflex\" OR flare OR \"neurogenic flare\" OR LDIflare) AND TITLE_ABS:(\"local anaesthetic\" OR \"local anesthetic\" OR lidocaine OR lignocaine OR ropivacaine OR bupivacaine OR mepivacaine OR prilocaine OR EMLA) AND TITLE_ABS:(suppress OR suppressed OR inhibit OR inhibited OR abolish OR blunted OR reduced OR \"needle\" OR injection)",
+    "engine": "europepmc",
+    "count": 77,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "TITLE_ABS:(\"needle insertion\" OR \"needle trauma\" OR \"needle puncture\" OR \"skin puncture\" OR \"injection trauma\" OR \"needle prick\") AND TITLE_ABS:(\"skin blood flow\" OR \"laser Doppler\" OR flare OR \"axon reflex\" OR perfusion OR erythema OR vasodilatation) AND TITLE_ABS:(intradermal OR injection OR saline OR \"local anaesthetic\" OR \"local anesthetic\" OR lidocaine OR lignocaine)",
+    "engine": "europepmc",
+    "count": 20,
+    "screened": 20,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "18211446",
+    "citation": "Dias MP, Newton DJ, McLeod GA, Khan F, Belch JJ. The inhibitory effects of local anaesthetics on the vascular flare responses to bradykinin and substance P in human skin. Anaesthesia 2008;63:151-155",
+    "matches": "Isolates the drug-suppressed-flare term on its own in human skin, and does it for ropivacaine among three agents: cutaneous flare responses to intradermal bradykinin and substance P measured with and without lidocaine, levobupivacaine and ropivacaine, all three significantly attenuating the responses.",
+    "misses": "The flare is provoked by an injected mediator rather than by the wheal's own needle, so the drug term is separated from a different flare, not from the needle-created one."
+   },
+   {
+    "pmid": "7731549",
+    "citation": "Forster C, Greiner T, Nischik M, Schmelz M, Handwerker HO. Neurogenic flare responses are heterogeneous in superficial and deep layers of human skin. Neurosci Lett 1995;185:33-36",
+    "matches": "Human skin, histamine-provoked neurogenic flare measured by infrared thermography and video image analysis, with the visible flare suppressed by a topically applied local anaesthetic while the warming reaction was not.",
+    "misses": "Topical anaesthetic and a histamine-provoked flare, so again not the needle's own flare."
+   },
+   {
+    "pmid": "12435461",
+    "citation": "Kawamata M, Takahashi T, Kozuka Y, Nawa Y, Nishikawa K, Narimatsu E, Watanabe H, Namiki A. Experimental incision-induced pain in human skin: effects of systemic lidocaine on flare formation and hyperalgesia. Pain 2002;100:77-89",
+    "matches": "Comes closest to separating a drug's flare suppression from a trauma-created flare in humans: a standardised forearm incision with flare measured by laser Doppler imager, and lidocaine given systemically before or after the incision.",
+    "misses": "Systemic lidocaine, not a wheal, so there is no needle-borne drug delivery and no wheal flare to separate."
+   },
+   {
+    "pmid": "2038927",
+    "citation": "Cederholm I, Evers H, Lofstrom JB. Effect of intradermal injection of saline or a local anaesthetic agent on skin blood flow - a methodological study in man. Acta Anaesthesiol Scand 1991;35:208-215",
+    "matches": "The one wheal study with the controls that would be needed: needle-insertion-only and saline arms beside the drug arms, by laser Doppler.",
+    "misses": "Measures skin blood flow at the injected site from 20 min onward, not the axon-reflex flare and its suppression, so the third term is not separated."
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": false,
+  "evidence_pmid": "18211446",
+  "quote": "Skin blood flow responses to intradermal injections of bradykinin and substance P were assessed in the absence and presence of anaesthetic and analgesic concentrations of lidocaine, levobupivacaine and ropivacaine.",
+  "proposed_wording": "No study was found that separates a local anaesthetic's suppression of the flare from the flare its own needle creates in the same wheal; the suppression term alone has been measured in human skin for ropivacaine and two other agents against mediator-provoked flare (Dias 2008, PMID 18211446), for a topical anaesthetic against histamine-provoked flare (Forster 1995, PMID 7731549), and for systemic lidocaine against incision-induced flare (Kawamata 2002, PMID 12435461).",
+  "reason": "Within the claim's intervention element - a local anaesthetic wheal - nothing found separates the drug's flare suppression from the needle's own flare, and Cederholm 1991 has the needle-only and saline controls but measures blood flow rather than the axon-reflex flare. The claim is too broad in calling it a term nobody has separated, since the suppression term has been isolated in human skin, including for ropivacaine, by provoking the flare with an independent stimulus. The page's convention at 0.1 already scopes its negatives as search-limited, so this is a wording correction: nobody has separated it within a wheal.",
+  "needs_full_text": [],
+  "_source_line": 1055,
+  "_note": ""
  }
 ]

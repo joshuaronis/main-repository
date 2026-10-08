@@ -60,9 +60,9 @@
   "url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
   "as_of": "2026-10-02T03:14:26.511Z",
   "fetched": "2026-10-08 (read-only)",
-  "claims_tested": 24,
+  "claims_tested": 31,
   "claims_extracted": 31,
-  "claims_not_yet_tested": 7,
+  "claims_not_yet_tested": 0,
   "claims_skipped_dose_or_toxicity_subject": 3,
   "skipped_detail": [
    {
@@ -82,10 +82,10 @@
    }
   ],
   "verdicts": {
-   "confirmed": 8,
-   "narrowed": 9,
+   "confirmed": 10,
+   "narrowed": 12,
    "out-of-scope": 1,
-   "refuted": 6
+   "refuted": 8
   },
   "uncertain": 2
  }
