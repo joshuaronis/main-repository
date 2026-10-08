@@ -849,6 +849,267 @@
  },
  {
   "finding_id": "S2-F056",
+  "paper_id": "S-686-05",
+  "page": "Safe Doses Of Intradermal Analgesics",
+  "page_url": "https://app.notion.com/p/3c610b7903aa80b9be8cfcefc13161f7",
+  "page_version": "2026-10-02T03:13:58.754Z",
+  "section": "Sources - What has no source",
+  "sentence_as_it_stands": "The safe interval between sessions on any of these agents. [dose figure omitted] is the floor the published series work to, and it rests on those series' schedules rather than on a clearance measurement.",
+  "kind": "wrong-figure",
+  "quote": "the systemic absorption of corticosteroid was unknown. Finally, the optimum dosage of anesthetics and corticosteroids and the frequency of rejection remain to be determined. … Our study demonstrated that repetitive intracutaneous injections with ropivacaine and methylprednisolone plus standard treatment with acyclovir and tramadol are more effective than the standard treatment alone",
+  "page_in_paper": 6,
+  "corrected_wording": "No source measures an interval between sessions for any of these agents. Published schedules vary, from closely spaced sessions (a randomised trial of repeated intracutaneous local anaesthetic–steroid sessions in acute herpes zoster, Cui 2017, PMID 27492741; consecutive-day subcutaneous lidocaine–steroid injections in refractory postherpetic neuralgia, Nguyen 2021, PMID 33855194) to weekly or longer intervals, and each rests on the study's own schedule rather than on a clearance measurement.",
+  "importance": "medium",
+  "notes": "Same sentence as claim D072 (other-claim and extra-study entries). The page names no series here, so the stated floor reads as a description of published schedules in general; Cui 2017 spaced its repeated intracutaneous sessions more closely than that floor (schedule in the paper card; not repeated here), and Nguyen 2021 (found by a PubMed search prompted by Cui; not in its reference list) used consecutive-day sessions. Neither measured clearance, so the sentence's main point (no clearance-based interval) stands. Medium rather than high: the correction adds no safety information, because no study measures an inter-session interval either way. Page text read through a masked viewer; its ceilings were not copied."
+ },
+ {
+  "finding_id": "S2-F057",
+  "paper_id": "S-686-05",
+  "page": "Ropiconest ropivacaína (lower strength, [dose figure omitted] pack) — Farmacia La Paz (Mexico) [Buying Decisions & Info]",
+  "page_url": "https://app.notion.com/p/3e010b7903aa81f1b482c79e7537bb8b",
+  "page_version": "2026-09-27T06:02:01.494Z",
+  "section": "Why; Why For Purpose; body: Verdict and What would change this",
+  "sentence_as_it_stands": "Needs More Research: no wheal study of ropivacaine with a pain outcome exists, so its evidence for the purpose is only indirect, from one uncontrolled study of lidocaine wheals. [Why For Purpose: 'No wheal study of ropivacaine with a pain outcome is indexed in PubMed'; What would change this: 'A wheal study of ropivacaine with a pain outcome, in any neuropathic pain condition, would settle the verdict.']",
+  "kind": "overstated",
+  "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN. … In the current study, intracutaneous injection using local anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol) at each follow-up time point",
+  "page_in_paper": 5,
+  "corrected_wording": "No study of plain ropivacaine wheals with a pain outcome exists. Ropivacaine mixed with methylprednisolone has been given by repeated intracutaneous injection in a randomised trial in acute herpes zoster, with lower pain scores and less postherpetic neuralgia than standard treatment alone (Cui 2017, PMID 27492741), and by a single intracutaneous injection against saline (Cui 2018, PMID 29153295); neither isolates ropivacaine from the steroid, and neither is in established neuropathic pain or small fibre neuropathy.",
+  "importance": "high",
+  "notes": "Cui 2017 is PubMed-indexed (MeSH 'Injections, Intradermal' and 'Ropivacaine') and is a randomised trial whose intracutaneous injections contained ropivacaine, with pain outcomes, so 'no wheal study of ropivacaine with a pain outcome exists / is indexed in PubMed' is too absolute. The row's Decision ('Needs More Research') and Met Intended Purpose ('Kinda') rest on this absence, and its 'What would change this' names exactly such a study as what would settle the verdict; whether a steroid-confounded trial in acute zoster does so is for the main session to weigh (importance high on that ground, not because the verdict must change). The row's narrower statement that the one anaesthetic-only wheal protocol with an outcome is Mülkoğlu 2020 is not touched. Product strengths and amounts on the row were not copied."
+ },
+ {
+  "finding_id": "S2-F058",
+  "paper_id": "S-686-05",
+  "page": "Ropiconest ropivacaína (higher strength, [dose figure omitted] pack) — Farmacia La Paz (Mexico) [Buying Decisions & Info]",
+  "page_url": "https://app.notion.com/p/3e010b7903aa81db8c31e4a679616015",
+  "page_version": "2026-09-27T06:19:42.330Z",
+  "section": "Why; Why For Purpose; body: Verdict and What would change this",
+  "sentence_as_it_stands": "Needs More Research: no wheal study of ropivacaine with a pain outcome exists, so its evidence for the purpose is only indirect, from one uncontrolled study of lidocaine wheals. [Why For Purpose: '... no wheal study of ropivacaine with a pain outcome exists, and none in small fibre neuropathy.'; What would change this: 'A wheal study of ropivacaine with a pain outcome, in any neuropathic pain condition, would settle the verdict.']",
+  "kind": "overstated",
+  "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN. … In the current study, intracutaneous injection using local anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol) at each follow-up time point",
+  "page_in_paper": 5,
+  "corrected_wording": "No study of plain ropivacaine wheals with a pain outcome exists. Ropivacaine mixed with methylprednisolone has been given by repeated intracutaneous injection in a randomised trial in acute herpes zoster, with lower pain scores and less postherpetic neuralgia than standard treatment alone (Cui 2017, PMID 27492741), and by a single intracutaneous injection against saline (Cui 2018, PMID 29153295); neither isolates ropivacaine from the steroid, and neither is in established neuropathic pain or small fibre neuropathy.",
+  "importance": "high",
+  "notes": "Same error as S2-S-686-05-F02, at a further location (another listing of the same molecule with the same verdict text); recorded separately so each row is found. Reasoning and caveats as in F02. Product strengths and amounts on the row were not copied."
+ },
+ {
+  "finding_id": "S2-F059",
+  "paper_id": "S-686-05",
+  "page": "Ropiconest ropivacaína (higher strength, [dose figure omitted] pack) — Curitek (Mexico) [Buying Decisions & Info]",
+  "page_url": "https://app.notion.com/p/3e010b7903aa8147adc8f9881ba7856e",
+  "page_version": "2026-09-27T06:19:06.629Z",
+  "section": "Why; Why For Purpose; body: Verdict and What would change this",
+  "sentence_as_it_stands": "Needs More Research: no wheal study of ropivacaine with a pain outcome exists, so its evidence for the purpose is only indirect, from one uncontrolled study of lidocaine wheals. [Why For Purpose: 'No wheal study of ropivacaine with a pain outcome is indexed in PubMed'; What would change this: 'A wheal study of ropivacaine with a pain outcome, in any neuropathic pain condition, would settle the verdict.']",
+  "kind": "overstated",
+  "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN. … In the current study, intracutaneous injection using local anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol) at each follow-up time point",
+  "page_in_paper": 5,
+  "corrected_wording": "No study of plain ropivacaine wheals with a pain outcome exists. Ropivacaine mixed with methylprednisolone has been given by repeated intracutaneous injection in a randomised trial in acute herpes zoster, with lower pain scores and less postherpetic neuralgia than standard treatment alone (Cui 2017, PMID 27492741), and by a single intracutaneous injection against saline (Cui 2018, PMID 29153295); neither isolates ropivacaine from the steroid, and neither is in established neuropathic pain or small fibre neuropathy.",
+  "importance": "high",
+  "notes": "Same error as S2-S-686-05-F02, at a further location (another listing of the same molecule with the same verdict text); recorded separately so each row is found. Reasoning and caveats as in F02. Product strengths and amounts on the row were not copied."
+ },
+ {
+  "finding_id": "S2-F060",
+  "paper_id": "S-686-05",
+  "page": "Naropin ropivacaína ([dose figure omitted] pack) — Vitau (Mexico) [Buying Decisions & Info]",
+  "page_url": "https://app.notion.com/p/3e010b7903aa81ac9405ef7f25d76c21",
+  "page_version": "2026-09-27T06:16:15.263Z",
+  "section": "Why; Why For Purpose; body: Verdict and What would change this",
+  "sentence_as_it_stands": "Needs More Research: no wheal study of ropivacaine with a pain outcome exists, so its evidence for the purpose is only indirect, from one uncontrolled study of lidocaine wheals. [Why For Purpose: 'No wheal study of ropivacaine with a pain outcome is indexed in PubMed'; What would change this: 'A wheal study of ropivacaine with a pain outcome, in any neuropathic pain condition, would settle the verdict.']",
+  "kind": "overstated",
+  "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN. … In the current study, intracutaneous injection using local anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol) at each follow-up time point",
+  "page_in_paper": 5,
+  "corrected_wording": "No study of plain ropivacaine wheals with a pain outcome exists. Ropivacaine mixed with methylprednisolone has been given by repeated intracutaneous injection in a randomised trial in acute herpes zoster, with lower pain scores and less postherpetic neuralgia than standard treatment alone (Cui 2017, PMID 27492741), and by a single intracutaneous injection against saline (Cui 2018, PMID 29153295); neither isolates ropivacaine from the steroid, and neither is in established neuropathic pain or small fibre neuropathy.",
+  "importance": "high",
+  "notes": "Same error as S2-S-686-05-F02, at a further location (another listing of the same molecule with the same verdict text); recorded separately so each row is found. Reasoning and caveats as in F02. Product strengths and amounts on the row were not copied."
+ },
+ {
+  "finding_id": "S2-F061",
+  "paper_id": "S-686-05",
+  "page": "Ropiconest ropivacaína (higher strength, [dose figure omitted] pack) — Vitau (Mexico) [Buying Decisions & Info]",
+  "page_url": "https://app.notion.com/p/3e010b7903aa81a5ac8fc0ebfff97715",
+  "page_version": "2026-09-27T06:20:19.898Z",
+  "section": "Why; Why For Purpose; body: Verdict and What would change this",
+  "sentence_as_it_stands": "Needs More Research: no wheal study of ropivacaine with a pain outcome exists, so its evidence for the purpose is only indirect, from one uncontrolled study of lidocaine wheals. [Why For Purpose: 'No wheal study of ropivacaine with a pain outcome is indexed in PubMed'; What would change this: 'A wheal study of ropivacaine with a pain outcome, in any neuropathic pain condition, would settle the verdict.']",
+  "kind": "overstated",
+  "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN. … In the current study, intracutaneous injection using local anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol) at each follow-up time point",
+  "page_in_paper": 5,
+  "corrected_wording": "No study of plain ropivacaine wheals with a pain outcome exists. Ropivacaine mixed with methylprednisolone has been given by repeated intracutaneous injection in a randomised trial in acute herpes zoster, with lower pain scores and less postherpetic neuralgia than standard treatment alone (Cui 2017, PMID 27492741), and by a single intracutaneous injection against saline (Cui 2018, PMID 29153295); neither isolates ropivacaine from the steroid, and neither is in established neuropathic pain or small fibre neuropathy.",
+  "importance": "high",
+  "notes": "Same error as S2-S-686-05-F02, at a further location (another listing of the same molecule with the same verdict text); recorded separately so each row is found. Reasoning and caveats as in F02. Product strengths and amounts on the row were not copied."
+ },
+ {
+  "finding_id": "S2-F062",
+  "paper_id": "S-686-05",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "PART X — 13. The open gaps, item 1 (and its 'What independent search did find' list)",
+  "sentence_as_it_stands": "Nobody has measured neuropathic pain relief from an intradermal ropivacaine wheal at any concentration — but the gap is a PARTIAL one and this page previously stated it too absolutely. … Cui 2016 and similar acute-zoster trials use intradermal lidocaine as an active control or co-intervention, always alongside valaciclovir, methylene blue, corticosteroids, methylcobalamin or nerve blocks. None isolates the anaesthetic effect.",
+  "kind": "overstated",
+  "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN. … In the current study, intracutaneous injection using local anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol) at each follow-up time point",
+  "page_in_paper": 5,
+  "corrected_wording": "No one has measured neuropathic pain relief from a plain intradermal ropivacaine wheal. Intracutaneous ropivacaine mixed with methylprednisolone has been tested with pain outcomes in randomised trials in acute herpes zoster — repeated injections added to standard treatment (Cui 2017, PMID 27492741) and a single injection against saline (Cui 2018, PMID 29153295) — but the steroid is co-injected, so neither isolates ropivacaine's effect; other acute-zoster trials use intradermal lidocaine alongside antivirals, methylene blue, corticosteroids, methylcobalamin or nerve blocks.",
+  "importance": "medium",
+  "notes": "Page tested by another session (S1); recorded as a finding only. The gap is already marked PARTIAL and the bullet's conclusion (none isolates the anaesthetic effect) holds for both Cui trials. What is wrong is the summary's statement that these acute-zoster trials use intradermal lidocaine: for a ropivacaine page, the two randomised trials of intracutaneous ropivacaine (with methylprednisolone) with pain endpoints are the nearest published human clinical data on the drug in skin, and the page does not record them. Gap 2 ('Nobody has used ropivacaine wheals for small fibre neuropathy') stands."
+ },
+ {
+  "finding_id": "S2-F063",
+  "paper_id": "S-686-05",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "12.3a Protocol design from the closest existing intervention",
+  "sentence_as_it_stands": "One wheal protocol with a local anaesthetic and a pain outcome has been published: [dose figure omitted] of [dose figure omitted] lidocaine diluted in [dose figure omitted] of saline, [dose figure omitted] wheals [dose figure omitted] apart, [dose figure omitted], with pain lower at 2 and 4 weeks and at 3 months in 20 people with notalgia paresthetica, uncontrolled, and none in small fibre neuropathy (Mülkoğlu 2020, PMID 32416719).",
+  "kind": "overstated",
+  "quote": "Ninety-three patients with acute thoracic HZ were randomly assigned to receive a standard treatment of antiviral medication with p.o. analgesics or the standard treatment with the addition of repetitive intracutaneous injections of a local anesthetic and steroid mixture.",
+  "page_in_paper": 1,
+  "corrected_wording": "One anaesthetic-only wheal protocol with a pain outcome has been published (Mülkoğlu 2020, PMID 32416719: uncontrolled, notalgia paresthetica; none in small fibre neuropathy). A randomised trial of repeated intracutaneous injections of ropivacaine mixed with methylprednisolone, with pain and postherpetic-neuralgia outcomes, has also been published, in acute herpes zoster (Cui 2017, PMID 27492741); its steroid is co-injected, so it does not isolate the anaesthetic.",
+  "importance": "medium",
+  "notes": "Page tested by another session (S1); recorded as a finding only. The page's own gap 1 already uses the narrower 'anaesthetic-only' wording, so the intent here is probably anaesthetic-only; as written, 'one wheal protocol with a local anaesthetic and a pain outcome' leaves out Cui 2017, a published randomised protocol of repeated intracutaneous injections containing the page's own drug. The section goes on to call intradermal botulinum toxin for painful diabetic neuropathy 'the nearest randomised design'; Cui 2017 is a randomised repeated intracutaneous design with the same anaesthetic (plus a steroid, in acute zoster), which the main session may weigh. No regimen detail is given here on purpose. Same sentence also flagged as S2-F077 (from S-686-18)."
+ },
+ {
+  "finding_id": "S2-F064",
+  "paper_id": "",
+  "pmid": "23566267",
+  "page": "List Of Alternative Treatments For SFN (Not Including Nerve Growth)",
+  "page_url": "https://app.notion.com/p/1d410b7903aa8050b4f4fb12508d2862",
+  "page_version": "2026-09-26T18:23:49.097Z",
+  "section": "Sources > What has no source (last item)",
+  "sentence_as_it_stands": "Any comparison of these drugs against the intradermal wheals he already uses. No trial has ever compared a systemic drug against a local-anaesthetic infiltration protocol in this or any neuropathy.",
+  "kind": "overstated",
+  "quote": "Subjects were randomized to receive local methylcobalamin injection (N = 33), oral methylcobalamin (N = 33), or subcutaneous [dose figure omitted] lidocaine injection (N = 32) … oral methylcobalamin did not provide any significantly pain relief (P > 0.05).",
+  "page_in_paper": 0,
+  "corrected_wording": "No trial has compared any of these drugs against intradermal wheals. One randomised trial has compared a systemic drug with a local-anaesthetic infiltration protocol in a neuropathic pain condition: oral methylcobalamin against repeated subcutaneous lidocaine injection, beside local methylcobalamin injection, in subacute herpetic neuralgia (Xu 2013, PMID 23566267).",
+  "importance": "low",
+  "notes": "Rests on an extra study (Xu 2013) found by a PubMed search prompted by Cui 2017 (S-686-05), not from Cui's reference list; quote from its cached abstract. Same sentence as claim A054 (extra-study entry, confirmed -> refuted). The bold item ('these drugs', the page's systemic neuropathic-pain drugs; methylcobalamin is not among them) stands; only the generalising second sentence is too broad. Cui 2017 itself is an add-on trial and does not bear."
+ },
+ {
+  "finding_id": "S2-F065",
+  "paper_id": "S-686-05",
+  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
+  "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
+  "page_version": "2026-10-01T02:05:48.095Z",
+  "section": "3.2 · What the substitution cannot be measured against (the 'Ropivacaine' anchor bullet)",
+  "sentence_as_it_stands": "Ropivacaine: the trial literature is perioperative prevention of chronic pain, not treatment of established pain, and is mixed — negative in 236 breast-surgery patients (P=0.37), weakly positive in 52 craniotomy patients.",
+  "kind": "overstated",
+  "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN. … In the current study, intracutaneous injection using local anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol) at each follow-up time point",
+  "page_in_paper": 5,
+  "corrected_wording": "Ropivacaine: the trial literature by infiltration includes perioperative prevention of chronic pain (mixed — negative in 236 breast-surgery patients, weakly positive in 52 craniotomy patients), randomised trials of intracutaneous ropivacaine mixed with methylprednisolone in acute herpes zoster with pain and postherpetic-neuralgia outcomes (Cui 2017, PMID 27492741; Cui 2018, PMID 29153295), and repeated subcutaneous trigger-point injections added to carbamazepine in trigeminal neuralgia (Lemos 2010, PMID 21197324).",
+  "importance": "medium",
+  "notes": "Cui 2017 (this paper) and Cui 2018 are randomised trials of ropivacaine given into the skin, outside the perioperative setting, treating acute zoster pain and aiming to prevent PHN; the steroid is co-injected. Lemos 2010 is the main session's own source for refuting D070 (randomised, ropivacaine subcutaneously at trigger points in trigeminal neuralgia, an established chronic pain) and is named here from that record, not re-read. The same section's 'two further randomised trials exist in adjacent indications' also understates the skin-route trials in zoster and postherpetic neuralgia (Cui 2017 and 2018; Xiao 2010; Xu 2013; Amjad 2005; Ni 2017), most of them with a steroid or another active agent in the injection; recorded here rather than as a separate finding. The section's first sentence (no randomised trial in established small fibre neuropathy) stands. The same Reference page repeats D070's sentence in section 4.9 ('no study of cutaneous or subcutaneous ropivacaine infiltration exists in any chronic pain condition'), a second location of an error the main session's D070 refutation (Lemos 2010) already covers; Cui (acute zoster) adds nothing to that one."
+ },
+ {
+  "finding_id": "S2-F066",
+  "paper_id": "",
+  "pmid": "21134121",
+  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
+  "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
+  "page_version": "2026-10-01T02:05:48.095Z",
+  "section": "7.2.4 · On the current regimen",
+  "sentence_as_it_stands": "No randomised trial of cutaneous or subcutaneous local anaesthetic infiltration for established chronic peripheral neuropathic pain was located for lidocaine, procaine or ropivacaine, so there is no published duration of analgesia per session against which a topical substitute could be measured, and no evidence on whether repeated infiltration is cumulative or diminishing.",
+  "kind": "overstated",
+  "quote": "We investigated the therapeutic benefits of BTX-A in subjects with PHN in a randomized, double-blind, placebo-controlled study. Sixty subjects with PHN were randomly and evenly distributed into BTX-A, lidocaine, and placebo groups. After randomization, one of the following solutions was injected subcutaneously in the affected dermatome: [dose figure omitted] BTX-A, [dose figure omitted] lidocaine, or [dose figure omitted] saline (placebo).",
+  "page_in_paper": 0,
+  "corrected_wording": "Randomised trials that include subcutaneous or locally infiltrated lidocaine in postherpetic neuralgia exist, with lidocaine as a comparator arm — against saline and botulinum toxin (Xiao 2010, PMID 21134121) and against a lidocaine–triamcinolone combination (Amjad 2005, PMID 16300701); none reports a duration of analgesia per session, so there is still no published per-session duration against which a topical substitute could be measured.",
+  "importance": "medium",
+  "notes": "Rests on an extra study (Xiao 2010) found by a PubMed search prompted by Cui 2017 (S-686-05), not from Cui's reference list; quote from its cached abstract. Amjad 2005 is in the main session's T02 record and the Health Pages - Meta receipt; named from there. The clause's consequence (no per-session duration of analgesia to compare against) stands. The last clause ('no evidence on whether repeated infiltration is cumulative or diminishing') sits uneasily beside section 4.9's 'Repeated infiltration is cumulative, not diminishing', but Amjad's falling lidocaine-only response was measured after the injection course ended, so it does not decide either; noted, not judged. Cui 2017 itself does not bear here: its population was acute zoster, not established chronic pain."
+ },
+ {
+  "finding_id": "S2-F067",
+  "paper_id": "",
+  "pmid": "21134121",
+  "page": "1 — Product Guide — Topical Treatments for Small Fiber Neuropathy",
+  "page_url": "https://app.notion.com/p/3d410b7903aa81c0815ad3c7c6c2d17f",
+  "page_version": "2026-10-02T03:14:29.224Z",
+  "section": "Injectables (opening: 'One finding governs the whole section.')",
+  "sentence_as_it_stands": "One finding governs the whole section. No randomised trial of cutaneous or subcutaneous local anaesthetic infiltration for established chronic peripheral neuropathic pain was located for lidocaine, procaine or ropivacaine. There is no published duration of analgesia per session for any of them in this condition, which means there is no measured baseline for a topical substitute to be compared against.",
+  "kind": "overstated",
+  "quote": "We investigated the therapeutic benefits of BTX-A in subjects with PHN in a randomized, double-blind, placebo-controlled study. Sixty subjects with PHN were randomly and evenly distributed into BTX-A, lidocaine, and placebo groups. After randomization, one of the following solutions was injected subcutaneously in the affected dermatome: [dose figure omitted] BTX-A, [dose figure omitted] lidocaine, or [dose figure omitted] saline (placebo).",
+  "page_in_paper": 0,
+  "corrected_wording": "Randomised trials that include subcutaneous or locally infiltrated lidocaine in postherpetic neuralgia exist, with lidocaine as a comparator arm — against saline and botulinum toxin, where pain fell in all arms and only botulinum toxin separated (Xiao 2010, PMID 21134121), and against a lidocaine–triamcinolone combination (Amjad 2005, PMID 16300701). None reports a duration of analgesia per session, so there is still no measured per-session baseline for a topical substitute to be compared against.",
+  "importance": "high",
+  "notes": "Rests on an extra study (Xiao 2010) found by a PubMed search prompted by Cui 2017 (S-686-05), not from Cui's reference list; quote from its cached abstract. Same sentence as Reference 7.2.4 (F11), here as the stated governing finding of the Product Guide's injectables section, which is why it is high: the section's rankings are said to rest on it. The consequence (no per-session duration) stands; what changes is that randomised evidence for skin-route lidocaine in an established neuropathic pain does exist, and in Xiao 2010's abstract it shows no lidocaine advantage over saline, which the main session may weigh for the section. Amjad 2005 named from the main session's T02 record."
+ },
+ {
+  "finding_id": "S2-F068",
+  "paper_id": "S-686-05",
+  "page": "1 — Product Guide — Topical Treatments for Small Fiber Neuropathy",
+  "page_url": "https://app.notion.com/p/3d410b7903aa81c0815ad3c7c6c2d17f",
+  "page_version": "2026-10-02T03:14:29.224Z",
+  "section": "Injectables — Ropivacaína — Ropiconest entry ([dose figure omitted]) → Reference §4.9.3",
+  "sentence_as_it_stands": "The ropivacaine trial literature is perioperative prevention of chronic pain rather than treatment of established pain, and it is mixed: negative in 236 breast-surgery patients, weakly positive in 52 craniotomy patients.",
+  "kind": "overstated",
+  "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN. … In the current study, intracutaneous injection using local anesthetics plus corticosteroids resulted in lower pain intensity (VAS) and fewer doses of rescue drug (tramadol) at each follow-up time point",
+  "page_in_paper": 5,
+  "corrected_wording": "Ropivacaine: the trial literature by infiltration includes perioperative prevention of chronic pain (mixed — negative in 236 breast-surgery patients, weakly positive in 52 craniotomy patients), randomised trials of intracutaneous ropivacaine mixed with methylprednisolone in acute herpes zoster with pain and postherpetic-neuralgia outcomes (Cui 2017, PMID 27492741; Cui 2018, PMID 29153295), and repeated subcutaneous trigger-point injections added to carbamazepine in trigeminal neuralgia (Lemos 2010, PMID 21197324).",
+  "importance": "medium",
+  "notes": "Same error as S2-S-686-05-F10 (Reference 3.2), at a second location; reasoning and caveats as there. The entry's header line ('Magnitude UNKNOWN by this route in this condition · Duration not documented in this indication · Evidence NONE') concerns small fibre neuropathy and stands. The entry's price and strength figures were not copied."
+ },
+ {
+  "finding_id": "S2-F069",
+  "paper_id": "S-686-05",
+  "page": "What is still unsettled across these pages, and what would settle each one",
+  "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
+  "page_version": "2026-09-26T18:23:10.973Z",
+  "section": "Which primary sources are unread, and what each would settle — Full text of J Anesth Clin Res 2012;3(3):199 (also summarised under 'The recommendation')",
+  "sentence_as_it_stands": "The paper is paywalled and its eight primary references are the closest thing that exists to evidence for repeated intradermal wheals as a technique in use. [The recommendation: 'A second paywalled paper's reference list is the closest thing that exists to evidence for repeated intradermal wheals as a technique']",
+  "kind": "overstated",
+  "quote": "Ninety-three patients with acute thoracic HZ were randomly assigned to receive a standard treatment of antiviral medication with p.o. analgesics or the standard treatment with the addition of repetitive intracutaneous injections of a local anesthetic and steroid mixture.",
+  "page_in_paper": 1,
+  "corrected_wording": "The paper is paywalled and its eight primary references are unread. Published evidence on repeated intradermal injection as a technique also exists outside that reference list: a randomised trial of repeated intracutaneous local anaesthetic–steroid injections in acute herpes zoster (Cui 2017, PMID 27492741) and an uncontrolled series of repeated intradermal lidocaine wheal sessions in notalgia paresthetica (Mülkoğlu 2020, PMID 32416719).",
+  "importance": "medium",
+  "notes": "Cui 2017 is a randomised trial of repeated intracutaneous injection sessions with clinical outcomes, which is more direct evidence on repeated intradermal injection as a technique than an unread review reference list; by the Relief page's own account, the 2012 analysis reported outcomes after 'the single skin anesthesia treatment' and excluded zoster under three months. Mülkoğlu 2020 is already in the record elsewhere as the one anaesthetic-only wheal protocol with an outcome. Medium because the page orders its open questions by this ('The unread primary sources move first, because they bear on the technique in daily use'). The open question itself (what the eight papers are) is not answered by Cui. Cell-culture toxicity figures elsewhere on this page were not copied. Same sentence also flagged as S2-F083 (from S-686-18)."
+ },
+ {
+  "finding_id": "S2-F070",
+  "paper_id": "",
+  "pmid": "22502623",
+  "page": "Results (neural therapy study summaries; child of 'Research')",
+  "page_url": "https://app.notion.com/p/32a10b7903aa804bac71f3523e07a298",
+  "page_version": "2026-09-13T07:38:52.775Z",
+  "section": "A Randomized Controlled Trial of a Multifaceted Integrated Complementary-Alternative Therapy for Chronic Herpes Zoster-Related Pain",
+  "sentence_as_it_stands": "Main Authors: Stefan Weinschenk, et al.",
+  "kind": "citation-error",
+  "quote": "The CAM therapies used were acupuncture, neural therapy ([dose figure omitted] procaine injection as a local anesthetic), cupping and bleeding, and TCM herbs. An immediate treatment group (n=32) received the CAM intervention [dose figure omitted]. A wait-list (delayed treatment) group (n=27) was used as a control",
+  "page_in_paper": 0,
+  "corrected_wording": "Main authors: Fred Hui, Eleanor Boyle, Eugene Vayda, Richard H Glazier (Altern Med Rev 2012;17(1):57-68, PMID 22502623).",
+  "importance": "medium",
+  "notes": "Not a Cui 2017 finding: the page surfaced in the herpes-zoster searches run for this paper, and the trial it describes was checked on PubMed (it is already in claim A054's records under first author Hui). PubMed lists the authors as Hui F, Boyle E, Vayda E, Glazier RH; Weinschenk is not an author. The quote shows the design; the author list is from the PubMed record (not part of the abstract text the quote checker reads)."
+ },
+ {
+  "finding_id": "S2-F071",
+  "paper_id": "",
+  "pmid": "22502623",
+  "page": "Results (neural therapy study summaries; child of 'Research')",
+  "page_url": "https://app.notion.com/p/32a10b7903aa804bac71f3523e07a298",
+  "page_version": "2026-09-13T07:38:52.775Z",
+  "section": "A Randomized Controlled Trial of a Multifaceted Integrated Complementary-Alternative Therapy for Chronic Herpes Zoster-Related Pain",
+  "sentence_as_it_stands": "56 patients with a median pain duration of 4.8 months (some up to 15 years) were randomized. The immediate treatment group received [dose figure omitted] Procaine Neural Therapy [dose figure omitted]. ... Pain scores (VAS) dropped significantly from 7.2 to 2.3 within the first three weeks. ... This provides objective proof that repeated Procaine blockades can force a long-lasting \"reset\" of the sensory system in fiber-mediated neuropathic pain.",
+  "kind": "wrong-design",
+  "quote": "The CAM therapies used were acupuncture, neural therapy ([dose figure omitted] procaine injection as a local anesthetic), cupping and bleeding, and TCM herbs. An immediate treatment group (n=32) received the CAM intervention [dose figure omitted]. A wait-list (delayed treatment) group (n=27) was used as a control",
+  "page_in_paper": 0,
+  "corrected_wording": "A randomised, unblinded wait-list-controlled trial in 59 people with zoster-related pain of at least 30 days (32 treated immediately, 27 on a wait-list) tested a package of acupuncture, procaine neural therapy, cupping and bleeding, and Chinese herbs over three weeks. At three weeks pain was 2.3 in the treated group against 7.2 on the wait-list (baseline 7.5 and 7.8), and the reduction was maintained to two years. Because procaine was one part of a four-part package against no treatment, the trial cannot attribute the effect to procaine.",
+  "importance": "medium",
+  "notes": "Not a Cui 2017 finding: page surfaced in the herpes-zoster searches for this paper; checked against the PubMed abstract. The page describes the intervention as procaine neural therapy alone; the abstract names four therapies given together. 'From 7.2 to 2.3' pairs the wait-list group's three-week score with the treated group's (the treated group fell from 7.5). The abstract gives 59 randomised; 56 may be an analysed count from the full text, not checked. 'Objective proof that repeated Procaine blockades can force a long-lasting reset' goes further than an unblinded multi-therapy trial against a wait-list allows. The treatment frequency and procaine strength on the page are masked here."
+ },
+ {
+  "finding_id": "S2-F072",
+  "paper_id": "",
+  "pmid": "23566267",
+  "page": "Studies (B12 & B9 trial summaries)",
+  "page_url": "https://app.notion.com/p/31b10b7903aa80e1ac4bd02944509fc4",
+  "page_version": "2026-10-01T03:11:37.437Z",
+  "section": "2. Xu et al. (2013/2015) - Local vs. Systemic Methylcobalamin for Herpetic Neuralgia",
+  "sentence_as_it_stands": "This rigorous single-center randomized controlled trial assessed 98 patients (aged ≥ 50) with subacute herpetic neuralgia—a viral condition known to aggressively destroy A-delta and C-fibers. Patients were randomized to receive either local subcutaneous injections of methylcobalamin ([dose figure omitted]) plus lidocaine, intramuscular methylcobalamin, or oral methylcobalamin for [dose figure omitted]. ... The incidence of postherpetic neuralgia was 1.1% at 3 months.",
+  "kind": "wrong-design",
+  "quote": "Subjects were randomized to receive local methylcobalamin injection (N = 33), oral methylcobalamin (N = 33), or subcutaneous [dose figure omitted] lidocaine injection (N = 32) … oral methylcobalamin did not provide any significantly pain relief (P > 0.05).",
+  "page_in_paper": 0,
+  "corrected_wording": "Xu 2013 (PMID 23566267), a single-centre randomised trial in 98 people aged 50 or over with subacute herpetic neuralgia, compared local methylcobalamin injection, oral methylcobalamin and subcutaneous lidocaine injection; local methylcobalamin did best and oral methylcobalamin gave no significant relief. Local methylcobalamin combined with lidocaine against intramuscular methylcobalamin with local lidocaine, and a postherpetic-neuralgia incidence at 3 months, come from the same group's later trials in acute herpetic neuralgia (Xu 2015, PMID 26200815; Xu 2016, PMID 26814241).",
+  "importance": "medium",
+  "notes": "Rests on an extra study (Xu 2013) found by a PubMed search prompted by Cui 2017 (S-686-05); the page surfaced in a Notion search for that study's topic. The entry merges trials: its n, population, responder counts and 'oral routes did not provide any significant relief' match Xu 2013's abstract, but Xu 2013's third arm was subcutaneous lidocaine alone, not intramuscular methylcobalamin, and its arms did not combine methylcobalamin with lidocaine; the combination-versus-intramuscular design is Xu 2015 and Xu 2016, and '1.1% at 3 months' is in Xu 2016's abstract (Xu 2015's gives 2.04%). The author list likewise merges both groups' bylines. The lidocaine-only arm matters elsewhere in the record: it is what makes Xu 2013 a trial comparing a systemic drug with a local-anaesthetic infiltration protocol (claim A054). Methylcobalamin and treatment-length figures masked."
+ },
+ {
+  "finding_id": "S2-F073",
   "paper_id": "S-686-18",
   "page": "Lidocaína FD Zeyco with epinephrine, plastic dental cartridges — Odontodo (Mexico) [Buying Decisions & Info; strengths in the title omitted]",
   "page_url": "https://app.notion.com/p/3e810b7903aa81e6901bdb4927cb8941",
@@ -863,7 +1124,7 @@
   "notes": "The page's Sources line reads 'Mülkoğlu 2020, BMC Neurol, PMID 32416719 — abstract read by the pain-evidence audit, 2026-09-22.' The abstract alone shows neither the absence of a control group nor that no vasoconstrictor was used; the full text does (p3: only a lidocaine ampoule and saline are named; p7: no NP control without lidocaine). The second part of the quote is on p7. The same Why For Purpose sentence and Sources line appear, by search highlight only (not fetched), on the other dental-depot cartridge rows: Dentiprime Supply, Dentalmex, Dental Shop (two rows), Depósito Dental Gómez Farías (two rows), Tu Depósito Dental (two rows), Paradentum, Depósito Dental VQ, Depósito Dental Juárez, Tu Universo Dental. For 'the one wheal protocol' see F03. Review note (orchestrating session): the dilution was removed from the corrected wording (preparation detail is kept out of wording)."
  },
  {
-  "finding_id": "S2-F057",
+  "finding_id": "S2-F074",
   "paper_id": "S-686-18",
   "page": "Lidocaína FD con epinefrina, cartridges (Mexico) [Buying Decisions & Info; strengths in the title omitted]",
   "page_url": "https://app.notion.com/p/3e010b7903aa81aea93ec8e114bf10c2",
@@ -878,7 +1139,7 @@
   "notes": "Sources line: 'abstract read by the pain-evidence audit, 2026-09-22.' The figure of 20, the dilution and the absence of a control come from the full text, which verifies them (p3, p4–5, p7); the masked dilution figure on the page matches p3. Also fetched with the same 'abstract read' line: Zingo row (https://app.notion.com/p/3e310b7903aa81e6b472ede6a8dbcee6, as of 2026-09-24T01:39:32.694Z), whose Why For Purpose gives the per-wheal volume, spacing and session schedule, all matching p3. Same template by search highlight only (not fetched): PiSA Lidocaína/Epinefrina cartridge, Lidocaína FD Zeyco (with epinephrine) dental cartridges, Anestésico lidocaína FD Zeyco glass cartridges, Pisacaína con epinefrina (Curitek; Farmacias Guadalajara; Farmacia La Paz), Turbocaína (two rows), Ropiconest — Farmacia La Paz, Pisacaina lidocaína — San Pablo, Pisacaina lidocaína — Farmacia La Paz. For 'The one wheal protocol' see F03. Review note (orchestrating session): the dilution was removed from the corrected wording (preparation detail is kept out of wording)."
  },
  {
-  "finding_id": "S2-F058",
+  "finding_id": "S2-F075",
   "paper_id": "S-686-18",
   "page": "Pisacaina lidocaína, ampolletas — Farmacia La Paz (Mexico) [Buying Decisions & Info; strengths in the title omitted]",
   "page_url": "https://app.notion.com/p/3e010b7903aa8142b933c65fd9fa530e",
@@ -893,7 +1154,7 @@
   "notes": "Ambiguous, hence low: 'the one wheal study' is true if it means the one series with its parameters stated (as the Meta finding page words it), but the paper itself cites an earlier PubMed-indexed report by the same group (a letter with no abstract). The same 'the one wheal protocol/study' wording is in this page's Why For Purpose ('The one wheal protocol with an outcome in a chronic neuropathic condition that PubMed indexes …') and body Verdict, on the fetched rows of F01 and F02, on the Zingo row, on the procain-Loges row (https://app.notion.com/p/3e410b7903aa817db459c71524b826a3, as of 2026-09-24T21:35:33.726Z: 'the one uncontrolled wheal study used lidocaine'), and on Ropivacaine Wheals 12.3a (F05). Everything else this page says about the paper (methods, n, schedule, pain lower at 2 and 4 weeks and 3 months, no control group) matches the full text."
  },
  {
-  "finding_id": "S2-F059",
+  "finding_id": "S2-F076",
   "paper_id": "S-686-18",
   "page": "Relief that outlasts the block — and whether the whole list is optimising the wrong thing",
   "page_url": "https://app.notion.com/p/3d310b7903aa811cb51bcca149b3de73",
@@ -908,7 +1169,7 @@
   "notes": "The page does not cite Mülkoğlu 2020 anywhere (0 hits for Mülkoğlu/Mulkoglu/notalgia/32416719), though it is the published series closest to the reader's route (repeated intradermal papules) and class of condition, on the page's own question. Not a tested claim (the sentence is the first half of the bullet whose second half is D030). Rated low as wording too narrow; the main session may weigh it higher given its relevance. (Not from this paper: postherpetic-neuralgia infiltration series such as Rowbotham 1989 also fall outside the list.)"
  },
  {
-  "finding_id": "S2-F060",
+  "finding_id": "S2-F077",
   "paper_id": "S-686-18",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -920,10 +1181,10 @@
   "page_in_paper": 2,
   "corrected_wording": "One wheal series with a local anaesthetic, its parameters stated and a pain outcome in a neuropathic condition has been found: pain lower at 2 and 4 weeks and at 3 months in 20 people with notalgia paresthetica, uncontrolled (Mülkoğlu 2020, PMID 32416719); the same authors earlier reported a single case treated with local lidocaine injections (Mülkoğlu 2018, PMID 29911324); none is in small fibre neuropathy.",
   "importance": "low",
-  "notes": "Every methods, schedule, n and outcome detail of the sentence matches p3–5 and Table 3 (checked; not reproduced). Only the opening clause overreaches, by dropping the qualifiers that section 13 keeps ('What has been reported only once is an anaesthetic-only wheal protocol with per-wheal volume, spacing, a repeated-session schedule and a pain outcome …', which this paper does not contradict). Ambiguous because the 2020 text does not give the 2018 case's route. Other published wheal studies with a pain outcome that the record already holds (the Colombian procaine papule trial on the Relief page; Loughnan 2009 in D029) also bear on this clause but are not from this paper. S1 is testing this page."
+  "notes": "Every methods, schedule, n and outcome detail of the sentence matches p3–5 and Table 3 (checked; not reproduced). Only the opening clause overreaches, by dropping the qualifiers that section 13 keeps ('What has been reported only once is an anaesthetic-only wheal protocol with per-wheal volume, spacing, a repeated-session schedule and a pain outcome …', which this paper does not contradict). Ambiguous because the 2020 text does not give the 2018 case's route. Other published wheal studies with a pain outcome that the record already holds (the Colombian procaine papule trial on the Relief page; Loughnan 2009 in D029) also bear on this clause but are not from this paper. S1 is testing this page. Same sentence also flagged as S2-F063 (from S-686-05)."
  },
  {
-  "finding_id": "S2-F061",
+  "finding_id": "S2-F078",
   "paper_id": "S-686-18",
   "page": "Procaine / Novocaine",
   "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
@@ -938,7 +1199,7 @@
   "notes": "The page's Recommendation repeats the point: '… and, if the relief that outlasts a block is real, procaine is the drug that literature actually uses.' The section's own second series was procaine or lidocaine, and the notalgia series (lidocaine) is a neuropathy cohort, against 'Neither is … a neuropathy cohort'. The page does not cite Mülkoğlu 2020. Not a tested claim (grep for 'procaine series', 'literature actually uses': 0 claims). Medium because the page's recommendation leans on it; the recommendation's main ground (resting a site) is untouched."
  },
  {
-  "finding_id": "S2-F062",
+  "finding_id": "S2-F079",
   "paper_id": "S-686-18",
   "page": "Procaine / Novocaine",
   "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
@@ -953,7 +1214,7 @@
   "notes": "Mülkoğlu 2020 is an uncontrolled series reporting pain and itch lower to three months with lidocaine, not procaine; like the others it compared no anaesthetics. Same root as F06."
  },
  {
-  "finding_id": "S2-F063",
+  "finding_id": "S2-F080",
   "paper_id": "S-686-18",
   "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
   "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
@@ -968,7 +1229,7 @@
   "notes": "The sentence describes this paper (the only one with this design and pain-and-itch outcomes) but carries no source tag, and the paper is not in the S1–S457 register (searched the fetched text for Mülkoğlu, Mulkoglu, Nacır, notalgia, 32416719, the DOI, 'BMC Neurol' and title words: 0 hits). Its masked figures and schedule were checked against p3 and match. Unlike the neighbouring procaine series, the sentence gives no population, n or design (uncontrolled). Review note (orchestrating session): the dilution was removed from the corrected wording (preparation detail is kept out of wording under the hand-over's rules)."
  },
  {
-  "finding_id": "S2-F064",
+  "finding_id": "S2-F081",
   "paper_id": "",
   "pmid": "26115657",
   "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
@@ -984,7 +1245,7 @@
   "notes": "The 280-patient series is Egli 2015, reference 29 of Mülkoğlu 2020 (found through this paper's reference list; abstract cached). Register entry S174 lists Weinschenk 2016 (pharyngeal procaine, 17 patients), Weinschenk 2022 (vulvodynia, 45 women) and Kastelik 2025, not Egli; Egli is nowhere in the register (searched 'Egli' and its title words: 0 hits)."
  },
  {
-  "finding_id": "S2-F065",
+  "finding_id": "S2-F082",
   "paper_id": "",
   "pmid": "26115657",
   "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
@@ -1000,7 +1261,7 @@
   "notes": "The 24.1-month median belongs to the 45-woman vulvodynia series (tagged S174 in the same section), which the register's own S174 entry calls 'a chronic pelvic pain one and not a neuropathy one'. The largest series in the section, Egli 2015 (280; Mülkoğlu's ref 29, found through its reference list), measured outcomes at one year and gives no median duration; the section's 127-patient mepivacaine series is also larger than 45. The one neuropathic-condition duration in the section is this paper's (to three months)."
  },
  {
-  "finding_id": "S2-F066",
+  "finding_id": "S2-F083",
   "paper_id": "S-686-18",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -1012,10 +1273,10 @@
   "page_in_paper": 1,
   "corrected_wording": "The paper is closed access and its eight primary references, which required a demonstrated anaesthetic effect on the skin, are unread; a published series of repeated intradermal lidocaine papules with its schedule stated exists in notalgia paresthetica (Mülkoğlu 2020, PMID 32416719, free in PMC; uncontrolled; no documented skin numbness).",
   "importance": "low",
-  "notes": "The page's opening summary repeats it: 'A second paywalled paper's reference list is the closest thing that exists to evidence for repeated intradermal wheals as a technique'. Vlassakov's abstract (OpenAlex W2332856010) describes outcomes 'With the single skin anesthesia treatment', so the eight may not concern repeated wheals at all; this paper does. The open question itself (what the eight papers are) is not answered: the full text was closed access and not reachable here either (doi.org and Crossref blocked by the session's network policy; the Jina reader returned HTTP 401)."
+  "notes": "The page's opening summary repeats it: 'A second paywalled paper's reference list is the closest thing that exists to evidence for repeated intradermal wheals as a technique'. Vlassakov's abstract (OpenAlex W2332856010) describes outcomes 'With the single skin anesthesia treatment', so the eight may not concern repeated wheals at all; this paper does. The open question itself (what the eight papers are) is not answered: the full text was closed access and not reachable here either (doi.org and Crossref blocked by the session's network policy; the Jina reader returned HTTP 401). Same sentence also flagged as S2-F069 (from S-686-05)."
  },
  {
-  "finding_id": "S2-F067",
+  "finding_id": "S2-F084",
   "paper_id": "S-686-18",
   "page": "Relief that outlasts the block — and whether the whole list is optimising the wrong thing",
   "page_url": "https://app.notion.com/p/3d310b7903aa811cb51bcca149b3de73",
@@ -1030,7 +1291,7 @@
   "notes": "Same point as the claim update on D032 (its also-text 'the closest paper in existence to what this reader is doing', in other sections of this page) and as F11; recorded because it adds this location. The judgement trades demonstrated numbness (the eight) against route, repetition and stated schedule (this paper); hence low."
  },
  {
-  "finding_id": "S2-F068",
+  "finding_id": "S2-F085",
   "paper_id": "S-686-01",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1045,7 +1306,7 @@
   "notes": "Same point as claim update C050 (own question); adds the page location. Baroni is one of the citing papers (ref 28, cited once, PDF p5), but the page introduces it in the next paragraph as 'One other animal study' without registering that it cites Hillerup. The corrected wording replaces only 'None of them contradicts it'; the citation count and the retraction status are not examined here. The Sources entry ('none is classified as contrasting or contradicting') is consistent with Baroni's own citation sentence, which presents Hillerup as support; the main-text sentence goes further. Graded low as over-broad wording: the page already sets Baroni beside Hillerup, and Baroni's design does not test the intraneural finding the recommendation rests on; the main session may raise it because the sentence sits on the page's central safety argument."
  },
  {
-  "finding_id": "S2-F069",
+  "finding_id": "S2-F086",
   "paper_id": "S-686-01",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1060,7 +1321,7 @@
   "notes": "The wording follows Baroni's abstract ('injected in the anterior portion of mental nerve'), which reads as an injection into the nerve; the Methods and Figure 1 (PDF p3) place it in the alveolar mucosa near the nerve. The page contradicts itself: the next paragraph says 'Baroni injected into the region of a nerve, while Hillerup injected inside one', and the Sources entry's limits say 'injection into the region of the nerve rather than inside it', while the same Sources entry repeats the abstract wording ('injected into the anterior portion of the mental nerve') - second place. The extraneural route is what lets the page say the two studies do not collide, and what the practical step 'the evidence of harm comes entirely from drug delivered inside a nerve sheath' relies on."
  },
  {
-  "finding_id": "S2-F070",
+  "finding_id": "S2-F087",
   "paper_id": "S-686-01",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1075,7 +1336,7 @@
   "notes": "Both anaesthetic arms contained the same epinephrine as the epinephrine-alone arm (PDF p3), and the authors attribute the lower inflammation in those arms to the anaesthetics' vasodilation offsetting epinephrine's vasoconstriction (PDF p5). Lidocaine with epinephrine was 'similar to saline solution' (PDF p5). Second place: practical step 4 uses the same finding as a reason (next finding; claim C062)."
  },
  {
-  "finding_id": "S2-F071",
+  "finding_id": "S2-F088",
   "paper_id": "S-686-01",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1090,7 +1351,7 @@
   "notes": "The step gives two reasons for its preference between epinephrine presentations; this one does not test that preference: Baroni's epinephrine-alone arm had no anaesthetic, its two anaesthetic arms carried the same epinephrine and did not differ significantly from saline (PDF p5), and no arm used another epinephrine concentration or an anaesthetic without epinephrine. The step's first sentence (the preference itself, with its figures) is not copied. Overlaps claim update C062 (uniqueness already refuted on Hashimoto 2001 and Komatsu 2013) and finding F03."
  },
  {
-  "finding_id": "S2-F072",
+  "finding_id": "S2-F089",
   "paper_id": "S-686-01",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1105,7 +1366,7 @@
   "notes": "2012 is the online-first year (PubMed: epub 29 March 2012); volume 71, issue 1 is the January 2013 print issue, as the PDF header shows. The main text also says 'Baroni and colleagues (2012)'. PMID and DOI are correct, so the paper is unambiguous."
  },
  {
-  "finding_id": "S2-F073",
+  "finding_id": "S2-F090",
   "paper_id": "",
   "pmid": "11812691",
   "page": "mepivacaine-wheals",
@@ -1121,7 +1382,7 @@
   "notes": "Came from Baroni's reference list (ref 31; Baroni cites it for a prilocaine-versus-lidocaine rat finding it does not contain - that finding is Kishimoto 2002, which the prilocaine-wheals page attributes correctly). The page's closing note lists Radwan among entries that 'still rest on abstracts and citing papers' and asks for them to be verified before citing; the PubMed record confirms authors, title, journal and year and supplies the PMID and DOI, and the abstract supports the page's description (mepivacaine needed a markedly higher concentration than the other three for the same effect; the authors' conclusion favours mepivacaine). Verification is at abstract level only. This is a wheal page tested by another session: finding only."
  },
  {
-  "finding_id": "S2-F074",
+  "finding_id": "S2-F091",
   "paper_id": "S-686-01",
   "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
   "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
@@ -1133,10 +1394,10 @@
   "page_in_paper": 5,
   "corrected_wording": "Articaine shares the field’s one clinical argument that concentration itself is neurotoxic with the other high-concentration dental solution, prilocaine: reports of persistent paraesthesia after dental blocks are over-represented for both.",
   "importance": "low",
-  "notes": "Ambiguous rather than plainly wrong: the paragraph continues with the Danish registry study, in which articaine was the only high-concentration product. Baroni's background (refs 10-13: Haas & Lennon 1995, Gaffen & Haas 2009, Garisto 2010, Hillerup & Jensen 2006) reports the signal for both the articaine and prilocaine dental solutions, and the record's own prilocaine-wheals page (as of 2026-10-02T03:14:12.541Z, section 'What does the evidence say about prilocaine irritating nerves?') says 'the [dose figure omitted] dental solution carries the strongest paresthesia signal of any local anesthetic'. The concentration argument rests on both drugs. The Reference has no entry for Baroni or Hillerup. Same sentence also flagged as S2-F083 (from S-686-12)."
+  "notes": "Ambiguous rather than plainly wrong: the paragraph continues with the Danish registry study, in which articaine was the only high-concentration product. Baroni's background (refs 10-13: Haas & Lennon 1995, Gaffen & Haas 2009, Garisto 2010, Hillerup & Jensen 2006) reports the signal for both the articaine and prilocaine dental solutions, and the record's own prilocaine-wheals page (as of 2026-10-02T03:14:12.541Z, section 'What does the evidence say about prilocaine irritating nerves?') says 'the [dose figure omitted] dental solution carries the strongest paresthesia signal of any local anesthetic'. The concentration argument rests on both drugs. The Reference has no entry for Baroni or Hillerup. Same sentence also flagged as S2-F100 (from S-686-12)."
  },
  {
-  "finding_id": "S2-F075",
+  "finding_id": "S2-F092",
   "paper_id": "",
   "pmid": "21467556",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
@@ -1152,7 +1413,7 @@
   "notes": "Came from Baroni's reference list (ref 28). Rests on the abstract only: it reports the three-week reduction for 'the articaine groups' against saline, concentration-dependently, and the fibre-area and myelin changes only for the higher concentration; it does not state the lower-concentration-versus-saline conduction test separately, so the full text should confirm (not reachable here: no PMC copy, and the Scite connector needs a paid plan). The record's articaine-wheals page reads the abstract the same way as this correction ('At three weeks, the response was still significantly more reduced than in the salt-water group, and the size of that reduction depended on concentration'), so the two pages disagree. Second place on this page: Sources, 'Damage to nerve tissue', Hillerup entry: 'Lasting conduction loss and structural change at [dose figure omitted] but not [dose figure omitted], with no effect from needle plus saline.'"
  },
  {
-  "finding_id": "S2-F076",
+  "finding_id": "S2-F093",
   "paper_id": "S-686-12",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1167,7 +1428,7 @@
   "notes": "Same error in a second place: Sources — Reports from dental practice, Stirrup & Crean entry: 'The only systematic attempt to answer the question, and it comes out undecided'. Repeats claim update C057 (narrowed -> refuted on Hopman 2017) and adds both page locations. Hopman 2017 (Br Dent J, PMID 28972589, DOI 10.1038/sj.bdj.2017.782): two-database search with a PRISMA flow, 47 full texts read by two authors, 16 clinical and 4 laboratory studies; ends 'Further investigation of possible causes of paraesthesia after use of local anaesthetics seems to be warranted' (PDF p5). It calls itself a literature review and has no risk-of-bias assessment or meta-analysis. The page does not cite Hopman anywhere."
  },
  {
-  "finding_id": "S2-F077",
+  "finding_id": "S2-F094",
   "paper_id": "S-686-12",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1182,7 +1443,7 @@
   "notes": "Hopman 2017 (refs 27 and 28) reports both Werdehausen studies; their abstracts (PMIDs 19700777, 22012177, cached) confirm the orderings, with no manufacturer affiliation (Düsseldorf university anaesthesiology). Same point in a second place: Sources — Damage to nerve tissue, Malet entry ('the most favourable published safety fact about the drug comes from its maker'). Related: 'A second cell-line study compared the drugs as they come out of the cartridge' (Albalawi 2018) reads as if Malet and Albalawi were the only cell-line studies of articaine; Werdehausen 2009 and 2012 are two more. The record already describes both Werdehausen papers accurately on 'Injectables ruled out but not tried' (tetracaine section). The comparison page's 'The dish ranking also comes with an interest' is accurate as worded (it is about the study behind its table) and is not a finding. None of this bears on articaine injected inside a nerve (Hillerup 2011)."
  },
  {
-  "finding_id": "S2-F078",
+  "finding_id": "S2-F095",
   "paper_id": "S-686-12",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1197,7 +1458,7 @@
   "notes": "The 1-in-785,000 figure in the sentence is an event incidence, not a dose figure, so it is kept verbatim. Haas & Lennon's own abstract (PMID 7736335, cached) says the same: 'In 1993 alone, there were 14 reports of paresthesia not associated with surgery. This can be projected to an incidence of' the figure the page quotes, and 'Articaine was administered in 10 of these cases or prilocaine in the other four.' Low because the page puts the 21-year review and the rate in adjacent sentences without stating that the rate came from it. The per-drug rates that follow on the page: the articaine figure matches Hopman's Table 1 for 1993; the figure for the lower-concentration solutions cannot come from the 1993 projection, since no 1993 report involved them, and neither Hopman nor the abstract shows where it comes from — unverified. The same framing appears more explicitly on prilocaine-wheals (F09)."
  },
  {
-  "finding_id": "S2-F079",
+  "finding_id": "S2-F096",
   "paper_id": "S-686-12",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1212,7 +1473,7 @@
   "notes": "'Limits: as above' refers to the Garisto entry directly above it: 'voluntary reports compared against sales, which cannot separate events from reporting behaviour'. Piccinni's abstract (PMID 25420896, cached) confirms the case/non-case design with reporting odds ratios and no sales comparison. Hopman (PDF p4) adds that the authors 'did not seem to realise articaine's lower risk of systemic toxicity', which 'may also be (partly) responsible for the increased reporting odds ratio'; Hopman (PDF p5) also notes that Garisto and Piccinni searched the same database with different queries and found very different case counts. Low because 'as above' could be read as 'voluntary reports' only. The prilocaine-wheals page describes Piccinni's design correctly ('spontaneous reports with no denominator')."
  },
  {
-  "finding_id": "S2-F080",
+  "finding_id": "S2-F097",
   "paper_id": "S-686-12",
   "page": "articaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa816f989ad4276f79887e",
@@ -1227,7 +1488,7 @@
   "notes": "Adjacent to the C050 sentence ('Twenty-nine papers have cited it … None of them contradicts it'); the claim update for C050 records that Hopman 2017 is not a citing paper (its only Hillerup reference is Hillerup, Jensen & Ersbøll 2011, PMID 21531935, not the rat study PMID 21467556). This finding concerns the next sentence: read as 'reviews that cite it', it is accurate; read as 'later reviews of the subject', it leaves out a dedicated 2017 review that omits the rat study and reads the animal and cell-culture evidence the other way — hence low. Hopman's animal/in-vitro section covers Ribeiro 2003, Werdehausen 2009 and 2012, Malet 2015 and Baroni 2013 (PDF pp4-5)."
  },
  {
-  "finding_id": "S2-F081",
+  "finding_id": "S2-F098",
   "paper_id": "S-686-12",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1242,7 +1503,7 @@
   "notes": "Verification is secondary: Hopman 2017 reviews all three sources (refs 6, 21, 15; PMIDs 10916328, 21531935, 19840499) in full text — persistent sensory disorders rare (PDF p5), articaine over-represented in most reporting studies and prilocaine at its higher strength too (PDF pp3, 5), and the needle-versus-neurotoxicity dispute set out on PDF p5 ('This suggestion is rejected by Hillerup and colleagues'). The page gives no full citation for 'Hillerup 2011'; in this dental-paraesthesia context it should be Hillerup, Jensen & Ersbøll 2011 (J Am Dent Assoc, PMID 21531935), not the rat sciatic-nerve study of the same year (PMID 21467556) that other pages cite — worth making explicit. Page tested by S1; findings only."
  },
  {
-  "finding_id": "S2-F082",
+  "finding_id": "S2-F099",
   "paper_id": "S-686-12",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1257,7 +1518,7 @@
   "notes": "Hopman's inclusion rule (PDF p2) and every study description (PDF pp3-4: e.g. 'Every reported case of prolonged anaesthesia after the administration of a local anaesthetic was investigated'; cases attributed to a mandibular block, a mental nerve block or an infiltration) show per-injection case counting; no study in the review relates paraesthesia to repeated or cumulative injections. The only repeated-use item in Hopman is a Dutch court case about systemic complaints (Box 1), not a study. The page labels the sentence an inference; low because it is wording that overreaches rather than a figure. Page tested by S1; findings only."
  },
  {
-  "finding_id": "S2-F083",
+  "finding_id": "S2-F100",
   "paper_id": "S-686-12",
   "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
   "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
@@ -1269,10 +1530,10 @@
   "page_in_paper": 5,
   "corrected_wording": "Articaine does not carry the clinical argument that concentration itself is neurotoxic alone: in the dental reporting data the over-representation of articaine, sold at a higher concentration than most dental anaesthetics, is matched by prilocaine at its higher marketed strength, while prilocaine at a lower strength was under-represented in the Danish registry (Hopman 2017, reviewing Haas and Lennon 1995, Pogrel 2012 and Hillerup, Jensen and Ersbøll 2011).",
   "importance": "low",
-  "notes": "Hopman's Discussion (PDF p5) makes the concentration argument from both drugs: articaine's higher concentration as 'A possible explanation', supported by the prilocaine strength contrast (refs 13, 17 = Haas & Lennon 1995, Pogrel 2012; ref 21 = Hillerup, Jensen & Ersbøll 2011). Garisto 2010, which the record cites elsewhere, also found the higher-strength prilocaine over-represented. Only the first sentence of the Reference paragraph is reproduced; the rest of that paragraph (a trial, an umbrella review and a concentration recommendation) and the section's dose lines are left out under the filter rule. The Reference does not cite Hopman. Same sentence also flagged as S2-F074 (from S-686-01)."
+  "notes": "Hopman's Discussion (PDF p5) makes the concentration argument from both drugs: articaine's higher concentration as 'A possible explanation', supported by the prilocaine strength contrast (refs 13, 17 = Haas & Lennon 1995, Pogrel 2012; ref 21 = Hillerup, Jensen & Ersbøll 2011). Garisto 2010, which the record cites elsewhere, also found the higher-strength prilocaine over-represented. Only the first sentence of the Reference paragraph is reproduced; the rest of that paragraph (a trial, an umbrella review and a concentration recommendation) and the section's dose lines are left out under the filter rule. The Reference does not cite Hopman. Same sentence also flagged as S2-F091 (from S-686-01)."
  },
  {
-  "finding_id": "S2-F084",
+  "finding_id": "S2-F101",
   "paper_id": "S-686-12",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -1287,7 +1548,7 @@
   "notes": "Second location on the same page, in 'What does the evidence say about prilocaine irritating nerves?': 'An earlier review of 21 years of Canadian reports put the absolute rates in perspective: about 1 in [dose figure omitted] overall, about 1 in 1,250,000 for the 2 and [dose figure omitted] solutions, and about 1 in 588,000 for [dose figure omitted] prilocaine (Haas and Lennon, 1995).' (the first masked figure is the 1-in-785,000 incidence). Haas & Lennon's abstract (PMID 7736335, cached) confirms the 1993-only basis: 14 reports in 1993, articaine in 10 and prilocaine in the other four; Hopman (PDF p3) gives prilocaine 28% of the 1993 cases against a 20% market share. Because no 1993 report involved the lower-concentration solutions, the 1-in-1,250,000 figure the page gives for them cannot come from that projection; neither Hopman nor the abstract shows its basis (unverified). Medium because the Sources entry states the basis explicitly and wrongly; the same framing, less explicit, is F03 on articaine-wheals."
  },
  {
-  "finding_id": "S2-F085",
+  "finding_id": "S2-F102",
   "paper_id": "S-686-12",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -1302,7 +1563,7 @@
   "notes": "Hopman 2017 (PDF p3) on Haas & Lennon's 1993 data: articaine 71% of cases against a 38% market share, prilocaine at its higher strength 28% against 20% ('slightly increased'); on Pogrel 2012: prilocaine at its higher strength in 34% of cases with an 8% market share, articaine not over-represented. The page itself already notes that Piccinni's ordering is the reverse of Garisto's and says to hold the figures loosely, so the overstatement is in the bolded headline only — hence low."
  },
  {
-  "finding_id": "S2-F086",
+  "finding_id": "S2-F103",
   "paper_id": "",
   "pmid": "9435991",
   "page": "Procaine / Novocaine",

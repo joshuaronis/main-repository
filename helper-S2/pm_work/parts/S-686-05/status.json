@@ -1,0 +1,9 @@
+{
+ "paper_id": "S-686-05",
+ "right_paper": true,
+ "text_ok": true,
+ "own_question_answered": "yes",
+ "claims_rejudged": 12,
+ "notion_findings": 17,
+ "notes": "Right paper (Cui 2017, Pain Med; the PDF is the 2016 advance-access version), text layer ok. Own question answered from the full text: the steroid was methylprednisolone, not dexamethasone, so C028 stays narrowed (the RCT is not of any of the five named drugs, and the authors say the optimum dosage and frequency remain undetermined); D071 stays narrowed (one-week course of closely spaced sessions, roughly 15-30 intracutaneous points per session implied, no systemic-exposure measurement); regimen figures are in the card and those two reasons only. Other claims from Cui: D029, D070 unchanged (refuted), D033 unchanged (narrowed, uncertain for the Mulkoglu element), D072 confirmed -> narrowed (published sessions spaced more closely than the page's floor). Extra studies from PubMed searches prompted by Cui (none from its reference list decides a claim): Xu 2013 refutes A054 (confirmed -> refuted); Nguyen 2021 (D072 narrowed); Xiao 2010 (D026, D020, T02 narrowed, unchanged); Kim 2021 (D032 narrowed, unchanged); Hui 2012 (Notion findings only). 17 Notion findings, 6 high: the 5 ropivacaine product rows resting on 'no wheal study of ropivacaine with a pain outcome exists' (F02-F06) and the Product Guide's injectables governing finding (F12). Filter skips counted: Safe Doses 4 (D069, D073, D074, D075), adjuvants page 1 (C021). Nothing was stopped by the content filter."
+}

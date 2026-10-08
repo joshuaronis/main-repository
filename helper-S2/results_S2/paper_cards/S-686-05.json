@@ -1,0 +1,216 @@
+{
+ "paper_id": "S-686-05",
+ "citation": "Cui JZ, Zhang XB, Zhu P, Zhao ZB, Geng ZS, Zhang YH, Tian L, Luan HF, Feng JY. Effect of Repetitive Intracutaneous Injections with Local Anesthetics and Steroids for Acute Thoracic Herpes Zoster and Incidence of Postherpetic Neuralgia. Pain Med 2017;18(8):1566-1572 (PDF read: advance-access version, Pain Medicine 2016; 0: 1-7, published online 4 Aug 2016)",
+ "pmid": "27492741",
+ "doi": "10.1093/pm/pnw190",
+ "right_paper": true,
+ "text_quality": "ok (text layer, 7 PDF pages, all read; extraction prints '=' as '¼', '+' as 'þ', '±' as '6' and drops '≥'; Figure 1 rendered and checked: a dermatome chart, no individual injection points shown)",
+ "design": "Prospective single-centre randomised parallel-group trial (computer-generated sequence) with a blinded outcome assessor. The authors call it 'placebo-controlled', but the control arm received standard treatment only and no placebo or sham injection is described; the injecting doctor was not blinded and patient blinding is not described. It is an add-on design (standard treatment versus standard treatment plus injections), not a head-to-head comparison with a systemic drug.",
+ "population": "Adults aged 50-80 with acute thoracic herpes zoster (chest-wall eruption) within 7 days of rash onset and zoster pain VAS of 4 or more; excluded: allergy to the study drugs, clinically significant or unstable conditions, coagulation abnormalities, infection at the injection site, intolerance of the study. Mean age about 63 in both arms.",
+ "n": "96 randomised (control 48, intracutaneous 48); 93 completed and analysed (control 46, intracutaneous 47). The abstract says 93 were randomised and the sample-size paragraph says 98 were included.",
+ "setting": "Single centre: Department of Pain Treatment and Department of Anesthesiology, First People's Hospital of Lianyungang City, Jiangsu, China; July 2010 to June 2013.",
+ "intervention": "Standard treatment plus repetitive intracutaneous injections of a local anaesthetic-steroid mixture (ropivacaine with methylprednisolone; strengths [dose figure omitted]) into the skin of the affected thoracic dermatomes along the midclavicular, axillary and subscapular lines, plus selected areas of eruption, pain, burning or itching (PDF p2-3). The study gave four sessions, one every 48 hours over one week. The study gave methylprednisolone 40 mg per session. The study gave a total volume of 15 ml per session. The paper does not state the number of injection points per session; the per-point volume range and the fixed total it reports imply roughly 15 to 30 points per session.",
+ "comparator": "Standard treatment alone: oral acyclovir for one week plus oral tramadol as rescue analgesia when VAS was 4 or more (amounts [dose figure omitted]); both arms received this. No placebo or sham injection is described.",
+ "route": "Intracutaneous (intradermal) injection into trunk skin of the affected dermatomes.",
+ "duration": "Injection course of one week, started within 7 days of rash onset. Follow-up: VAS at 1, 2, 4, 12 and 24 weeks after the end of the injections; PHN at 1, 3 and 6 months; EuroQol VAS at 1, 3 and 6 months; tramadol use weekly for 4 weeks.",
+ "outcomes": "VAS pain (0-10); time to complete resolution of pain and of eruption; PHN incidence (defined as pain of any grade related to the outbreak) at 1, 3 and 6 months; EuroQol VAS; daily tramadol consumption; side effects (bleeding at the injection site, injection pain, infection, drug-related side effects). No plasma or systemic-exposure measurement, no sensory testing of the injected skin, no histology.",
+ "key_results": [
+  {
+   "quote": "Ninety-three patients with acute thoracic HZ were randomly assigned to receive a standard treatment of antiviral medication with p.o. analgesics or the standard treatment with the addition of repetitive intracutaneous injections of a local anesthetic and steroid mixture.",
+   "page": 1
+  },
+  {
+   "quote": "this study was designed as a prospective randomized placebo-controlled clinical trial from July 2010 to June 2013.",
+   "page": 2
+  },
+  {
+   "quote": "Control group: The patients received the current standard treatment (antiviral medication and analgesics) for HZ.",
+   "page": 2
+  },
+  {
+   "quote": "The injection was performed by the doctor (Cui Jizheng), and all follow-up was conducted by a second blinded doctor (Zhang Xiaobao).",
+   "page": 2
+  },
+  {
+   "quote": "Participants in the study were limited to those who met the following criteria: ages 50–80 years old, experiencing HZ within 7 days after onset of the rash, chest wall herpetic eruption, and HZ pain intensity  4 on the visual analog scale (VAS).",
+   "page": 2
+  },
+  {
+   "quote": "A total of 96 patients were randomly allocated to the control group (n ¼ 48) and the intracutaneous group (n ¼ 48). Two patients in the control group and one patient in the intracutaneous group did not complete the study due to a loss of follow-up.",
+   "page": 3
+  },
+  {
+   "quote": "The intracutaneous group reported a significantly shorter duration of pain (25.7 6 37.2 vs 58.2 6 66.5 days, P ¼ 0.005; Table 1).",
+   "page": 3
+  },
+  {
+   "quote": "The same group also reported a significantly lower incidence of PHN after 1 month (12.8% vs 47.8%, P < 0.001), 3 months (6.4% vs 28.3%, P ¼ 0.005), and 6 months (4.3% vs 17.4%, P ¼ 0.022).",
+   "page": 3
+  },
+  {
+   "quote": "Significantly lower VAS was noticed in the intracutaneous group throughout the study period.",
+   "page": 3
+  },
+  {
+   "quote": "Concerning the rescue drug’s (tramadol) consumption per day, there was a significantly lower dosage in the intracutaneous group than in the control group.",
+   "page": 3
+  },
+  {
+   "quote": "The improvement was also significant at all the follow-up time points in the intracutaneous group when compared with the control group (Table 4).",
+   "page": 3
+  },
+  {
+   "quote": "It was noticed that injection pain was the most common side effect of the intracutaneous injection. The injection itself tends to be painful despite the use of ropivacaine, although few individuals complain of it unduly. In some individuals, especially in those of advanced age, bruising occurs at the injected sites. Other side effects, including abscesses, cutaneous atrophy, scarring, tenderness, vertigo, dizziness or giddiness, sweating, and moon face were not encountered throughout the study.",
+   "page": 3
+  },
+  {
+   "quote": "Few empirical studies have described the use of intracutaneous injections in acute HZ pain [17–20]. None of the available studies, however, was a well-designed randomized controlled trial for acute pain in HZ.",
+   "page": 2
+  },
+  {
+   "quote": "Although intracutaneous injections with local anesthetics and corticosteroids have been used for decades both to treat zoster-associated pain and to prevent or treat PHN [17–19,27], the effectiveness of this treatment has not previously been evaluated in a randomized clinical trial.",
+   "page": 4
+  },
+  {
+   "quote": "In the current study, we compared the effects of intracutaneous injections with ropivacaine and methylprednisolone in addition to standard treatment of antiviral and oral analgesics with standard treatment in 93 HZ patients for the prevention of PHN.",
+   "page": 5
+  },
+  {
+   "quote": "The significantly shorter duration of skin eruption in the intracutaneous injection group may be attributed to the dense intracutaneous injections.",
+   "page": 5
+  },
+  {
+   "quote": "Our study demonstrated that repetitive intracutaneous injections with ropivacaine and methylprednisolone plus standard treatment with acyclovir and tramadol are more effective than the standard treatment alone in reducing the duration of pain and skin eruption, preventing PHN, decreasing the dosage of rescue drugs, and improving the quality of life.",
+   "page": 6
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "The current study was designed to be a single-center study, and the number of participants was relatively small. The follow-up time was limited to 6 months, and the systemic absorption of corticosteroid was unknown. Finally, the optimum dosage of anesthetics and corticosteroids and the frequency of rejection remain to be determined.",
+   "page": 6
+  }
+ ],
+ "funding_conflicts": "Funded by Lianyungang Science and Technology Project (SH1402, ZD1501), National Science Foundation of Jiangsu Province (BK20160423) and Lianyungang Health Bureau Project (QN1401, QN130105) (PDF p1; the Acknowledgments on p6 list the Lianyungang grants only). 'There are no conflicts of interest to report.' X. Zhang and J. Cui contributed equally. The injecting doctor (Cui) is the first author.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "[ref 17] Herr H. Prognostic factors of postherpetic neuralgia. J Korean Med Sci 2002;17(5):655-9 (Cui's reference list prints it as 'Methods 2002;7:9')",
+   "pmid": "12378018",
+   "why": "Cited by Cui among the earlier skin-injection studies in zoster. Acute zoster cohort of 188 with standard oral medication alone, plus sub- and/or perilesional lidocaine solution injection, or plus lidocaine-prilocaine cream; PHN rates did not differ between the three groups. A lidocaine-only perilesional injection arm and a topical lidocaine-prilocaine arm in acute zoster (add-on to systemic drugs, not compared against them). Free in PMC (PMC3054950). Cui's citation of it is garbled."
+  },
+  {
+   "citation": "[ref 18] Epstein E. Treatment of herpes zoster and postzoster neuralgia by subcutaneous injection of triamcinolone. Int J Dermatol 1981;20:65-8",
+   "pmid": "7203770",
+   "why": "Subcutaneous triamcinolone in saline (no local anaesthetic per the abstract) in 272 zoster and 128 postzoster-neuralgia patients; uncontrolled series; Cui describes it as daily injections under the eruption until pain relief. Repeated steroid skin injection in zoster/PHN; steroid outside the adjuvants page's five drugs."
+  },
+  {
+   "citation": "[ref 19] Epstein E. Treatment of zoster and postzoster neuralgia by the intralesional injection of triamcinolone: a computer analysis of 199 cases. Int J Dermatol 1976;15:762-9",
+   "pmid": "992927",
+   "why": "Intradermal (intralesional) triamcinolone in saline in 111 zoster and 88 PHN patients; uncontrolled; complications listed as pain, haemorrhage, abscesses, atrophy, moon face and possibly thrombophlebitis. Repeated intradermal steroid in a neuropathic-pain population; steroid outside the adjuvants page's five drugs; no local anaesthetic per the abstract."
+  },
+  {
+   "citation": "[ref 20] Chiarello SE. Tumescent infiltration of corticosteroids, lidocaine, and epinephrine into dermatomes of acute herpetic pain or postherpetic neuralgia. Arch Dermatol 1998;134:279-81",
+   "pmid": "9521026",
+   "why": "Skin infiltration of lidocaine with epinephrine and triamcinolone across affected dermatomes; 13-patient pilot series (Cui p4-5: 8 pain-free, 1 no relief). Local anaesthetic with a vasoconstrictor and a steroid in skin for acute herpetic pain/PHN. No abstract in PubMed."
+  },
+  {
+   "citation": "[ref 10] van Wijck AJ et al. The PINE study of epidural steroids and local anaesthetics to prevent postherpetic neuralgia: a randomised controlled trial. Lancet 2006;367:219-24",
+   "pmid": "16427490",
+   "why": "RCT (598 patients) of one epidural steroid plus local anaesthetic injection added to standard therapy in acute zoster: modest reduction of zoster-associated pain at 1 month, no effect on PHN at 3 or 6 months. Steroid-adjuvant injection; neuropathic-pain prevention; add-on design."
+  },
+  {
+   "citation": "[ref 11] Makharita MY, Amr YM, El-Bayoumy Y. Single paravertebral injection for acute thoracic herpes zoster: a randomized controlled trial. Pain Pract 2015;15:229-35",
+   "pmid": "24528531",
+   "why": "Saline-controlled RCT of a single paravertebral local anaesthetic plus dexamethasone injection in acute thoracic zoster with a PHN endpoint (already in the D026 records). Dexamethasone by a non-skin route."
+  },
+  {
+   "citation": "[ref 12] Kotani N et al. Intrathecal methylprednisolone for intractable postherpetic neuralgia. N Engl J Med 2000;343:1514-9",
+   "pmid": "11087880",
+   "why": "RCT (single-blind) in intractable PHN of at least one year: repeated intrathecal methylprednisolone with lidocaine versus lidocaine alone versus no treatment; pain fell only in the steroid arm. Repeated steroid-plus-anaesthetic injection in established neuropathic pain, neuraxial route; also a lidocaine-only injection arm in a neuropathic-pain RCT (not a skin route)."
+  },
+  {
+   "citation": "[ref 13] Kumar V, Krone K, Mathieu A. Neuraxial and sympathetic blocks in herpes zoster and postherpetic neuralgia. Reg Anesth Pain Med 2004;29:454-61",
+   "pmid": "15372391",
+   "why": "Review of local-anaesthetic blocks in zoster and PHN."
+  },
+  {
+   "citation": "[ref 14] Abram SE, O'Connor TC. Complications associated with epidural steroid injections. Reg Anesth 1996;21:149-62",
+   "pmid": "8829408",
+   "why": "Review of complications of steroid injection (epidural). Injected-steroid safety literature."
+  },
+  {
+   "citation": "[ref 16] Manchikanti L, Hirsch JA. Neurological complications associated with epidural steroid injections. Curr Pain Headache Rep 2015;19:10",
+   "pmid": "25795154",
+   "why": "Review of neurological complications of steroid injection (epidural). Injected-steroid safety literature."
+  },
+  {
+   "citation": "[ref 15] Hempenstall K et al. Analgesic therapy in postherpetic neuralgia: a quantitative systematic review. PLoS Med 2005;2:e164",
+   "pmid": "16013891",
+   "why": "Systematic review of analgesic treatments for PHN (neuropathic pain), including topical lidocaine."
+  },
+  {
+   "citation": "[ref 3] Whitley RJ et al. Management of herpes zoster and post-herpetic neuralgia now and in the future. J Clin Virol 2010;48 Suppl 1:S20-8",
+   "pmid": "20510264",
+   "why": "Review of PHN management (neuropathic pain)."
+  },
+  {
+   "citation": "[ref 4] Haanpaa M et al. CSF and MRI findings in patients with acute herpes zoster. Neurology 1998;51:1405-11",
+   "pmid": "9818869",
+   "why": "Nerve and central involvement in acute zoster; cited for the inflammation of ganglion, nerve and nerve endings behind zoster pain."
+  },
+  {
+   "citation": "[ref 5] Bennett GJ. Hypotheses on the pathogenesis of herpes zoster-associated pain. Ann Neurol 1994;35 Suppl:S38-41",
+   "pmid": "8185295",
+   "why": "Mechanisms of zoster-associated neuropathic pain (nociceptor and central sensitisation)."
+  },
+  {
+   "citation": "[ref 6] Woolf CJ. A new strategy for the treatment of inflammatory pain. Drugs 1994;47:1-9 (as cited by Cui)",
+   "pmid": "7525180",
+   "why": "Central sensitisation; cited for blocking peripheral input to prevent it."
+  },
+  {
+   "citation": "[ref 7] Kelly DJ, Ahmad M, Brull SJ. Preemptive analgesia I: physiological pathways and pharmacological modalities. Can J Anaesth 2001;48:1000-10",
+   "pmid": "11698320",
+   "why": "Sensitisation and pre-emptive analgesia (the rationale for blocking input early)."
+  },
+  {
+   "citation": "[ref 8] Johnson RW. Consequences and management of pain in herpes zoster. J Infect Dis 2002;186 Suppl 1:S83-90",
+   "pmid": "12353192",
+   "why": "Zoster pain management and PHN."
+  },
+  {
+   "citation": "[ref 9] Forbes HJ et al. A systematic review and meta-analysis of risk factors for postherpetic neuralgia. Pain 2016;157:30-54",
+   "pmid": "26218719",
+   "why": "Risk factors for PHN; cited for PHN incidence rising with acute pain severity."
+  },
+  {
+   "citation": "[ref 22] Wood MJ et al. Oral acyclovir therapy accelerates pain resolution in patients with herpes zoster: a meta-analysis of placebo-controlled trials. Clin Infect Dis 1996;22:341-7",
+   "pmid": "8838194",
+   "why": "Source of the expected PHN rate used for Cui's sample size; antiviral effect on zoster pain."
+  },
+  {
+   "citation": "[ref 23] Dworkin RH et al. Recommendations for the management of herpes zoster. Clin Infect Dis 2007;44 Suppl 1:S1-26",
+   "pmid": "17143845",
+   "why": "Management recommendations including zoster pain."
+  },
+  {
+   "citation": "[ref 24] Gross G et al. Herpes zoster guideline of the German Dermatology Society (DDG). J Clin Virol 2003;26:277-89",
+   "pmid": "12637076",
+   "why": "Zoster management guideline including pain therapy."
+  },
+  {
+   "citation": "[ref 25] Johnson RW. Herpes zoster and postherpetic neuralgia. Expert Rev Vaccines 2010;9(3 Suppl):21-6",
+   "pmid": "20192714",
+   "why": "Review of zoster and PHN."
+  },
+  {
+   "citation": "[ref 26] Schmader KE. Epidemiology and impact on quality of life of postherpetic neuralgia and painful diabetic neuropathy. Clin J Pain 2002;18:350-4",
+   "pmid": "12441828",
+   "why": "Epidemiology and quality-of-life burden of two neuropathic pain conditions; Cui cites its PHN rate at 6 months."
+  },
+  {
+   "citation": "NOT CITED (published later; listed so the two trials are not conflated): Cui JZ, Zhang JW, Yan F, et al. Effect of Single Intra-cutaneous Injection for Acute Thoracic Herpes Zoster and Incidence of Postherpetic Neuralgia. Pain Manag Nurs 2018;19(2):186-194",
+   "pmid": "29153295",
+   "why": "The same group's later randomised trial: ONE intracutaneous injection of ropivacaine with methylprednisolone versus an equal volume of saline, all patients on acyclovir and pregabalin, acute thoracic zoster within 1-7 days of rash. Unlike Cui 2017 it is saline-controlled; unlike Cui 2017 it is a single session. Already in the claims' records (D020, D026, D029, D070, A054)."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+[
+ {
+  "pmid": "23566267",
+  "citation": "Xu G, Lv ZW, Feng Y, Tang WZ, Xu GX. A single-center randomized controlled trial of local methylcobalamin injection for subacute herpetic neuralgia. Pain Med 2013;14(6):884-94. doi:10.1111/pme.12081",
+  "found_in_paper": "S-686-05",
+  "bears_on_claim_ids": [
+   "A054",
+   "T02"
+  ],
+  "what_it_shows": "Found by a PubMed search prompted by Cui 2017 (other skin-route local-anaesthetic injection trials in zoster); not in Cui's reference list. Single-centre randomised trial in 98 people aged 50 or over with subacute herpetic neuralgia (dermatomal pain lasting 30 days after the rash): local methylcobalamin injection versus oral methylcobalamin versus repeated subcutaneous lidocaine injection. A systemic drug (oral methylcobalamin) and a local-anaesthetic infiltration protocol were randomised arms of one trial in a neuropathic pain condition, so it is a trial comparing them; local methylcobalamin injection did best and oral methylcobalamin gave no significant relief. The lidocaine arm is also an anaesthetic-only skin-injection arm (subcutaneous, not intradermal wheals; no placebo arm).",
+  "quote_from_abstract": "Subjects were randomized to receive local methylcobalamin injection (N = 33), oral methylcobalamin (N = 33), or subcutaneous [dose figure omitted] lidocaine injection (N = 32) … oral methylcobalamin did not provide any significantly pain relief (P > 0.05)."
+ },
+ {
+  "pmid": "33855194",
+  "citation": "Nguyen DT, Dang TC, Nguyen QA, et al. The effect of subcutaneous injection of methylprednisolone acetate and lidocaine for refractory postherpetic neuralgia: a prospective, observational study. Health Sci Rep 2021;4(2):e271. doi:10.1002/hsr2.271",
+  "found_in_paper": "S-686-05",
+  "bears_on_claim_ids": [
+   "D072"
+  ],
+  "what_it_shows": "Found by the same PubMed search prompted by Cui 2017; not in its reference list. Prospective observational series of 43 people with refractory postherpetic neuralgia given subcutaneous lidocaine with methylprednisolone acetate on consecutive days, followed to 12 months with VAS and SF-36. A published series of repeated local-anaesthetic injection sessions spaced far more closely than the floor the Safe Doses page names; it measured no plasma level, clearance or accumulation. Free in PMC (PMC8031000).",
+  "quote_from_abstract": "A total of 43 patients with refractory PHN was enrolled in the observational study. All patients received daily subcutaneous injection of methylprednisolone acetate and lidocaine for [dose figure omitted]."
+ },
+ {
+  "pmid": "21134121",
+  "citation": "Xiao L, Mackey S, Hui H, Xong D, Zhang Q, Zhang D. Subcutaneous injection of botulinum toxin A is beneficial in postherpetic neuralgia. Pain Med 2010;11(12):1827-33. doi:10.1111/j.1526-4637.2010.01003.x",
+  "found_in_paper": "S-686-05",
+  "bears_on_claim_ids": [
+   "D026",
+   "D020",
+   "T02"
+  ],
+  "what_it_shows": "Found by the PubMed search prompted by Cui 2017; not in its reference list. Randomised, double-blind, placebo-controlled trial in 60 people with postherpetic neuralgia, three arms injected subcutaneously into the affected dermatome: botulinum toxin A, lidocaine, or saline; pain at day 1, day 7 and 3 months. Its lidocaine arm is an anaesthetic-only skin injection measured against a dummy injection in an established neuropathic pain, at time points long after any block; pain fell in all three arms and only botulinum toxin beat both lidocaine and saline, so the abstract shows no lidocaine advantage over saline.",
+  "quote_from_abstract": "We investigated the therapeutic benefits of BTX-A in subjects with PHN in a randomized, double-blind, placebo-controlled study. Sixty subjects with PHN were randomly and evenly distributed into BTX-A, lidocaine, and placebo groups. After randomization, one of the following solutions was injected subcutaneously in the affected dermatome: [dose figure omitted] BTX-A, [dose figure omitted] lidocaine, or [dose figure omitted] saline (placebo). … Compared with pretreatment, VAS pain scores decreased at day 7 and 3 months posttreatment in all three groups (P<0.01). However, the VAS pain scores of the BTX-A group decreased more significantly compared with lidocaine and placebo groups at day 7 and 3 months posttreatment (P<0.01)."
+ },
+ {
+  "pmid": "34593669",
+  "citation": "Kim J, Kim MK, Choi GJ, Shin HY, Kim BG, Kang H. Pharmacological and non-pharmacological strategies for preventing postherpetic neuralgia: a systematic review and network meta-analysis. Korean J Pain 2021;34(4):509-533. doi:10.3344/kjp.2021.34.4.509",
+  "found_in_paper": "S-686-05",
+  "bears_on_claim_ids": [
+   "D032"
+  ],
+  "what_it_shows": "Found by the PubMed search prompted by Cui 2017; not in its reference list. Systematic review and network meta-analysis of 39 randomised trials of strategies to prevent PHN after acute zoster. Its nodes include antiviral agents with intracutaneous injection of local anaesthetics and steroids (AV + iLS, one trial), the same with antiepileptics (AV + AE-iLS, one trial), intracutaneous local anaesthetic alone or with methylene blue, and subcutaneous local anaesthetic-steroid injection (AV + sLS). The one-trial intracutaneous nodes match Cui 2017 and Cui 2018 (and Cui 2016 for methylene blue), but the PMC full text (PMC8494957) has its reference numbers stripped, so the inclusion of Cui 2017 is inferred, not read. A systematic analysis that covers the intradermal route in zoster-related neuropathic pain, for prevention in acute zoster and with a steroid in the injection.",
+  "quote_from_abstract": "In total, 39 studies were included in the systematic review and NMA. According to the SUCRA value, the incidence of PHN was lower in the order of continuous epidural block with local anesthetics and steroids (EPI-LSE), antiviral agents with subcutaneous injection of local anesthetics and steroids (AV + sLS), antiviral agents with intracutaenous injection of local anesthetics and steroids (AV + iLS) at 3 months after acute HZ."
+ },
+ {
+  "pmid": "22502623",
+  "citation": "Hui F, Boyle E, Vayda E, Glazier RH. A randomized controlled trial of a multifaceted integrated complementary-alternative therapy for chronic herpes zoster-related pain. Altern Med Rev 2012;17(1):57-68.",
+  "found_in_paper": "S-686-05",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Not in Cui's reference list; already in claim A054's records (wait-list control, not a systemic drug). Looked up because a Notion page surfaced by the zoster searches for Cui 2017 describes it under the wrong authors and as a procaine-only protocol. Randomised trial in 59 people with zoster-related pain of at least 30 days (immediate treatment 32, wait-list 27), unblinded wait-list design; the intervention was a package of acupuncture, neural therapy with procaine injection, cupping and bleeding, and Chinese herbs; pain at three weeks 2.3 in the treated group against 7.2 in the wait-list group (baseline 7.5 and 7.8), maintained to two years. Decides no claim; supports Notion findings F15-F16.",
+  "quote_from_abstract": "The CAM therapies used were acupuncture, neural therapy ([dose figure omitted] procaine injection as a local anesthetic), cupping and bleeding, and TCM herbs. An immediate treatment group (n=32) received the CAM intervention [dose figure omitted]. A wait-list (delayed treatment) group (n=27) was used as a control"
+ }
+]
