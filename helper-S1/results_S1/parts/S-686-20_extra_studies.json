@@ -1,0 +1,71 @@
+[
+ {
+  "pmid": "13890590",
+  "engine": "europepmc",
+  "citation": "Eriksson E. L 67 - experimental evaluation of a new local anaesthetic in man. Acta Anaesthesiologica Scandinavica 1961;5:191-205. DOI 10.1111/j.1399-6576.1961.tb00095.x",
+  "found_in_paper": "S-686-20 (Padfield 1967), reference 2, and discussed in the introduction on p1",
+  "bears_on_claim_ids": [
+   "C065",
+   "C066",
+   "C067"
+  ],
+  "what_it_shows": "An experimental evaluation of prilocaine in man that, on Padfield's account, repeated the 1959 figures and extended the longer-duration claim to finger, caudal and spinal blocks. If it contains intradermal duration data it would be an earlier human intradermal timing of prilocaine than Reynolds 1976 or Willatts 1985. Europe PMC holds the record with no abstract and subscription-only full text, so what it measured could not be read in this session; it is logged here as a lead, not as evidence. Cited 11 times.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "",
+  "engine": "europepmc",
+  "citation": "Eriksson E, Gordh T. Clinical trials of a new local anaesthetic. Acta Anaesthesiologica Scandinavica 1959;Suppl 12:81",
+  "found_in_paper": "S-686-20 (Padfield 1967), reference 1, and the opening sentences on p1",
+  "bears_on_claim_ids": [
+   "C065",
+   "C066",
+   "C067"
+  ],
+  "what_it_shows": "The original claim that prilocaine has a longer intradermal duration of action than lignocaine. Padfield reports that this claim rested on findings which did not reach statistical significance. Not found in Europe PMC (searched by author and title; it is a supplement and appears not to be indexed), so it has no PMID here and could not be read.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "14389667",
+  "engine": "europepmc",
+  "citation": "Mongar JL. A study of two methods for testing local anaesthetics in man. British Journal of Pharmacology and Chemotherapy 1955;10(2):240-246. PMC1509502. DOI 10.1111/j.1476-5381.1955.tb00089.x",
+  "found_in_paper": "S-686-20 (Padfield 1967), reference 13; the class experiment design was adapted from it",
+  "bears_on_claim_ids": [
+   "D039",
+   "D062",
+   "C047"
+  ],
+  "what_it_shows": "The method source for Padfield's design: a 1955 human study comparing two methods for testing local anaesthetics in man. If one of the two methods is an intradermal weal with timed testing, it would be the earliest human intradermal local-anaesthetic testing study in this set and could bear on which procaine intradermal data exist. It has no abstract, and its free full text could not be retrieved in this session: both europepmc.org and onlinelibrary.wiley.com are denied by the egress proxy (CONNECT 403), and the Europe PMC fullTextXML endpoint returns a 500 for this record. Logged as an unresolved lead. Cited 6 times.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "5922004",
+  "engine": "europepmc",
+  "citation": "Purnell RJ, Frew RM, Roth IZ. The topical analgesic action of prilocaine. A comparison with lignocaine by two methods. Anaesthesia 1966;21(4):480-489. DOI 10.1111/j.1365-2044.1966.tb02653.x",
+  "found_in_paper": "S-686-20 (Padfield 1967), reference 9, and the introduction on p1",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "A randomised comparative clinical trial of topical prilocaine against lignocaine by two methods, which Padfield reports as finding durations similar for the two agents. Topical and by MeSH applied to larynx and trachea, not intradermal, so it does not reach the intradermal wheal claims. Note that Padfield's reference list omits the third author (Roth). No abstract.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "14293186",
+  "engine": "europepmc",
+  "citation": "Thornton JA. Recent advances in local analgesia. Clinical experience with prilocaine. Proceedings of the Royal Society of Medicine 1965;58:418-420. PMC1898583. DOI 10.1177/003591576505800610",
+  "found_in_paper": "S-686-20 (Padfield 1967), reference 8, and the introduction on p1",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "The other of the two topical prilocaine-versus-lignocaine reports Padfield cites as reaching opposing conclusions; Padfield reports this one as suggesting prilocaine lasted longer. Clinical experience across bronchoscopy, conduction and obstetric anaesthesia, not an intradermal study, so it does not decide any wheal claim. Free full text in Europe PMC. No abstract.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "13863977",
+  "engine": "europepmc",
+  "citation": "von Bahr V, Eriksson E. Citanest (L 67) - ett nytt lokalanestesimedel. Svenska Lakartidningen 1962;59:2221-2232",
+  "found_in_paper": "S-686-20 (Padfield 1967), reference 6, and the introduction on p1",
+  "bears_on_claim_ids": [
+   "D023",
+   "D054"
+  ],
+  "what_it_shows": "Padfield's source for the statement that prilocaine outlasted lignocaine in peripheral nerve, spinal and epidural blockade but that the two lasted alike once a vasoconstrictor was added to each. That is a vasoconstrictor-and-duration observation, but by nerve-block and neuraxial routes rather than intradermally, so it does not reach the intradermal scope of D023 or D054. In Swedish, no abstract.",
+  "quote_from_abstract": ""
+ }
+]

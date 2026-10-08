@@ -1,0 +1,18 @@
+[
+  {
+    "pmid": "3158255",
+    "citation": "Buckley FP, Duval Neto G, Fink BR. Acid and alkaline solutions of local anesthetics: duration of nerve block and tissue pH. Anesth Analg 1985;64:477-482",
+    "found_in_paper": "S-686-04 reference 8, cited on page 4 as the regional-nerve-block leg of the sentence that studies have shown the duration of anaesthetic effect is unchanged by buffering",
+    "bears_on_claim_ids": ["D025"],
+    "what_it_shows": "A double-blind study of rat infraorbital nerve blocks which found that the pH of the injected solution had little or no effect on how long the block lasted, and which measured tissue pH with a microelectrode after injection. It is an animal nerve-block experiment, not a human study and not in skin. It matters because it is the strongest of the three references behind Christoph 1988's duration sentence, and so behind any reading of Christoph's abstract as evidence about duration: once this is seen, Christoph's 'duration of skin anesthesia was not altered' is a restatement of a rat nerve-block result and not a measurement made in human skin. Looked up on Europe PMC (engine europepmc, query EXT_ID-free title plus author search, 2026-10-08, hitCount 1).",
+    "quote_from_abstract": "Injectable pH had little or no effect upon the duration of block."
+  },
+  {
+    "pmid": "3717616",
+    "citation": "DiFazio CA, Carron H, Grosslight KR, Moscicki JC, Bolding WR, Johns RA. Comparison of pH-adjusted lidocaine solutions for epidural anesthesia. Anesth Analg 1986;65:760-764",
+    "found_in_paper": "S-686-04 reference 10, cited on page 4 as one of the two major-nerve-block references for the same unchanged-duration sentence, and on page 2 among the studies said to have focused on efficacy after pH adjustment",
+    "bears_on_claim_ids": ["D025"],
+    "what_it_shows": "148 adult patients having epidural anaesthesia, assigned to five solutions of differing measured pH. The endpoints it reports are onset of analgesia and onset of surgical anaesthesia, both faster in the pH-adjusted groups; the abstract reports no duration result at all and the route is epidural, not cutaneous. So the second leg of Christoph 1988's duration support is an onset study in a different compartment. Looked up on Europe PMC (engine europepmc, title search, 2026-10-08, hitCount 1).",
+    "quote_from_abstract": "Times of onset of analgesia … were significantly more rapid in the groups that received the pH-adjusted solutions"
+  }
+]

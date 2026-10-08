@@ -1,0 +1,123 @@
+{
+ "paper_id": "S-686-35",
+ "citation": "Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726",
+ "pmid": "1590615",
+ "doi": "10.1016/s0196-0644(05)82787-8",
+ "right_paper": true,
+ "text_quality": "ok — all four journal pages (723-726) are present with a text layer: abstract, introduction, methods, results, discussion, conclusion, Tables 1-3 with their captions and footnotes, the Figure legend, and all 12 references. Two caveats. (1) The PDF is two-column and the extraction interleaves the columns line by line, so quotes from pages 724-726 are joined with ' … ' at each OCR line break where the other column intervenes; every quote in this card and in the claim updates was checked against texts/S-686-35.txt with the normalisation used by common/tools/quotecheck.py. (2) The Figure is four per-locale line plots of mean score against time with no printed values, so the time courses exist only as plotted points; Table 1 carries the group means, so no numeric result is lost. Scattered OCR noise: letter-spacing inside words ('n o n d o m i n a n t', 'H u m a n'), 'Lidecaine' for 'Lidocaine', 'comt~ared' for 'compared', '_+' for '±', 'i mL' for '1 mL', and superscript reference numerals merged into words ('localeA -a').",
+ "design": "Two-part open (unblinded) volunteer experiment in the same people, each subject acting as his or her own control across body sites. Experiment 1 (L): plain buffered lidocaine at four body locales in all 20 subjects. Experiment 2 (LE): the same four locales with lidocaine plus epinephrine, on a different day, in ten of the same 20 subjects. No placebo or saline arm, no randomisation of site order reported, no blinding reported, and the two solutions were given on separate days rather than concurrently. Between-locale comparison by repeated-measures ANOVA with the Scheffe test post hoc; plain versus epinephrine comparison by two-tailed paired t-test in the ten subjects who did both phases; mean ratios with 95% confidence intervals for locale-to-face and epinephrine-to-plain.",
+ "population": "Healthy adult volunteers recruited from emergency department personnel, aged 27 to 48 years (mean 32.0). Exclusions: allergy to lidocaine, pregnancy, and current use of analgesic or sedative agents. Intact, unwounded skin; no neuropathy or other disease state studied.",
+ "n": "20 subjects for plain lidocaine at each of the four locales; 10 of those same 20 for lidocaine with epinephrine at each of the four locales. Paired plain-versus-epinephrine comparisons rest on n = 10.",
+ "setting": "Single centre, Departments of Emergency Medicine, Detroit Receiving Hospital and University Health Center, and Wayne State University, Detroit, Michigan. Approved by the Wayne State University Human Use Committee. Presented at the Society for Academic Emergency Medicine Annual Meeting, Washington DC, May 1991.",
+ "intervention": "Experiment 1: 1% lidocaine buffered with sodium bicarbonate (buffering method cited to Christoph et al 1988; [preparation detail omitted]), [dose figure omitted] per site. Experiment 2: the same buffered 1% lidocaine containing epinephrine 1:100,000, [dose figure omitted] per site. One deposit per site per experiment; no repeat dosing. The anaesthetic and epinephrine concentrations are recorded here because the paper's own open question asks what this study itself used; the abstract does not state the epinephrine concentration, which is why the full text was needed.",
+ "comparator": "Two comparisons, both within-subject: (a) three other body locales against the face for the same solution; (b) lidocaine with epinephrine against plain lidocaine at the same locale, in the ten subjects who took part in both phases. There is no placebo, saline or no-injection control.",
+ "route": "Intradermal — a wheal raised through intact skin with a fine needle on a tuberculin syringe. This is an intradermal weal, not subcutaneous infiltration and not a nerve block. Four sites: forehead close to the scalp; volar forearm just distal to the antecubital fossa; dorsal aspect of the non-dominant hand; and the medial aspect of the leg just below the knee — the site the abstract and Tables call 'calf' and 'Leg' respectively.",
+ "duration": "Each site followed until anaesthetic effect had gone: assessments every 15 minutes in the plain-lidocaine experiment and every 30 minutes in the epinephrine experiment, continued until no anaesthetic effect was present. Longest mean followed out to about 11.3 hours (leg, with epinephrine, any anaesthesia). Because the first assessment came a fixed interval after injection, onset was not timed. Single session per experiment; the two experiments were on different days.",
+ "outcomes": "Self-reported response to pinprick at the injection site, marked on a 21-point pain-analysis scale labelled 'dull' at the left margin and 'sharp' at the right, scored 0 (no painful sensation) to 20 (completely absent anaesthetic effect). Two derived endpoints: duration of EFFECTIVE anaesthesia = time until the score exceeded 5; duration of ANY anaesthesia = time until the score exceeded 19, i.e. essentially complete return of sensation. Secondary: mean ratios of duration between locales and between solutions, with 95% confidence intervals.",
+ "key_results": [
+  {
+   "quote": "Little information exists relating body locale to the … duration of action of local anesthetics.",
+   "page": 723
+  },
+  {
+   "quote": "ten of the volunteers from the first … experiment were injected at the same body locales with … buffered [dose figure omitted] lidocaine containing epinephrine in a [dose figure omitted] … concentration.",
+   "page": 724
+  },
+  {
+   "quote": "an intradermal wheal was raised on the fore- … head close to the scalp, the volar forearm just distal to the … antecubital fossa, the dorsal aspect of the n o n d o m i n a n t … hand, and the medial aspect of the leg just below the knee.",
+   "page": 724
+  },
+  {
+   "quote": "Duration of effective anesthe- … sia was considered the time until the score was greater than 5.",
+   "page": 724
+  },
+  {
+   "quote": "Duration of any anesthesia was considered the time until the … score was greater than 19.",
+   "page": 724
+  },
+  {
+   "quote": "Mean + SEM duration of effective and any anesthesia f o r each body locale",
+   "page": 724
+  },
+  {
+   "quote": "Lidocaine       0.7_+0.11.6+0.2       1.4_+0.2 2.5+0.2     1.2_+0.1 2.5_+0.2 1.2_+0.1 2.0_+0.2",
+   "page": 724
+  },
+  {
+   "quote": " epinephrine    3.0_+0.6 4.2+0.8     6.8_+0.6 8.1_+0.6 8.7_+0.6 9.3_+0.6 9.9_+0.9 11.3_+0.8",
+   "page": 724
+  },
+  {
+   "quote": "With one exception, both effective and any anesthesia … (whether with or without epinephrine) were significantly … briefer for the face than for all body locales.",
+   "page": 724
+  },
+  {
+   "quote": "With epinephrine added, both effective and any anesthesia … lasted longer than lidocaine alone at all body locales",
+   "page": 724
+  },
+  {
+   "quote": "The only other significant differences observed were between hand and leg lidocaine with epinephrinefor both effective (P< .05) and any anesthesia(P< .01).",
+   "page": 724
+  },
+  {
+   "quote": "*Pvalues for body locales comt~aredwith the face were as follows: for lidecaine alone, effective anesthesia:hand, P < .001;arm, P = .07;leg, P< .01;for any anesthesia, P < .01 for all body locales.",
+   "page": 724
+  },
+  {
+   "quote": "Anesthesia at other body locales has a duration ranging from … 1.3- to 3.2-fold that on the face at the 95% confidence level",
+   "page": 724
+  },
+  {
+   "quote": "The addition of epinephrine to lidocaine prolonged the effective duration of anesthesia by 1.3- to 13.0-fold at the … 95% confidence level, depending on body locale (Table 3).",
+   "page": 725
+  },
+  {
+   "quote": "We noted little difference in … activity on body areas other than the face.",
+   "page": 725
+  },
+  {
+   "quote": "Mean ratios 4- 95% confidence intervals of the duration of effective and arty … attesthesia at each body locale to that on the]ace",
+   "page": 725
+  },
+  {
+   "quote": "Lidocaine        1.0     1.0     2.4_+0.8 2 . 0 + 0 . 7   2.1 +0.7 1 . 9 + 0 . 6    2.2+0.6   1.9+0.5",
+   "page": 725
+  },
+  {
+   "quote": "Mean ratios +_95% confidence intervals of the duration of effective and a n y … anesthesia with lidocaine and epinephrine at each body locale to that at the … same body locale with lidocaine only",
+   "page": 725
+  },
+  {
+   "quote": "epinephrine   5.3+3.3 2.9+1.6   5.8+2.1 4.2_+1.3         8.9_+2.7 4 . 8 + 2 . 0    8.5+4.5   4.3+0.7",
+   "page": 725
+  },
+  {
+   "quote": "Our observations indicate that local anesthetics have a con- … siderably briefer duration of action on the face than at other body locales.",
+   "page": 725
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Our experiments differ from the clinical practice of wound … repair in that injections were made through intact skin in volunteers in an unwounded area.",
+   "page": 725
+  },
+  {
+   "quote": "they suggest that our results should be … interpreted with caution.",
+   "page": 725
+  },
+  {
+   "quote": "it may be related to local vasoconstriction in … response to trauma. If so, local sequestration of anesthetic … agents could result in a longer duration of action in wounded … than in unwounded tissue.",
+   "page": 725
+  },
+  {
+   "quote": "Determining rela- … tive duration is important because actual duration in clinical … practice depends on dose administered and individual differ- … ences in local and systemic metabolism as well as on other … factors.",
+   "page": 724
+  },
+  {
+   "quote": "Because these ratios represent the mean of all indi- … viduals' ratios, they may not coincide with the ratios of mean … durations of anesthesia (Table 1).",
+   "page": 724
+  }
+ ],
+ "funding_conflicts": "No funding source, grant or conflict-of-interest statement appears anywhere in the paper. The only institutional note is ethics approval by the Wayne State University Human Use Committee and the reprint address at Detroit Receiving Hospital.",
+ "studies_it_cites_that_matter": []
+}
