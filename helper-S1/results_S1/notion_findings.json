@@ -166,13 +166,13 @@
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
   "page_version": "2026-10-02T03:14:02.626Z",
   "section": "What does each one cost in injection pain? (the ropivacaine sentence that closes the 'A full buffer does not transfer to the other drugs' paragraph)",
-  "sentence_as_it_stands": "No one has shown that a partly buffered ropivacaine stays clear, and any mixture is worth holding to the light before it is injected.",
+  "sentence_as_it_stands": "No one has shown that a partly buffered ropivacaine stays clear",
   "kind": "overstated",
   "quote": "Later, we determined the concen…tration of NaHCO3, which can be added to [dose figure omitted] of … [dose figure omitted] ropivacaine at room temperature, with and … without the previous addition of [dose figure omitted] adrenaline without provoking immediate … precipitation (5 minutes of optical microscope ob…servation) of the final anesthetic solution.",
   "page_in_paper": 358,
   "corrected_wording": "A partly buffered ropivacaine has been shown to stay clear once, in the laboratory and over a short window. The laboratory phase of a randomised double-blind trial of lumbar peridural block in 60 patients located the point at which a precipitate appeared in ropivacaine, used a quantity below it, and reported no precipitate under an optical microscope over five minutes at room temperature; the same paper found precipitate in every solution recovered from rat tissue five minutes after injection, including the unmodified clinical-use preparation and most of all the alkalinised ones (Ramos 2001, PMID 11464357). Two laboratory studies report the opposite over longer windows or at larger bicarbonate quantities: precipitate still accumulating to a plateau at 20 minutes in a weaker ropivacaine at the lowest amount tried (Fulling & Peterfreund 2000, PMID 11009239), and precipitate at every bicarbonate volume tried (AlShammari 2025, PMID 40330160). A fourth put ropivacaine through its titration at its two strongest commercial strengths only, found precipitation above pH 6.0 and excluded it (Milner 2000, PMID 10758442). What no study has done is follow a partly buffered ropivacaine past a few minutes, or at the moment it enters tissue, and report it still clear.",
   "importance": "high",
-  "notes": "This is claim D017 and the sentence the whole open question was raised against; it is refuted as worded. Scope matters for how far the correction reaches. Ramos is a clinical peridural trial whose primary endpoints were block onset, spread and duration; the clarity observation was a laboratory step before the trial and an animal sub-study, never an inspection of the syringes given to patients - so the laboratory half of the sentence is settled and the clinical half is not. Milner 2000, the other full text read for this claim, is a pure laboratory solution study, which is exactly where it could have settled the question, and there ropivacaine precipitated at both strengths tested. Searched in Notion for 'Milner', 'Ramos', 'alkalinization', 'bicarbonate', 'precipitate', PMID 10758442, PMID 11464357, DOI 10.1046/j.1365-2346.2000.00596.x and DOI 10.1053/rapm.2001.24257 (engine: notion-search), and read the local copies of the ropivacaine, mepivacaine and bupivacaine wheal pages plus fresh fetches of this page, the Reference source register S1-S457, the Product Guide, '5 - Soft ground in these documents', 'What is still unsettled across these pages' and 'What was searched for and does not exist': Milner 2000, Ramos 2001 and Fulling 2000 are cited nowhere in the record, and the ropivacaine-buffering absence is not entered in the register of absences either. One loose end: a Letter/Comment on Ramos with an author reply exists (Lambert 2002, PMID 12016613) and is behind a subscription with no abstract, so it was not read.",
+  "notes": "This is claim D017 and the sentence the whole open question was raised against; it is refuted as worded. Scope matters for how far the correction reaches. Ramos is a clinical peridural trial whose primary endpoints were block onset, spread and duration; the clarity observation was a laboratory step before the trial and an animal sub-study, never an inspection of the syringes given to patients - so the laboratory half of the sentence is settled and the clinical half is not. Milner 2000, the other full text read for this claim, is a pure laboratory solution study, which is exactly where it could have settled the question, and there ropivacaine precipitated at both strengths tested. Searched in Notion for 'Milner', 'Ramos', 'alkalinization', 'bicarbonate', 'precipitate', PMID 10758442, PMID 11464357, DOI 10.1046/j.1365-2346.2000.00596.x and DOI 10.1053/rapm.2001.24257 (engine: notion-search), and read the local copies of the ropivacaine, mepivacaine and bupivacaine wheal pages plus fresh fetches of this page, the Reference source register S1-S457, the Product Guide, '5 - Soft ground in these documents', 'What is still unsettled across these pages' and 'What was searched for and does not exist': Milner 2000, Ramos 2001 and Fulling 2000 are cited nowhere in the record, and the ropivacaine-buffering absence is not entered in the register of absences either. One loose end: a Letter/Comment on Ramos with an author reply exists (Lambert 2002, PMID 12016613) and is behind a subscription with no abstract, so it was not read. The page sentence continues past the clause recorded here with an instruction about inspecting a mixture before injection; that clause is not a literature claim and is not reproduced, and nothing in this finding bears on it.",
   "worker_finding_id": "S-686-24-F001"
  },
  {
@@ -188,7 +188,7 @@
   "page_in_paper": 360,
   "corrected_wording": "Ropivacaine — tolerated none of the volumes tested — precipitated at every volume tested. The step size sets what that can mean: the study raised the buffer in fixed increments and its smallest increment was already several times larger than the quantity at which a precipitate first appeared in ropivacaine in an earlier laboratory determination, so the design could not have detected a window below that increment. Such a window was located and used: a laboratory phase fixed a quantity below the point at which a precipitate appeared and reported none under an optical microscope over five minutes at room temperature, and that solution was then given peridurally in a randomised double-blind trial in 60 patients (Ramos 2001, PMID 11464357). Two further limits belong with the 2025 row: its endpoint was visible precipitate, with no microscopy, and its report does not state which ropivacaine strength was tested (AlShammari 2025, PMID 40330160).",
   "importance": "high",
-  "notes": "The ropivacaine row is the figure that two pages lean on - the bupivacaine page's bupivacaine-versus-ropivacaine contrast and the comparison page's 'no one has shown' sentence - and as rendered it reads as a property of the drug rather than of the volumes tried. The 'any volume' cell in the 'Bicarbonate it tolerates' column also inverts the sense of the row: ropivacaine tolerated no volume tested, not any volume. The increment comparison is derived, not quoted, and the assumption is named here: the 2025 study's Europe PMC record (EXT_ID:40330160) gives its increment as a fixed volume step of the 8.4 per cent bicarbonate preparation, and at that strength the step works out several times the quantity at which Ramos first saw precipitate in 10 mL of its ropivacaine solution. Confirmed in the same record that 'Ropivacaine precipitated with all volumes of buffer' is the study's own sentence and that the ropivacaine strength is not stated in it, so the page quotes it accurately; the overstatement is in treating it as the whole of what is known.",
+  "notes": "The ropivacaine row is the figure that two pages lean on - the bupivacaine page's bupivacaine-versus-ropivacaine contrast and the comparison page's 'no one has shown' sentence - and as rendered it reads as a property of the drug rather than of the volumes tried. The 'any volume' cell in the 'Bicarbonate it tolerates' column also inverts the sense of the row: ropivacaine tolerated no volume tested, not any volume. The increment comparison is derived, not quoted, and the assumption is named here: the 2025 study's Europe PMC record (EXT_ID:40330160) gives its increment as a fixed volume step of the stronger of the two bicarbonate preparations in common use, and at that strength the step works out several times the quantity at which Ramos first saw precipitate in its ropivacaine solution. Confirmed in the same record that 'Ropivacaine precipitated with all volumes of buffer' is the study's own sentence and that the ropivacaine strength is not stated in it, so the page quotes it accurately; the overstatement is in treating it as the whole of what is known.",
   "worker_finding_id": "S-686-24-F003"
  },
  {
@@ -417,6 +417,86 @@
  },
  {
   "finding_id": "S1-F027",
+  "paper_id": "S-686-35",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "What adding epinephrine buys > What transfers, and what does not",
+  "sentence_as_it_stands": "None of the four studied people with small fiber neuropathy, and none studied leg skin. So what transfers is the multiplier, not the number of hours: two to three times whatever plain lidocaine gives your legs.",
+  "kind": "understated",
+  "quote": "an intradermal wheal was raised on the fore- … head close to the scalp, the volar forearm just distal to the … antecubital fossa, the dorsal aspect of the n o n d o m i n a n t … hand, and the medial aspect of the leg just below the knee.",
+  "page_in_paper": 724,
+  "corrected_wording": "None of the four studied people with small fiber neuropathy. One further study did measure leg skin: Todd 1992 (PMID 1590615) raised intradermal wheals of lidocaine with epinephrine at this strength at the forehead, volar forearm, dorsum of the hand and the medial leg below the knee in the same volunteers, and timed anaesthesia at each. So the site half of the transfer has been measured in healthy skin; what has not been measured is the same thing in skin that has lost fibres.",
+  "importance": "high",
+  "notes": "This is the premise the page's central transfer rests on. Todd's leg site is the medial leg just below the knee, which its own abstract calls the calf. Being healthy skin, it leaves the neuropathy half of the transfer untouched.",
+  "worker_finding_id": "S-686-35-F002"
+ },
+ {
+  "finding_id": "S1-F028",
+  "paper_id": "S-686-35",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "What adding epinephrine buys (opening); The verdict ('What the literature got wrong, for you')",
+  "sentence_as_it_stands": "The published skin studies predict two to three times the plain duration, and in these legs they did not deliver it. Four separate measurements support that range, and each one has a limitation worth stating beside it.",
+  "kind": "wrong-figure",
+  "quote": "epinephrine   5.3+3.3 2.9+1.6   5.8+2.1 4.2_+1.3         8.9_+2.7 4 . 8 + 2 . 0    8.5+4.5   4.3+0.7",
+  "page_in_paper": 725,
+  "corrected_wording": "The published skin studies predict at least two to three times the plain duration, and in these legs they did not deliver it. A fifth measurement puts the top of that range much higher: in intradermal wheals at four body sites, the epinephrine-to-plain ratio was 8.5-fold for effective anaesthesia and 4.3-fold for complete return of sensation at the leg, and 8.9-fold and 4.8-fold at the forearm (Todd 1992, PMID 1590615), with the paper quoting 1.3- to 13.0-fold across sites at the 95 percent confidence level.",
+  "importance": "high",
+  "notes": "This widens the gap the page reports rather than narrowing it, so the direction of its conclusion is unchanged and strengthened. One trap worth naming for whoever edits: the 1.3-fold lower bound in Todd's headline range comes from the face for complete recovery, not from the leg — the leg's own 95 percent interval runs roughly 4 to 13-fold for effective anaesthesia, so Todd does not place the observed 1.3x inside a leg-specific interval. Todd's volume per site was well above a wheal volume, which is the obvious reason its absolute hours run long.",
+  "worker_finding_id": "S-686-35-F003"
+ },
+ {
+  "finding_id": "S1-F029",
+  "paper_id": "S-686-35",
+  "page": "adjuvants-without-a-vasoconstrictor",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
+  "page_version": "2026-10-02T03:14:20.685Z",
+  "section": "Sources — Whether denervation changes the alpha-2 response (Yamazaki & Yuge 2011 annotation)",
+  "sentence_as_it_stands": "Yamazaki F, Yuge N. Limb-specific differences in the skin vascular responsiveness to adrenergic agonists. J Appl Physiol 2011;111(1):170–6. DOI 10.1152/japplphysiol.00068.2011. — The reason forearm evidence does not transfer to legs.",
+  "kind": "ranking-reweigh",
+  "quote": "The only other significant differences observed were between hand and leg lidocaine with epinephrinefor both effective (P< .05) and any anesthesia(P< .01).",
+  "page_in_paper": 724,
+  "corrected_wording": "Yamazaki F, Yuge N. Limb-specific differences in the skin vascular responsiveness to adrenergic agonists. J Appl Physiol 2011;111(1):170–6. — Why forearm blood-flow evidence may not transfer to legs. The one place the duration consequence has been measured at both sites, it did transfer: intradermal lidocaine with epinephrine timed at forearm and leg in the same volunteers gave no significant forearm-against-leg difference by either duration index, with only the face significantly briefer (Todd 1992, PMID 1590615).",
+  "importance": "high",
+  "notes": "Yamazaki measures flow responsiveness to alpha-2 and alpha-1 agonists; Todd measures duration of anaesthesia with epinephrine, a different drug and endpoint, in healthy skin. So Todd does not contradict Yamazaki's flow finding. What it bears on is the inference the annotation draws from it — that forearm evidence does not transfer to legs — which is the step this page uses to rank clonidine down.",
+  "worker_finding_id": "S-686-35-F005"
+ },
+ {
+  "finding_id": "S1-F030",
+  "paper_id": "S-686-35",
+  "page": "PiSA Lidocaína/Epinefrina 2% – 0.001% (1:100,000), dental cartridge 1.8 mL (Mexico)",
+  "page_url": "https://app.notion.com/p/3e010b7903aa81059294ec5f6c29f711",
+  "page_version": "2026-09-27T10:59:06.263Z",
+  "section": "Verdict; and the Why and Why For Purpose properties",
+  "sentence_as_it_stands": "Needs More Research, and Kinda for the purpose: no wheal study used an anaesthetic with epinephrine, so its evidence is only indirect, from one uncontrolled study of plain lidocaine.",
+  "kind": "overstated",
+  "quote": "ten of the volunteers from the first … experiment were injected at the same body locales with … buffered [dose figure omitted] lidocaine containing epinephrine in a [dose figure omitted] … concentration.",
+  "page_in_paper": 724,
+  "corrected_wording": "Needs More Research, and Kinda for the purpose: no wheal study with a pain outcome in a neuropathic condition used an anaesthetic with epinephrine, so its evidence for the purpose is only indirect, from one uncontrolled study of plain lidocaine. Intradermal wheal studies of lidocaine with epinephrine do exist, with sensory rather than pain endpoints in healthy volunteers: Todd 1992 (PMID 1590615), at this product's epinephrine strength, Christoph 1988 (PMID 2827545), and Collins 2013 (PMID 24431939).",
+  "importance": "high",
+  "notes": "As written the sentence is a design claim about the literature and it is wrong: Todd 1992 is an intradermal wheal study of lidocaine with epinephrine at exactly this product's epinephrine strength. The row's own 'What would change this' already states the correct scope — 'a wheal study of an epinephrine-containing anaesthetic with a pain outcome, in any neuropathic pain condition' — so the fix is to carry that scope into the Verdict and the Why. The record also already holds Collins 2013 as an intradermal study with epinephrine on its Lidocaine With Epinephrine Wheals page, so the two documents contradict each other independently of Todd. The sentence is the stated ground of this row's Decision and Met Intended Purpose, which is why this is marked high.",
+  "worker_finding_id": "S-686-35-F009"
+ },
+ {
+  "finding_id": "S1-F031",
+  "paper_id": "S-686-35",
+  "page": "Newtheek (New Stetic) lidocaína 2 % con epinefrina 1:100,000, 50 glass cartridges × 1.8 mL — Tu Depósito Dental (Mexico)",
+  "page_url": "https://app.notion.com/p/3e810b7903aa81e0bb6bd09d27b3356e",
+  "page_version": "2026-09-27T10:50:53.047Z",
+  "section": "Verdict; Why; Why For Purpose",
+  "sentence_as_it_stands": "Kinda, as on the product's other rows: right drug and route, and the evidence for the purpose is only indirect — no wheal study used an epinephrine-containing solution, and the one wheal protocol with a pain outcome, in notalgia paresthetica, used plain lidocaine and was uncontrolled (Mülkoğlu 2020, PMID 32416719).",
+  "kind": "overstated",
+  "quote": "ten of the volunteers from the first … experiment were injected at the same body locales with … buffered [dose figure omitted] lidocaine containing epinephrine in a [dose figure omitted] … concentration.",
+  "page_in_paper": 724,
+  "corrected_wording": "Kinda, as on the product's other rows: right drug and route, and the evidence for the purpose is only indirect — no wheal study with a pain outcome used an epinephrine-containing solution, and the one wheal protocol with a pain outcome, in notalgia paresthetica, used plain lidocaine and was uncontrolled (Mülkoğlu 2020, PMID 32416719). Wheal studies of an epinephrine-containing solution with sensory endpoints in healthy volunteers exist, including one at this product's epinephrine strength (Todd 1992, PMID 1590615).",
+  "importance": "high",
+  "notes": "Here the clause is a standalone conjunct rather than scoped by the Mülkoğlu clause, so it reads as an unrestricted claim. The same sentence appears on at least thirteen further product rows that a Notion search returned: Lidocaína FD Zeyco (several seller rows: Odontodo, Dentiprime Supply, Gómez Farías, Dental Shop glass and plastic, Dentalmex, Tu Depósito Dental), Lidocaína FD 2% con epinefrina, Anestésico lidocaína 2% FD Zeyco, Newtheek at Gómez Farías and at Paradentum, Pisacaina 2% con epinefrina 1:200,000 at Farmacia La Paz, and Pisacaína 2% con epinefrina 1:200,000 at Curitek. I read only this row and the PiSA row in full; the others are search-indicated and should be checked before being changed. Because they repeat one sentence, one correction applies to all of them.",
+  "worker_finding_id": "S-686-35-F010"
+ },
+ {
+  "finding_id": "S1-F032",
   "paper_id": "S-686-04",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -432,7 +512,7 @@
   "worker_finding_id": "S-686-04-F002"
  },
  {
-  "finding_id": "S1-F028",
+  "finding_id": "S1-F033",
   "paper_id": "S-686-04",
   "page": "💉 Lidocaine With Epinephrine Wheals",
   "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
@@ -448,7 +528,7 @@
   "worker_finding_id": "S-686-04-F003"
  },
  {
-  "finding_id": "S1-F029",
+  "finding_id": "S1-F034",
   "paper_id": "S-686-14",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -464,7 +544,7 @@
   "worker_finding_id": "S-686-14-F003"
  },
  {
-  "finding_id": "S1-F030",
+  "finding_id": "S1-F035",
   "paper_id": "S-686-14",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -480,7 +560,7 @@
   "worker_finding_id": "S-686-14-F005"
  },
  {
-  "finding_id": "S1-F031",
+  "finding_id": "S1-F036",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -496,7 +576,7 @@
   "worker_finding_id": "S-686-14-F006"
  },
  {
-  "finding_id": "S1-F032",
+  "finding_id": "S1-F037",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -512,7 +592,7 @@
   "worker_finding_id": "S-686-14-F007"
  },
  {
-  "finding_id": "S1-F033",
+  "finding_id": "S1-F038",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -528,7 +608,7 @@
   "worker_finding_id": "S-686-14-F008"
  },
  {
-  "finding_id": "S1-F034",
+  "finding_id": "S1-F039",
   "paper_id": "S-686-14",
   "page": "Injectables ruled out but not tried",
   "page_url": "https://app.notion.com/p/3d310b7903aa81fca5adcc979f03c0d5",
@@ -544,7 +624,7 @@
   "worker_finding_id": "S-686-14-F009"
  },
  {
-  "finding_id": "S1-F035",
+  "finding_id": "S1-F040",
   "paper_id": "S-686-14",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -560,7 +640,7 @@
   "worker_finding_id": "S-686-14-F010"
  },
  {
-  "finding_id": "S1-F036",
+  "finding_id": "S1-F041",
   "paper_id": "S-686-14",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -576,7 +656,7 @@
   "worker_finding_id": "S-686-14-F011"
  },
  {
-  "finding_id": "S1-F037",
+  "finding_id": "S1-F042",
   "paper_id": "S-686-16",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -592,7 +672,7 @@
   "worker_finding_id": "S-686-16-F001"
  },
  {
-  "finding_id": "S1-F038",
+  "finding_id": "S1-F043",
   "paper_id": "S-686-16",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -608,7 +688,7 @@
   "worker_finding_id": "S-686-16-F002"
  },
  {
-  "finding_id": "S1-F039",
+  "finding_id": "S1-F044",
   "paper_id": "S-686-17",
   "page": "The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -624,7 +704,7 @@
   "worker_finding_id": "S-686-17-F003"
  },
  {
-  "finding_id": "S1-F040",
+  "finding_id": "S1-F045",
   "paper_id": "S-686-17",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -640,7 +720,7 @@
   "worker_finding_id": "S-686-17-F004"
  },
  {
-  "finding_id": "S1-F041",
+  "finding_id": "S1-F046",
   "paper_id": "S-686-17",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -656,7 +736,7 @@
   "worker_finding_id": "S-686-17-F006"
  },
  {
-  "finding_id": "S1-F042",
+  "finding_id": "S1-F047",
   "paper_id": "S-686-20",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -672,7 +752,7 @@
   "worker_finding_id": "S-686-20-F002"
  },
  {
-  "finding_id": "S1-F043",
+  "finding_id": "S1-F048",
   "paper_id": "S-686-20",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -688,7 +768,7 @@
   "worker_finding_id": "S-686-20-F004"
  },
  {
-  "finding_id": "S1-F044",
+  "finding_id": "S1-F049",
   "paper_id": "S-686-20",
   "page": "Procaine / Novocaine",
   "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
@@ -704,7 +784,7 @@
   "worker_finding_id": "S-686-20-F005"
  },
  {
-  "finding_id": "S1-F045",
+  "finding_id": "S1-F050",
   "paper_id": "S-686-20",
   "page": "Procaine / Novocaine",
   "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
@@ -720,7 +800,7 @@
   "worker_finding_id": "S-686-20-F006"
  },
  {
-  "finding_id": "S1-F046",
+  "finding_id": "S1-F051",
   "paper_id": "S-686-20",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -736,7 +816,7 @@
   "worker_finding_id": "S-686-20-F007"
  },
  {
-  "finding_id": "S1-F047",
+  "finding_id": "S1-F052",
   "paper_id": "S-686-20",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -752,7 +832,7 @@
   "worker_finding_id": "S-686-20-F008"
  },
  {
-  "finding_id": "S1-F048",
+  "finding_id": "S1-F053",
   "paper_id": "S-686-20",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -768,7 +848,7 @@
   "worker_finding_id": "S-686-20-F009"
  },
  {
-  "finding_id": "S1-F049",
+  "finding_id": "S1-F054",
   "paper_id": "S-686-20",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -784,7 +864,7 @@
   "worker_finding_id": "S-686-20-F010"
  },
  {
-  "finding_id": "S1-F050",
+  "finding_id": "S1-F055",
   "paper_id": "S-686-20",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -800,7 +880,7 @@
   "worker_finding_id": "S-686-20-F011"
  },
  {
-  "finding_id": "S1-F051",
+  "finding_id": "S1-F056",
   "paper_id": "S-686-20",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -816,7 +896,7 @@
   "worker_finding_id": "S-686-20-F013"
  },
  {
-  "finding_id": "S1-F052",
+  "finding_id": "S1-F057",
   "paper_id": "S-686-24",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -832,7 +912,7 @@
   "worker_finding_id": "S-686-24-F004"
  },
  {
-  "finding_id": "S1-F053",
+  "finding_id": "S1-F058",
   "paper_id": "S-686-24",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -848,7 +928,7 @@
   "worker_finding_id": "S-686-24-F005"
  },
  {
-  "finding_id": "S1-F054",
+  "finding_id": "S1-F059",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -864,7 +944,7 @@
   "worker_finding_id": "S-686-25-F004"
  },
  {
-  "finding_id": "S1-F055",
+  "finding_id": "S1-F060",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -880,7 +960,7 @@
   "worker_finding_id": "S-686-25-F005"
  },
  {
-  "finding_id": "S1-F056",
+  "finding_id": "S1-F061",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -896,7 +976,7 @@
   "worker_finding_id": "S-686-25-F006"
  },
  {
-  "finding_id": "S1-F057",
+  "finding_id": "S1-F062",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -912,7 +992,7 @@
   "worker_finding_id": "S-686-25-F007"
  },
  {
-  "finding_id": "S1-F058",
+  "finding_id": "S1-F063",
   "paper_id": "S-686-25",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -928,7 +1008,7 @@
   "worker_finding_id": "S-686-25-F009"
  },
  {
-  "finding_id": "S1-F059",
+  "finding_id": "S1-F064",
   "paper_id": "S-686-25",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -944,7 +1024,7 @@
   "worker_finding_id": "S-686-25-F012"
  },
  {
-  "finding_id": "S1-F060",
+  "finding_id": "S1-F065",
   "paper_id": "S-686-28",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -960,7 +1040,7 @@
   "worker_finding_id": "S-686-28-F001"
  },
  {
-  "finding_id": "S1-F061",
+  "finding_id": "S1-F066",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -976,7 +1056,7 @@
   "worker_finding_id": "S-686-28-F003"
  },
  {
-  "finding_id": "S1-F062",
+  "finding_id": "S1-F067",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -992,7 +1072,7 @@
   "worker_finding_id": "S-686-28-F004"
  },
  {
-  "finding_id": "S1-F063",
+  "finding_id": "S1-F068",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1008,7 +1088,7 @@
   "worker_finding_id": "S-686-28-F006"
  },
  {
-  "finding_id": "S1-F064",
+  "finding_id": "S1-F069",
   "paper_id": "S-686-28",
   "page": "No study has recorded skin blood flow at a local anaesthetic wheal beyond 90 minutes, so late pallor after an injection falls outside every published measurement window",
   "page_url": "https://app.notion.com/p/3da10b7903aa81ce95acfe0a8d7200ea",
@@ -1024,7 +1104,7 @@
   "worker_finding_id": "S-686-28-F007"
  },
  {
-  "finding_id": "S1-F065",
+  "finding_id": "S1-F070",
   "paper_id": "S-686-28",
   "page": "No study has recorded skin blood flow at a local anaesthetic wheal beyond 90 minutes, so late pallor after an injection falls outside every published measurement window",
   "page_url": "https://app.notion.com/p/3da10b7903aa81ce95acfe0a8d7200ea",
@@ -1040,7 +1120,7 @@
   "worker_finding_id": "S-686-28-F008"
  },
  {
-  "finding_id": "S1-F066",
+  "finding_id": "S1-F071",
   "paper_id": "S-686-28",
   "page": "Anaesthetics",
   "page_url": "https://app.notion.com/p/3c410b7903aa80a0b250f26d55808492",
@@ -1056,7 +1136,7 @@
   "worker_finding_id": "S-686-28-F009"
  },
  {
-  "finding_id": "S1-F067",
+  "finding_id": "S1-F072",
   "paper_id": "S-686-31",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -1072,7 +1152,7 @@
   "worker_finding_id": "S-686-31-F007"
  },
  {
-  "finding_id": "S1-F068",
+  "finding_id": "S1-F073",
   "paper_id": "S-686-31",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1088,7 +1168,7 @@
   "worker_finding_id": "S-686-31-F009"
  },
  {
-  "finding_id": "S1-F069",
+  "finding_id": "S1-F074",
   "paper_id": "S-686-31",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -1104,7 +1184,7 @@
   "worker_finding_id": "S-686-31-F010"
  },
  {
-  "finding_id": "S1-F070",
+  "finding_id": "S1-F075",
   "paper_id": "S-686-31",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -1120,7 +1200,7 @@
   "worker_finding_id": "S-686-31-F012"
  },
  {
-  "finding_id": "S1-F071",
+  "finding_id": "S1-F076",
   "paper_id": "S-686-31",
   "page": "Small Fiber Neuropathy — Intradermal vs. Subcutaneous Injection Routing Analysis",
   "page_url": "https://app.notion.com/p/39410b7903aa8046b3eef25af516245f",
@@ -1136,7 +1216,103 @@
   "worker_finding_id": "S-686-31-F013"
  },
  {
-  "finding_id": "S1-F072",
+  "finding_id": "S1-F077",
+  "paper_id": "S-686-35",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "Sources — How long the numbness lasts (Collins 2013 annotation)",
+  "sentence_as_it_stands": "The only human study using the correct depth, intradermal, with [dose figure omitted] lidocaine and [dose figure omitted]: duration 6 h 38 min to 7 h 25 min across four mixtures in 25 volunteers. Limits: healthy forearm skin, endpoint is return of pinprick sensation rather than pain relief, and [dose figure omitted] rather than [dose figure omitted].",
+  "kind": "overstated",
+  "quote": "ten of the volunteers from the first … experiment were injected at the same body locales with … buffered [dose figure omitted] lidocaine containing epinephrine in a [dose figure omitted] … concentration.",
+  "page_in_paper": 724,
+  "corrected_wording": "One of three human intradermal studies of lidocaine with epinephrine at this strength, and the only one that timed bupivacaine-and-lidocaine mixtures: duration 6 h 38 min to 7 h 25 min across four mixtures in 25 volunteers. The others are Todd 1992 (PMID 1590615), which timed the same solution at four body sites including the calf, and Christoph 1988 (PMID 2827545), a randomised double-blind study in 25 volunteers that recorded onset as well as duration. Limits unchanged: healthy forearm skin, and the endpoint is return of pinprick sensation rather than pain relief.",
+  "importance": "medium",
+  "notes": "The body of the page carries the same uniqueness claim in a section-scoped form — Collins gave 'intradermal injections in the forearm — the correct depth for a wheal, unlike every other study in this section' — which is true of that section as written and needs no change beyond the Sources annotation. Christoph 1988 is already cited twice in this record (claims D025 and D012) for its mepivacaine and pH arms, so the third arm is in material the record already holds.",
+  "worker_finding_id": "S-686-35-F001"
+ },
+ {
+  "finding_id": "S1-F078",
+  "paper_id": "S-686-35",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "What adding epinephrine buys > What transfers, and what does not (the Collins paragraph)",
+  "sentence_as_it_stands": "That is far longer than the two-to-three-times multiplier would predict from any of the baselines in the table above, and the reason is probably that the endpoint is different: return of pinprick sensation in healthy forearm skin is not the same measurement as relief of neuropathic pain in a damaged leg.",
+  "kind": "ranking-reweigh",
+  "quote": "The only other significant differences observed were between hand and leg lidocaine with epinephrinefor both effective (P< .05) and any anesthesia(P< .01).",
+  "page_in_paper": 724,
+  "corrected_wording": "That is far longer than the two-to-three-times multiplier would predict from any of the baselines in the table above. Two of the three differences in that explanation can now be separated: with the same pinprick endpoint and the same solution measured at forearm and leg in the same volunteers, the only sites that differed significantly were the face against the rest, and the leg ran at least as long as the forearm (Todd 1992, PMID 1590615). So the forearm-to-leg step is not where the discrepancy comes from; what is left is the endpoint type and the state of the tissue.",
+  "importance": "medium",
+  "notes": "Narrows the page's own explanation to its neuropathy and endpoint components and removes body site from it. Limit: Todd is healthy skin, so this separates the site variable only in non-neuropathic tissue.",
+  "worker_finding_id": "S-686-35-F004"
+ },
+ {
+  "finding_id": "S1-F079",
+  "paper_id": "S-686-35",
+  "page": "adjuvants-without-a-vasoconstrictor",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
+  "page_version": "2026-10-02T03:14:20.685Z",
+  "section": "The recommendation (summary bullets)",
+  "sentence_as_it_stands": "Leg skin is the wrong skin for this drug. With an alpha-2 agonist delivered by intradermal microdialysis in healthy volunteers, the dose producing half the maximum constriction was lower in the calf than in the forearm. The one favorable measurement is in forearm; his treatment site is legs.",
+  "kind": "ranking-reweigh",
+  "quote": "Mean ratios +_95% confidence intervals of the duration of effective and a n y … anesthesia with lidocaine and epinephrine at each body locale to that at the … same body locale with lidocaine only",
+  "page_in_paper": 725,
+  "corrected_wording": "Leg skin may be the wrong skin for this drug. With an alpha-2 agonist delivered by intradermal microdialysis in healthy volunteers, the dose producing half the maximum constriction was lower in the calf than in the forearm, and the one favourable clonidine duration measurement is in forearm. Against that, the one study that timed a vasoconstrictor-containing anaesthetic at both sites in the same volunteers found the epinephrine-to-plain duration ratio similar at forearm and leg (Todd 1992, PMID 1590615), so greater vascular responsiveness in leg skin has not been shown to shorten or lengthen a block there.",
+  "importance": "medium",
+  "notes": "Same evidence as F005, recorded separately because this is the sentence in the recommendation that carries the ranking. Scope limits as in F005: different adjuvant, healthy skin.",
+  "worker_finding_id": "S-686-35-F006"
+ },
+ {
+  "finding_id": "S1-F080",
+  "paper_id": "S-686-35",
+  "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
+  "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
+  "page_version": "2026-10-02T03:14:04.610Z",
+  "section": "What is still unknown; Sources — What has no source",
+  "sentence_as_it_stands": "Whether any of this transfers to neuropathic leg skin. Every measurement in this seam was made on the flexor forearm of healthy volunteers in their twenties. Nothing here was measured in skin that has lost nerve fibers, and fiber loss is the one thing known to be different about the tissue you inject.",
+  "kind": "understated",
+  "quote": "Twenty healthy volunteers aged 27 to 48 years (mean, 32.0 … years) were recruited from emergency department person-",
+  "page_in_paper": 724,
+  "corrected_wording": "Whether any of this transfers to neuropathic leg skin. Every measurement in the seam listed here was made on the flexor forearm of healthy volunteers in their twenties. One human intradermal measurement outside this list was made at four sites including the leg, in volunteers aged 27 to 48 (Todd 1992, PMID 1590615), so the site half of the transfer has been measured even though the fibre-loss half has not.",
+  "importance": "medium",
+  "notes": "The same generalisation appears in the Sources 'What has no source' block as 'Every subject in every study on this page was a healthy volunteer, most of them in their twenties, injected in the flexor forearm'; both would need the same qualification if Todd is added to the page. The absence claim itself — none of this literature in neuropathic skin — is untouched and still holds.",
+  "worker_finding_id": "S-686-35-F007"
+ },
+ {
+  "finding_id": "S1-F081",
+  "paper_id": "S-686-35",
+  "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
+  "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
+  "page_version": "2026-10-02T03:14:04.610Z",
+  "section": "The recommendation (opening summary)",
+  "sentence_as_it_stands": "A compact body of human intradermal wheal measurements exists, published between 1952 and 1994, and it is almost entirely uncited by the reviews that set the rankings.",
+  "kind": "outdated",
+  "quote": "Duration of any anesthesia was considered the time until the … score was greater than 19.",
+  "page_in_paper": 724,
+  "corrected_wording": "A compact body of human intradermal wheal measurements exists, published between 1952 and 1994, and it is almost entirely uncited by the reviews that set the rankings. One member of it is not yet on this page: Todd 1992 (PMID 1590615), a human intradermal duration study with and without epinephrine at four body sites, which also cites two of the seven papers this page lists as unpulled (Wightman & Vaughn 1976, Swerdlow & Jones 1970).",
+  "importance": "medium",
+  "notes": "Todd 1992 appears nowhere in this Notion workspace: searches for the title, for Todd with Berk and Huang, for PMID 1590615 and for the DOI returned no page citing it, and it is absent from the Reference source register S1-S457. It is inside the seam's own date range, is human and intradermal, and cites two of the seven unpulled papers, so it belongs in the enumeration. Lower confidence on one point: I could not rule out that the page deliberately restricts the seam to studies at wheal volumes, in which case Todd's larger volume per site is a reason to list it with that limit rather than in the main series.",
+  "worker_finding_id": "S-686-35-F008"
+ },
+ {
+  "finding_id": "S1-F082",
+  "paper_id": "S-686-35",
+  "page": "bupivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+  "page_version": "2026-10-02T03:14:18.695Z",
+  "section": "How long does it last in skin > And with epinephrine in skin it is about seven hours (Collins 2013 paragraph)",
+  "sentence_as_it_stands": "Set against a self-measured 90 minutes to 2 hours from lidocaine with epinephrine in neuropathic leg skin, those two facts are both real and are not reconcilable by pharmacology. The difference is the tissue, and it is the reason every figure on this page is a starting estimate rather than a prediction.",
+  "kind": "ranking-reweigh",
+  "quote": "We noted little difference in … activity on body areas other than the face.",
+  "page_in_paper": 725,
+  "corrected_wording": "Set against a self-measured 90 minutes to 2 hours from lidocaine with epinephrine in neuropathic leg skin, those two facts are both real. Part of the gap can be attributed: it is not the move from forearm to leg. Measured at both sites in the same volunteers with the same solution and the same pinprick endpoint, the leg ran at least as long as the forearm and only the face was significantly briefer (Todd 1992, PMID 1590615). What is left as the explanation is the state of the tissue and the volume per site, not the body locale.",
+  "importance": "medium",
+  "notes": "Read from the local copy at helper-S1/notion_pages/bupivacaine.md rather than re-fetched, per instruction; page_version is the 'as of' time inside that file. The page's conclusion is unchanged in direction — it simply gains one eliminated candidate explanation.",
+  "worker_finding_id": "S-686-35-F011"
+ },
+ {
+  "finding_id": "S1-F083",
   "paper_id": "S-686-04",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1152,7 +1328,7 @@
   "worker_finding_id": "S-686-04-F004"
  },
  {
-  "finding_id": "S1-F073",
+  "finding_id": "S1-F084",
   "paper_id": "S-686-04",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1168,7 +1344,7 @@
   "worker_finding_id": "S-686-04-F005"
  },
  {
-  "finding_id": "S1-F074",
+  "finding_id": "S1-F085",
   "paper_id": "S-686-20",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1184,7 +1360,7 @@
   "worker_finding_id": "S-686-20-F003"
  },
  {
-  "finding_id": "S1-F075",
+  "finding_id": "S1-F086",
   "paper_id": "S-686-20",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -1200,7 +1376,7 @@
   "worker_finding_id": "S-686-20-F012"
  },
  {
-  "finding_id": "S1-F076",
+  "finding_id": "S1-F087",
   "paper_id": "S-686-24",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1216,7 +1392,7 @@
   "worker_finding_id": "S-686-24-F002"
  },
  {
-  "finding_id": "S1-F077",
+  "finding_id": "S1-F088",
   "paper_id": "S-686-24",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1232,7 +1408,7 @@
   "worker_finding_id": "S-686-24-F006"
  },
  {
-  "finding_id": "S1-F078",
+  "finding_id": "S1-F089",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1248,7 +1424,7 @@
   "worker_finding_id": "S-686-25-F002"
  },
  {
-  "finding_id": "S1-F079",
+  "finding_id": "S1-F090",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1264,7 +1440,7 @@
   "worker_finding_id": "S-686-25-F014"
  },
  {
-  "finding_id": "S1-F080",
+  "finding_id": "S1-F091",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1280,7 +1456,7 @@
   "worker_finding_id": "S-686-25-F015"
  },
  {
-  "finding_id": "S1-F081",
+  "finding_id": "S1-F092",
   "paper_id": "S-686-28",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1296,7 +1472,7 @@
   "worker_finding_id": "S-686-28-F002"
  },
  {
-  "finding_id": "S1-F082",
+  "finding_id": "S1-F093",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",

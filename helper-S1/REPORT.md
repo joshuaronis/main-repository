@@ -44,8 +44,8 @@ out to be exactly right: both citation-standing claims tested here failed.
   - left uncertain: 3
   - **7 further claims counted but not written out**, because their subject is a dose ceiling, a toxicity threshold, or how to mix, buffer or dilute a solution: Ropivacaine Wheals 3; mepivacaine-wheals 1; bupivacaine-wheals 3
 - **Extra studies recorded: 55**, found through the papers' reference lists and discussions.
-- **Notion findings: 82** — **26 high**, **45 medium**, **11 low**.
-  - by kind: 21 overstated, 19 understated, 13 now-verified, 10 open-question-answered, 7 wrong-figure, 6 outdated, 3 ranking-reweigh, 2 citation-error, 1 wrong-design
+- **Notion findings: 93** — **31 high**, **51 medium**, **11 low**.
+  - by kind: 24 overstated, 21 understated, 13 now-verified, 10 open-question-answered, 8 wrong-figure, 7 ranking-reweigh, 7 outdated, 2 citation-error, 1 wrong-design
 
 ### The three wheal pages
 
@@ -59,15 +59,15 @@ out to be exactly right: both citation-standing claims tested here failed.
 
 - **S-686-04 — Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17:117-120** · own question: yes · 3 claims re-judged, 1 changed · 5 Notion findings.
 - **S-686-14 — Kim JM, Goto H, Arakawa K. Duration of bupivacaine intradermal anesthesia when the bupivacaine is mixed with chloroprocaine. Anesth Analg 1979;58:364-366** · own question: yes · 5 claims re-judged, 1 changed · 11 Notion findings.
-- **S-686-16 — Milner QJW, Guard BC, Allen JG. Alkalinization of amide local anaesthetics by addition of 1% sodium bicarbonate solution. European Journal of Anaesthesiology 2000;17:38-42** · own question: ? · 2 claims re-judged · 2 Notion findings.
+- **S-686-16 — Milner QJW, Guard BC, Allen JG. Alkalinization of amide local anaesthetics by addition of 1% sodium bicarbonate solution. European Journal of Anaesthesiology 2000;17:38-42** · own question: yes · 2 claims re-judged · 2 Notion findings.
 - **S-686-17 — Morgan M, Russell WJ. An investigation in man into the relative potency of lignocaine, bupivacaine and etidocaine. Br J Anaesth 1975;47:586-591** · own question: yes · 3 claims re-judged · 6 Notion findings.
 - **S-686-20 — Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561** · own question: yes · 8 claims re-judged · 15 Notion findings.
-- **S-686-24 — Ramos G, Pereira E, Simonetti MPB. Does alkalinization of 0.75% ropivacaine promote a lumbar peridural block of higher quality? Regional Anesthesia and Pain Medicine 2001;26(4):357-362** · own question: ? · 3 claims re-judged, 1 changed · 6 Notion findings.
+- **S-686-24 — Ramos G, Pereira E, Simonetti MPB. Does alkalinization of 0.75% ropivacaine promote a lumbar peridural block of higher quality? Regional Anesthesia and Pain Medicine 2001;26(4):357-362** · own question: partly · 3 claims re-judged, 1 changed · 6 Notion findings.
 - **S-686-25 — Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent: aptocaine. Br J Anaesth 1976;48:347-354** · own question: yes · 14 claims re-judged, 5 changed · 15 Notion findings.
 - **S-686-28 — Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253** · own question: yes · 5 claims re-judged, 2 changed · 9 Notion findings.
 - **S-686-31 — Swerdlow M, Jones R. The duration of action of bupivacaine, prilocaine and lignocaine. Br J Anaesth 1970;42:335-339** · own question: yes · 11 claims re-judged, 4 changed · 13 Notion findings.
 - **S-686-33 — Tajiri K, Takahashi K, Ikeda K, Tomita K. Common Peroneal Nerve Block for Sciatica. Clin Orthop Relat Res 1998;347:203-207** · own question: yes · 1 claims re-judged · 0 Notion findings.
-- **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: ? · 5 claims re-judged, 2 changed · 0 Notion findings.
+- **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: ? · 5 claims re-judged, 2 changed · 11 Notion findings.
 - **S-686-39 — Wightman MA, Vaughan RW. Comparison of Compounds Used for Intradermal Anesthesia. Anesthesiology 1976;45(6):687-689** · own question: yes · 2 claims re-judged, 1 changed · 0 Notion findings.
 - **S-686-40 — Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011** · own question: ? · 15 claims re-judged, 5 changed · 0 Notion findings.
 
@@ -132,7 +132,7 @@ out to be exactly right: both citation-standing claims tested here failed.
 | W-R030 | Ropivacaine Wheals | narrowed | Judged inside the bullet's own scope - continuous infiltration of incised subcutaneous tissue - the claim holds: the rat wound study and the animal wo |
 | W-R031 | Ropivacaine Wheals | narrowed | Within the claim's intervention element - a local anaesthetic wheal - nothing found separates the drug's flare suppression from the needle's own flare |
 
-## 5. High-importance Notion findings (26)
+## 5. High-importance Notion findings (31)
 
 - **S1-F001 · Comparing the injectable local anesthetics for intradermal wheals › The comparison itself / the ranking rationale - 'For a second option, and the drug to beat: plain lidocaine, already in the syringe'** — *overstated*, from S-686-04. This is a uniqueness statement inside the sentence that ranks plain lidocaine as the drug to beat, so part of the ordering rests on it
 - **S1-F002 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › The second reversal: bupivacaine** — *wrong-figure*, from S-686-14. The paper's abstract says only that the mixture was 'similar to' chloroprocaine alone; the page upgrades that to a null result, which the Results section contradicts
@@ -160,6 +160,11 @@ out to be exactly right: both citation-standing claims tested here failed.
 - **S1-F024 · prilocaine-wheals › Sources — What has no source** — *overstated*, from S-686-31. The bullet is wrong twice
 - **S1-F025 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › What is still unknown** — *open-question-answered*, from S-686-31. The open question is answered: the two-to-three-times figure is reproduced intradermally in healthy forearm skin, at the upper end on the earlier endpoint and inside the range on complete re
 - **S1-F026 · bupivacaine-wheals › What a wheal of your own size would give / Why the eight-hour figure does not apply to a wheal** — *wrong-figure*, from S-686-31. The square-root-of-volume fit, the roughly 60-minute wheal estimate, and the conclusion that bupivacaine at wheal size sits at or below what plain lidocaine gives all rest on there being onl
+- **S1-F027 · 💉 Lidocaine With Epinephrine Wheals › What adding epinephrine buys > What transfers, and what does not** — *understated*, from S-686-35. This is the premise the page's central transfer rests on
+- **S1-F028 · 💉 Lidocaine With Epinephrine Wheals › What adding epinephrine buys (opening); The verdict ('What the literature got wrong, for you')** — *wrong-figure*, from S-686-35. This widens the gap the page reports rather than narrowing it, so the direction of its conclusion is unchanged and strengthened
+- **S1-F029 · adjuvants-without-a-vasoconstrictor › Sources — Whether denervation changes the alpha-2 response (Yamazaki & Yuge 2011 annotation)** — *ranking-reweigh*, from S-686-35. Yamazaki measures flow responsiveness to alpha-2 and alpha-1 agonists; Todd measures duration of anaesthesia with epinephrine, a different drug and endpoint, in healthy skin
+- **S1-F030 · PiSA Lidocaína/Epinefrina 2% – 0.001% (1:100,000), dental cartridge 1.8 mL (Mexico) › Verdict; and the Why and Why For Purpose properties** — *overstated*, from S-686-35. As written the sentence is a design claim about the literature and it is wrong: Todd 1992 is an intradermal wheal study of lidocaine with epinephrine at exactly this product's epinephrine st
+- **S1-F031 · Newtheek (New Stetic) lidocaína 2 % con epinefrina 1:100,000, 50 glass cartridges × 1.8 mL — Tu Depósito Dental (Mexico) › Verdict; Why; Why For Purpose** — *overstated*, from S-686-35. Here the clause is a standalone conjunct rather than scoped by the Mülkoğlu clause, so it reads as an unrestricted claim
 
 
 ## 6. Problems
