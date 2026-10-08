@@ -1,0 +1,780 @@
+[
+  {
+    "claim_id": "W-B001",
+    "page": "bupivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+    "page_version": "2026-10-02T03:14:18.695Z",
+    "section": "What is still unknown; Does raising the strength help? (lines 80, 84); What to buy in Mexico (line 350)",
+    "claim": "Whether [dose figure omitted] really outlasts [dose figure omitted] in skin.",
+    "elements_said_absent": {
+      "population": "human skin",
+      "intervention": "bupivacaine at different strengths",
+      "design": "any",
+      "outcome": "duration",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "authorNames=[\"Aps C\",\"Reynolds F\"]; intradermal bupivacaine lignocaine concentration vasoactivity duration of action volunteers",
+        "engine": "amass",
+        "count": 25,
+        "screened": 25,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "intradermal injection human skin different concentrations local anaesthetic duration of analgesia dose-response double-blind volunteers",
+        "engine": "amass",
+        "count": 30,
+        "screened": 30,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "AUTH:\"Aps C\" AND AUTH:\"Reynolds F\"",
+        "engine": "europepmc",
+        "count": 5,
+        "screened": 5,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(TITLE:bupivacaine OR ABSTRACT:bupivacaine) AND (TITLE:intradermal OR ABSTRACT:intradermal) AND (ABSTRACT:duration OR TITLE:duration) AND (ABSTRACT:concentration OR ABSTRACT:concentrations)",
+        "engine": "europepmc",
+        "count": 5,
+        "screened": 5,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(bupivacaine) AND (intradermal OR intradermally OR intracutaneous OR \"skin wheal\" OR wheal) AND (concentration OR concentrations OR strength) AND (\"duration of action\" OR \"duration of analgesia\" OR \"duration of anaesthesia\" OR pinprick OR recovery)",
+        "engine": "europepmc",
+        "count": 361,
+        "screened": 100,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "bupivacaine AND (intradermal OR intradermally OR \"skin weal\" OR \"skin weals\" OR \"skin wheal\" OR wheal OR intracutaneous) AND (concentration OR concentrations OR \"0.75%\" OR \"0.5%\") AND (duration OR pinprick OR recovery)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 16,
+        "screened": 16,
+        "date_searched": "2026-10-07T06:27:30Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "1023952",
+        "citation": "Aps C, Reynolds F. The effect of concentration on vasoactivity of bupivacaine and lignocaine. Br J Anaesth 1976;48(12):1171-4",
+        "what_it_matches_or_misses": "Matches every element: human skin, intradermal, plain bupivacaine at three strengths plus lignocaine at three, double-blind in 31 volunteers, duration of action as an outcome. Its abstract states duration was unaffected by concentration except at the highest bupivacaine strength tested, which outlasted the other solutions. Full text subscription-only and not in Europe PMC."
+      },
+      {
+        "pmid": "8067217",
+        "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38(4):322-7",
+        "what_it_matches_or_misses": "Matches every element and is a second, independent test of the same question: randomised, double-blind, intradermal wheals in 10 healthy volunteers, plain bupivacaine at three strengths (plus ropivacaine at four), pin-prick dermal analgesia as the outcome. The page reports its per-strength bupivacaine medians elsewhere (equal at every strength) but does not credit it under this heading."
+      },
+      {
+        "pmid": "666948",
+        "citation": "Aps C, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of bupivacaine. Br J Clin Pharmacol 1978;6(1):63-8",
+        "what_it_matches_or_misses": "The later companion by the same two authors, two years after 1976: intradermal, double-blind, 17 volunteers, eight concentrations of each bupivacaine isomer, duration of action at 50 per cent recovery. A concentration-duration study in human skin, but of the isomers rather than the racemate and over a lower concentration range, so it does not by itself settle the racemic question. A free full-text scan is held in Europe PMC as PMC1429379."
+      },
+      {
+        "pmid": "4041306",
+        "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57(10):1006-11",
+        "what_it_matches_or_misses": "Same group, same route and outcome, 10 volunteers, double-blind; reports duration concentration-dependent for all six agents studied. Misses the intervention element: bupivacaine was not among the six."
+      },
+      {
+        "pmid": "776194",
+        "citation": "Reynolds F, Bryson TH, Nicholas AD. Intradermal study of a new local anaesthetic agent aptocaine. Br J Anaesth 1976;48(4):347-54",
+        "what_it_matches_or_misses": "Same group and route, 28 then 27 volunteers, double-blind; its abstract also states duration of action was unaffected by concentration. Bupivacaine appears only as a single-strength comparator, so it does not test bupivacaine across strengths."
+      },
+      {
+        "pmid": "11097672",
+        "citation": "Newton DJ, Burke D, Khan F, et al. Skin blood flow changes in response to intradermal injection of bupivacaine and levobupivacaine, assessed by laser Doppler imaging. Reg Anesth Pain Med 2000;25(6):626-31",
+        "what_it_matches_or_misses": "Intradermal bupivacaine at four strengths in 10 volunteers, but the outcome is skin perfusion by laser Doppler imaging, not duration of analgesia. Misses the outcome element."
+      }
+    ],
+    "verdict": "refuted",
+    "uncertain": false,
+    "evidence_pmid": "8067217",
+    "quote": "Ropivacaine, a new long-acting amino-amide local anaesthetic agent, and bupivacaine, in various concentrations with or without addition of adrenaline, were tested in a randomized, double-blind study using intradermal wheals.",
+    "proposed_wording": "Two human intradermal studies have timed plain bupivacaine at three strengths side by side. Aps and Reynolds 1976 (PMID 1023952), double-blind in 31 volunteers, report duration of action unaffected by concentration except at the highest strength tested, which outlasted the other solutions. Cederholm, Akerman and Evers 1994 (PMID 8067217), randomised and double-blind in 10 volunteers, report the same median duration of complete dermal analgesia at each bupivacaine strength. The same 1976 authors also published an intradermal concentration-duration study of the two bupivacaine isomers in 17 volunteers (Aps and Reynolds 1978, PMID 666948), whose full text is held free in Europe PMC as PMC1429379. The two racemic studies disagree in direction; the 1976 full text was not read here.",
+    "reason": "A study matching every element the claim says is absent exists, and there are two of them rather than one. Aps and Reynolds 1976 (PMID 1023952) is human skin, intradermal, plain bupivacaine at three strengths, double-blind, with duration of action as the outcome; Cederholm 1994 (PMID 8067217) is the same design in 10 volunteers and reports equal median duration at every bupivacaine strength. So the page's 'the one study that tested three strengths' is too narrow: a second intradermal multi-strength timing exists, and it runs against the 1976 exception rather than with it. What remains genuinely unresolved is the direction, not the existence of evidence, so the correction needed is to the wording about how much evidence there is. The bupivacaine page states its negatives flatly, with no search-limited scoping convention, so the sentence is judged as written. The 1978 companion that the page quotes against the 1976 abstract is itself readable: Europe PMC holds a free scan as PMC1429379, although the fulltext XML endpoint returned HTTP 500 and the PDF could not be parsed in this session.",
+    "needs_full_text": [
+      "Aps C, Reynolds F 1976, Br J Anaesth 48(12):1171-4, PMID 1023952 - full text, to reconcile the abstract's exception at the higher strength with the same authors' later description; subscription-only and not in Europe PMC.",
+      "Aps C, Reynolds F 1978, Br J Clin Pharmacol 6(1):63-8, PMID 666948 - free scanned full text exists in Europe PMC as PMC1429379; the fulltext XML endpoint returned HTTP 500 here and ebi.ac.uk is blocked by the network egress proxy, so it was not read in this session."
+    ],
+    "_source_line": 360,
+    "_note": "the page reports one study that tested three strengths and the same authors' later contrary description of their own work"
+  },
+  {
+    "claim_id": "W-B002",
+    "page": "bupivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+    "page_version": "2026-10-02T03:14:18.695Z",
+    "section": "The toxicity paradox",
+    "claim": "Neither of them is skin, and nobody has measured damage in skin from an injected anesthetic; the one skin measurement is of lidocaine patches, which lowered epidermal nerve fiber density in healthy volunteers after 42 days (Wehrfritz et al., 2011, PMID 21530339).",
+    "elements_said_absent": {
+      "population": "skin",
+      "intervention": "any injected local anaesthetic",
+      "design": "any",
+      "outcome": "nerve damage",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(TITLE:\"nerve fiber density\" OR TITLE:\"nerve fibre density\" OR TITLE:\"intraepidermal nerve\" OR TITLE:\"skin innervation\" OR TITLE:\"cutaneous innervation\" OR TITLE:\"epidermal nerve\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\")",
+        "engine": "europepmc",
+        "count": 22,
+        "screened": 22,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(TITLE:skin OR TITLE:cutaneous OR TITLE:dermal OR TITLE:intradermal OR TITLE:subcutaneous) AND (TITLE:neurotoxicity OR TITLE:\"nerve injury\" OR TITLE:\"nerve damage\" OR TITLE:histopathology OR TITLE:histology OR TITLE:\"tissue toxicity\" OR TITLE:\"tissue damage\") AND (bupivacaine OR lidocaine OR lignocaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\")",
+        "engine": "europepmc",
+        "count": 13,
+        "screened": 10,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (infiltration OR intradermal OR intracutaneous OR \"subcutaneous injection\" OR \"skin injection\" OR \"wound infiltration\") AND (\"nerve fibers\" OR \"nerve fibres\" OR \"nerve fiber\" OR \"nerve fibre\" OR innervation OR neurites OR \"sensory nerve\" OR \"cutaneous nerves\") AND (histology OR histological OR immunohistochemistry OR immunohistochemical OR morphology OR biopsy OR density)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 286,
+        "screened": 200,
+        "date_searched": "2026-10-07T06:19:07Z"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine OR \"lidocaine patch\" OR \"lidocaine plaster\") AND (\"intraepidermal nerve fiber\" OR \"intraepidermal nerve fibre\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"IENFD\" OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"skin innervation\" OR \"cutaneous innervation\" OR \"PGP9.5\" OR \"PGP 9.5\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 265,
+        "screened": 200,
+        "date_searched": "2026-10-07T06:18:36Z"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine) AND (\"intraepidermal nerve\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"epidermal nerve fibers\" OR \"epidermal nerve fibres\" OR IENFD OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"PGP9.5\" OR \"PGP 9.5\" OR \"protein gene product 9.5\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 21,
+        "screened": 21,
+        "date_searched": "2026-10-07T06:18:47Z"
+      },
+      {
+        "query": "(\"wound infusion\" OR \"wound infiltration\" OR \"wound instillation\" OR \"incisional infusion\" OR \"continuous infiltration\" OR \"wound catheter\") AND (ropivacaine OR bupivacaine OR levobupivacaine OR lidocaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (histology OR histological OR histopathology OR innervation OR \"nerve fibers\" OR \"nerve fibres\" OR neurotoxicity OR \"wound healing\" OR \"tissue toxicity\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 65,
+        "screened": 65,
+        "date_searched": "2026-10-07T06:19:24Z"
+      },
+      {
+        "query": "(\"continuous wound\" OR \"wound catheter\" OR \"incisional catheter\" OR \"wound infiltration\" OR \"local infiltration\") AND (\"local anesthetic\" OR \"local anaesthetic\" OR ropivacaine OR bupivacaine) AND (\"nerve fiber density\" OR \"nerve fibre density\" OR \"intraepidermal\" OR \"PGP9.5\" OR \"PGP 9.5\" OR reinnervation OR \"cutaneous innervation\" OR \"skin innervation\" OR neurotoxicity)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 9,
+        "screened": 9,
+        "date_searched": "2026-10-07T06:27:19Z"
+      },
+      {
+        "query": "(\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR lidocaine OR bupivacaine OR ropivacaine OR procaine OR chloroprocaine OR tetracaine OR mepivacaine OR levobupivacaine) AND (unmyelinated OR \"C fibers\" OR \"C fibres\" OR \"C-fibers\" OR \"C-fibres\" OR \"Remak\" OR \"small fibers\" OR \"small fibres\" OR \"intraepidermal\") AND (histology OR histological OR histopathology OR morphometry OR \"electron microscopy\" OR ultrastructural OR degeneration OR \"nerve injury\" OR neurotoxicity)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 114,
+        "screened": 114,
+        "date_searched": "2026-10-07T06:18:05Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "21530339",
+        "citation": "Wehrfritz A, Namer B, Ihmsen H, et al. Differential effects on sensory functions and measures of epidermal nerve fiber density after application of a lidocaine patch on healthy human skin. Eur J Pain 2011;15(9):907-12",
+        "what_it_matches_or_misses": "The one skin measurement the claim itself names, and the abstract confirms the page's description of it: randomised, double-blinded, healthy volunteers, epidermal nerve fibre density in skin blister roofs after 42 days, a moderate but significant decrease. The route is a topical patch, not an injection, so it does not match the claim's intervention element."
+      },
+      {
+        "pmid": "9787000",
+        "citation": "Nolano M, Simone DA, Wendelschafer-Crabb G, et al. Intradermal injection of capsaicin in humans produces degeneration and subsequent reinnervation of epidermal nerve fibers: correlation with sensory function. Pain 1999;81(1-2):135-45",
+        "what_it_matches_or_misses": "The closest design analogue found: an intradermally injected drug in human skin with epidermal nerve fibre degeneration as the measured outcome. Misses the intervention element - capsaicin is not a local anaesthetic - so it shows the method exists for injected substances without bearing on injected anaesthetics."
+      },
+      {
+        "pmid": "19375384",
+        "citation": "Teoh HL, Chow A, Wilder-Smith EP. Stimulated skin wrinkling for predicting intraepidermal nerve fibre density. Clin Neurophysiol 2008/2009",
+        "what_it_matches_or_misses": "Uses a topical anaesthetic cream alongside intraepidermal nerve fibre density, but as a diagnostic stimulus rather than as an exposure whose damage is being measured, and the route is topical."
+      },
+      {
+        "pmid": "21857272",
+        "citation": "Yang S, Abrahams MS, Hurn PD, Grafe MR, Kirsch JR. Local anesthetic Schwann cell toxicity is time and concentration dependent. Reg Anesth Pain Med 2011;36(5):444-51",
+        "what_it_matches_or_misses": "Measures local-anaesthetic damage to nerve-supporting cells, in cultured neonatal rat Schwann cells and in rat sciatic nerve exposed through a perineural catheter. Misses the population element: neither arm is skin."
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": false,
+    "evidence_pmid": "21530339",
+    "quote": "A degeneration of epidermal nerve fibers has previously been demonstrated for patches containing the TRPV1-agonist capsaicin and our findings suggest that this effect might also be relevant for lidocaine patches.",
+    "proposed_wording": "No study measuring nerve damage in skin after an injected local anaesthetic was found in searches of Europe PMC and in the earlier worker's PubMed searches through October 2026. The one skin measurement found is of a topical lidocaine patch, which lowered epidermal nerve fibre density in healthy volunteers after 42 days in a randomised, double-blinded study (Wehrfritz et al. 2011, PMID 21530339). For an injected substance the method has been applied, but to capsaicin rather than to an anaesthetic: intradermal capsaicin in humans produced degeneration and subsequent reinnervation of epidermal nerve fibres (PMID 9787000).",
+    "reason": "Both halves of the claim hold on these searches. Across two Europe PMC queries - one of which returned 22 records, every title screened - and six of the earlier worker's PubMed searches on the same topic, no record measured nerve damage in skin after an injected local anaesthetic by any design. The claim's attribution of the one skin measurement to lidocaine patches is verified from the Wehrfritz abstract, including the route, the healthy-volunteer population, the 42-day exposure and the direction of the effect. This is the same claim as W-M005 on the mepivacaine page, which another worker in this session holds; the two verdicts should be reconciled before either is written up. Kept to study design and existence throughout, with no thresholds or lethal values recorded.",
+    "needs_full_text": [],
+    "_source_line": 153,
+    "_note": "same claim as W-M005 on a different page"
+  },
+  {
+    "claim_id": "W-B003",
+    "page": "bupivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+    "page_version": "2026-10-02T03:14:18.695Z",
+    "section": "What has no source; What is still unknown (line 358)",
+    "claim": "Every duration, pain and blood-flow figure on this page comes from healthy volunteers' forearms, lower backs or hands.",
+    "elements_said_absent": {
+      "population": "neuropathic leg skin",
+      "intervention": "bupivacaine wheal",
+      "design": "any",
+      "outcome": "duration, pain and blood flow",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(TITLE:intradermal OR TITLE:intracutaneous OR TITLE:wheal OR TITLE:wheals OR TITLE:\"skin infiltration\" OR TITLE:\"local infiltration\") AND (TITLE:neuropathy OR TITLE:neuropathic OR TITLE:neuralgia OR TITLE:diabetic OR TITLE:postherpetic OR TITLE:polyneuropathy)",
+        "engine": "europepmc",
+        "count": 29,
+        "screened": 25,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "bupivacaine AND (intradermal OR intracutaneous OR wheal OR \"skin infiltration\") AND (neuropathy OR neuropathic OR \"small fiber neuropathy\" OR \"small fibre neuropathy\" OR polyneuropathy OR \"diabetic neuropathy\")",
+        "engine": "europepmc",
+        "count": 241,
+        "screened": 100,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(intradermal OR intradermally OR intracutaneous OR intracutaneously OR \"intra-cutaneous\" OR wheal OR wheals OR mesotherapy OR \"subcutaneous injection\" OR \"subcutaneous infiltration\" OR \"local infiltration\" OR \"skin infiltration\") AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (polyneuropathy OR \"diabetic neuropathy\" OR \"peripheral neuropathy\" OR \"painful neuropathy\" OR \"Diabetic Neuropathies\"[Mesh] OR \"Polyneuropathies\"[Mesh] OR \"small fiber\" OR \"small fibre\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 7,
+        "screened": 7,
+        "date_searched": "2026-10-07T06:08:10Z"
+      },
+      {
+        "query": "(\"small fiber neuropathy\" OR \"small fibre neuropathy\" OR \"small-fiber neuropathy\" OR \"small-fibre neuropathy\" OR \"Small Fiber Neuropathy\"[Mesh] OR \"small fiber neuropathies\" OR \"erythromelalgia\" OR \"burning feet\") AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR \"Anesthetics, Local\"[Mesh])",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 69,
+        "screened": 68,
+        "date_searched": "2026-10-07T06:07:51Z"
+      },
+      {
+        "query": "(postherpetic OR \"post-herpetic\" OR neuropathic OR neuropathy OR \"diabetic\" OR \"nerve injury\" OR CRPS OR \"complex regional pain\" OR erythromelalgia) AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (intradermal OR intradermally OR intracutaneous OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration of the skin\" OR \"cutaneous infiltration\" OR \"local infiltration of the painful\") AND (patients OR patient) AND (allodynia OR \"blood flow\" OR flare OR \"laser Doppler\" OR \"sensory\" OR \"skin temperature\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 23,
+        "screened": 23,
+        "date_searched": "2026-10-07T06:08:26Z"
+      },
+      {
+        "query": "(intradermal OR intradermally OR intracutaneous OR intracutaneously OR \"intra-cutaneous\" OR wheal OR wheals OR mesotherapy OR \"neural therapy\" OR \"intradermal therapy\") AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\") AND (neuralgia OR neuropathic OR neuropathy OR paresthetica OR \"chronic pain\" OR \"pain relief\" OR analgesic) NOT (vaccine OR tuberculin)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 173,
+        "screened": 173,
+        "date_searched": "2026-10-07T06:06:11Z"
+      },
+      {
+        "query": "(diabetic OR diabetes OR neuropathy OR neuropathic OR polyneuropathy OR postherpetic OR \"small fiber\" OR \"small fibre\" OR CRPS OR \"complex regional\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthesia\" OR \"local anaesthesia\") AND (\"skin blood flow\" OR \"cutaneous blood flow\" OR \"laser Doppler\" OR \"axon reflex\" OR flare OR LDIflare OR \"skin perfusion\" OR microcirculation OR \"microvascular\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 51,
+        "screened": 51,
+        "date_searched": "2026-10-07T06:13:10Z"
+      },
+      {
+        "query": "(intradermal OR intracutaneous OR \"intra-cutaneous\" OR subcutaneous OR \"local infiltration\" OR \"skin infiltration\" OR wheal OR mesotherapy) AND (neuralgia OR neuropathic OR neuropathy OR zoster OR postherpetic) AND ((lidocaine AND ropivacaine) OR (lidocaine AND bupivacaine) OR (lidocaine AND procaine) OR (ropivacaine AND bupivacaine) OR (lidocaine AND mepivacaine) OR (procaine AND ropivacaine))",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 7,
+        "screened": 7,
+        "date_searched": "2026-10-07T06:21:08Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "27492741",
+        "citation": "Cui JZ, Zhang XB, Zhu P, et al. Effect of Repetitive Intracutaneous Injections with Local Anesthetics and Steroids for Acute Thoracic Herpes Zoster and Incidence of Postherpetic Neuralgia. Pain Med 2017;18(8):1566-72",
+        "what_it_matches_or_misses": "The nearest match found: a randomised trial in 93 patients of repetitive intracutaneous local anaesthetic plus steroid in neuropathic human skin. Misses the population element (thoracic zoster skin, not neuropathic leg skin), the intervention element (a local anaesthetic and steroid mixture, not a plain bupivacaine wheal), and the outcome element (pain scores and postherpetic-neuralgia incidence, not block duration, injection pain or skin blood flow)."
+      },
+      {
+        "pmid": "29995761",
+        "citation": "Single intracutaneous injection of local anesthetics and steroids alleviates acute nonspecific neck pain: a randomized controlled trial (2018)",
+        "what_it_matches_or_misses": "Intracutaneous local anaesthetic plus steroid in patients, but for non-neuropathic neck pain and with pain relief as the outcome. Misses population and outcome."
+      },
+      {
+        "pmid": "16300701",
+        "citation": "The efficacy of local infiltration of triamcinolone acetonide with lignocaine compared with lignocaine alone in the treatment of postherpetic neuralgia (2005)",
+        "what_it_matches_or_misses": "Local infiltration in neuropathic human skin, but lignocaine rather than bupivacaine, and the outcome is treatment response rather than wheal duration, injection pain or blood flow."
+      },
+      {
+        "pmid": "36111092",
+        "citation": "Estimation of the minimum effective volume of bupivacaine for ultrasound-guided popliteal sciatic nerve block in diabetic patients with neuropathy (2022)",
+        "what_it_matches_or_misses": "Bupivacaine in a neuropathic leg, but the route is a sciatic nerve block, not an intradermal wheel, and the outcome is minimum effective volume for surgical block. Misses route and outcome."
+      },
+      {
+        "pmid": "8067217",
+        "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38(4):322-7",
+        "what_it_matches_or_misses": "One of the sources behind the page's own duration and vascular figures, and it confirms the claim's provenance statement: ten healthy young male volunteers, intradermal wheals."
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": false,
+    "evidence_pmid": "",
+    "quote": "",
+    "proposed_wording": "No measurement of duration, injection pain or skin blood flow after an intradermal bupivacaine wheal in neuropathic leg skin was found in searches of Europe PMC and in the earlier worker's PubMed searches through October 2026; the figures available for this route come from healthy volunteers' forearm, lower-back and hand skin. Intracutaneous local-anaesthetic injection has been studied in neuropathic human skin at other body sites: a randomised trial of repetitive intracutaneous local anaesthetic with steroid in acute thoracic herpes zoster exists (Cui et al. 2017, PMID 27492741), with pain scores and postherpetic-neuralgia incidence as outcomes rather than block duration or blood flow.",
+    "reason": "The claim is a provenance statement about the page's own figures and it holds: every source traced for those figures is a healthy-volunteer intradermal study, and two Europe PMC queries (29 records screened in full, and the top 100 of 241) plus six of the earlier worker's PubMed searches found no intradermal bupivacaine measurement in neuropathic leg skin. The claim is scoped to neuropathic leg skin, so healthy-volunteer studies narrow it at most, and nothing found narrows it: the closest records miss on population, intervention or outcome. Worth recording beside it, though, is that intracutaneous local anaesthetic has been given to neuropathic human skin elsewhere on the body with pain outcomes (PMID 27492741, PMID 29995761, PMID 16300701), so a broader 'nothing by this route in damaged skin' reading would be too strong. The bupivacaine page states its negatives flatly, so the sentence is judged as written.",
+    "needs_full_text": [],
+    "_source_line": 415,
+    "_note": ""
+  },
+  {
+    "claim_id": "W-B004",
+    "page": "bupivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+    "page_version": "2026-10-02T03:14:18.695Z",
+    "section": "What is still unknown",
+    "claim": "Whether the square-root scaling holds.",
+    "elements_said_absent": {
+      "population": "human skin",
+      "intervention": "wheals of different volumes of the same solution",
+      "design": "side-by-side timing",
+      "outcome": "duration",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(\"intradermal wheal\" OR \"intradermal wheals\" OR \"skin wheal\" OR \"skin wheals\") AND (\"injection volume\" OR \"different volumes\" OR \"volume of injectate\" OR \"varying volumes\") AND duration",
+        "engine": "europepmc",
+        "count": 11,
+        "screened": 10,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(\"infiltration anaesthesia\" OR \"infiltration anesthesia\" OR \"intradermal anaesthesia\" OR \"intradermal anesthesia\") AND (\"injection volume\" OR \"different volumes\" OR \"varying volumes\" OR \"volume of injectate\") AND (\"duration of anaesthesia\" OR \"duration of anesthesia\" OR \"duration of analgesia\")",
+        "engine": "europepmc",
+        "count": 16,
+        "screened": 10,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(ABSTRACT:\"different volumes\" OR ABSTRACT:\"injectate volume\" OR ABSTRACT:volume) AND (ABSTRACT:intradermal OR ABSTRACT:wheal OR ABSTRACT:\"skin wheal\" OR ABSTRACT:\"skin infiltration\") AND (ABSTRACT:\"duration of anesthesia\" OR ABSTRACT:\"duration of anaesthesia\" OR ABSTRACT:\"duration of analgesia\" OR ABSTRACT:pinprick) AND (ABSTRACT:lidocaine OR ABSTRACT:lignocaine OR ABSTRACT:bupivacaine OR ABSTRACT:\"local anesthetic\" OR ABSTRACT:\"local anaesthetic\")",
+        "engine": "europepmc",
+        "count": 1,
+        "screened": 1,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "bupivacaine AND (intradermal OR intradermally OR \"skin weal\" OR \"skin weals\" OR \"skin wheal\" OR wheal OR intracutaneous) AND (concentration OR concentrations OR \"0.75%\" OR \"0.5%\") AND (duration OR pinprick OR recovery)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 16,
+        "screened": 16,
+        "date_searched": "2026-10-07T06:27:30Z"
+      },
+      {
+        "query": "(mixture OR mixtures OR mixed OR combination OR combined OR admixture) AND (intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"skin wheal\" OR \"skin wheals\" OR intracutaneous) AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR tetracaine OR amethocaine OR chloroprocaine OR procaine OR etidocaine OR articaine) AND (duration OR \"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 29,
+        "screened": 29,
+        "date_searched": "2026-10-07T06:19:52Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "31789898",
+        "citation": "The effect of ropivacaine concentration on common peroneal nerve block duration using a fixed dose: a randomised, double-blind trial in healthy volunteers. Eur J Anaesthesiol 2020;37(4)",
+        "what_it_matches_or_misses": "The nearest design found: a randomised double-blind trial in 60 healthy volunteers that varied the injected volume at a fixed dose and measured duration of sensory and motor block, finding no change in mean sensory block duration. Misses the route element (an ultrasound-guided peroneal nerve block, not an intradermal wheal) and the intervention element (the solutions differed in concentration, so they were not the same solution at different volumes)."
+      },
+      {
+        "pmid": "8519713",
+        "citation": "Epinephrine prolongs duration of subcutaneous infiltration of local anesthesia in a dose-related manner. Correlation with magnitude of vasoconstriction. Reg Anesth 1995;20(5)",
+        "what_it_matches_or_misses": "Randomised double-blind skin wheals in 6 volunteers with duration of loss of pinprick sensation as the outcome, so the right population, route and outcome, but every wheal was the same volume; the variable was added epinephrine. Misses the intervention element."
+      },
+      {
+        "pmid": "27559966",
+        "citation": "Minimum effective local anesthetic volume for surgical anesthesia by subparaneural, ultrasound-guided popliteal sciatic nerve block: a prospective dose-finding study (2016)",
+        "what_it_matches_or_misses": "Volume is the variable and duration is reported, but the route is a nerve block rather than an intradermal wheal. Misses route."
+      },
+      {
+        "pmid": "9874860",
+        "citation": "Pang WW, Mok MS, Chang DP, et al. Intradermal injection of tramadol has local anesthetic effect: a comparison with lidocaine. Acta Anaesthesiol Sin 1998;36(3):133-6",
+        "what_it_matches_or_misses": "Double-blind intradermal injections in 10 volunteers with loss of pinprick sensation timed, but all injections were of equal volume and the comparison is between agents. Misses the intervention element."
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": false,
+    "evidence_pmid": "",
+    "quote": "",
+    "proposed_wording": "No study timing intradermal wheals of several different volumes of the same solution side by side in the same person was found in searches of Europe PMC and in the earlier worker's PubMed searches through October 2026. The nearest design found is a randomised, double-blind trial in healthy volunteers that varied the injected volume at a fixed dose for an ultrasound-guided common peroneal nerve block and found no difference in mean sensory block duration (PMID 31789898); the route is a nerve block rather than a wheal, and the solutions differed in concentration rather than being the same solution. Volume-finding studies of duration exist for peripheral nerve blocks but not, on these searches, for intradermal wheals.",
+    "reason": "Searches found nothing matching: three Europe PMC queries (11, 16 and 1 records, all screened) and two of the earlier worker's PubMed searches turned up no side-by-side timing of intradermal wheals differing only in volume. The studies that do vary volume against duration miss either the route (peripheral nerve block rather than an intradermal wheal) or the intervention (the solution's concentration changed with the volume), so they do not narrow a claim scoped to wheals of the same solution in skin. The page's own description of its estimate as an interpolation between two studies differing in tissue layer, endpoint and country is therefore accurate on this evidence.",
+    "needs_full_text": [],
+    "_source_line": 359,
+    "_note": "the page's 60-minute estimate is an interpolation between two studies differing in tissue layer, endpoint and country"
+  },
+  {
+    "claim_id": "W-B005",
+    "page": "bupivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+    "page_version": "2026-10-02T03:14:18.695Z",
+    "section": "What has no source; What is still unknown (line 361)",
+    "claim": "No study has compared all seven for injection pain intradermally, and the one that is cited for the claim found etidocaine worse.",
+    "elements_said_absent": {
+      "population": "any",
+      "intervention": "all seven compared agents",
+      "design": "intradermal comparison",
+      "outcome": "injection pain",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(ABSTRACT:\"pain of injection\" OR ABSTRACT:\"injection pain\" OR ABSTRACT:\"pain on injection\" OR ABSTRACT:\"pain of infiltration\" OR ABSTRACT:\"infiltration pain\") AND (ABSTRACT:intradermal OR TITLE:intradermal) AND (ABSTRACT:bupivacaine OR ABSTRACT:ropivacaine OR ABSTRACT:articaine OR ABSTRACT:prilocaine OR ABSTRACT:mepivacaine OR ABSTRACT:etidocaine)",
+        "engine": "europepmc",
+        "count": 7,
+        "screened": 7,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(ABSTRACT:articaine AND ABSTRACT:ropivacaine AND ABSTRACT:bupivacaine) AND (ABSTRACT:\"injection pain\" OR ABSTRACT:\"pain on injection\" OR ABSTRACT:\"pain of injection\" OR ABSTRACT:\"pain of infiltration\" OR ABSTRACT:\"infiltration pain\")",
+        "engine": "europepmc",
+        "count": 0,
+        "screened": 0,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "AUTH:\"Howe NR\" AND AUTH:\"Williams JM\"",
+        "engine": "europepmc",
+        "count": 2,
+        "screened": 2,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(\"injection pain\" OR \"pain of injection\" OR \"infiltration pain\" OR \"pain on injection\" OR \"pain of infiltration\" OR \"pain associated with\" OR \"injection discomfort\") AND (intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR subcutaneous) AND ((ropivacaine OR bupivacaine OR mepivacaine OR prilocaine OR articaine OR etidocaine OR chloroprocaine OR procaine) ) AND (lidocaine OR lignocaine)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 88,
+        "screened": 88,
+        "date_searched": "2026-10-07T06:15:21Z"
+      },
+      {
+        "query": "(ropivacaine OR articaine) AND (bupivacaine OR mepivacaine OR prilocaine) AND (\"injection pain\" OR \"pain on injection\" OR \"pain of injection\" OR \"infiltration pain\" OR \"pain of infiltration\" OR \"pain during injection\" OR \"injection discomfort\") AND (intradermal OR skin OR cutaneous OR subcutaneous OR infiltration)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 141,
+        "screened": 141,
+        "date_searched": "2026-10-07T06:15:43Z"
+      },
+      {
+        "query": "(intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\") AND (lidocaine OR lignocaine) AND (bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR procaine OR chloroprocaine OR etidocaine OR articaine OR tetracaine OR amethocaine) AND (comparison OR compared OR comparative) AND (volunteers OR volunteer OR \"healthy subjects\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 13,
+        "screened": 13,
+        "date_searched": "2026-10-07T06:15:11Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "8034840",
+        "citation": "Howe NR, Williams JM. Pain of injection and duration of anesthesia for intradermal infiltration of lidocaine, bupivacaine, and etidocaine. J Dermatol Surg Oncol 1994;20(7):459-64",
+        "what_it_matches_or_misses": "The trial the page cites. Randomised, placebo-controlled, double-blinded, 20 subjects, intradermal, pH-matched; three agents only. Its abstract states that lidocaine hurt least and etidocaine hurt most, which verifies the claim's second half. Covers three of the seven agents, so it narrows the all-seven claim at most."
+      },
+      {
+        "pmid": "7887101",
+        "citation": "Prien T. Intradermal anaesthesia: comparison of several compounds. Acta Anaesthesiol Scand 1994;38(8):805-7",
+        "what_it_matches_or_misses": "Randomised, double-blind, 600 patients; six preparations given as intradermal skin wheals - saline, prilocaine, lidocaine, two mepivacaine products and procaine - with infiltration pain rated on a visual analogue scale. Five local anaesthetic preparations of four distinct agents, so it covers at least three of the seven on the comparison page (lidocaine, mepivacaine, prilocaine) plus procaine, and so reaches more of them than the three-agent trial the page cites; but it includes neither bupivacaine nor ropivacaine nor articaine nor etidocaine and so does not cover all seven."
+      },
+      {
+        "pmid": "791022",
+        "citation": "Wightman MA, Vaughan RW. Comparison of compounds used for intradermal anesthesia. Anesthesiology 1976;45(6):687-9",
+        "what_it_matches_or_misses": "Randomised, double-blind, within-subject, 20 volunteers; six intradermal solutions rated for discomfort on injection. An intradermal injection-pain comparison, but it covers two of the seven agents on the comparison page, so it narrows the claim at most. Full text read by the lead session in this same session."
+      },
+      {
+        "pmid": "9517682",
+        "citation": "Jones JS, Plzak C, Wynn BN, Martin S. Effect of temperature and pH adjustment of bupivacaine for intradermal anesthesia. Am J Emerg Med 1998;16(2):117-20",
+        "what_it_matches_or_misses": "Randomised, double-blind, 40 volunteers; intradermal bupivacaine injection pain on a 100-mm visual analogue scale. Measures the right outcome for bupivacaine by the right route, but the comparison is between temperatures and pH of one agent, not between agents."
+      },
+      {
+        "pmid": "8148294",
+        "citation": "Farley JS, Hustead RF, Becker KE Jr. Diluting lidocaine and mepivacaine in balanced salt solution reduces the pain of intradermal injection. Reg Anesth 1994;19(1):48-51",
+        "what_it_matches_or_misses": "Randomised, double-blind, 20 volunteers, six intradermal solutions scored for injection discomfort; covers two of the seven agents and the variable is the diluent."
+      },
+      {
+        "pmid": "24612831",
+        "citation": "Vinycomb TI, Sahhar LJ. Comparison of local anesthetics for digital nerve blocks: a systematic review. J Hand Surg Am 2014;39(4):744-51",
+        "what_it_matches_or_misses": "Pools six local anaesthetic preparations for pain on injection, but by digital nerve block rather than intradermally, and as a review of six trials rather than a head-to-head comparison. Misses the route element."
+      }
+    ],
+    "verdict": "narrowed",
+    "uncertain": false,
+    "evidence_pmid": "7887101",
+    "quote": "To compare the efficacy of different local anaesthetics to produce intradermal anaesthesia for venous cannulation and the discomfort associated with skin infiltration.",
+    "proposed_wording": "No intradermal injection-pain comparison covering all seven agents was found; a Europe PMC search requiring articaine, ropivacaine and bupivacaine together with injection-pain terms returned no records. The three-agent trial the page cites does report that etidocaine hurt most (Howe and Williams 1994, PMID 8034840). Larger intradermal infiltration-pain comparisons exist and are not cited on the page: a randomised, double-blind trial in 600 patients compared five local anaesthetic preparations of four agents - prilocaine, lidocaine, mepivacaine in two products, and procaine - as intradermal wheals for infiltration pain (Prien 1994, PMID 7887101), and a randomised, double-blind within-subject study in 20 volunteers rated discomfort on injection across six intradermal solutions (Wightman and Vaughan 1976, PMID 791022).",
+    "reason": "The claim is scoped to all seven agents and nothing found matches that scope, so the headline negative stands: a Europe PMC query requiring articaine, ropivacaine and bupivacaine with injection-pain terms returned zero records, and the earlier worker's two PubMed injection-pain searches (88 and 141 records, both screened in full) found no seven-agent comparison either. The second half of the claim is verified from the cited trial's own abstract. What narrows the claim is the implication that only a three-agent comparison exists: Prien 1994 compared five local anaesthetic preparations of four agents intradermally for infiltration pain in 600 randomised patients, among them mepivacaine and prilocaine, and Wightman and Vaughan 1976 compared six intradermal solutions in 20 volunteers, so the page's 'what would settle it' sentence - which asks for mepivacaine and prilocaine to be included and says none exists - overstates the gap for part of that set. On which trial 'is cited for the claim': Howe and Williams 1994 (PMID 8034840) is the intradermal injection-pain trial that found etidocaine worse and is the better fit; Morgan 1975 (PMID 1138776) compares the same three agents and its full text is being read by another worker in this same session, so the attribution should be settled against that reading before the page is edited.",
+    "needs_full_text": [],
+    "_source_line": 413,
+    "_note": "the trial usually cited compared three agents and found etidocaine worse"
+  },
+  {
+    "claim_id": "W-B006",
+    "page": "bupivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+    "page_version": "2026-10-02T03:14:18.695Z",
+    "section": "What is still unknown",
+    "claim": "Whether the Schwann cell threshold means anything at wheal exposure times. It has not been done for any drug.",
+    "elements_said_absent": {
+      "population": "any",
+      "intervention": "local anaesthetic at wheal exposure times",
+      "design": "time-course",
+      "outcome": "Schwann cell threshold",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(\"Schwann cell\" OR \"Schwann cells\") AND (bupivacaine OR ropivacaine OR lidocaine OR mepivacaine OR chloroprocaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (\"exposure time\" OR \"time course\" OR \"time-dependent\" OR \"incubation time\" OR \"exposure duration\")",
+        "engine": "europepmc",
+        "count": 398,
+        "screened": 100,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "TITLE:\"Schwann\" AND (bupivacaine OR ropivacaine OR lidocaine OR lignocaine OR mepivacaine OR chloroprocaine OR procaine OR tetracaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\")",
+        "engine": "europepmc",
+        "count": 27,
+        "screened": 25,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "EXT_ID:21857272",
+        "engine": "europepmc",
+        "count": 1,
+        "screened": 1,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(\"Schwann cell\" OR \"Schwann cells\" OR RSC96 OR \"S16\") AND (lidocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR chloroprocaine OR tetracaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\") AND (toxicity OR cytotoxicity OR apoptosis OR \"cell death\" OR viability OR necrosis)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 21,
+        "screened": 21,
+        "date_searched": "2026-10-07T06:25:51Z"
+      },
+      {
+        "query": "ropivacaine AND (\"Schwann cell\" OR \"Schwann cells\" OR unmyelinated OR \"electron microscopy\" OR ultrastructure OR ultrastructural OR morphometry OR \"nerve fiber\" OR \"nerve fibre\") AND (neurotoxicity OR injury OR damage OR toxicity OR degeneration)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 52,
+        "screened": 52,
+        "date_searched": "2026-10-07T06:18:22Z"
+      },
+      {
+        "query": "(\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR lidocaine OR bupivacaine OR ropivacaine OR procaine OR chloroprocaine OR tetracaine OR mepivacaine OR levobupivacaine) AND (unmyelinated OR \"C fibers\" OR \"C fibres\" OR \"C-fibers\" OR \"C-fibres\" OR \"Remak\" OR \"small fibers\" OR \"small fibres\" OR \"intraepidermal\") AND (histology OR histological OR histopathology OR morphometry OR \"electron microscopy\" OR ultrastructural OR degeneration OR \"nerve injury\" OR neurotoxicity)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 114,
+        "screened": 114,
+        "date_searched": "2026-10-07T06:18:05Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "21857272",
+        "citation": "Yang S, Abrahams MS, Hurn PD, Grafe MR, Kirsch JR. Local anesthetic Schwann cell toxicity is time and concentration dependent. Reg Anesth Pain Med 2011;36(5):444-51",
+        "what_it_matches_or_misses": "Matches every element. Schwann cells cultured from neonatal rat sciatic nerve were exposed to five local anaesthetics - lidocaine, mepivacaine, chloroprocaine, ropivacaine and bupivacaine - across four concentrations, and each was assessed for cell death after 4, 24, 48 and 72 hours of exposure. That is a time-course whose shortest point is hours rather than days, run for five drugs, and the abstract reports a result at brief exposure as well as at the long ones. Free full text in Europe PMC as PMC3380610."
+      },
+      {
+        "pmid": "39580065",
+        "citation": "Rodrigues da Silva GH, Mendes LF, Geronimo G, et al. Schwann cells exposed to articaine display distinct toxic pathways compared to lidocaine. Chem Biol Interact 2025;406:111315",
+        "what_it_matches_or_misses": "A second Schwann-cell exposure study, in metabolic flux and NMR metabolomics rather than a timed cell-death series; its abstract states no exposure-duration series, so it does not add a time-course."
+      },
+      {
+        "pmid": "16109997",
+        "citation": "Bupivacaine induces apoptosis via ROS in the Schwann cell line (2005)",
+        "what_it_matches_or_misses": "Schwann cell line exposed to bupivacaine with apoptosis as the outcome; no exposure-duration series stated in the abstract."
+      },
+      {
+        "pmid": "3404978",
+        "citation": "Selective vulnerability of unmyelinated fiber Schwann cells in nerves exposed to local anesthetics (1988)",
+        "what_it_matches_or_misses": "Nerves rather than culture, and the unmyelinated-fibre Schwann cells that the page's concern is about, but the design is pathology after nerve exposure rather than a timed concentration series."
+      }
+    ],
+    "verdict": "refuted",
+    "uncertain": false,
+    "evidence_pmid": "21857272",
+    "quote": "We sought to test the hypothesis that LAs are toxic to Schwann cells and that the degree of toxicity is directly related to the concentration of LA and duration of exposure.",
+    "proposed_wording": "A time-course of local-anaesthetic exposure in Schwann cells exists and its shortest exposure is measured in hours: Schwann cells cultured from neonatal rat sciatic nerve were exposed to five local anaesthetics - lidocaine, mepivacaine, chloroprocaine, ropivacaine and bupivacaine - and assessed for cell death after 4, 24, 48 and 72 hours (Yang et al. 2011, PMID 21857272, free full text in Europe PMC as PMC3380610), and the paper reports a result at brief exposure as well as at the longer ones. What was not found is the same time-course run in skin, or at the exposure a wheal delivers in skin rather than in culture.",
+    "reason": "A study matching every element exists, and it is the same paper the page is discussing. Yang 2011 ran the design the claim asks for - a time-course whose shortest exposure is hours - for five local anaesthetics, and reports an outcome at the brief exposure as well as at 24, 48 and 72 hours, so 'it has not been done for any drug' does not hold as written. The page itself records that this study read toxicity at 4, 24, 48 and 72 hours, so the sentence contradicts the page's own description of the source two sections earlier; the correction needed is to the wording. What survives the correction is narrower and still true: the time-course was run in cultured rat Schwann cells, not in skin, so it does not establish what an intradermal wheal delivers to Schwann cells in dermis. Recorded as design and existence only; no threshold figure is reported here.",
+    "needs_full_text": [],
+    "_source_line": 364,
+    "_note": ""
+  },
+  {
+    "claim_id": "W-B007",
+    "page": "bupivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+    "page_version": "2026-10-02T03:14:18.695Z",
+    "section": "What is still unknown",
+    "claim": "Whether repeated bupivacaine over months changes skin that has already lost fibers. Unstudied, as it is for every drug in this group.",
+    "elements_said_absent": {
+      "population": "skin that has already lost fibres",
+      "intervention": "repeated bupivacaine over months",
+      "design": "any",
+      "outcome": "change in skin / IENFD",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(repeated OR repetitive OR \"serial injections\" OR \"multiple injections\" OR longitudinal) AND (bupivacaine OR lidocaine OR lignocaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (\"intraepidermal nerve fiber density\" OR \"intraepidermal nerve fibre density\" OR \"epidermal nerve fiber density\" OR \"epidermal nerve fibre density\" OR IENFD) AND (intradermal OR subcutaneous OR infiltration OR wheal OR injected)",
+        "engine": "europepmc",
+        "count": 117,
+        "screened": 100,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(mesotherapy OR \"neural therapy\" OR \"repeated intradermal\" OR \"repeated intracutaneous\" OR \"repeated subcutaneous injections\") AND (bupivacaine OR lidocaine OR lignocaine OR procaine OR ropivacaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (\"nerve fiber\" OR \"nerve fibre\" OR innervation OR histology OR \"skin biopsy\" OR IENFD)",
+        "engine": "europepmc",
+        "count": 62,
+        "screened": 25,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(TITLE:\"nerve fiber density\" OR TITLE:\"nerve fibre density\" OR TITLE:\"intraepidermal nerve\" OR TITLE:\"skin innervation\" OR TITLE:\"cutaneous innervation\" OR TITLE:\"epidermal nerve\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\")",
+        "engine": "europepmc",
+        "count": 22,
+        "screened": 22,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine OR \"lidocaine patch\" OR \"lidocaine plaster\") AND (\"intraepidermal nerve fiber\" OR \"intraepidermal nerve fibre\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"IENFD\" OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"skin innervation\" OR \"cutaneous innervation\" OR \"PGP9.5\" OR \"PGP 9.5\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 265,
+        "screened": 200,
+        "date_searched": "2026-10-07T06:18:36Z"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (infiltration OR intradermal OR intracutaneous OR \"subcutaneous injection\" OR \"skin injection\" OR \"wound infiltration\") AND (\"nerve fibers\" OR \"nerve fibres\" OR \"nerve fiber\" OR \"nerve fibre\" OR innervation OR neurites OR \"sensory nerve\" OR \"cutaneous nerves\") AND (histology OR histological OR immunohistochemistry OR immunohistochemical OR morphology OR biopsy OR density)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 286,
+        "screened": 200,
+        "date_searched": "2026-10-07T06:19:07Z"
+      },
+      {
+        "query": "(intradermal OR intradermally OR intracutaneous OR intracutaneously OR \"intra-cutaneous\" OR wheal OR wheals OR mesotherapy OR \"subcutaneous injection\" OR \"subcutaneous infiltration\" OR \"local infiltration\" OR \"skin infiltration\") AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (polyneuropathy OR \"diabetic neuropathy\" OR \"peripheral neuropathy\" OR \"painful neuropathy\" OR \"Diabetic Neuropathies\"[Mesh] OR \"Polyneuropathies\"[Mesh] OR \"small fiber\" OR \"small fibre\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 7,
+        "screened": 7,
+        "date_searched": "2026-10-07T06:08:10Z"
+      },
+      {
+        "query": "(\"small fiber neuropathy\" OR \"small fibre neuropathy\" OR \"small-fiber neuropathy\" OR \"small-fibre neuropathy\" OR \"Small Fiber Neuropathy\"[Mesh] OR \"small fiber neuropathies\" OR \"erythromelalgia\" OR \"burning feet\") AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR \"Anesthetics, Local\"[Mesh])",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 69,
+        "screened": 68,
+        "date_searched": "2026-10-07T06:07:51Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "27492741",
+        "citation": "Cui JZ, Zhang XB, Zhu P, et al. Effect of Repetitive Intracutaneous Injections with Local Anesthetics and Steroids for Acute Thoracic Herpes Zoster and Incidence of Postherpetic Neuralgia. Pain Med 2017;18(8):1566-72",
+        "what_it_matches_or_misses": "The nearest match found: repeated intracutaneous local anaesthetic in neuropathic human skin, randomised, 93 patients. Misses the duration element (a treatment course over weeks, not months), the intervention element (a local anaesthetic and steroid mixture, not bupivacaine alone), and the outcome element (pain and postherpetic-neuralgia incidence, with no measure of skin innervation)."
+      },
+      {
+        "pmid": "21530339",
+        "citation": "Wehrfritz A, Namer B, Ihmsen H, et al. Differential effects on sensory functions and measures of epidermal nerve fiber density after application of a lidocaine patch on healthy human skin. Eur J Pain 2011;15(9):907-12",
+        "what_it_matches_or_misses": "The only study found that measured epidermal nerve fibre density before and after repeated local-anaesthetic exposure in humans. Misses the population element (healthy skin, not skin that has already lost fibres), the route element (a topical patch), and the time element (42 days, not months)."
+      },
+      {
+        "pmid": "26002840",
+        "citation": "Distal leg epidermal nerve fiber density as a surrogate marker of HIV-associated sensory neuropathy risk: risk factors and change following initial antiretroviral therapy (2015)",
+        "what_it_matches_or_misses": "Repeat epidermal nerve fibre density in fibre-depleted distal leg skin over time, which is the outcome and population the claim asks about, but the exposure is antiretroviral therapy, not an injected local anaesthetic."
+      },
+      {
+        "pmid": "22717465",
+        "citation": "The effect of exercise on neuropathic symptoms, nerve function, and cutaneous innervation in people with diabetic peripheral neuropathy (2012)",
+        "what_it_matches_or_misses": "Longitudinal cutaneous innervation in fibre-depleted skin, again with a non-drug exposure. Shows the design is feasible; misses the intervention."
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": false,
+    "evidence_pmid": "",
+    "quote": "",
+    "proposed_wording": "No study of repeated bupivacaine injection over months into skin that has already lost nerve fibres, with intraepidermal nerve fibre density or any other measure of skin change as the outcome, was found in searches of Europe PMC and in the earlier worker's PubMed searches through October 2026, and none was found for the other agents in this group. A full screen of the 22 Europe PMC records that combine an intraepidermal-nerve-fibre-density title term with any of these agents found none in which an injected local anaesthetic was the exposure. The nearest designs found are a randomised trial of repetitive intracutaneous local anaesthetic with steroid in acute thoracic herpes zoster over weeks, with pain outcomes and no measure of skin innervation (PMID 27492741), and repeat epidermal nerve fibre density measured over time in fibre-depleted distal leg skin with a non-drug exposure (PMID 26002840).",
+    "reason": "Searches found nothing matching. Three Europe PMC queries - including one of 22 records whose every title was screened, and the top 100 of a 117-record query - plus four of the earlier worker's PubMed searches turned up no record in which repeated injected local anaesthetic was the exposure and a measure of skin innervation the outcome, in any population. The claim is scoped to skin that has already lost fibres, so healthy-volunteer and topical studies narrow it at most, and the one repeated-exposure study with an innervation outcome (PMID 21530339) is topical, in healthy skin, and over days rather than months. The claim's own extension to every drug in the group also holds on these searches. The outcome measure the page names is available and has been used longitudinally in fibre-depleted skin for other exposures, so the gap is the intervention rather than the method.",
+    "needs_full_text": [],
+    "_source_line": 365,
+    "_note": ""
+  },
+  {
+    "claim_id": "W-B008",
+    "page": "bupivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+    "page_version": "2026-10-02T03:14:18.695Z",
+    "section": "What has no source",
+    "claim": "No source was found for 40.5 mm, and the study usually credited with it, Howe and Williams, is paywalled and reports its results as an ordering rather than as numbers in its abstract.",
+    "elements_said_absent": {
+      "population": "any",
+      "intervention": "plain bupivacaine",
+      "design": "any",
+      "outcome": "the circulating injection-pain figure",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "\"40.5 mm\" AND bupivacaine",
+        "engine": "europepmc",
+        "count": 1,
+        "screened": 1,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "\"40.5 mm\" OR \"40.5mm\"",
+        "engine": "europepmc",
+        "count": 567,
+        "screened": 5,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "AUTH:\"Howe NR\" AND AUTH:\"Williams JM\"",
+        "engine": "europepmc",
+        "count": 2,
+        "screened": 2,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "AUTH:\"Vinycomb\" AND (digital OR \"nerve block\" OR anaesthetic)",
+        "engine": "europepmc",
+        "count": 1,
+        "screened": 1,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(ABSTRACT:\"pain of injection\" OR ABSTRACT:\"injection pain\" OR ABSTRACT:\"pain on injection\" OR ABSTRACT:\"pain of infiltration\" OR ABSTRACT:\"infiltration pain\") AND (ABSTRACT:intradermal OR TITLE:intradermal) AND (ABSTRACT:bupivacaine OR ABSTRACT:ropivacaine OR ABSTRACT:articaine OR ABSTRACT:prilocaine OR ABSTRACT:mepivacaine OR ABSTRACT:etidocaine)",
+        "engine": "europepmc",
+        "count": 7,
+        "screened": 7,
+        "date_searched": "2026-10-08"
+      },
+      {
+        "query": "(\"injection pain\" OR \"pain of injection\" OR \"infiltration pain\" OR \"pain on injection\" OR \"pain of infiltration\" OR \"pain associated with\" OR \"injection discomfort\") AND (intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR subcutaneous) AND ((ropivacaine OR bupivacaine OR mepivacaine OR prilocaine OR articaine OR etidocaine OR chloroprocaine OR procaine) ) AND (lidocaine OR lignocaine)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 88,
+        "screened": 88,
+        "date_searched": "2026-10-07T06:15:21Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "8034840",
+        "citation": "Howe NR, Williams JM. Pain of injection and duration of anesthesia for intradermal infiltration of lidocaine, bupivacaine, and etidocaine. J Dermatol Surg Oncol 1994;20(7):459-64",
+        "what_it_matches_or_misses": "The study usually credited with the figure. Its Europe PMC record carries only a subscription-required link and it is not in Europe PMC or PubMed Central, which confirms the paywall. Its abstract gives the injection-pain result as an ordering of the three agents and gives the duration result as percentages, with no millimetre values, exactly as the claim states."
+      },
+      {
+        "pmid": "24612831",
+        "citation": "Vinycomb TI, Sahhar LJ. Comparison of local anesthetics for digital nerve blocks: a systematic review. J Hand Surg Am 2014;39(4):744-51",
+        "what_it_matches_or_misses": "Confirms the claim's account of the companion figure: the abstract reports least and most mean pain on injection in millimetres on a visual analogue scale across six preparations, and the larger of the two, 53 mm, belongs to bupivacaine with epinephrine, not to plain bupivacaine. No value for plain bupivacaine, and no 40.5 mm, appears in the abstract."
+      },
+      {
+        "pmid": "9517682",
+        "citation": "Jones JS, Plzak C, Wynn BN, Martin S. Effect of temperature and pH adjustment of bupivacaine for intradermal anesthesia. Am J Emerg Med 1998;16(2):117-20",
+        "what_it_matches_or_misses": "The only record found that reports millimetre visual-analogue injection-pain scores for intradermal bupivacaine in volunteers. Its values are for warmed and buffered preparations and none is 40.5 mm, so it is not the source of the circulating figure."
+      },
+      {
+        "pmid": "PMC6831785",
+        "citation": "44th National AOMSI Conference. J Maxillofac Oral Surg 2019;18(Suppl 1):1-338",
+        "what_it_matches_or_misses": "The single Europe PMC record matching the phrase together with bupivacaine: a conference proceedings volume, unrelated to injection-pain scoring. Not a source for the figure."
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": false,
+    "evidence_pmid": "8034840",
+    "quote": "Lidocaine hurt least and etidocaine hurt most.",
+    "proposed_wording": "No published source reporting 40.5 mm as an injection-pain score for plain bupivacaine was found: a Europe PMC search for that phrase together with bupivacaine returned one record, an unrelated conference proceedings volume. The study usually credited with the figure, Howe and Williams 1994 (PMID 8034840), is subscription-only and is not held in Europe PMC or PubMed Central, and its abstract gives the injection-pain result as an ordering of the three agents rather than as numbers. The companion figure in circulation is traceable: a systematic review of local anaesthetics for digital nerve blocks reports 53 mm as the highest mean pain on injection and attributes it to bupivacaine with epinephrine, not to plain bupivacaine (Vinycomb and Sahhar 2014, PMID 24612831).",
+    "reason": "All three parts of the claim hold. A phrase search for the figure together with bupivacaine returned a single, unrelated record; Howe and Williams 1994 is confirmed paywalled from its Europe PMC record, which carries only a subscription link and no PubMed Central copy; and its abstract reports the injection-pain comparison as an ordering, with the duration result given as percentages and no millimetre values anywhere. The page's attribution of the 53 mm figure to bupivacaine with epinephrine via the digital-nerve-block review is also verified from that review's abstract. A pain score is an outcome rather than a drug amount, so the figure is reported here rather than omitted. One caveat on the engine: Europe PMC's handling of a numeric phrase is loose - the same phrase searched without bupivacaine returned 567 records matching unrelated measurements - so absence from this engine is weaker evidence than a clean phrase index would give.",
+    "needs_full_text": [
+      "Howe NR, Williams JM 1994, J Dermatol Surg Oncol 20(7):459-64, PMID 8034840 - full text, to establish whether 40.5 mm originates in its results tables or figures. Not needed for the verdict, which is about what was found, but it is the only way to settle the figure's provenance."
+    ],
+    "_source_line": 412,
+    "_note": "a sourcing claim about a figure in circulation; the figure is a pain score in mm, not a drug amount"
+  }
+]

@@ -1,0 +1,598 @@
+[
+ {
+  "claim_id": "W-R017",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "The shape of the needle-trauma curve",
+  "claim": "There is no clean drug-only reading at any timepoint, and the trauma term is still non-zero at 90 minutes — the end of the recording window.",
+  "elements_said_absent": {
+   "population": "any",
+   "intervention": "local anaesthetic wheal",
+   "design": "any",
+   "outcome": "a drug-only reading separated from the puncture response",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(lidocaine OR lignocaine OR ropivacaine OR bupivacaine OR mepivacaine OR prilocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anaesthesia\" OR \"local anesthesia\" OR EMLA) AND (\"needle insertion\" OR \"needle trauma\" OR \"injection trauma\" OR \"insertion trauma\" OR \"needle stick\" OR \"needle prick\") AND (\"blood flow\" OR flare OR \"axon reflex\" OR erythema OR \"laser Doppler\" OR perfusion)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 12,
+    "screened": 12,
+    "date_searched": "2026-10-07T06:12:48Z"
+   },
+   {
+    "query": "(intradermal OR intradermally OR wheal OR wheals OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (\"laser Doppler\" OR \"blood flow\" OR perfusion OR \"skin blood flow\") AND (pinprick OR \"pin-prick\" OR \"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\" OR \"sensory block\" OR \"analgesia\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 13,
+    "screened": 13,
+    "date_searched": "2026-10-07T06:23:09Z"
+   },
+   {
+    "query": "TITLE_ABS:(\"needle insertion\" OR \"needle trauma\" OR \"needle puncture\" OR \"skin puncture\" OR \"injection trauma\" OR \"needle prick\") AND TITLE_ABS:(\"skin blood flow\" OR \"laser Doppler\" OR flare OR \"axon reflex\" OR perfusion OR erythema OR vasodilatation) AND TITLE_ABS:(intradermal OR injection OR saline OR \"local anaesthetic\" OR \"local anesthetic\" OR lidocaine OR lignocaine)",
+    "engine": "europepmc",
+    "count": 20,
+    "screened": 20,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "2038927",
+    "citation": "Cederholm I, Evers H, Lofstrom JB. Effect of intradermal injection of saline or a local anaesthetic agent on skin blood flow - a methodological study in man. Acta Anaesthesiol Scand 1991;35:208-215",
+    "matches": "The claim's own source. Randomised double-blind, 17 male volunteers, laser Doppler flowmetry; separate arms for saline volumes, needle sizes (needle insertion alone) and three local anaesthetics; recordings at 20, 40, 60 and (Group III) 90 min after needle insertion or injection.",
+    "misses": "No reading earlier than 20 min and no drug reading taken in the absence of a puncture, so the drug response is only separable from the trauma response by contrast with the needle-only and saline arms."
+   },
+   {
+    "pmid": "7351489",
+    "citation": "Holloway GA. Cutaneous blood flow responses to injection trauma measured by laser Doppler velocimetry. J Invest Dermatol 1980;74:1-4",
+    "matches": "An independent characterisation of the puncture term alone: forearm skin, laser Doppler velocimetry, needle alone and saline arms alongside histamine and epinephrine, at resting and heated baseline flow. Confirms that the trauma response is large and long-lasting and is not cited on the page.",
+    "misses": "Quantifies the puncture response rather than providing a drug-only reading; no ropivacaine arm."
+   },
+   {
+    "pmid": "17229423",
+    "citation": "Cracowski JL, Lorenzo S, Minson CT. Effects of local anaesthesia on subdermal needle insertion pain and subsequent tests of microvascular function in human. Eur J Pharmacol 2007;559:150-154",
+    "matches": "Addresses the confound directly: topical EMLA before intradermal needle insertion, with skin post-occlusive and thermal hyperaemia measured afterwards to test whether the anaesthetic contaminates the microvascular measurement.",
+    "misses": "Topical cream, not a wheal; the outcome is provoked hyperaemia 2 h after cream removal, not a drug-only reading of the wheal response itself."
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "2038927",
+  "quote": "Recordings were made at 20, 40, 60 and in Group III also at 90 min after needle insertion or intradermal injection.",
+  "proposed_wording": "Searches of Europe PMC and of an earlier worker's PubMed searches through October 2026 found no study reporting a skin blood flow reading from a local anaesthetic wheal free of the puncture response; the needle-only and saline arms of Cederholm 1991 (PMID 2038927) allow the drug effect to be separated only by contrast, and the puncture response alone has been quantified independently by laser Doppler (Holloway 1980, PMID 7351489).",
+  "reason": "Nothing found measures a wheal's drug effect without a puncture, which is a design necessity rather than a gap anyone could close. Cederholm 1991 does carry needle-only and saline arms, so a drug-minus-saline contrast exists and the sentence would be more exact as 'no reading uncontaminated by the puncture response' rather than 'no clean drug-only reading'. The page's own convention at 0.1 already scopes its negatives as search-limited, so the correction needed is to the wording, not to the page's position.",
+  "needs_full_text": [],
+  "_source_line": 349,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R018",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "The problem: this predicts the wrong answer for skin",
+  "claim": "The ordering in dermal microvessels has never been measured for any of these drugs.",
+  "elements_said_absent": {
+   "population": "dermal microvessels",
+   "intervention": "ropivacaine, lidocaine and the other compared drugs",
+   "design": "any",
+   "outcome": "ordering of vascular effect",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(ropivacaine OR levobupivacaine OR bupivacaine OR lidocaine OR lignocaine OR mepivacaine OR \"local anesthetics\" OR \"local anaesthetics\") AND (arteriole OR arterioles OR \"resistance artery\" OR \"resistance arteries\" OR \"small arteries\" OR \"subcutaneous arteries\" OR microvessels OR \"cremaster\" OR \"intravital microscopy\" OR \"dermal vessels\" OR \"cutaneous arteries\") AND (contraction OR vasoconstriction OR constriction OR diameter OR vasodilation OR \"vascular tone\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 73,
+    "screened": 73,
+    "date_searched": "2026-10-07T06:13:24Z"
+   },
+   {
+    "query": "ropivacaine AND (\"Laser-Doppler Flowmetry\"[Mesh] OR \"laser Doppler\" OR \"laser-Doppler\" OR \"Regional Blood Flow\"[Mesh] OR \"Skin\"[Mesh]) AND (injection OR injected OR infiltration OR intradermal OR subcutaneous)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 32,
+    "screened": 32,
+    "date_searched": "2026-10-07T06:09:47Z"
+   },
+   {
+    "query": "TITLE_ABS:(intradermal OR intracutaneous OR \"skin wheal\" OR \"skin weal\" OR \"intradermally\") AND TITLE_ABS:(\"local anaesthetics\" OR \"local anesthetics\" OR \"local anaesthetic\" OR \"local anesthetic\" OR lignocaine OR lidocaine OR mepivacaine OR prilocaine OR procaine OR bupivacaine) AND TITLE_ABS:(vasoconstrictor OR vasoconstriction OR pallor OR blanching OR vasodilatation OR vasodilation OR \"vascular effects\" OR erythema) AND TITLE_ABS:(volunteers OR subjects OR human OR comparison OR compared)",
+    "engine": "europepmc",
+    "count": 38,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "TITLE_ABS:(ropivacaine) AND TITLE_ABS:(\"skin blood flow\" OR \"laser Doppler\" OR intradermal OR \"cutaneous blood flow\" OR perfusion) AND TITLE_ABS:(concentration OR concentrations OR \"dose-response\" OR \"dose response\" OR dose)",
+    "engine": "europepmc",
+    "count": 34,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "11097672",
+    "citation": "Newton DJ, Burke D, Khan F, McLeod GA, Belch JJ, McKenzie M, Bannister J. Skin blood flow changes in response to intradermal injection of bupivacaine and levobupivacaine, assessed by laser Doppler imaging. Reg Anesth Pain Med 2000;25:626-631",
+    "matches": "Dermal microvascular measurement in humans: four concentrations of each drug plus saline injected intradermally in 10 volunteers, skin perfusion by laser Doppler imaging to 90 min, and an explicit ordering of the two drugs in the late phase. The authors' own conclusion is framed in terms of skin microvessels.",
+    "misses": "Two drugs only (bupivacaine and levobupivacaine); in vivo whole-bed perfusion rather than an isolated dermal resistance vessel preparation."
+   },
+   {
+    "pmid": "15722384",
+    "citation": "Newton DJ, McLeod GA, Khan F, Belch JJ. Vasoactive characteristics of bupivacaine and levobupivacaine with and without adjuvant epinephrine in peripheral human skin. Br J Anaesth 2005;94:662-667",
+    "matches": "Eight doses of each of two drugs intradermally in 10 volunteers with laser Doppler imaging of forearm skin, giving a biphasic concentration-response and a drug-to-drug ordering in the dermal bed.",
+    "misses": "Two drugs; no ropivacaine, lidocaine or mepivacaine arm; in vivo perfusion rather than isolated vessels."
+   },
+   {
+    "pmid": "8067217",
+    "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38:322-327",
+    "matches": "Intradermal wheals in 10 volunteers, randomised double-blind, with local vascular effect scored at the injected area; ropivacaine blanched significantly more often than bupivacaine at every concentration tested, which is an ordering of two of the compared drugs in dermal skin.",
+    "misses": "Vascular effect by visual inspection, not vessel diameter; two drugs."
+   },
+   {
+    "pmid": "4041306",
+    "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011",
+    "matches": "Six agents compared by intradermal injection in 10 volunteers with vascular effects recorded, which is a six-drug ordering of vasoactivity in human dermal skin.",
+    "misses": "Vasoactivity by observed colour change rather than microvessel diameter."
+   },
+   {
+    "pmid": "17543819",
+    "citation": "Wienzek H, Freise H, Giesler I, Van Aken HK, Sielenkaemper AW. Altered blood flow in terminal vessels after local application of ropivacaine and prilocaine. Reg Anesth Pain Med 2007;32:233-239",
+    "matches": "Ropivacaine and prilocaine applied directly to a dissected tail artery in rats with laser Doppler flowmetry and infrared thermography distal to the site, i.e. a terminal/end-artery vascular bed rather than aorta, with the two drugs ordered against each other.",
+    "misses": "Rat tail artery, not dermal microvessels; two drugs."
+   }
+  ],
+  "verdict": "refuted",
+  "uncertain": false,
+  "evidence_pmid": "11097672",
+  "quote": "Bupivacaine and levobupivacaine both have a biphasic effect on skin microvessels.",
+  "proposed_wording": "Orderings of local-anaesthetic vascular effect in human dermal microvasculature exist from intradermal laser Doppler imaging (Newton 2000, PMID 11097672; Newton 2005, PMID 15722384), from intradermal blanching incidence (Cederholm 1994, PMID 8067217; Willatts & Reynolds 1985, PMID 4041306) and from an end-artery bed in the rat tail (Wienzek 2007, PMID 17543819); no study was found that measured the ordering in isolated dermal resistance vessels.",
+  "reason": "Every element the claim says is absent - dermal microvessels, these drugs, any design, an ordering of vascular effect - is matched by the in vivo human studies above, and the page itself rests its skin orderings on two of them. What remains unfound is the narrower thing the surrounding bullet is reaching for, namely an isolated dermal resistance-arteriole preparation to set against Sohn's and Tokinaga's aortic rings. Since the page's convention at 0.1 already scopes its negatives as search-limited, the fix is to say 'has not been measured in isolated dermal resistance vessels' rather than to reverse the page's position.",
+  "needs_full_text": [],
+  "_source_line": 1279,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R019",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "Two more confirmations, and then the caveats; 10.4",
+  "claim": "The separation has never been measured for ropivacaine in any preparation.",
+  "elements_said_absent": {
+   "population": "any preparation",
+   "intervention": "ropivacaine",
+   "design": "any",
+   "outcome": "the A-fibre / C-fibre concentration separation",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "ropivacaine AND (ectopic OR \"ectopic discharge\" OR \"spontaneous activity\" OR \"spontaneous discharge\" OR \"ongoing activity\" OR \"persistent sodium current\" OR \"tonic firing\" OR neuroma OR \"repetitive firing\" OR \"burst firing\" OR hyperexcitability) AND (nerve OR neurons OR \"dorsal root ganglion\" OR fibers OR fibres OR \"afferent\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 5,
+    "screened": 5,
+    "date_searched": "2026-10-07T06:16:49Z"
+   },
+   {
+    "query": "ropivacaine AND (\"sodium current\" OR \"sodium channel\" OR \"sodium channels\" OR \"Nav1.7\" OR \"Nav1.8\" OR \"patch clamp\" OR \"tonic block\" OR \"use-dependent\") AND (neurons OR \"dorsal root ganglion\" OR DRG OR \"neuropathic\" OR \"nerve injury\" OR \"spinal nerve ligation\" OR \"chronic constriction\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 24,
+    "screened": 24,
+    "date_searched": "2026-10-07T06:16:57Z"
+   },
+   {
+    "query": "TITLE_ABS:(ropivacaine) AND TITLE_ABS:(\"differential sensitivity\" OR \"differential block\" OR \"fiber selectivity\" OR \"fibre selectivity\" OR \"selective block\" OR \"A and C fibers\" OR \"A and C fibres\" OR \"C fiber\" OR \"C fibre\" OR \"unmyelinated\" OR \"compound action potential\") AND TITLE_ABS:(nerve OR nerves OR axon OR axons OR fibers OR fibres)",
+    "engine": "europepmc",
+    "count": 20,
+    "screened": 20,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "2735537",
+    "citation": "Bader AM, Datta S, Flanagan H, Covino BG. Comparison of bupivacaine- and ropivacaine-induced conduction blockade in the isolated rabbit vagus nerve. Anesth Analg 1989;68:724-727",
+    "matches": "Measures exactly the A-fibre versus C-fibre separation for ropivacaine: isolated rabbit vagus nerve, varying concentrations of ropivacaine and bupivacaine, compound action potential of A and C fibres recorded to test whether the two fibre classes differ in sensitivity, with a statistically significant class difference reported.",
+    "misses": "Intact (uninjured) nerve and conduction block rather than ectopic discharge in injured fibres; rabbit, not human skin."
+   },
+   {
+    "pmid": "40704591",
+    "citation": "Ostertag-Hill CA, Chen S, Xue T, Shao R, Torre M, Feng B, Vahedi Z, Chen L, Staffa SJ, Zheng Y, Kohane DS. Sensory-selective Peripheral and Neuraxial Nerve Blockade with 2',6'-Pipecoloxylidide. Anesthesiology 2025;143:1296-1312",
+    "matches": "A second measurement of ropivacaine's fibre-class separation: ex vivo single-unit recordings comparing block of A-delta and C fibres by ropivacaine against a comparator compound, alongside sciatic and intrathecal sensory/motor testing in rats.",
+    "misses": "Rodent; ropivacaine is the comparator arm rather than the subject; no skin wheal and no injured-fibre model."
+   },
+   {
+    "pmid": "17805435",
+    "citation": "Bariskaner H, Ayaz M, Guney FB, Dalkilic N, Guney O. Bupivacaine and ropivacaine: comparative effects on nerve conduction block. Methods Find Exp Clin Pharmacol 2007;29:337-341",
+    "matches": "Isolated frog sciatic nerve, cumulative concentrations of ropivacaine and bupivacaine, compound action potential parameters analysed by conduction-velocity group, concluding that ropivacaine has a sensory-specific side of action.",
+    "misses": "Reports fibre groups by conduction velocity rather than an explicit A/C concentration separation; amphibian preparation."
+   }
+  ],
+  "verdict": "refuted",
+  "uncertain": false,
+  "evidence_pmid": "2735537",
+  "quote": "The effect of varying concentrations of ropivacaine and bupivacaine on the compound action potential of A and C nerve fibers was assessed to determine whether motor and sensory fibers have different sensitivities to the two agents.",
+  "proposed_wording": "The A-fibre versus C-fibre separation has been measured for ropivacaine in isolated nerve preparations (Bader 1989, PMID 2735537, isolated rabbit vagus nerve; Ostertag-Hill 2025, PMID 40704591, ex vivo single-unit recordings) and in isolated frog sciatic nerve (Bariskaner 2007, PMID 17805435); searches found no measurement of ropivacaine's separation between suppression of ectopic discharge and conduction block in injured fibres.",
+  "reason": "The claim's recorded elements - ropivacaine, any preparation, any design, the A-fibre/C-fibre concentration separation - are all matched by Bader 1989, which varied ropivacaine concentration and recorded A- and C-fibre compound action potentials in order to test fibre-class sensitivity, and again by Ostertag-Hill 2025. If the sentence is meant narrowly, as the separation between suppressing ectopic discharge in injured fibres and blocking conduction that the surrounding paragraph attributes to Tanelian and Kirillova, that specific separation remains unmeasured for ropivacaine. Under the page's own search-limited convention the correction is to the wording: name which separation is meant.",
+  "needs_full_text": [],
+  "_source_line": 1730,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R020",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "Two more confirmations, and then the caveats",
+  "claim": "Nobody has recorded a cutaneous C-fibre during a local anaesthetic wheal in a human.",
+  "elements_said_absent": {
+   "population": "human",
+   "intervention": "local anaesthetic wheal",
+   "design": "microneurography",
+   "outcome": "cutaneous C-fibre recording",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(microneurography OR \"single-fibre recording\" OR \"single fiber recording\" OR \"C-fiber recordings\" OR \"C-fibre recordings\" OR \"C-nociceptor\" OR \"C nociceptors\" OR \"mechano-insensitive\") AND (lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine) AND (human OR humans OR volunteers OR patients)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 27,
+    "screened": 27,
+    "date_searched": "2026-10-07T06:17:07Z"
+   },
+   {
+    "query": "TITLE_ABS:(microneurography OR \"microneurographic\" OR \"single-fiber recording\" OR \"single-fibre recording\" OR \"single unit recording\" OR \"C-nociceptor\" OR \"C nociceptors\" OR \"mechano-insensitive\") AND TITLE_ABS:(lidocaine OR lignocaine OR \"local anaesthetic\" OR \"local anesthetic\" OR \"local anaesthetics\" OR \"local anesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA) AND TITLE_ABS:(human OR humans OR volunteers OR \"in man\" OR skin)",
+    "engine": "europepmc",
+    "count": 18,
+    "screened": 18,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "23182228",
+    "citation": "Kankel J, Obreja O, Kleggetveit IP, Schmidt R, Jorum E, Schmelz M, Namer B. Differential effects of low dose lidocaine on C-fiber classes in humans. J Pain 2012;13:1232-1241",
+    "matches": "Every element: human volunteers, microneurography recording single cutaneous C-fibres (mechanosensitive and mechanoinsensitive nociceptor classes), before and after an intradermal injection of a local anaesthetic into the receptive field, with conduction velocity, activity-dependent slowing, conduction block and recovery cycles measured.",
+    "misses": "Lidocaine rather than ropivacaine; the injection is at the fibre's receptive field rather than a therapeutic wheal."
+   },
+   {
+    "pmid": "22575571",
+    "citation": "Obreja O, Hirth M, Turnquist B, Rukwied R, Ringkamp M, Schmelz M. The differential effects of two sodium channel modulators on the conductive properties of C-fibers in pig skin in vivo. Anesth Analg 2012;115:560-571",
+    "matches": "Single-fibre extracellular recordings from cutaneous C-fibre classes with lidocaine, lacosamide or saline injected intradermally at the stimulation site - the same experiment in a different species.",
+    "misses": "Pig, not human."
+   },
+   {
+    "pmid": "35834539",
+    "citation": "Landmann G, Stockinger L, Gerber B, Benrath J, Schmelz M, Rukwied R. Local hyperexcitability of C-nociceptors may predict responsiveness to topical lidocaine in neuropathic pain. PLoS One 2022;17:e0271327",
+    "matches": "Human neuropathy patients, C-nociceptor excitability assessed at affected and unaffected skin alongside the analgesic effect of topical lidocaine.",
+    "misses": "Excitability by transcutaneous electrical stimulation rather than single-fibre recording, and topical lidocaine rather than an injected wheal."
+   },
+   {
+    "pmid": "11269917",
+    "citation": "Cooke WH. Topical anesthetic before microneurography decreases pain without affecting sympathetic traffic. Auton Neurosci 2000;86:120-126",
+    "matches": "Human microneurography performed with a topical local anaesthetic applied beforehand.",
+    "misses": "Records efferent muscle sympathetic traffic, not cutaneous afferent C-fibres, and uses topical cream rather than a wheal."
+   }
+  ],
+  "verdict": "refuted",
+  "uncertain": false,
+  "evidence_pmid": "23182228",
+  "quote": "microneurography was used to assess axonal properties of the 2 main nociceptor classes in humans, before and after intradermal injection of lidocaine [dose figure omitted] or control saline solution in the receptive field",
+  "proposed_wording": "Human microneurographic recordings of single cutaneous C-fibres before and after an intradermal local-anaesthetic injection into the receptive field exist (Kankel 2012, PMID 23182228), with the same design in pig skin (Obreja 2012, PMID 22575571); searches found no such recording made during a ropivacaine wheal.",
+  "reason": "Kankel 2012 matches the population (human), the intervention (an intradermal local-anaesthetic injection), the design (microneurography) and the outcome (cutaneous C-fibre recording) that the claim says are absent, and it is the very paper the page names two sentences later as 'the closest thing to the missing experiment'. The experiment has been done; what has not been done is the ropivacaine version. The page's convention at 0.1 already scopes its negatives as search-limited, so the needed correction is to the wording - the drug, not the recording, is the gap.",
+  "needs_full_text": [],
+  "_source_line": 1731,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R021",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "15.7 Papers named but not obtained; Supporting literature collected by Newton 2004 (line 1071)",
+  "claim": "The only paper reporting a direct vasoconstriction/duration correlation",
+  "elements_said_absent": {
+   "population": "any",
+   "intervention": "epinephrine / local anaesthetic",
+   "design": "any",
+   "outcome": "direct vasoconstriction-duration correlation",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\") AND (vasoconstriction OR vasoconstrictor OR \"blood flow\" OR perfusion OR blanching OR pallor) AND (duration) AND (correlation OR correlated OR correlates OR \"related to\" OR relationship) AND (skin OR cutaneous OR intradermal OR subcutaneous OR infiltration OR dermal OR pulpal OR gingival)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 51,
+    "screened": 51,
+    "date_searched": "2026-10-07T06:11:11Z"
+   },
+   {
+    "query": "(epinephrine OR adrenaline OR vasoconstrictor OR felypressin OR levonordefrin) AND (\"pulpal blood flow\" OR \"gingival blood flow\" OR \"skin blood flow\" OR \"cutaneous blood flow\" OR \"nerve blood flow\" OR \"laser Doppler\") AND (\"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\" OR \"duration of action\" OR \"block duration\" OR \"duration of block\" OR \"duration of sensory block\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 27,
+    "screened": 27,
+    "date_searched": "2026-10-07T06:11:35Z"
+   },
+   {
+    "query": "TITLE_ABS:(vasoconstriction OR vasoconstrictor OR \"blood flow\" OR blanching OR pallor) AND TITLE_ABS:(duration) AND TITLE_ABS:(correlation OR correlated OR correlate OR relationship OR \"associated with\") AND TITLE_ABS:(anesthesia OR anaesthesia OR anesthetic OR anaesthetic OR analgesia)",
+    "engine": "europepmc",
+    "count": 135,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "TITLE_ABS:(intradermal OR intracutaneous OR \"skin wheal\" OR \"skin weal\" OR \"intradermally\") AND TITLE_ABS:(\"local anaesthetics\" OR \"local anesthetics\" OR \"local anaesthetic\" OR \"local anesthetic\" OR lignocaine OR lidocaine OR mepivacaine OR prilocaine OR procaine OR bupivacaine) AND TITLE_ABS:(vasoconstrictor OR vasoconstriction OR pallor OR blanching OR vasodilatation OR vasodilation OR \"vascular effects\" OR erythema) AND TITLE_ABS:(volunteers OR subjects OR human OR comparison OR compared)",
+    "engine": "europepmc",
+    "count": 38,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "8519713",
+    "citation": "Liu S, Carpenter RL, Chiu AA, McGill TJ, Mantell SA. Epinephrine prolongs duration of subcutaneous infiltration of local anesthesia in a dose-related manner. Correlation with magnitude of vasoconstriction. Reg Anesth 1995;20:378-384",
+    "matches": "The claim's own source; the title itself states a correlation between duration of subcutaneous infiltration anaesthesia and the magnitude of vasoconstriction.",
+    "misses": "Not read beyond the title and record; subcutaneous infiltration rather than an intradermal wheal."
+   },
+   {
+    "pmid": "4041306",
+    "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011",
+    "matches": "A second paper that reports the vasoactivity-duration relation directly: six local anaesthetics given by intradermal injection to 10 volunteers, double-blind, with vascular effects and duration of action both recorded, and the log dose-duration slopes reported as reflecting the observed vasoactivity.",
+    "misses": "Vasoactivity scored as observed colour change across drugs, not a measured flow magnitude correlated within a drug; no correlation coefficient is reported in the abstract."
+   },
+   {
+    "pmid": "7326166",
+    "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53:1211-1216",
+    "matches": "Also tests the relation in human intradermal wheals: 23 volunteers, double-blind, isomers and racemic mepivacaine across a concentration range plus saline, with colour change and duration of analgesia to pinprick both recorded, and the relation between vasoconstrictor power and duration stated explicitly.",
+    "misses": "Reports the absence of an association rather than a correlation, so it does not itself report a direct vasoconstriction/duration correlation."
+   },
+   {
+    "pmid": "666948",
+    "citation": "Aps C, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of bupivacaine. Br J Clin Pharmacol 1978;6:63-68",
+    "matches": "17 volunteers, double-blind, eight concentrations of each bupivacaine isomer plus saline intradermally, with colour change and duration of analgesia both recorded; the isomer showing a vasoconstrictor effect was also the longer-acting one.",
+    "misses": "The pairing is observed across isomers rather than reported as a correlation."
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": true,
+  "evidence_pmid": "4041306",
+  "quote": "Duration of action was concentration-dependent for all six drugs, the slopes of the log dose--duration plots reflecting the observed vasoactivity.",
+  "proposed_wording": "At least three further human intradermal studies record vasoactivity and duration in the same wheals and report the relation between them (Willatts & Reynolds 1985, PMID 4041306, six drugs, relation positive; Aps & Reynolds 1978, PMID 666948, bupivacaine isomers; Fairley & Reynolds 1981, PMID 7326166, mepivacaine isomers, relation absent); Liu 1995 (PMID 8519713) may remain the only paper correlating a measured magnitude of vasoconstriction with duration.",
+  "reason": "Willatts & Reynolds 1985 measured vasoactivity and duration in the same human wheals and reported the dose-duration slopes as reflecting the observed vasoactivity, so Liu 1995 is not the only paper reporting the relation; Aps 1978 pairs them in the same direction and Fairley 1981 reports them as unassociated. What distinguishes Liu is that it correlates a measured magnitude of vasoconstriction with duration rather than an observed colour change across drugs, so the claim is too broad as written rather than wrong in spirit. Left uncertain because the distinction between a reported correspondence and a reported correlation can only be settled in the Willatts & Reynolds full text, which the page holds.",
+  "needs_full_text": [
+   "Willatts & Reynolds 1985 (PMID 4041306) full text: whether the paper reports a quantified correlation between vasoactivity and duration or only a qualitative correspondence of log dose-duration slopes"
+  ],
+  "_source_line": 3053,
+  "_note": "only-study claim about Liu 1995"
+ },
+ {
+  "claim_id": "W-R022",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "6.5 The finding that matters most for small fibre neuropathy",
+  "claim": "This is the one histological finding in the literature that is selective for the fibre class at issue, and it is not in the previous version of this page at all.",
+  "elements_said_absent": {
+   "population": "any",
+   "intervention": "local anaesthetics",
+   "design": "histological",
+   "outcome": "selectivity for the unmyelinated fibre class",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR lidocaine OR bupivacaine OR ropivacaine OR procaine OR chloroprocaine OR tetracaine OR mepivacaine OR levobupivacaine) AND (unmyelinated OR \"C fibers\" OR \"C fibres\" OR \"C-fibers\" OR \"C-fibres\" OR \"Remak\" OR \"small fibers\" OR \"small fibres\" OR \"intraepidermal\") AND (histology OR histological OR histopathology OR morphometry OR \"electron microscopy\" OR ultrastructural OR degeneration OR \"nerve injury\" OR neurotoxicity)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 114,
+    "screened": 114,
+    "date_searched": "2026-10-07T06:18:05Z"
+   },
+   {
+    "query": "ropivacaine AND (\"Schwann cell\" OR \"Schwann cells\" OR unmyelinated OR \"electron microscopy\" OR ultrastructure OR ultrastructural OR morphometry OR \"nerve fiber\" OR \"nerve fibre\") AND (neurotoxicity OR injury OR damage OR toxicity OR degeneration)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 52,
+    "screened": 52,
+    "date_searched": "2026-10-07T06:18:22Z"
+   },
+   {
+    "query": "TITLE_ABS:(\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR lidocaine OR bupivacaine OR procaine OR chloroprocaine OR tetracaine OR etidocaine OR ropivacaine OR mepivacaine) AND TITLE_ABS:(unmyelinated OR \"C fibers\" OR \"C fibres\" OR \"Schwann cells\") AND TITLE_ABS:(myelinated) AND TITLE_ABS:(histology OR histological OR morphometry OR morphometric OR \"electron microscopy\" OR ultrastructural OR degeneration OR lysis OR injury)",
+    "engine": "europepmc",
+    "count": 6,
+    "screened": 6,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "2746508",
+    "citation": "Kalichman MW, Powell HC, Myers RR. Quantitative histologic analysis of local anesthetic-induced injury to rat sciatic nerve. J Pharmacol Exp Ther 1989;250:406-413",
+    "matches": "The claim's own source; quantitative light-microscopic morphometry plus quantitative electron microscopy of rat sciatic nerve after extraneural injection of four local anaesthetics, reporting a fibre-class difference in Schwann cell response.",
+    "misses": "Rat sciatic, extraneural route, no ropivacaine arm."
+   },
+   {
+    "pmid": "3404978",
+    "citation": "Powell HC, Kalichman MW, Garrett RS, Myers RR. Selective vulnerability of unmyelinated fiber Schwann cells in nerves exposed to local anesthetics. Lab Invest 1988;59:271-280",
+    "matches": "A second, earlier histological study whose whole subject is the same fibre-class selectivity: rat sciatic nerves exposed to four local anaesthetics, light and electron microscopy of perineurium and endoneurium plus thymidine-incorporation autoradiography, concluding that unmyelinated-fibre Schwann cells are the more vulnerable class.",
+    "misses": "Also rat sciatic and no ropivacaine arm; same research group as the 1989 paper, though a separate publication in a different journal."
+   }
+  ],
+  "verdict": "refuted",
+  "uncertain": false,
+  "evidence_pmid": "3404978",
+  "quote": "that Schwann cells of small unmyelinated fibers are more vulnerable to these agents than those of myelinated fibers",
+  "proposed_wording": "A second histological study of local-anaesthetic exposure reports selectivity for the unmyelinated fibre class and is titled for it (Powell, Kalichman, Garrett & Myers 1988, PMID 3404978, rat sciatic nerve, light and electron microscopy with autoradiography), alongside Kalichman 1989 (PMID 2746508).",
+  "reason": "The claim says this is the one histological finding in the literature selective for the fibre class at issue. Powell 1988 is a separate published histological study, in a different journal and a year earlier, whose stated conclusion is that unmyelinated-fibre Schwann cells are more vulnerable than myelinated-fibre ones - the same selectivity, independently reported, and absent from the page. It shares the group, species and route with Kalichman 1989, so the finding is replicated rather than contradicted; the page's convention at 0.1 means the fix is to say 'the finding is reported in two papers from this group' rather than 'the one finding in the literature'.",
+  "needs_full_text": [],
+  "_source_line": 1902,
+  "_note": "only-study claim about Kalichman 1989"
+ },
+ {
+  "claim_id": "W-R023",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "6.7 The human measurement",
+  "claim": "It is nonetheless the only measurement in humans of what prolonged local-anaesthetic exposure does to the fibres at issue, and it went the wrong way.",
+  "elements_said_absent": {
+   "population": "humans",
+   "intervention": "prolonged local-anaesthetic exposure",
+   "design": "any",
+   "outcome": "epidermal nerve fibre density",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine OR \"lidocaine patch\" OR \"lidocaine plaster\") AND (\"intraepidermal nerve fiber\" OR \"intraepidermal nerve fibre\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"IENFD\" OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"skin innervation\" OR \"cutaneous innervation\" OR \"PGP9.5\" OR \"PGP 9.5\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 265,
+    "screened": 200,
+    "date_searched": "2026-10-07T06:18:36Z"
+   },
+   {
+    "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine) AND (\"intraepidermal nerve\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"epidermal nerve fibers\" OR \"epidermal nerve fibres\" OR IENFD OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"PGP9.5\" OR \"PGP 9.5\" OR \"protein gene product 9.5\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 21,
+    "screened": 21,
+    "date_searched": "2026-10-07T06:18:47Z"
+   },
+   {
+    "query": "TITLE_ABS:(lidocaine OR lignocaine OR \"local anaesthetic\" OR \"local anesthetic\" OR bupivacaine OR ropivacaine OR prilocaine OR EMLA OR \"lidocaine patch\" OR \"lidocaine plaster\") AND TITLE_ABS:(\"intraepidermal nerve fiber\" OR \"intraepidermal nerve fibre\" OR \"epidermal nerve fiber density\" OR \"epidermal nerve fibre density\" OR IENFD OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"skin innervation\") AND TITLE_ABS:(volunteers OR human OR humans OR patients)",
+    "engine": "europepmc",
+    "count": 6,
+    "screened": 6,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "TITLE_ABS:(lidocaine OR lignocaine OR \"local anaesthetic\" OR \"local anesthetic\" OR ropivacaine OR bupivacaine OR mepivacaine OR prilocaine) AND TITLE_ABS:(\"skin biopsy\" OR \"skin biopsies\" OR \"nerve fiber\" OR \"nerve fibre\" OR \"nerve fibers\" OR \"nerve fibres\" OR innervation OR \"PGP 9.5\" OR \"PGP9.5\" OR \"blister\") AND TITLE_ABS:(volunteers OR healthy OR human OR humans) AND TITLE_ABS:(days OR weeks OR prolonged OR repeated OR continuous OR chronic OR \"long-term\" OR \"long term\")",
+    "engine": "europepmc",
+    "count": 30,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "21530339",
+    "citation": "Wehrfritz A, Namer B, Ihmsen H, Mueller C, Filitz J, Koppert W, Leffler A. Differential effects on sensory functions and measures of epidermal nerve fiber density after application of a lidocaine patch (5%) on healthy human skin. Eur J Pain 2011;15:907-912",
+    "matches": "The claim's own source; randomised double-blind, healthy volunteers, 42 days of lidocaine patch against placebo patch, quantitative sensory testing and epidermal nerve fibre density in skin blister roofs.",
+    "misses": "Topical patch on intact skin rather than an injected wheal; healthy skin."
+   },
+   {
+    "pmid": "1736693",
+    "citation": "Sjoberg M, Karlsson PA, Nordborg C, Wallgren A, Nitescu P, Appelgren L, Linder LE, Curelaru I. Neuropathologic findings after long-term intrathecal infusion of morphine and bupivacaine mixtures for pain treatment in cancer patients. Anesthesiology 1992;76:173-186",
+    "matches": "A human measurement of what prolonged local-anaesthetic exposure does to nerve tissue: 15 patients, 4 to 274 days of intrathecal bupivacaine-containing infusion, with neuropathological examination of meninges, nerve roots and spinal cord recorded alongside clinical neurological deficits.",
+    "misses": "Spinal nerve roots and cord, not cutaneous small fibres, and no fibre-density count; the infusate was a mixture with morphine and preservatives and most patients had prior radiotherapy, antineoplastics or pre-existing deficits."
+   },
+   {
+    "pmid": "23887198",
+    "citation": "Bischoff JM, Petersen M, Uceyler N, Sommer C, Kehlet H, Werner MU. Lidocaine patch (5%) in treatment of persistent inguinal postherniorrhaphy pain: a randomized, double-blind, placebo-controlled, crossover trial. Anesthesiology 2013;119:1444-1452",
+    "matches": "Human, 14-day lidocaine patch periods, intraepidermal nerve fibre density assessed by skin biopsy.",
+    "misses": "The biopsies were taken at baseline only, so the trial measures no effect of the exposure on fibre density."
+   },
+   {
+    "pmid": "23933232",
+    "citation": "Knolle E, Zadrazil M, Kovacs GG, Medwed S, Scharbert G, Schemper M. Comparison of cooling and EMLA to reduce the burning pain during capsaicin 8% patch application: a randomized, double-blind, placebo-controlled study. Pain 2013;154:2729-2736",
+    "matches": "Human volunteers, epidermal nerve fibre density measured after patch application, with a local-anaesthetic cream arm.",
+    "misses": "The fibre-density change is caused by capsaicin; the local anaesthetic was applied for an hour as a pretreatment, so this is not prolonged local-anaesthetic exposure."
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": false,
+  "evidence_pmid": "1736693",
+  "quote": "The pathologic findings of the spinal column, the meninges, the nerve roots, and the spinal cord, and the clinical neurologic deficits were recorded in 15 patients (5 men and 10 women), aged 26-83 (median 68) yr, treated for 4-274 (median 81) days with intrathecal infusions of morphine (with preservatives [sodium metabisulfite and sodium edetate]) and bupivacaine mixtures, given through open, subcutaneously tunneled nylon catheters.",
+  "proposed_wording": "Wehrfritz 2011 (PMID 21530339) appears to be the only human study measuring epidermal nerve fibre density after prolonged local-anaesthetic exposure; a separate human study records neuropathological findings in nerve roots and spinal cord after months of intrathecal bupivacaine-containing infusion (Sjoberg 1992, PMID 1736693).",
+  "reason": "Within the claim's recorded outcome - epidermal nerve fibre density - searches found no second human study, so the core of the claim holds. It is too broad as 'the only measurement in humans of what prolonged local-anaesthetic exposure does to the fibres at issue', because Sjoberg 1992 is a human study of months-long local-anaesthetic exposure with a nerve-tissue histological endpoint, in nerve roots rather than cutaneous small fibres and with morphine, preservatives and prior oncological treatment confounding it. Adding 'to cutaneous small fibres' or 'to epidermal nerve fibre density' makes the sentence exact.",
+  "needs_full_text": [],
+  "_source_line": 1924,
+  "_note": "only-study claim about Wehrfritz 2011"
+ },
+ {
+  "claim_id": "W-R024",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "9.1 The intradermal experiment, in humans",
+  "claim": "It is the single most transferable mixing result available — the only one in the right tissue by the right route.",
+  "elements_said_absent": {
+   "population": "human skin",
+   "intervention": "ester plus amide mixture",
+   "design": "intradermal, double-blind",
+   "outcome": "block duration",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(mixture OR mixtures OR mixed OR combination OR combined OR admixture) AND (intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"skin wheal\" OR \"skin wheals\" OR intracutaneous) AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR tetracaine OR amethocaine OR chloroprocaine OR procaine OR etidocaine OR articaine) AND (duration OR \"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 29,
+    "screened": 29,
+    "date_searched": "2026-10-07T06:19:52Z"
+   },
+   {
+    "query": "(chloroprocaine OR procaine OR tetracaine OR amethocaine OR benzocaine OR \"ester local anesthetic\" OR \"ester-type\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR etidocaine OR articaine) AND (mixture OR mixtures OR mixed OR combination OR combined OR admixture) AND (intradermal OR intradermally OR skin OR cutaneous OR infiltration OR subcutaneous OR wheal)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 154,
+    "screened": 153,
+    "date_searched": "2026-10-07T06:20:05Z"
+   },
+   {
+    "query": "mixture of chloroprocaine and bupivacaine intradermal human volunteers duration of anesthesia double-blind",
+    "engine": "amass",
+    "count": 30,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "TITLE_ABS:(mixture OR mixtures OR mixed OR combination OR admixture) AND TITLE_ABS:(intradermal OR intracutaneous OR \"skin wheal\" OR \"skin weal\" OR \"skin infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\") AND TITLE_ABS:(duration) AND TITLE_ABS:(chloroprocaine OR procaine OR tetracaine OR amethocaine OR benzocaine OR ester OR esters)",
+    "engine": "europepmc",
+    "count": 1,
+    "screened": 1,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "intradermal injection healthy volunteers comparison of local anaesthetic agents duration of skin analgesia wheal",
+    "engine": "amass",
+    "count": 30,
+    "screened": 30,
+    "date_searched": "2026-10-08T00:00:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "573558",
+    "citation": "Kim JM, Goto H, Arakawa K. Duration of bupivacaine intradermal anesthesia when the bupivacaine is mixed with chloroprocaine. Anesth Analg 1979;58:364-366",
+    "matches": "The claim's own source - double-blind, 20 human volunteers, intradermal, an ester-plus-amide mixture against each agent alone, duration of intradermal anaesthesia as the endpoint. Not read beyond this record, as another worker is reading the paper.",
+    "misses": "Nothing within the claim's scope."
+   },
+   {
+    "pmid": "6751499",
+    "citation": "Duration of intradermal anaesthesia with mixtures of bupivacaine and lidocaine. Can Anaesth Soc J 1982",
+    "matches": "The nearest second study by design: double-blind, 20 human volunteers, intradermal, mixtures against a single agent, duration of intradermal anaesthesia as the endpoint.",
+    "misses": "Both components are amides (bupivacaine with carbonated lidocaine or lidocaine hydrochloride), so it is not an ester-plus-amide mixture."
+   },
+   {
+    "pmid": "7191228",
+    "citation": "Galindo A, Witcher T. Mixtures of local anesthetics: bupivacaine-chloroprocaine. Anesth Analg 1980;59",
+    "matches": "The same ester-plus-amide mixture with a block-characteristics endpoint and an explicit pH manipulation.",
+    "misses": "Isolated rat sciatic nerve preparation, not human skin and not an intradermal route."
+   },
+   {
+    "pmid": "11091131",
+    "citation": "Grant GJ, Piskoun B, Lin A, Bansinath M. An in vivo method for the quantitative evaluation of local anesthetics. J Pharmacol Toxicol Methods 2000",
+    "matches": "Infiltration anaesthesia with an amide and an ester compared, with duration as the endpoint.",
+    "misses": "Mouse model, subcutaneous abdominal injection, and the two agents are compared separately rather than mixed."
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "",
+  "quote": "",
+  "proposed_wording": "Not found in searches of Europe PMC and Amass BiomedCore, and of an earlier worker's PubMed searches, through October 2026: no second study measuring an ester-plus-amide local-anaesthetic mixture by the intradermal route in humans with a duration endpoint. The nearest second study mixes two amides intradermally in volunteers (PMID 6751499); the same ester-plus-amide pair has been studied in isolated rat sciatic nerve (PMID 7191228).",
+  "reason": "A Europe PMC title/abstract search combining mixture terms, intradermal terms, duration and ester-agent names returned exactly one record, Kim 1979 itself; two broader topic searches and two reused PubMed searches turned up no other human intradermal ester-plus-amide mixture study. Everything adjacent fails one element: PMID 6751499 is amide-plus-amide, PMID 7191228 is an isolated nerve, PMID 11091131 is a mouse with unmixed agents. The page's convention at 0.1 already scopes this as search-limited, which is the right framing to keep.",
+  "needs_full_text": [],
+  "_source_line": 1991,
+  "_note": "only-study claim about Kim 1979"
+ }
+]
