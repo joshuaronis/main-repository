@@ -240,11 +240,49 @@ def main():
     # ---- papers_status.csv ---------------------------------------------
     cols = ["paper_id", "right_paper", "text_ok", "own_question_answered",
             "claims_rejudged", "notion_findings", "notes"]
-    rows = []
+    rows, byid = [], {}
     for f in sorted(glob.glob(f"{P}/*_status.json")):
         d = load(f)
         if isinstance(d, dict):
-            rows.append({c: d.get(c, "") for c in cols})
+            r = {c: d.get(c, "") for c in cols}
+            rows.append(r)
+            byid[r["paper_id"]] = r
+    # a *_status2.json records a second pass over a paper whose earlier steps were
+    # done elsewhere (steps D and E for the two scanned papers); fold it into the row
+    for f in sorted(glob.glob(f"{P}/*_status2.json")):
+        d = load(f)
+        if not isinstance(d, dict):
+            continue
+        r = byid.get(d.get("paper_id"))
+        if r is None:
+            r = {c: "" for c in cols}
+            r["paper_id"] = d.get("paper_id", "")
+            rows.append(r)
+            byid[r["paper_id"]] = r
+        for k in ("claims_rejudged", "notion_findings"):
+            try:
+                r[k] = int(r.get(k) or 0) + int(d.get(k) or 0)
+            except (TypeError, ValueError):
+                pass
+        r["notes"] = (str(r.get("notes") or "").rstrip(". ")
+                      + f". Second pass ({d.get('steps','D+E')}): {d.get('notes','')}").strip(". ")
+    # Workers sometimes put prose where the column wants a word or a count.
+    # Coerce the shape and push the prose into notes rather than losing it.
+    OK = {"yes", "partly", "no", ""}
+    for r in rows:
+        v = str(r.get("own_question_answered") or "").strip()
+        if v.lower() not in OK:
+            first = v.lower().split()[0].strip(".,;:()") if v.split() else ""
+            r["own_question_answered"] = first if first in OK else "see notes"
+            r["notes"] = f"own_question_answered (as written): {v} | " + str(r.get("notes") or "")
+        for k in ("claims_rejudged", "notion_findings"):
+            v = str(r.get(k) or "").strip()
+            if v and not v.isdigit():
+                m = re.match(r"\s*(\d+)", v)
+                r[k] = m.group(1) if m else ""
+                r["notes"] = f"{k} (as written): {v} | " + str(r.get("notes") or "")
+        r["notes"] = re.sub(r"\s+", " ", str(r.get("notes") or "")).strip()
+
     with open(f"{R}/papers_status.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=cols)
         w.writeheader()

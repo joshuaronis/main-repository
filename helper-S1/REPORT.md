@@ -44,8 +44,8 @@ out to be exactly right: both citation-standing claims tested here failed.
   - left uncertain: 1
   - **7 further claims counted but not written out**, because their subject is a dose ceiling, a toxicity threshold, or how to mix, buffer or dilute a solution: Ropivacaine Wheals 3; mepivacaine-wheals 1; bupivacaine-wheals 3
 - **Extra studies recorded: 55**, found through the papers' reference lists and discussions.
-- **Notion findings: 114** — **38 high**, **62 medium**, **14 low**.
-  - by kind: 27 overstated, 23 understated, 17 now-verified, 15 open-question-answered, 11 outdated, 10 wrong-figure, 8 ranking-reweigh, 2 citation-error, 1 wrong-design
+- **Notion findings: 132** — **43 high**, **73 medium**, **16 low**.
+  - by kind: 31 overstated, 25 understated, 19 open-question-answered, 19 now-verified, 13 wrong-figure, 11 outdated, 8 ranking-reweigh, 3 wrong-design, 3 citation-error
 
 ### The three wheal pages
 
@@ -69,7 +69,7 @@ out to be exactly right: both citation-standing claims tested here failed.
 - **S-686-33 — Tajiri K, Takahashi K, Ikeda K, Tomita K. Common Peroneal Nerve Block for Sciatica. Clin Orthop Relat Res 1998;347:203-207** · own question: yes · 1 claims re-judged · 4 Notion findings.
 - **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: yes · 5 claims re-judged, 2 changed · 11 Notion findings.
 - **S-686-39 — Wightman MA, Vaughan RW. Comparison of Compounds Used for Intradermal Anesthesia. Anesthesiology 1976;45(6):687-689** · own question: yes · 2 claims re-judged, 1 changed · 17 Notion findings.
-- **S-686-40 — Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011** · own question: ? · 15 claims re-judged, 5 changed · 0 Notion findings.
+- **S-686-40 — Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011** · own question: ? · 15 claims re-judged, 5 changed · 18 Notion findings.
 
 ## 4. Every verdict change
 
@@ -131,7 +131,7 @@ out to be exactly right: both citation-standing claims tested here failed.
 | W-R030 | Ropivacaine Wheals | narrowed | Judged inside the bullet's own scope - continuous infiltration of incised subcutaneous tissue - the claim holds: the rat wound study and the animal wo |
 | W-R031 | Ropivacaine Wheals | narrowed | Within the claim's intervention element - a local anaesthetic wheal - nothing found separates the drug's flare suppression from the needle's own flare |
 
-## 5. High-importance Notion findings (38)
+## 5. High-importance Notion findings (43)
 
 - **S1-F001 · Comparing the injectable local anesthetics for intradermal wheals › The comparison itself / the ranking rationale - 'For a second option, and the drug to beat: plain lidocaine, already in the syringe'** — *overstated*, from S-686-04. This is a uniqueness statement inside the sentence that ranks plain lidocaine as the drug to beat, so part of the ordering rests on it
 - **S1-F002 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › The second reversal: bupivacaine** — *wrong-figure*, from S-686-14. The paper's abstract says only that the mixture was 'similar to' chloroprocaine alone; the page upgrades that to a null result, which the Results section contradicts
@@ -171,6 +171,11 @@ out to be exactly right: both citation-standing claims tested here failed.
 - **S1-F036 · Procaine / Novocaine › Where procaine sits against the other candidates (ranking table, injection pain row)** — *wrong-figure*, from S-686-39. The cell says the figure does not exist
 - **S1-F037 · Procaine / Novocaine › The ester question** — *ranking-reweigh*, from S-686-39. The page reads a single reassuring dataset as showing that the ester group's measured record is better than its reputation, and that reading feeds the 'gentlest' entries in its own ranking t
 - **S1-F038 · Comparing the injectable local anesthetics for intradermal wheals › What ranks where (ranking table, procaine row, injection pain column)** — *wrong-figure*, from S-686-39. The same wrong cell as on the procaine page, in this page's own ranking table
+- **S1-F039 · Procaine / Novocaine › What has no source** — *open-question-answered*, from S-686-40. The full text has no results table at all; figure 3 is the only per-concentration presentation
+- **S1-F040 · Relief that outlasts the block — and whether the whole list is optimising the wrong thing › Sources › What has no source** — *open-question-answered*, from S-686-40. This is the claim D039 was raised against; it is now refuted
+- **S1-F041 · What is still unsettled across these pages, and what would settle each one › The absolute intradermal durations for six agents at three strengths each (and its 'what would settle it')** — *open-question-answered*, from S-686-40. Method: page 5 of the PDF rendered at 400 dpi, both axes calibrated on their printed tick labels (10 min = 245 px), marker centres located by pixel width profile
+- **S1-F042 · mepivacaine-wheals › Sources › Skin: vessels and duration (Willatts annotation, Limits)** — *wrong-design*, from S-686-40. This is the sentence that created the cross-page disagreement recorded in Health Pages - Meta
+- **S1-F043 · Three disagreements between Health Pages found in the 2026-09-26 cross-check could not be settled from any source reachable that day (Health Pages - Meta) › Evidence / Receipt — item (3), whether two mepivacaine wheal studies measured the same thing** — *open-question-answered*, from S-686-40. This settles item (3) of the row from the Willatts side; Fairley's endpoint is taken from its abstract (analgesia to pinprick tested at 5-min intervals until full recovery, log dose-duration
 
 
 ## 6. Problems

@@ -609,6 +609,86 @@
  },
  {
   "finding_id": "S1-F039",
+  "paper_id": "S-686-40",
+  "page": "Procaine / Novocaine",
+  "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
+  "page_version": "2026-09-26T18:25:29.323Z",
+  "section": "What has no source",
+  "sentence_as_it_stands": "Procaine's absolute intradermal duration at each concentration. The six-drug study published log-dose–duration slopes and the single statement that everything had recovered by 80 minutes. It did not publish the mean minutes at [dose figures omitted]. What would settle it: the results table in Br J Anaesth 1985;57(10):1006–11, which was not read.",
+  "kind": "open-question-answered",
+  "quote": "FIG. 3. Mean duration of action (expressed as time to 50% recovery) for each of the six local anaesthetic agents tested, n = 10 for each point. Vertical bars represent SEM.",
+  "page_in_paper": 5,
+  "corrected_wording": "Procaine's absolute intradermal duration at each concentration is in the paper, in figure 3 rather than in a table: the figure plots the mean time to 50% recovery against concentration on a logarithmic scale for each of the six agents, n = 10 per point with SEM bars. Read off that figure, procaine gives about 18 min at its highest concentration and about 7 min at each of the two lower ones, the two lower points joined by a flat segment.",
+  "importance": "high",
+  "notes": "The full text has no results table at all; figure 3 is the only per-concentration presentation. The figure was read by rendering page 5 of the PDF at 400 dpi and calibrating both axes on their printed tick labels; the marker centre for procaine's highest concentration sits at 18.3 min (symbol spanning about 17.6-18.7 min) with its SEM bar running down to about 16.8 min, and the two lower points at 6.85 and 6.81 min. Cross-check: a least-squares line through those three read values gives 11.6 min per log unit of concentration against the paper's own printed procaine slope of 11.41 +/- 2.31, so the read is consistent with the paper's published statistic. The page's one-hour placeholder for a procaine wheal looks high against this.",
+  "worker_finding_id": "S-686-40-F001"
+ },
+ {
+  "finding_id": "S1-F040",
+  "paper_id": "S-686-40",
+  "page": "Relief that outlasts the block — and whether the whole list is optimising the wrong thing",
+  "page_url": "https://app.notion.com/p/3d310b7903aa811cb51bcca149b3de73",
+  "page_version": "2026-10-02T03:14:06.492Z",
+  "section": "Sources › What has no source",
+  "sentence_as_it_stands": "How long a procaine wheal actually numbs skin at the concentration and volume he uses. The exposure arithmetic on this page is worked with a stated one-hour placeholder precisely because that number does not exist. No human intradermal duration study reports plain procaine at [dose figure omitted] at a defined volume in a defined site.",
+  "kind": "open-question-answered",
+  "quote": "FIG. 3. Mean duration of action (expressed as time to 50% recovery) for each of the six local anaesthetic agents tested, n = 10 for each point. Vertical bars represent SEM.",
+  "page_in_paper": 5,
+  "corrected_wording": "A human intradermal duration study does report plain procaine at that concentration at a defined volume and in a defined site. Willatts and Reynolds 1985 (PMID 4041306) gave double-blind intradermal injections of a defined volume on the flexor surface of both forearms in 10 volunteers and plotted the mean time to 50% recovery against concentration for procaine and five comparators (figure 3, n = 10 per point, SEM bars), reporting that complete recovery from all injections had occurred by 80 min. Procaine's highest concentration reads about 18 min to half recovery off that figure.",
+  "importance": "high",
+  "notes": "This is the claim D039 was raised against; it is now refuted. The exposure arithmetic elsewhere on the page uses a one-hour placeholder, which is roughly three times the half-recovery time this figure gives for procaine, so anything resting on that placeholder is worth re-working. Caveat for the record: every solution in the study carried sodium metabisulphite, which the authors say inflated the control's vasodilatation and may have affected durations.",
+  "worker_finding_id": "S-686-40-F003"
+ },
+ {
+  "finding_id": "S1-F041",
+  "paper_id": "S-686-40",
+  "page": "What is still unsettled across these pages, and what would settle each one",
+  "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
+  "page_version": "2026-09-26T18:23:10.973Z",
+  "section": "The absolute intradermal durations for six agents at three strengths each (and its 'what would settle it')",
+  "sentence_as_it_stands": "The absolute intradermal durations for six agents at three strengths each. Only slopes are published; the means exist inside a figure nobody has digitised.",
+  "kind": "open-question-answered",
+  "quote": "FIG. 3. Mean duration of action (expressed as time to 50% recovery) for each of the six local anaesthetic agents tested, n = 10 for each point. Vertical bars represent SEM.",
+  "page_in_paper": 5,
+  "corrected_wording": "The figure has now been digitised for procaine, and the other five series were read in the course of identifying it. Reading figure 3 at its printed axis calibration, the mean time to 50% recovery is: procaine about 7, 7 and 18 min across its three strengths; amethocaine about 6, 13 and 18; cinchocaine about 5, 18 and 25; lignocaine about 5, 14 and 24; prilocaine about 2, 12 and 24; mepivacaine about 7, 20 and 38. The maximum point anywhere on the figure is mepivacaine's highest strength at about 38 min.",
+  "importance": "high",
+  "notes": "Method: page 5 of the PDF rendered at 400 dpi, both axes calibrated on their printed tick labels (10 min = 245 px), marker centres located by pixel width profile. Each series was checked against the paper's own published slope: the least-squares slope through each set of three read points reproduces the printed value within its SEM for all six (procaine 11.6 v 11.41, amethocaine 12.2 v 12.77, cinchocaine 20.8 v 21.05, lignocaine 18.4 v 18.47, prilocaine 22.6 v 22.70, mepivacaine 31.6 v 31.12). The procaine and mepivacaine figures are the firmest; the 0.33-strength cluster of the three amides overlaps on the plot, so the middle lignocaine, prilocaine and mepivacaine values are the least certain of the set and are given to the nearest minute at best. These are figure reads, not published numbers, and should be labelled as such wherever they are used.",
+  "worker_finding_id": "S-686-40-F004"
+ },
+ {
+  "finding_id": "S1-F042",
+  "paper_id": "S-686-40",
+  "page": "mepivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "page_version": "2026-10-02T03:14:08.315Z",
+  "section": "Sources › Skin: vessels and duration (Willatts annotation, Limits)",
+  "sentence_as_it_stands": "the slope is a different quantity from Fairley's 16.0 minutes per tenfold, which was fitted over a different concentration range on a half-recovery endpoint, so the two numbers are not rival estimates of one thing",
+  "kind": "wrong-design",
+  "quote": "the time of 50% … recovery was taken as the time at which the … sharpness score reached 5 out of 10.",
+  "page_in_paper": 2,
+  "corrected_wording": "Both slopes were fitted on the same half-recovery endpoint and over effectively the same concentration range, so the two numbers are rival estimates of one quantity. Willatts and Reynolds took the time of 50% recovery as the time at which the pinprick sharpness score reached 5 out of 10, and regressed log concentration against that duration for each drug in each subject; Fairley and Reynolds used the same pinprick half-recovery endpoint and fitted the straight part of their curve over a range whose upper end is only marginally below Willatts' top strength.",
+  "importance": "high",
+  "notes": "This is the sentence that created the cross-page disagreement recorded in Health Pages - Meta. The full text shows the wheal-literature page's reading was the right one. Genuine differences remain that could explain the numerical gap without making the quantities different: 10 subjects against 23; three concentration points against a wider ladder; racemic mepivacaine alone against both isomers and the racemate; and sodium metabisulphite in every Willatts solution. Quote is the Willatts endpoint definition (page 2); the regression method is on the same page - 'GLIM3 linear modelling computer program ... was used to calculate the slopes of the linear regression lines of log concentration v. duration of action for each drug in each subject'.",
+  "worker_finding_id": "S-686-40-F005"
+ },
+ {
+  "finding_id": "S1-F043",
+  "paper_id": "S-686-40",
+  "page": "Three disagreements between Health Pages found in the 2026-09-26 cross-check could not be settled from any source reachable that day (Health Pages - Meta)",
+  "page_url": "https://app.notion.com/p/3e710b7903aa81ee89dfcd390badff5a",
+  "page_version": "2026-10-01T09:10:20.145Z",
+  "section": "Evidence / Receipt — item (3), whether two mepivacaine wheal studies measured the same thing",
+  "sentence_as_it_stands": "WHAT WOULD SETTLE IT: the Methods of both papers, giving the endpoint and the concentrations each slope was fitted on. If they match, the two slopes are differing estimates of one quantity and 'mepivacaine-wheals' should say so; the subject-level data behind both fits, which the wheal-literature page names, is not published.",
+  "kind": "open-question-answered",
+  "quote": "GLIM3 linear modelling computer program … (Baker and Nelder, 1978) was used to calculate the … slopes of the linear regression lines of log … concentration v. duration of action for each drug … in each subject",
+  "page_in_paper": 2,
+  "corrected_wording": "The Methods of Willatts and Reynolds 1985 have now been read. Its endpoint is the time to 50% recovery of pinprick sharpness, the same half-recovery endpoint as Fairley and Reynolds 1981, and its slope was fitted by linear regression of log concentration against that duration, for each drug in each subject, over a range whose lower bound matches Fairley's and whose upper bound is marginally higher. The endpoint and the fitting range match, so the two slopes are differing estimates of one quantity and 'mepivacaine-wheals' should say so.",
+  "importance": "high",
+  "notes": "This settles item (3) of the row from the Willatts side; Fairley's endpoint is taken from its abstract (analgesia to pinprick tested at 5-min intervals until full recovery, log dose-duration curve linear over the straight middle of its range) and from the description already on 'mepivacaine-wheals'. The subject-level data behind either fit is still unpublished, so the size of the gap between 16.0 and 31.12 remains unexplained; the candidates are the different subject numbers, the three-point fit, the racemate-only design and the metabisulphite vehicle.",
+  "worker_finding_id": "S-686-40-F006"
+ },
+ {
+  "finding_id": "S1-F044",
   "paper_id": "S-686-04",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -624,7 +704,7 @@
   "worker_finding_id": "S-686-04-F002"
  },
  {
-  "finding_id": "S1-F040",
+  "finding_id": "S1-F045",
   "paper_id": "S-686-04",
   "page": "💉 Lidocaine With Epinephrine Wheals",
   "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
@@ -640,7 +720,7 @@
   "worker_finding_id": "S-686-04-F003"
  },
  {
-  "finding_id": "S1-F041",
+  "finding_id": "S1-F046",
   "paper_id": "S-686-14",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -656,7 +736,7 @@
   "worker_finding_id": "S-686-14-F003"
  },
  {
-  "finding_id": "S1-F042",
+  "finding_id": "S1-F047",
   "paper_id": "S-686-14",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -672,7 +752,7 @@
   "worker_finding_id": "S-686-14-F005"
  },
  {
-  "finding_id": "S1-F043",
+  "finding_id": "S1-F048",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -688,7 +768,7 @@
   "worker_finding_id": "S-686-14-F006"
  },
  {
-  "finding_id": "S1-F044",
+  "finding_id": "S1-F049",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -704,7 +784,7 @@
   "worker_finding_id": "S-686-14-F007"
  },
  {
-  "finding_id": "S1-F045",
+  "finding_id": "S1-F050",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -720,7 +800,7 @@
   "worker_finding_id": "S-686-14-F008"
  },
  {
-  "finding_id": "S1-F046",
+  "finding_id": "S1-F051",
   "paper_id": "S-686-14",
   "page": "Injectables ruled out but not tried",
   "page_url": "https://app.notion.com/p/3d310b7903aa81fca5adcc979f03c0d5",
@@ -736,7 +816,7 @@
   "worker_finding_id": "S-686-14-F009"
  },
  {
-  "finding_id": "S1-F047",
+  "finding_id": "S1-F052",
   "paper_id": "S-686-14",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -752,7 +832,7 @@
   "worker_finding_id": "S-686-14-F010"
  },
  {
-  "finding_id": "S1-F048",
+  "finding_id": "S1-F053",
   "paper_id": "S-686-14",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -768,7 +848,7 @@
   "worker_finding_id": "S-686-14-F011"
  },
  {
-  "finding_id": "S1-F049",
+  "finding_id": "S1-F054",
   "paper_id": "S-686-16",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -784,7 +864,7 @@
   "worker_finding_id": "S-686-16-F001"
  },
  {
-  "finding_id": "S1-F050",
+  "finding_id": "S1-F055",
   "paper_id": "S-686-16",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -800,7 +880,7 @@
   "worker_finding_id": "S-686-16-F002"
  },
  {
-  "finding_id": "S1-F051",
+  "finding_id": "S1-F056",
   "paper_id": "S-686-17",
   "page": "The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -816,7 +896,7 @@
   "worker_finding_id": "S-686-17-F003"
  },
  {
-  "finding_id": "S1-F052",
+  "finding_id": "S1-F057",
   "paper_id": "S-686-17",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -832,7 +912,7 @@
   "worker_finding_id": "S-686-17-F004"
  },
  {
-  "finding_id": "S1-F053",
+  "finding_id": "S1-F058",
   "paper_id": "S-686-17",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -848,7 +928,7 @@
   "worker_finding_id": "S-686-17-F006"
  },
  {
-  "finding_id": "S1-F054",
+  "finding_id": "S1-F059",
   "paper_id": "S-686-20",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -864,7 +944,7 @@
   "worker_finding_id": "S-686-20-F002"
  },
  {
-  "finding_id": "S1-F055",
+  "finding_id": "S1-F060",
   "paper_id": "S-686-20",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -880,7 +960,7 @@
   "worker_finding_id": "S-686-20-F004"
  },
  {
-  "finding_id": "S1-F056",
+  "finding_id": "S1-F061",
   "paper_id": "S-686-20",
   "page": "Procaine / Novocaine",
   "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
@@ -896,7 +976,7 @@
   "worker_finding_id": "S-686-20-F005"
  },
  {
-  "finding_id": "S1-F057",
+  "finding_id": "S1-F062",
   "paper_id": "S-686-20",
   "page": "Procaine / Novocaine",
   "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
@@ -912,7 +992,7 @@
   "worker_finding_id": "S-686-20-F006"
  },
  {
-  "finding_id": "S1-F058",
+  "finding_id": "S1-F063",
   "paper_id": "S-686-20",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -928,7 +1008,7 @@
   "worker_finding_id": "S-686-20-F007"
  },
  {
-  "finding_id": "S1-F059",
+  "finding_id": "S1-F064",
   "paper_id": "S-686-20",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -944,7 +1024,7 @@
   "worker_finding_id": "S-686-20-F008"
  },
  {
-  "finding_id": "S1-F060",
+  "finding_id": "S1-F065",
   "paper_id": "S-686-20",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -960,7 +1040,7 @@
   "worker_finding_id": "S-686-20-F009"
  },
  {
-  "finding_id": "S1-F061",
+  "finding_id": "S1-F066",
   "paper_id": "S-686-20",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -976,7 +1056,7 @@
   "worker_finding_id": "S-686-20-F010"
  },
  {
-  "finding_id": "S1-F062",
+  "finding_id": "S1-F067",
   "paper_id": "S-686-20",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -992,7 +1072,7 @@
   "worker_finding_id": "S-686-20-F011"
  },
  {
-  "finding_id": "S1-F063",
+  "finding_id": "S1-F068",
   "paper_id": "S-686-20",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1008,7 +1088,7 @@
   "worker_finding_id": "S-686-20-F013"
  },
  {
-  "finding_id": "S1-F064",
+  "finding_id": "S1-F069",
   "paper_id": "S-686-24",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1024,7 +1104,7 @@
   "worker_finding_id": "S-686-24-F004"
  },
  {
-  "finding_id": "S1-F065",
+  "finding_id": "S1-F070",
   "paper_id": "S-686-24",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1040,7 +1120,7 @@
   "worker_finding_id": "S-686-24-F005"
  },
  {
-  "finding_id": "S1-F066",
+  "finding_id": "S1-F071",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1056,7 +1136,7 @@
   "worker_finding_id": "S-686-25-F004"
  },
  {
-  "finding_id": "S1-F067",
+  "finding_id": "S1-F072",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1072,7 +1152,7 @@
   "worker_finding_id": "S-686-25-F005"
  },
  {
-  "finding_id": "S1-F068",
+  "finding_id": "S1-F073",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1088,7 +1168,7 @@
   "worker_finding_id": "S-686-25-F006"
  },
  {
-  "finding_id": "S1-F069",
+  "finding_id": "S1-F074",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1104,7 +1184,7 @@
   "worker_finding_id": "S-686-25-F007"
  },
  {
-  "finding_id": "S1-F070",
+  "finding_id": "S1-F075",
   "paper_id": "S-686-25",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -1120,7 +1200,7 @@
   "worker_finding_id": "S-686-25-F009"
  },
  {
-  "finding_id": "S1-F071",
+  "finding_id": "S1-F076",
   "paper_id": "S-686-25",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1136,7 +1216,7 @@
   "worker_finding_id": "S-686-25-F012"
  },
  {
-  "finding_id": "S1-F072",
+  "finding_id": "S1-F077",
   "paper_id": "S-686-28",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1152,7 +1232,7 @@
   "worker_finding_id": "S-686-28-F001"
  },
  {
-  "finding_id": "S1-F073",
+  "finding_id": "S1-F078",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1168,7 +1248,7 @@
   "worker_finding_id": "S-686-28-F003"
  },
  {
-  "finding_id": "S1-F074",
+  "finding_id": "S1-F079",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1184,7 +1264,7 @@
   "worker_finding_id": "S-686-28-F004"
  },
  {
-  "finding_id": "S1-F075",
+  "finding_id": "S1-F080",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1200,7 +1280,7 @@
   "worker_finding_id": "S-686-28-F006"
  },
  {
-  "finding_id": "S1-F076",
+  "finding_id": "S1-F081",
   "paper_id": "S-686-28",
   "page": "No study has recorded skin blood flow at a local anaesthetic wheal beyond 90 minutes, so late pallor after an injection falls outside every published measurement window",
   "page_url": "https://app.notion.com/p/3da10b7903aa81ce95acfe0a8d7200ea",
@@ -1216,7 +1296,7 @@
   "worker_finding_id": "S-686-28-F007"
  },
  {
-  "finding_id": "S1-F077",
+  "finding_id": "S1-F082",
   "paper_id": "S-686-28",
   "page": "No study has recorded skin blood flow at a local anaesthetic wheal beyond 90 minutes, so late pallor after an injection falls outside every published measurement window",
   "page_url": "https://app.notion.com/p/3da10b7903aa81ce95acfe0a8d7200ea",
@@ -1232,7 +1312,7 @@
   "worker_finding_id": "S-686-28-F008"
  },
  {
-  "finding_id": "S1-F078",
+  "finding_id": "S1-F083",
   "paper_id": "S-686-28",
   "page": "Anaesthetics",
   "page_url": "https://app.notion.com/p/3c410b7903aa80a0b250f26d55808492",
@@ -1248,7 +1328,7 @@
   "worker_finding_id": "S-686-28-F009"
  },
  {
-  "finding_id": "S1-F079",
+  "finding_id": "S1-F084",
   "paper_id": "S-686-31",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -1264,7 +1344,7 @@
   "worker_finding_id": "S-686-31-F007"
  },
  {
-  "finding_id": "S1-F080",
+  "finding_id": "S1-F085",
   "paper_id": "S-686-31",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1280,7 +1360,7 @@
   "worker_finding_id": "S-686-31-F009"
  },
  {
-  "finding_id": "S1-F081",
+  "finding_id": "S1-F086",
   "paper_id": "S-686-31",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -1296,7 +1376,7 @@
   "worker_finding_id": "S-686-31-F010"
  },
  {
-  "finding_id": "S1-F082",
+  "finding_id": "S1-F087",
   "paper_id": "S-686-31",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -1312,7 +1392,7 @@
   "worker_finding_id": "S-686-31-F012"
  },
  {
-  "finding_id": "S1-F083",
+  "finding_id": "S1-F088",
   "paper_id": "S-686-31",
   "page": "Small Fiber Neuropathy — Intradermal vs. Subcutaneous Injection Routing Analysis",
   "page_url": "https://app.notion.com/p/39410b7903aa8046b3eef25af516245f",
@@ -1328,7 +1408,7 @@
   "worker_finding_id": "S-686-31-F013"
  },
  {
-  "finding_id": "S1-F084",
+  "finding_id": "S1-F089",
   "paper_id": "S-686-33",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1344,7 +1424,7 @@
   "worker_finding_id": "S-686-33-F001"
  },
  {
-  "finding_id": "S1-F085",
+  "finding_id": "S1-F090",
   "paper_id": "S-686-33",
   "page": "Relief that outlasts the block — and whether the whole list is optimising the wrong thing",
   "page_url": "https://app.notion.com/p/3d310b7903aa811cb51bcca149b3de73",
@@ -1360,7 +1440,7 @@
   "worker_finding_id": "S-686-33-F003"
  },
  {
-  "finding_id": "S1-F086",
+  "finding_id": "S1-F091",
   "paper_id": "S-686-33",
   "page": "What it is & How it works",
   "page_url": "https://app.notion.com/p/31910b7903aa80aaa903d118c62e73e8",
@@ -1376,7 +1456,7 @@
   "worker_finding_id": "S-686-33-F004"
  },
  {
-  "finding_id": "S1-F087",
+  "finding_id": "S1-F092",
   "paper_id": "S-686-35",
   "page": "💉 Lidocaine With Epinephrine Wheals",
   "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
@@ -1392,7 +1472,7 @@
   "worker_finding_id": "S-686-35-F001"
  },
  {
-  "finding_id": "S1-F088",
+  "finding_id": "S1-F093",
   "paper_id": "S-686-35",
   "page": "💉 Lidocaine With Epinephrine Wheals",
   "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
@@ -1408,7 +1488,7 @@
   "worker_finding_id": "S-686-35-F004"
  },
  {
-  "finding_id": "S1-F089",
+  "finding_id": "S1-F094",
   "paper_id": "S-686-35",
   "page": "adjuvants-without-a-vasoconstrictor",
   "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
@@ -1424,7 +1504,7 @@
   "worker_finding_id": "S-686-35-F006"
  },
  {
-  "finding_id": "S1-F090",
+  "finding_id": "S1-F095",
   "paper_id": "S-686-35",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1440,7 +1520,7 @@
   "worker_finding_id": "S-686-35-F007"
  },
  {
-  "finding_id": "S1-F091",
+  "finding_id": "S1-F096",
   "paper_id": "S-686-35",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1456,7 +1536,7 @@
   "worker_finding_id": "S-686-35-F008"
  },
  {
-  "finding_id": "S1-F092",
+  "finding_id": "S1-F097",
   "paper_id": "S-686-35",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -1472,7 +1552,7 @@
   "worker_finding_id": "S-686-35-F011"
  },
  {
-  "finding_id": "S1-F093",
+  "finding_id": "S1-F098",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1488,7 +1568,7 @@
   "worker_finding_id": "S-686-39-F002"
  },
  {
-  "finding_id": "S1-F094",
+  "finding_id": "S1-F099",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1504,7 +1584,7 @@
   "worker_finding_id": "S-686-39-F005"
  },
  {
-  "finding_id": "S1-F095",
+  "finding_id": "S1-F100",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1520,7 +1600,7 @@
   "worker_finding_id": "S-686-39-F008"
  },
  {
-  "finding_id": "S1-F096",
+  "finding_id": "S1-F101",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1536,7 +1616,7 @@
   "worker_finding_id": "S-686-39-F009"
  },
  {
-  "finding_id": "S1-F097",
+  "finding_id": "S1-F102",
   "paper_id": "S-686-39",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -1552,7 +1632,7 @@
   "worker_finding_id": "S-686-39-F011"
  },
  {
-  "finding_id": "S1-F098",
+  "finding_id": "S1-F103",
   "paper_id": "S-686-39",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -1568,7 +1648,7 @@
   "worker_finding_id": "S-686-39-F012"
  },
  {
-  "finding_id": "S1-F099",
+  "finding_id": "S1-F104",
   "paper_id": "S-686-39",
   "page": "adjuvants-without-a-vasoconstrictor",
   "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
@@ -1584,7 +1664,7 @@
   "worker_finding_id": "S-686-39-F016"
  },
  {
-  "finding_id": "S1-F100",
+  "finding_id": "S1-F105",
   "paper_id": "S-686-39",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1600,7 +1680,183 @@
   "worker_finding_id": "S-686-39-F017"
  },
  {
-  "finding_id": "S1-F101",
+  "finding_id": "S1-F106",
+  "paper_id": "S-686-40",
+  "page": "Procaine / Novocaine",
+  "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
+  "page_version": "2026-09-26T18:25:29.323Z",
+  "section": "Sources › Duration and concentration in human skin (Willatts annotation, Limits)",
+  "sentence_as_it_stands": "the paper reports slopes, not absolute minutes at each concentration.",
+  "kind": "wrong-figure",
+  "quote": "The mean 50 % recovery … times of the different concentrations of the six … agents plotted against the concentration on a … logarithmic scale is shown in figure 3.",
+  "page_in_paper": 3,
+  "corrected_wording": "The paper reports both: the concentration-duration slopes in the figure 4 legend, and the mean time to 50% recovery at each concentration of each of the six agents in figure 3, n = 10 per point with SEM bars. What it has no table of is the underlying numbers.",
+  "importance": "medium",
+  "notes": "The rest of this annotation checks out exactly against the full text, including the six slopes, the complete-recovery sentence and the metabisulphite caveat with the 65% control figure.",
+  "worker_finding_id": "S-686-40-F002"
+ },
+ {
+  "finding_id": "S1-F107",
+  "paper_id": "S-686-40",
+  "page": "mepivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "page_version": "2026-10-02T03:14:08.315Z",
+  "section": "The recommendation",
+  "sentence_as_it_stands": "The only study that measured it in human skin, by the test you would use — pinprick over an intradermal bleb — found recovery complete or nearly complete within 2 hours at every concentration tested, with time to half-recovery levelling off between about 40 and 70 minutes (Fairley and Reynolds, 1981).",
+  "kind": "overstated",
+  "quote": "the time of 50% … recovery was taken as the time at which the … sharpness score reached 5 out of 10.",
+  "page_in_paper": 2,
+  "corrected_wording": "At least three studies have measured mepivacaine in human skin by pinprick over an intradermal bleb - Reynolds, Bryson and Nicholas 1976 (PMID 776194), Fairley and Reynolds 1981 (PMID 7326166) and Willatts and Reynolds 1985 (PMID 4041306) - and all three found recovery well inside two hours. Fairley and Reynolds is the largest and the one that maps the concentration range.",
+  "importance": "medium",
+  "notes": "The page's own source list already calls Willatts the second such measurement, so the recommendation paragraph contradicts it. The duration conclusion is unaffected: the three studies agree. Willatts used exactly the described test - the central area of each bleb pricked five times with a lancet, scored out of 10, with the time of 50% recovery taken as the score reaching 5 out of 10.",
+  "worker_finding_id": "S-686-40-F007"
+ },
+ {
+  "finding_id": "S1-F108",
+  "paper_id": "S-686-40",
+  "page": "mepivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "page_version": "2026-10-02T03:14:08.315Z",
+  "section": "How long does a mepivacaine block actually last? › In skin, which is the tissue that matters here",
+  "sentence_as_it_stands": "Two studies have measured this, four years apart, from the same laboratory, and they agree.",
+  "kind": "understated",
+  "quote": "The study was carried out in two parts. In the … first, amethocaine, lignocaine and prilocaine (each … at three concentrations) and physiological saline … (control solution) were tested in each of the 10 … subjects. In the second part, procaine, cinchocaine … and mepivacaine each in three concentrations, and … saline were tested on the same 10 subjects.",
+  "page_in_paper": 2,
+  "corrected_wording": "Three studies have measured this, all from the same laboratory and all with Reynolds as an author: Reynolds, Bryson and Nicholas 1976, Fairley and Reynolds 1981 and Willatts and Reynolds 1985. They agree.",
+  "importance": "medium",
+  "notes": "Reynolds 1976 is in the 1985 paper's own reference list and timed intradermal mepivacaine at three concentrations in 27 double-blind volunteers by the same pinprick method, with both a time to 50% recovery and a tabulated mean time to full recovery. Its details were taken from this session's paper card for S-686-25, not read at source here. The same correction applies to claim D025 on the 'Comparing the injectable local anesthetics' page, which also says only two studies exist.",
+  "worker_finding_id": "S-686-40-F008"
+ },
+ {
+  "finding_id": "S1-F109",
+  "paper_id": "S-686-40",
+  "page": "mepivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "page_version": "2026-10-02T03:14:08.315Z",
+  "section": "Sources › Skin: vessels and duration (Willatts annotation, opening line)",
+  "sentence_as_it_stands": "The second intradermal measurement of mepivacaine, and the only one that times it against lidocaine and prilocaine in the same volunteers.",
+  "kind": "wrong-figure",
+  "quote": "The study was carried out in two parts. In the … first, amethocaine, lignocaine and prilocaine (each … at three concentrations) and physiological saline … (control solution) were tested in each of the 10 … subjects. In the second part, procaine, cinchocaine … and mepivacaine each in three concentrations, and … saline were tested on the same 10 subjects.",
+  "page_in_paper": 2,
+  "corrected_wording": "At least the third intradermal measurement of mepivacaine, after Reynolds, Bryson and Nicholas 1976 and Fairley and Reynolds 1981, and still the only one that times it against lidocaine and prilocaine in the same volunteers.",
+  "importance": "medium",
+  "notes": "The second half of the sentence holds and is worth keeping: all six agents went into the same 10 subjects, whereas Reynolds 1976 put mepivacaine and prilocaine in one trial of 27 subjects and lignocaine in a separate trial of 28, with only seven subjects overlapping. Two refinements: mepivacaine was given in the study's second part and lignocaine and prilocaine in the first, so 'the same volunteers' is right but 'the same session' would not be; and the annotation's quotation of the complete-recovery sentence silently drops the parenthesis in which the paper defines what complete recovery meant.",
+  "worker_finding_id": "S-686-40-F009"
+ },
+ {
+  "finding_id": "S1-F110",
+  "paper_id": "S-686-40",
+  "page": "mepivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "page_version": "2026-10-02T03:14:08.315Z",
+  "section": "How long does a mepivacaine block actually last? › In skin, which is the tissue that matters here",
+  "sentence_as_it_stands": "mepivacaine's slope is the steepest of the six at 31.12 ± 5.51 extra minutes per tenfold rise, against lignocaine's 18.47 ± 2.53 (difference between slopes P under 0.001)",
+  "kind": "wrong-design",
+  "quote": "There was a highly significant difference … between the slopes (P < 0.001; Ftest). In general, … the steepness of the slope reflected the observed … vasoactivity of the agent; there was a significant … difference (P < 0.05) between the slopes of … procaine and mepivacaine, cinchocaine and prilo… caine, and between those of amethocaine and … mepivacaine.",
+  "page_in_paper": 3,
+  "corrected_wording": "mepivacaine's slope is the steepest of the six at 31.12 ± 5.51 extra minutes per tenfold rise, against lignocaine's 18.47 ± 2.53. The P < 0.001 is the overall F test across all six slopes; the paper reports no significant pairwise difference between mepivacaine and lignocaine, only between procaine and each of mepivacaine, cinchocaine and prilocaine, and between amethocaine and mepivacaine, all at P < 0.05.",
+  "importance": "medium",
+  "notes": "The paper's sentence reads 'there was a significant difference (P < 0.05) between the slopes of procaine and mepivacaine, cinchocaine and prilocaine, and between those of amethocaine and mepivacaine'. Given the published values, the natural reading is procaine against each of the other three named drugs, not cinchocaine against prilocaine, whose slopes are 21.05 +/- 2.94 and 22.70 +/- 3.09 and could not differ. Either way, mepivacaine against lignocaine is not among the pairs tested as significant. The ropivacaine page reproduces the paper's ambiguous sentence literally and reads 'cinchocaine and prilocaine' as a pair.",
+  "worker_finding_id": "S-686-40-F010"
+ },
+ {
+  "finding_id": "S1-F111",
+  "paper_id": "S-686-40",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "9a.5 Mepivacaine — the drug nobody in this project has considered",
+  "sentence_as_it_stands": "And yet in human skin it is the most consistent vasoconstrictor of the six drugs ever compared head to head — significant at all three concentrations, P < 0.001, the only drug in Willatts & Reynolds to reach that threshold (9a.2).",
+  "kind": "overstated",
+  "quote": "All three concentrations of lignocaine and … mepivacaine produced vasoconstriction signifi… cantly more frequently than saline (P < 0.05 for … lignocaine;P < 0.001 for mepivacaine). Significant … vasoconstriction was only observed for cinchocaine … at [dose figure omitted] (P<0.05) and prilocaine at [dose figure omitted] … (P < 0.001),comparedwithsaline.",
+  "page_in_paper": 3,
+  "corrected_wording": "And yet in human skin it is the most consistent vasoconstrictor of the six drugs ever compared head to head — the only drug in Willatts & Reynolds significant against the control at P < 0.001 at all three of its concentrations. Prilocaine also reached P < 0.001, at its highest concentration alone, and lignocaine was significant at all three but at P < 0.05.",
+  "importance": "medium",
+  "notes": "The head-to-head element is confirmed from the full text: six agents at three concentrations each plus a saline control in the same 10 volunteers, double-blind, run as two parts of three agents each and bridged by the saline control, whose results from the two parts were combined. Only the uniqueness clause needs the qualifier; read as 'that threshold at all three concentrations' the sentence is already right, but as written it reads as P < 0.001 anywhere.",
+  "worker_finding_id": "S-686-40-F011"
+ },
+ {
+  "finding_id": "S1-F112",
+  "paper_id": "S-686-40",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "9a.2 The only six-drug human intradermal head-to-head (vascular result table, mepivacaine row); repeated in 15. Sources (Willatts entry)",
+  "sentence_as_it_stands": "Vasoconstriction significantly more frequent than control at all three concentrations, P < 0.001 — the strongest and most consistent constrictor of the six.",
+  "kind": "overstated",
+  "quote": "The vasoactivity of the six agents, expressed as … percentage frequency of local colour changes at … different concentrations, is shown in figure 1.",
+  "page_in_paper": 3,
+  "corrected_wording": "Vasoconstriction significantly more frequent than control at all three concentrations, P < 0.001 — the most consistent constrictor of the six. The paper's vascular measure is the percentage frequency of local colour changes, so it supports consistency and cannot rank constrictor strength.",
+  "importance": "medium",
+  "notes": "The page already makes exactly this calibration in its own warning note at 9a.5 ('\\u201cMost consistent\\u201d rather than \\u201cstrongest\\u201d: the comparison is incidence of pallor across concentrations, not depth of flow reduction'), so the table row and the source-list entry contradict the page's own correction. Colour was classified only as pink, nil or pale, by eye, at 5-10 min; no magnitude was recorded anywhere in the paper.",
+  "worker_finding_id": "S-686-40-F012"
+ },
+ {
+  "finding_id": "S1-F113",
+  "paper_id": "S-686-40",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "4.6 (colour/flux problem) and 9a.2 Two caveats, point 2",
+  "sentence_as_it_stands": "Willatts & Reynolds 1985 report that plain 0.9% saline injected intradermally produces visible vasodilatation in only 0 to 10% of blebs — against Cederholm 1991's measurement of saline flux at 4.5 times the untreated level. ... That is the pallor/flux dissociation stated as starkly as it can be, and it comes from a third independent source.",
+  "kind": "citation-error",
+  "quote": "the saline-metabisul… phite control solution produced a much higher … incidence of vasodilatation (65 %) than had been … observed previously with plain 0.9% saline",
+  "page_in_paper": 4,
+  "corrected_wording": "Willatts & Reynolds 1985 report, as what had been observed previously rather than as a measurement of their own, that plain 0.9% saline injected intradermally produces visible vasodilatation in 0 to 10% of blebs; their own saline control carried metabisulphite and dilated 65% of blebs. The 0-10% range is therefore a figure they cite from earlier work, not a third independent measurement.",
+  "importance": "medium",
+  "notes": "The paper's sentence is 'the saline-metabisulphite control solution produced a much higher incidence of vasodilatation (65 %) than had been observed previously with plain 0.9% saline (0-10%)' - and it gives no citation for the 0-10% range in that sentence. The page states the provenance correctly in caveat 1 at 9a.2 ('against 0-10% previously observed with plain 0.9% saline') and then uses it as an independent source in 4.6 and in caveat 2. The 65% figure and the metabisulphite pain remark are both exact.",
+  "worker_finding_id": "S-686-40-F014"
+ },
+ {
+  "finding_id": "S1-F114",
+  "paper_id": "S-686-40",
+  "page": "prilocaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
+  "page_version": "2026-10-02T03:14:12.541Z",
+  "section": "What is not known",
+  "sentence_as_it_stands": "Nobody has timed a prilocaine wheal in human skin beyond the one intradermal study above, which says only that every injection had recovered completely by 80 minutes and gives no mean per concentration (Willatts and Reynolds, 1985).",
+  "kind": "wrong-figure",
+  "quote": "The mean 50 % recovery … times of the different concentrations of the six … agents plotted against the concentration on a … logarithmic scale is shown in figure 3.",
+  "page_in_paper": 3,
+  "corrected_wording": "The one intradermal study does give a mean per concentration: figure 3 plots the mean time to 50% recovery against concentration for each of the six agents, n = 10 per point with SEM bars, and figure 4 gives prilocaine's concentration-duration slope. The 80-minute sentence is a separate statement, about complete recovery across the whole data set.",
+  "importance": "medium",
+  "notes": "Read off figure 3, prilocaine's three points are about 2, 12 and 24 min to half recovery. Reynolds, Bryson and Nicholas 1976 is a second human intradermal timing of prilocaine, as the record already notes under claim C065. The page's source-list entry gets one thing right that the mepivacaine page does not: prilocaine and lignocaine were both in the study's first part, so for those two 'in the same volunteers on the same day' is exact.",
+  "worker_finding_id": "S-686-40-F015"
+ },
+ {
+  "finding_id": "S1-F115",
+  "paper_id": "S-686-40",
+  "page": "Injectables ruled out but not tried",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81fca5adcc979f03c0d5",
+  "page_version": "2026-10-02T03:14:22.080Z",
+  "section": "Tetracaine (amethocaine); the recommendation bullet; and the figure caption in 'The only human intradermal data for cinchocaine and tetracaine'",
+  "sentence_as_it_stands": "The only human intradermal data show it 50% recovered inside 80 minutes with the second-flattest concentration–duration slope of six agents ... and it, like everything else in that study, was 50% recovered inside 80 minutes.",
+  "kind": "understated",
+  "quote": "Complete recovery from all injections (perma… nent pinprick score of 5 in all subjects) had … occurred by 80 min.",
+  "page_in_paper": 3,
+  "corrected_wording": "The only human intradermal data show tetracaine completely recovered inside 80 minutes, with half recovery far sooner - about 6, 13 and 18 minutes across its three strengths from figure 3 - and the second-flattest concentration-duration slope of six agents.",
+  "importance": "medium",
+  "notes": "80 minutes is the paper's statement about complete recovery from every injection of every agent, not about half recovery. The study's half-recovery times are much shorter: the largest point anywhere on figure 3 is about 38 min, for mepivacaine at its highest strength. Read correctly this strengthens the page's case for ruling tetracaine out rather than weakening it. The same conflation appears in the page's figure caption, which labels an 80-minute line 'every agent, every concentration, 50% recovered by here'. Everything else in this page's Willatts material - the method paragraph, the endpoint, the slopes and the weal counts - matches the full text exactly.",
+  "worker_finding_id": "S-686-40-F016"
+ },
+ {
+  "finding_id": "S1-F116",
+  "paper_id": "S-686-40",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each one do to skin blood vessels? (two older intradermal studies paragraph)",
+  "sentence_as_it_stands": "And across six drugs, procaine and amethocaine — the two esters — produced marked vasodilatation, with a raised weal still visible at 80 percent of amethocaine sites, while mepivacaine was the strongest vasoconstrictor of the six (Willatts and Reynolds, 1985).",
+  "kind": "overstated",
+  "quote": "All three concentrations of lignocaine and … mepivacaine produced vasoconstriction signifi… cantly more frequently than saline (P < 0.05 for … lignocaine;P < 0.001 for mepivacaine). Significant … vasoconstriction was only observed for cinchocaine … at [dose figure omitted] (P<0.05) and prilocaine at [dose figure omitted] … (P < 0.001),comparedwithsaline.",
+  "page_in_paper": 3,
+  "corrected_wording": "And across six drugs, procaine and amethocaine — the two esters — produced marked vasodilatation, with weal formation recorded at most amethocaine sites, while mepivacaine was the most consistent vasoconstrictor of the six, the only one significant against the control at P < 0.001 at all three of its concentrations.",
+  "importance": "medium",
+  "notes": "Two points. First, 'strongest' is not a measurement the paper makes: its vascular outcome is the percentage frequency of colour change, classified by eye as pink, nil or pale. Second, the 80 percent figure comes from the paper's own summary, while its results section gives weal formation at 12, 16 and 16 injection sites across the three amethocaine concentrations out of 20 injections each, which is 44 of 60 or about 73 percent - an internal inconsistency in the paper, not in the page. The pages that quote the results figures (12, 16 and 16) are on firmer ground than those that quote the summary's 80 percent.",
+  "worker_finding_id": "S-686-40-F018"
+ },
+ {
+  "finding_id": "S1-F117",
   "paper_id": "S-686-04",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1616,7 +1872,7 @@
   "worker_finding_id": "S-686-04-F004"
  },
  {
-  "finding_id": "S1-F102",
+  "finding_id": "S1-F118",
   "paper_id": "S-686-04",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1632,7 +1888,7 @@
   "worker_finding_id": "S-686-04-F005"
  },
  {
-  "finding_id": "S1-F103",
+  "finding_id": "S1-F119",
   "paper_id": "S-686-20",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1648,7 +1904,7 @@
   "worker_finding_id": "S-686-20-F003"
  },
  {
-  "finding_id": "S1-F104",
+  "finding_id": "S1-F120",
   "paper_id": "S-686-20",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -1664,7 +1920,7 @@
   "worker_finding_id": "S-686-20-F012"
  },
  {
-  "finding_id": "S1-F105",
+  "finding_id": "S1-F121",
   "paper_id": "S-686-24",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1680,7 +1936,7 @@
   "worker_finding_id": "S-686-24-F002"
  },
  {
-  "finding_id": "S1-F106",
+  "finding_id": "S1-F122",
   "paper_id": "S-686-24",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1696,7 +1952,7 @@
   "worker_finding_id": "S-686-24-F006"
  },
  {
-  "finding_id": "S1-F107",
+  "finding_id": "S1-F123",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1712,7 +1968,7 @@
   "worker_finding_id": "S-686-25-F002"
  },
  {
-  "finding_id": "S1-F108",
+  "finding_id": "S1-F124",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1728,7 +1984,7 @@
   "worker_finding_id": "S-686-25-F014"
  },
  {
-  "finding_id": "S1-F109",
+  "finding_id": "S1-F125",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1744,7 +2000,7 @@
   "worker_finding_id": "S-686-25-F015"
  },
  {
-  "finding_id": "S1-F110",
+  "finding_id": "S1-F126",
   "paper_id": "S-686-28",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1760,7 +2016,7 @@
   "worker_finding_id": "S-686-28-F002"
  },
  {
-  "finding_id": "S1-F111",
+  "finding_id": "S1-F127",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1776,7 +2032,7 @@
   "worker_finding_id": "S-686-28-F005"
  },
  {
-  "finding_id": "S1-F112",
+  "finding_id": "S1-F128",
   "paper_id": "S-686-33",
   "page": "Relief that outlasts the block — and whether the whole list is optimising the wrong thing",
   "page_url": "https://app.notion.com/p/3d310b7903aa811cb51bcca149b3de73",
@@ -1792,7 +2048,7 @@
   "worker_finding_id": "S-686-33-F002"
  },
  {
-  "finding_id": "S1-F113",
+  "finding_id": "S1-F129",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1808,7 +2064,7 @@
   "worker_finding_id": "S-686-39-F006"
  },
  {
-  "finding_id": "S1-F114",
+  "finding_id": "S1-F130",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1822,5 +2078,37 @@
   "importance": "low",
   "notes": "Volumes replaced with [dose figure omitted] under the writing rules. Recorded as a now-verified item because the bullet's sweep now rests on a read paper rather than an unread one for this member of the set. Worth adding beside it that this paper's timing stops at the end of its observation window rather than at recovery, so it adds no recovery figure at that volume. Recorded against claim C045.",
   "worker_finding_id": "S-686-39-F007"
+ },
+ {
+  "finding_id": "S1-F131",
+  "paper_id": "S-686-40",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "9a.2 The duration result, and the distinction that matters",
+  "sentence_as_it_stands": "But — and this is the distinction the whole project has been missing — they also state: “A comparison of figures 1 and 2 demonstrates that there was no relationship between vasoactivity and INITIAL analgesic activity.”",
+  "kind": "now-verified",
+  "quote": "of figures 1 and 2 demonstrates that there was no … relationship between vasoactivity and initial … analgesic activity.",
+  "page_in_paper": 3,
+  "corrected_wording": "",
+  "importance": "low",
+  "notes": "The sentence is verbatim in the paper (page 3, end of the Analgesic activity section; the capitalisation of INITIAL is the page's emphasis). The inference the page draws from it is supported by the surrounding text: the paper separately states that in general the steepness of the log concentration-duration slope reflected the observed vasoactivity of the agent, and the discussion repeats that the vasodilatation of procaine and amethocaine and the vasoconstriction of mepivacaine were associated with slope differences in the expected direction. Two things to carry with it: the discussion opens by calling the relationship between vasoactivity and duration 'not straightforward', and the correspondence between vasoactivity and slope is asserted in words only - the paper reports no correlation statistic linking the two, its statistics being an F test across the six slopes and Chi-squared tests on colour-change proportions.",
+  "worker_finding_id": "S-686-40-F013"
+ },
+ {
+  "finding_id": "S1-F132",
+  "paper_id": "S-686-40",
+  "page": "The intradermal wheal literature nobody cites, and the two conclusions it overturned",
+  "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
+  "page_version": "2026-10-02T03:14:04.610Z",
+  "section": "What is still unknown › Whether the two St Thomas' estimates of racemic mepivacaine's slope can be reconciled",
+  "sentence_as_it_stands": "Fairley fitted 16.01 ± 2.58 minutes per log unit over [dose figures omitted]; Willatts fitted 31.12 ± 5.51 over [dose figures omitted], on the same endpoint in the same laboratory four years apart. Those two intervals barely touch.",
+  "kind": "now-verified",
+  "quote": "the time of 50% … recovery was taken as the time at which the … sharpness score reached 5 out of 10.",
+  "page_in_paper": 2,
+  "corrected_wording": "",
+  "importance": "low",
+  "notes": "The 'same endpoint' reading is correct and is now verified from the Willatts full text: the time of 50% recovery was taken as the time at which the pinprick sharpness score reached 5 out of 10, and the slopes are linear regressions of log concentration against that duration, fitted per drug per subject. Where 'mepivacaine-wheals' says the two slopes are different quantities, this page is the one to follow. The question that remains open is narrower than the page states it: not whether the quantities match, but why two estimates of one quantity differ so much, for which the subject-level data is still unpublished. This page's whole Willatts entry - method, endpoint, concentrations, slopes, weal counts, the intradermal-route quotation and the verbatim Foldes and McNall quotation - matches the full text exactly.",
+  "worker_finding_id": "S-686-40-F017"
  }
 ]
