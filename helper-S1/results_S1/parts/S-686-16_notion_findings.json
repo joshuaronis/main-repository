@@ -1,0 +1,32 @@
+[
+ {
+  "finding_id": "S-686-16-F001",
+  "paper_id": "S-686-16",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each one cost in injection pain? ('A full buffer does not transfer to the other drugs, but a partial one does for bupivacaine' paragraph); and the Sources entry for Vent and colleagues",
+  "sentence_as_it_stands": "Bupivacaine, ropivacaine and prilocaine precipitate — form solid particles that come out of solution — when enough sodium bicarbonate is added to reach body pH, which is both a loss of drug and something that should not be injected.",
+  "kind": "now-verified",
+  "quote": "conclude that Ropivacaine (at concentration [dose figure omitted] and [dose figure omitted]), is unsuitable for alkalinization since it pre…cipitates at a pH of 6.0.",
+  "page_in_paper": 38,
+  "corrected_wording": "Bupivacaine, ropivacaine and prilocaine precipitate — form solid particles that come out of solution — when enough sodium bicarbonate is added to reach body pH, which is both a loss of drug and something that should not be injected. For ropivacaine a laboratory titration names the pH: ropivacaine at its two strongest commercial strengths precipitated above pH 6.0 and was excluded from the experiment for that reason, while the six bupivacaine and lidocaine solutions carried through showed no precipitate by naked eye, under high-power microscopy, after centrifugation, or after standing an hour (Milner 2000, PMID 10758442). No ropivacaine strength below those two was tested there.",
+  "importance": "medium",
+  "notes": "The sentence is right, and the Sources entry for Vent and colleagues already flags its own limit carefully - that the precipitation statement is about reaching physiological pH and does not rule out a partial buffer. What the page lacks is a primary laboratory source for the ropivacaine half: it rests on Vent's statement and on the ropivacaine label, both relayed, while the bupivacaine half has Peterfreund 1989 and the 2025 series behind it on the bupivacaine page. Milner 2000 is that primary source, it names the pH, and it is cited nowhere in the record - searched for 'Milner', PMID 10758442 and DOI 10.1046/j.1365-2346.2000.00596.x across Notion (engine: notion-search) and for the string 'Milner' in the local copies of the ropivacaine, mepivacaine and bupivacaine pages and in fresh fetches of this page, the Reference source register S1-S457, the Product Guide, '5 - Soft ground in these documents', 'What is still unsettled across these pages' and 'What was searched for and does not exist'. All ten returned nothing."
+ },
+ {
+  "finding_id": "S-686-16-F002",
+  "paper_id": "S-686-16",
+  "page": "bupivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+  "page_version": "2026-10-02T03:14:18.695Z",
+  "section": "The sting, and the two things that reduce it > 'It cannot be brought to body pH' and the two paragraphs after it; and the Sources entries for Peterfreund 1989 and AlShammari 2025",
+  "sentence_as_it_stands": "It cannot be brought to body pH. Peterfreund, Datta and Ostheimer (1989) tested this on the bench: 2-chloroprocaine and lidocaine \"readily alkalinized to near physiological pH without precipitation,\" mepivacaine showed delayed precipitation with an 18-to-20-minute latency at [dose figure omitted], and \"bupivacaine and etidocaine solutions precipitated after the addition of small amounts of sodium bicarbonate and could not be alkalinized to physiologic pH.\"",
+  "kind": "now-verified",
+  "quote": "precipitate formation, previous studies using particle … counters have demonstrated an increased number of … particles up to 25 lm after alkalinization of similar local … anaesthetic solutions to a pH of >7",
+  "page_in_paper": 41,
+  "corrected_wording": "It cannot be brought to body pH. Peterfreund, Datta and Ostheimer (1989, PMID 2562097) tested this on the bench: 2-chloroprocaine and lidocaine \"readily alkalinized to near physiological pH without precipitation,\" mepivacaine showed delayed precipitation with an 18-to-20-minute latency at [dose figure omitted], and \"bupivacaine and etidocaine solutions precipitated after the addition of small amounts of sodium bicarbonate and could not be alkalinized to physiologic pH.\" A second bench titration reaches the same place from the other direction and adds a detection limit. It carried three bupivacaine strengths and two bupivacaine-with-epinephrine solutions through a titration in triplicate, from three production batch numbers each, and found no precipitate by naked eye against white and black backgrounds, under high-power microscopy, after centrifugation, or after the samples had stood an hour. But it also reports that earlier work with particle counters recorded particle counts rising after alkalinisation of similar solutions above pH 7, where eye and microscope found nothing (Milner 2000, PMID 10758442). So every 'no visible precipitate' result on this page, including the 2025 series' visible-precipitate endpoint, is bounded by how closely the solution was looked at.",
+  "importance": "medium",
+  "notes": "Two separate improvements. First, the Peterfreund entry carries a DOI but no PMID; Europe PMC gives 2562097 and its abstract matches every phrase the page quotes, including the latency, so the entry is verified as well as completed (engine: europepmc, query title:\"pH adjustment of local anesthetic solutions with sodium bicarbonate\", hitCount 6). Second, the detection-floor point is the substantive addition, because this section's whole structure is a set of thresholds defined by whether a precipitate was seen: Peterfreund by onset of precipitation, AlShammari by visible precipitate without microscopy, and the partial-buffer margin worked out between them. A finer method has found particles where those methods found none. Milner's own ropivacaine arm is reported separately in finding S-686-16-F001. Milner 2000 is cited nowhere in the record."
+ }
+]

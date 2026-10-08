@@ -1,0 +1,508 @@
+[
+ {
+  "claim_id": "C027",
+  "old_verdict": "narrowed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-24",
+  "papers_that_judged_it": [
+   "S-686-24"
+  ],
+  "proposed_wording": "Whether injected crystals matter. Crystallisation has been graded under a microscope in mixtures that were never injected, and separately demonstrated in tissue in an animal model: solutions recovered from rat popliteal fossae five minutes after injection had all precipitated, including the unmodified clinical-use preparation and most of all the alkalinised ones (Ramos 2001, PMID 11464357). No study has measured a clinical consequence of precipitated local anaesthetic in a human given a freshly prepared solution.",
+  "reason": "Ramos bears on the 'never injected into anyone' half of this claim without matching the element that decides it. It did inject ropivacaine solutions into tissue and recover precipitate from them, which is more than grading crystals in an undisturbed syringe, and it then gave the alkalinised solution epidurally to 40 patients. But the recovery of precipitate from tissue was in 3 rats, not humans, so the population element is unmatched for that observation; and no clinical consequence was measured in the patients - the trial's endpoints were onset, spread and duration, and no adverse-event analysis is reported - so the outcome element stays unmatched. The existing narrowed verdict holds; what Ramos adds is an animal demonstration that precipitate forms in tissue after injection of both buffered and unmodified ropivacaine, which the record does not currently carry."
+ },
+ {
+  "claim_id": "C029",
+  "old_verdict": "refuted",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-35",
+  "papers_that_judged_it": [
+   "S-686-35"
+  ],
+  "proposed_wording": "No duration or blood-flow measurement of any drug on this page has been made after injection into neuropathic leg skin; topical clonidine has been tested on neuropathic feet for pain (Campbell 2012). For lidocaine in normal skin, duration has been measured at forearm and calf in the same volunteers and differed little between them (Todd 1992, PMID 1590615).",
+  "reason": "C029's absence is scoped to people with neuropathy affecting leg skin, and Todd 1992 studied healthy volunteers, so it does not change the verdict, which stays refuted on the Campbell 2012 grounds already recorded. It does bear on the claim's second sentence, that every duration figure quoted comes from normal forearm, calf, foot or back skin: Todd confirms that description for lidocaine and supplies the missing comparison between those sites, finding little difference in activity on body areas other than the face. None of the drugs named on that page was tested by Todd, so the claim's own intervention element is untouched."
+ },
+ {
+  "claim_id": "C033",
+  "old_verdict": "narrowed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-14",
+  "papers_that_judged_it": [
+   "S-686-14"
+  ],
+  "proposed_wording": "The 1979 paper answered the question for skin. The question itself was not new: a human study five years earlier compared a chloroprocaine-plus-bupivacaine mixture with bupivacaine alone in brachial plexus block and reported the mixture's mean motor block as the shorter of the two (Cunningham 1974, PMID 4429221), an epidural study of an ester added to an amide reported latency and duration in 1966 (Defalque 1966, PMID 5948743), and an obstetric epidural trial reached the same answer in 1979 (Cohen 1979). The 1979 intradermal study is the first to answer it in human skin.",
+  "reason": "The claim says that whether an ester and an amide can share a syringe was 'a question nobody had answered'. Kim 1979's own introduction refutes that within the claim's scope: it names a 1974 human study (reference 1, Cunningham & Kaplan, PMID 4429221) that compared exactly this mixture - chloroprocaine plus bupivacaine - against bupivacaine alone in brachial plexus block and reported mean duration of motor blockade for each, matching every element the claim says is absent (humans, ester mixed with amide, a study before 1979, effect of the mixture on block duration). Kim's introduction also states outright that a literature on these mixtures already existed and was inconsistent on duration, its reference 2 is a 1966 study of latency and duration of local anaesthetic mixtures, and its reference 11 is a 1977 study of compounded chloroprocaine-plus-bupivacaine mixtures in 48 adult patients (Raj 1977, PMID 556897); what is new in 1979 is the intradermal route, not the question. The quote is from Kim 1979 page 1, which is where the 1974 study's design and result are reported; the 1974 paper itself has no abstract on record."
+ },
+ {
+  "claim_id": "C037",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-40",
+  "papers_that_judged_it": [
+   "S-686-40"
+  ],
+  "proposed_wording": "",
+  "reason": "The full text confirms that this paper does contain human intradermal duration data for cinchocaine and for amethocaine (tetracaine): both were given at three concentrations each to the same 10 volunteers, and figure 3 plots the mean time to 50% recovery per concentration for each, n = 10 per point. The paper's own discussion says there are few reports of intradermal ester-linked anaesthetics in man and names only Padfield 1967, which used procaine, prilocaine and lignocaine - no other source for cinchocaine or amethocaine appears in its reference list, which supports rather than disturbs the existing verdict."
+ },
+ {
+  "claim_id": "C038",
+  "old_verdict": "confirmed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-39",
+  "papers_that_judged_it": [
+   "S-686-39",
+   "S-686-39"
+  ],
+  "proposed_wording": "A randomised, double-blind within-subject comparison of methylparaben-preserved lidocaine against preservative-free lidocaine, given as intradermal wheals in 20 human volunteers and assessed by pin prick over a 20-minute window, exists: Wightman and Vaughan 1976 (PMID 791022), which reported that methylparaben did not alter the duration or intensity of anaesthesia. No arm paired lidocaine with benzyl alcohol; benzyl alcohol was tested in saline.",
+  "reason": "The claim says no study compares a methylparaben-preserved lidocaine against a preservative-free or benzyl-alcohol-preserved one for intradermal duration. Wightman and Vaughan 1976 matches every element for the preservative-free limb: humans, intradermal wheals, methylparaben-preserved lidocaine against the same lidocaine without preservative, randomised and double-blind, with anaesthesia timed by pin prick from 15 seconds to 20 minutes, and it states a duration conclusion directly. Two limits belong in the correction: the observation window stops at 20 minutes while the lidocaine arms were still anaesthetic, so it bounds rather than measures duration to recovery; and the benzyl-alcohol arm was benzyl alcohol in saline, not a benzyl-alcohol-preserved lidocaine, so that limb of the claim is untouched."
+ },
+ {
+  "claim_id": "C039",
+  "old_verdict": "narrowed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-31",
+  "papers_that_judged_it": [
+   "S-686-20",
+   "S-686-25",
+   "S-686-31"
+  ],
+  "proposed_wording": "Swerdlow and Jones 1970 has now been read: it holds human intradermal duration data for bupivacaine, lignocaine and prilocaine each with and without adrenaline, for hospital-prepared against commercially prepared solutions of all three with adrenaline, and for intradermal saline with and without adrenaline. Its prilocaine-with-adrenaline arm and its preparation comparison have not been found elsewhere; the plain-versus-adrenalized intradermal comparison has been repeated since for lidocaine and bupivacaine (Howe and Williams 1994; Liu 1995), neither of which included prilocaine.",
+  "reason": "This claim names Swerdlow and Jones 1970 as one of the unopened papers said to carry human intradermal data existing nowhere else. The full text shows the repeat studies cited against it do not cover all of what it holds: Howe 1994 and Liu 1995 repeated the plain-versus-adrenalized intradermal comparison for lidocaine and bupivacaine but neither used prilocaine, and neither compared hospital-prepared with commercially prepared solutions. The narrowing therefore holds only for the lidocaine and bupivacaine part, and the paper is no longer unopened."
+ },
+ {
+  "claim_id": "C041",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-14",
+  "papers_that_judged_it": [
+   "S-686-14"
+  ],
+  "proposed_wording": "",
+  "reason": "The full text confirms the source-register entry as the page states it: the human intradermal chloroprocaine duration is 24 plus or minus 11 minutes (mean plus or minus 1 SD), from a double-blind study in 20 healthy volunteers in which each volunteer received all three solutions as separate forearm wheals and duration was timed to full recovery of pinprick sensation. Nothing in the paper or its 12 references points to an earlier or contemporaneous human intradermal chloroprocaine duration, so the uniqueness element is untouched and the verdict stands at confirmed. One correction for the annotation rather than the verdict: the study is paired and double-blind but nowhere states that it was randomised."
+ },
+ {
+  "claim_id": "C044",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-35",
+  "papers_that_judged_it": [
+   "S-686-25",
+   "S-686-35"
+  ],
+  "proposed_wording": "No study has injected the same drug at the same volume into skin and into a dental site in the same people. The nearest design is a within-subject comparison across four skin sites in the same volunteers (Todd 1992, PMID 1590615), which measures how far a duration figure transfers between skin sites but includes no dental site.",
+  "reason": "C044 says nobody has given the same drug at the same volume into skin and into a dental site in the same people, and Todd 1992 does not do that: all four of its sites are skin (forehead, volar forearm, dorsum of the non-dominant hand, medial leg below the knee), so the claim stands as written. It does bear on the sentence's purpose, which is whether a duration figure transfers between sites. Todd gives a direct within-subject answer for skin: by both duration indexes the only site that differed significantly from the others was the face, and arm versus leg was not among the significant differences, so site-to-site transfer within limb skin is supported while the skin-to-mouth question remains untested."
+ },
+ {
+  "claim_id": "C045",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-14",
+  "papers_that_judged_it": [
+   "S-686-14",
+   "S-686-25"
+  ],
+  "proposed_wording": "",
+  "reason": "This paper was one of the studies in the register whose injected volume was not readable from its abstract, so it was a live candidate for carrying a smaller-wheal duration figure. The methods settle it: the per-wheal volume is stated explicitly and is above both volume thresholds the claim names, so the paper supplies no figure at or below the smaller one and is consistent with the claim's second sentence. Verdict unchanged at confirmed; the paper narrows the remaining search rather than altering the verdict."
+ },
+ {
+  "claim_id": "C047",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-25"
+  ],
+  "proposed_wording": "Any of this literature in neuropathic skin. Every subject in every study on this page was a healthy volunteer injected in the flexor forearm, with ages reaching the fifties in the earliest of them.",
+  "reason": "Reynolds 1976 used fit adult volunteers injected on the flexor surfaces of both forearms, with no neuropathic subjects, so the absence the claim asserts is unaffected and the verdict stands. One detail in the surrounding sentence is slightly off for this paper: its volunteers were aged 20-58 yr in the first trial and 20-51 yr in the second, so 'most of them in their twenties' is not safe for the whole literature. That is a wording point, not a change of verdict."
+ },
+ {
+  "claim_id": "C065",
+  "old_verdict": "refuted",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-20",
+   "S-686-25",
+   "S-686-31",
+   "S-686-31",
+   "S-686-40"
+  ],
+  "proposed_wording": "Two human intradermal studies have timed prilocaine in skin: Reynolds 1976 (PMID 776194) and Willatts and Reynolds 1985 (PMID 4041306). Reynolds 1976 gives a mean duration per concentration in minutes for intradermal prilocaine in 27 double-blind volunteers, measured by pinprick over the bleb - 76.3, 71.8 and 87.8 min to full recovery at the three concentrations tested, 78.6 min pooled (n=81), and 32 min to 50% recovery. In that paper prilocaine was compared with mepivacaine and aptocaine in the same subjects; lignocaine was injected in a separate earlier trial in a different group of 28 volunteers.",
+  "reason": "Reynolds 1976 injected 0.1 ml intradermally of prilocaine at 1, 2 and 3% in 27 double-blind volunteers and timed recovery of pinprick sensation over each bleb every 10 min to a permanent score of 10, giving a mean per concentration in minutes (76.3, 71.8 and 87.8 min; pooled 78.6 min, n=81). That matches every element the claim says is absent - human volunteers, prilocaine injected intradermally, any study, duration of anaesthesia, at a wheal volume - and it also supplies the per-concentration means the claim says do not exist, so both the 'nobody beyond Willatts' and the 'gives no mean per concentration' wordings fail. On the second half of the open question: the paper ran two separate trials in different subject groups, only seven subjects overlapping, with lignocaine and bupivacaine in the first and mepivacaine and prilocaine in the second, so lignocaine was not injected in the same subjects on the same day as prilocaine."
+ },
+ {
+  "claim_id": "C066",
+  "old_verdict": "narrowed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-20",
+   "S-686-25",
+   "S-686-31"
+  ],
+  "proposed_wording": "Head-to-head duration figures in minutes on a skin endpoint exist in humans as well as in horses. Reynolds 1976 (PMID 776194) timed prilocaine against mepivacaine and aptocaine by pinprick over an intradermal bleb in the same 27 human volunteers, reporting 32 min to 50% recovery for prilocaine against 60 min for the other two, and mean times to full recovery of 78.6, 98.6 and 98.9 min. The horse study (Harcourt 2021, PMID 34569052) is still the only one reporting means with confidence intervals, and the only one using a mechanical nociceptive threshold after a palmar digital nerve block.",
+  "reason": "The full text gives duration in minutes for every agent in both trials, by two endpoints: time to 50% recovery read from the mean recovery curves, and mean time to full recovery tabulated in minutes with SEM. So Reynolds 1976 is a human head-to-head skin measurement in minutes, not merely a ranking. Prilocaine 1, 2 and 3% was compared with mepivacaine 1, 2 and 3% and aptocaine 1%, all at 0.1 ml intradermally, in the same 27 volunteers in one session, which matches every element the claim says is absent, including 'any species'. The horse study is therefore not the only head-to-head duration measurement in minutes on a skin endpoint, although it remains the only one with confidence intervals."
+ },
+ {
+  "claim_id": "C067",
+  "old_verdict": "narrowed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-31",
+  "papers_that_judged_it": [
+   "S-686-20",
+   "S-686-25",
+   "S-686-31"
+  ],
+  "proposed_wording": "More than five measurements put numbers on prilocaine's duration and they disagree. Those that bear on a wheal include a 1970 double-blind human intradermal trial reporting means in minutes for plain prilocaine, for the double-strength solution and for prilocaine with adrenaline (Swerdlow and Jones 1970, PMID 4913413); further figures come from spinal, epidural, dental and nerve-block use, and they also disagree.",
+  "reason": "The claim counts five measurements of prilocaine's duration. Swerdlow and Jones 1970 is a further one, and unlike the spinal, epidural and dental figures already recorded against this claim it is intradermal, so it bears directly on a wheal rather than only adding to the off-route total. It supplies three more prilocaine duration means (plain, double strength, and with adrenaline), which widens the spread the claim rests on. The narrowing stands and the existing proposed wording needs correcting, because it says the measurements bearing on a wheal are only those five."
+ },
+ {
+  "claim_id": "C081",
+  "old_verdict": "narrowed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-35",
+  "papers_that_judged_it": [
+   "S-686-04",
+   "S-686-31",
+   "S-686-35",
+   "S-686-35"
+  ],
+  "proposed_wording": "Collins 2013 (PMID 24431939) is not the only human intradermal study of [dose figure omitted] lidocaine with epinephrine [dose figure omitted]. Todd 1992 (PMID 1590615) raised intradermal wheals of that solution, buffered, at four body sites in volunteers (20 subjects for plain lidocaine, ten of them for the epinephrine phase) and timed anaesthesia to complete return of sensation at each site, including the calf. Christoph 1988 (PMID 2827545) gave the same solution intradermally in a randomised, prospective, double-blind study of 25 adult volunteers and recorded onset, extent and duration of skin anaesthesia. Collins 2013 remains the only one of the three that timed intradermal bupivacaine-and-lidocaine mixtures with epinephrine.",
+  "reason": "The full text settles the open question. Todd's second experiment injected buffered 1% lidocaine containing epinephrine in a 1:100,000 concentration intradermally in ten healthy volunteers, which is the same anaesthetic strength, the same epinephrine strength, the same route and the same population the claim says only Collins 2013 covers, with duration of anaesthesia timed to a score indicating essentially complete return of sensation; every element the claim says is absent is matched, so the uniqueness claim is refuted rather than merely narrowed. The calf figures the question asks for come from the Table 1 'Leg' column: mean duration of effective anaesthesia 1.2 +/- 0.1 hours with plain lidocaine against 9.9 +/- 0.9 hours with epinephrine, and mean duration of any anaesthesia 2.0 +/- 0.2 hours against 11.3 +/- 0.8 hours, the longest of the four sites in both indexes. One element Todd misses is onset: the first assessment in the epinephrine phase came a fixed 30 minutes after injection, so onset was never timed, and that gap is closed instead by Christoph 1988 from Todd's own reference list, which measured onset as well as duration of skin anaesthesia for the identical solution intradermally in 25 volunteers."
+ },
+ {
+  "claim_id": "D000",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-28",
+  "papers_that_judged_it": [
+   "S-686-28"
+  ],
+  "proposed_wording": "No study has recorded skin blood flow at a wheal of any of these drugs for longer than ninety minutes. The longest ropivacaine flow recordings in skin run to 24 hours but follow a digital nerve block rather than a wheal (Häfner 2008, PMID 18334782; Schnabl 2013, PMID 23076005), and the recordings made at an intradermal ropivacaine injection stop at 90 minutes (Cederholm 1992, PMID 1286053; Cederholm 1991, PMID 2038927).",
+  "reason": "This is the same wheal-scoped statement as W-R005 and the paper leaves it standing. Schnabl 2013 records skin blood flow in human skin out to 1440 minutes, so it matches the population, design, outcome and time elements, but its route is a digital nerve block at the base of the finger with the flow probe on the dorsum of the finger below the nail bed, so it is neither a wheal nor a recording at the injection site - the one element the claim turns on. The verdict stays confirmed; the only wording gain is to name the long nerve-block recordings so the sentence is not read as saying that no ropivacaine flow recording of any kind runs past 90 minutes."
+ },
+ {
+  "claim_id": "D001",
+  "old_verdict": "narrowed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-28",
+  "papers_that_judged_it": [
+   "S-686-28"
+  ],
+  "proposed_wording": "Ropivacaine skin blood flow has been recorded past 90 minutes in more than one study, and the two longest are both finger blocks rather than wheals. The figure quoted here is from a double-blind randomised study in which [dose figure omitted] plain ropivacaine at the base of the finger raised fingerpad flow by 155.2 percent, still raised at 24 hours, in 20 volunteers (Häfner 2008, PMID 18334782). The same department published a second randomised double-blind volunteer study that recorded finger skin perfusion by laser Doppler at 12 points out to 24 hours after a plain-ropivacaine digital nerve block, in 20 volunteers with 20 fingers per arm, and found flow still significantly above baseline at 24 hours (Schnabl 2013, PMID 23076005). No recording at a ropivacaine wheal extends past 90 minutes.",
+  "reason": "The paper settles its own open question exactly. Perfusion was recorded at 12 points spanning 1440 minutes (before injection, then 1, 8, 16, 24, 32, 40, 48, 56, 60, 360 and 1440 minutes), and Tables 2 to 5 each report all 12 points, so the plain-ropivacaine arm (group 1, 6 mL ropivacaine 0.75% without additive, 20 index fingers) was followed to 24 hours, exactly as long as the ropivacaine-with-epinephrine, tumescent and lidocaine-plus-tourniquet arms; group 1 peaked at +160.2% at 56 minutes and was still significantly above baseline at 1440 minutes (+35.1%, p = 0.03, page 5). Schnabl 2013 therefore matches every element D001 lists as absent - humans, ropivacaine by any route, any design, a skin blood flow recording, and a recording longer than 90 minutes - so the uniqueness asserted by 'the one ropivacaine flow recording past 90 minutes' is refuted rather than merely narrowed, and the full text removes the uncertainty that the abstract left. The claim's own figures for Häfner 2008 check out against that paper's abstract (+155.2%, still demonstrable at 24 h, 20 test persons, Oberst's-method block), so what needs correcting is only the word 'one'; one caveat on the deciding number is that the 1440-minute row of Table 2 repeats the 24-minute row's mean and SD, which makes the body text's percentage the reliable figure at that point."
+ },
+ {
+  "claim_id": "D002",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-25"
+  ],
+  "proposed_wording": "The one ropivacaine figure measured in skin at a wheal volume times the end of complete analgesia rather than full recovery, and plain intradermal ropivacaine has not been timed to full recovery at a wheal volume. Bupivacaine has been: Reynolds 1976 (PMID 776194) timed it to full recovery at a wheal volume in 28 volunteers, mean 82.5 min.",
+  "reason": "Reynolds 1976 contains no ropivacaine, so within this claim's own scope - plain intradermal ropivacaine timed to full recovery at a wheal volume - nothing changes and the verdict stays confirmed. But the shared page sentence listed in the claim, 'neither has been timed to complete recovery at a wheal volume', couples ropivacaine with bupivacaine, and it is wrong for bupivacaine: Reynolds 1976 timed intradermal bupivacaine to a permanent score of 10 at 0.1 ml. That sentence needs splitting so the ropivacaine half survives and the bupivacaine half is dropped."
+ },
+ {
+  "claim_id": "D003",
+  "old_verdict": "refuted",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-28",
+  "papers_that_judged_it": [
+   "S-686-28"
+  ],
+  "proposed_wording": "Plain-ropivacaine blocks have been followed to complete resolution in people more than once. Besides the volunteer study that timed pinprick anaesthesia to 15.9 hours in 15 volunteers assessed over 72 hours, a randomised double-blind volunteer study timed return of normal pain perception after a plain-ropivacaine digital nerve block at an average of 6.0 hours in 20 volunteers (Schnabl 2013, PMID 23076005), and a randomised double-blind digital block trial in 70 patients timed it at a mean of 21.5 hours (Keramidas 2007, PMID 17519714).",
+  "reason": "D003 is already refuted, and this paper adds a further clean instance within the claim's own scope: people, plain ropivacaine, any block, any design, followed until the block had completely resolved. Group 1 received 6 mL ropivacaine 0.75% with no additive as a digital nerve block, and pain provocation was repeated to 1400 minutes until normal pain perception returned, giving an average duration of drug effect of 6.0 hours; the paper's reference [14] (Keramidas 2007, PMID 17519714) is a second such measurement, a randomised double-blind plain-ropivacaine digital block in 70 patients with a mean duration of 21.5 hours. The verdict does not change, but the page's uniqueness wording is now contradicted by three independent measurements rather than one."
+ },
+ {
+  "claim_id": "D006",
+  "old_verdict": "narrowed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-14",
+   "S-686-17",
+   "S-686-25",
+   "S-686-31"
+  ],
+  "proposed_wording": "Five of the seven drugs have been timed in human skin to complete recovery at a wheal volume. Reynolds 1976 (PMID 776194) timed plain bupivacaine to full recovery at a wheal volume in 28 double-blind volunteers, mean 82.5 min, alongside lignocaine at 65.7 min, and in a second trial of 27 volunteers timed mepivacaine (98.6 min pooled) and prilocaine (78.6 min pooled) by the same endpoint. Ropivacaine has been timed to full return of sensation only at a larger intradermal volume (Moffitt 2001, PMID 11359489), and articaine has not been timed in human skin. Every wheal-volume figure so far is under two hours.",
+  "reason": "Reynolds 1976 injected 0.1 ml intradermally - the wheal volume the claim's own qualifier names - and timed each agent to a permanent score of 10, that is complete recovery of pinprick sensation over the bleb, not half recovery. For bupivacaine 0.5% that gives 82.5 +/- 8.7 min in 28 volunteers, and in the second trial mepivacaine 1, 2 and 3% gives 98.6 +/- 4.7 min and prilocaine 1, 2 and 3% gives 78.6 +/- 5.1 min pooled in 27 volunteers. Bupivacaine therefore matches every element the claim says is absent, including 'at a wheal volume', so the count of four fails and bupivacaine joins the drugs timed to complete recovery at a wheal volume; articaine remains untimed in skin and ropivacaine's only full-recovery figure is still at a larger volume."
+ },
+ {
+  "claim_id": "D008",
+  "old_verdict": "confirmed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-14",
+   "S-686-17",
+   "S-686-25",
+   "S-686-31"
+  ],
+  "proposed_wording": "No study has measured intradermal bupivacaine at the smaller of the two wheal volumes this page uses. Plain intradermal bupivacaine has been timed to complete recovery at the larger wheal volume in 28 double-blind volunteers, mean 82.5 min (Reynolds 1976, PMID 776194), so a measured figure for bupivacaine in skin at a wheal volume exists and the page's duration need not be interpolated between two tissue layers with two endpoint definitions.",
+  "reason": "Reynolds 1976 used 0.1 ml per intradermal injection, not 0.05 ml, so the claim's first sentence stands: nothing has measured intradermal bupivacaine at 0.05 ml. But its endpoint was a permanent score of 10 - complete recovery of pinprick sensation over the bleb - and bupivacaine 0.5% reached it at a mean of 82.5 +/- 8.7 min in 28 volunteers, which matches the element the claim's bracketed sentence says is absent, complete recovery at 0.05-0.1 ml. 'Neither has been timed to complete recovery at a wheal volume' is therefore wrong for bupivacaine, and a directly measured wheal-volume figure in skin exists rather than only an interpolation, so the claim is narrowed rather than confirmed."
+ },
+ {
+  "claim_id": "D009",
+  "old_verdict": "confirmed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-31",
+  "papers_that_judged_it": [
+   "S-686-25",
+   "S-686-31"
+  ],
+  "proposed_wording": "A double-blind volunteer trial has timed prilocaine with adrenaline injected intradermally: in 20 female volunteers the mean duration of analgesia was 288.7 min (SE 10.2) and the mean duration of hypoaesthesia 349.1 min (SE 13.2) (Swerdlow and Jones 1970, PMID 4913413).",
+  "reason": "The full text answers the open question yes on every element. Prilocaine 1 per cent with adrenaline was one of six coded solutions each given as a 0.25 ml intradermal skin weal in the ventral left forearm of 20 female volunteers under double-blind conditions, and both timed endpoints were recorded for it: duration of analgesia 288.7 min and duration of hypoaesthesia 349.1 min, against 99.1 min and 172.9 min for the same prilocaine solution without adrenaline. The claim's elements - humans, prilocaine with epinephrine, any study, duration of anaesthesia, injected into skin - are all matched, so the claim is refuted rather than confirmed."
+ },
+ {
+  "claim_id": "D012",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-17",
+  "papers_that_judged_it": [
+   "S-686-04",
+   "S-686-17"
+  ],
+  "proposed_wording": "The pH-matched intradermal injection-pain comparison of these drugs is still the only one of its kind (Howe & Williams 1994, PMID 8034840), and in it lidocaine hurt least and etidocaine most, which puts bupivacaine between the two. One earlier intradermal volunteer study compared the same three agents and recorded injection pain without matching or reporting pH, finding stinging common to all test solutions and ranking none of them (Morgan & Russell 1975, PMID 1138776).",
+  "reason": "This paper compares the same three agents (lignocaine, bupivacaine, etidocaine) intradermally in volunteers and does record injection pain, so it is a second comparative measurement of these drugs' intradermal injection pain. But it matches no element of the claim's pH condition: the words pH, buffer, alkalinize and epinephrine appear nowhere in it, the lower strengths were made by diluting the strongest with saline, and no solution contained adrenaline, so pH was neither matched nor measured. The claim is scoped to 'two or more of the seven drugs at matched pH', so it stays confirmed. What the paper does add is that the only other intradermal comparison of those three agents on injection pain found stinging common to all and did not rank them."
+ },
+ {
+  "claim_id": "D017",
+  "old_verdict": "confirmed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-24",
+  "papers_that_judged_it": [
+   "S-686-16",
+   "S-686-24"
+  ],
+  "proposed_wording": "Bicarbonate has been put into ropivacaine in four published studies and they disagree about whether the solution stays clear. The laboratory phase of a randomised double-blind trial of lumbar peridural block in 60 patients located the point at which a precipitate appeared, used a quantity below it, and reported no precipitate under an optical microscope over five minutes at room temperature; the same paper found precipitate in every solution recovered from rat tissue five minutes after injection, including the unmodified clinical-use preparation and most of all the alkalinized ones (Ramos 2001, PMID 11464357). A bench study of a weaker ropivacaine measured precipitate still accumulating to a plateau at 20 minutes even at its lowest bicarbonate amount (Fulling & Peterfreund 2000, PMID 11009239), and a 2025 laboratory series reported precipitate at every bicarbonate volume it tried in ropivacaine (AlShammari 2025, PMID 40330160). A fourth laboratory study titrated ropivacaine at its two strongest commercial strengths only, found precipitation above pH 6.0 and excluded it, so it reports nothing about a weaker strength (Milner 2000, PMID 10758442). No study has followed a partly buffered ropivacaine past a few minutes, or at the moment it enters tissue, and reported it still clear.",
+  "reason": "Ramos matches every element D017 says is absent, within the claim's own scope. The claim's population element is 'laboratory or clinical' and its outcome element is that the solution remains free of precipitate: Ramos's laboratory phase located the point at which a precipitate appeared in 10 mL of 0.75% ropivacaine - 0.016 mEq of bicarbonate or more without adrenaline, above 0.016 and up to 0.020 mEq with adrenaline added beforehand - and the quantity it then fixed on lay below that point and showed no precipitate under an optical microscope over five minutes at room temperature, which is a positive observation of a partly buffered ropivacaine staying clear, the very thing the claim says nobody has shown; that solution was then given epidurally to 40 of the 60 patients, and the design element ('any study') and intervention element ('ropivacaine with a small, sub-precipitating amount of bicarbonate') are matched exactly. The scope difference between the two full texts decides how much each can settle: Ramos is a clinical peridural trial whose primary endpoints were sensory and motor onset, block spread and duration, and in which precipitation was a secondary laboratory and animal observation rather than an inspection of the syringes given to patients, so it settles the laboratory half of the claim's population element and leaves the clinical half resting on inference - whereas Milner 2000 is a pure laboratory solution study whose whole business was pH and precipitate, which is where it could have settled the question, and there ropivacaine precipitated at both strengths tested. Three limits belong with the verdict and none of them restores the claim as written: the observation window was five minutes of optical microscopy at room temperature at a single ropivacaine strength; Fulling & Peterfreund 2000 found precipitate accumulating out to 20 minutes in a weaker ropivacaine at its lowest bicarbonate amount, and Ramos attributes the disagreement to methodology; and in Ramos's own rat sub-study every solution recovered from tissue had precipitated, including the plain clinical-use preparation, so post-injection precipitation is reported for ropivacaine generally rather than for the buffered solutions alone. One further caution for anyone quoting a figure from this paper: the bicarbonate quantity in the arm the patients received is printed four different ways across the abstract, the methods text, the arm description and the conclusions, so no single figure for it can be read off the paper with confidence."
+ },
+ {
+  "claim_id": "D018",
+  "old_verdict": "narrowed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-24",
+  "papers_that_judged_it": [
+   "S-686-16",
+   "S-686-24"
+  ],
+  "proposed_wording": "In skin, only bupivacaine's partial buffer has been measured against injection pain. A partial, sub-precipitating buffer on ropivacaine has been tested in patients, but for block quality rather than for injection pain and by the peridural route, not in skin: a randomised double-blind three-arm trial in 60 patients found no change in sensory or motor onset or in block spread, and a longer sensory block in both buffered arms (Ramos 2001, PMID 11464357).",
+  "reason": "Ramos matches three of D018's elements and misses the two that carry the claim. It is human (60 patients), it is a comparative study (randomised, double-blind, a saline-diluted control arm against two buffered arms), and its intervention is exactly a partial sub-precipitating bicarbonate buffer on a drug that precipitates when fully buffered. But its outcome element is unmatched - injection pain was not an endpoint, and the paper reports sensory and motor onset, block spread and block duration instead - and its route element is unmatched, since this is a lumbar peridural block and the claim's context is skin injection. So 'measured on bupivacaine only' remains true for injection pain in skin and the existing narrowed verdict holds; what Ramos adds is that the record's sentence is narrower than it looks, because a partial buffer on ropivacaine has been measured in patients for a different outcome."
+ },
+ {
+  "claim_id": "D020",
+  "old_verdict": "narrowed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": true,
+  "decided_by": "S-686-33",
+  "papers_that_judged_it": [
+   "S-686-33"
+  ],
+  "proposed_wording": "Tajiri 1998 (PMID 9520891) is a randomised, double-blind, saline-controlled trial of a common peroneal nerve block in 19 patients with lumbar disc herniation, with pain measured before the block and at 15 minutes after it. It demonstrates relief during the block, not relief outlasting it, so it does not bear on the claim that relief can outlast the block.",
+  "reason": "The open question was whether Tajiri measured pain in minutes or weeks after the block. The full text settles it: the single post-block assessment was at 15 minutes, which is inside the block, and there is no later follow-up anywhere in the paper. Tajiri therefore matches the population and the sham-controlled design but fails the outcome element of D020, which is relief outlasting the block, so it should be removed from the set of studies cited as narrowing that claim. The verdict stays narrowed on the strength of the other studies already listed in the claim's reason, and uncertain remains true because D020's other open question, on PMID 34903493, is not answered by this paper."
+ },
+ {
+  "claim_id": "D023",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-20",
+  "papers_that_judged_it": [
+   "S-686-20",
+   "S-686-40"
+  ],
+  "proposed_wording": "The only intradermal test in man of a vasoconstrictor or a plasma cholinesterase inhibitor against procaine duration remains the 1952 experiment. The 1967 intradermal double-blind comparison of procaine with lignocaine and prilocaine (Padfield, PMID 6054556) is not a second one: every solution in it was given without an added vasoconstrictor, and it reports no duration of anaesthesia.",
+  "reason": "The full text settles what the abstract could not. Padfield 1967 injected procaine 2%, lignocaine 2% and prilocaine 2% - each as a single 0.2 ml intradermal bleb in 20 dental students, every solution without an added vasoconstrictor - so there was no adrenaline arm and no cholinesterase-inhibitor arm; adrenaline appears in the paper only as an uninjected comparator for blanching, from the author's personal observation. The paper matches the claim's population (humans) and route (intradermal) but not its intervention, and it misses the outcome entirely: the endpoint was a count of non-painful pinpricks out of six at 0, 5, 10, 15, 30 and 45 minutes, summed as a 'Total Activity' score, with no duration measured. The claim's 'one intradermal test' therefore stands."
+ },
+ {
+  "claim_id": "D024",
+  "old_verdict": "confirmed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-25",
+   "S-686-31",
+   "S-686-40"
+  ],
+  "proposed_wording": "The only human intradermal duration data for six drugs at once. Human intradermal concentration-duration data also exist in two earlier papers from the same group: Reynolds 1976 (PMID 776194) measured duration at three concentrations each of three agents in 27 volunteers, and Fairley and Reynolds 1981 (PMID 7326166) reported log dose-duration plots for mepivacaine and its isomers in 23 volunteers.",
+  "reason": "The 'six drugs at once' element holds: Reynolds 1976 covered five agents across two separate trials, never six in one. But the claim's second half, uniqueness for the concentration-duration slopes, fails. Reynolds 1976 injected mepivacaine at 1, 2 and 3%, prilocaine at 1, 2 and 3% and aptocaine at 1, 2 and 3% at two pH values, all at 0.1 ml intradermally, and reports duration by concentration for each - finding no significant difference across those three concentrations, the opposite of the concentration dependence Willatts 1985 reports. Fairley and Reynolds 1981 gives explicit human intradermal log dose-duration plots four years before Willatts, so the slopes are not unique either."
+ },
+ {
+  "claim_id": "D025",
+  "old_verdict": "refuted",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-04",
+   "S-686-25",
+   "S-686-40",
+   "S-686-40"
+  ],
+  "proposed_wording": "No source was found for a 2.5-hour mepivacaine duration in skin, and at least four human studies have timed mepivacaine in skin (Reynolds 1976, PMID 776194; Fairley 1981; Willatts 1985; Christoph 1988), not two. The earliest, Reynolds 1976, timed intradermal mepivacaine at three concentrations in 27 double-blind volunteers by pinprick over the bleb: mean times to full recovery of 97.0, 95.2 and 103.7 min, 98.6 min pooled (n=81), and 60 min to 50% recovery. The longest of those means is about 1.7 h, and duration did not rise with concentration.",
+  "reason": "Reynolds 1976 measured intradermal mepivacaine 1, 2 and 3% at 0.1 ml in 27 double-blind volunteers, timing recovery of pinprick sensation over each bleb to a permanent score of 10, so it is a third - and the earliest - study timing mepivacaine in human skin, which refutes the claim's 'only two such studies' element. Its longest group mean was 103.7 +/- 7.7 min at the highest concentration and 98.6 +/- 4.7 min pooled, with 60 min to 50% recovery, so nothing approaches 2.5 h; the paper also reports no significant difference in duration between the three concentrations, which removes the possibility that a higher concentration reaches 2.5 h. The substance of the claim - no source for 2.5 hours, and the measured skin durations far below it - therefore holds, but the count of studies does not."
+ },
+ {
+  "claim_id": "D039",
+  "old_verdict": "narrowed",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-40",
+  "papers_that_judged_it": [
+   "S-686-20",
+   "S-686-40"
+  ],
+  "proposed_wording": "A human intradermal duration study reports plain procaine at that concentration at a defined volume and in a defined site: Willatts and Reynolds 1985 (PMID 4041306) gave double-blind intradermal injections of a defined volume on the flexor surface of both forearms in 10 volunteers and plotted the mean time to 50% recovery against concentration for procaine and five comparators (figure 3, n = 10 per point, SEM bars), reporting that complete recovery from all injections had occurred by 80 min. The per-concentration means are in the figure, not in the text or a table.",
+  "reason": "The full text matches every element the claim says is absent. Willatts and Reynolds 1985 is human, intradermal, a duration study, and used plain (vasoconstrictor-free) procaine at 0.1%, 0.3% and 1.0% as a pair of 0.1-ml injections on the flexor surface of both forearms, spaced 40 mm apart, in the same 10 volunteers - a defined volume and a defined site. Figure 3 plots the mean time to 50% recovery against concentration for each of the six agents, n = 10 per point with SEM bars, and figure 4 gives procaine's regression slope. Answering the paper's own question: no numeric value for 1% procaine appears anywhere in the body text or in any table (the paper has no results table), so the figure was read from the rendered PDF page after calibrating the axes on their printed tick labels. Procaine at 1.0% reads about 18 min (marker centre 18.3 min; the printed symbol spans about 17.6-18.7 min; its SEM bar runs down to about 16.8 min), and about 6.8-6.9 min at both 0.1% and 0.3%, the two lower points being joined by a flat segment. The read is cross-checked against the paper's own printed statistic: a least-squares line through those three read values gives 11.6 min per log unit of concentration, against the published procaine slope of 11.41 +/- 2.31. Caveat for the record: all solutions carried 0.1% sodium metabisulphite, which the authors say inflated the control's vasodilatation and may have affected durations too."
+ },
+ {
+  "claim_id": "D040",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-35",
+  "papers_that_judged_it": [
+   "S-686-35"
+  ],
+  "proposed_wording": "Every intradermal duration and vasoactivity figure quoted in this hierarchy comes from normal skin in healthy volunteers. Where forearm and calf have been timed in the same volunteers with the same solution, the two sites did not differ significantly (Todd 1992, PMID 1590615), while the face was significantly briefer than every other site.",
+  "reason": "The absence D040 asserts is a measurement in neuropathic leg skin, and Todd 1992 is healthy volunteers in intact unwounded skin, so the verdict stays confirmed. Todd does settle the premise the sentence rests on: it is the study that timed forearm and calf in the same people with the same solution, and the only significant between-site differences were face versus the rest and, with epinephrine, hand versus leg, with arm versus leg not significant for either index. That strengthens rather than weakens the pages' practice of reading forearm figures across to leg skin, within the limit that all of it is non-neuropathic skin."
+ },
+ {
+  "claim_id": "D045",
+  "old_verdict": "narrowed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-40",
+  "papers_that_judged_it": [
+   "S-686-40"
+  ],
+  "proposed_wording": "One paper in that series is the only place in the literature where cinchocaine and tetracaine have been timed after injection into human skin. In it, complete recovery from all injections of all six agents had occurred by 80 min, and the mean time to 50% recovery for tetracaine is about 18 min at its highest concentration from figure 3; tetracaine applied to the skin as a gel or patch has been timed many times.",
+  "reason": "The verdict stands. What the full text corrects is the page's rendering of the number: the page says tetracaine was '50% recovered inside 80 minutes', but 80 min is the paper's statement about complete recovery from every injection, while the time to 50% recovery is far shorter - reading figure 3, tetracaine's three points are about 6, 13 and 18 min and cinchocaine's are about 5, 18 and 25 min, against a maximum anywhere on the figure of about 38 min for mepivacaine at its highest concentration. Read correctly the figure strengthens the page's conclusion rather than weakening it."
+ },
+ {
+  "claim_id": "D046",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": true,
+  "decided_by": "S-686-40",
+  "papers_that_judged_it": [
+   "S-686-40"
+  ],
+  "proposed_wording": "",
+  "reason": "The full text confirms what this study injected: cinchocaine was given at 0.01%, 0.033% and 0.1%, so 0.1% is the highest cinchocaine strength in this paper, and amethocaine stopped at 0.25%. That is the fact the claim rests on for this source. It stays uncertain because the claim is about the whole published literature and the pre-1966 infiltration literature cannot be excluded from this paper; Willatts' own reference list names no other human intradermal cinchocaine study."
+ },
+ {
+  "claim_id": "D054",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-20",
+  "papers_that_judged_it": [
+   "S-686-20",
+   "S-686-40"
+  ],
+  "proposed_wording": "The one intradermal experiment that tested a vasoconstrictor against procaine specifically found no prolongation. The 1967 intradermal comparison of procaine with lignocaine and prilocaine (Padfield, PMID 6054556) does not add a second test: no solution in it contained a vasoconstrictor, and no duration was measured.",
+  "reason": "Answering this paper's own open question: no procaine solution was given with adrenaline. All three agents were standard commercial 2% preparations given without an added vasoconstrictor, 0.2 ml per intradermal bleb, so there is no adrenaline arm and therefore no effect of adrenaline on duration to report. Adrenaline is named once, as an external comparator for the blanching prilocaine produced, from the author's personal observation rather than from an injected arm of the trial. The claim's uniqueness element is untouched and the verdict stays confirmed."
+ },
+ {
+  "claim_id": "D060",
+  "old_verdict": "confirmed",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-28",
+  "papers_that_judged_it": [
+   "S-686-28"
+  ],
+  "proposed_wording": "No study has recorded skin blood flow at a wheal of any of these drugs for longer than ninety minutes, and no modern intradermal laser Doppler study runs past that point; the intradermal ropivacaine recordings stop at 90 minutes (Cederholm 1992, PMID 1286053; Cederholm 1991, PMID 2038927), while the 24-hour ropivacaine flow recordings in skin follow a digital nerve block rather than a wheal (Häfner 2008, PMID 18334782; Schnabl 2013, PMID 23076005).",
+  "reason": "Same wheal-scoped statement as D000, carried on the Procaine / Novocaine page, and the same reasoning applies. Schnabl 2013 is a laser Doppler recording in human finger skin running to 24 hours, which satisfies the population, design, outcome and duration elements, but it follows a perineural digital nerve block and the probe sits remote from the injection, so it is not an intradermal wheal recording and cannot refute a claim scoped to one. Confirmed stands; naming the nerve-block recordings is the only improvement available."
+ },
+ {
+  "claim_id": "D062",
+  "old_verdict": "confirmed",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-25",
+  "papers_that_judged_it": [
+   "S-686-20",
+   "S-686-25",
+   "S-686-31",
+   "S-686-40"
+  ],
+  "proposed_wording": "The only human intradermal duration data covering procaine and five comparators at once. The concentration-duration slopes are not unique to it: Reynolds 1976 (PMID 776194) measured intradermal duration at three concentrations each of three agents in 27 volunteers and found no significant difference between them, and Fairley and Reynolds 1981 (PMID 7326166) reported human intradermal log dose-duration plots for mepivacaine.",
+  "reason": "Reynolds 1976 contains no procaine, so the 'procaine plus five comparators in one study' element the record logs is unmatched and that part of the claim stands. The claim also asserts uniqueness for the concentration-duration slopes, and that part fails: Reynolds 1976 reports intradermal duration against concentration for three agents at three concentrations each in human volunteers, and Fairley and Reynolds 1981 reports log dose-duration plots for mepivacaine intradermally. Reynolds 1976 found duration flat across 1-3%, which also means the slope result is not consistent across the series."
+ },
+ {
+  "claim_id": "W-M001",
+  "old_verdict": "",
+  "merged_verdict": "refuted",
+  "uncertain_after": false,
+  "decided_by": "S-686-40",
+  "papers_that_judged_it": [
+   "S-686-40",
+   "S-686-40"
+  ],
+  "proposed_wording": "At least three human studies have measured mepivacaine in skin by pinprick over an intradermal bleb: Reynolds, Bryson and Nicholas 1976 (PMID 776194, 27 volunteers), Fairley and Reynolds 1981 (PMID 7326166, 23 volunteers) and Willatts and Reynolds 1985 (PMID 4041306, 10 volunteers). All three used the same test - a bleb pricked five times with a lancet, scored out of 10 - and all three report recovery well inside two hours.",
+  "reason": "Willatts and Reynolds 1985 matches every element the claim says is unique to Fairley and Reynolds 1981: human skin, racemic mepivacaine, intradermal blebs, analgesia assessed by pricking the central area of each bleb five times with a lancet and scoring out of 10, and a duration endpoint. It reports complete recovery from all injections by 80 min and plots the mean time to 50% recovery per concentration in figure 3. Reynolds, Bryson and Nicholas 1976 (read in this session's card for S-686-25) is a third such study, earlier than Fairley, timing mepivacaine at three concentrations by the identical pinprick method in 27 volunteers. The claim's own duration numbers are unaffected - the three studies agree - but 'the only study' is false."
+ },
+ {
+  "claim_id": "W-M009",
+  "old_verdict": "",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-40",
+  "papers_that_judged_it": [
+   "S-686-40"
+  ],
+  "proposed_wording": "Willatts and Reynolds 1985 is at least the third human intradermal measurement of mepivacaine, after Reynolds, Bryson and Nicholas 1976 and Fairley and Reynolds 1981, and it remains the only one that times mepivacaine against both lidocaine and prilocaine in the same volunteers. Its duration endpoint is the time to 50% recovery of pinprick sharpness; complete recovery from all injections had occurred by 80 min, and it reports concentration-duration slopes for all six agents.",
+  "reason": "The distinctive element holds and the ordinal does not. All six agents, mepivacaine, lignocaine and prilocaine among them, were given to the same 10 subjects, so this is the only study to time mepivacaine against both of those comparators in one group - Reynolds 1976 put mepivacaine and prilocaine in one trial of 27 subjects but lignocaine in a separate trial of 28, with only seven subjects overlapping. But Reynolds 1976 is itself an earlier human intradermal measurement of mepivacaine, so 1985 is the third, not the second. Two further points the page's entry depends on: mepivacaine was given in part 2 while lignocaine and prilocaine were in part 1, so 'the same volunteers' is right but 'the same session' would not be; and the paper did time duration, not only vasoactivity - the per-drug endpoint is the time at which the pinprick sharpness score reached 5 out of 10, which is what figure 3 plots per concentration and what the figure-4 slopes are fitted on. The quoted sentence about complete recovery by 80 min is verbatim apart from a silently dropped parenthesis."
+ },
+ {
+  "claim_id": "W-R005",
+  "old_verdict": "",
+  "merged_verdict": "confirmed",
+  "uncertain_after": false,
+  "decided_by": "S-686-28",
+  "papers_that_judged_it": [
+   "S-686-28"
+  ],
+  "proposed_wording": "Skin blood flow at a ropivacaine wheal has still not been recorded past 90 minutes. The only laser Doppler recordings at an intradermal ropivacaine injection stop at 90 minutes (Cederholm 1992, PMID 1286053; Cederholm 1991, PMID 2038927), and the other intradermal ropivacaine study judged the vessels by visual inspection rather than by flow (Cederholm 1994, PMID 8067217). Recordings past 90 minutes exist for ropivacaine by a different route: two randomised double-blind volunteer studies recorded finger skin perfusion by laser Doppler out to 24 hours after a plain-ropivacaine digital nerve block (Häfner 2008, PMID 18334782; Schnabl 2013, PMID 23076005).",
+  "reason": "Schnabl 2013 matches three of W-R005's four elements and misses the one that decides it. It matches population (human skin, 20 healthy volunteers), design (the claim allows any; this is prospective, randomised and double-blind) and outcome (laser Doppler skin blood flux recorded at 360 and 1440 minutes, far beyond 90 minutes). It misses the intervention element twice over: the injection is a digital nerve block by Oberst's two-injection dorsal technique, 6 mL per finger given as 3 mL per lateral and medial side at the base of the finger, which is a perineural and subcutaneous deposit rather than an intradermal wheal; and the flow was recorded on the dorsal side of the finger below the nail bed, a site remote from the injection, whereas a wheal recording is made at the wheal itself. A longer recording by a different route cannot refute a wheal-scoped claim, and because the claim's wording is already explicitly limited to a wheal it is not shown to be too broad either, so the verdict is confirmed and not narrowed. My own independent check (Europe PMC) positively supports the 90-minute figure rather than merely failing to disturb it: both laser Doppler studies of intradermal ropivacaine in human forearm skin took their last reading at 90 minutes, which is where the boundary in the claim comes from."
+ },
+ {
+  "claim_id": "W-R025",
+  "old_verdict": "",
+  "merged_verdict": "narrowed",
+  "uncertain_after": false,
+  "decided_by": "S-686-40",
+  "papers_that_judged_it": [
+   "S-686-40"
+  ],
+  "proposed_wording": "In Willatts and Reynolds 1985, mepivacaine was the only one of the six agents to produce vasoconstriction significantly more frequently than the saline control at all three of its concentrations at P < 0.001; lignocaine was also significant at all three but at P < 0.05, and prilocaine reached P < 0.001 at its highest concentration alone. The paper compares six agents in one group of 10 volunteers, scoring the incidence of pallor rather than the magnitude of any flow reduction, so it supports 'most consistent' and does not support 'strongest'.",
+  "reason": "The head-to-head element holds: six agents at three concentrations each plus saline went into the same 10 volunteers, double-blind, by intradermal injection, in two parts (amethocaine, lignocaine, prilocaine in part 1; procaine, cinchocaine, mepivacaine in part 2), with the saline control given in both parts and its results combined - so all six drugs were compared in one group of subjects, though only three at a time within a session. The uniqueness element overreaches: prilocaine at its highest concentration also reached P < 0.001 against saline, so mepivacaine is not the only drug in the paper to reach that threshold, only the only one to reach it at all three concentrations. The paper's vascular measure is the percentage frequency of colour change, never a magnitude, so it cannot rank constrictor strength. The same section's other quotation is verified exactly: the paper does state that comparison of figures 1 and 2 demonstrates no relationship between vasoactivity and initial analgesic activity, while separately concluding that the steepness of the log concentration-duration slope did in general reflect the observed vasoactivity."
+ }
+]

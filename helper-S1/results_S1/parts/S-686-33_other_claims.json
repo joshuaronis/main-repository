@@ -1,0 +1,80 @@
+[
+ {
+  "claim_id": "D026",
+  "paper_id": "S-686-33",
+  "pmid": "9520891",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": true,
+  "quote": "The intensity of pain in the lower leg was determined before and at 15 minutes after nerve block using a five grade pain scale",
+  "page": 204,
+  "proposed_wording": "The durable effect has been tested against a dummy in neuropathic pain only a handful of times, and the one adequately powered trial (Ilfeld 2021) was positive at four weeks and faded by twelve months. Dummy-controlled local-anaesthetic block trials in neuropathic pain populations that measure relief only while the block is running exist as well, among them Tajiri 1998 (PMID 9520891) in lumbar disc herniation, and they bear on relief during the block rather than on relief outlasting it.",
+  "reason": "The claim is scoped to the durable effect, and within that scope the full text excludes this paper rather than adding to it. Tajiri 1998 matches the population element (sciatic radicular pain from imaged L4-L5 or L5-S1 disc herniation, a neuropathic pain) and the design element (randomised, double-blind, saline-controlled, with a blinded assessor), but its only post-block measurement was at fifteen minutes, inside the block, and there is no later follow-up anywhere in the paper. It therefore fails the outcome element, which is relief outlasting the block. Verdict unchanged at narrowed; the entry exists so that this paper is not counted toward the durable effect, which mirrors what the full text settled for D020. Uncertain after remains false for this paper's contribution, and the claim's own uncertainty rests on other sources."
+ },
+ {
+  "claim_id": "D057",
+  "paper_id": "S-686-33",
+  "pmid": "9520891",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "The patients were divided randomly into lidocaine and placebo groups after enrollment.",
+  "page": 204,
+  "proposed_wording": "Many randomised trials of injected local anaesthetic exist, only some of them at relief that outlasts the block; Tajiri 1998 (PMID 9520891) is a randomised, double-blind, saline-controlled trial in lumbar disc herniation whose endpoint sits inside the block, and the adequately powered sham-controlled trial at a durability endpoint in neuropathic pain is Ilfeld 2021.",
+  "reason": "The claim says the one randomised trial in the whole field is at relief that outlasts the block, and it is already refuted. Tajiri 1998 adds a different kind of counter-example from the one the current reason uses: a randomised, double-blind, saline-controlled trial of an injected local anaesthetic in a neuropathic pain population whose endpoint is deliberately inside the block. That shows the field contains randomised trials that are not at durability endpoints at all, so counting randomised trials is not the same as counting durability trials. Verdict unchanged at refuted."
+ },
+ {
+  "claim_id": "D030",
+  "paper_id": "S-686-33",
+  "pmid": "9520891",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Between October 1991 and March 1992, 22 consecutive outpatients who had diagnoses of sciatic radicular pain on physical examination were enrolled in this study.",
+  "page": 203,
+  "proposed_wording": "No sham- or placebo-controlled treatment trial of injected local anaesthetic in small fibre neuropathy was found by any route or design.",
+  "reason": "Recorded so that this paper is not counted toward the claim in error. It is a sham-controlled injected-local-anaesthetic trial and it would surface in a search for one, but its population is sciatic radicular pain from imaged lumbar disc herniation, which is a compressive root lesion and not small fibre neuropathy. The claim is scoped to small fibre neuropathy, so this paper misses the population element entirely. Verdict unchanged at confirmed."
+ },
+ {
+  "claim_id": "D041",
+  "paper_id": "S-686-33",
+  "pmid": "9520891",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "In this study, the fibular head was selected as the site for the block because it is far from the nerve root. Thus, it seems reasonable to assume that the local anesthetic does not reach the lesion after common peroneal nerve block.",
+  "page": 206,
+  "proposed_wording": "No study has treated one limb and followed the other for weeks; a short placebo-controlled study found that bupivacaine injected into amputees' healthy limb eased phantom pain within an hour (Casale 2009).",
+  "reason": "Recorded so that this paper is not misread as the treat-one-observe-the-other design. The separation Tajiri 1998 builds in is along a limb rather than between limbs: the injection is placed far distal to the lesion in the same leg whose pain is measured, which tests whether a block must reach the generator, not whether the effect is local or systemic. Verdict unchanged at refuted."
+ },
+ {
+  "claim_id": "D033",
+  "paper_id": "S-686-33",
+  "pmid": "9520891",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Changes in sensitivity to pin prick (analgesia, 0 points; normal sensation, 10 points) in the distribution of the common peroneal nerve and weakness of the tibialis anterior and extensor hallucis longus muscles were used as indicators of blockade.",
+  "page": 204,
+  "proposed_wording": "Eight papers met the 2012 systematic analysis's criteria for cutaneous anaesthesia in neuropathic pain, with a search running to about 2011; later intradermal reports exist and the literature remains small and uncontrolled.",
+  "reason": "Recorded so that this paper is not counted toward the claim. Tajiri 1998 demonstrably numbed the skin of the common peroneal distribution, documented with a pin-prick score before and after, in patients with radicular pain and against a saline control, so it meets the demonstrated-numbness and population elements. It misses the intervention element: the injection is perineural at the fibular head, not cutaneous anaesthesia, which is what the claim and the review it rests on are about. Verdict unchanged at narrowed."
+ },
+ {
+  "claim_id": "W-R011",
+  "paper_id": "S-686-33",
+  "pmid": "9520891",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Changes in sensitivity to pin prick (analgesia, 0 points; normal sensation, 10 points) in the distribution of the common peroneal nerve and weakness of the tibialis anterior and extensor hallucis longus muscles were used as indicators of blockade.",
+  "page": 204,
+  "proposed_wording": "No study injecting a local anaesthetic and measuring the local vascular response in neuropathic human skin against untreated, needle-only and saline controls was found. Measurements in the skin of a limb affected by a nerve lesion after an injected local anaesthetic do exist with other outcomes: pain and pruritus after intradermal lidocaine in a sensory neuropathy (Mulkoglu 2020), and pin-prick sensitivity before and after a lidocaine or saline nerve block in patients with an imaged L5 or S1 root lesion (Tajiri 1998, PMID 9520891).",
+  "reason": "Agreeing with the worker who recorded this claim as narrowed, and adding a second counter-example from a different route. The experiment the page is after is still missing, because this paper measured no vascular response of any kind. What it adds is that the short form of the sentence, that nothing has ever been measured in neuropathic human skin after an injected local anaesthetic, is contradicted from a second direction: a quantified sensory measurement was made in the skin of the affected distribution, with a saline control and a blinded assessor, after an injected local anaesthetic. The injection here was perineural rather than into the skin, which makes this weaker than the intradermal counter-example already recorded, so it supports that worker's narrowing rather than extending it to a refutation."
+ }
+]

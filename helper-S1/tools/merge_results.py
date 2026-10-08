@@ -87,6 +87,65 @@ def main():
     print(f"  quote source      {repointed} re-pointed to a held full text, "
           f"{skipped_repoint} left on the PMID (quote does not match the extracted text)")
 
+    # ---- reconcile the claims several workers judged ---------------------
+    # Each worker judges a claim against its OWN paper only, so "confirmed" from
+    # one worker means "my paper does not refute this", not "nothing refutes it".
+    # The merged verdict is therefore the strongest finding across workers:
+    # refuted > narrowed > confirmed. out-of-scope is a different axis and only
+    # wins when it is the only verdict offered.
+    RANK = {"refuted": 3, "narrowed": 2, "confirmed": 1, "out-of-scope": 0}
+    groups = defaultdict(list)
+    for u in updates:
+        groups[u.get("claim_id")].append(u)
+
+    recon, verdicts = [], []
+    for cid, us in sorted(groups.items()):
+        scored = sorted(
+            us,
+            key=lambda u: (RANK.get(u.get("new_verdict"), -1),
+                           0 if u.get("uncertain_after") else 1,
+                           len((u.get("proposed_wording") or "").strip())),
+            reverse=True)
+        win = scored[0]
+        merged = win.get("new_verdict")
+        # settled if any worker reaching the merged verdict settled it
+        unc = not any(not u.get("uncertain_after")
+                      for u in us if u.get("new_verdict") == merged)
+        for u in us:
+            u["merged_verdict"] = merged
+            u["is_merged_source"] = (u is win)
+        offered = sorted({u.get("new_verdict") for u in us})
+        if len(us) > 1:
+            recon.append({
+                "claim_id": cid,
+                "entries": len(us),
+                "verdicts_offered": {u.get("paper_id") or u.get("pmid") or "?":
+                                     u.get("new_verdict") for u in us},
+                "merged_verdict": merged,
+                "merged_from": win.get("paper_id") or win.get("pmid"),
+                "uncertain_after_merge": unc,
+                "conflict": len(offered) > 1,
+                "rule": ("strongest finding wins: each worker judged only against its own paper, "
+                         "so a weaker verdict means that paper did not settle it"),
+            })
+        verdicts.append({
+            "claim_id": cid,
+            "old_verdict": win.get("old_verdict"),
+            "merged_verdict": merged,
+            "uncertain_after": unc,
+            "decided_by": win.get("paper_id") or win.get("pmid"),
+            "papers_that_judged_it": [u.get("paper_id") or u.get("pmid") for u in us],
+            "proposed_wording": win.get("proposed_wording"),
+            "reason": win.get("reason"),
+        })
+    json.dump(recon, open(f"{R}/reconciliations.json", "w", encoding="utf-8"),
+              indent=1, ensure_ascii=False)
+    json.dump(verdicts, open(f"{R}/claim_verdicts.json", "w", encoding="utf-8"),
+              indent=1, ensure_ascii=False)
+    nconf = sum(1 for r in recon if r["conflict"])
+    print(f"  reconciled        {len(recon)} claims judged by more than one paper, "
+          f"{nconf} with differing verdicts -> results_S1/reconciliations.json")
+
     # ---- extra studies -------------------------------------------------
     extras, _ = merge_lists("*_extra_studies.json")
     byp = {}

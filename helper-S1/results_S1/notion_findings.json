@@ -1,6 +1,22 @@
 [
  {
   "finding_id": "S1-F001",
+  "paper_id": "S-686-04",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "The comparison itself / the ranking rationale - 'For a second option, and the drug to beat: plain lidocaine, already in the syringe'",
+  "sentence_as_it_stands": "It has by far the largest body of evidence behind it, the least painful injection of any solution measured, and the only sting that can be taken all the way to body pH by buffering.",
+  "kind": "overstated",
+  "quote": "The effect of the buffering of the lo … cal anesthetic solutions was a raising … of the pH toward a more physiologic … range of 7.0 to 7.4 (Table 1). … The amount of pain associated with … the infiltration of the local anesthetic … solutions was dramatically reduced by … buffering (Figure).",
+  "page_in_paper": 3,
+  "corrected_wording": "It has by far the largest body of evidence behind it and the least painful injection of any solution measured. It is not the only one of these drugs whose solution has been brought into the physiological pH range and measured there: a randomised, prospective, double-blind, within-subject study of 25 volunteers injected buffered and unbuffered mepivacaine intradermally alongside the two lidocaine solutions, reported every buffered solution inside 7.0 to 7.4, and found the pain of infiltration far lower for the buffered member of all three pairs, with the area of skin anaesthetised to pinprick not significantly different between the members of the mepivacaine pair (Christoph 1988, PMID 2827545). The laboratory study already cited in this record on the bupivacaine page reports the same for mepivacaine on a precipitation endpoint (AlShammari 2025).",
+  "importance": "high",
+  "notes": "This is a uniqueness statement inside the sentence that ranks plain lidocaine as the drug to beat, so part of the ordering rests on it. The paper's own three unbuffered solutions and three buffered solutions are reported with their measured pH in its Table 1, and the buffered mepivacaine sits in the physiological range alongside the buffered lidocaine solutions. Written here as what the study did and found, with nothing about how any solution was made: no agent, no ratio, no volumes. Two caveats worth keeping. First, this paper rated pain on a 0-to-10 scale, not the 100 mm scale the page's table uses, so the numbers do not belong on that table's scale. Second, within this paper the buffered mepivacaine pair scored numerically lower than the buffered lidocaine pair, but the three drugs were never compared against one another by any test, so that is not a measured reversal of 'the least painful injection of any solution measured' and is not claimed as one here.",
+  "worker_finding_id": "S-686-04-F001"
+ },
+ {
+  "finding_id": "S1-F002",
   "paper_id": "S-686-14",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -16,7 +32,7 @@
   "worker_finding_id": "S-686-14-F001"
  },
  {
-  "finding_id": "S1-F002",
+  "finding_id": "S1-F003",
   "paper_id": "S-686-14",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -32,7 +48,7 @@
   "worker_finding_id": "S-686-14-F002"
  },
  {
-  "finding_id": "S1-F003",
+  "finding_id": "S1-F004",
   "paper_id": "S-686-14",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -48,7 +64,7 @@
   "worker_finding_id": "S-686-14-F004"
  },
  {
-  "finding_id": "S1-F004",
+  "finding_id": "S1-F005",
   "paper_id": "S-686-17",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -64,7 +80,7 @@
   "worker_finding_id": "S-686-17-F001"
  },
  {
-  "finding_id": "S1-F005",
+  "finding_id": "S1-F006",
   "paper_id": "S-686-17",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -80,7 +96,7 @@
   "worker_finding_id": "S-686-17-F002"
  },
  {
-  "finding_id": "S1-F006",
+  "finding_id": "S1-F007",
   "paper_id": "S-686-17",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -96,7 +112,87 @@
   "worker_finding_id": "S-686-17-F005"
  },
  {
-  "finding_id": "S1-F007",
+  "finding_id": "S1-F008",
+  "paper_id": "S-686-20",
+  "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
+  "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
+  "page_version": "2026-10-02T03:14:04.610Z",
+  "section": "The seven papers nobody has pulled > item 4 (Padfield 1967)",
+  "sentence_as_it_stands": "4. **Padfield 1967.** *The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine.* Anaesthesia 22(4):556–61. PMID 6054556. **Unread; no abstract exists**, but its result is quoted in the 1985 paper: the three agents were \"equi-analgesic shortly after injection, with **procaine having the shortest, and prilocaine the longest duration of action**,\" and there was a **60% incidence of vasodilatation with procaine**. **What the full text would settle:** the durations in minutes, and whether prilocaine's edge over lidocaine is large enough to matter.",
+  "kind": "open-question-answered",
+  "quote": "With the subject's eyes averted, each bleb was tested six times and the number of non-painful stimuli out of six were recorded and indicated the degree of analgesia. This assessment was repeated at 5, 10, 15,30 and 45 minutes.",
+  "page_in_paper": 2,
+  "corrected_wording": "Padfield 1967 (PMID 6054556) has now been read. It is a double-blind, Latin-square-randomised, saline-controlled within-subject comparison of prilocaine, lignocaine and procaine given as single intradermal blebs in 20 subjects, every solution without an added vasoconstrictor. It reports no duration for any agent: analgesia was scored as the number of non-painful pinpricks out of six at 0, 5, 10, 15, 30 and 45 minutes and summed into a 'Total Activity' score, and observation stopped at 45 minutes with all three agents still scoring above saline. On total activity prilocaine was more active than lignocaine (p < 0.05) and than procaine (p < 0.001), and lignocaine more active than procaine (p < 0.05). The 60% vasodilatation figure for procaine is confirmed at source: vasodilatation was noted by twelve of the twenty pairs. The quoted ranking 'procaine having the shortest, and prilocaine the longest duration of action' is the 1985 paper's gloss on that activity-over-time score; the full text contains no durations in minutes, so that part of the queue item cannot be settled by reading this paper.",
+  "importance": "high",
+  "notes": "The queue item asks the full text for 'the durations in minutes'. The answer is that there are none: the paper measures analgesia scores at fixed times, not time to recovery. The stated aim does mention duration of action ('A group of 40 dental students participated in a double blind controlled trial ... with a view to assessing the activity and duration of action of procaine, lignocaine and prilocaine.', p2), which is probably why the 1985 paper paraphrased it as duration, but no duration value is reported anywhere in the paper.",
+  "worker_finding_id": "S-686-20-F001"
+ },
+ {
+  "finding_id": "S1-F009",
+  "paper_id": "S-686-20",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "Sources > the Foldes/Padfield CITATION ONLY entry",
+  "sentence_as_it_stands": "**Foldes FF, McNall PG 1952**; and **Padfield A 1967**, *Anaesthesia* 22:556–561. — **`CITATION ONLY`**, both via Willatts & Reynolds 1985. Foldes: intradermal procaine and chloroprocaine duration in man **not prolonged by a plasma cholinesterase inhibitor**, with or without adrenaline, so in-situ ester hydrolysis does not determine intradermal duration (bears on 9.2). Padfield: prilocaine, [dose figure omitted] lignocaine and [dose figure omitted] procaine intradermally were equi-analgesic shortly after injection, with **procaine shortest and prilocaine longest in duration, and a 60% incidence of vasodilatation with procaine.** Neither read at source.",
+  "kind": "outdated",
+  "quote": "A controlled double blind trial has shown that, intradermally, prilocaine [dose figure omitted] was a significantly more active local analgesic agent than lignocaine [dose figure omitted] and procaine [dose figure omitted]when total activity is measured over a 45 minute period as well as 30 and 45 minutes after its administration.",
+  "page_in_paper": 5,
+  "corrected_wording": "Padfield A 1967, Anaesthesia 22:556-561 - read at source. A double-blind, Latin-square-randomised, saline-controlled within-subject comparison of prilocaine, lignocaine and procaine as single intradermal forearm blebs in 20 subjects, all without an added vasoconstrictor. The three agents scored close to maximal and close to each other at 0 to 10 minutes; over the whole 45 minutes prilocaine was more active than lignocaine (p < 0.05) and than procaine (p < 0.001), and lignocaine more active than procaine (p < 0.05). Vasodilatation with procaine in twelve of twenty pairs (60%) and vasoconstriction with prilocaine in eighteen of twenty. Limits: no duration of any kind is reported, so 'procaine shortest and prilocaine longest in duration' is the 1985 paper's gloss on an activity-over-time score; observation stopped at 45 minutes with analgesia still present in all three arms.",
+  "importance": "high",
+  "notes": "'Neither read at source' is now out of date for Padfield, and the duration wording carried into this record from Willatts and Reynolds should be replaced by the activity ranking the paper actually reports. The ranking's direction is right and statistically significant; the word duration is not supportable from the paper.",
+  "worker_finding_id": "S-686-20-F014"
+ },
+ {
+  "finding_id": "S1-F010",
+  "paper_id": "S-686-20",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "9a.2 Two caveats, one of which the authors raise themselves > consequence",
+  "sentence_as_it_stands": "`INFERENCE` **Consequence: their amide-versus-ester contrast survives intact, because both arms carried metabisulphite. Their amide-versus-saline comparison does not**, because the control was artificially dilated. When they say the amides produced “less vasodilatation than saline,” the saline in question was dilating three to six times more often than plain saline does. **Do not use this paper to claim lidocaine constricts skin relative to plain saline.**",
+  "kind": "understated",
+  "quote": "Of the twenty pairs, eighteen noticed vasoconstriction occurring with priIocaine relative to the saline control and vasodilatation was noted by twelve with procaine.",
+  "page_in_paper": 5,
+  "corrected_wording": "One intradermal comparison of an amide against plain sodium chloride does exist, in a paper this page already cites second-hand. Padfield 1967 (PMID 6054556) raised blebs of prilocaine, lignocaine, procaine and plain sodium chloride in the same forearm in each of 20 subjects, double-blind, with no metabisulphite in any solution; eighteen of the twenty pairs noticed vasoconstriction with prilocaine relative to the saline control and twelve noticed vasodilatation with procaine. It is a naked-eye report at one concentration rather than a graded or instrumented measurement, and it covers prilocaine rather than lidocaine, so it does not settle whether lidocaine constricts skin relative to plain saline.",
+  "importance": "high",
+  "notes": "This is the gap the page names - an amide against an uncontaminated saline control, intradermally, in humans - and the paper that partly fills it is the one already in this page's source list as CITATION ONLY. It fills it for prilocaine, not for lidocaine, and with naked-eye colour rather than grading or flowmetry, so the instruction not to read the lidocaine claim out of Willatts and Reynolds stands.",
+  "worker_finding_id": "S-686-20-F015"
+ },
+ {
+  "finding_id": "S1-F011",
+  "paper_id": "S-686-24",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each one cost in injection pain? (the ropivacaine sentence that closes the 'A full buffer does not transfer to the other drugs' paragraph)",
+  "sentence_as_it_stands": "No one has shown that a partly buffered ropivacaine stays clear, and any mixture is worth holding to the light before it is injected.",
+  "kind": "overstated",
+  "quote": "Later, we determined the concen…tration of NaHCO3, which can be added to [dose figure omitted] of … [dose figure omitted] ropivacaine at room temperature, with and … without the previous addition of [dose figure omitted] adrenaline without provoking immediate … precipitation (5 minutes of optical microscope ob…servation) of the final anesthetic solution.",
+  "page_in_paper": 358,
+  "corrected_wording": "A partly buffered ropivacaine has been shown to stay clear once, in the laboratory and over a short window. The laboratory phase of a randomised double-blind trial of lumbar peridural block in 60 patients located the point at which a precipitate appeared in ropivacaine, used a quantity below it, and reported no precipitate under an optical microscope over five minutes at room temperature; the same paper found precipitate in every solution recovered from rat tissue five minutes after injection, including the unmodified clinical-use preparation and most of all the alkalinised ones (Ramos 2001, PMID 11464357). Two laboratory studies report the opposite over longer windows or at larger bicarbonate quantities: precipitate still accumulating to a plateau at 20 minutes in a weaker ropivacaine at the lowest amount tried (Fulling & Peterfreund 2000, PMID 11009239), and precipitate at every bicarbonate volume tried (AlShammari 2025, PMID 40330160). A fourth put ropivacaine through its titration at its two strongest commercial strengths only, found precipitation above pH 6.0 and excluded it (Milner 2000, PMID 10758442). What no study has done is follow a partly buffered ropivacaine past a few minutes, or at the moment it enters tissue, and report it still clear.",
+  "importance": "high",
+  "notes": "This is claim D017 and the sentence the whole open question was raised against; it is refuted as worded. Scope matters for how far the correction reaches. Ramos is a clinical peridural trial whose primary endpoints were block onset, spread and duration; the clarity observation was a laboratory step before the trial and an animal sub-study, never an inspection of the syringes given to patients - so the laboratory half of the sentence is settled and the clinical half is not. Milner 2000, the other full text read for this claim, is a pure laboratory solution study, which is exactly where it could have settled the question, and there ropivacaine precipitated at both strengths tested. Searched in Notion for 'Milner', 'Ramos', 'alkalinization', 'bicarbonate', 'precipitate', PMID 10758442, PMID 11464357, DOI 10.1046/j.1365-2346.2000.00596.x and DOI 10.1053/rapm.2001.24257 (engine: notion-search), and read the local copies of the ropivacaine, mepivacaine and bupivacaine wheal pages plus fresh fetches of this page, the Reference source register S1-S457, the Product Guide, '5 - Soft ground in these documents', 'What is still unsettled across these pages' and 'What was searched for and does not exist': Milner 2000, Ramos 2001 and Fulling 2000 are cited nowhere in the record, and the ropivacaine-buffering absence is not entered in the register of absences either. One loose end: a Letter/Comment on Ramos with an author reply exists (Lambert 2002, PMID 12016613) and is behind a subscription with no abstract, so it was not read.",
+  "worker_finding_id": "S-686-24-F001"
+ },
+ {
+  "finding_id": "S1-F012",
+  "paper_id": "S-686-24",
+  "page": "bupivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+  "page_version": "2026-10-02T03:14:18.695Z",
+  "section": "The sting, and the two things that reduce it > 'A 2025 laboratory study put a number on the threshold' (the ropivacaine row of the AlShammari table); repeated in the Sources entry for AlShammari",
+  "sentence_as_it_stands": "Ropivacaine | any volume | precipitated at every volume tested",
+  "kind": "overstated",
+  "quote": "For solution B, this phenomenon … occurred with values of NaHCO3 ⭖ [dose figure omitted] and … for solution C, with values of NaHCO3 greater than",
+  "page_in_paper": 360,
+  "corrected_wording": "Ropivacaine — tolerated none of the volumes tested — precipitated at every volume tested. The step size sets what that can mean: the study raised the buffer in fixed increments and its smallest increment was already several times larger than the quantity at which a precipitate first appeared in ropivacaine in an earlier laboratory determination, so the design could not have detected a window below that increment. Such a window was located and used: a laboratory phase fixed a quantity below the point at which a precipitate appeared and reported none under an optical microscope over five minutes at room temperature, and that solution was then given peridurally in a randomised double-blind trial in 60 patients (Ramos 2001, PMID 11464357). Two further limits belong with the 2025 row: its endpoint was visible precipitate, with no microscopy, and its report does not state which ropivacaine strength was tested (AlShammari 2025, PMID 40330160).",
+  "importance": "high",
+  "notes": "The ropivacaine row is the figure that two pages lean on - the bupivacaine page's bupivacaine-versus-ropivacaine contrast and the comparison page's 'no one has shown' sentence - and as rendered it reads as a property of the drug rather than of the volumes tried. The 'any volume' cell in the 'Bicarbonate it tolerates' column also inverts the sense of the row: ropivacaine tolerated no volume tested, not any volume. The increment comparison is derived, not quoted, and the assumption is named here: the 2025 study's Europe PMC record (EXT_ID:40330160) gives its increment as a fixed volume step of the 8.4 per cent bicarbonate preparation, and at that strength the step works out several times the quantity at which Ramos first saw precipitate in 10 mL of its ropivacaine solution. Confirmed in the same record that 'Ropivacaine precipitated with all volumes of buffer' is the study's own sentence and that the ropivacaine strength is not stated in it, so the page quotes it accurately; the overstatement is in treating it as the whole of what is known.",
+  "worker_finding_id": "S-686-24-F003"
+ },
+ {
+  "finding_id": "S1-F013",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -112,7 +208,7 @@
   "worker_finding_id": "S-686-25-F001"
  },
  {
-  "finding_id": "S1-F008",
+  "finding_id": "S1-F014",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -128,7 +224,7 @@
   "worker_finding_id": "S-686-25-F003"
  },
  {
-  "finding_id": "S1-F009",
+  "finding_id": "S1-F015",
   "paper_id": "S-686-25",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -144,7 +240,7 @@
   "worker_finding_id": "S-686-25-F008"
  },
  {
-  "finding_id": "S1-F010",
+  "finding_id": "S1-F016",
   "paper_id": "S-686-25",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -160,7 +256,7 @@
   "worker_finding_id": "S-686-25-F010"
  },
  {
-  "finding_id": "S1-F011",
+  "finding_id": "S1-F017",
   "paper_id": "S-686-25",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -176,7 +272,7 @@
   "worker_finding_id": "S-686-25-F011"
  },
  {
-  "finding_id": "S1-F012",
+  "finding_id": "S1-F018",
   "paper_id": "S-686-25",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -192,7 +288,7 @@
   "worker_finding_id": "S-686-25-F013"
  },
  {
-  "finding_id": "S1-F013",
+  "finding_id": "S1-F019",
   "paper_id": "S-686-31",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -208,7 +304,7 @@
   "worker_finding_id": "S-686-31-F001"
  },
  {
-  "finding_id": "S1-F014",
+  "finding_id": "S1-F020",
   "paper_id": "S-686-31",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -224,7 +320,7 @@
   "worker_finding_id": "S-686-31-F002"
  },
  {
-  "finding_id": "S1-F015",
+  "finding_id": "S1-F021",
   "paper_id": "S-686-31",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -240,7 +336,7 @@
   "worker_finding_id": "S-686-31-F003"
  },
  {
-  "finding_id": "S1-F016",
+  "finding_id": "S1-F022",
   "paper_id": "S-686-31",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -256,7 +352,7 @@
   "worker_finding_id": "S-686-31-F004"
  },
  {
-  "finding_id": "S1-F017",
+  "finding_id": "S1-F023",
   "paper_id": "S-686-31",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -272,7 +368,7 @@
   "worker_finding_id": "S-686-31-F005"
  },
  {
-  "finding_id": "S1-F018",
+  "finding_id": "S1-F024",
   "paper_id": "S-686-31",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -288,7 +384,7 @@
   "worker_finding_id": "S-686-31-F006"
  },
  {
-  "finding_id": "S1-F019",
+  "finding_id": "S1-F025",
   "paper_id": "S-686-31",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -304,7 +400,7 @@
   "worker_finding_id": "S-686-31-F008"
  },
  {
-  "finding_id": "S1-F020",
+  "finding_id": "S1-F026",
   "paper_id": "S-686-31",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -320,7 +416,39 @@
   "worker_finding_id": "S-686-31-F011"
  },
  {
-  "finding_id": "S1-F021",
+  "finding_id": "S1-F027",
+  "paper_id": "S-686-04",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each one cost in injection pain? (the table and its opening sentence)",
+  "sentence_as_it_stands": "The available figures come from three different settings and do not belong on one scale, so the table says which is which.",
+  "kind": "understated",
+  "quote": "Each participant then was asked to in … dicate on the Visual Analogue Scale … the number that corresponded to his … or her perception of the amount of … pain associated with the infiltration of … the anesthetic solution. The Visual",
+  "page_in_paper": 2,
+  "corrected_wording": "The available figures come from four different settings and do not belong on one scale, so the table says which is which. The fourth is intradermal, in 25 volunteers who each received all six solutions at six sites: plain and buffered lidocaine, plain and buffered lidocaine with epinephrine, and plain and buffered mepivacaine, each rated on a 0-to-10 scale (Christoph 1988, PMID 2827545). It carries an intradermal figure for plain mepivacaine's injection pain, which the table does not.",
+  "importance": "medium",
+  "notes": "The table's rows cover lidocaine with epinephrine and bupivacaine with epinephrine in digital blocks, three plain drugs at matched pH intradermally, ropivacaine intradermally, mepivacaine with epinephrine in digital blocks, and plain bupivacaine. Plain mepivacaine and plain lidocaine have no intradermal row, and this paper measured both, in the same subjects, by Visual Analogue Scale, in a randomised double-blind design. Its scale is 0 to 10 rather than 100 mm, so the figures cannot be dropped into the existing table without saying so, which is why the correction adds a setting rather than a number. The elements that sit on the page's own injection-pain table, and the pH-matched row in particular, are not disturbed: this study matched no pH between drugs and never compared the three against one another.",
+  "worker_finding_id": "S-686-04-F002"
+ },
+ {
+  "finding_id": "S1-F028",
+  "paper_id": "S-686-04",
+  "page": "💉 Lidocaine With Epinephrine Wheals",
+  "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
+  "page_version": "2026-09-26T18:28:27.736Z",
+  "section": "Sources — How long the numbness lasts (Collins 2013 annotation); and the body passage 'One study points at a longer figure'",
+  "sentence_as_it_stands": "The only human study using the correct depth, intradermal, with [dose figure omitted] lidocaine and [dose figure omitted]: duration 6 h 38 min to 7 h 25 min across four mixtures in 25 volunteers.",
+  "kind": "overstated",
+  "quote": "three local anesthetics ([dose figure omitted] lidocaine, [dose figure omitted] lidocaine with [dose figure omitted] epi … nephrine, and [dose figure omitted] mepivacaine) were investigated in a randomized, prospec … tive, double-blind study of 25 adult volunteers. … of the three local anesthetics were prepared, and a [dose figure omitted] intradermal injection … of each was administered.",
+  "page_in_paper": 1,
+  "corrected_wording": "The only human study that times the duration of that mixture at the correct depth, intradermal: duration 6 h 38 min to 7 h 25 min across four mixtures in 25 volunteers. It is not the only human intradermal study of the mixture. Christoph 1988 (PMID 2827545) injected it intradermally in a randomised, prospective, double-blind, within-subject study of 25 volunteers, and recorded onset and the area of skin anaesthetised to pinprick rather than a duration, stopping measurement in the first few minutes.",
+  "importance": "medium",
+  "notes": "This settles claim C081, which the abstract left uncertain. The paper names the mixture at exactly the strengths the annotation names, in its title sentence, in its methods list of solutions and in its table of measured solution pH, and injects it intradermally through a 25-gauge needle by a blinded investigator. So the uniqueness as written does not hold; narrowed to timing the duration, it does. Nothing here touches Collins's duration figures, which remain the only intradermal timings of the mixture, nor the page's separate point that the Collins endpoint is return of pinprick sensation in healthy forearm skin. The body passage's clause 'unlike every other study in this section' stays true of the studies that section cites, since this paper is cited nowhere on the page.",
+  "worker_finding_id": "S-686-04-F003"
+ },
+ {
+  "finding_id": "S1-F029",
   "paper_id": "S-686-14",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -336,7 +464,7 @@
   "worker_finding_id": "S-686-14-F003"
  },
  {
-  "finding_id": "S1-F022",
+  "finding_id": "S1-F030",
   "paper_id": "S-686-14",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -352,7 +480,7 @@
   "worker_finding_id": "S-686-14-F005"
  },
  {
-  "finding_id": "S1-F023",
+  "finding_id": "S1-F031",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -368,7 +496,7 @@
   "worker_finding_id": "S-686-14-F006"
  },
  {
-  "finding_id": "S1-F024",
+  "finding_id": "S1-F032",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -384,7 +512,7 @@
   "worker_finding_id": "S-686-14-F007"
  },
  {
-  "finding_id": "S1-F025",
+  "finding_id": "S1-F033",
   "paper_id": "S-686-14",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -400,7 +528,7 @@
   "worker_finding_id": "S-686-14-F008"
  },
  {
-  "finding_id": "S1-F026",
+  "finding_id": "S1-F034",
   "paper_id": "S-686-14",
   "page": "Injectables ruled out but not tried",
   "page_url": "https://app.notion.com/p/3d310b7903aa81fca5adcc979f03c0d5",
@@ -416,7 +544,7 @@
   "worker_finding_id": "S-686-14-F009"
  },
  {
-  "finding_id": "S1-F027",
+  "finding_id": "S1-F035",
   "paper_id": "S-686-14",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -432,7 +560,7 @@
   "worker_finding_id": "S-686-14-F010"
  },
  {
-  "finding_id": "S1-F028",
+  "finding_id": "S1-F036",
   "paper_id": "S-686-14",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -448,7 +576,39 @@
   "worker_finding_id": "S-686-14-F011"
  },
  {
-  "finding_id": "S1-F029",
+  "finding_id": "S1-F037",
+  "paper_id": "S-686-16",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each one cost in injection pain? ('A full buffer does not transfer to the other drugs, but a partial one does for bupivacaine' paragraph); and the Sources entry for Vent and colleagues",
+  "sentence_as_it_stands": "Bupivacaine, ropivacaine and prilocaine precipitate — form solid particles that come out of solution — when enough sodium bicarbonate is added to reach body pH, which is both a loss of drug and something that should not be injected.",
+  "kind": "now-verified",
+  "quote": "conclude that Ropivacaine (at concentration [dose figure omitted] and [dose figure omitted]), is unsuitable for alkalinization since it pre…cipitates at a pH of 6.0.",
+  "page_in_paper": 38,
+  "corrected_wording": "Bupivacaine, ropivacaine and prilocaine precipitate — form solid particles that come out of solution — when enough sodium bicarbonate is added to reach body pH, which is both a loss of drug and something that should not be injected. For ropivacaine a laboratory titration names the pH: ropivacaine at its two strongest commercial strengths precipitated above pH 6.0 and was excluded from the experiment for that reason, while the six bupivacaine and lidocaine solutions carried through showed no precipitate by naked eye, under high-power microscopy, after centrifugation, or after standing an hour (Milner 2000, PMID 10758442). No ropivacaine strength below those two was tested there.",
+  "importance": "medium",
+  "notes": "The sentence is right, and the Sources entry for Vent and colleagues already flags its own limit carefully - that the precipitation statement is about reaching physiological pH and does not rule out a partial buffer. What the page lacks is a primary laboratory source for the ropivacaine half: it rests on Vent's statement and on the ropivacaine label, both relayed, while the bupivacaine half has Peterfreund 1989 and the 2025 series behind it on the bupivacaine page. Milner 2000 is that primary source, it names the pH, and it is cited nowhere in the record - searched for 'Milner', PMID 10758442 and DOI 10.1046/j.1365-2346.2000.00596.x across Notion (engine: notion-search) and for the string 'Milner' in the local copies of the ropivacaine, mepivacaine and bupivacaine pages and in fresh fetches of this page, the Reference source register S1-S457, the Product Guide, '5 - Soft ground in these documents', 'What is still unsettled across these pages' and 'What was searched for and does not exist'. All ten returned nothing.",
+  "worker_finding_id": "S-686-16-F001"
+ },
+ {
+  "finding_id": "S1-F038",
+  "paper_id": "S-686-16",
+  "page": "bupivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+  "page_version": "2026-10-02T03:14:18.695Z",
+  "section": "The sting, and the two things that reduce it > 'It cannot be brought to body pH' and the two paragraphs after it; and the Sources entries for Peterfreund 1989 and AlShammari 2025",
+  "sentence_as_it_stands": "It cannot be brought to body pH. Peterfreund, Datta and Ostheimer (1989) tested this on the bench: 2-chloroprocaine and lidocaine \"readily alkalinized to near physiological pH without precipitation,\" mepivacaine showed delayed precipitation with an 18-to-20-minute latency at [dose figure omitted], and \"bupivacaine and etidocaine solutions precipitated after the addition of small amounts of sodium bicarbonate and could not be alkalinized to physiologic pH.\"",
+  "kind": "now-verified",
+  "quote": "precipitate formation, previous studies using particle … counters have demonstrated an increased number of … particles up to 25 lm after alkalinization of similar local … anaesthetic solutions to a pH of >7",
+  "page_in_paper": 41,
+  "corrected_wording": "It cannot be brought to body pH. Peterfreund, Datta and Ostheimer (1989, PMID 2562097) tested this on the bench: 2-chloroprocaine and lidocaine \"readily alkalinized to near physiological pH without precipitation,\" mepivacaine showed delayed precipitation with an 18-to-20-minute latency at [dose figure omitted], and \"bupivacaine and etidocaine solutions precipitated after the addition of small amounts of sodium bicarbonate and could not be alkalinized to physiologic pH.\" A second bench titration reaches the same place from the other direction and adds a detection limit. It carried three bupivacaine strengths and two bupivacaine-with-epinephrine solutions through a titration in triplicate, from three production batch numbers each, and found no precipitate by naked eye against white and black backgrounds, under high-power microscopy, after centrifugation, or after the samples had stood an hour. But it also reports that earlier work with particle counters recorded particle counts rising after alkalinisation of similar solutions above pH 7, where eye and microscope found nothing (Milner 2000, PMID 10758442). So every 'no visible precipitate' result on this page, including the 2025 series' visible-precipitate endpoint, is bounded by how closely the solution was looked at.",
+  "importance": "medium",
+  "notes": "Two separate improvements. First, the Peterfreund entry carries a DOI but no PMID; Europe PMC gives 2562097 and its abstract matches every phrase the page quotes, including the latency, so the entry is verified as well as completed (engine: europepmc, query title:\"pH adjustment of local anesthetic solutions with sodium bicarbonate\", hitCount 6). Second, the detection-floor point is the substantive addition, because this section's whole structure is a set of thresholds defined by whether a precipitate was seen: Peterfreund by onset of precipitation, AlShammari by visible precipitate without microscopy, and the partial-buffer margin worked out between them. A finer method has found particles where those methods found none. Milner's own ropivacaine arm is reported separately in finding S-686-16-F001. Milner 2000 is cited nowhere in the record.",
+  "worker_finding_id": "S-686-16-F002"
+ },
+ {
+  "finding_id": "S1-F039",
   "paper_id": "S-686-17",
   "page": "The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -464,7 +624,7 @@
   "worker_finding_id": "S-686-17-F003"
  },
  {
-  "finding_id": "S1-F030",
+  "finding_id": "S1-F040",
   "paper_id": "S-686-17",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -480,7 +640,7 @@
   "worker_finding_id": "S-686-17-F004"
  },
  {
-  "finding_id": "S1-F031",
+  "finding_id": "S1-F041",
   "paper_id": "S-686-17",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -496,7 +656,199 @@
   "worker_finding_id": "S-686-17-F006"
  },
  {
-  "finding_id": "S1-F032",
+  "finding_id": "S1-F042",
+  "paper_id": "S-686-20",
+  "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
+  "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
+  "page_version": "2026-10-02T03:14:04.610Z",
+  "section": "Sources > the Padfield register entry",
+  "sentence_as_it_stands": "**Padfield A.** The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. *Anaesthesia* 1967;22(4):556–61. PMID 6054556. DOI 10.1111/j.1365-2044.1967.tb10153.x. — **Limits: unread. No abstract exists.** Its findings are known second-hand from Willatts and Reynolds 1985: the three agents were equi-analgesic shortly after injection, procaine had the shortest and prilocaine the longest duration, and procaine produced a 60% incidence of vasodilatation. No minutes. Indexed as a randomised controlled trial with *injections, intradermal*, in adults.",
+  "kind": "outdated",
+  "quote": "A controlled double blind trial has shown that, intradermally, prilocaine [dose figure omitted] was a significantly more active local analgesic agent than lignocaine [dose figure omitted] and procaine [dose figure omitted]when total activity is measured over a 45 minute period as well as 30 and 45 minutes after its administration.",
+  "page_in_paper": 5,
+  "corrected_wording": "Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561. PMID 6054556. DOI 10.1111/j.1365-2044.1967.tb10153.x. - Read at source. Double-blind, Latin-square-randomised, saline-controlled within-subject comparison of prilocaine, lignocaine and procaine as single intradermal forearm blebs in 20 subjects, all solutions without an added vasoconstrictor; analgesia scored as non-painful pinpricks out of six at 0, 5, 10, 15, 30 and 45 minutes and summed as 'Total Activity'. Prilocaine more active than lignocaine (p < 0.05) and procaine (p < 0.001); lignocaine more active than procaine (p < 0.05); saline less active than the agents combined (p < 0.001). The 60% vasodilatation figure for procaine is confirmed (twelve of twenty pairs), and the paper adds that eighteen of twenty noticed vasoconstriction with prilocaine. Limits: no duration of any kind is measured, so the 'procaine shortest, prilocaine longest duration' ranking is the 1985 paper's gloss on an activity-over-time score; observation ends at 45 minutes with analgesia still present; vascular effects are naked-eye reports, not graded or instrumented; 20 healthy dental students, forearm skin.",
+  "importance": "medium",
+  "notes": "'Limits: unread. No abstract exists.' is now out of date for the unread half. Europe PMC confirms there is still no abstract, and confirms the author is Padfield alone - no second author.",
+  "worker_finding_id": "S-686-20-F002"
+ },
+ {
+  "finding_id": "S1-F043",
+  "paper_id": "S-686-20",
+  "page": "What is still unsettled across these pages, and what would settle each one",
+  "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
+  "page_version": "2026-09-26T18:23:10.973Z",
+  "section": "Seven intradermal papers never pulled",
+  "sentence_as_it_stands": "**Seven intradermal papers never pulled.** Swerdlow & Jones, *Br J Anaesth* 1970;42(4):335–9 — intradermal bupivacaine, prilocaine and lignocaine with and without adrenaline, the broadest early comparison, no PubMed abstract; Wightman & Vaughan, *Anesthesiology* 1976;45(6):687–9 — compounds for intradermal anaesthesia including benzyl alcohol, parabens, procaine, lidocaine and saline, the control-solution paper the benzyl alcohol result needs; Padfield, *Anaesthesia* 1967;22(4):556–61 — intradermal prilocaine against lignocaine against procaine, double-blind; Foldes & McNall, *Anesthesiology* 1952;13(3):287–96, DOI 10.1097/00000542-195205000-00009 — procaine and chloroprocaine intradermally in man with a plasma cholinesterase inhibitor; Defalque & Stoelting, *Anesth Analg* 1967;46(3):311–14 — latency and duration of the common agents; Kim et al, *Anesth Analg* 1979;58(5):386–8 — bupivacaine and chloroprocaine intradermal antagonism, which bears on whether an ester and an amide can be mixed; Moses et al, *J Drugs Dermatol* 2023;22(4):364–8 — a modern repeat of the injection-pain-and-duration comparison. **Limits:** none of the seven has been read. Foldes 1952 is open access as a scanned PDF and carries 29 citing statements with no editorial notices; the others were not obtained. This is the highest-value unopened material in the project, and the same kind of evidence has already overturned two conclusions in it.",
+  "kind": "outdated",
+  "quote": "The double blind, controlled trial was carried out during a series of practical classes by twenty pairs of clinical dental students.",
+  "page_in_paper": 2,
+  "corrected_wording": "Six intradermal papers never pulled. The Padfield 1967 entry is now read: Anaesthesia 1967;22(4):556-561, PMID 6054556 - a double-blind, Latin-square-randomised comparison of intradermal prilocaine against lignocaine against procaine with a plain saline control in 20 subjects, with no vasoconstrictor in any arm and no duration measured; analgesia was scored by pinprick at 0, 5, 10, 15, 30 and 45 minutes and summed. 'Limits: none of the other six has been read.'",
+  "importance": "medium",
+  "notes": "The entry's own description - 'intradermal prilocaine against lignocaine against procaine, double-blind' - is accurate; what changes is the count, the read/unread status, and the fact that this paper supplies no duration figure for the pages that want one.",
+  "worker_finding_id": "S-686-20-F004"
+ },
+ {
+  "finding_id": "S1-F044",
+  "paper_id": "S-686-20",
+  "page": "Procaine / Novocaine",
+  "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
+  "page_version": "2026-09-26T18:25:29.323Z",
+  "section": "Why epinephrine is not the lever here > item 3; and the table row 'Benefit from a vasoconstrictor'",
+  "sentence_as_it_stands": "3. **The one intradermal experiment that tested a vasoconstrictor against procaine specifically found no prolongation.** Foldes and McNall gave procaine and chloroprocaine by the intradermal route in man and found duration **not prolonged by a plasma cholinesterase inhibitor, with or without adrenaline**.",
+  "kind": "now-verified",
+  "quote": "The drugs used, prilocaine ([dose figure omitted]), lignocaine ([dose figure omitted]), procaine ([dose figure omitted]) (all without an added vasoconstrictor agent) and [dose figure omitted] sodium chloride solution were kindly supplied by the St Bartholomew's Hospital Dispensary in identical numbered bottles.",
+  "page_in_paper": 2,
+  "corrected_wording": "No change needed. The one intradermal experiment that tested a vasoconstrictor against procaine specifically found no prolongation. Padfield 1967 (PMID 6054556), the only other human intradermal study of procaine against comparators, has been read and is not a second such test: every solution in it was given without an added vasoconstrictor, and no duration was measured.",
+  "importance": "medium",
+  "notes": "This sentence and the matching table cell were flagged uncertain pending this paper, on the possibility that it contained an adrenaline arm. It does not. Adrenaline appears in the paper only once, as an uninjected comparator for the blanching prilocaine produced, from the author's personal observation.",
+  "worker_finding_id": "S-686-20-F005"
+ },
+ {
+  "finding_id": "S1-F045",
+  "paper_id": "S-686-20",
+  "page": "Procaine / Novocaine",
+  "page_url": "https://app.notion.com/p/31910b7903aa80d1a022fa3b5cb01b5c",
+  "page_version": "2026-09-26T18:25:29.323Z",
+  "section": "What is still unknown > 'What ends an intradermal procaine block'",
+  "sentence_as_it_stands": "- **What ends an intradermal procaine block.** The vascular explanation rests on one 1952 paper read second-hand and on the vasodilatation seen in 1985. *What would settle it:* the Foldes and McNall primary text, and a modern intradermal study with laser Doppler flowmetry run past 90 minutes — no study has recorded skin blood flow at a wheal of any of these drugs for longer than that; the longer recordings are at a fingertip after a finger block and under the skin ([Ropivacaine Wheals](https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e), 4.11).",
+  "kind": "understated",
+  "quote": "Of the twenty pairs, eighteen noticed vasoconstriction occurring with priIocaine relative to the saline control and vasodilatation was noted by twelve with procaine.",
+  "page_in_paper": 5,
+  "corrected_wording": "What ends an intradermal procaine block. The vascular explanation rests on one 1952 paper read second-hand and on intradermal vasodilatation observed in two separate human studies: Padfield 1967 (PMID 6054556), where vasodilatation with procaine was noted by twelve of the twenty pairs against a plain saline control raised in the same forearm, and Willatts and Reynolds 1985. What would settle it: the Foldes and McNall primary text, and a modern intradermal study with laser Doppler flowmetry run past 90 minutes.",
+  "importance": "medium",
+  "notes": "The vascular half of this explanation no longer rests on 1985 alone. Padfield's observation is eighteen years earlier, independent, and - unlike Willatts and Reynolds - was made against a plain sodium chloride control with no metabisulphite in any solution. It is a naked-eye report rather than a graded or instrumented measurement, which is worth stating alongside it.",
+  "worker_finding_id": "S-686-20-F006"
+ },
+ {
+  "finding_id": "S1-F046",
+  "paper_id": "S-686-20",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each drug do to blood vessels in skin?",
+  "sentence_as_it_stands": "Two older intradermal studies scored the colour of the skin at the injection site rather than instrumenting it, and both add something the flowmetry does not.",
+  "kind": "understated",
+  "quote": "Of the twenty pairs, eighteen noticed vasoconstriction occurring with priIocaine relative to the saline control and vasodilatation was noted by twelve with procaine.",
+  "page_in_paper": 5,
+  "corrected_wording": "Three older intradermal studies scored the colour of the skin at the injection site rather than instrumenting it, and each adds something the flowmetry does not. The earliest is Padfield 1967 (PMID 6054556), in which eighteen of twenty pairs noticed vasoconstriction with prilocaine and twelve noticed vasodilatation with procaine, relative to a plain sodium chloride control bleb raised in the same forearm.",
+  "importance": "medium",
+  "notes": "Padfield 1967 belongs in this paragraph: it is the earliest of the colour-scored intradermal studies, it is double-blind, and its control was plain saline with no metabisulphite in any solution. Its vascular data are free-text reports by subjects and partners rather than a graded score at a fixed time, so it carries less weight than the 1981 and 1985 studies on grading while carrying more on the choice of control.",
+  "worker_finding_id": "S-686-20-F007"
+ },
+ {
+  "finding_id": "S1-F047",
+  "paper_id": "S-686-20",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each drug do to blood vessels in skin? (prilocaine sentence)",
+  "sentence_as_it_stands": "Prilocaine has less vasodilating activity than lidocaine, which is why it, like mepivacaine, can be used without a vasoconstrictor (*StatPearls*, 2025).",
+  "kind": "understated",
+  "quote": "Of the twenty pairs, eighteen noticed vasoconstriction occurring with priIocaine relative to the saline control and vasodilatation was noted by twelve with procaine.",
+  "page_in_paper": 5,
+  "corrected_wording": "A primary human intradermal observation of prilocaine's effect on skin vessels exists: in Padfield 1967 (PMID 6054556), eighteen of twenty pairs noticed vasoconstriction with prilocaine relative to a plain sodium chloride control bleb raised in the same forearm, and the author recorded that the blanching prilocaine produced was less marked than adrenaline's.",
+  "importance": "medium",
+  "notes": "The page sources prilocaine's vascular behaviour to a textbook (StatPearls) and states it only as less widening than lidocaine. The 1967 paper reports active narrowing in human skin at a higher concentration than Willatts and Reynolds tested, in 18 of 20 subjects. Padfield's comparison with adrenaline is a personal observation, not a trial arm, and the strength is omitted here.",
+  "worker_finding_id": "S-686-20-F008"
+ },
+ {
+  "finding_id": "S1-F048",
+  "paper_id": "S-686-20",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "Which drug for which purpose? > procaine paragraph",
+  "sentence_as_it_stands": "**No vasoconstrictor extends it meaningfully, and the reason is vascular rather than enzymatic.** The usual explanation is that procaine is destroyed on the spot by cholinesterase in the tissue — but if that were what ends the block, inhibiting the enzyme would lengthen it, and in the one intradermal test in man it did not: duration was **not prolonged by a plasma cholinesterase inhibitor, either with or without adrenaline**.",
+  "kind": "now-verified",
+  "quote": "The drugs used, prilocaine ([dose figure omitted]), lignocaine ([dose figure omitted]), procaine ([dose figure omitted]) (all without an added vasoconstrictor agent) and [dose figure omitted] sodium chloride solution were kindly supplied by the St Bartholomew's Hospital Dispensary in identical numbered bottles.",
+  "page_in_paper": 2,
+  "corrected_wording": "No change needed. In the one intradermal test in man, duration was not prolonged by a plasma cholinesterase inhibitor, either with or without adrenaline. Padfield 1967 (PMID 6054556) has been read and does not add a second intradermal test of a vasoconstrictor on procaine: no solution in it contained a vasoconstrictor and it reports no duration.",
+  "importance": "medium",
+  "notes": "Checked because this sentence was flagged uncertain pending Padfield. The sentence stands. Note separately that Padfield did rank intradermal procaine least active of the three agents it tested, which is consistent with the page's 'short' characterisation while supplying no minutes.",
+  "worker_finding_id": "S-686-20-F009"
+ },
+ {
+  "finding_id": "S1-F049",
+  "paper_id": "S-686-20",
+  "page": "prilocaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
+  "page_version": "2026-10-02T03:14:12.541Z",
+  "section": "What is not known (first bullet)",
+  "sentence_as_it_stands": "**Nobody has timed a prilocaine wheal in human skin beyond the one intradermal study above, which says only that every injection had recovered completely by 80 minutes and gives no mean per concentration** (Willatts and Reynolds, 1985).",
+  "kind": "overstated",
+  "quote": "With the subject's eyes averted, each bleb was tested six times and the number of non-painful stimuli out of six were recorded and indicated the degree of analgesia. This assessment was repeated at 5, 10, 15,30 and 45 minutes.",
+  "page_in_paper": 2,
+  "corrected_wording": "At least two other human intradermal studies have tested prilocaine blebs serially over time: Padfield 1967 (PMID 6054556), which scored pinprick analgesia at 0, 5, 10, 15, 30 and 45 minutes in 20 subjects with analgesia still present when observation ended, and Reynolds 1976 (PMID 776194). Neither reports a mean duration per concentration, so the measurement the page wants - a recovery time per concentration in human skin - still does not exist.",
+  "importance": "medium",
+  "notes": "The conclusion of the bullet survives; the wording 'Nobody has timed a prilocaine wheal in human skin beyond the one intradermal study above' does not. Padfield timed one serially in 1967 but his observation window closed before recovery, so no duration can be read from it.",
+  "worker_finding_id": "S-686-20-F010"
+ },
+ {
+  "finding_id": "S1-F050",
+  "paper_id": "S-686-20",
+  "page": "prilocaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
+  "page_version": "2026-10-02T03:14:12.541Z",
+  "section": "Where does prilocaine sit among the local anesthetics? > second point",
+  "sentence_as_it_stands": "**It widens skin blood vessels less than lidocaine does.** Lidocaine relaxes the muscle cells in the walls of small vessels, which widens them and increases blood flow — and since removal is proportional to blood flow, a drug that widens the vessels around itself speeds up its own removal. Prilocaine has less of this widening effect, which is one reason it can be used without a **vasoconstrictor**, meaning a drug such as epinephrine added specifically to narrow those vessels and slow the removal (*StatPearls*, 2025).",
+  "kind": "understated",
+  "quote": "Of the twenty pairs, eighteen noticed vasoconstriction occurring with priIocaine relative to the saline control and vasodilatation was noted by twelve with procaine.",
+  "page_in_paper": 5,
+  "corrected_wording": "A primary human observation exists for this: in Padfield 1967 (PMID 6054556), a double-blind intradermal comparison in 20 subjects, eighteen of twenty pairs noticed vasoconstriction with prilocaine relative to a plain sodium chloride control bleb in the same forearm, and twelve noticed vasodilatation with procaine. The author recorded the blanching prilocaine produced as less marked than adrenaline's.",
+  "importance": "medium",
+  "notes": "The page's mechanism for prilocaine's standing rests on a textbook entry describing less widening than lidocaine. The 1967 paper reports narrowing rather than reduced widening, in human skin, at a higher concentration than the intradermal study the page relies on for duration. No recommendation follows from it and none is implied here.",
+  "worker_finding_id": "S-686-20-F011"
+ },
+ {
+  "finding_id": "S1-F051",
+  "paper_id": "S-686-20",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "9a.3 Procaine, specifically > point 1",
+  "sentence_as_it_stands": "`ABSTRACT-ONLY` Padfield 1967, cited in the same discussion, found a **60% incidence of vasodilatation with [dose figure omitted] procaine** intradermally in volunteers.",
+  "kind": "now-verified",
+  "quote": "Of the twenty pairs, eighteen noticed vasoconstriction occurring with priIocaine relative to the saline control and vasodilatation was noted by twelve with procaine.",
+  "page_in_paper": 5,
+  "corrected_wording": "Verified at source. Padfield 1967 (PMID 6054556) reports that vasodilatation was noted by twelve of the twenty pairs with procaine - 60% - at intradermal blebs in 20 subjects, against a plain sodium chloride control bleb in the same forearm. The same sentence adds that eighteen of the twenty pairs noticed vasoconstriction with prilocaine.",
+  "importance": "medium",
+  "notes": "The 60% figure and the concentration attributed to Padfield are both correct. The ABSTRACT-ONLY / CITATION ONLY tag can become FULLTEXT; there is no abstract, but the full text has now been read. The procaine figure is a count of pairs reporting a free-text observation, not a graded score.",
+  "worker_finding_id": "S-686-20-F013"
+ },
+ {
+  "finding_id": "S1-F052",
+  "paper_id": "S-686-24",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "PART VI — MIXING, AND THE PROCAINE PROBLEM > 9.3 pH decides the outcome of a mixture (the closing INFERENCE)",
+  "sentence_as_it_stands": "A [dose figure omitted] ampoule is acidic; diluting it with unbuffered normal saline changes the pH in a direction nobody has characterised for this route.",
+  "kind": "overstated",
+  "quote": "The variables pH, PCO2, and nonionized fraction of the patients in group G1 did not present statistically significant differences … before and after the addition of [dose figure omitted] NaCl.",
+  "page_in_paper": 359,
+  "corrected_wording": "A ropivacaine ampoule is acidic, and the direction has now been characterised in the solution, though still not for this route. A peridural trial used ropivacaine diluted with unbuffered normal saline as its control solution and measured pH, PCO2 and the nonionized fraction before and after the addition, in three lots of the anaesthetic and in its 20-patient control arm: none of the three changed significantly, and the solution did not precipitate at room temperature (Ramos 2001, PMID 11464357). So what remains unmeasured is this route, not the direction of the pH change itself.",
+  "importance": "medium",
+  "notes": "Section 9.3's wider point - that pH is an uncontrolled variable across the literature - is untouched, and the route qualifier keeps the sentence from being wrong. What the sentence overstates is the chemistry: the pH effect of adding unbuffered normal saline to this exact anaesthetic has been measured, twice over (bench lots and a patient arm), and the answer is no significant change. The sentence also sits next to the record's own note that Moffitt raised pH as the explanation for an anomalous pain result when diluting with unbuffered saline, so the measured null is directly relevant to that explanation. Section 9.3 is otherwise about mixing with other local anaesthetics rather than about bicarbonate, and neither Ramos nor any of the bicarbonate-in-ropivacaine literature appears anywhere on this page.",
+  "worker_finding_id": "S-686-24-F004"
+ },
+ {
+  "finding_id": "S1-F053",
+  "paper_id": "S-686-24",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "PART VIII — PRACTICAL > 11.2 (the third caution, precipitation); and the 2026-09-19 correction-log entry that added it",
+  "sentence_as_it_stands": "A third caution, precipitation. Section 2.3 of the US Naropin label, read in the label's own words on 2026-09-19 (the rest of the label was not read here), says ropivacaine's solubility is limited above pH 6, so it may precipitate if mixed with alkaline solutions, and that a solution showing particles or discolouration should not be given.",
+  "kind": "understated",
+  "quote": "In the popliteal foss…sae of the rats, all of the solutions, including the one … prepared for clinical use, precipitated. This was … most evident in the alkalinized solutions.",
+  "page_in_paper": 360,
+  "corrected_wording": "A third caution, precipitation. Section 2.3 of the US Naropin label says ropivacaine's solubility is limited above pH 6, so it may precipitate if mixed with alkaline solutions, and that a solution showing particles or discolouration should not be given. Four published studies have put sodium bicarbonate into ropivacaine and reported what became of the solution, and none is cited on this page. A laboratory determination found a quantity below the point at which a precipitate appeared and reported none over five minutes, gave that solution peridurally to patients, and found precipitate in every solution recovered from rat tissue after injection, including the unmodified clinical-use preparation (Ramos 2001, PMID 11464357). A bench study measured precipitate accumulating to a plateau at 20 minutes at the lowest amount tried in a weaker ropivacaine (Fulling & Peterfreund 2000, PMID 11009239). A 2025 laboratory series reported precipitate at every volume tried (AlShammari 2025, PMID 40330160). A titration tested ropivacaine at its two strongest commercial strengths only and found precipitation above pH 6.0 (Milner 2000, PMID 10758442). The pH threshold the label names is the figure all four converge on, and the animal finding is the one thing none of the others reports.",
+  "importance": "medium",
+  "notes": "The caution itself is right and the label is quoted correctly; what is understated is its footing. On this page the precipitation evidence is a label sentence plus one incidental - ropivacaine precipitating in Krebs' bicarbonate buffer in a 1993 dog-vessel study (Nakamura, section 4.9) - while four studies exist whose whole subject is bicarbonate in ropivacaine. The Ramos animal result is the only published observation of ropivacaine precipitating after it has entered tissue, and it did so for the unmodified clinical-use preparation as well as the buffered ones, which is a different and broader fact than the label's mixing warning. Recorded as an addition to the footing, not as a change to what the caution says.",
+  "worker_finding_id": "S-686-24-F005"
+ },
+ {
+  "finding_id": "S1-F054",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -512,7 +864,7 @@
   "worker_finding_id": "S-686-25-F004"
  },
  {
-  "finding_id": "S1-F033",
+  "finding_id": "S1-F055",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -528,7 +880,7 @@
   "worker_finding_id": "S-686-25-F005"
  },
  {
-  "finding_id": "S1-F034",
+  "finding_id": "S1-F056",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -544,7 +896,7 @@
   "worker_finding_id": "S-686-25-F006"
  },
  {
-  "finding_id": "S1-F035",
+  "finding_id": "S1-F057",
   "paper_id": "S-686-25",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -560,7 +912,7 @@
   "worker_finding_id": "S-686-25-F007"
  },
  {
-  "finding_id": "S1-F036",
+  "finding_id": "S1-F058",
   "paper_id": "S-686-25",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -576,7 +928,7 @@
   "worker_finding_id": "S-686-25-F009"
  },
  {
-  "finding_id": "S1-F037",
+  "finding_id": "S1-F059",
   "paper_id": "S-686-25",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -592,7 +944,119 @@
   "worker_finding_id": "S-686-25-F012"
  },
  {
-  "finding_id": "S1-F038",
+  "finding_id": "S1-F060",
+  "paper_id": "S-686-28",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "Sources > Blood flow in skin (Häfner et al., 2008 annotation) - the sentence carrying claim D001",
+  "sentence_as_it_stands": "The one ropivacaine flow recording past 90 minutes: [dose figure omitted] at the base of the finger raised fingertip flow by 155.2 percent, still raised at 24 hours, in 20 volunteers. Limits: a finger block with flow read at the fingertip, not a wheal with flow read at the injection site.",
+  "kind": "overstated",
+  "quote": "After in following 12 measurement points (before injection, 1, 8, 16, 24, 32, 40, 48, 56, 60, 360, 1440 minutes), in total the measurement period was 1440 minutes. … 24 hours after injection the acral perfusion reduced to +35.1% (p = 0.03) in comparison to the initial perfusion values before injection (Table 2).",
+  "page_in_paper": 4,
+  "corrected_wording": "One of two ropivacaine flow recordings past 90 minutes, both from the same Tübingen department and both after a finger block rather than at a wheal: at the base of the finger it raised fingertip flow by 155.2 percent, still raised at 24 hours, in 20 volunteers. The companion study recorded finger skin perfusion by laser Doppler at 12 points out to 24 hours after a plain-ropivacaine digital nerve block in 20 volunteers, 20 fingers per arm, and found flow still significantly above baseline at 24 hours (Schnabl 2013, PMID 23076005). Limits on both: a finger block with flow read away from the injection site, not a wheal with flow read at the injection site.",
+  "importance": "medium",
+  "notes": "The annotation's own figures for Häfner 2008 all check out against that paper's abstract (+155.2%, sustained vasodilatation still demonstrable at 24 h, 20 test persons, Oberst's-method block), and its 'Limits' line is right. Only the word 'one' fails. Schnabl 2013 is absent from this page entirely - a text search of the fetched page for 'Schnabl' returns nothing - although the Ropivacaine Wheals page has carried it since at least 2026-10-02 and has already recorded there that the 'nobody past 90 minutes' claim is wrong as stated. The two pages are out of step.",
+  "worker_finding_id": "S-686-28-F001"
+ },
+ {
+  "finding_id": "S1-F061",
+  "paper_id": "S-686-28",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "PART II - HOW LONG IT LASTS > 5.5 The rest of the duration literature, and what each figure is measuring (Schnabl entry); and PART XI > 14. The rejected-claims table, row 'Schnabl's recording ran to 60 minutes'",
+  "sentence_as_it_stands": "The original paper could not be obtained from the publisher, so the exact timepoint list is secondary-source verified rather than primary-methods verified. State it as \"beyond 60 minutes, apparently 24 hours.",
+  "kind": "open-question-answered",
+  "quote": "After in following 12 measurement points (before injection, 1, 8, 16, 24, 32, 40, 48, 56, 60, 360, 1440 minutes), in total the measurement period was 1440 minutes. … 24 hours after injection the acral perfusion reduced to +35.1% (p = 0.03) in comparison to the initial perfusion values before injection (Table 2).",
+  "page_in_paper": 4,
+  "corrected_wording": "The recording schedule is now read from the paper's own methods rather than inferred: perfusion was recorded at 12 points spanning 1440 minutes - before injection, then 1, 8, 16, 24, 32, 40, 48, 56, 60, 360 and 1440 minutes - and Tables 2 to 5 report all 12 points, so every arm including plain ropivacaine was followed to 24 hours. Plain ropivacaine peaked at +160.2% at 56 minutes, was +129.7% at 6 hours and was still significantly above baseline at 24 hours (+35.1%, p = 0.03). Pain was tested separately at 0, 16, 32, 48, 60, 360 and 1400 minutes. The entry can move from ABSTRACT-ONLY to FULLTEXT.",
+  "importance": "medium",
+  "notes": "This is the paper's own open question and the page's own acknowledged soft spot: the page says the timepoint list is secondary-source verified and tells the reader to state a hedged form. The full text is in the project packet at helper-S1/texts/S-686-28.txt (14 pages), so it is now obtainable. One caveat to carry: the 1440-minute row of Table 2 repeats the 24-minute row's mean and SD (47.9 PU, SD 30.2), so the body text's +35.1% is the reliable figure at that timepoint, not the table's mean.",
+  "worker_finding_id": "S-686-28-F003"
+ },
+ {
+  "finding_id": "S1-F062",
+  "paper_id": "S-686-28",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "PART XII - SOURCES > 15.1 Vessels in skin - the core (Schnabl register entry)",
+  "sentence_as_it_stands": "Schnabl SM, Herrmann N, Wilder D, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clinical Hemorheology and Microcirculation 2013;55(2):241-253. DOI 10.3233/CH-2012-1629.",
+  "kind": "citation-error",
+  "quote": "Saskia M. Schnabla , Frank Unglaubb , Zarqa Leitzc , Helmut Breuningera",
+  "page_in_paper": 1,
+  "corrected_wording": "Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clinical Hemorheology and Microcirculation 2013;55(2):241-253. PMID 23076005. DOI 10.3233/CH-2012-1629.",
+  "importance": "medium",
+  "notes": "Two of the five authors are wrong: 'Herrmann N, Wilder D' should be 'Unglaub F, Leitz Z'. The title page gives Saskia M. Schnabl, Frank Unglaub, Zarqa Leitz, Helmut Breuninger and Hans-Martin Häfner, and Europe PMC's record for PMID 23076005 gives the same five. The page is internally inconsistent: section 5.5 cites it correctly as 'Schnabl, Unglaub, Leitz et al. 2013'. Also worth adding: the `UNSOURCED` note in this same entry ('The \"60-minute recording limit\" attributed to this paper in earlier project notes is not in the abstract and is probably wrong') is now settled - it is wrong, and the real schedule runs to 1440 minutes.",
+  "worker_finding_id": "S-686-28-F004"
+ },
+ {
+  "finding_id": "S1-F063",
+  "paper_id": "S-686-28",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "PART VII - THE 0.25% DECISION > 10.1 Two premises in the question are false > False premise 1",
+  "sentence_as_it_stands": "The only preparation where [dose figure omitted] raises perfusion is the finger after a digital block: Schnabl 2013 at +160.2% and Häfner 2008 at +155.2% sustained to 24 h. Drug deposited around named nerves at the digit base, measured at the pad, injection trauma not at the measurement site. That is not a wheal.",
+  "kind": "wrong-design",
+  "quote": "To quantify changes in skin perfusion, in every group acral skin blood flux was measured via laser doppler flowmetry (LDF, Perimed Master 4001 and Perimed PF2b, Sweden; wave length 780 nm) on the dorsal side of the fingers below the nail bed.",
+  "page_in_paper": 3,
+  "corrected_wording": "The only preparation where it raises perfusion is the finger after a digital block: Schnabl 2013 at +160.2%, still significantly raised at 24 h, and Häfner 2008 at +155.2% sustained to 24 h. Drug deposited around named nerves at the digit base; measured on the back of the finger below the nail in Schnabl and at the fingerpad in Häfner; injection trauma not at the measurement site in either. That is not a wheal.",
+  "importance": "medium",
+  "notes": "'measured at the pad' is true of Häfner 2008, which read flux at the fingerpads of D II and D IV, but not of Schnabl 2013, which measured on the dorsal side of the fingers below the nail bed. Schnabl tested pain on the pulp, which may be where the conflation comes from. The argument this passage makes is unaffected - a site on the back of the finger is still remote from an injection at the digit base - so the conclusion stands and only the design detail needs fixing. Schnabl's own 24-hour figure (+35.1%, p = 0.03) could also be added, since the sentence currently attaches 'sustained to 24 h' only to Häfner.",
+  "worker_finding_id": "S-686-28-F006"
+ },
+ {
+  "finding_id": "S1-F064",
+  "paper_id": "S-686-28",
+  "page": "No study has recorded skin blood flow at a local anaesthetic wheal beyond 90 minutes, so late pallor after an injection falls outside every published measurement window",
+  "page_url": "https://app.notion.com/p/3da10b7903aa81ce95acfe0a8d7200ea",
+  "page_version": "2026-09-24T03:29:50.109Z",
+  "section": "Evidence / Receipt property, 'WHAT CAME BACK, all of it short of the mark' (first item)",
+  "sentence_as_it_stands": "Cederholm 1991, the only human intradermal ropivacaine series, stops at 90 minutes and says so.",
+  "kind": "overstated",
+  "quote": "Skin blood flow after intradermal injection of ropivacaine in various concentrations with and without epinephrine evaluated by laser Doppler flowmetry, Reg Anesth 17 (1992)",
+  "page_in_paper": 11,
+  "corrected_wording": "Two human intradermal ropivacaine laser Doppler series exist and both stop at 90 minutes: Cederholm 1991 (PMID 2038927), a methodological study whose Group III injected ropivacaine intradermally in 12 people, and Cederholm 1992 (PMID 1286053), the dedicated study of skin blood flow after intradermal ropivacaine at several concentrations with and without epinephrine in 23 volunteers. A third intradermal ropivacaine study, Cederholm 1994 (PMID 8067217), scored vessels by visual inspection rather than measuring flow.",
+  "importance": "medium",
+  "notes": "The absence this record asserts is unaffected and if anything better supported, because the second series also stops at 90 minutes - Europe PMC's abstract for PMID 1286053 states 'Recordings were made at 20, 40, 60, and 90 minutes after intradermal injection'. But 'the only' is wrong, and the two papers are not interchangeable: the 1992 one is the study the other pages lean on, and the Ropivacaine Wheals page treats it separately in its gap 6 and in section 4.3. S-686-28 carries the 1992 paper as reference [3].",
+  "worker_finding_id": "S-686-28-F007"
+ },
+ {
+  "finding_id": "S1-F065",
+  "paper_id": "S-686-28",
+  "page": "No study has recorded skin blood flow at a local anaesthetic wheal beyond 90 minutes, so late pallor after an injection falls outside every published measurement window",
+  "page_url": "https://app.notion.com/p/3da10b7903aa81ce95acfe0a8d7200ea",
+  "page_version": "2026-09-24T03:29:50.109Z",
+  "section": "Evidence / Receipt property, 'WHAT CAME BACK, all of it short of the mark' (Haefner item); Status property",
+  "sentence_as_it_stands": "Haefner 2008 recorded 24 hours of flux after ropivacaine [dose figure omitted], but at a fingerpad after an Oberst block at the digit base, so the needle trauma is not at the measurement site, which is why its saline arm showed no change at all.",
+  "kind": "understated",
+  "quote": "After in following 12 measurement points (before injection, 1, 8, 16, 24, 32, 40, 48, 56, 60, 360, 1440 minutes), in total the measurement period was 1440 minutes.",
+  "page_in_paper": 4,
+  "corrected_wording": "Haefner 2008 (PMID 18334782) recorded 24 hours of flux after ropivacaine, but at a fingerpad after an Oberst block at the digit base, so the needle trauma is not at the measurement site, which is why its saline arm showed no change at all. Schnabl 2013 (PMID 23076005) is a second recording of the same kind from the same department, read on the back of the finger below the nail at 12 points out to 1440 minutes after a digital nerve block, with plain ropivacaine still significantly above baseline at 24 hours. Both are blocks rather than wheals, so neither closes this absence.",
+  "importance": "medium",
+  "notes": "The finding this record asserts still stands, and it is the canonical receipt for the claim, so the near-miss list should be complete. Schnabl 2013 is the nearest miss of all of them - ropivacaine, 24 hours, randomised and double-blind - and is the only one whose recording schedule is now verified from the primary methods. Separately, this record's Status is Open and its verification state unverified: an independent re-check through Europe PMC (ropivacaine AND intradermal AND skin blood flow / laser Doppler, 12 hits) returned nothing at a wheal beyond 90 minutes, so the absence can be recorded as re-confirmed, with the caveat that the engine was Europe PMC and not PubMed, which was unreachable in this session.",
+  "worker_finding_id": "S-686-28-F008"
+ },
+ {
+  "finding_id": "S1-F066",
+  "paper_id": "S-686-28",
+  "page": "Anaesthetics",
+  "page_url": "https://app.notion.com/p/3c410b7903aa80a0b250f26d55808492",
+  "page_version": "2026-10-01T03:07:38.200Z",
+  "section": "Literature - ropivacaine's intrinsic cutaneous vasoconstriction > What the cited studies establish about duration",
+  "sentence_as_it_stands": "No cited study measured skin blood flow beyond 90 minutes. The three primary studies stop at 30 minutes, 90 minutes, and an unreported endpoint, respectively. The evidence therefore cannot determine whether ropivacaine's effect on skin blood flow lasts two, four, or six hours.",
+  "kind": "overstated",
+  "quote": "skin perfusion values reached +160.2% (p = 0.008) after 56 minutes and +129.7% (p = 0.01) after 6 hours. … 24 hours after injection the acral perfusion reduced to +35.1% (p = 0.03) in comparison to the initial perfusion values before injection (Table 2).",
+  "page_in_paper": 5,
+  "corrected_wording": "No study cited on this page measured skin blood flow beyond 90 minutes: the three primary studies stop at 30 minutes, 90 minutes and an unreported endpoint. Those studies cannot determine whether ropivacaine's effect on skin blood flow lasts two, four or six hours. Evidence beyond 90 minutes does exist by a different route: after a plain-ropivacaine digital nerve block, finger skin perfusion was still raised at 6 hours and at 24 hours in two randomised double-blind volunteer studies (Häfner 2008, PMID 18334782; Schnabl 2013, PMID 23076005). Those are nerve blocks with the probe away from the injection site, not intradermal or subcutaneous wheals, so they do not settle the question for this page's route.",
+  "importance": "medium",
+  "notes": "The first two sentences are correctly scoped to the page's own citations. The third generalises to 'the evidence' and is too broad: the question it calls undecidable has an answer by the digital-block route, and the answer runs the opposite way to this section's heading - plain ropivacaine at the strength used was vasodilatative for 6 hours and still measurably raised at 24. The route caveat must travel with any correction, which is why this is a scope fix rather than a reversal of the section.",
+  "worker_finding_id": "S-686-28-F009"
+ },
+ {
+  "finding_id": "S1-F067",
   "paper_id": "S-686-31",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -608,7 +1072,7 @@
   "worker_finding_id": "S-686-31-F007"
  },
  {
-  "finding_id": "S1-F039",
+  "finding_id": "S1-F068",
   "paper_id": "S-686-31",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -624,7 +1088,7 @@
   "worker_finding_id": "S-686-31-F009"
  },
  {
-  "finding_id": "S1-F040",
+  "finding_id": "S1-F069",
   "paper_id": "S-686-31",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -640,7 +1104,7 @@
   "worker_finding_id": "S-686-31-F010"
  },
  {
-  "finding_id": "S1-F041",
+  "finding_id": "S1-F070",
   "paper_id": "S-686-31",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -656,7 +1120,7 @@
   "worker_finding_id": "S-686-31-F012"
  },
  {
-  "finding_id": "S1-F042",
+  "finding_id": "S1-F071",
   "paper_id": "S-686-31",
   "page": "Small Fiber Neuropathy — Intradermal vs. Subcutaneous Injection Routing Analysis",
   "page_url": "https://app.notion.com/p/39410b7903aa8046b3eef25af516245f",
@@ -672,7 +1136,103 @@
   "worker_finding_id": "S-686-31-F013"
  },
  {
-  "finding_id": "S1-F043",
+  "finding_id": "S1-F072",
+  "paper_id": "S-686-04",
+  "page": "mepivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "page_version": "2026-10-02T03:14:08.315Z",
+  "section": "The recommendation ('Mepivacaine is not the longer wheal it looks like'); and 'How long does a mepivacaine block actually last? > In skin, which is the tissue that matters here'",
+  "sentence_as_it_stands": "The only study that measured it in human skin, by the test you would use — pinprick over an intradermal bleb — found recovery complete or nearly complete within 2 hours at every concentration tested, with time to half-recovery levelling off between about 40 and 70 minutes (Fairley and Reynolds, 1981).",
+  "kind": "overstated",
+  "quote": "the diameter of the area of the … skin anesthetized to pinprick was … identified and marked on the tape. … Measures of skin anesthe … sia were carried out for 4V2 minutes.",
+  "page_in_paper": 2,
+  "corrected_wording": "The study that mapped it across concentrations in human skin, by the test you would use — pinprick over an intradermal bleb — found recovery complete or nearly complete within 2 hours at every concentration tested, with time to half-recovery levelling off between about 40 and 70 minutes (Fairley and Reynolds, 1981). It is not the only study to have pricked the skin over a mepivacaine bleb: this page's own second source timed recovery the same way (Willatts and Reynolds, 1985), and a randomised double-blind study of 25 volunteers marked the area of skin anaesthetised to pinprick around an intradermal mepivacaine wheal, though only across the first few minutes, so it yields no duration (Christoph 1988, PMID 2827545).",
+  "importance": "low",
+  "notes": "Two separate points, one of which answers the question put to this paper. First, 'the only study that measured it in human skin, by the test you would use' is broader than the duration point it supports, and the page itself says two paragraphs later that two studies have measured this; a third study pricked the skin over a mepivacaine wheal without timing it. Second, and this is what the paper settles: W-M001 says the only study measuring mepivacaine in human skin by pinprick over an intradermal bleb is Fairley and Reynolds 1981, and this paper did measure mepivacaine in human skin by pinprick over an intradermal wheal, but it did not measure duration. It recorded the area insensitive to pinprick at six readings inside the first 4 1/2 minutes and then stopped, with that area still rising at the last reading, so it adds a human intradermal pinprick measurement of mepivacaine and no duration figure at all. Its abstract's phrase 'duration of skin anesthesia' is therefore not a measurement it made, which is worth recording so the abstract is not read as a third skin duration. How many studies have timed mepivacaine in skin is settled from Reynolds 1976, not from here.",
+  "worker_finding_id": "S-686-04-F004"
+ },
+ {
+  "finding_id": "S1-F073",
+  "paper_id": "S-686-04",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "Sources › What has no source — 'The 2.5-hour duration for mepivacaine'",
+  "sentence_as_it_stands": "The 2.5-hour duration for mepivacaine. It circulates widely and comes from dental work. No source for it in skin was found, and the two studies that did time mepivacaine in skin both came in far below it.",
+  "kind": "now-verified",
+  "quote": "Measures of skin anesthe … sia were carried out for 4V2 minutes.",
+  "page_in_paper": 4,
+  "corrected_wording": "The 2.5-hour duration for mepivacaine. It circulates widely and comes from dental work. No source for it in skin was found. One study that looks like a source is not one: a randomised double-blind intradermal study of mepivacaine in 25 volunteers reports in its abstract that duration of skin anaesthesia was unaltered by buffering, but its skin measurement ran only across the first few minutes and recorded the area numbed rather than a duration, and its statement about duration is carried over from nerve-block and epidural work and from the authors' own uncontrolled clinical impression (Christoph 1988, PMID 2827545).",
+  "importance": "low",
+  "notes": "The first half of the sentence is confirmed from this paper's full text: it is not a source for 2.5 hours in skin. Recorded as now-verified because the sentence is right on that half and because the full text closes off a candidate a reader would otherwise reach for, this paper being indexed under mepivacaine administration and dosage with 'duration of skin anesthesia' in its abstract. The count in the second half ('the two studies') is not settled from here and is addressed from Reynolds 1976; nothing in this finding endorses it.",
+  "worker_finding_id": "S-686-04-F005"
+ },
+ {
+  "finding_id": "S1-F074",
+  "paper_id": "S-686-20",
+  "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
+  "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
+  "page_version": "2026-10-02T03:14:04.610Z",
+  "section": "The recommendation > 'Seven papers in this seam have never been opened'",
+  "sentence_as_it_stands": "**Seven papers in this seam have never been opened, and that is the largest cheap gain left.** Two of them carry human intradermal data that probably exists nowhere else. Below, each is marked unread where it is unread; nothing here is dressed up as better established than it is.",
+  "kind": "outdated",
+  "quote": "The drugs used, prilocaine ([dose figure omitted]), lignocaine ([dose figure omitted]), procaine ([dose figure omitted]) (all without an added vasoconstrictor agent) and [dose figure omitted] sodium chloride solution were kindly supplied by the St Bartholomew's Hospital Dispensary in identical numbered bottles.",
+  "page_in_paper": 2,
+  "corrected_wording": "Six papers in this seam have never been opened. Padfield 1967 (PMID 6054556) has now been read: it carries human intradermal data on prilocaine against lignocaine against procaine with a saline control in 20 subjects, but not the kinds of data the page treats as existing nowhere else - no solution contained adrenaline, no preservative was compared, and no duration was measured.",
+  "importance": "low",
+  "notes": "Only the count and the note 'each is marked unread where it is unread' need updating; the judgement that this is the largest cheap gain left is untouched, and the two papers said to carry unique data (Swerdlow & Jones 1970 on adrenaline, Wightman & Vaughan 1976 on preservatives) remain unread.",
+  "worker_finding_id": "S-686-20-F003"
+ },
+ {
+  "finding_id": "S1-F075",
+  "paper_id": "S-686-20",
+  "page": "prilocaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
+  "page_version": "2026-10-02T03:14:12.541Z",
+  "section": "How long does it actually last?",
+  "sentence_as_it_stands": "**In skin, the one head-to-head measurement in minutes gives a large advantage — in horses.**",
+  "kind": "understated",
+  "quote": "Prilocaine 2 % was more active than lignocaine 2 % (p < 0.05)",
+  "page_in_paper": 4,
+  "corrected_wording": "In skin, the only head-to-head duration figures in minutes come from a horse study. A human head-to-head of prilocaine against other local anaesthetics on a skin endpoint also exists - Padfield 1967 (PMID 6054556), double-blind and saline-controlled in 20 subjects, where prilocaine was more active than lignocaine (p < 0.05) and than procaine (p < 0.001) on analgesia summed over 45 minutes - but it reports no minutes.",
+  "importance": "low",
+  "notes": "The qualifier 'in minutes' is what makes the horse study unique, and it survives. What the page is missing is that a human intradermal head-to-head exists and favours prilocaine over lignocaine with statistical significance, on an activity-over-time measure rather than a duration.",
+  "worker_finding_id": "S-686-20-F012"
+ },
+ {
+  "finding_id": "S1-F076",
+  "paper_id": "S-686-24",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each one cost in injection pain? (same paragraph, immediately before the ropivacaine sentence)",
+  "sentence_as_it_stands": "The partial buffer was measured on bupivacaine only.",
+  "kind": "understated",
+  "quote": "This was a randomized, double-blind clinical trial … in which a control group, G1, with 20 patients, … received solution A",
+  "page_in_paper": 359,
+  "corrected_wording": "In skin, and for injection pain, the partial buffer was measured on bupivacaine only. A partial, sub-precipitating buffer on ropivacaine has also been measured in patients, but by the peridural route and for block quality rather than for injection pain: a randomised double-blind three-arm trial in 60 patients found no change in sensory or motor onset and none in block spread, and a longer sensory block in both buffered arms than in the saline-diluted control (Ramos 2001, PMID 11464357).",
+  "importance": "low",
+  "notes": "This is claim D018, already carried as narrowed in the record, and the verdict does not change: Ramos misses the outcome element (injection pain was not measured) and the route element (peridural, not skin). The sentence is true for injection pain in skin and too broad without that qualifier. The reason the record already gives for narrowing D018 names Guerrier 2017 (buffered ropivacaine-mepivacaine mixture, injection pain at the medial caruncle) and Armstrong 1990; Ramos is an earlier and more direct instance, since it buffers ropivacaine on its own rather than in a mixture, and it is not in the record.",
+  "worker_finding_id": "S-686-24-F002"
+ },
+ {
+  "finding_id": "S1-F077",
+  "paper_id": "S-686-24",
+  "page": "mepivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "page_version": "2026-10-02T03:14:08.315Z",
+  "section": "Correction log, the 'set aside' line of the entry aligning this page with the ropivacaine corrections",
+  "sentence_as_it_stands": "its saline dilution needs no precipitation caution, the caution being ropivacaine's and saline not alkaline",
+  "kind": "now-verified",
+  "quote": "At room temperature, the preparation of solution … A did not promote the precipitation of the anes…thetic solution.",
+  "page_in_paper": 360,
+  "corrected_wording": "its saline dilution needs no precipitation caution, the caution being ropivacaine's and saline not alkaline — measured rather than reasoned: a trial whose control solution was ropivacaine diluted with unbuffered normal saline reported no precipitation of that solution at room temperature and no significant change in its pH (Ramos 2001, PMID 11464357).",
+  "importance": "low",
+  "notes": "The line was reasoning from first principles (saline is not alkaline) and is correct. The same trial supplies a direct measurement of the ropivacaine-plus-saline case, which is the stronger of the two arguments and is now available for the sentence. Nothing in the mepivacaine page changes; mepivacaine itself is not in either paper, and this is the page's only mention of precipitation.",
+  "worker_finding_id": "S-686-24-F006"
+ },
+ {
+  "finding_id": "S1-F078",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -688,7 +1248,7 @@
   "worker_finding_id": "S-686-25-F002"
  },
  {
-  "finding_id": "S1-F044",
+  "finding_id": "S1-F079",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -704,7 +1264,7 @@
   "worker_finding_id": "S-686-25-F014"
  },
  {
-  "finding_id": "S1-F045",
+  "finding_id": "S1-F080",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -718,5 +1278,37 @@
   "importance": "low",
   "notes": "Verified rather than corrected. Reynolds 1976 used the lower bound this item names for every injection in both trials, so it adds a study at that bound and contradicts nothing. No change needed.",
   "worker_finding_id": "S-686-25-F015"
+ },
+ {
+  "finding_id": "S1-F081",
+  "paper_id": "S-686-28",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "What does each drug do to blood vessels in skin? (final paragraph); and What would settle what is unresolved ('What happens to skin blood flow at a wheal after the first ninety minutes?') - claim D000",
+  "sentence_as_it_stands": "No study has recorded skin blood flow at a wheal of any of these drugs for longer than ninety minutes. The longer recordings were made elsewhere: ropivacaine at the fingertip for 24 hours after a block at the base of the finger, where it raised flow and kept it raised (Häfner et al., 2008), and lidocaine and bupivacaine under the skin for 6 hours, where flow was back to baseline by 30 minutes (Liu et al., 1995).",
+  "kind": "understated",
+  "quote": "A two-injection dorsal technique digital nerve block for local anesthesia of the finger nerve bundles (Oberst's-method anaesthetic block) was performed on index and ring finger of both hands in each volunteer at the base of the fingers. … After in following 12 measurement points (before injection, 1, 8, 16, 24, 32, 40, 48, 56, 60, 360, 1440 minutes), in total the measurement period was 1440 minutes.",
+  "page_in_paper": 3,
+  "corrected_wording": "No study has recorded skin blood flow at a wheal of any of these drugs for longer than ninety minutes. The longer recordings were made elsewhere: ropivacaine in the finger for 24 hours after a block at the base of the finger, in two studies from the same department, where it raised flow and kept it raised (Häfner 2008, PMID 18334782, read at the fingertip; Schnabl 2013, PMID 23076005, read on the back of the finger below the nail), and lidocaine and bupivacaine under the skin for 6 hours, where flow was back to baseline by 30 minutes (Liu et al., 1995).",
+  "importance": "low",
+  "notes": "The leading sentence is correct and the paper does not disturb it - a digital nerve block is not a wheal, and the flow probe sat remote from the injection. Only the list of longer recordings is incomplete. Low rather than medium because nothing downstream turns on the count.",
+  "worker_finding_id": "S-686-28-F002"
+ },
+ {
+  "finding_id": "S1-F082",
+  "paper_id": "S-686-28",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "PART I > 4.11 What remains unmeasured about vessels, item 2 ('Flux at a ropivacaine wheal beyond 90 minutes'); and PART XI > 14. The rejected-claims table, row 'Nobody has recorded ropivacaine skin flux past 90 minutes'",
+  "sentence_as_it_stands": "Flux at a ropivacaine wheal beyond 90 minutes. Cederholm's recordings stop there. The nearest thing is Häfner 2008, which followed [dose figure omitted] ropivacaine flux for 24 hours - but at a fingerpad after an Oberst block, where the injection is at the digit base and the measurement at the pad, so the needle trauma is not at the measurement site.",
+  "kind": "understated",
+  "quote": "A two-injection dorsal technique digital nerve block for local anesthesia of the finger nerve bundles (Oberst's-method anaesthetic block) was performed on index and ring finger of both hands in each volunteer at the base of the fingers. … After in following 12 measurement points (before injection, 1, 8, 16, 24, 32, 40, 48, 56, 60, 360, 1440 minutes), in total the measurement period was 1440 minutes.",
+  "page_in_paper": 3,
+  "corrected_wording": "Flux at a ropivacaine wheal beyond 90 minutes. Cederholm's recordings stop there. There are two nearest things, not one, both from the same department and both after an Oberst block rather than at a wheal: Häfner 2008 (PMID 18334782) followed flux at the fingerpad for 24 hours, and Schnabl 2013 (PMID 23076005) followed it on the back of the finger below the nail at 12 points out to 24 hours. In both the injection is at the digit base and the measurement away from it, so the needle trauma is not at the measurement site, and neither is a wheal.",
+  "importance": "low",
+  "notes": "The gap itself is unchanged and the section's own conclusion - narrow the claim to 'at a wheal' - is correct. Only the count of near misses is short, and Schnabl is the one of the two whose schedule is now primary-verified.",
+  "worker_finding_id": "S-686-28-F005"
  }
 ]

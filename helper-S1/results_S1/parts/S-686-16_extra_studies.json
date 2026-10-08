@@ -1,0 +1,18 @@
+[
+ {
+  "pmid": "2562097",
+  "citation": "Peterfreund RA, Datta S, Ostheimer GW. pH adjustment of local anesthetic solutions with sodium bicarbonate: laboratory evaluation of alkalinization and precipitation. Regional Anesthesia 1989;14(6):265-270. DOI 10.1136/rapm-00115550-198914060-00002",
+  "found_in_paper": "Milner 2000 reference 1, where the first author's surname is misprinted as 'Petertreund'. Looked up and verified independently (engine: europepmc, query title:\"pH adjustment of local anesthetic solutions with sodium bicarbonate\", hitCount 6, the 1989 record retrieved as PMID 2562097).",
+  "bears_on_claim_ids": ["D018", "D017"],
+  "what_it_shows": "The bench study Milner set out to replace with a single method, and already the source behind the bupivacaine-wheals page's 'it cannot be brought to body pH' passage. It establishes the per-drug split: 2-chloroprocaine and lidocaine take bicarbonate to near physiological pH without precipitating, mepivacaine precipitates with a latency of 18-20 minutes above neutral pH at [dose figure omitted], and bupivacaine and etidocaine precipitate after small additions and cannot be brought to physiologic pH. It decides neither D017 nor D018: it has no ropivacaine arm (ropivacaine was not in clinical use in 1989), no human subjects and no pain outcome. Recorded for two reasons - it is the methodological parent of both Milner 2000 and the record's bupivacaine passage, and it carries a latency finding (delayed precipitation at 18-20 minutes in a different amide) that is the same phenomenon Fulling & Peterfreund 2000 later measured in ropivacaine, which is what makes the observation window the decisive variable in D017.",
+  "quote_from_abstract": "Bupivacaine and etidocaine solutions precipitated after the addition of small amounts of sodium bicarbonate and could not be alkalinized to physiologic pH."
+ },
+ {
+  "pmid": "",
+  "citation": "Bourget P, Bonhomme L, Benhamou D. Factors influencing precipitation of pH-adjusted bupivacaine solutions. Journal of Clinical Pharmacy and Therapeutics 1990;15:197-204 (Milner 2000 ref. 12, where the third author is printed 'Benhmou'); and Bonhomme L, Benhamou D, Jebri M, Bourget P, Matre H, Postaire E, Preaux N. Chemical stability of bupivacaine in pH-adjusted solutions. Anesthesiology 1988;69:754-756 (ref. 13)",
+  "found_in_paper": "Milner 2000 references 12 and 13, cited in its Discussion (p. 41) as the particle-counter studies that qualify its own null precipitation result. Not looked up individually: Europe PMC was used for the ropivacaine-specific records that could decide D017, and neither of these has a ropivacaine arm, so neither can.",
+  "bears_on_claim_ids": ["D017", "D018"],
+  "what_it_shows": "Milner reports that these two found particle counts rising after alkalinization of similar solutions to pH above 7, where its own naked-eye and microscopic inspection, before and after centrifugation, found nothing. That is a methodological point rather than a verdict: it means an 'absence of visible precipitate' finding - the outcome element of D017 - depends on how hard the observer looked, and that both Ramos 2001's optical microscopy and Milner's own microscopy sit above the detection floor a particle counter would set. Neither study involves ropivacaine, so neither decides D017 or D018.",
+  "quote_from_abstract": ""
+ }
+]

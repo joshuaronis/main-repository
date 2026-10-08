@@ -1,0 +1,73 @@
+[
+ {
+  "pmid": "7326166",
+  "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53(11):1211-1216. DOI 10.1093/bja/53.11.1211",
+  "found_in_paper": "S-686-40 reference list and discussion (cited for the finding that L(+) mepivacaine's longer action was not associated with greater vasoconstriction)",
+  "bears_on_claim_ids": [
+   "W-M001",
+   "W-M009",
+   "D025"
+  ],
+  "what_it_shows": "Double-blind intradermal study in 23 fit volunteers, duplicate isosmolar injections of a range of concentrations of L(+), D(-) and racemic mepivacaine plus physiological saline, given to at least 14 subjects each; colour change scored 5-10 min after injection and analgesia to pinprick tested every 5 min until full recovery. Both isomers were vasoconstrictor at lower concentrations and the L isomer more vasodilator and haemorrhagic at the top of the range; duration rose with concentration and the log dose-duration curve was linear over the middle of the range, the L isomer twice as steep as the D, with the racemate between them. Its endpoint is the same half-recovery pinprick endpoint Willatts used, which settles the record's open question about whether the two mepivacaine slopes measure the same quantity. Engine: europepmc.",
+  "quote_from_abstract": "The duration of action and vascular effects of L(+) and D(-) and racemic mepivacaine were investigated in a double-blind study in 23 fit volunteers. ... The log dose-duration curve could be interpreted as linear between 0.1 and [dose figure omitted] with the slope of L isomer being twice as steep as the D. ... The longer duration of analgesia of L-mepivacaine was not associated with superior vasoconstrictor power."
+ },
+ {
+  "pmid": "1023952",
+  "citation": "Aps C, Reynolds F. The effect of concentration on vasoactivity of bupivacaine and lignocaine. Br J Anaesth 1976;48(12):1171-1174. DOI 10.1093/bja/48.12.1171",
+  "found_in_paper": "S-686-40 introduction, discussion and reference list (where it is printed with the wrong page number, 'Br. J. Anaesth., 48, 347')",
+  "bears_on_claim_ids": [
+   "D024",
+   "D062",
+   "W-R025"
+  ],
+  "what_it_shows": "Double-blind intradermal trial in 31 volunteers of bupivacaine and lignocaine, each at three concentrations. Vasoconstriction was more frequent at low concentrations and vasodilatation at high, highly significantly so; duration of action was unaffected by concentration except at the highest bupivacaine strength. It is the two-drug predecessor of the six-drug 1985 comparison and the origin of the biphasic concentration/vasoactivity pattern the pages rely on. Engine: europepmc.",
+  "quote_from_abstract": "In a double-blind trial bupivacaine 0.125, 0.25 and [dose figure omitted] and lignocaine 0.5, 1 and [dose figure omitted] were given intradermally to 31 volunteers. Vasoconstriction was observed more frequently at low concentrations of each drug, and vasodilatation at high concentrations. These observations were highly significant (P less than 0.001). Duration of action was unaffected by concentration, except in the case of bupivacaine [dose figure omitted], the effect of which was longer lasting than that of other solutions."
+ },
+ {
+  "pmid": "666948",
+  "citation": "Aps C, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of bupivacaine. Br J Clin Pharmacol 1978;6(1):63-68. DOI 10.1111/j.1365-2125.1978.tb01683.x",
+  "found_in_paper": "S-686-40 introduction, discussion and reference list",
+  "bears_on_claim_ids": [
+   "W-R025"
+  ],
+  "what_it_shows": "Double-blind intradermal study in 17 volunteers of L(-) and D(+) bupivacaine at eight concentrations plus saline, scoring colour as nil/pink/pale and testing analgesia to pinprick every 10 min for a 50% recovery endpoint. Only L(-) constricted, maximally at a mid-range concentration with 92% pallor incidence, and L(-) outlasted D(+) over the middle of the range. It is the source of the nil/pink/pale scoring method the 1985 paper uses, and the historical case in which colour and duration tracked together. Engine: europepmc.",
+  "quote_from_abstract": "Local colour changes were observed as 'nil', 'pink' or 'pale' and analgesia to pinprick was assessed every 10 min to give an estimate of apparent in vivo potency and duration of action ([dose figure omitted] recovery). ... Only L(-)-bupivacaine showed a vasoconstrictor effect. This was maximal at a concentration of [dose figure omitted], when the incidence of pallor was [dose figure omitted]."
+ },
+ {
+  "pmid": "6054556",
+  "citation": "Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561. DOI 10.1111/j.1365-2044.1967.tb10153.x",
+  "found_in_paper": "S-686-40 discussion (the only other human intradermal procaine study the authors name)",
+  "bears_on_claim_ids": [
+   "D039",
+   "D023",
+   "D054",
+   "D062"
+  ],
+  "what_it_shows": "Indexed in Europe PMC as a randomised controlled trial with MeSH terms Injections, Intradermal; Lidocaine; Prilocaine; Procaine; Adult - but it carries no abstract, so its content is available only second-hand. Willatts and Reynolds report it as comparing three plain solutions intradermally in human volunteers, equi-analgesic shortly after injection, with procaine the shortest and prilocaine the longest acting, and a 60% incidence of vasodilatation with procaine. It used a higher procaine concentration than Willatts and names no adrenaline arm, so it does not displace Willatts as the source for a defined-volume, defined-site duration at the lower concentration, and it leaves D023 and D054 open. Engine: europepmc.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "14933832",
+  "citation": "Foldes FF, McNall PG. 2-Chloroprocaine: a new local anesthetic agent. Anesthesiology 1952;13(3):287-296. DOI 10.1097/00000542-195205000-00009",
+  "found_in_paper": "S-686-40 discussion and reference list; the 1985 paper is the source-of-record for the intradermal content the project quotes",
+  "bears_on_claim_ids": [
+   "D023",
+   "D054"
+  ],
+  "what_it_shows": "No abstract in Europe PMC; MeSH carries only Anesthesia, Local; Anesthetics, Local; Humans; Procaine, with no intradermal route term, so the route itself rests on the 1985 quotation. Willatts and Reynolds quote it as finding that the duration of action of procaine and chloroprocaine given intradermally in man was not prolonged by adding a plasma cholinesterase inhibitor, with or without adrenaline, and conclude from it that in-situ hydrolysis of ester-linked local anaesthetics does not determine intradermal duration. 42 citing works. Engine: europepmc.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "776194",
+  "citation": "Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent: aptocaine. Br J Anaesth 1976;48:347-354",
+  "found_in_paper": "S-686-40 introduction, discussion and reference list (as Reynolds, Bryson and Nicholas, 1976)",
+  "bears_on_claim_ids": [
+   "W-M001",
+   "W-M009",
+   "D025",
+   "C065"
+  ],
+  "what_it_shows": "An earlier human intradermal pinprick-over-a-bleb study from the same laboratory that timed mepivacaine and prilocaine at three concentrations each in 27 double-blind volunteers, with both a time to 50% recovery and a tabulated mean time to full recovery. It therefore makes the 1985 paper the third, not the second, human intradermal measurement of mepivacaine, and refutes the 'only study' claim independently. Its two trials used different subject groups, so lignocaine was never injected alongside mepivacaine in it - which is what leaves the 1985 paper unique on that point. Details taken from this session's paper card for S-686-25, not read at source here.",
+  "quote_from_abstract": "In a double-blind trial in 28 human volunteers, a new local anaesthetic agent, aptocaine, was compared intradermally at 1, 2 and [dose figure omitted] concentrations with lignocaine [dose figure omitted] and bupivacaine [dose figure omitted]. In a second trial in 27 subjects, [dose figure omitted] aptocaine was compared with mepivacaine and prilocaine, both 1, 2 and [dose figure omitted]."
+ }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "pmid": "11009239",
+  "citation": "Fulling PD, Peterfreund RA. Alkalinization and precipitation characteristics of 0.2% ropivacaine. Regional Anesthesia and Pain Medicine 2000;25(5):518-521. DOI 10.1053/rapm.2000.8931",
+  "found_in_paper": "Ramos 2001 reference 11, discussed on its p. 361. Verified independently (engine: europepmc, query EXT_ID:11009239).",
+  "bears_on_claim_ids": ["D017"],
+  "what_it_shows": "The direct counterpart to Ramos on D017, and already in the claim's records_read. Three things matter now that both full texts have been read. First, Ramos miscites it: Ramos gives the ropivacaine strength as ten times the strength Fulling actually used, while the milligram figure Ramos quotes alongside corresponds to the correct, weaker strength - the Europe PMC title and methods name the weaker preparation. Second, Fulling measured precipitate accumulating with incubation time to a plateau at 20 minutes even at its lowest bicarbonate amount, where Ramos looked for five minutes only; Ramos attributes the disagreement between the two to methodology. Third, Fulling's own conclusion turns on that window rather than on clarity at time zero. Together the two set the observation window, not the bicarbonate quantity, as the variable that decides whether a partly buffered ropivacaine is reported as clear - which is why D017 is refuted as worded while the question of persistence is untouched.",
+  "quote_from_abstract": "Even with a low dose of bicarbonate ([dose figure omitted] bicarbonate/[dose figure omitted] ropivacaine), precipitation increased with time of incubation, reaching a plateau at 20 minutes."
+ },
+ {
+  "pmid": "12016613",
+  "citation": "Lambert DH. Clinical value of adding sodium bicarbonate to local anesthetics. Regional Anesthesia and Pain Medicine 2002;27(3):328-9; author reply 329-30. DOI 10.1053/rapm.2002.31931",
+  "found_in_paper": "Not cited by Ramos - it is a published Letter/Comment ON Ramos with an author reply, found on the Europe PMC record for Ramos (commentCorrection, type 'Comment in') and then fetched (engine: europepmc, query EXT_ID:12016613).",
+  "bears_on_claim_ids": ["D017"],
+  "what_it_shows": "A post-publication exchange about the Ramos result itself, which is the only such exchange attached to any of the four studies bearing on D017. It could sharpen or qualify the verdict, so it was pursued. Europe PMC carries no abstract for it and its only full-text link is marked subscription-required, so it was not read and nothing from it is relied on. Recorded as an unresolved loose end: a free legitimate copy was not found, no account was created, and no paywall was crossed. It is cited nowhere in the Notion record either.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "27720981",
+  "citation": "Guerrier G, Boutboul D, Chanat C, Samama CM, Baillard C. Bicarbonate-buffered ropivacaine-mepivacaine solution for medial caruncle anaesthesia. Anaesthesia Critical Care & Pain Medicine 2017;36(4):219-221. DOI 10.1016/j.accpm.2016.09.007",
+  "found_in_paper": "Not cited by Ramos. Already named in claim D018's existing reason; retrieved here while confirming the universe of alkalinized-ropivacaine studies (engine: europepmc, query TITLE_ABS:(\"alkalinized ropivacaine\" OR \"alkalinised ropivacaine\" OR \"alkalinization of ropivacaine\" OR \"buffered ropivacaine\"), hitCount 3 - the three being Fulling 2000, Ramos 2001 and this).",
+  "bears_on_claim_ids": ["D017", "D018"],
+  "what_it_shows": "A prospective, monocentric, double-blind randomised controlled trial in 40 consecutive eye-surgery patients, comparing self-reported injection pain between a plain ropivacaine-mepivacaine mixture at pH 5.9 and the same mixture pH-adjusted to 7.0 with bicarbonate; injection pain was significantly lower in the buffered group. It does not decide D017, because it reports nothing at all about precipitate or the appearance of the solution, which is D017's outcome element, and because the ropivacaine is diluted into a mepivacaine mixture rather than buffered on its own. It does not change D018 either, which already names it. Recorded here because it is the third and last member of the alkalinized-ropivacaine literature and because it shows a buffered ropivacaine-containing solution taken all the way to pH 7.0 and injected into patients, which is well above the pH at which plain ropivacaine is reported to precipitate - a tension the record does not currently note, and one the mepivacaine in the mixture probably explains.",
+  "quote_from_abstract": "This prospective, monocentric, double blind, randomised, controlled trial involved 40 consecutive patients who received either a standard local anaesthetic solution"
+ }
+]

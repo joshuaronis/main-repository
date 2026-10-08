@@ -82,10 +82,15 @@ that paper are checked against its abstract rather than the extracted text. The 
 a quote against a held full text before pointing the checker at it, and leaves it on the PMID
 otherwise, so this cannot silently produce a false pass.
 
-**A citation error in the packet itself.** `common/papers_list.csv` names S-686-17 as "Morgan,
-Lumley & Whitwam 1975". The by-line is M. Morgan and W. J. Russell, and the PubMed record carries
-exactly two authors; Lumley and Whitwam appear nowhere in the paper. Title, year, journal, volume,
-pages, PMID and DOI all match, so it is the right paper under a wrong name.
+**Two author names were wrong in the briefs this session wrote, not in the packet.** The briefing
+notes handed to two workers named S-686-17 as "Morgan, Lumley & Whitwam 1975" and S-686-20 as
+"Padfield & Watkins 1967". Both are wrong: the by-lines are M. Morgan and W. J. Russell, and
+A. Padfield alone. The packet is correct — `common/papers_list.csv` and the handover's own table
+give only "Morgan 1975" and "Padfield 1967" — so the invented co-authors came from this session and
+nowhere else. Both workers checked the by-line against the paper and the PubMed record rather than
+trusting the brief, said so, and wrote the correct citation on their cards; every citation in
+`results_S1/paper_cards/` is the by-line as printed. The names survive only in the two workers'
+status notes, where they record the correction. Nothing downstream carries them.
 
 **A page outside the index.** A worker's Notion search surfaced a page on exactly this topic that is
 not in `common/pages_index.csv` — "Small Fiber Neuropathy — Intradermal vs. Subcutaneous Injection

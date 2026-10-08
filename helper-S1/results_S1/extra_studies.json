@@ -82,6 +82,28 @@
   "engine": "amass"
  },
  {
+  "pmid": "2562097",
+  "citation": "Peterfreund RA, Datta S, Ostheimer GW. pH adjustment of local anesthetic solutions with sodium bicarbonate: laboratory evaluation of alkalinization and precipitation. Regional Anesthesia 1989;14(6):265-270. DOI 10.1136/rapm-00115550-198914060-00002",
+  "found_in_paper": "Milner 2000 reference 1, where the first author's surname is misprinted as 'Petertreund'. Looked up and verified independently (engine: europepmc, query title:\"pH adjustment of local anesthetic solutions with sodium bicarbonate\", hitCount 6, the 1989 record retrieved as PMID 2562097).",
+  "bears_on_claim_ids": [
+   "D018",
+   "D017"
+  ],
+  "what_it_shows": "The bench study Milner set out to replace with a single method, and already the source behind the bupivacaine-wheals page's 'it cannot be brought to body pH' passage. It establishes the per-drug split: 2-chloroprocaine and lidocaine take bicarbonate to near physiological pH without precipitating, mepivacaine precipitates with a latency of 18-20 minutes above neutral pH at [dose figure omitted], and bupivacaine and etidocaine precipitate after small additions and cannot be brought to physiologic pH. It decides neither D017 nor D018: it has no ropivacaine arm (ropivacaine was not in clinical use in 1989), no human subjects and no pain outcome. Recorded for two reasons - it is the methodological parent of both Milner 2000 and the record's bupivacaine passage, and it carries a latency finding (delayed precipitation at 18-20 minutes in a different amide) that is the same phenomenon Fulling & Peterfreund 2000 later measured in ropivacaine, which is what makes the observation window the decisive variable in D017.",
+  "quote_from_abstract": "Bupivacaine and etidocaine solutions precipitated after the addition of small amounts of sodium bicarbonate and could not be alkalinized to physiologic pH."
+ },
+ {
+  "pmid": "",
+  "citation": "Bourget P, Bonhomme L, Benhamou D. Factors influencing precipitation of pH-adjusted bupivacaine solutions. Journal of Clinical Pharmacy and Therapeutics 1990;15:197-204 (Milner 2000 ref. 12, where the third author is printed 'Benhmou'); and Bonhomme L, Benhamou D, Jebri M, Bourget P, Matre H, Postaire E, Preaux N. Chemical stability of bupivacaine in pH-adjusted solutions. Anesthesiology 1988;69:754-756 (ref. 13)",
+  "found_in_paper": "Milner 2000 references 12 and 13, cited in its Discussion (p. 41) as the particle-counter studies that qualify its own null precipitation result. Not looked up individually: Europe PMC was used for the ropivacaine-specific records that could decide D017, and neither of these has a ropivacaine arm, so neither can.",
+  "bears_on_claim_ids": [
+   "D017",
+   "D018"
+  ],
+  "what_it_shows": "Milner reports that these two found particle counts rising after alkalinization of similar solutions to pH above 7, where its own naked-eye and microscopic inspection, before and after centrifugation, found nothing. That is a methodological point rather than a verdict: it means an 'absence of visible precipitate' finding - the outcome element of D017 - depends on how hard the observer looked, and that both Ramos 2001's optical microscopy and Milner's own microscopy sit above the detection floor a particle counter would set. Neither study involves ropivacaine, so neither decides D017 or D018.",
+  "quote_from_abstract": ""
+ },
+ {
   "pmid": "8034840",
   "citation": "Howe NR, Williams JM. Pain of injection and duration of anesthesia for intradermal infiltration of lidocaine, bupivacaine, and etidocaine. J Dermatol Surg Oncol 1994;20(7):459-464. DOI 10.1111/j.1524-4725.1994.tb03216.x",
   "found_in_paper": "Not cited by S-686-17 (S-686-17 is from 1975). Identified as 'the one that is cited' from the Notion bupivacaine-wheals, comparison and 'still unsettled' pages, then fetched and verified independently (engine: europepmc, query EXT_ID:8034840).",
@@ -182,6 +204,37 @@
   "quote_from_abstract": ""
  },
  {
+  "pmid": "11009239",
+  "citation": "Fulling PD, Peterfreund RA. Alkalinization and precipitation characteristics of 0.2% ropivacaine. Regional Anesthesia and Pain Medicine 2000;25(5):518-521. DOI 10.1053/rapm.2000.8931",
+  "found_in_paper": "Ramos 2001 reference 11, discussed on its p. 361. Verified independently (engine: europepmc, query EXT_ID:11009239).",
+  "bears_on_claim_ids": [
+   "D017"
+  ],
+  "what_it_shows": "The direct counterpart to Ramos on D017, and already in the claim's records_read. Three things matter now that both full texts have been read. First, Ramos miscites it: Ramos gives the ropivacaine strength as ten times the strength Fulling actually used, while the milligram figure Ramos quotes alongside corresponds to the correct, weaker strength - the Europe PMC title and methods name the weaker preparation. Second, Fulling measured precipitate accumulating with incubation time to a plateau at 20 minutes even at its lowest bicarbonate amount, where Ramos looked for five minutes only; Ramos attributes the disagreement between the two to methodology. Third, Fulling's own conclusion turns on that window rather than on clarity at time zero. Together the two set the observation window, not the bicarbonate quantity, as the variable that decides whether a partly buffered ropivacaine is reported as clear - which is why D017 is refuted as worded while the question of persistence is untouched.",
+  "quote_from_abstract": "Even with a low dose of bicarbonate ([dose figure omitted] bicarbonate/[dose figure omitted] ropivacaine), precipitation increased with time of incubation, reaching a plateau at 20 minutes."
+ },
+ {
+  "pmid": "12016613",
+  "citation": "Lambert DH. Clinical value of adding sodium bicarbonate to local anesthetics. Regional Anesthesia and Pain Medicine 2002;27(3):328-9; author reply 329-30. DOI 10.1053/rapm.2002.31931",
+  "found_in_paper": "Not cited by Ramos - it is a published Letter/Comment ON Ramos with an author reply, found on the Europe PMC record for Ramos (commentCorrection, type 'Comment in') and then fetched (engine: europepmc, query EXT_ID:12016613).",
+  "bears_on_claim_ids": [
+   "D017"
+  ],
+  "what_it_shows": "A post-publication exchange about the Ramos result itself, which is the only such exchange attached to any of the four studies bearing on D017. It could sharpen or qualify the verdict, so it was pursued. Europe PMC carries no abstract for it and its only full-text link is marked subscription-required, so it was not read and nothing from it is relied on. Recorded as an unresolved loose end: a free legitimate copy was not found, no account was created, and no paywall was crossed. It is cited nowhere in the Notion record either.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "27720981",
+  "citation": "Guerrier G, Boutboul D, Chanat C, Samama CM, Baillard C. Bicarbonate-buffered ropivacaine-mepivacaine solution for medial caruncle anaesthesia. Anaesthesia Critical Care & Pain Medicine 2017;36(4):219-221. DOI 10.1016/j.accpm.2016.09.007",
+  "found_in_paper": "Not cited by Ramos. Already named in claim D018's existing reason; retrieved here while confirming the universe of alkalinized-ropivacaine studies (engine: europepmc, query TITLE_ABS:(\"alkalinized ropivacaine\" OR \"alkalinised ropivacaine\" OR \"alkalinization of ropivacaine\" OR \"buffered ropivacaine\"), hitCount 3 - the three being Fulling 2000, Ramos 2001 and this).",
+  "bears_on_claim_ids": [
+   "D017",
+   "D018"
+  ],
+  "what_it_shows": "A prospective, monocentric, double-blind randomised controlled trial in 40 consecutive eye-surgery patients, comparing self-reported injection pain between a plain ropivacaine-mepivacaine mixture at pH 5.9 and the same mixture pH-adjusted to 7.0 with bicarbonate; injection pain was significantly lower in the buffered group. It does not decide D017, because it reports nothing at all about precipitate or the appearance of the solution, which is D017's outcome element, and because the ropivacaine is diluted into a mepivacaine mixture rather than buffered on its own. It does not change D018 either, which already names it. Recorded here because it is the third and last member of the alkalinized-ropivacaine literature and because it shows a buffered ropivacaine-containing solution taken all the way to pH 7.0 and injected into patients, which is well above the pH at which plain ropivacaine is reported to precipitate - a tension the record does not currently note, and one the mepivacaine in the mixture probably explains.",
+  "quote_from_abstract": "This prospective, monocentric, double blind, randomised, controlled trial involved 40 consecutive patients who received either a standard local anaesthetic solution"
+ },
+ {
   "pmid": "13426364",
   "citation": "Mumford JM, Gray TC. Dental trial of carbocaine; a new local anaesthetic. Br J Anaesth 1957;29(5):210-216",
   "found_in_paper": "Cited in the discussion of S-686-25, with Berling 1958, for mepivacaine used alone being successful in dental anaesthesia but having 'a rather short duration of action'.",
@@ -223,12 +276,14 @@
  {
   "pmid": "7326166",
   "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53(11):1211-1216",
-  "found_in_paper": "Not cited by S-686-25, which predates it; looked up to place S-686-25 in the Reynolds intradermal series, because the mepivacaine-wheals page calls this paper the only study that measured mepivacaine in human skin by pinprick over an intradermal bleb.",
+  "found_in_paper": "Not cited by S-686-25, which predates it; looked up to place S-686-25 in the Reynolds intradermal series, because the mepivacaine-wheals page calls this paper the only study that measured mepivacaine in human skin by pinprick over an intradermal bleb.; S-686-40 reference list and discussion (cited for the finding that L(+) mepivacaine's longer action was not associated with greater vasoconstriction)",
   "bears_on_claim_ids": [
-   "D025",
+   "C034",
    "D024",
+   "D025",
    "D062",
-   "C034"
+   "W-M001",
+   "W-M009"
   ],
   "what_it_shows": "A double-blind intradermal study in 23 fit volunteers of L(+), D(-) and racemic mepivacaine plus saline, at a range of concentrations, with analgesia to pinprick tested at 5-min intervals until full recovery - the same method as S-686-25 but five years later, so S-686-25 is the earlier measurement of mepivacaine in human skin by that test. It also reports human intradermal log dose-duration plots for mepivacaine, so the concentration-duration slopes are not unique to Willatts 1985. Its finding that duration rose with concentration in the low range is compatible with the flat 1-3% relationship in S-686-25 if the curve plateaus above about 1%. Engine: Europe PMC (AUTH search).",
   "quote_from_abstract": "The duration of action of both isomers increased with concentration between 0.05 and 0.9%, but the L isomer was significantly longer acting than the D at 0.3% and more.",
@@ -329,12 +384,12 @@
  {
   "pmid": "6054556",
   "citation": "Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561. PMID 6054556. DOI 10.1111/j.1365-2044.1967.tb10153.x",
-  "found_in_paper": "S-686-31 reference list and Discussion ('No previous similar trial has been found except that of Padfield (1967) who also reported that saline produced a brief period of analgesia after intradermal injection'). Swerdlow's reference line prints the volume as 12, which is a citation or OCR error: the Amass/PubMed record gives Anaesthesia, October 1967.",
+  "found_in_paper": "S-686-31 reference list and Discussion ('No previous similar trial has been found except that of Padfield (1967) who also reported that saline produced a brief period of analgesia after intradermal injection'). Swerdlow's reference line prints the volume as 12, which is a citation or OCR error: the Amass/PubMed record gives Anaesthesia, October 1967.; S-686-40 discussion (the only other human intradermal procaine study the authors name)",
   "bears_on_claim_ids": [
+   "C031",
    "C065",
    "C066",
    "C067",
-   "C031",
    "D023",
    "D024",
    "D039",
@@ -348,11 +403,11 @@
  {
   "pmid": "14933832",
   "citation": "Foldes FF, McNall PG. 2-Chloroprocaine: a new local anesthetic agent. Anesthesiology 1952;13:287. DOI 10.1097/00000542-195205000-00009",
-  "found_in_paper": "S-686-31 Method ('The tests were carried out on volunteer subjects (female nursing staff) by a method similar to that reported by Foldes and Macnall (1952)') and reference list.",
+  "found_in_paper": "S-686-31 Method ('The tests were carried out on volunteer subjects (female nursing staff) by a method similar to that reported by Foldes and Macnall (1952)') and reference list.; S-686-40 discussion and reference list; the 1985 paper is the source-of-record for the intradermal content the project quotes",
   "bears_on_claim_ids": [
+   "C031",
    "D023",
    "D054",
-   "C031",
    "D062"
   ],
   "what_it_shows": "The source of the intradermal skin-weal timing method used in 1970, and the 1952 experiment that the procaine pages rest on for the claim that a vasoconstrictor and a plasma cholinesterase inhibitor did not prolong procaine intradermally. Swerdlow and Jones' description confirms it was an intradermal weal timing study in volunteers, which supports the pages' characterisation of it as an intradermal test rather than a nerve-block one, and it fixes 1952 as a real start date for the intradermal-weal seam the record describes. Looked up by title/author search in Amass BiomedCore; the record has a PMID and a DOI but no abstract, contrary to the note on D023 that it has no PubMed record to cite.",
@@ -406,6 +461,15 @@
   ],
   "what_it_shows": "A case series of five patients in whom sciatic nerve block relieved sciatic radicular pain; Tajiri 1998 cites it as the precedent for a distal block working on radicular pain. Europe PMC indexes it as Journal Article and Case Reports with no abstract, so it is uncontrolled and cannot serve as a sham-controlled demonstration. It is worth naming against D020 because it is the other local-anaesthetic-block-for-radicular-pain study in this citation neighbourhood, but it does not meet D020's design element, and whether its relief outlasted the block cannot be established without the full text.",
   "quote_from_abstract": ""
+ },
+ {
+  "pmid": "726868",
+  "citation": "Selander D, Sjöstrand J. Longitudinal spread of intraneurally injected local anesthetics. An experimental study of the initial neural distribution following intraneural injections. Acta Anaesthesiol Scand 1978;22(6):622-634",
+  "found_in_paper": "S-686-33",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Reference 14 of Tajiri 1998, cited there for how far an injected local anaesthetic spreads along a nerve, which is the step Tajiri's mechanism argument turns on: if the drug cannot travel from the fibular head to the lumbar root, the relief cannot be explained by the drug reaching the lesion. Verified in Europe PMC: PMID 726868, DOI 10.1111/j.1399-6576.1978.tb01346.x, Journal Article, 82 citing papers. This fills the PMID the paper card left blank rather than guessed. It is an animal distribution study in rabbit sciatic nerve, not a human or a clinical one, and its finding is split by compartment: injections outside the fascicle spread little, injections inside it spread far and in a fifth of cases reached the spinal cord. That split matters for how Tajiri's assumption should be read, because the spread figure Tajiri quotes belongs to the subepineural route rather than to a perineural injection placed near but not into the nerve, which is what Tajiri performed.",
+  "quote_from_abstract": "a radioactive local anesthetic mixed with a fluorescent dye was injected into difrerent compartments of the rabbit sciatic nerve, and the early distribution of these tracers was studied by scintillation counting and fluorescence microscopy",
+  "engine": "europepmc"
  },
  {
   "pmid": "2827545",
@@ -495,5 +559,85 @@
   ],
   "what_it_shows": "Not found. Two Europe PMC title searches returned no record for this title or for Stevenson with 'tissue defenses', so no PMID could be confirmed and the abstract could not be read. JACEP issues from 1975 appear to be patchily indexed. Recorded as unresolved rather than guessed. Engine: europepmc, hitCount 0.",
   "quote_from_abstract": ""
+ },
+ {
+  "pmid": "1246252",
+  "citation": "Mark LC. Letter: Avoiding the pain of venipuncture. N Engl J Med 1976;294(11):614",
+  "found_in_paper": "S-686-39",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Reference 1 of Wightman and Vaughan 1976, and the source of the proposition the paper was written to test: that physiologic saline is a satisfactory local anaesthetic free of discomfort for venipuncture. Verified in Europe PMC: PMID 1246252, DOI 10.1056/nejm197603112941120, N Engl J Med 294:614, 1976, a single-page letter with no abstract. Wightman and Vaughan tested it against five other intradermal solutions and rejected it in both directions, reporting that saline alone gave poor to no anaesthesia in most subjects and was the most uncomfortable of the six to inject. It bears on no claim id in claims_all.json, but it is the provenance of any statement that a saline wheal anaesthetises, and it is the counterpart of the Ropivacaine Wheals page's 'Saline was not inert' passage, which reads a larger-volume control infiltration the other way; that is recorded as Notion finding S-686-39-F016. Europe PMC's MeSH for this record is mismatched (it carries terms for neonatal jaundice and lactose intolerance), which is a letters-column indexing artefact rather than a record error.",
+  "quote_from_abstract": "",
+  "engine": "europepmc"
+ },
+ {
+  "pmid": "5694598",
+  "citation": "Schorr WF. Paraben allergy. A cause of intractable dermatitis. JAMA 1968;204(10):859-862",
+  "found_in_paper": "S-686-39",
+  "bears_on_claim_ids": [
+   "C038",
+   "C039"
+  ],
+  "what_it_shows": "Reference 9 of Wightman and Vaughan 1976, cited there for methylparaben producing severe local hypersensitivity reactions. Verified in Europe PMC: PMID 5694598, DOI 10.1001/jama.204.10.859, 23 citing papers, no abstract indexed. Its MeSH is Dermatitis Contact (diagnosis, drug therapy, epidemiology), Administration Topical, Benzoates and Cosmetics, so the paper is about contact dermatitis from topically applied paraben-containing preparations, not about an injected preservative. It matters for the preservative claims because it means the local-reaction half of the paraben concern that Wightman's discussion passes on rests on a topical dermatitis series, which is a different route from the one the record is deciding.",
+  "quote_from_abstract": "",
+  "engine": "europepmc"
+ },
+ {
+  "pmid": "4278178",
+  "citation": "Aeling JL, Nuss DD. Letter: Systemic eczematous “contact-type” dermatitis medicamentosa caused by parabens. Arch Dermatol 1974;110(4):640",
+  "found_in_paper": "S-686-39",
+  "bears_on_claim_ids": [
+   "C038",
+   "C039"
+  ],
+  "what_it_shows": "Reference 10 of Wightman and Vaughan 1976, cited there for systemic hypersensitivity to parabens. Verified in Europe PMC: PMID 4278178, DOI 10.1001/archderm.1974.01630100088035, a one-page letter, no abstract, 17 citing papers, MeSH Drug Eruptions, Eczema, Parabens and Patch Tests in a single adult male. So the systemic half of the paraben concern rests on a single-patient letter with patch testing. Taken with Schorr 1968, this means neither source behind the paraben-reaction statement involves a preservative given by injection, which is worth recording wherever the record weighs methylparaben in an injectable vial.",
+  "quote_from_abstract": "",
+  "engine": "europepmc"
+ },
+ {
+  "pmid": "",
+  "citation": "Macht DI. A pharmacological and therapeutic study of benzyl alcohol as a local anesthetic. J Pharmacol Exp Ther 1918;11:263-279",
+  "found_in_paper": "S-686-39",
+  "bears_on_claim_ids": [
+   "C013",
+   "D019"
+  ],
+  "what_it_shows": "Reference 2 of Wightman and Vaughan 1976 and the origin of benzyl alcohol as an infiltration anaesthetic, which is the primary source behind the record's statement that benzyl alcohol is a weak local anaesthetic in its own right. Not retrievable: two Europe PMC queries returned no records (author plus benzyl alcohol and local anesthetic; and title plus year), which is expected for a 1918 Journal of Pharmacology and Experimental Therapeutics paper that predates MEDLINE coverage. Recorded so that the 1918 attribution is marked as unverified rather than assumed. Wightman and Vaughan's own measurement supplies a modern human intradermal substitute for it, which is recorded against C013 and D019.",
+  "quote_from_abstract": "",
+  "engine": "europepmc"
+ },
+ {
+  "pmid": "1023952",
+  "citation": "Aps C, Reynolds F. The effect of concentration on vasoactivity of bupivacaine and lignocaine. Br J Anaesth 1976;48(12):1171-1174. DOI 10.1093/bja/48.12.1171",
+  "found_in_paper": "S-686-40 introduction, discussion and reference list (where it is printed with the wrong page number, 'Br. J. Anaesth., 48, 347')",
+  "bears_on_claim_ids": [
+   "D024",
+   "D062",
+   "W-R025"
+  ],
+  "what_it_shows": "Double-blind intradermal trial in 31 volunteers of bupivacaine and lignocaine, each at three concentrations. Vasoconstriction was more frequent at low concentrations and vasodilatation at high, highly significantly so; duration of action was unaffected by concentration except at the highest bupivacaine strength. It is the two-drug predecessor of the six-drug 1985 comparison and the origin of the biphasic concentration/vasoactivity pattern the pages rely on. Engine: europepmc.",
+  "quote_from_abstract": "In a double-blind trial bupivacaine 0.125, 0.25 and 0.5% and lignocaine 0.5, 1 and 2% were given intradermally to 31 volunteers. Vasoconstriction was observed more frequently at low concentrations of each drug, and vasodilatation at high concentrations. These observations were highly significant (P less than 0.001). Duration of action was unaffected by concentration, except in the case of bupivacaine 0.5%, the effect of which was longer lasting than that of other solutions."
+ },
+ {
+  "pmid": "666948",
+  "citation": "Aps C, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of bupivacaine. Br J Clin Pharmacol 1978;6(1):63-68. DOI 10.1111/j.1365-2125.1978.tb01683.x",
+  "found_in_paper": "S-686-40 introduction, discussion and reference list",
+  "bears_on_claim_ids": [
+   "W-R025"
+  ],
+  "what_it_shows": "Double-blind intradermal study in 17 volunteers of L(-) and D(+) bupivacaine at eight concentrations plus saline, scoring colour as nil/pink/pale and testing analgesia to pinprick every 10 min for a 50% recovery endpoint. Only L(-) constricted, maximally at a mid-range concentration with 92% pallor incidence, and L(-) outlasted D(+) over the middle of the range. It is the source of the nil/pink/pale scoring method the 1985 paper uses, and the historical case in which colour and duration tracked together. Engine: europepmc.",
+  "quote_from_abstract": "Local colour changes were observed as 'nil', 'pink' or 'pale' and analgesia to pinprick was assessed every 10 min to give an estimate of apparent in vivo potency and duration of action (50% recovery). ... Only L(-)-bupivacaine showed a vasoconstrictor effect. This was maximal at a concentration of 0.48 mmol/l, when the incidence of pallor was 92%."
+ },
+ {
+  "pmid": "776194",
+  "citation": "Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent: aptocaine. Br J Anaesth 1976;48:347-354",
+  "found_in_paper": "S-686-40 introduction, discussion and reference list (as Reynolds, Bryson and Nicholas, 1976)",
+  "bears_on_claim_ids": [
+   "W-M001",
+   "W-M009",
+   "D025",
+   "C065"
+  ],
+  "what_it_shows": "An earlier human intradermal pinprick-over-a-bleb study from the same laboratory that timed mepivacaine and prilocaine at three concentrations each in 27 double-blind volunteers, with both a time to 50% recovery and a tabulated mean time to full recovery. It therefore makes the 1985 paper the third, not the second, human intradermal measurement of mepivacaine, and refutes the 'only study' claim independently. Its two trials used different subject groups, so lignocaine was never injected alongside mepivacaine in it - which is what leaves the 1985 paper unique on that point. Details taken from this session's paper card for S-686-25, not read at source here.",
+  "quote_from_abstract": "In a double-blind trial in 28 human volunteers, a new local anaesthetic agent, aptocaine, was compared intradermally at 1, 2 and 3% concentrations with lignocaine 2% and bupivacaine 0.5%. In a second trial in 27 subjects, 1% aptocaine was compared with mepivacaine and prilocaine, both 1, 2 and 3%."
  }
 ]

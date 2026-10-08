@@ -1,0 +1,156 @@
+{
+ "paper_id": "S-686-40",
+ "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011",
+ "pmid": "4041306",
+ "doi": "10.1093/bja/57.10.1006",
+ "right_paper": true,
+ "text_quality": "ok (OCR of a two-column scan; body, both figure legends and the reference list are all present and legible). Two caveats: the columns are interleaved line by line, so no sentence longer than one printed line is contiguous in the text file; and the numeric data points of figures 1-4 are image only, so figure values were read from the rendered PDF page, not from the text.",
+ "design": "Double-blind within-subject volunteer study of intradermal injection, run in two parts in one group of subjects. Part 1: amethocaine, lignocaine and prilocaine (three concentrations each) plus physiological saline. Part 2: procaine, cinchocaine and mepivacaine (three concentrations each) plus saline, in the same subjects. Solutions were randomly coded; the position of each solution varied randomly between subjects and was known to neither subject nor investigator. The saline control results from the two parts were combined. Analysis: Chi-squared with Yates' correction for proportions; GLIM3 linear modelling for the slope of log concentration v. duration of action per drug per subject, then one-way ANOVA on log-transformed slopes.",
+ "population": "10 fit adult volunteers (8 male), aged 21-40 years; one was an author, the others medical students or medical and laboratory colleagues. All gave informed consent.",
+ "n": "10 subjects, the same 10 in both parts. Each subject received a pair of injections of each solution, so n = 20 injections per drug-concentration and n = 40 for the saline control (the two parts combined); n = 10 subjects per point in figure 3.",
+ "setting": "Anaesthetic Unit, St Thomas's Hospital Medical School, London. Healthy-volunteer laboratory study, 1985.",
+ "intervention": "Six local anaesthetics as aqueous hydrochloride solutions, three concentrations each, each solution containing 0.1% sodium metabisulphite to stabilise the esters plus sodium chloride to render it isosmotic, autoclaved in randomly coded ampoules. Esters: procaine 0.1 / 0.3 / 1.0%; amethocaine 0.025 / 0.0833 / 0.25%. Amides: cinchocaine 0.01 / 0.033 / 0.1%; lignocaine 0.1 / 0.33 / 1.0%; racemic mepivacaine 0.1 / 0.33 / 1.0%; racemic prilocaine 0.1 / 0.33 / 1.0%. [Concentrations recorded here under the brief's exception, as what the study used.] No vasoconstrictor was added to any solution.",
+ "comparator": "0.9% sodium chloride 'control solution' carrying the same 0.1% sodium metabisulphite, injected in both parts of the study and the two sets of results combined.",
+ "route": "Intradermal. A pair of 0.1-ml injections of each solution on the flexor surface of both forearms, spaced at 40-mm intervals. [Volume and spacing recorded here under the brief's exception, as what the study did.]",
+ "duration": "Each injection followed to complete recovery. Colour was scored 5-10 min after injection; analgesia was tested from 10 min, every 5 min for the first hour and every 10 min thereafter until complete recovery. Complete recovery from all injections had occurred by 80 min. The per-drug duration endpoint was the time to 50% recovery.",
+ "outcomes": "(1) Vasoactivity: local colour change classed pink / nil / pale at 5-10 min, plus any haemorrhagic change, expressed as percentage frequency (figure 1). (2) Analgesia: the central area of each bleb pricked 5 times with a lancet while the subject looked away, scored as the number of times out of 10 that the prick felt sharp; mean pinprick score as percentage recovery against time (figure 2). (3) Duration of action = time to 50% recovery, i.e. the time at which the sharpness score reached 5 out of 10, plotted per concentration in figure 3 and regressed on log concentration in figure 4.",
+ "key_results": [
+  {
+   "quote": "FIG. 3. Mean duration of action (expressed as time to 50% recovery) for each of the six local anaesthetic agents tested, n = 10 for each point. Vertical bars represent SEM.",
+   "page": 5
+  },
+  {
+   "quote": "The mean 50 % recovery … times of the different concentrations of the six … agents plotted against the concentration on a … logarithmic scale is shown in figure 3.",
+   "page": 3
+  },
+  {
+   "quote": "Complete recovery from all injections (perma… nent pinprick score of 5 in all subjects) had … occurred by 80 min.",
+   "page": 3
+  },
+  {
+   "quote": "the time of 50% … recovery was taken as the time at which the … sharpness score reached 5 out of 10.",
+   "page": 2
+  },
+  {
+   "quote": "The study was carried out in two parts. In the … first, amethocaine, lignocaine and prilocaine (each … at three concentrations) and physiological saline … (control solution) were tested in each of the 10 … subjects. In the second part, procaine, cinchocaine … and mepivacaine each in three concentrations, and … saline were tested on the same 10 subjects.",
+   "page": 2
+  },
+  {
+   "quote": "The subjects were 10 fit adults (eight male) … whose ages ranged from 21 to 40 years.",
+   "page": 1
+  },
+  {
+   "quote": "solutions were injected intradermally on the flexor … surface of both forearms; each subject received a … pair of [dose figure omitted] injections of each of the 10 solutions, … spaced at [dose figure omitted] intervals.",
+   "page": 2
+  },
+  {
+   "quote": "The position of each … solution varied randomly between the subjects and … was known to neither subject nor investigator.",
+   "page": 2
+  },
+  {
+   "quote": "Duration of action was … concentration-dependent for all six drugs, the … slopes of the log dose-duration plots reflecting … the observed vasoactivity.",
+   "page": 1
+  },
+  {
+   "quote": "Slope values (min per log unit of concentration) ± SEM … 11.41 ±2.31; amethocaine, b = 12.77±2.12; … lignocaine, b = 18.47±2.53; cinchocainc, b = 21.05±2.94; … prilocaine, b = 22.70±3.09; mepivacaine, b = 31.12±5.51.",
+   "page": 5
+  },
+  {
+   "quote": "the lowest concentration of procaine still had a … 50 % recovery time well above that of the control … solution.",
+   "page": 3
+  },
+  {
+   "quote": "All three concentrations of lignocaine and … mepivacaine produced vasoconstriction signifi… cantly more frequently than saline (P < 0.05 for … lignocaine;P < 0.001 for mepivacaine). Significant … vasoconstriction was only observed for cinchocaine … at [dose figure omitted] (P<0.05) and prilocaine at [dose figure omitted] … (P < 0.001),comparedwithsaline.",
+   "page": 3
+  },
+  {
+   "quote": "Taking the results for both ester agents … together, 108 out of 120 blebs showed vasodilata… tion, compared with 49 out of 240 blebs for the … four amide agents combined (P < 0.001).",
+   "page": 3
+  },
+  {
+   "quote": "of figures 1 and 2 demonstrates that there was no … relationship between vasoactivity and initial … analgesic activity.",
+   "page": 3
+  },
+  {
+   "quote": "In general, … the steepness of the slope reflected the observed … vasoactivity of the agent",
+   "page": 3
+  },
+  {
+   "quote": "In the … present study, the vasodilatation produced by … procaine and amethocaine, and the vasoconstriction … seen with mepivacaine, were associated with … differences in the mean slope of the log dose… duration plots in the expected direction compared … with cinchocaine, lignocaine and prilocaine, with … which the vasoactivity was less marked and more … variable.",
+   "page": 4
+  },
+  {
+   "quote": "It would appear that vasodilatation is a feature … of ester-linked local anaesthetics even at low … concentrations, in contrast to amides.",
+   "page": 6
+  },
+  {
+   "quote": "FIG. 2. Mean pinprick scores presented as percentage recovery against time for each concentration of … the six agents tested, n •= 20 for each point, except for the control solution where n = 40.",
+   "page": 4
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "With none of the six agents was the … vasoactivity as concentration-dependent as in … previous intradermal studies",
+   "page": 4
+  },
+  {
+   "quote": "the saline-metabisul… phite control solution produced a much higher … incidence of vasodilatation (65 %) than had been … observed previously with plain 0.9% saline",
+   "page": 4
+  },
+  {
+   "quote": "The addition of metabisulphite also … appeared to increase the pain of the injection.",
+   "page": 4
+  },
+  {
+   "quote": "concentrations used were chosen to lie on the … central linear portion of the respective log … dose-duration curves; this appears to have been … achieved with all agents except procaine",
+   "page": 3
+  },
+  {
+   "quote": "There are few reports of the effects of the … intradermal administration of ester-linked local … anaesthetics in man.",
+   "page": 4
+  }
+ ],
+ "funding_conflicts": "No funding statement and no conflict-of-interest statement. Acknowledgements thank the Sterile Products Unit, St Thomas' Hospital Pharmacy for making up the sterile ampoules and Susan Chinn, Department of Community Medicine, St Thomas' Hospital, for statistical advice. One of the 10 subjects was an author (D.G.W.).",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53:1211-1216",
+   "pmid": "7326166",
+   "why": "The 'only study' claim W-M001 rests on it. Willatts cites it for the contrary finding that L(+) mepivacaine's longer action was not associated with greater vasoconstriction. Willatts' own methods show the same half-recovery pinprick endpoint, so the two mepivacaine slopes are comparable quantities."
+  },
+  {
+   "citation": "Aps C, Reynolds F. The effect of concentration on vasoactivity of bupivacaine and lignocaine. Br J Anaesth 1976;48:1171-1174",
+   "pmid": "1023952",
+   "why": "The concentration/vasoconstriction trade-off this paper builds on. NOTE: Willatts' reference list prints this as 'Br. J. Anaesth., 48, 347', which is the Reynolds/Bryson/Nicholas aptocaine paper's page, not this one - a citation error in the 1985 paper."
+  },
+  {
+   "citation": "Aps C, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of bupivacaine. Br J Clin Pharmacol 1978;6:63-68",
+   "pmid": "666948",
+   "why": "Source of the nil/pink/pale colour scoring and of the isomer vasoconstriction/duration link. NOTE: Willatts glosses its range as '0.48-3.84 mmol litre-1 (0.16-1.25%)'; the 1978 paper's own conversion makes 0.06-7.69 mmol/l equal 0.002-0.25%, so Willatts' percentage gloss is about tenfold too high."
+  },
+  {
+   "citation": "Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent: aptocaine. Br J Anaesth 1976;48:347-354",
+   "pmid": "776194",
+   "why": "A third human intradermal pinprick timing of mepivacaine and prilocaine, earlier than Fairley 1981. Bears on W-M001, W-M009 and D025: mepivacaine has been timed intradermally in human skin at least three times, not twice."
+  },
+  {
+   "citation": "Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22:556-561",
+   "pmid": "6054556",
+   "why": "The other human intradermal timing of procaine. Willatts reports it as three plain solutions compared in volunteers, equi-analgesic shortly after injection, procaine shortest and prilocaine longest, with a 60% incidence of vasodilatation with procaine - and names no adrenaline arm, which bears on D023 and D054."
+  },
+  {
+   "citation": "Foldes FF, McNall PG. 2-Chloroprocaine: a new local anesthetic agent. Anesthesiology 1952;13:287-296",
+   "pmid": "14933832",
+   "why": "The single source for D023 and D054. Willatts quotes its intradermal content verbatim; this paper is the source-of-record for the second-hand quotation those pages carry."
+  },
+  {
+   "citation": "Luduena FP. Duration of local anaesthesia. Ann Rev Pharmacol 1969;9:503",
+   "pmid": "",
+   "why": "Cited for the claim that the longer action of L(+) prilocaine, L(+) mepivacaine and L(-) bupivacaine over their isomers was solely attributable to greater vasoconstriction - the position Willatts' own dissociation result qualifies."
+  },
+  {
+   "citation": "Altura BM, Altura BT. Effects of local anaesthetics, antihistamines and glucocorticoids on peripheral blood flow and vascular smooth muscle. Anesthesiology 1974;41:197",
+   "pmid": "",
+   "why": "Rabbit aortic strip work cited for procaine and amethocaine inhibiting agonist-induced contraction with potencies unrelated to anaesthetic potency; the animal counterpart to the dissociation finding."
+  }
+ ]
+}

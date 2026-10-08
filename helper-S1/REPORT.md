@@ -35,17 +35,17 @@ out to be exactly right: both citation-standing claims tested here failed.
 
 ## 2. Counts
 
-- **Papers read in full: 12 of 13.** 12 confirmed as the right paper.
-- **Claim re-judgements written: 62**, covering 33 distinct claims. **17 changed verdict.**
-  - by kind: 4 extra-study, 40 other-claim, 18 own-question
-  - still uncertain after the full text: 12
+- **Papers read in full: 13 of 13.** 13 confirmed as the right paper.
+- **Claim re-judgements written: 77**, covering 39 distinct claims. **22 changed verdict.**
+  - by kind: 6 extra-study, 52 other-claim, 19 own-question
+  - still uncertain after the full text: 15
 - **New wheal-page claims extracted and tested: 49** (8 W-B, 10 W-M, 31 W-R).
   - verdicts: **19 confirmed**, **17 narrowed**, **12 refuted**, **1 out-of-scope**
   - left uncertain: 3
   - **7 further claims counted but not written out**, because their subject is a dose ceiling, a toxicity threshold, or how to mix, buffer or dilute a solution: Ropivacaine Wheals 3; mepivacaine-wheals 1; bupivacaine-wheals 3
-- **Extra studies recorded: 42**, found through the papers' reference lists and discussions.
-- **Notion findings: 45** — **20 high**, **22 medium**, **3 low**.
-  - by kind: 11 overstated, 8 open-question-answered, 7 wrong-figure, 7 understated, 6 now-verified, 3 ranking-reweigh, 2 outdated, 1 citation-error
+- **Extra studies recorded: 55**, found through the papers' reference lists and discussions.
+- **Notion findings: 82** — **26 high**, **45 medium**, **11 low**.
+  - by kind: 21 overstated, 19 understated, 13 now-verified, 10 open-question-answered, 7 wrong-figure, 6 outdated, 3 ranking-reweigh, 2 citation-error, 1 wrong-design
 
 ### The three wheal pages
 
@@ -57,18 +57,19 @@ out to be exactly right: both citation-standing claims tested here failed.
 
 ## 3. What each paper settled
 
-- **S-686-04 — Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17:117-120** · own question: ? · 3 claims re-judged, 1 changed · 0 Notion findings.
+- **S-686-04 — Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17:117-120** · own question: yes · 3 claims re-judged, 1 changed · 5 Notion findings.
 - **S-686-14 — Kim JM, Goto H, Arakawa K. Duration of bupivacaine intradermal anesthesia when the bupivacaine is mixed with chloroprocaine. Anesth Analg 1979;58:364-366** · own question: yes · 5 claims re-judged, 1 changed · 11 Notion findings.
-- **S-686-16 — Milner QJW, Guard BC, Allen JG. Alkalinization of amide local anaesthetics by addition of 1% sodium bicarbonate solution. European Journal of Anaesthesiology 2000;17:38-42** · own question: ? · 2 claims re-judged · 0 Notion findings.
+- **S-686-16 — Milner QJW, Guard BC, Allen JG. Alkalinization of amide local anaesthetics by addition of 1% sodium bicarbonate solution. European Journal of Anaesthesiology 2000;17:38-42** · own question: ? · 2 claims re-judged · 2 Notion findings.
 - **S-686-17 — Morgan M, Russell WJ. An investigation in man into the relative potency of lignocaine, bupivacaine and etidocaine. Br J Anaesth 1975;47:586-591** · own question: yes · 3 claims re-judged · 6 Notion findings.
-- **S-686-20 — Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561** · own question: ? · 8 claims re-judged · 0 Notion findings.
-- **S-686-24 — Ramos G, Pereira E, Simonetti MPB. Does alkalinization of 0.75% ropivacaine promote a lumbar peridural block of higher quality? Regional Anesthesia and Pain Medicine 2001;26(4):357-362** · own question: ? · 3 claims re-judged, 1 changed · 0 Notion findings.
+- **S-686-20 — Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561** · own question: yes · 8 claims re-judged · 15 Notion findings.
+- **S-686-24 — Ramos G, Pereira E, Simonetti MPB. Does alkalinization of 0.75% ropivacaine promote a lumbar peridural block of higher quality? Regional Anesthesia and Pain Medicine 2001;26(4):357-362** · own question: ? · 3 claims re-judged, 1 changed · 6 Notion findings.
 - **S-686-25 — Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent: aptocaine. Br J Anaesth 1976;48:347-354** · own question: yes · 14 claims re-judged, 5 changed · 15 Notion findings.
-- **S-686-28 — Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253** · own question: ? · 5 claims re-judged, 2 changed · 0 Notion findings.
+- **S-686-28 — Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253** · own question: yes · 5 claims re-judged, 2 changed · 9 Notion findings.
 - **S-686-31 — Swerdlow M, Jones R. The duration of action of bupivacaine, prilocaine and lignocaine. Br J Anaesth 1970;42:335-339** · own question: yes · 11 claims re-judged, 4 changed · 13 Notion findings.
 - **S-686-33 — Tajiri K, Takahashi K, Ikeda K, Tomita K. Common Peroneal Nerve Block for Sciatica. Clin Orthop Relat Res 1998;347:203-207** · own question: yes · 1 claims re-judged · 0 Notion findings.
 - **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: ? · 5 claims re-judged, 2 changed · 0 Notion findings.
 - **S-686-39 — Wightman MA, Vaughan RW. Comparison of Compounds Used for Intradermal Anesthesia. Anesthesiology 1976;45(6):687-689** · own question: yes · 2 claims re-judged, 1 changed · 0 Notion findings.
+- **S-686-40 — Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011** · own question: ? · 15 claims re-judged, 5 changed · 0 Notion findings.
 
 ## 4. Every verdict change
 
@@ -88,9 +89,14 @@ out to be exactly right: both citation-standing claims tested here failed.
 | D017 | confirmed | refuted | S-686-24 | Ramos matches every element D017 says is absent, within the claim's own scope |
 | D024 | confirmed | narrowed | S-686-25 | The 'six drugs at once' element holds: Reynolds 1976 covered five agents across two separate trials, never six in one |
 | D024 | confirmed | narrowed | S-686-31 | The claim bundles two uniqueness statements: intradermal duration data for six drugs at once, and the concentration-duration slopes |
+| D039 | narrowed | refuted | S-686-40 | The full text matches every element the claim says is absent |
 | D062 | confirmed | narrowed | S-686-25 | Reynolds 1976 contains no procaine, so the 'procaine plus five comparators in one study' element the record logs is unmatched and that part of the cla |
 | D062 | confirmed | narrowed | S-686-31 | Same bundling as D024 |
+| W-M001 |  | refuted | S-686-40 | Willatts and Reynolds 1985 matches every element the claim says is unique to Fairley and Reynolds 1981: human skin, racemic mepivacaine, intradermal b |
+| W-M001 |  | refuted | S-686-40 | Reynolds, Bryson and Nicholas 1976, in Willatts' reference list, timed intradermal mepivacaine at three concentrations against prilocaine and aptocain |
+| W-M009 |  | narrowed | S-686-40 | The distinctive element holds and the ordinal does not |
 | W-R005 |  | confirmed | S-686-28 | Schnabl 2013 matches three of W-R005's four elements and misses the one that decides it |
+| W-R025 |  | narrowed | S-686-40 | The head-to-head element holds: six agents at three concentrations each plus saline went into the same 10 volunteers, double-blind, by intradermal inj |
 
 ### New wheal-page claims that did not hold as written (29 of 49)
 
@@ -126,28 +132,34 @@ out to be exactly right: both citation-standing claims tested here failed.
 | W-R030 | Ropivacaine Wheals | narrowed | Judged inside the bullet's own scope - continuous infiltration of incised subcutaneous tissue - the claim holds: the rat wound study and the animal wo |
 | W-R031 | Ropivacaine Wheals | narrowed | Within the claim's intervention element - a local anaesthetic wheal - nothing found separates the drug's flare suppression from the needle's own flare |
 
-## 5. High-importance Notion findings (20)
+## 5. High-importance Notion findings (26)
 
-- **S1-F001 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › The second reversal: bupivacaine** — *wrong-figure*, from S-686-14. The paper's abstract says only that the mixture was 'similar to' chloroprocaine alone; the page upgrades that to a null result, which the Results section contradicts
-- **S1-F002 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › Sources — The other human intradermal measurements (Kim 1979 entry, Limits)** — *open-question-answered*, from S-686-14. This is the limit the record itself treats as load-bearing — the sibling bupivacaine-wheals entry says in terms that 'volume is what this page's scaling argument turns on'
-- **S1-F003 · bupivacaine-wheals › Sources › Duration in skin (Kim 1979 entry, Limits)** — *open-question-answered*, from S-686-14. The page's own wording makes this load-bearing — 'volume is what this page's scaling argument turns on' — and the recommendation that moves bupivacaine to third choice follows from the squar
-- **S1-F004 · bupivacaine-wheals › Sources > What has no source** — *ranking-reweigh*, from S-686-17. The sentence is correct as far as it goes, and the attribution is right: the paper cited for the etidocaine-worse finding is Howe & Williams 1994, not Morgan & Russell 1975 (verified in Euro
-- **S1-F005 · bupivacaine-wheals › What is still unknown** — *open-question-answered*, from S-686-17. The page's own open question is answered in the same direction by a study the page does not hold
-- **S1-F006 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? > What a tenfold rise in concentration buys, in skin** — *overstated*, from S-686-17. The page says this comparison 'decides more about how to inject than any ranking between drugs in this document', so a second data set bears directly on something practical
-- **S1-F007 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › Sources — The Reynolds series (Reynolds F, Bryson THL, Nicholas ADG 1976 annotation); and the same paper's row in the seven-papers table** — *open-question-answered*, from S-686-25. This is the correction the rest of the packet turns on
-- **S1-F008 · mepivacaine-wheals › The recommendation (first bullet)** — *overstated*, from S-686-25. This is the page's headline recommendation sentence and the lead the S1 task flagged
-- **S1-F009 · bupivacaine-wheals › What is still unknown ('Whether the square-root scaling holds'); and Why the eight-hour figure does not apply to a wheal / Sources › Duration in skin, where Sweet 1982 is called the governing number** — *understated*, from S-686-25. The page's own 'What would settle it' asks for wheals of three volumes timed side by side; two of the three now have a measurement with the same endpoint in the same tissue layer
-- **S1-F010 · Ropivacaine Wheals › The comparability argument ('The duration comparisons are at unmatched concentrations and in unmatched tissues')** — *overstated*, from S-686-25. The page uses this sentence to argue that the duration comparisons cannot be ranked against each other
-- **S1-F011 · Ropivacaine Wheals › 9a.5 Mepivacaine — the drug nobody in this project has considered ('Would not: duration')** — *understated*, from S-686-25. The page's own limit note on Willatts says its top mepivacaine concentration is well below the strength sold; Reynolds 1976 fills exactly that gap, and the 9a.5 assessment of mepivacaine as 
-- **S1-F012 · What is still unsettled across these pages, and what would settle each one › Sources › The unopened intradermal literature (Willatts & Reynolds annotation)** — *open-question-answered*, from S-686-25. This page exists to point at the highest-value missing material, and the item it names as missing — absolute per-concentration minutes in human skin — is available in a paper already cited e
-- **S1-F013 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? (duration table, prilocaine row, 'With epinephrine' column, and the 'What the figure rests on' cell)** — *wrong-figure*, from S-686-31. This is the cell claim D009 was taken from, and it is the only cell in the table's 'With epinephrine' column that says nothing was measured
-- **S1-F014 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? / Four things about that table** — *overstated*, from S-686-31. The weal volume in the 1970 trial, [dose figure omitted] per weal, is above the [dose figure omitted] range this page means by a wheal, so the second sentence's 'at a wheal volume' qualifier
-- **S1-F015 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? (duration table, bupivacaine row) and 'The bupivacaine spread is explained by volume'** — *wrong-figure*, from S-686-31. The 60-minute wheal figure is derived from a two-point square-root-of-volume fit
-- **S1-F016 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? (duration table, lidocaine row, 'With epinephrine' column and its 'What the figure rests on' cell)** — *understated*, from S-686-31. The cell currently rests on a single user's own measurement in neuropathic leg skin, with the note saying the with-epinephrine figure is 'not from a trial'
-- **S1-F017 · prilocaine-wheals › How long does it actually last?** — *overstated*, from S-686-31. This is claim C066
-- **S1-F018 · prilocaine-wheals › Sources — What has no source** — *overstated*, from S-686-31. The bullet is wrong twice
-- **S1-F019 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › What is still unknown** — *open-question-answered*, from S-686-31. The open question is answered: the two-to-three-times figure is reproduced intradermally in healthy forearm skin, at the upper end on the earlier endpoint and inside the range on complete re
-- **S1-F020 · bupivacaine-wheals › What a wheal of your own size would give / Why the eight-hour figure does not apply to a wheal** — *wrong-figure*, from S-686-31. The square-root-of-volume fit, the roughly 60-minute wheal estimate, and the conclusion that bupivacaine at wheal size sits at or below what plain lidocaine gives all rest on there being onl
+- **S1-F001 · Comparing the injectable local anesthetics for intradermal wheals › The comparison itself / the ranking rationale - 'For a second option, and the drug to beat: plain lidocaine, already in the syringe'** — *overstated*, from S-686-04. This is a uniqueness statement inside the sentence that ranks plain lidocaine as the drug to beat, so part of the ordering rests on it
+- **S1-F002 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › The second reversal: bupivacaine** — *wrong-figure*, from S-686-14. The paper's abstract says only that the mixture was 'similar to' chloroprocaine alone; the page upgrades that to a null result, which the Results section contradicts
+- **S1-F003 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › Sources — The other human intradermal measurements (Kim 1979 entry, Limits)** — *open-question-answered*, from S-686-14. This is the limit the record itself treats as load-bearing — the sibling bupivacaine-wheals entry says in terms that 'volume is what this page's scaling argument turns on'
+- **S1-F004 · bupivacaine-wheals › Sources › Duration in skin (Kim 1979 entry, Limits)** — *open-question-answered*, from S-686-14. The page's own wording makes this load-bearing — 'volume is what this page's scaling argument turns on' — and the recommendation that moves bupivacaine to third choice follows from the squar
+- **S1-F005 · bupivacaine-wheals › Sources > What has no source** — *ranking-reweigh*, from S-686-17. The sentence is correct as far as it goes, and the attribution is right: the paper cited for the etidocaine-worse finding is Howe & Williams 1994, not Morgan & Russell 1975 (verified in Euro
+- **S1-F006 · bupivacaine-wheals › What is still unknown** — *open-question-answered*, from S-686-17. The page's own open question is answered in the same direction by a study the page does not hold
+- **S1-F007 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? > What a tenfold rise in concentration buys, in skin** — *overstated*, from S-686-17. The page says this comparison 'decides more about how to inject than any ranking between drugs in this document', so a second data set bears directly on something practical
+- **S1-F008 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › The seven papers nobody has pulled > item 4 (Padfield 1967)** — *open-question-answered*, from S-686-20. The queue item asks the full text for 'the durations in minutes'
+- **S1-F009 · Ropivacaine Wheals › Sources > the Foldes/Padfield CITATION ONLY entry** — *outdated*, from S-686-20. 'Neither read at source' is now out of date for Padfield, and the duration wording carried into this record from Willatts and Reynolds should be replaced by the activity ranking the paper ac
+- **S1-F010 · Ropivacaine Wheals › 9a.2 Two caveats, one of which the authors raise themselves > consequence** — *understated*, from S-686-20. This is the gap the page names - an amide against an uncontaminated saline control, intradermally, in humans - and the paper that partly fills it is the one already in this page's source lis
+- **S1-F011 · Comparing the injectable local anesthetics for intradermal wheals › What does each one cost in injection pain? (the ropivacaine sentence that closes the 'A full buffer does not transfer to the other drugs' paragraph)** — *overstated*, from S-686-24. This is claim D017 and the sentence the whole open question was raised against; it is refuted as worded
+- **S1-F012 · bupivacaine-wheals › The sting, and the two things that reduce it > 'A 2025 laboratory study put a number on the threshold' (the ropivacaine row of the AlShammari table); repeated in the Sources entry for AlShammari** — *overstated*, from S-686-24. The ropivacaine row is the figure that two pages lean on - the bupivacaine page's bupivacaine-versus-ropivacaine contrast and the comparison page's 'no one has shown' sentence - and as rende
+- **S1-F013 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › Sources — The Reynolds series (Reynolds F, Bryson THL, Nicholas ADG 1976 annotation); and the same paper's row in the seven-papers table** — *open-question-answered*, from S-686-25. This is the correction the rest of the packet turns on
+- **S1-F014 · mepivacaine-wheals › The recommendation (first bullet)** — *overstated*, from S-686-25. This is the page's headline recommendation sentence and the lead the S1 task flagged
+- **S1-F015 · bupivacaine-wheals › What is still unknown ('Whether the square-root scaling holds'); and Why the eight-hour figure does not apply to a wheal / Sources › Duration in skin, where Sweet 1982 is called the governing number** — *understated*, from S-686-25. The page's own 'What would settle it' asks for wheals of three volumes timed side by side; two of the three now have a measurement with the same endpoint in the same tissue layer
+- **S1-F016 · Ropivacaine Wheals › The comparability argument ('The duration comparisons are at unmatched concentrations and in unmatched tissues')** — *overstated*, from S-686-25. The page uses this sentence to argue that the duration comparisons cannot be ranked against each other
+- **S1-F017 · Ropivacaine Wheals › 9a.5 Mepivacaine — the drug nobody in this project has considered ('Would not: duration')** — *understated*, from S-686-25. The page's own limit note on Willatts says its top mepivacaine concentration is well below the strength sold; Reynolds 1976 fills exactly that gap, and the 9a.5 assessment of mepivacaine as 
+- **S1-F018 · What is still unsettled across these pages, and what would settle each one › Sources › The unopened intradermal literature (Willatts & Reynolds annotation)** — *open-question-answered*, from S-686-25. This page exists to point at the highest-value missing material, and the item it names as missing — absolute per-concentration minutes in human skin — is available in a paper already cited e
+- **S1-F019 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? (duration table, prilocaine row, 'With epinephrine' column, and the 'What the figure rests on' cell)** — *wrong-figure*, from S-686-31. This is the cell claim D009 was taken from, and it is the only cell in the table's 'With epinephrine' column that says nothing was measured
+- **S1-F020 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? / Four things about that table** — *overstated*, from S-686-31. The weal volume in the 1970 trial, [dose figure omitted] per weal, is above the [dose figure omitted] range this page means by a wheal, so the second sentence's 'at a wheal volume' qualifier
+- **S1-F021 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? (duration table, bupivacaine row) and 'The bupivacaine spread is explained by volume'** — *wrong-figure*, from S-686-31. The 60-minute wheal figure is derived from a two-point square-root-of-volume fit
+- **S1-F022 · Comparing the injectable local anesthetics for intradermal wheals › How long does each one last? (duration table, lidocaine row, 'With epinephrine' column and its 'What the figure rests on' cell)** — *understated*, from S-686-31. The cell currently rests on a single user's own measurement in neuropathic leg skin, with the note saying the with-epinephrine figure is 'not from a trial'
+- **S1-F023 · prilocaine-wheals › How long does it actually last?** — *overstated*, from S-686-31. This is claim C066
+- **S1-F024 · prilocaine-wheals › Sources — What has no source** — *overstated*, from S-686-31. The bullet is wrong twice
+- **S1-F025 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › What is still unknown** — *open-question-answered*, from S-686-31. The open question is answered: the two-to-three-times figure is reproduced intradermally in healthy forearm skin, at the upper end on the earlier endpoint and inside the range on complete re
+- **S1-F026 · bupivacaine-wheals › What a wheal of your own size would give / Why the eight-hour figure does not apply to a wheal** — *wrong-figure*, from S-686-31. The square-root-of-volume fit, the roughly 60-minute wheal estimate, and the conclusion that bupivacaine at wheal size sits at or below what plain lidocaine gives all rest on there being onl
 
 
 ## 6. Problems
@@ -198,10 +210,15 @@ that paper are checked against its abstract rather than the extracted text. The 
 a quote against a held full text before pointing the checker at it, and leaves it on the PMID
 otherwise, so this cannot silently produce a false pass.
 
-**A citation error in the packet itself.** `common/papers_list.csv` names S-686-17 as "Morgan,
-Lumley & Whitwam 1975". The by-line is M. Morgan and W. J. Russell, and the PubMed record carries
-exactly two authors; Lumley and Whitwam appear nowhere in the paper. Title, year, journal, volume,
-pages, PMID and DOI all match, so it is the right paper under a wrong name.
+**Two author names were wrong in the briefs this session wrote, not in the packet.** The briefing
+notes handed to two workers named S-686-17 as "Morgan, Lumley & Whitwam 1975" and S-686-20 as
+"Padfield & Watkins 1967". Both are wrong: the by-lines are M. Morgan and W. J. Russell, and
+A. Padfield alone. The packet is correct — `common/papers_list.csv` and the handover's own table
+give only "Morgan 1975" and "Padfield 1967" — so the invented co-authors came from this session and
+nowhere else. Both workers checked the by-line against the paper and the PubMed record rather than
+trusting the brief, said so, and wrote the correct citation on their cards; every citation in
+`results_S1/paper_cards/` is the by-line as printed. The names survive only in the two workers'
+status notes, where they record the correction. Nothing downstream carries them.
 
 **A page outside the index.** A worker's Notion search surfaced a page on exactly this topic that is
 not in `common/pages_index.csv` — "Small Fiber Neuropathy — Intradermal vs. Subcutaneous Injection

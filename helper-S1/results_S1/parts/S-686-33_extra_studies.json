@@ -8,5 +8,14 @@
   ],
   "what_it_shows": "A case series of five patients in whom sciatic nerve block relieved sciatic radicular pain; Tajiri 1998 cites it as the precedent for a distal block working on radicular pain. Europe PMC indexes it as Journal Article and Case Reports with no abstract, so it is uncontrolled and cannot serve as a sham-controlled demonstration. It is worth naming against D020 because it is the other local-anaesthetic-block-for-radicular-pain study in this citation neighbourhood, but it does not meet D020's design element, and whether its relief outlasted the block cannot be established without the full text.",
   "quote_from_abstract": ""
+ },
+ {
+  "pmid": "726868",
+  "citation": "Selander D, Sjöstrand J. Longitudinal spread of intraneurally injected local anesthetics. An experimental study of the initial neural distribution following intraneural injections. Acta Anaesthesiol Scand 1978;22(6):622-634",
+  "found_in_paper": "S-686-33",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Reference 14 of Tajiri 1998, cited there for how far an injected local anaesthetic spreads along a nerve, which is the step Tajiri's mechanism argument turns on: if the drug cannot travel from the fibular head to the lumbar root, the relief cannot be explained by the drug reaching the lesion. Verified in Europe PMC: PMID 726868, DOI 10.1111/j.1399-6576.1978.tb01346.x, Journal Article, 82 citing papers. This fills the PMID the paper card left blank rather than guessed. It is an animal distribution study in rabbit sciatic nerve, not a human or a clinical one, and its finding is split by compartment: injections outside the fascicle spread little, injections inside it spread far and in a fifth of cases reached the spinal cord. That split matters for how Tajiri's assumption should be read, because the spread figure Tajiri quotes belongs to the subepineural route rather than to a perineural injection placed near but not into the nerve, which is what Tajiri performed.",
+  "quote_from_abstract": "a radioactive local anesthetic mixed with a fluorescent dye was injected into difrerent compartments of the rabbit sciatic nerve, and the early distribution of these tracers was studied by scintillation counting and fluorescence microscopy",
+  "engine": "europepmc"
  }
 ]

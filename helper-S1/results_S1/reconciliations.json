@@ -1,0 +1,287 @@
+[
+ {
+  "claim_id": "C038",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-39": "confirmed"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-39",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "C039",
+  "entries": 3,
+  "verdicts_offered": {
+   "S-686-20": "narrowed",
+   "S-686-25": "narrowed",
+   "S-686-31": "narrowed"
+  },
+  "merged_verdict": "narrowed",
+  "merged_from": "S-686-31",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "C044",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-25": "confirmed",
+   "S-686-35": "confirmed"
+  },
+  "merged_verdict": "confirmed",
+  "merged_from": "S-686-35",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "C045",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-14": "confirmed",
+   "S-686-25": "confirmed"
+  },
+  "merged_verdict": "confirmed",
+  "merged_from": "S-686-14",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "C065",
+  "entries": 5,
+  "verdicts_offered": {
+   "S-686-20": "refuted",
+   "S-686-25": "refuted",
+   "S-686-31": "refuted",
+   "S-686-40": "refuted"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-25",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "C066",
+  "entries": 3,
+  "verdicts_offered": {
+   "S-686-20": "narrowed",
+   "S-686-25": "refuted",
+   "S-686-31": "refuted"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-25",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "C067",
+  "entries": 3,
+  "verdicts_offered": {
+   "S-686-20": "narrowed",
+   "S-686-25": "narrowed",
+   "S-686-31": "narrowed"
+  },
+  "merged_verdict": "narrowed",
+  "merged_from": "S-686-31",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "C081",
+  "entries": 4,
+  "verdicts_offered": {
+   "S-686-04": "refuted",
+   "S-686-31": "narrowed",
+   "S-686-35": "refuted"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-35",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D006",
+  "entries": 4,
+  "verdicts_offered": {
+   "S-686-14": "narrowed",
+   "S-686-17": "narrowed",
+   "S-686-25": "refuted",
+   "S-686-31": "narrowed"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-25",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D008",
+  "entries": 4,
+  "verdicts_offered": {
+   "S-686-14": "confirmed",
+   "S-686-17": "confirmed",
+   "S-686-25": "narrowed",
+   "S-686-31": "confirmed"
+  },
+  "merged_verdict": "narrowed",
+  "merged_from": "S-686-25",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D009",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-25": "confirmed",
+   "S-686-31": "refuted"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-31",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D012",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-04": "confirmed",
+   "S-686-17": "confirmed"
+  },
+  "merged_verdict": "confirmed",
+  "merged_from": "S-686-17",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D017",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-16": "confirmed",
+   "S-686-24": "refuted"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-24",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D018",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-16": "narrowed",
+   "S-686-24": "narrowed"
+  },
+  "merged_verdict": "narrowed",
+  "merged_from": "S-686-24",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D023",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-20": "confirmed",
+   "S-686-40": "confirmed"
+  },
+  "merged_verdict": "confirmed",
+  "merged_from": "S-686-20",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D024",
+  "entries": 3,
+  "verdicts_offered": {
+   "S-686-25": "narrowed",
+   "S-686-31": "narrowed",
+   "S-686-40": "confirmed"
+  },
+  "merged_verdict": "narrowed",
+  "merged_from": "S-686-25",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D025",
+  "entries": 4,
+  "verdicts_offered": {
+   "S-686-04": "refuted",
+   "S-686-25": "refuted",
+   "S-686-40": "refuted"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-25",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D039",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-20": "narrowed",
+   "S-686-40": "refuted"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-40",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D054",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-20": "confirmed",
+   "S-686-40": "confirmed"
+  },
+  "merged_verdict": "confirmed",
+  "merged_from": "S-686-20",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "D062",
+  "entries": 4,
+  "verdicts_offered": {
+   "S-686-20": "confirmed",
+   "S-686-25": "narrowed",
+   "S-686-31": "narrowed",
+   "S-686-40": "confirmed"
+  },
+  "merged_verdict": "narrowed",
+  "merged_from": "S-686-25",
+  "uncertain_after_merge": false,
+  "conflict": true,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ },
+ {
+  "claim_id": "W-M001",
+  "entries": 2,
+  "verdicts_offered": {
+   "S-686-40": "refuted"
+  },
+  "merged_verdict": "refuted",
+  "merged_from": "S-686-40",
+  "uncertain_after_merge": false,
+  "conflict": false,
+  "rule": "strongest finding wins: each worker judged only against its own paper, so a weaker verdict means that paper did not settle it"
+ }
+]

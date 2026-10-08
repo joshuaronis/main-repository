@@ -119,5 +119,56 @@
   }
  ],
  "funding_conflicts": "No funding source, grant or conflict-of-interest statement appears anywhere in the paper. The only institutional note is ethics approval by the Wayne State University Human Use Committee and the reprint address at Detroit Receiving Hospital.",
- "studies_it_cites_that_matter": []
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17:117-120",
+   "pmid": "2827545",
+   "why": "The most important reference in this paper for the job. Todd cites it only for the buffering method, but Europe PMC shows one of its three arms was lidocaine with epinephrine at the same anaesthetic and epinephrine strengths as Todd's second experiment, given by intradermal injection in a randomised, prospective, double-blind study of 25 adult volunteers, with onset, extent and duration of skin anaesthesia recorded. It is therefore a second study refuting C081, and the only one of the three that measures onset. The record already cites it at D025 (mepivacaine arm) and D012 (pH comparison) without noticing this arm. Todd's reference list prints the third author as 'Begalia K'; Europe PMC has 'Begalla K'."
+  },
+  {
+   "citation": "Swerdlow M, Jones R. The duration of action of bupivacaine, prilocaine and lignocaine. Br J Anaesth 1970;42:335-339",
+   "pmid": "4913413",
+   "why": "The randomised intradermal skin-weal duration study of three anaesthetics with and without adrenaline that C039 lists among the seven papers never opened. Verified in Europe PMC: publication types Randomized Controlled Trial, Clinical Trial and Comparative Study, MeSH Injections, Intradermal; Skin Tests; Epinephrine administration & dosage; no abstract indexed; 43 citing papers. Already the primary paper of another worker in this job (S-686-31, for D009), so not re-judged here. Its presence in Todd's reference list places Todd inside the same intradermal-weal tradition that C031 describes."
+  },
+  {
+   "citation": "Wightman MA, Vaughan RW. Comparison of compounds used for intradermal anesthesia. Anesthesiology 1976;45:687-689",
+   "pmid": "791022",
+   "why": "The human intradermal preservative comparison behind C038 and C039; already the primary paper of another worker (S-686-39). Cited by Todd as previous single-locale duration work, which again ties Todd to the intradermal-weal literature the record treats as uncited by modern reviews."
+  },
+  {
+   "citation": "Gramling ZW, Ellis RG Jr, Volpitto PP. Clinical experiences with mepivacaine (carbocaine). J Med Assoc Ga 1964;53:16-18",
+   "pmid": "14107177",
+   "why": "A candidate origin for an old mepivacaine duration figure relevant to D025, looked up and set aside: Europe PMC indexes no abstract and no DOI, and its MeSH terms point to conduction anaesthesia rather than skin, so it cannot be shown to be a skin-duration measurement."
+  },
+  {
+   "citation": "Barone JA, Weisman R, Mangione RA, Goldfrank LR. Serum lidocaine concentrations following subcutaneous administration. Clin Pharm 1984;3:281-284",
+   "pmid": "6734090",
+   "why": "The study Todd uses at page 725 to argue that wounding itself may change duration: 30 patients having lacerations repaired, sampled at 15 to 60 minutes, with the authors concluding absorption appears altered in traumatised tissue. It is the published basis for Todd's own caution that its intact-skin volunteer figures may not transfer to wounded tissue, which matters wherever this record reads Todd's durations across to a clinical setting. Paired by Todd with Nattel 1979 (PMID 460344) for the intact-skin contrast. Any claim these two would otherwise decide has a dose ceiling or plasma threshold as its subject, so the brief's writing rules require them to be counted rather than written out."
+  },
+  {
+   "citation": "Magee C, Rodeheaver GT, Edgerton MT, Golden GT, Haury B, Edlich RF. Studies of the mechanisms by which epinephrine damages tissue defenses. J Surg Res 1977;23:126-131",
+   "pmid": "886841",
+   "why": "One of the two papers Todd cites for epinephrine potentiating infection. A rabbit study of host defence (phagocytosis, immunity, blood bactericidal activity) with phentolamine as a blocking comparator; single exposure, no nerve or tissue histology, no concentration in the indexing. It does not refute C075 or C093 and supports the existing reading that the nearest animal work is single-exposure and about wound defence rather than innervation."
+  },
+  {
+   "citation": "Stevenson TR, Rodeheaver GT, Golden GT, et al. Damage to tissue defenses by vasoconstrictors. JACEP 1975;4:532-535",
+   "pmid": "",
+   "why": "The second epinephrine-and-infection citation. Not resolvable: two Europe PMC title searches returned hitCount 0, so no PMID was confirmed and the abstract could not be read. PMID left blank rather than guessed."
+  },
+  {
+   "citation": "McCafferty DF, Woolfson AD, Boston V. In vivo assessment of percutaneous local anaesthetic preparations. Br J Anaesth 1989;62:17-21",
+   "pmid": "2644962",
+   "why": "Cited by Todd as previous duration work, but it is a topical percutaneous comparison of an amethocaine preparation against EMLA, so it does not bear on any intradermal-injection claim. Recorded to show the reference was checked and set aside on route."
+  },
+  {
+   "citation": "Scott J, Huskisson EC: Graphic representation of pain. Pain 1976;2:175-181",
+   "pmid": "",
+   "why": "The methodological source for Todd's 21-point pain-analysis scale, which is how its duration endpoints were defined. Relevant only to how the endpoint should be read: Todd's durations are self-reported pinprick scores on a visual-analogue-style line, not an examiner-blinded sensory test. PMID not looked up; it decides no claim."
+  },
+  {
+   "citation": "Berk WA, Osbourne DB, Taylor DD: Evaluation of the \"golden period\" for wound repair: 204 cases for a third world emergency department. Ann Emerg Med 1988;17:496-500",
+   "pmid": "",
+   "why": "A self-citation by the second author, on wound infection timing. Noted only for the author-overlap screen; it bears on no claim in claims_all.json. Gravett 1987 (povidone-iodine in sutured lacerations, Ann Emerg Med 1987;16:167-171) is cited alongside it for the same point and is likewise outside the claim set."
+  }
+ ]
 }

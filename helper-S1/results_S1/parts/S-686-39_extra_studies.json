@@ -1,0 +1,47 @@
+[
+ {
+  "pmid": "1246252",
+  "citation": "Mark LC. Letter: Avoiding the pain of venipuncture. N Engl J Med 1976;294(11):614",
+  "found_in_paper": "S-686-39",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Reference 1 of Wightman and Vaughan 1976, and the source of the proposition the paper was written to test: that physiologic saline is a satisfactory local anaesthetic free of discomfort for venipuncture. Verified in Europe PMC: PMID 1246252, DOI 10.1056/nejm197603112941120, N Engl J Med 294:614, 1976, a single-page letter with no abstract. Wightman and Vaughan tested it against five other intradermal solutions and rejected it in both directions, reporting that saline alone gave poor to no anaesthesia in most subjects and was the most uncomfortable of the six to inject. It bears on no claim id in claims_all.json, but it is the provenance of any statement that a saline wheal anaesthetises, and it is the counterpart of the Ropivacaine Wheals page's 'Saline was not inert' passage, which reads a larger-volume control infiltration the other way; that is recorded as Notion finding S-686-39-F016. Europe PMC's MeSH for this record is mismatched (it carries terms for neonatal jaundice and lactose intolerance), which is a letters-column indexing artefact rather than a record error.",
+  "quote_from_abstract": "",
+  "engine": "europepmc"
+ },
+ {
+  "pmid": "5694598",
+  "citation": "Schorr WF. Paraben allergy. A cause of intractable dermatitis. JAMA 1968;204(10):859-862",
+  "found_in_paper": "S-686-39",
+  "bears_on_claim_ids": [
+   "C038",
+   "C039"
+  ],
+  "what_it_shows": "Reference 9 of Wightman and Vaughan 1976, cited there for methylparaben producing severe local hypersensitivity reactions. Verified in Europe PMC: PMID 5694598, DOI 10.1001/jama.204.10.859, 23 citing papers, no abstract indexed. Its MeSH is Dermatitis Contact (diagnosis, drug therapy, epidemiology), Administration Topical, Benzoates and Cosmetics, so the paper is about contact dermatitis from topically applied paraben-containing preparations, not about an injected preservative. It matters for the preservative claims because it means the local-reaction half of the paraben concern that Wightman's discussion passes on rests on a topical dermatitis series, which is a different route from the one the record is deciding.",
+  "quote_from_abstract": "",
+  "engine": "europepmc"
+ },
+ {
+  "pmid": "4278178",
+  "citation": "Aeling JL, Nuss DD. Letter: Systemic eczematous “contact-type” dermatitis medicamentosa caused by parabens. Arch Dermatol 1974;110(4):640",
+  "found_in_paper": "S-686-39",
+  "bears_on_claim_ids": [
+   "C038",
+   "C039"
+  ],
+  "what_it_shows": "Reference 10 of Wightman and Vaughan 1976, cited there for systemic hypersensitivity to parabens. Verified in Europe PMC: PMID 4278178, DOI 10.1001/archderm.1974.01630100088035, a one-page letter, no abstract, 17 citing papers, MeSH Drug Eruptions, Eczema, Parabens and Patch Tests in a single adult male. So the systemic half of the paraben concern rests on a single-patient letter with patch testing. Taken with Schorr 1968, this means neither source behind the paraben-reaction statement involves a preservative given by injection, which is worth recording wherever the record weighs methylparaben in an injectable vial.",
+  "quote_from_abstract": "",
+  "engine": "europepmc"
+ },
+ {
+  "pmid": "",
+  "citation": "Macht DI. A pharmacological and therapeutic study of benzyl alcohol as a local anesthetic. J Pharmacol Exp Ther 1918;11:263-279",
+  "found_in_paper": "S-686-39",
+  "bears_on_claim_ids": [
+   "C013",
+   "D019"
+  ],
+  "what_it_shows": "Reference 2 of Wightman and Vaughan 1976 and the origin of benzyl alcohol as an infiltration anaesthetic, which is the primary source behind the record's statement that benzyl alcohol is a weak local anaesthetic in its own right. Not retrievable: two Europe PMC queries returned no records (author plus benzyl alcohol and local anesthetic; and title plus year), which is expected for a 1918 Journal of Pharmacology and Experimental Therapeutics paper that predates MEDLINE coverage. Recorded so that the 1918 attribution is marked as unverified rather than assumed. Wightman and Vaughan's own measurement supplies a modern human intradermal substitute for it, which is recorded against C013 and D019.",
+  "quote_from_abstract": "",
+  "engine": "europepmc"
+ }
+]
