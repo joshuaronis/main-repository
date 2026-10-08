@@ -1,5 +1,5 @@
 
-===== PDF PAGE 1 of 17 =====
+===== PDF PAGE 1 of 17 (pdftotext -layout) =====
  L E T T E R S
 
 
@@ -92,7 +92,162 @@ tration of amitriptyline in a single dose of   painful peripheral diabetic neuro
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                                   699
 
-===== PDF PAGE 2 of 17 =====
+===== PDF PAGE 1 of 17 (reading order, same page) =====
+L E T T E R S
+
+OBSERVATIONS
+Venlafaxine HCl in
+the Treatment of
+Painful Peripheral
+Diabetic Neuropathy
+n a recent letter by Davis and Smith (1),
+venlafaxine HCl was reported to be
+effective in the symptomatic treatment
+of patients with painful diabetic neuropathy. This observation is in accordance with
+a similar finding made by us.
+We administered venlafaxine HCl in 8
+patients who had unremitting painful
+peripheral diabetic neuropathy that did not
+respond to conventional analgesia. All
+patients had type 2 diabetes and were of
+Greek origin. The patients’ ages ranged
+from 49 to 80 years, and their duration of
+diabetes ranged from 6 to 21 years. Of these
+patients, 5 were men and 3 were women; 5
+of the patients were being treated with oral
+antidiabetic agents, and 3 were on treatment with insulin. The glycemic control of
+each patient was good (mean HbA1c value
+7.2 ± 1.2%).
+Peripheral sensory neuropathy was
+present in all of them, and treatment with
+nonsteroidal anti-inflammatory drugs and
+acetaminophen was unsuccessful.
+Symptoms of neuropathy included
+sharp, stabbing, or burning pain on the
+feet; numbness; and tingling. The symptoms were unremitting with nocturnal
+exacerbation. The vibration sense, which
+was examined by use of a tuning fork, was
+decreased, and the ankle tendon reflexes
+were absent in all of the patients. Other
+frequent causes of peripheral sensory neuropathy, such as uremia, myxedema, B12
+deficiency, and alcoholism, were excluded.
+We tried several therapeutic regimens
+for the management of this common and
+difficult-to-treat problem. Administration
+of carbamazepine resulted in some benefit
+when given to 2 of the patients, but the
+drug was discontinued because of dizziness in 1 patient and because of elevation
+of liver enzymes (aspartate aminotransferase, alanine aminotransferase, and
+gamma-glutamyl-transpeptidase) in the
+other patient. Application of capsaicin
+cream was temporarily effective in 2 other
+patients, but the symptoms were only
+mildly to moderately alleviated. Administration of amitriptyline in a single dose of
+
+I
+
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+25 mg, which was eventually increased to
+75 mg, at bedtime was effective when
+given to 4 patients. The degree of pain
+relief was significant, but the side effects in
+2 patients were intolerable. In 1 patient,
+amitriptyline caused sedation that interfered with the patient’s ability to drive a
+car; in the other patient, the drug caused
+postural hypotension.
+Finally, we administered venlafaxine
+HCl in a dose of 37.5 mg twice a day to all
+of the patients. The results were impressive, and none of the patients experienced
+the side effects associated with administration of amitriptyline.
+Well before experiencing the antidepressant effect of the drug, the patients
+experienced a dramatic relief in the symptoms associated with painful peripheral
+neuropathy within 2–8 days after initiating treatment with venlafaxine HCl.
+In 2 patients, administration of the drug
+resulted in nausea, but these episodes were
+not severe enough to warrant the cessation
+of treatment. Resolution of venlafaxine-associated nausea occurred rapidly in both
+patients, and the treatment remained uninterrupted. No serious side effects were
+observed. It is worth noting that venlafaxine
+HCl was especially effective in relieving the
+symptoms of diabetic neuropathy in the 3
+insulin-treated diabetic patients. The
+patients began using insulin during only the
+last months of the study, and, after experiencing an improvement in glycemic control,
+they experienced an exacerbation of the
+symptoms of neuropathy. This is a wellknown phenomenon. Venlafaxine HCl was
+dramatically effective in reducing the pain of
+neuropathy in this group of patients.
+The mode of action of venlafaxine HCl
+is unknown. Venlafaxine HCl has been
+shown to be effective in relieving thermal
+hyperalgesia in rats with experimentally
+induced neuropathic pain (2).
+Venlafaxine HCl seems to have one of
+the most favorable drug interaction profiles, and data indicate that it does not
+inhibit, or that it weakly inhibits, the activity of isoenzymes CYP2C9, CYP2D6,
+CYP1A2, or CYP3A3/4 (3,4). This is an
+important characteristic in view of the fact
+that type 2 diabetic patients are usually
+already on treatment with oral antidiabetic
+agents or several other drugs.
+Our observations, which are in agreement with those of Davis and Smith (1),
+reinforce their suggestion that venlafaxine
+HCl may be useful in the treatment of
+painful peripheral diabetic neuropathy.
+
+JOHN A. KIAYIAS, MD
+EUGENIA D. VLACHOU, RN, MSC
+ELLI LAKKA-PAPADODIMA, MD
+From the Department of Endocrinology and Metabolism, Athens Polyclinic Hospital, Athens, Greece.
+Address correspondence to John A. Kiayias, MD,
+Papadiamantopoylou 26 St., Athens, 11528 Greece.
+
+References
+1. Davis JL, Smith RL: Painful peripheral diabetic neuropathy treated with venlafaxine
+HCl extended release capsules (Letter).
+Diabetes Care 22:1909–1910, 1999
+2. Lang E, Hord AH, Denson D: Venlafaxine
+HCl (Effexor) relieves thermal hyperalgesia in rats with an experimental mononeuropathy. Pain 68:151–155, 1996
+3. Ereshefsky L: Drug-drug interactions
+involving antidepressants: focus on venlafaxine. J Clin Psychopharmacol 16:37–50,
+1996
+4. Rudolph RL, Derivan AT: The safety and tolerability of venlafaxine HCl: analysis of the
+clinical trials database. J Clin Psychopharmacol 16:54–59, 1996
+
+Bilateral Diabetic
+Infarction of the
+Anterior Tibial
+Muscle
+iabetic syndromes in which the muscles, rather than peripheral nerves,
+are the primary sites of pathology are
+rare. Some studies have identified the
+muscles of the thigh (1–3) and a very few
+studies have identified the muscles of the
+leg (4–7) as sites of infarctions, each sparing the anterior tibial muscle, which is
+more frequently involved in mechanically
+induced compartment compression syndromes (8). We are reporting on a 71-yearold woman with poorly controlled type 2
+diabetes suffering from bilateral isolated
+diabetic infarctions of the anterior tibial
+muscles, occurring within an interval of 7
+months and confirmed by magnetic resonance imaging (MRI). Six weeks before
+admission, she had suddenly experienced
+pain, local tenderness, and hypesthesia of
+the right leg without any previous physical
+exercise or trauma. There was no reported
+fever, swelling of the leg, or associated local
+erythema, but there was some numbness
+and paresthesia of the anterolateral part of
+the right leg. The pain worsened over the
+subsequent 3 weeks. On examination, the
+patient was afebrile but in pain. Muscle
+
+D
+
+699
+
+
+===== PDF PAGE 2 of 17 (pdftotext -layout) =====
 Letters
 
 
@@ -162,7 +317,88 @@ between the maximal circumferences of                showed normal protein conte
 
 700                                                                                                       DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
 
-===== PDF PAGE 3 of 17 =====
+===== PDF PAGE 2 of 17 (reading order, same page) =====
+Letters
+
+Figure 1—Sagittal MRI of the right and left lower leg (1A, 1D). Inversion recovery images with fat
+signal suppression reveal high water content of the anterior tibial muscle (long arrows), suggestive of
+subacute infarction, while signal of the gastrocnemius muscle (arrowheads) is normal. The corresponding axial slices 10 cm below the knee demonstrate signal abnormality of the anterior tibial muscle (short arrows), while the muscles of the peroneal group and gastrocnemius appear normal (1B:
+inversion recovery MRI; 1C, 1E: long T2-weighted MRI).
+
+strength of the right lower limb was normal
+with the exception of paretic dorsal extension of the foot (grade 4 Medical Research
+Council [MRC]). She was unable to walk on
+her heels. Tendon reflexes were normal in
+the arms and hyporeactive in the knees and
+ankles. There was hyperpathia to tactile
+stimuli and paresthesia in the distal part of
+the anterolateral right leg. Pinprick and light
+touch sensation was attenuated in the same
+area. All peripheral arterial pulses were normal. There was no significant difference
+between the maximal circumferences of
+700
+
+both legs (2 cm), but there was some mild
+bilateral ankle edema. The fasting blood glucose was 147 mg/dl, the HbA1c concentration was 6.7% (normal 5.7%), and the Cpeptide level was 1.43 mmol/l (normal
+0.99 mmol/l). The white blood cell count
+was 7,500 cells/mm3 with a normal differential. The erythrocyte sedimentation rate was
+33 mm/h and the C-reactive protein 2.0
+mg/l (normal 2.0 mg/l). Repeated levels of
+creatine kinase, coagulation tests, and creatinine levels were normal. Cerebrospinal fluid
+showed normal protein content and cell
+
+count. Standard motor nerve conduction
+and F-wave studies of bilateral deep peroneal and tibial nerves were normal. Sensory nerve conduction studies of both sural
+nerves showed reduced action potential
+amplitudes and normal nerve conduction
+velocities. Concentric needle electromyography (EMG) of the right anterior tibial
+muscle displayed severe fibrillations and
+positive sharp waves (3 on a scale from 0
+to 4). In contrast, there were only a few
+questionable fibrillations in the extensor
+hallucis longus muscle and posterior tibial
+muscle, and no pathologic spontaneous
+activity in the peronaeus longus, rectus
+femoris, vastus medialis, gastrocnemius,
+gluteus medius, and adductor longus muscles. Motor unit potentials of the anterior
+tibial muscle were slightly enlarged. The
+follow-up EMG examination, 8 days later,
+did not show any significant change in the
+distribution of the spontaneous activity,
+which was still very prominent in the anterior tibial muscle and at this time not present in the posterior tibial muscle. The plain
+X-ray of the leg showed no skeletal lesions.
+B-mode sonography of the anterolateral leg
+muscles and Doppler sonography and
+duplex scanning of the lower-limb arteries
+were normal. The MRI of the lumbar spine
+was normal. The MRI of the right leg
+showed high signal intensity of the anterior
+tibial muscle (Fig. 1C), while all other peroneal muscles, as well as the gastrocnemius
+muscle appeared with normal signals in the
+long T2-weighted images. No abnormalities could be detected in the other tissues
+such as nerves, bones, or soft tissues. In
+T1-weighted images, before and after contrast enhancement, no significant signal
+abnormalities were present. Inversion
+recovery MRI techniques were applied to
+differentiate between the fat and water contents of the muscle structure by using delay
+times for the inversion pulse producing fat
+and water signal suppression. These images
+revealed a normal fat distribution but an
+increased net-water content of the anterior
+tibial muscle (Fig. 1A, 1B).
+With analgesic therapy, the symptoms
+gradually improved until they completely
+resolved after 7 weeks. However, 7 months
+later, the patient was readmitted because of
+similar pain and tenderness of the anterolateral left leg. On admission, she was
+unable to walk on her heels, and dorsal
+extension of the foot was grade 3 MRC on
+the left and 4 MRC on the right. Hyperpathia to tactile stimuli and paresthesia of
+the anterolateral aspect of the left leg were
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+
+===== PDF PAGE 3 of 17 (pdftotext -layout) =====
                                                                                                                                               Letters
 
 
@@ -245,7 +481,156 @@ biopsy in order to limit focal muscular               845, 1997                 
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                                       701
 
-===== PDF PAGE 4 of 17 =====
+===== PDF PAGE 3 of 17 (reading order, same page) =====
+Letters
+
+also found. The patient’s HbA1c was elevated to 7.9% (normal 5.7%), whereas
+other routine laboratory tests were normal.
+The EMG of the left anterior tibial muscle
+displayed moderate fibrillations and positive sharp waves (2 on a scale from 0 to
+4), while there was no pathologic spontaneous activity in neighboring muscles.
+Control EMG of the right anterior tibial
+muscle showed enlarged polyphasic motor
+unit potentials with no signs of spontaneous activity and a severely disrupted
+interference pattern. This time, MRI scans
+of the left leg showed isolated high signal
+intensity changes of the left anterior tibial
+muscle in the inversion recovery (Fig. 1D)
+and T2-weighted images (Fig. 1E).
+In our patient with inadequately controlled diabetes, muscle infarction was at
+both times suggested by the acute onset of
+localized pain in the anterolateral leg. Several weeks after onset, EMG revealed profuse pathologic spontaneous activity confined to the anterior tibial muscles. Standard motor conduction studies of
+lower-limb nerves were normal, so that a
+mononeuropathy of the deep or common
+peroneal nerve was unlikely, whereas sensory nerve conduction studies were suggestive of mild sensory polyneuropathy. Laboratory investigations of serum, including
+creatine-kinase and cerebrospinal fluid,
+gave no indication of ongoing inflammation. In the absence of a history of previous
+trauma or excessive exercise, a mechanically induced anterior compartment syndrome of the leg with increased tissue pressure resulting in ischemia seemed unlikely.
+Also, typical features of anterior compartment syndrome, such as involvement of the
+anterior tibial muscle and the peroneal
+muscles, swelling of the leg and an electrically silent EMG (8), were absent in our
+patient. The MRI suggested an isolated
+lesion of both anterior tibial muscles, 4 and
+6 weeks after onset of symptoms. There
+was increased signal intensity in long
+T2-weighted images and fat and water-suppression inversion-recovery sequences,
+thus indicating an increased net water content of the anterior tibial muscle. These
+findings were the morphological correlate
+of subacute infarction, i.e., the muscular tissue was beyond the stage of contrast
+enhancement but had not yet reached the
+chronic stage with formation of fatty streaks
+or scar tissue, as described in several
+histopathological studies (1,6). We did not
+supplement the imaging results by muscle
+biopsy in order to limit focal muscular
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+damage in accordance with other authors
+(3). Clinical examination and ultrasound of
+the leg arteries failed to demonstrate large
+vessel occlusion. Usually, the anterior tibial
+muscle is supplied by 3 or 4 branches of the
+anterior tibial artery (9) that do not regularly show up on angiography. We assume
+that they must have been occluded in our
+patient, as in previous autopsy studies in
+patients with diabetic muscle infarction,
+extensive atherosclerosis of small muscular
+and intramuscular arteries has been
+reported (6). The sensory abnormalities
+had to be summarized under a mild
+peripheral sensory polyneuropathy as indicated by the bilaterally low tendon reflex
+activity in the lower limbs and abnormalities of sensory nerve conduction.
+In summary, from the clinical history
+and examination, the electrodiagnostic
+findings, and, in particular, the findings of
+MRI, we concluded that our patient suffered from diabetic muscle infarction of
+the anterior tibial muscles. According to
+the literature, a contralateral recurrence is
+not rare (6). Recent articles included
+patients with diabetic muscle infarctions
+of the legs and all involved the calves,
+directing attention from the thigh to other
+muscular regions as potential sites of
+infarction (4–7). However, to the best of
+our knowledge, this is the first report to
+describe isolated bilateral diabetic infarctions of the anterior tibial muscles.
+KONSTANTINOS SPENGOS, MD
+JOHANNES C. WÖHRLE, MD
+JOHANNES BINDER, MD
+ANDREAS SCHWARTZ, MD
+MICHAEL HENNERICI, MD
+From the Department of Neurology, Universitätsklinikum Mannheim, University of Heidelberg,
+Mannheim, Germany.
+Address correspondence to Johannes C. Wöhrle,
+MD, the Department of Neurology, Universitätsklinikum Mannheim, University of Heidelberg,
+Theodor Kutzer Ufer, D-68135 Mannheim, Germany. E-mail: woehrle@neuro.ma.uni-heidelberg.de.
+
+References
+1. Barohn RJ, Kissel JT: Case-of-the-month:
+painful thigh mass in a young woman: diabetic muscle infarction. Muscle Nerve 15:
+850–855, 1992
+2. Scully RE, Mark EJ, McNeely WF, Ebeling
+SH, Phillips LD: Case records of the Massachusetts General Hospital: weekly clinicopathological exercises. Case 29-1997: a
+54-year-old diabetic woman with pain and
+swelling of the leg. N Engl J Med 337:839–
+845, 1997
+
+3. Keller DR, Erpelding M, Grist T: Diabetic
+muscular infarction: preventing morbidity
+by avoiding excisional biopsy. Arch Intern
+Med 157:1611–1617, 1997
+4. Umpierrez GE, Stiles RG, Kleinbart J,
+Krendel DA, Watts NB: Diabetic muscle
+infarction. Am J Med 101:245–250, 1996
+5. Van Slyke MA, Ostrov BE: MRI evaluation
+of diabetic muscle infarction. Magn Reson
+Imaging 13:325–329, 1995
+6. Chester CS, Banker MD: Focal infarction of
+muscle in diabetics. Diabetes Care 9:623–
+630, 1986
+7. Nunez-Hoyo M, Gardner CL, Motta AO,
+Ashmead JW: Skeletal muscle infarction in
+diabetes: MR findings. J Comput Assist
+Tomogr 17:986–988, 1993
+8. Shields RW Jr, Root KE, Wilbourn AJ:
+Compartment syndromes and compression neuropathies in coma. Neurology 36:
+1370–1374, 1986
+9. Lang J, Wachsmuth W: Bein und Statik. In
+Praktische Anatomie. Bein und Statik. Berlin,
+Springer-Verlag, 1972, p. 311–313
+
+Function of
+Pancreatic Islets
+Isolated From a
+Type 1 Diabetic
+Patient
+n type 1 diabetes, the progressive
+autoimmune destruction of the pancreatic -cells leads to insulin deficiency,
+with reduced or absent response to glucose
+and nonglucose stimuli. An additional hormonal defect involves glucagon secretion.
+This includes loss of glucose-induced suppression of glucagon secretion and exaggerated increase of glucagon in response to
+stimuli such as arginine infusion and a protein meal. It can be corrected by restoration
+of insulin levels. Not surprisingly, the information on insulin and glucagon secretion
+in human type 1 diabetes has been
+obtained almost exclusively from in vivo
+studies. To our knowledge, only 1 article
+has been published on the function of isolated type 1 diabetic islets (1). In that case,
+pre-proinsulin mRNA and insulin content,
+as well as insulin response, were evaluated
+from isolated islets at the clinical onset of
+disease. The authors found that, although
+markedly reduced, -cells were still present, which showed a disproportionate
+impairment of insulin release ability.
+Our laboratories are involved in the
+preparation and characterization of islets of
+Langerhans from the pancreases of large
+
+I
+
+701
+
+
+===== PDF PAGE 4 of 17 (pdftotext -layout) =====
 Letters
 
 
@@ -315,7 +700,122 @@ insulin synthesis in -cells from the dia-         3-isobutyl-1-methylxanthine (
 
 702                                                                                                  DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
 
-===== PDF PAGE 5 of 17 =====
+===== PDF PAGE 4 of 17 (reading order, same page) =====
+Letters
+
+mammals and people (2,3). We received
+the pancreas of P.E., a young type 1 diabetic
+patient, who was a multiorgan donor, and
+had died accidentally, 8 months after the
+diagnosis of type 1 diabetes. This provided
+us the unique opportunity to study some of
+the functional properties of the islets isolated from a type 1 diabetes pancreas, at a
+few months from clinical onset of disease.
+P.E. was a 14–year-old type 1 diabetic
+girl. Eight months before the car accident
+that caused her death, she had been
+admitted to an emergency medicine clinic
+because of a coma of unknown origin, and
+the diagnosis of diabetic ketoacidosis was
+soon made. After a full recovery, she was
+followed by a pediatric diabetologist, who
+confirmed the diagnosis of type 1 diabetes
+by demonstrating the presence of positivity for HLA-DR3, high titer of islet cell
+antibody, anti-GAD, and anti-IA2 antibodies, and low levels of plasma C-peptide.
+Diabetes control was maintained fair
+(HbA1c levels 8%) by 0.4 U/kg body
+wt of insulin, given daily through 3 separate injections. After the car accident, and
+after brain death was confirmed, her parents agreed to organ donation.
+The islets were prepared in the laboratory in Pisa, Italy, by collagenase digestion
+and density gradient purification (2,4).
+Aliquots of the final preparation were sent
+to Brussels for the evaluation of insulin
+synthesis and to perform perifusion experiments, as previously described (5). The
+other studies were performed in Pisa and
+Rome, according to previously reported
+procedures (2,4). The results were compared with those generated with the islets
+prepared from the pancreas of a 25-yearold woman. Also in this case, the cause of
+death had been a car accident, and we isolated the islets 2 days after the type 1 diabetic pancreas processing. The methods
+used were the same and the final purity
+was 90%.
+During the isolation process, the islets
+from the type 1 diabetic patient appeared
+as discrete round or oval structures that
+could be identified by dithizone staining.
+At the end of the isolation and purification procedures, the purity of the islets, as
+roughly estimated by dithizone staining,
+was 60%.
+After 5 days of isolation, the insulin synthetic activity was measured during a 2-h
+incubation at 10 mmol/l glucose. When
+expressed as a function of corresponding
+insulin content, the rate of glucose-induced
+insulin synthesis in -cells from the dia702
+
+Figure 1—Insulin release from human islets isolated from diabetic (—) and control donors (•••).
+Preparations were perifused with 10-min pulses of varying glucose concentrations with or without 5
+mmol/l arginine.
+
+betic pancreas was 76% of the values measured in control cells (4.8 vs. 6.3%).
+By the perifusion experiments, the
+first-phase insulin release was analyzed
+and the data were expressed as function of
+insulin content (Fig. 1). The basal insulin
+discharge from diabetic -cells was comparable to that from control preparations,
+whereas their glucose-stimulated activity
+was markedly reduced. The diabetic islets
+did not respond to 5 mmol/l glucose,
+whereas control cells were stimulated
+4-fold; their secretory activity increased
+2- to 3-fold at 10 and 20 mmol/l glucose,
+but their maximal activity was still 4-fold
+lower than that of control values. This
+reduced glucose responsiveness could not
+be corrected by the addition of arginine.
+The static incubation experiments
+(mean ± SD of 4 to 5 determinations) were
+performed after 5 and 17 days of isolation,
+with the islets kept under standardized culture conditions (2,4). Shortly after the isolation, insulin release (expressed as percent of
+insulin content) in response to 3.3 mmol/l
+glucose and 3.3 mmol/l glucose  20
+mmol/l arginine was similar in control
+(respectively 1.0 ± 0.2 and 1.7 ± 0.4%) and
+type 1 (respectively 1.2 ± 0.4 and 1.5 ±
+0.3%) islets, whereas the secretion of the
+hormone in response to 16.7 mmol/l glucose and 16.7 mmol/l glucose plus 1 mmol/l
+3-isobutyl-1-methylxanthine (IBMX) was
+
+lower from type 1 islets (respectively 1.6 ±
+0.3 and 1.9 ± 0.2%) than from control cells
+(respectively 2.6 ± 0.6 and 3.0 ± 0.2%).
+After 17 days of culture, the difference at
+high glucose was not observed (high glucose plus IBMX was not tested); insulin
+secretion, normalized for insulin content,
+was 7.8 ± 1.2% from diabetic islets and 6.5
+± 0.5% from control islets.
+The release of glucagon (pg/ml, mean ±
+SD of 4 to 5 determinations) from both
+shortly prepared and cultured type 1 diabetic islets was similar at 3.3 (respectively
+20.6 ± 1.2 and 20.3 ± 1.1) and 16.7 (19.9 ±
+1.6 and 20.9 ± 1.8) mmol/l glucose,
+whereas the control islets showed a reduction of glucagon release (20%) in
+response to high glucose (5-day cultured
+islets: 21.8 ± 1.4 at 3.3 mmol/l glucose and
+17.6 ± 1.5 at 16.7 mmol/l glucose; 17-day
+cultured islets: 22.4 ± 0.9 at 3.3 mmol/l glucose and 16.8 ± 0.2 at 16.7 mmol/l glucose).
+The addition of arginine to 3.3 mmol/l glucose caused a similar increase of glucagon
+release from both diabetic (25.2 ± 4.0 and
+31.6 ± 8.7, respectively, from 5- and
+17-day cultured cells), and control (33.1 ±
+6.2 and 26 ± 1.3, respectively, from 5- and
+17-day cultured cells) islets.
+In the present study, the hormonal
+function of islets prepared from type 1
+diabetic patient a few months from the
+onset of disease is reported for the first
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+
+===== PDF PAGE 5 of 17 (pdftotext -layout) =====
                                                                                                                                                  Letters
 
 
@@ -402,7 +902,170 @@ sible in the natural history of the disease.           Okamoto H, Ferrannini E: 
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                                         703
 
-===== PDF PAGE 6 of 17 =====
+===== PDF PAGE 5 of 17 (reading order, same page) =====
+Letters
+
+time. In these islets, 8 months after the
+diagnosis of diabetes, some residual cells
+capable of insulin synthesis and secretion
+were still present.
+Our results confirm in vivo data showing that the defects of insulin release in this
+type of diabetes are mainly quantitative
+and involve a wide range of insulinotropic
+agents. Interestingly, we found that the
+characteristics of insulin release of type 1
+diabetic islets seemed to improve after a
+period of culture. This is in agreement with
+previous data obtained with islets prepared
+from NOD mice, showing reversal of glucose-induced insulin release suppression
+after 7 days of culture (6). In that case,
+removal of intra-islet inflammatory cells
+was considered as the factor leading to the
+improved -cell function. Our results suggest that some of the alterations observed
+were due, at least in part, to the native type 1
+islet environment.
+A loss of glucose-modulated glucagon
+secretion and a maintained sensitivity to
+arginine have been observed in models of
+both type 1 and type 2 diabetes (7), suggesting that the defect of glucagon release
+is mainly due to the diminished insulin
+levels. In our experiments, glucagon
+release from the diabetic islets was similar
+at 3.3 as 16.7 mmol/l glucose and the
+reduced suppression by high glucose did
+not change upon culture. On the other
+hand, in the presence of arginine, a similar
+increase of glucagon secretion was
+observed from both diabetic and control
+islets. Thus, the decreased insulin output
+from our type 1 diabetes islets was paralleled by minor derangements of glucagon
+release.
+The persistence of some insulin synthetic and secretory function, even a few
+months after the onset of diabetes, and the
+improvement of insulin secretion characteristics after removal of the islets from their
+native environment support the search for
+strategies aimed to allow the diagnosis and
+treatment of type 1 diabetes as early as possible in the natural history of the disease.
+PIERO MARCHETTI, MD
+FRANCESCO DOTTA, MD
+ZHIDONG LING, PHD
+ROBERTO LUPI, PHD
+SILVIA DEL GUERRA, PHD
+CARMELA SANTANGELO, PHD
+MASSIMO REALACCI, PHD
+LORELLA MARSELLI, MD
+UMBERTO DI MARIO, MD
+RENZO NAVALESI, MD
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+From the Department of Endocrinology and Metabolism (P.M., R.L., S.D.G., L.M., R.N.), Metabolic
+Unit, University of Pisa, Pisa; the Department of
+Endocrinology (F.D., C.S., M.R., U.D.M.), Second
+Medical Clinic, “La Sapienza” University, Rome,
+Italy; and the Beta-Cell Transplant Unit (Z.L.), Vrije
+Universiteit, Brussels, Belgium.
+Address correspondence to Piero Marchetti,
+MD, Department of Endocrinology and Metabolism, Metabolic Unit, Ospedale Cisanello, Via Paradisa 2, 56100 Pisa, Italy. E-mail: marchant@immr.
+med.unipi.it.
+
+atic islets isolated from NOD mice during
+the phase preceding insulin-dependent
+diabetes mellitus. J Clin Invest 85:1944–
+1950, 1990
+7. Ishida K, Mizuno A, Sano T, Shi K, Shima
+K: Plasma glucagon responses to insulininduced hypolgycemia and arginine in
+spontaneous non-insulin-dependent diabetes mellitus rats, Otsuka Long Evans
+Tokushima Fatty (OLEFT) strain. Acta
+Endocrinol (Copenh) 129:585–593, 1993
+
+Acknowledgments — This work was supported by grants from the Italian National
+Research Council, Ministero Università e
+Ricerca Scientifica e Tecnologica, Regione
+Toscana, the European Community (BMH1CT92–0805, BMH4-CT95–1561), the Ministry of Scientific Policy (CE-03–001), the
+Flemish Community (93/019), Biomed, and
+the Juvenile Diabetes Foundation International (DIRP 995004).
+The authors thank Renè De Proft, Lutgart
+Heylen, Gabriel Schoonjans, and Luc Bouwens
+for technical assistance.
+
+Circulating Levels of
+Coagulation Factor
+XIII in Subjects With
+Type 2 Diabetes and
+in Their First-Degree
+Relatives
+
+References
+1. Conget I, Fernadez-Alvarez J, Ferrer J,
+Sarri Y, Novials A, Somoza N, Pujol-Borrel
+R, Casamitjana R, Gomis R: Human pancreatic islet function at the onset of type 1
+(insulin-dependent) diabetes mellitus.
+Diabetologia 36:358–360, 1993
+2. Marchetti P, Giannarelli R, Cosimi S,
+Masiello P, Coppelli A, Viacava P, Navalesi
+R: Massive isolation, morphological and
+functional characterization, and xenotransplantation of bovine pancreatic islets.
+Diabetes 44:375–381, 1995
+3. Keymeulen B, Ling Z, Gorus FK, Delvaux
+G, Bouwens L, Grupping A, Hendrieckx
+C, Pipeleers-Marichal M, Van Schravendijk C, Salmela K, Pipeleers DG: Implantation of standardized beta-cell graft in a
+liver segment of IDDM patients: graft and
+recipient characteristics in two cases of
+insulin-independence under maintainance
+immunosuppression for prior kidney
+graft. Diabetologia 41:452–459, 1998
+4. Pupilli C, Giannini S, Marchetti P, Lupi R,
+Antonelli A, Malavasi F, Takasawa S,
+Okamoto H, Ferrannini E: Autoantibodies
+to CD38 (ADP-ribosyl cyclase/cyclic ADPribose hydrolase) in Caucasian patients
+with diabetes: effects on insulin release
+from human islet cells. Diabetes 48:2309–
+2315, 1999
+5. Ling Z, Pipeleers D: Prolonged exposure of
+human beta-cells to elevated glucose levels
+results in sustained cellular activation with
+a loss of glucose regulation. J Clin Invest
+98:2805–2812, 1996
+6. Strandell E, Eizirik DL, Sandler S: Reversal
+of beta-cell suppression in vitro in pancre-
+
+oagulation factor XIII (FXIII) circulates in plasma as an inactive
+tetramer of 2 A- (catalytic) and 2
+B- (carrier) subunits. When activated by
+thrombin, it catalyzes the cross-linking of
+fibrin chains and 2-antiplasmin to fibrin
+(1), thereby increasing the mechanical
+strength and fibrinolytic resistance of fibrin clot. A functional role for FXIII in
+thrombotic disease is suggested by the
+finding that the Leu allele at the common
+Val34Leu polymorphism in the FXIII
+A-subunit gene appears to protect against
+both myocardial infarction and venous
+thromboembolism (2,3).
+We compared 173 subjects with type 2
+diabetes (48 treated with diet alone, 6
+treated with insulin, 21 treated with metformin, 73 treated with sulfonylurea, and
+25 treated with combined sulfonylurea
+and metformin therapy) with a group of
+110 nondiabetic healthy control subjects
+of similar age (mean age 63 years). Additionally, 132 first-degree relatives (44 siblings, 77 children, and 4 parents) of subjects with type 2 diabetes were compared
+with a second control group of 151
+healthy subjects of similar age (mean ages
+45 and 47 years, respectively). All of the
+subjects had been recruited for earlier
+hemostasis studies (4,5).
+Circulating levels of FXIII were measured in citrated plasma samples. FXIII Aand B-subunit antigen levels were measured by use of a sandwich enzyme-linked
+immunosorbent assay method (6), and
+FXIII activity was measured by a sensitive
+microtiter assay using fibrinogen and
+5-(biotinamido)pentylamine (6). Geno-
+
+C
+
+703
+
+
+===== PDF PAGE 6 of 17 (pdftotext -layout) =====
 Letters
 
 
@@ -477,7 +1140,172 @@ unit antigen across the groups.                                PETER J. GRANT, M
 
 704                                                                                                 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
 
-===== PDF PAGE 7 of 17 =====
+===== PDF PAGE 6 of 17 (reading order, same page) =====
+Letters
+
+type at the FXIII codon34 (Val34Leu)
+polymorphism was determined by use of a
+previously described method (3).
+Mean (± SD) circulating levels of FXIII
+A-subunit antigen and B-subunit antigen
+were higher in diabetic subjects than in
+control subjects (117 ± 29 vs. 98 ± 27%
+and 125 ± 26 vs. 109 ± 26%, respectively),
+and these differences remained after
+adjustments for age, sex, BMI, smoking
+habit, and fibrinogen levels; the adjusted
+mean values were 120 vs. 96% for the
+A-subunit and 126 vs. 109% for the
+B-subunit (P  0.0005 for each comparison). In contrast, the levels of FXIII crosslinking activity were not different between
+the type 2 diabetic subjects and the control
+subjects (104 ± 33 vs. 101 ± 37%). Levels
+of FXIII in diabetic subjects were not
+altered by exclusion of those subjects with
+a clinical history of coronary artery disease,
+cerebrovascular disease, peripheral vascular disease, or diabetic retinopathy, and levels of FXIII showed no heterogeneity across
+antidiabetic treatment groups.
+In relatives of subjects with type 2 diabetes, mean levels of FXIII A-subunit were
+higher than those in control subjects (116
+± 38 vs. 103 ± 29%, respectively, P 
+0.001), and this difference remained after
+adjustment for age, sex, BMI, smoking
+habit, and fibrinogen level (117 vs. 106%,
+respectively, P = 0.012). However, levels of
+FXIII B-subunit (110 ± 29 vs. 108 ± 361%)
+and FXIII cross-linking activity (93 ± 37 vs.
+103 ± 41%) were not significantly different
+between relatives and control subjects.
+Levels of FXIII B-subunit antigen
+showed a consistent pattern of correlation
+with other recognized cardiovascular risk
+factors (i.e., fibrinogen, factor VII coagulant
+activity, cholesterol levels, triglyceride levels, and HbA1c levels [r  0.16 and P 
+0.05 for each factor]). In the diabetic
+patients and relative groups, there was also
+a significant correlation of levels of FXIII
+B-subunit with insulin, homeostasis model
+assessment insulin resistance (7), and PAI-1
+levels (r = 0.16, P 0.05). FXIII A-subunit
+antigen levels were correlated with levels of
+fibrinogen only (r = 0.25, P = 0.001) in the
+diabetic patients and in the younger control
+group (r = 0.23, P = 0.008).
+Factor XIII activity levels rose as the
+number of Leu alleles increased at the
+FXIII codon34 (Val34Leu) polymorphism
+in each group. There was no consistent
+pattern of association of the Val34Leu
+genotype with levels of FXIII A- or B-subunit antigen across the groups.
+704
+
+These findings suggest that elevated
+levels of FXIII A-subunit may precede the
+development of diabetes and arise through
+some mechanism(s) shared with those that
+contribute to the familial predisposition to
+type 2 diabetes. It is not clear what that
+mechanism may be. There was no association between the A-subunit level and the
+fasting glucose level, the HbA1c level, or any
+measured metabolic feature of diabetes, its
+vascular complications, or its treatment.
+However, it is possible that raised FXIII
+A-subunit levels may be an early marker of
+subclinical vascular damage.
+FXIII A-subunits circulate only in
+FXIII tetramer, whereas B-subunits circulate in both tetrameric and free dimeric
+forms. This distinction and the differing
+sites of synthesis of the 2 subunits (8) may
+account for the difference in findings for
+levels of A- and B-subunits across the
+groups studied. Furthermore, the consistency of the correlation between circulating levels of FXIII B-subunit antigen and
+other cardiovascular risk markers raises
+the possibility of an underlying association with insulin resistance. However, if
+there is a functional significance of
+increased FXIII B-subunit levels, it has yet
+to be elucidated.
+Despite the clear differences in levels of
+FXIII subunit antigens, there was no difference in the levels of FXIII activity between
+diabetic subjects or first-degree relatives
+and age-matched control subjects. It is
+possible that the influence of genotype at
+the Val34Leu polymorphism on FXIII
+activity levels (9,10) may have overriding
+importance, because, even after adjustment for its influence, no difference was
+found between the subject groups. Furthermore, the extent to which in vitro measurements of FXIII activity reflect in vivo
+physiological FXIII function is unclear.
+In conclusion, levels of FXIII A- and
+B-subunit antigen are elevated in subjects
+with type 2 diabetes, and levels of FXIII
+A-subunit antigen are elevated in relatives
+of subjects with type 2 diabetes. Levels of
+FXIII B-subunit antigen show a consistent
+pattern of correlation with other vascular
+risk markers, which supports the possibility of an underlying association with
+insulin resistance.
+MICHAEL W. MANSFIELD, DM, MRCP
+HANS P. KOHLER, MD
+ROBERT A. S. ARIËNS, PHD
+LYNN J. MCCORMACK, PHD
+PETER J. GRANT, MD, FRCP
+
+From the Academic Unit of Molecular Vascular
+Medicine, University of Leeds, Leeds, U.K.
+Address correspondence to Michael W. Mansfield, DM, MRCP, Academic Unit of Molecular Vascular Medicine, G-Floor, Martin Wing, General
+Infirmary at Leeds, Leeds LS1 3EX, U.K. E-mail:
+m.w.mansfield@leeds.ac.uk.
+
+Acknowledgments — This study was supported by the British Heart Foundation.
+H.P.K. has received funds from the Swiss
+Foundation for medical-biological grants.
+
+References
+1. Greenberg CS, Birckbichler PJ, Rice RH:
+Transglutaminases: multifunctional crosslinking enzymes that stabilize tissues.
+FASEB J 5:3071–3077, 1991
+2. Catto AJ, Kohler HP, Coore J, Mansfield
+MW, Stickland MH, Grant PJ: Association
+of a common polymorphism in the factor
+XIII gene with venous thrombosis. Blood
+93:906–908, 1999
+3. Kohler HP, Stickland MH, Ossei-Gerning
+N, Carter A, Grant PJ: Association of a
+common polymorphism in the factor XIII
+gene with myocardial infarction. Thromb
+Haemost 79:8–13, 1998
+4. Mansfield MW, Heywood DM, Grant PJ:
+Sex differences in coagulation and fibrinolysis in white subjects with non-insulindependent diabetes mellitus. Arterioscler
+Thromb Vasc Biol 16:160–164, 1996
+5. Mansfield MW, Heywood D, Grant PJ: Circulating levels of factor VII, fibrinogen,
+and von Willebrand factor and features of
+insulin resistance in first-degree relatives
+of patients with NIDDM. Circulation 94:
+2171–2176, 1996
+6. Ariëns RAS, Kohler HP, Mansfield MW,
+Grant PJ: Subunit antigen and activity levels of coagulation factor XIII in healthy
+individuals: relationship to gender, age,
+smoking and hypertension. Arterioscler
+Thromb Vasc Biol 19:2012–2016, 1999
+7. Matthews DR, Hosker JP, Rudenski AS,
+Naylor BA, Treacher DF, Turner RC:
+Homeostasis model assessment: insulin
+resistance and -cell function from fasting
+plasma glucose and insulin concentrations
+in man. Diabetologia 28:412–419, 1985
+8. Schmeling A, Bockholdt B, Schroder H,
+Geserick G: Phenotype change in polymorphic plasma proteins following liver
+transplantation. Exp Clin Immunogenet 13:
+78–83, 1996
+9. Kangsadalampai S, Board PG: The Val34Leu
+polymorphism in the A subunit of coagulation factor XIII contributes to the large
+normal range in activity and demonstrates
+that the activation peptide plays a role in
+catalytic activity. Blood 92:2766–2770,
+1998
+10. Kohler HP, Ariëns RAS, Whitaker P, Grant
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+
+===== PDF PAGE 7 of 17 (pdftotext -layout) =====
                                                                                                                                            Letters
 
 
@@ -560,7 +1388,163 @@ during the trial. The percent change of                       RYUICHI KIKKAWA, M
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                                   705
 
-===== PDF PAGE 8 of 17 =====
+===== PDF PAGE 7 of 17 (reading order, same page) =====
+Letters
+
+PJ: A common coding polymorphism in
+the FXIII A-subunit gene (FXIIIVal34Leu)
+affects cross-linking activity (Letter).
+Thromb Haemost 80:704, 1998
+
+Effect of Aldose
+Reductase Inhibitor
+on Cutaneous Nerve
+Fiber Length in
+Diabetic Patients
+or the treatment of diabetic neuropathy, how to evaluate the efficacy of given compounds is important. Although the most reliable method
+may be a morphological examination,
+performing a nerve biopsy is not usually
+recommended for diagnosing diabetic
+neuropathy because it may be harmful. In
+this context, skin biopsy is safe and
+reproducible. In addition, since the cutaneous nerve is a terminal part of the sensory nerve where nerve fibers start to
+degenerate and readily regenerate in sensory neuropathies, examining cutaneous
+nerves may well be rationalized to evaluate the therapeutic effects of the drugs.
+Immunohistochemical analysis of dermal
+nerves using antibodies against protein
+gene product (PGP) 9.5, neuron specific
+panaxonal marker, may be useful to evaluate sensory neuropathies (1). We
+reported that dermal nerve fiber length
+(NFL), which was obtained by measuring
+nerve fiber PGP 9.5, immunostained, and
+labeled with streptavidin fluorescein
+isothiocyanate under confocal laser scanning microscopy, was significantly
+shorter in diabetic patients than in control subjects (2).
+Using this technique, we evaluated
+the therapeutic effect of aldose reductase
+inhibitor (ARI) epalrestat in 32 type 2
+diabetic patients with neuropathy. Nineteen patients were treated with epalrestat
+(50 mg) 3 times per day for 13 months
+(ARI group) and 12 patients served as
+control subjects (control group). At the
+start of the trial, there were no significant
+differences between the clinical backgrounds of the 2 groups. No significant
+change in HbA1c was found in either
+group during the trial. Since NFL was
+highly variable but reproducible for individual patients, the effect of epalrestat on
+NFL was evaluated by its percent change
+during the trial. The percent change of
+
+F
+
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+epidermal NFL was not different between
+the 2 groups, whereas the percent change
+of dermal NFL was significantly greater in
+the ARI group (249 ± 478%) than in the
+control group (29 ± 40%). The number
+of patients whose percent change of dermal NFL exceeded its mean ± 2 SD
+(109%) in control group was significantly
+higher in the ARI group than in the control group (P  0.05, 8/19 vs. 1/12).
+Ultrastructurally, the fine fibers proliferating in the upper dermis of the patients
+with increased NFL proved to be composed of an increased number of axons
+with incomplete Schwann cell coverage,
+a finding compatible with regenerating
+nerve fibers.
+The effect of ARI on the regenerative
+capacity of myelinated nerve fibers has
+already been reported in clinical (3) and
+experimental studies (4). The present
+study shows that small nerve fibers,
+mainly composed of unmyelinated nerve
+fibers of the sensory nerve terminal, could
+also regenerate or sprout with ARI. The
+possible mechanisms by which aldose
+reductase plays a role in the pathogenesis
+of diabetic neuropathy may also be relevant to the mechanisms by which ARI
+improves dermal nerve regeneration. In
+addition, ARI improves decreased content
+of nerve growth factor (NGF) in the sciatic nerves of diabetic rats (5). NGF,
+which is essential for the development of
+collateral reinnervation from cutaneous
+C-fibers (6), depletes keratinocytes in the
+skin of diabetic patients (7) and may be
+reversed by ARI. Unlike dermal innervation, epidermal innervation was not
+improved with ARI. This finding may
+suggest that regenerating or sprouting
+nerves of the dermis cannot easily enter
+the epidermis in a diabetic state, rather
+than that epidermal nerves cannot regenerate or sprout, since epidermal innervation was very poor in most patients. Glycated basement membrane of the epidermis may prevent reinnervation of dermal
+nerve fibers into the epidermis.
+HITOSHI YASUDA, MD, PHD
+AKINORI HIRAI, MD, PHD
+MARI JOKO, MD, PHD
+MASAHIKO TERADA, MD, PHD
+TORU KAWABATA, MD, PHD
+KENGO MAEDA, MD, PHD
+MASAKAZU HANEDA, MD, PHD
+ATSUNORI KASHIWAGI, MD, PHD
+TOSHIHIRO MAEDA, MD, PHD
+RYUICHI KIKKAWA, MD, PHD
+
+From the Third Department of Medicine (H.Y.,
+A.H., J.M., M.T., T.K., K.M., M.H., A.K., R.K.) and
+the Department of Anatomy (T.M.), Shiga University of Medical Science, Otsu, Shiga, Japan.
+Address correspondence to Hitoshi Yasuda, MD,
+PhD, Third Department of Medicine, Shiga University of Medical Science, Otsu, Shiga 520-2192,
+Japan. E-mail: hyasuda@belle.shiga-med.ac.jp.
+
+References
+1. McCarthy BG, Hsieth ST, Stocks A, Hauer
+P, Macko C, Cornblath DR, Griffin JW,
+McArthur: Cutaneus innervation in sensory neuropathies: evaluation by skin
+biopsy. Neurology 45:1848–1855, 1995
+2. Hirai A, Yasuda H, Joko M, Maeda T,
+Kikkawa R: Evaluation of diabetic neuropathy through the quantitation of cutaneous nerves. J Neurol Sci 172:55–62, 2000
+3. Sima AA, Bril V, Nathaniel V, McEwen TA,
+Brown MB, Lattimer SA, Greene DA: Regeneration and repair of myelinated fibers in
+sural nerve biopsy specimens from patients
+with diabetic neuropathy treated with
+sorbinil. N Engl J Med 319:548–555, 1988
+4. Terada M, Yasuda H, Kikkawa R, Shigeta Y:
+Tolrestat improves nerve regeneration after
+crush injury in streptozocin-induced diabetic rats. Metabolism 45:1189–1195, 1996
+5. Ohi T, Saita K, Furukawa S, Ohta M,
+Hayashi K, Matsukura S: Therapeutic
+effects of aldose reductase inhibitor on
+experimental diabetic neuropathy through
+synthesis/secretion of nerve growth factor.
+Exp Neurol 151:215–220, 1998
+6. Doubleday B, Robinson PP: The role of
+nerve growth factor in collateral reinnervation by cutaneous C-fibers in the rat. Brain
+Res 593:179–184, 1992
+7. Anand P, Terenghi G, Warner G, Kopelman P, Williams-Chestnut RE, Sinicropi
+DV: The role of endogenous nerve growth
+factor in human diabetic neuropathy. Nat
+Med 2:703–707, 1996
+
+Prevalence of
+Diabetes in Adult
+Patients With
+Down’s Syndrome
+Living in a
+Residential Home
+revious studies reported an increased
+prevalence of diabetes in patients
+with Down’s syndrome (1–3). These
+studies, however, were limited to young
+people with Down’s syndrome. Recently,
+mortality from Down’s syndrome has
+declined, and life expectancy in Down’s
+syndrome patients has improved (4,5). It is
+
+P
+
+705
+
+
+===== PDF PAGE 8 of 17 (pdftotext -layout) =====
 Letters
 
 
@@ -644,7 +1628,174 @@ with Down’s syndrome.                               elf-monitoring of blood gl
 
 706                                                                                                 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
 
-===== PDF PAGE 9 of 17 =====
+===== PDF PAGE 8 of 17 (reading order, same page) =====
+Letters
+
+important to examine the prevalence of diabetes in adult patients with Down’s syndrome to prevent diabetic complications
+and cardiovascular disease.
+In this study, we examined the prevalence of diabetes in adult patients with
+Down’s syndrome living in a residential
+home for adults with mental and physical
+handicaps. Data were collected for 40 adult
+patients identified as having Down’s syndrome by chromosome analysis (26
+patients with regular trisomy 21, 13
+patients with mosaic trisomy 21, and 1
+patient with trisomy 21 by translocation).
+Of the 40 subjects, 27 were men and 13
+were women. The mean ages of the men
+and women were 47.7 ± 5.8 years (range
+37–62) and 48.8 ± 6.6 years (38–62),
+respectively. The BMIs of the men and
+women were 22.0 ± 2.7 and 21.8 ± 2.1
+kg/m2, respectively. The mean fasting
+plasma glucose (FPG) levels for the men
+and women were 5.1 ± 0.4 mmol/l (92.1 ±
+7.6 mg/dl) and 5.1 ± 0.5 mmol/l (92.3 ±
+8.3 mg/dl), respectively. The FPG for the
+patients was no more than 6.0 mmol/l
+(108 mg/dl). According to the new American Diabetes Association criteria for diabetes using FPG (6), none of the patients
+were classified as having diabetes or
+impaired fasting glucose (IFG). The
+DECODE Study Group showed that 3,119
+subjects (10.7%) had IFG and 1,143 subjects (3.9%) had diabetic FPG among the
+29,108 people (mean age 53.3 years, mean
+BMI 26.1 kg/m2) without previously diagnosed diabetes, according to the new fasting category (7). Another study reported that
+70.6% of men and 95.8% of women with
+Down’s syndrome living in the community
+were categorized as overweight (BMI
+25.1 kg/m2) (8). In our study, 3 of the
+men (11.1%) and none of the women were
+categorized as overweight. It seems that the
+very low prevalence of diabetes in our
+study results from the good control of body
+weight, which may be related to a stable
+lifestyle. This includes a proper diet (2,000
+kcal/day) and appropriate exercise (an
+hour of walking each day) for the patients
+living in their residential home. Greater
+emphasis should be given to the prevention of excessive weight gain through
+proper diet and appropriate exercise to
+reduce the prevalence of diabetes in the
+general population as well as in patients
+with Down’s syndrome.
+YOSHIO OHYAMA, MD
+TOSHIHIRO UTSUGI, MD
+706
+
+TSUYOSHI UCHIYAMA, MD
+TAKUJI HANAOKA, MD
+SHOICHI TOMONO, MD
+MASAHIKO KURABAYASHI, MD
+From the Second Department of Internal Medicine
+(Y.O., T.Ut., T.Uc., M.K.), the Health Science
+Gunma University School of Medicine (S.T.),
+Gunma; and the Association for the Welfare of the
+Mentally and Physically Handicapped (T.H.),
+Gunma, Japan.
+Address correspondence to Yoshio Ohyama,
+MD, the Second Department of Internal Medicine,
+Gunma University School of Medicine, 3-39-22,
+Showa, Maebashi, Gunma, 371-8511, Japan. E-mail:
+ohyamay@news.sb.gunma-u.ac.jp.
+
+References
+1. Farquhar JW: Diabetic children in Scotland and the need for care. Scot Med J 7:
+119–123, 1962
+2. Milunsky A, Neurath PW: Diabetes mellitus in Down’s syndrome. Arch Environ
+Health 17:372–376, 1968
+3. Jeremiah DE, Leyshon GE, Rose T, Francis
+HWS, Elliott RW: Down’s syndrome and
+diabetes. Psychol Med 3:455–457, 1973
+4. Declining mortality from Down syndrome:
+no cause for complacency (Editorial).
+Lancet 335:888–889, 1990
+5. Baird PA, Sadovnick AD: Life expectancy
+in Down syndrome. J Pediatr 110:849–
+854, 1987
+6. Expert Committee on the Diagnosis and
+Classification of Diabetes Mellitus: Report
+of the Expert Committee on the Diagnosis
+and Classification of Diabetes Mellitus.
+Diabetes Care 20:1183–1197, 1997
+7. The DECODE Study Group on behalf of
+the European Diabetes Epidemiology
+Group: Is fasting glucose sufficient to
+define diabetes? Epidemiological data
+from 20 European studies. Diabetologia 42:
+647–654, 1999
+8. Bell AJ, Bhate MS: Prevalence of overweight and obesity in Down’s syndrome
+and other mentally handicapped adults
+living in the community. J Intellect Disabil
+Res 36:359–364, 1992
+
+Effect of Data
+Management on a
+Central Server on
+HbA1c Levels in
+Insulin-Requiring
+Patients
+elf-monitoring of blood glucose
+(SMBG) is critically important to
+adjust insulin doses appropriately.
+Given the general level of poor control of
+
+S
+
+HbA1c concentrations in insulin-requiring patients (1,2), it is obvious that
+SMBG is not being used effectively. Barriers to its effective use rest with both
+patients (inconvenience, pain, and cost)
+and physicians (lack of time for analysis
+and communication with the patients
+and, in some cases, lack of expertise for
+analysis). A major problem for some
+patients is also a lack of time for appropriate communication with the physician
+or the health care provider responsible
+for insulin dose adjustments. We studied
+the effect of removing the impediments of
+lack of time and expertise in analysis of
+HbA1c concentrations in insulin-requiring patients.
+We recruited 29 patients taking
+insulin for the study (12 men, 17
+women; 10 with type 1 diabetes, 19 with
+type 2 diabetes). Of the 29 patients, 15
+were on a mixed/split regimen, 4 on a
+preprandial regular or lispro plus bedtime NPH regimen, and 10 on a bedtime
+NPH, daytime sulfonylurea agent regimen. Although 23 of them were performing SMBG at the beginning of the
+study, most could communicate only
+sporadically with the educator (who
+adjusted insulin doses in my practice)
+because of conflicts in both of their busy
+schedules.
+All of the patients were given a OneTouch Profile meter (LifeScan, Milpitas,
+CA) at the onset of the study (pretest),
+and communication with the educator for
+the following 4 weeks was stressed. At
+that point (baseline), patients were
+instructed in the use of a reporter (a
+device that connected the meter to their
+phone), which transferred the data via a
+modem to a central server. The data were
+analyzed by an algorithm developed by
+one of the authors (M.B.D.). The results
+were faxed to the educator and mailed to
+the patient.
+HbA1c concentrations were measured
+at pretest (in most patients), baseline, and
+10 and 20 weeks later. The mean value for
+the pretest and baseline measurements
+was 8.4%, falling to 7.9% at 10 weeks and
+7.7% at 20 weeks. Sixteen of the patients
+had mean initial values 8.0% and were
+analyzed separately, because the American
+Diabetes Association’s guidelines require
+action at this point. In these patients at
+high risk for the microvascular complications of diabetes, the mean value for the
+pretest and baseline measurements was
+9.1%, falling to 8.5% at 10 weeks and
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+
+===== PDF PAGE 9 of 17 (pdftotext -layout) =====
                                                                                                                                                  Letters
 
 
@@ -727,7 +1878,196 @@ References                                            Table 1—Comparison of cl
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                                           707
 
-===== PDF PAGE 10 of 17 =====
+===== PDF PAGE 9 of 17 (reading order, same page) =====
+Letters
+
+8.3% at 20 weeks. Data management by
+the central server significantly lowered
+the 10- and 20-week HbA1c concentrations in both groups (P  0.001 by analysis of variance).
+The (nonsignificant) difference
+between the baseline and pretest HbA1c
+concentrations in the whole cohort was
+0.4%, and in the high-risk patients,
+0.3%. Since 50% of the changes in HbA1c
+concentrations occur in the first month
+(3,4), the similarity of the pretest and
+baseline values shows the absence of the
+Hawthorne effect.
+Convenience and efficient use of time
+for both the patient and educator (it took
+1 min for the educator to decide on
+insulin dose adjustments after reviewing
+the information provided by the central
+server) were important factors in the success of central data management of SMBG
+values in this small study. Wider application of this technology should improve
+diabetes control in populations of insulinrequiring patients.
+
+Prevalence of
+Diabetes, Impaired
+Glucose Tolerance,
+and Impaired
+Fasting Glucose in a
+Rural Population of
+Korea, According to
+1997 American
+Diabetes Association
+and 1985 World
+Health Organization
+Criteria
+n 1997, the American Diabetes Association (ADA) proposed new criteria for
+defining diabetes based on fasting
+plasma glucose (FPG) (1). A new diagnostic entity, impaired fasting glucose (IFG),
+was also introduced. However, consequent studies have pointed out several
+limitations of the new ADA criteria, such
+as a significant difference in the prevalence of diabetes according to the World
+Health Organization (WHO) criteria and
+ADA criteria (2). There is also considerable discordance between IFG and
+impaired glucose tolerance (IGT) and a
+lower sensitivity of IFG for predicting the
+progression to diabetes (3) or development of cardiovascular disease (4).
+To examine the prevalence of different
+categories of glucose tolerance in a rural
+population of Korea using the 1997 ADA
+and the 1985 WHO criteria, 1,108 subjects (aged 40–99 years) living in the
+
+I
+
+MAYER B. DAVIDSON, MD
+GWYNETH LEWIS, MAOM
+From the Clinical Trials Unit (M.B.D.), Charles R.
+Drew University, Los Angeles; and City of Hope
+National Medical Center (G.L.), Duarte, California.
+Address correspondence to Mayer B. Davidson,
+MD, Clinical Trials Unit (MP 30), Charles R. Drew
+University, 1731 E. 120th St., Los Angeles, CA.
+E-mail: madavids@cdrewu.edu.
+
+Acknowledgments — Dr. Davidson is supported by National Institutes of Health Grant
+#5U01-DKS54047.
+We thank Mary Pearce and Barbara Wisehart, who also helped manage some of these
+patients.
+References
+1. Davidson MB: Diabetes care in health
+maintenance organisation and fee-for-service settings. Dis Manage Health Outcomes
+2:189–197, 1997
+2. Hayward RA, Manning WG, Kaplan SH,
+Wagner EH, Greenfield S: Starting insulin
+therapy in patients with type 2 diabetes:
+effectiveness, complications, and resource
+utilization. JAMA 278:1663–1669, 1997
+3. Tahara Y, Shima K: The response of GHb
+to stepwise plasma glucose change over
+time in diabetic patients. Diabetes Care 16:
+1313–1314, 1993
+4. Tahara Y, Shima K: Kinetics of HbA1c, glycated albumin, and fructosamine and
+analysis of their weight functions against
+preceding plasma glucose level. Diabetes
+Care 18:440–447, 1995
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+Chongup area of Korea were subjected to a
+2-h oral glucose tolerance test. The prevalence of glucose tolerance categories was
+obtained using the WHO criteria and the
+ADA fasting plasma glucose criteria.
+Anthropometric and metabolic characteristics of the subjects with different categories
+were compared.
+The prevalence of known diabetes in
+this population was 3.4%. The prevalence of unknown diabetes by WHO criteria and ADA criteria was 4.7% (95% CI
+3.5–5.9%) and 4.5% (3.3–5.7%), respectively. When the data were adjusted to
+the standard world population of Segi
+(5), the prevalence of diabetes was 7.1%
+by WHO criteria and 7.7% by ADA criteria. Among elderly subjects aged 65,
+the prevalence of unknown diabetes by
+ADA criteria was slightly, but not significantly, less (3.3%; 95% CI 1.5–5.1%)
+than the prevalence by WHO criteria
+(4.5%; 2.5–6.5%).
+On the other hand, the prevalence of
+IGT by WHO criteria (12.4%; 95% CI
+10.5–14.3%) was significantly higher
+than that of IFG by ADA criteria (6.3%;
+4.9–7.7, P  0.01). Of the 137 subjects
+with IGT by WHO criteria, 104 (75.9%)
+were classified as normoglycemic by
+ADA criteria. The level of agreement
+between the 2 criteria was low ( = 0.42,
+P  0.001).
+To compare clinical characteristics of
+the subjects with IGT and IFG according
+to WHO and ADA diagnostic criteria, we
+classified nondiabetic subjects by both
+criteria into 4 categories (Table 1). The
+concordant IGT/IFG group showed
+higher BMI and waist-to-hip ratio, systolic
+
+Table 1—Comparison of clinical and metabolic characteristics of patients in the various categories of glucose tolerance by 1997 ADA and 1985 WHO classifications
+NGT/NFG
+n
+Age (years)
+BMI (kg/m2)
+Waist-to-hip ratio
+FPG (mmol/l)
+2-h Plasma glucose (mmol/l)
+Systolic blood pressure (mmHg)
+Diastolic blood pressure (mmHg)
+Total cholesterol (mmol/l)
+Triglyceride (mmol/l)
+HDL cholesterol (mmol/l)
+
+841
+60.3 ± 9.4
+23.6 ± 2.9
+0.88 ± 0.06
+4.8 ± 0.6
+6.0 ± 0.8
+131.5 ± 22.6
+85.2 ± 11.8
+5.2 ± 0.9
+1.8 ± 1.1
+1.2 ± 0.3
+
+IGT/NFG
+
+NGT/IFG
+
+IGT/IFG
+
+104
+34
+29
+65.4 ± 10.4* 61.5 ± 10.8
+64.2 ± 9.4*
+23.7 ± 3.5
+24.1 ± 3.7
+25.5 ± 2.8*
+0.88 ± 0.06
+0.90 ± 0.06
+0.91 ± 0.06*
+5.2 ± 0.5*
+6.4 ± 0.3*†
+6.5 ± 0.3*†
+8.8 ± 0.8*‡
+6.7 ± 0.8 *
+9.0 ± 0.9*‡
+134.8 ± 23.2 136.2 ± 23.6 151.1 ± 25.6*
+85.4 ± 12.4
+86.5 ± 14.4
+90.6 ± 12.1
+5.4 ± 0.9
+5.5 ± 0.9
+5.2 ± 0.9
+2.3 ± 1.5*
+1.9 ± 0.7
+2.6 ± 1.7*
+1.2 ± 0.3
+1.2 ± 0.3
+1.1 ± 0.3
+
+Data are n or means ± SD. *P  0.05 vs. NGT/NFG; †P  0.05 vs. IGT/NFG; ‡P  0.05 vs. NGT/IFG.
+
+707
+
+
+===== PDF PAGE 10 of 17 (pdftotext -layout) =====
 Letters
 
 
@@ -816,7 +2156,169 @@ nostic groups.                                      criteria for diagnosis of di
 
 708                                                                                                    DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
 
-===== PDF PAGE 11 of 17 =====
+===== PDF PAGE 10 of 17 (reading order, same page) =====
+Letters
+
+blood pressure, FPG and 2-h plasma glucose (PP2), and plasma triglyceride levels
+than concordant normal subjects. Both
+normal glucose tolerance (NGT)/IFG and
+IGT/NFG groups had higher FPG and
+PP2 than concordant normal subjects.
+The IGT/NFG group also showed higher
+ages and plasma triglyceride levels than
+the concordant normal group. As
+expected, the NGT/IFG group exhibited
+significantly higher FPG and lower PP2
+values than the IGT/NFG group. However, there was no significant difference in
+all other variables between the 2 groups.
+The present study found that the
+prevalence of diabetes among Koreans in
+the rural area by ADA and WHO criteria
+was similar: 8.1% by WHO criteria and
+7.9% by ADA criteria. However, the prevalence of diabetes by ADA criteria was,
+although statistically not significant, 1.2%
+lower than that by WHO criteria in the
+elderly subjects age 65. In addition,
+although FPG was not related to age, 2-h
+glucose levels were significantly correlated
+with age (r = 0.27, P  0.05). These observations suggest that ADA criteria may
+underestimate the prevalence of diabetes,
+especially in the elderly subjects, because
+of the increased sensitivity of the 2-h glucose values to aging.
+In agreement with most previous
+studies (2,6), the prevalence of IGT by
+WHO criteria was almost 2-fold higher
+than that of IFG by ADA criteria. In addition, the concordance between subjects
+with IFG and IGT was not high. Thus, the
+2 tests appear to diagnose 2 different populations of subjects with disturbed glucose metabolism. Accordingly, Gimeno et
+al. (6) reported that the subjects with IGT
+had higher blood pressure and triglyceride
+levels and lower HDL cholesterol levels
+than the subjects with IFG. On the other
+hand, the present study and the study by
+Larsson et al. (7) showed that the subjects
+with IGT and the subjects with IFG are
+comparable in terms of BMI, blood pressure, and plasma lipids. However, considering higher cardiovascular events in the subjects with IGT (4), it is quite possible that
+factors other than ordinary coronary risk
+factors (8) may be different in the 2 diagnostic groups.
+JOONG-YEOL PARK, MD
+YOUNG I. KIM, MD
+CHEOL S. CHOI, MD
+YUN E. CHUNG, MD
+SANG-WOOK KIM, MD
+708
+
+MOO-SONG LEE, MD
+SANG I. LEE, MD
+SUNG K. HONG, MD
+KI-UP LEE, MD
+From the Departments of Internal Medicine ( J.-Y.P.,
+Y.I.K., C.S.C, Y.E.C., S.-W.K., S.K.H., K.-U.L.) and
+Preventive Medicine (M.-S.L., S.I.L.), University of
+Ulsan College of Medicine, Seoul, Korea.
+Address correspondence to Ki-Up Lee, MD, the
+Department of Internal Medicine, University of
+Ulsan College of Medicine, 388-1 Poong-Nap
+Dong, Song-Pa Ku, Seoul 138-736, Korea. E-mail:
+kulee@www.amc.seoul.kr.
+
+References
+1. The Expert Committee on the Diagnosis
+and Classification of Diabetes Mellitus:
+Report of the Expert Committee on the
+Diagnosis and Classification of Diabetes
+Mellitus. Diabetes Care 20:1183–1197,
+1997
+2. Wahl PW, Savage PJ, Psaty BM, Orchard
+TJ, Robbins JA, Tracy RP: Diabetes in older
+adults: comparison of 1997 American Diabetes Association classification of diabetes
+mellitus with 1985 WHO classification.
+Lancet 352:1012–1015, 1998
+3. Shaw JE, Zimmet PZ, de Courten M,
+Dowse GK, Chitson P, Gareeboo H, Hemraj F, Fareed D, Tuomilehto J, Alberti KG:
+Impaired fasting glucose or impaired glucose tolerance: what best predicts future
+diabetes in Mauritius? Diabetes Care 22:
+399–402, 1999
+4. Tominaga M, Eguchi H, Manaka H,
+Igarashi K, Kato T, Sekikawa A: Impaired
+glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting
+glucose: the Funagata Diabetes Study. Diabetes Care 22:920–924, 1999
+5. King H, Rewers M: Global estimates for
+prevalence of diabetes mellitus and
+impaired glucose tolerance in adults.
+WHO Ad Hoc Diabetes Reporting Group.
+Diabetes Care 16:157–177, 1993
+6. Gimeno SGA, Ferreira SRG, Franco LJ,
+Iunes M, the Japanese-Brazilian Diabetes
+Study Group: Comparison of glucose tolerance categories according to World
+Health Organization and American Diabetes Association diagnostic criteria in a
+population-based study in Brazil. Diabetes
+Care 21:1889–1892, 1998
+7. Larsson H, Berglund G, Lindgarde F,
+Ahren B: Comparison of ADA and WHO
+criteria for diagnosis of diabetes and glucose intolerance. Diabetologia 41:1124–
+1125, 1998
+8. Harjai KJ: Potential new cardiovascular
+risk factors: left ventricular hypertrophy,
+homocysteine, lipoprotein(a), triglycerides, oxidative stress, and fibrinogen.
+Ann Intern Med 131:376–386, 1999
+
+Rapid Remission of
+Nephrotic-Range
+Proteinuria in a
+Case of
+Histologically
+Proven Diabetic
+Nephropathy
+Treated With an
+ACE Inhibitor
+n the past, a relentless decline in renal
+function was considered inevitable in
+diabetic nephropathy with nephroticrange proteinuria (1). Some recent studies,
+however, have demonstrated that the use
+of ACE inhibitors can maintain stable
+renal function and reduce proteinuria in
+relatively young type 1 diabetic patients
+with nephrotic-range proteinuria (2–4). In
+these studies, nephrotic-range proteinuria
+remitted within a few years after commencing treatment with an ACE inhibitor.
+We discuss here an elderly type 2 diabetic
+woman who presented with nephrotic
+syndrome due to biopsy-proven diabetic
+nephropathy. Treatment with an ACE
+inhibitor, temocapril, resulted in an
+extremely rapid decrease of proteinuria on
+2 separate occasions.
+A 69-year-old Japanese woman was
+admitted to our hospital in March 1998
+with abdominal pain and constipation. Her
+medical and family histories were unremarkable and the patient had not undergone a health check-up in the past. She
+was 150 cm tall and weighed 46 kg. Her
+blood pressure was 153/80 mmHg and no
+pretibial edema was present. Laboratory
+studies revealed a fasting plasma glucose
+(FPG) level of 14.2 µmol/l, an HbA1c concentration of 8.8% (normal range
+4.2–5.5%), a serum creatinine level of 44.2
+µmol/l, a serum albumin level of 26 g/l,
+and a serum cholesterol level of 5.35
+µmol/l. Urinalysis showed 3 proteinuria
+with normal sediment. The 24-h urinary
+protein excretion was 7.2 g and creatinine
+clearance was 1.59 ml/s. She was treated
+conservatively, under the diagnosis of
+intestinal pseudo-obstruction, and her
+abdominal symptoms improved rapidly. In
+addition to protein and salt restriction (30
+g/day and 3 g/day, respectively), temocapril
+(Acecol) (2 mg/day) together with gliclazide (20 mg/day) and voglibose (0.6
+mg/day) were started in the hospital. The
+
+I
+
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+
+===== PDF PAGE 11 of 17 (pdftotext -layout) =====
                                                                                                                                      Letters
 
 
@@ -884,7 +2386,112 @@ of diabetic neuropathy, including decreased    capillary basement membrane. Elec
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                             709
 
-===== PDF PAGE 12 of 17 =====
+===== PDF PAGE 11 of 17 (reading order, same page) =====
+Letters
+
+Figure 1—Clinical course of the patient.
+
+patient’s 24-h urinary protein excretion
+declined markedly to 0.5 g within 2 weeks
+(Fig. 1). Blood pressure and serum albumin levels also improved to 130/70 mmHg
+and 37 g/l, respectively. The patient was
+followed at the outpatient clinic after discharge from the hospital. However, in May
+1998, she stopped coming to the clinic and
+discontinued all of her medications.
+The patient, however, apparently
+remained well until December 1998 when
+she developed leg edema in association
+with an increase in body weight from 45 to
+48 kg within a month. She was subsequently seen again at our hospital. Her
+blood pressure was 171/89 mmHg and urinalysis revealed 3 proteinuria. Her chest
+X-ray revealed mild pleural effusions. An
+attempt to control her edema with a
+diuretic (furosemide 20 mg/day) as an outpatient was unsuccessful, and she began to
+experience dyspnea on exertion. She was,
+therefore, admitted to our hospital in January 1999. Her body weight was 52 kg and
+blood pressure was 160/83 mmHg on
+admission. Examination of the ocular fundi
+revealed microaneurysms and dot hemorrhages without exudates. There were signs
+of diabetic neuropathy, including decreased
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+vibratory sensation and an orthostatic drop
+of blood pressure. Laboratory studies
+revealed a postprandial plasma glucose
+level of 15.3 µmol/l, an HbA1c concentration of 6.2%, a serum creatinine level of
+44.2 µmol/l, a serum albumin level of 24
+g/l, and a serum cholesterol level of 4.89
+µmol/l. The 24-h urinary excretion was 6.2 g
+and creatinine clearance was 1.07 ml/s.
+Chest X-rays showed moderate pleural
+effusions. Renal biopsy was performed in
+the hospital to clarify the etiology of
+repeated nephrotic-range proteinuria, with
+written informed consent from the patient.
+The specimen for light microscopy contained 9 glomeruli, of which 1 was globally
+sclerotic and the rest showed diffuse intercapillary glomerulosclerosis without cellular proliferation. More than half of the
+glomeruli contained lamellated argyrophil
+mesangial nodules. Occasional afferent
+arterioles showed hyalinosis, and mild
+tubular atrophy and interstitial fibrosis were
+present. Immunofluorescence revealed linear localization of IgG along the glomerular capillary walls. Electron microscopy
+showed a marked increase in the mesangial
+matrix in association with thickening of
+capillary basement membrane. Electron-
+
+dense deposits were absent. The histological diagnosis based on these findings was
+diffuse and nodular diabetic glomerulosclerosis. Temocapril (2 mg/day) was re-started
+and the dose of furosemide was increased
+to 40 mg a day after renal biopsy. Efonidipine (Landel), 40 mg/day was added a few
+days later. Insulin therapy (4U with NPH
+insulin at breakfast) was used to control
+hyperglycemia for a week, and later
+replaced with gliclazide (40 mg/day). The
+24-h urinary protein excretion declined
+again markedly to 1.6 g within a month
+after starting temocapril (Fig. 1). Pleural
+effusions and edema disappeared and her
+body weight decreased to 41 kg. Blood
+pressure and serum albumin levels also
+improved to 120/70 mmHg and 28 g/l,
+respectively. A month after admission, she
+was asymptomatic and was discharged
+from the hospital.
+It has long been thought that the
+appearance of persistent proteinuria heralds a progressive decline of renal function
+during the natural history of diabetic
+nephropathy, and that nephrotic-range
+proteinuria, in particular, points toward a
+poor renal prognosis (1). Meanwhile,
+many recent studies have demonstrated
+that antihypertensive therapy can slow the
+rate of decline of renal function in diabetic
+nephropathy. Furthermore, it was suggested in more recent studies that ACE
+inhibitors reduce proteinuria and protect
+renal function in patients with diabetic
+nephropathy more effectively than other
+antihypertensive agents, and that this
+renoprotective effect of ACE inhibitors is
+independent of changes in blood pressure
+(5). Some studies have shown that type 1
+diabetic patients with nephrotic-range
+proteinuria can maintain stable renal function with a marked reduction of proteinuria on ACE inhibitors (2–4). Herbert et
+al. (2) reported that 7 of 42 (16.7%) type 1
+diabetic patients with nephrotic-range
+proteinuria treated with captopril achieved
+remission of proteinuria and maintained
+stable renal function over a mean followup period of 3.4 years. Meanwhile, only 1
+of 66 (1.5%) in the placebo group had a
+comparable clinical course. Gault and Fernandez (3) reported a type 1 diabetic
+patient in whom enalapril, started after 10
+years of nephrotic-range proteinuria,
+resulted in stable renal function and disappearance of proteinuria. McGregor and
+Bailey (4) reported that treatment with
+captopril or enalapril in 2 type 1 diabetic
+patients with nephropathy resulted in sta709
+
+
+===== PDF PAGE 12 of 17 (pdftotext -layout) =====
 Letters
 
 
@@ -964,7 +2571,173 @@ References                                         suggests that environmental f
 
 710                                                                                                   DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
 
-===== PDF PAGE 13 of 17 =====
+===== PDF PAGE 12 of 17 (reading order, same page) =====
+Letters
+
+ble renal function and remission of
+nephrotic-range proteinuria for over 11
+years. In these 3 reports, nephrotic-range
+proteinuria disappeared gradually over a
+few years on ACE inhibitors. Moreover,
+these were all type 1 diabetic patients of
+relatively young age (30 years old), in
+contrast to our patient.
+We documented a 69-year-old type 2
+diabetic woman with histologically proven
+diabetic nephropathy in whom rapid
+remission of nephrotic-range proteinuria
+was observed within a month on an ACE
+inhibitor, temocapril, on 2 separate occasions. As shown in Fig. 1, the reduction of
+proteinuria occurred in association with a
+decrease in creatinine clearance, although
+the magnitude of the former by far
+exceeded that of the latter. The mechanism
+of the reduction of glomerular proteinuria
+by ACE inhibitors is still disputed. Imanishi
+et al. (6) suggested that ACE inhibitors
+reduce albuminuria in diabetic nephropathy by decreasing the glomerular capillary
+pressure and improving hyperfiltration via
+efferent arteriolar dilatation. Meanwhile,
+other investigators have suggested
+improvement of size selectivity of the
+glomerular capillary membrane by ACE
+inhibitors (7). Whatever the mechanism
+involved, reduction of proteinuria by ACE
+inhibitors in patients with diabetic
+nephropathy is expected to have a beneficial effect on renal prognosis, since proteinuria itself is considered nephrotoxic and to
+be a promoter of progressive renal dysfunction (8). Our report, for the first time,
+demonstrated that an ACE inhibitor could
+exert a rapid beneficial effect on nephrotic
+syndrome due to diabetic nephropathy in
+an elderly patient with type 2 diabetes.
+Although the experience is limited to a single patient, it is should be worth attempting
+to treat such patients with ACE inhibitors.
+RYUJI SUZUKI, MD
+AKIRA SHIMADA, MD
+KONOSUKE KONISHI, MD
+TAKAO SARUTA, MD
+From the Department of Internal Medicine, Keio
+University School of Medicine, Tokyo, Japan.
+Address correspondence to Akira Shimada, MD,
+Department of Internal Medicine, Keio University School of Medicine, 35 Shinanomachi, Shinjuku-ku, Tokyo 160-8582, Japan. E-mail: n2518@
+med.keio.ac.jp.
+
+References
+1. Austin SM, Lieberman JS, Newton LD,
+Mejia M, Peters WA, Myers BD: Slope of
+710
+
+serial glomerular filtration rate and the
+progression of diabetic glomerular disease.
+J Am Soc Nephrol 3:1358–1370, 1993
+2. Herbert LA, Bain RP, Verme D, Cattran D,
+Whittier FC, Tolchin N, Rohde RD, Lewis
+EJ: Remission of nephrotic range proteinuria in type 1 diabetes. Kidney Int 46:1688–
+1693, 1994
+3. Gault HM, Fernandez D: Stable renal
+function in insulin-dependent diabetes
+mellitus 10 years after nephrotic range
+proteinuria. Nephron 72:86–92, 1996
+4. McGregor D, Bailey RR: Over 11 years of
+stable renal function after remission of
+nephrotic-range proteinuria in type 1 diabetics treated with an ACE inhibitor.
+Nephron 76:270–275, 1997
+5. Lewis EJ, Hunsicker LG, Bain RP, Rohde
+RD: The effect of angiotensin-convertingenzyme inhibition on diabetic nephropathy: the Collaborative Study Group. N Engl
+J Med 329:1456–1462, 1993
+6. Imanishi M, Yoshioka K, Okumura M,
+Konishi Y, Tanaka S, Fujii S, Kimura G:
+Mechanism of decreased albuminuria
+caused by angiotensin converting enzyme
+inhibitor in early diabetic nephropathy.
+Kidney Int 52 (Suppl. 63):198–200, 1997
+7. Rumuzzi A, Ruggenenti P, Mosconi L, Pata
+V, Viberti G, Remuzzi G: Effect of low-dose
+enalapril on glomerular size-selectivity in
+human diabetic nephropathy. J Nephrol 6:
+36–43, 1993
+8. Remizzi G, Bertani T: Is glomerulosclerosis
+a consequence of altered glomerular permeability to macromolecules? Kidney Int
+38:384–394, 1990
+
+Interesting Insulin
+Response to Oral
+Glucose Load in
+Young Japanese
+Subjects With
+Impaired Glucose
+Tolerance
+e recently reported that the degree
+of insulin response in Japanese
+subjects with impaired glucose
+tolerance (IGT) and diabetes to 75-g oral
+glucose load (1) is much lower than that in
+Caucasian subjects (2,3). Japanese-American IGT or diabetic subjects in Hawaii and
+Seattle, Washington, however, showed
+much higher insulin resistance and compensatory hyper-response to insulin secretion than native Japanese subjects. This
+suggests that environmental factors of
+lifestyle, such as a high-fat and high-protein diet and/or less exercise, may deterio-
+
+W
+
+rate insulin sensitivity and strengthen the
+potency of insulin secretion even in those
+with the same genetic background (4,5). In
+Japan, the increase in personal cars and
+traffic networks has mushroomed since the
+late 1960s. Transportation and a Westernized diet, including high fat and animal
+protein, have combined to affect the entire
+population of Japan. Younger Japanese,
+born during or after the 1960s, grew up
+with a Westernized lifestyle, and we
+hypothesize that continuous exposure to
+such environmental factors during growth
+may strengthen the potency of insulin
+secretion and promote compensatory
+hyperinsulin secretion in an insulin-resistant state after maturity. To certify our
+hypothesis, we compared the insulin
+response to an oral glucose load in younger
+Japanese adult IGT subjects (20–39 years)
+with that of subjects 40 years in a 75-g
+oral glucose tolerance test (OGTT).
+A series of 2,142 Japanese subjects,
+1,361 men and 781 women aged 20–82
+years (mean: 56 years), suspected of having
+diabetes, underwent a 75-g OGTT (0–3 h)
+for diagnosis at Tokyo Saiseikai Central
+Hospital and Juntendo University Hospital
+from January 1996 to December 1998.
+They were divided into 3 groups using current World Health Organization criteria,
+and 831 subjects were diagnosed with IGT.
+The IGT subjects aged 56 ± 0.4 (mean ±
+SEM, M/F 521/310) were divided into 5
+groups by age (39, 40–49, 50–59,
+60–69, and 70 years) and compared with
+3 insulin sensitivity and secretion parameters among age-groups. The homeostasis
+model assessment of insulin resistance
+(HOMA-IR), a marker of insulin resistance,
+was calculated as fasting plasma glucose
+(mg/dl)
+fasting plasma insulin
+(µU/ml)/405 converted from the original
+formula (6). The insulinogenic index (IsIx),
+a marker of early insulin secretion, was
+defined as insulin/ PG, or (Insulin30–
+Insulin0)/(PG30–PG0) (7). The area under
+the insulin curve (AUCins), a marker of total
+insulin secretion, was calculated as the total
+area under the insulin response curve during the 3-h OGTT.
+Surprisingly, HOMA-IR, IsIx, and
+AUCins, in the youngest age-group (39
+years), are all significantly and notably
+higher than in the other age-groups (Fig. 1).
+Although our study groups are not large
+and other clinical characteristics, such as
+family history of diabetes, BMI, lipid profiles, or blood pressure, were not evaluated, the result supports our hypothesis,
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+
+===== PDF PAGE 13 of 17 (pdftotext -layout) =====
                                                                                                                                                 Letters
 
 
@@ -1038,7 +2811,93 @@ tion of insulin that are less than those of        ological studies focusing on 
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                                        711
 
-===== PDF PAGE 14 of 17 =====
+===== PDF PAGE 13 of 17 (reading order, same page) =====
+Letters
+
+ment of both diabetes and atherosclerosis
+from IGT in young subjects. It should be
+of great interest to determine whether and
+how the Westernized lifestyle during
+growth may upregulate pancreatic -cell
+growth or function and affect the potency
+of insulin secretion in adults. We view this
+as a very important research direction in
+the etiology of diabetes and atherosclerosis
+in Japan and other rapidly developing and
+Westernized countries.
+YASUSHI TANAKA, MD
+YOSHIHITO ATSUMI, MD
+KENPEI MATSUOKA, MD
+TOMIO ONUMA, MD
+RYUZO KAWAMORI, MD
+From the Department of Medicine (Y.T., T.O., R.K.),
+Metabolism and Endocrinology, School of Medicine, Juntendo University; and the Department of
+Medicine (Y.A., K.M.), Tokyo Saiseikai Central Hospital, Tokyo, Japan.
+Address correspondence to Yasushi Tanaka, MD,
+Department of Medicine, Metabolism and
+Endocrinology, School of Medicine, Juntendo University, 2-1-1, Hongo, Bunkyo-ku, Tokyo 113-8421,
+Japan. E-mail: y-tanaka@med.juntendo.ac.jp.
+
+Figure 1—Clinical markers for insulin sensitivity and secretion during the 75-g OGTT in 831 Japanese subjects with IGT. Values are expressed as means ± SEM. Numbers of subjects are shown in parentheses. *P  0.05 vs. the group aged 40–49 years; **P  0.01 vs. the group aged 59 years; †P 
+0.01 vs. the group aged 60–69 years.
+
+namely that the generation of Japanese
+IGT subjects 39 years of age, as compared with older subjects, have a strong
+potential of insulin secretion under an
+insulin-resistant state. It has been assumed
+that Japanese subjects develop overt diabetes from IGT much earlier than Caucasian subjects because of exposure to factors causing insulin resistance, such as
+obesity, less exercise, or excessive stress.
+This may be the result of Japanese subjects
+having weaker potency of insulin secretion
+and maximal compensatory hypersecretion of insulin that are less than those of
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+Caucasians and Japanese-Americans.
+Although the present study is preliminary,
+results suggest that the number of Japanese IGT subjects retaining long-term IGT
+through strong insulin secretion will
+increase. The results further suggest that
+the development of insulin resistance and
+compensatory hyperinsulinemia-related
+atherosclerotic disease, observed in syndrome X (8) or insulin resistance syndrome (9) of Caucasians, will also increase
+in Japan in the near future. We must,
+therefore, start further large-scale epidemiological studies focusing on the develop-
+
+References
+1. Tanaka Y, Atsumi Y, Asahina T, Hosokawa
+K, Matsuoka K, Kinoshita J, Onuma T,
+Kawamori R: Usefulness of revised fasting
+plasma glucose criterion and characteristics
+of the insulin response to an oral glucose
+load in newly diagnosed Japanese diabetic
+subjects. Diabetes Care 21:1133–1137,
+1998
+2. DeFronzo RA: The triumvirate: -cell,
+muscle, liver: a collusion responsible for
+NIDDM. Diabetes 37:667–687, 1988
+3. DeFronzo RA: Pathogenesis of type 2 (noninsulin dependent) diabetes: a balanced
+overview. Diabetologia 35:389–397, 1992
+4. Hara H, Egusa G, Yamakido M, Kawate R:
+The high prevalence of diabetes mellitus
+and hyperinsulinemia among JapaneseAmericans living in Hawaii and Los Angeles. Diabetes Res Clin Pract 24:S37–S42,
+1994
+5. Fujimoto WY, Leonetti DL, Kinyoun JL,
+Newell-Morris L, Shuman WP, Stolov WC,
+Wahl PW: Prevalence of diabetes mellitus
+and impaired glucose tolerance among second-generation Japanese-American men.
+Diabetes 36:721–729, 1987
+6. Matthews DR, Hosker JP, Rudenski AS,
+Naylor BA, Treacher DF, Turner RC:
+Homeostasis model assessment: insulin
+resistance and -cell function from fasting
+plasma glucose and insulin concentrations
+in man. Diabetologia 28:412–419, 1985
+7. Kosaka K, Kuzuya T, Yoshinaga H, Hagura
+R: A prospective study of health check
+711
+
+
+===== PDF PAGE 14 of 17 (pdftotext -layout) =====
 Letters
 
 
@@ -1139,7 +2998,179 @@ portional to FPG and to FPI. Are these               ity index (Letter). Diabete
 
 712                                                                                                   DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
 
-===== PDF PAGE 15 of 17 =====
+===== PDF PAGE 14 of 17 (reading order, same page) =====
+Letters
+
+examinees for the development of noninsulin-dependent diabetes mellitus: relationship of the incidence of diabetes with
+the initial insulinogenic index and degree
+of obesity. Diabet Med 13 (Suppl. 6):S120–
+S126, 1996
+8. Reaven GM, Laws A: Insulin resistance,
+compensatory insulinemia, and coronary
+heart disease. Diabetologia 37:948–952,
+1994
+9. DeFronzo RA, Ferannini E: Insulin resistance: a multifocal syndrome responsible
+for NIDDM, obesity, hypertension, dyslipidemia, and atherosclerotic cardiovascular
+disease. Diabetes Care 14:173–194, 1991
+
+COMMENTS AND
+RESPONSES
+
+atsuda and DeFronzo (1) presented a novel method of estimating insulin sensitivity from data
+obtained by an oral glucose tolerance test.
+They correlated the values thus obtained
+with values from the same subjects with
+the euglycemic clamp technique. The
+results are significant, and the effort is
+commendable. To stimulate further discussion, I would like to proffer the following questions:
+In the study, fasting plasma glucose
+(FPG) and glucose (G) are expressed in
+mg/dl, and fasting plasma insulin (FPI) and
+insulin (I) are expressed in µl/ml. In a biological system, the action of insulin on glucose proceeds at the molecular level. Will
+it, then, be more consistent to express FPG
+and G in M 3/l, and FPI and I in M 12/l?
+The composite equation for the
+insulin sensitivity index (ISI) states that
+
+M
+
+–
+(G
+
+FPI)
+
+–
+I)
+
+–
+For simplicity, let us assume that G ap–
+proaches FPG and that I approaches FPI.
+The equation then simplifies to
+ISI = 10,000/√(FPG2
+10,000/(FPG
+
+FPI2)
+
+712
+
+From the Department of Family and Community
+Medicine, Baylor College of Medicine, Houston,
+Texas.
+Address correspondence to Jose S. Cheng, MD,
+3825 Tennyson St., Houston, TX 77005-2851.
+E-mail: jcheng@bcm.tmc.edu.
+
+References
+1. Matsuda M, DeFronzo R: Insulin sensitivity indices obtained from oral glucose tolerance testing: comparison with the euglycemic insulin clamp. Diabetes Care 22:
+1462–1470, 1999
+
+n response to Dr. Cheng (1), it should
+be noted that expressing the units of
+glucose and insulin as mmol/l and
+pmol/l, respectively (instead of mg/dl and
+µU/ml), will not change any of the
+observed correlations.
+As we described (2), the simplified
+equation for the insulin sensitivity index
+(ISI) [ISI = 10,000/(FPG FPI)] cited in
+Dr. Cheng’s letter is mathematically equivalent to the inverse of the reduced homeostasis model assessment formula, in
+which k = 10,000.
+We examined the relationship between
+our proposed ISI and the measurement of
+insulin sensitivity obtained from the
+euglycemic insulin clamp by use of both
+the log of the insulin concentration (r =
+0.69 and P  0.0001) and the absolute
+plasma insulin concentration (r = 0.73 and
+P  0.0001). The correlation coefficients
+were quite similar.
+
+I
+
+RALPH A. DEFRONZO, MD
+From the Diabetes Division, Department of Medicine, University of Texas Health Science Center at
+San Antonio, San Antonio, Texas.
+Address correspondence to Ralph A. DeFronzo,
+MD, Professor of Medicine, University of Texas
+Health Science Center at San Antonio, Diabetes
+Divison, Department of Medicine, 7703 Floyd Curl
+Dr., San Antonio, TX 78284-7886. E-mail: defronzo
+@uthscsa.edu.
+
+FPI)
+
+This means that the ISI is inversely proportional to FPG and to FPI. Are these
+
+2000
+2. Matsuda M, DeFronzo R: Insulin sensitivity
+indices obtained from oral glucose tolerance testing. Diabetes Care 22:1462–1470,
+1999
+
+JOSE S. CHENG, MD
+
+Response to Cheng
+
+An Equation for
+Insulin Sensitivity
+Index
+
+ISI = 10,000/√(FPG
+
+proportionalities linear, logarithmic, or
+otherwise? The study presupposes that
+they are linear. Is there any theoretical justification for this supposition?
+
+References
+1. Cheng JS: An equation for insulin sensitivity index (Letter). Diabetes Care 23:712,
+
+Effect of Gluten-Free
+Diet on the
+Metabolic Control of
+Type 1 Diabetes in
+Patients With
+Diabetes and
+Celiac Disease
+reviously (1), we described an
+increased frequency of hypoglycemic
+episodes with a reduction in insulin
+requirement as a presenting sign of celiac
+disease in children with type 1 diabetes. In
+a study conducted at a different center in
+Italy, similar data were observed: 6 wellcontrolled patients (mean GHb value 8.7 ±
+2.2%) had significantly more hypoglycemic
+episodes before diagnosis of celiac disease
+when compared with 12 well-matched diabetic patients without celiac disease (4.3 ±
+2.0 vs. 1.5 ± 2.4 episodes/week, respectively). This difference persisted up to
+6 months after initiation of a gluten-free
+diet (6.6 ± 6.2 vs. 1.8 ± 4.2 episodes/week)
+(F.C., personal communication).
+In contrast, Kaukinen et al. (2) failed to
+find an impact on metabolic control in
+adult patients with type 1 diabetes and
+celiac disease when a gluten-free diet was
+inadequate. It is worth noting that the mean
+GHb value in these patients ranged from
+9.8 to 10% during the 3 years preceding
+the diagnosis of celiac disease and remained
+substantially unchanged (9.5–10.3%) during the year after the initiation of a glutenfree diet. Similarly, the average daily insulin
+dosage (0.6 U/kg) remained unchanged
+after the start of a gluten-free diet. In our
+patients, the mean GHb value was 7.1 ±
+1.1% at the time of diagnosis of celiac disease; the mean insulin requirement was 0.6
+U/kg body weight. This requirement was
+the mean final result of a progressive reduction of the dose ranging from 30 to
+60% in individuals due to symptomatic
+and asymptomatic hypoglycemic episodes.
+Thus, the lack of hypoglycemic
+episodes at the clinical onset of celiac diseases in the patients described by Kaukinen et al. (2) could be the result of a
+higher mean blood glucose level as com-
+
+P
+
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+
+===== PDF PAGE 15 of 17 (pdftotext -layout) =====
                                                                                                                                                   Letters
 
 
@@ -1225,7 +3256,162 @@ that our untreated celiac disease patients              are placed on a gluten-f
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                                           713
 
-===== PDF PAGE 16 of 17 =====
+===== PDF PAGE 15 of 17 (reading order, same page) =====
+Letters
+
+pared with our patients who received an
+intensified therapy and had a better metabolic control (as determined by GHb values). In patients maintained at a strict
+metabolism (as our patients are), hypoglycemic crisis and a reduction of insulin
+requirement may more easily manifest as
+signs of celiac disease.
+DARIO IAFUSCO, MD
+FRANCESCO REA, MD, PH
+FRANCESCO CHIARELLI, MD, PH
+ANGELIKA MOHN, MD
+FRANCESCO PRISCO, MD, PH
+From the Department of Pediatrics (D.I., F.R., F.P.),
+Second University of Naples, Naples; and the
+Department of Pediatrics (F.C., A.M.), University of
+Chieti, Chieti, Italy.
+Address correspondence to Dario Iafusco, MD,
+Department of Pediatrics, Second University of
+Naples, Via S. Andrea delle Dame n. 4, 80138
+Naples, Italy. E-mail: dario.iafusco@unina2.it.
+
+References
+1. Iafusco D, Rea F, Prisco F: Hypoglycemia
+and reduction of the insulin requirement
+as a sign of celiac disease in children with
+IDDM (Letter). Diabetes Care 21:1379–
+1380, 1998
+2. Kaukinen K, Salmi J, Lahtela J, SiljamäkiOjansuu U, Koivisto A-M, Oksa H, Collin
+P: No effect of gluten-free diet on the
+metabolic control of type 1 diabetes in
+patients with diabetes and celiac disease
+(Letter). Diabetes Care 22:1747–1748,
+1999
+
+Response to
+Iafusco et al.
+Effect of gluten-free diet on the
+metabolic control of type 1
+diabetes in patients with diabetes
+and celiac disease
+he letter of Iafusco et al. (1) suggests
+that the lack of hypoglycemic episodes in patients with celiac disease
+and diabetes might be a consequence of
+poor glycemic control. Evidence shows
+that the risk for hypoglycemia is increased
+when the HbA1c percentage is low (2).
+This phenomenon may indeed explain
+why this complication was rarely observed
+in our series, in which the mean HbA1c
+value of our patients varied from 8.5 to
+10%. However, we must also emphasize
+that our untreated celiac disease patients
+
+T
+
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+were generally in good condition; most of
+them had only vague, if any, symptoms of
+celiac disease. More than likely, the risk of
+hypoglycemia will be considerably greater
+in patients suffering from a severe malabsorption. The risk may further differ
+between adults and children who have
+both celiac disease and diabetes.
+The low frequency of hypoglycemic
+episodes does not refute our conclusion
+that a gluten-free diet has no influence on
+the metabolic control of diabetes. Nevertheless, we fully agree that, in some cases,
+hypoglycemia can be due to untreated
+celiac disease. Celiac disease should be considered in type 1 diabetes patients who frequently experience hypoglycemic events.
+Furthermore, whenever the metabolic control is poor in patients with concomitant
+diabetes and celiac disease, other autoimmune conditions should be considered.
+The coexistence of celiac disease, type 1
+diabetes, and autoimmune thyroid disease
+or Addison’s disease is not uncommon (3).
+On the other hand, it is worth noting
+that in the series of Chiarelli (1), hypoglycemic events were even more frequent in
+celiac patients who had maintained a
+gluten-free diet for 6 months than they
+were before the start of the diet (6.6 and
+4.3 episodes on average, respectively).
+This observation, we feel, supports our
+conclusion that gluten-free diet has, by
+and large, little if any effect on the metabolic control of diabetes.
+Restricting celiac screening to diabetic
+patients who suffer from hypoglycemic
+complications means that most cases
+would remain undetected. According to
+several reports, the prevalence of celiac
+disease in type 1 diabetes is as high as
+2–7%. Endomysial (4) and tissue transglutaminase (5,6) antibody assays are
+highly specific tests and are sensitive
+enough to effectively screen for celiac disease. Therefore, it is now feasible to screen
+all patients with type 1 diabetes for celiac
+disease; this has been our practice for
+more than 10 years.
+We have not carried out active screening only to improve the metabolic control
+of diabetes. We consider that our screening policy is further justified for other reasons. First, the aim is to treat celiac disease
+before overt malabsorption develops. Second, osteopenia is a problem in both diabetes (7) and celiac disease (8). A low
+bone mineral density can improve even in
+asymptomatic celiac patients when they
+are placed on a gluten-free diet (9).
+
+A gluten-free diet may be difficult to
+maintain for diabetic patients. Prospective
+studies are warranted to evaluate the quality of life before and after the treatment of
+celiac disease in individuals with concomitant type 1 diabetes.
+KATRI KAUKINEN, MD
+JORMA SALMI, MD
+JORMA LAHTELA, MD
+HEIKKI OKSA, MD
+PEKKA COLLIN, MD
+From the Department of Internal Medicine, Tampere University Hospital and Medical School, University of Tampere, Tampere, Finland.
+Address correspondence to Pekka Collin, MD,
+Medical School, University of Tampere, P.O. Box
+607, FIN-33101 Tampere, Finland. E-mail:
+pekka.collin@uta.fi.
+
+References
+1. Iafusco D, Rea F, Chiarelli F, Mohn A,
+Prisco F: Effect of gluten-free diet on the
+metabolic control of type 1 diabetes in
+patients with diabetes and celiac disease
+(Letter). Diabetes Care 23:712–713,
+2000
+2. The Diabetes Control and Complications
+Trial Research Group: Hypoglycemia in
+the Diabetes Control and Complications
+trial. Diabetes 46:271–286, 1997
+3. Kaukinen K, Collin P, Mykkänen A-H, Partanen J, Mäki M, Salmi J: Celiac disease
+and autoimmune endocrinologic disorders. Dig Dis Sci 44:1428–1433, 1999
+4. Ladinser B, Rossipal E, Pittschieler K:
+Endomysium antibodies in coeliac disease:
+an improved method. Gut 35:776–778,
+1994
+5. Dieterich W, Laag E, Schopper H, Volta U,
+Ferguson A, Gillett H, Riecken EO, Schuppan D: Autoantibodies to tissue transglutaminase as predictors of celiac disease. Gastroenterology 115:1317–1321, 1998
+6. Sulkanen S, Halttunen T, Laurila K, Kolho
+K-L, Korponay-Szabo I, Sarnesto A, Savilahti E, Collin P, Mäki M: Tissue transglutaminase autoantibody enzyme-linked
+immunosorbent assay in detecting celiac
+disease. Gastroenterology 115:1322–1328,
+1998
+7. Selby PL: Osteopenia and diabetes. Diabet
+Med 5:423–428, 1988
+8. Corazza GR, Di Sario A, Cecchetti L,
+Tarozzi C, Corrao G, Bernardi M, Gasbarrini G: Bone mass and metabolism in
+patients with celiac disease. Gastroenterology 109:122–128, 1995
+9. Mustalahti K, Collin P, Sievänen H, Salmi
+J, Mäki M: Osteopenia in patients with
+clinically silent coeliac disease warrants
+screening. Lancet 354:744–745, 1999
+713
+
+
+===== PDF PAGE 16 of 17 (pdftotext -layout) =====
 Letters
 
 
@@ -1332,7 +3518,168 @@ wider appreciation.                               lished nephropathy is all that
 
 714                                                                                                   DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
 
-===== PDF PAGE 17 of 17 =====
+===== PDF PAGE 16 of 17 (reading order, same page) =====
+Letters
+
+Prediction of
+Albumin Excretion
+Rate From
+Albumin-to-Creatinine
+Ratio
+wo recent articles in Diabetes Care
+have continued the long-running
+debate about methods of screening
+for albuminuria in diabetes (1,2). The crux
+of this issue is whether the information that
+can be obtained from spot urine samples
+(either albumin concentration or the albumin-to-creatinine ratio) can provide equivalent information to a timed albumin
+excretion rate, on which our current definitions of albuminuria are based. Spot samples have the huge advantage of not requiring accuracy of either timing or volume
+measurement, both of which are potent
+sources of patient dissatisfaction and error
+in clinical practice.
+Harvey et al. (1) and Bakker (2) have
+estimated cutoff values for albumin-to-creatinine ratios that predict values for the albumin excretion rate. Both have emphasized
+that values discriminating between normal
+and abnormal albuminuria are dependent
+on age and sex (1,2). Even though this
+approach is useful, it is worth remembering
+an alternative method that was first suggested by Ginsberg et al. (3) in 1983. The
+daily urine creatinine excretion, which is
+relatively constant, can be estimated from
+the Cockcroft-Gault formula, which takes
+into account age, sex, and body size (4).
+The formula is as follows: creatinine excretion (mmol/day) = [(140 age) weight
+(kg)]/k, where k = 665 for men and 782 for
+women. The estimated urine creatinine
+multiplied by the albumin-to-creatinine
+ratio gives an estimate of 24-h urine albumin excretion.
+In 1992, we published data on the
+agreement between the albumin excretion
+rate estimated in this way from spot samples and the albumin excretion rate measured by 24-h urine collections and on the
+agreement between repeated 24-h urine
+collections (5). We demonstrated that the
+estimate gave numerically similar values to
+the measured samples with a degree of
+agreement similar to that found between
+timed collections. The errors inherent in
+the estimates were trivial compared with
+the day-to-day variability in albumin
+excretion (5). This simple device deserves
+wider appreciation.
+
+T
+
+714
+
+TIM CUNDY, MD
+JOHN BAKER, MD
+From the Department of Medicine, University of
+Auckland, Auckland, New Zealand.
+Address correspondence to Tim Cundy, MD,
+Department of Medicine, Auckland Hospital, Private Bag 92-019, Auckland 1, New Zealand. E-mail:
+t.cundy@auckland.ac.nz.
+
+References
+1. Harvey JN, Hook K, Platts JK, Devarjoo S,
+Meadows PA: Prediction of albumin excretion rate from albumin-to-creatinine ratio
+(Letter). Diabetes Care 22:1597–1598, 1999
+2. Bakker AJ: Detection of microalbuminuria:
+receiver operating characteristic curve
+analysis favors albumin-to-creatinine ratio
+over albumin concentration. Diabetes Care
+22:307–313, 1999
+3. Ginsberg JM, Chang BS, Matarese RA,
+Garella S: Use of single-voided urine samples to estimate quantitative proteinuria.
+N Engl J Med 309:1543–1546, 1983
+4. Cockcroft DW, Gault MH: Prediction of
+creatinine clearance from serum creatinine. Nephron 16:31–41, 1976
+5. Cundy TF, Nixon D, Berkahn L, Baker J:
+Measuring the albumin excretion rate:
+agreement between methods and biological variability. Diabet Med 9:138–143, 1992
+
+Response to Cundy
+and Baker
+he methodology recommended by
+Cundy and Baker (2) is a useful
+means of estimating 24-h urinary
+albumin excretion rates from the albuminto-creatinine ratio (ACR). Such a methodology uses the Cockcroft-Gault equation to
+factor age, sex, and body weight into
+account (1,2). The diagnostic values of the
+ACR, as it is commonly used in current
+methodologies, incorporate only the effect
+of sex. Cundy and Baker’s recommendation is useful for the comparison of ACR
+values with 24-h urinary albumin values,
+but in Europe in recent years, we have
+moved toward timed overnight collections
+as the gold standard in the assessment of
+diabetic proteinuria, because posture and
+activity are controlled for and collection is
+simplified for the patient. The CockcroftGault equation, as currently validated,
+does not allow calculation of the overnight
+albumin excretion rate from the ACR (3).
+In general clinical practice, a decision on
+whether the result indicates normal albumin excretion, microalbuminuria, or established nephropathy is all that is required.
+
+T
+
+For this purpose, the cutoff values that we
+derived are satisfactory (4). They generally
+provide a clear distinction of microalbuminuria from normal, because the diagnostic values are far removed from the normal
+population mean (5).
+We found that the ACR had less
+within-subject variation than timed overnight measurements (4). For this reason,
+coupled with its simplicity, we feel that the
+use of single samples with or without the
+conversion to 24-h albumin excretion
+rates, as advocated by Cundy and Baker, is
+preferable for large surveys and routine
+clinical use.
+JOHN N. HARVEY, MD
+From the University of Wales College of Medicine,
+Wrexham Academic Unit, Wrexham, U.K.
+Address correspondence to John N. Harvey, MD,
+Diabetes Unit, Gladstone Centre, Maelor Hospital,
+Croesnewydd Road, Wrexham Clwyd LL13 7TD,
+U.K. E-mail: john.harvey@new-tr.wales.nhs.uk.
+
+References
+1. Cundy T, Nixon D, Berkahn L, Baker I:
+Measuring the albumin excretion rate:
+agreement between methods and biological variability. Diabet Med 9:138–143,
+1992
+2. Cundy T, Baker I: Prediction of albumin
+excretion rate from albumin-to-creatinine
+ratio (Letter). Diabetes Care 23:714, 2000
+3. Cockcroft DS, Gault MH: Prediction of
+creatinine clearance from serum creatinine. Nephron 16:31–41, 1976
+4. Harvey JN, Hood K, Platts JK, Devarajoo
+S, Meadows PA: Prediction of albumin
+excretion rate from albumin-to-creatinine
+ratio. Diabetes Care 22:1597–1598, 1999
+5. Watts GF, Morris RW, Khan K, Polak A:
+Urinary albumin excretion in healthy
+adult subjects: reference values and some
+factors affecting their interpretation. Clin
+Chim Acta 172:191–198, 1988
+
+Is There Any Use for
+the Oral Glucose
+Tolerance Test?
+n relation to the ongoing debate on the
+new diagnostic criteria, we appreciated
+the balanced view of Dr. Perry (1),
+expressed in a letter published in a recent
+issue of this journal. The author quite correctly states that merits and limits are built
+into any screening method and warns
+against sterile discussions about the need
+for a compromise between the pragmatic
+
+I
+
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+
+===== PDF PAGE 17 of 17 (pdftotext -layout) =====
                                                                                                                                                  Letters
 
 
@@ -1393,4 +3740,135 @@ pooled data from 20 studies conducted in          Medicine, Federico II Universi
 
 
 DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000                                                                                                          715
+
+===== PDF PAGE 17 of 17 (reading order, same page) =====
+Letters
+
+and the ideal. One should bear in mind that
+the main objective should be to ensure that
+people with abnormal glucose homeostatsis
+are detected in the community. To serve this
+purpose, the author suggests that the best
+compromise is a screening approach based
+on the measurement of fasting glucose
+combined with the oral glucose tolerance
+test (OGTT) in those with abnormal fasting
+values. We largely share the view of a need
+for a compromise, as the OGTT is little
+used by clinicians and may be unfeasible in
+many contexts as a screening test on a population basis. However, we would like to
+comment on the suggested approach.
+In relation to the diagnosis of diabetes,
+there is mounting evidence that there is a
+sizeable proportion of previously undiagnosed diabetic people with a postload glucose 11.1 mmol/l (200 mg/dl) and fasting plasma glucose 7.0 mmol/l (126
+mg/dl). This proportion varies in different
+populations and ranges from 32 to 72%
+(2–4). Furthermore, in a pooled analysis of
+20 studies conducted in different European countries, as many as 31% of those
+who are diabetic, according to postchallenge plasma glucose, have normal fasting
+values (6.1 mmol/l, 110 mg/dl) (4) and,
+therefore, would not be detected by a
+screening procedure based essentially on
+fasting glucose measurements. In addition,
+fasting glucose is of little help in diagnosing
+impaired glucose intolerance (IGT). Evidence is accumulating that most people
+with IGT, from 54 to 67%, have fasting
+glucose in the normal range (6.1 mmol/l,
+110 mg/dl) (4–6). It has also become clear
+that isolated postload hyperglycemia is a
+strong predictor of mortality (2,7,8). Furthermore, we have shown that in Caucasians, IGT is a strong predictor of progression to diabetes (5), and similar data
+were produced in other ethnic groups (6).
+Moreover, the suggested 2-step approach
+has been mimicked through the use of
+pooled data from 20 studies conducted in
+
+DIABETES CARE, VOLUME 23, NUMBER 5, MAY 2000
+
+various European countries. These data
+clearly show that a fasting glucose of 5.5
+mmol/l, a value well within the normal
+range, is to be used as the threshold for
+proposing OGTT to detect 93% of all those
+with diabetes diagnosed on the basis of
+postload values. However, even with the
+use of this low threshold, the ability for fasting glucose levels to identify IGT does not
+improve substantially. Therefore, performing OGTT on people with abnormal fasting
+glucose would discriminate between diabetes and impaired fasting glucose, but will
+be of little help in identifying IGT; this is
+not of minor importance, because prevention of progression to overt diabetes in this
+group seems to be possible.
+To preliminarily explore alternative
+strategies, we analyzed data relative to an
+occupational group of employees of the
+Italian telephone company (n = 1,038)
+screened by OGTT in 1980, in whom
+major cardiovascular risk factors were also
+measured (9). Of the 68 participants with
+postload glucose in the IGT range, 58 (i.e.,
+85%) clustered in the group of people with
+at least 1 among the following conditions:
+BMI 28, fasting triglycerides 180, blood
+pressure 140/90, or on current treatment
+for hypertension or hypertriglyceridemia.
+We, therefore, suggest that as a possible
+compromise between the pragmatic and
+the ideal, the OGTT could be used, irrespective of fasting glucose levels, for selective screenings of high-risk groups (i.e.,
+those with 1 or more of the features of the
+metabolic syndrome: hypertension, hypertriglyceridemia, low HDL cholesterol, obesity/large waist circumference, and/or positive first-degree family history of diabetes).
+OLGA VACCARO, MD
+GIANLUCA RUFFA, MD
+GABRIELE RICCARDI, MD
+From the Department of Clinical and Experimental
+Medicine, Federico II University, Naples, Italy.
+
+Address correspondence to Olga Vaccaro, MD,
+Department of Clinical and Experimental Medicine,
+II Policlinico, via S. Pansini 5, 80131 Naples, Italy.
+E-mail: scalaros@unina.it.
+
+References
+1. Perry RC: Impaired fasting glucose and
+cardiovascular disease (Letter). Diabetes
+Care 22:1919–1920, 1999
+2. Barrett-Connor E, Ferrara A: Isolated
+postchallenge hyperglycemia and the risk
+of fatal cardiovascular disease in older
+women and men: the Rancho Bernardo
+Study. Diabetes Care 21:1236–1239, 1998
+3. Shaw JE, de Courten M, Boyko EJ, Zimmet
+PZ: Impact of new diagnostic criteria for
+diabetes on different populations. Diabetes
+Care 22:762–766, 1999
+4. The DECODE Study Group on behalf of
+the European Diabetes Epidemiology
+Group: Is fasting glucose sufficient to
+define diabetes? Epidemiological data
+from 20 European studies. Diabetologia 42:
+647–654, 1999
+5. Vaccaro O, Ruffa G, Imperatore G, Iovino
+V, Rivellese AA, Riccardi G: Risk of diabetes in the new diagnostic category of
+impaired fasting glucose. Diabetes Care 22:
+1490–1493, 1999
+6. Shaw JE, Zimmet PZ, De Couten M,
+Dowse GK, Chitson P, Gareboo H, Hemraj
+F, Fareed D, Tuomilehto J, Alberti KG:
+Impaired fasting glucose or impaired glucose tolerance? Diabetes Care 22:399–402,
+1999
+7. The DECODE Study Group on behalf of
+the European Diabetes Epidemiology
+Group: Glucose tolerance and mortality:
+comparison of WHO and American Diabetes Association diagnostic criteria.
+Lancet 354:617–621, 1999
+8. Shaw JE, Hodge AM, de Courten M, Chitson P, Zimmet PZ: Isolated post-challenge
+hyperglycemia confirmed as a risk factor
+for mortality. Diabetologia 42:1050–1054,
+1999
+9. Vaccaro O, Rivellese A, Riccardi G,
+Capaldo B, Tutino L, Annuzzi G, Mancini
+M: Impaired glucose tolerance and risk
+factors for atherosclerosis. Arteriosclerosis
+4:592–597, 1984
+
+715
+
 

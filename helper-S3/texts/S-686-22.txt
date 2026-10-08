@@ -1,5 +1,5 @@
 
-===== PDF PAGE 1 of 9 =====
+===== PDF PAGE 1 of 9 (pdftotext -layout) =====
                                                                                 Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -62,7 +62,68 @@ Tel: 1 410 502 2909; Fax: 1 410 502 5560; E-mail: mpolyde@jhmi.edu         tase 
 
 © 2015 Peripheral Nerve Society                                      363
 
-===== PDF PAGE 2 of 9 =====
+===== PDF PAGE 1 of 9 (reading order, same page) =====
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+RESEARCH REPORT
+
+Safety and efﬁcacy of ranirestat in patients with
+mild-to-moderate diabetic sensorimotor
+polyneuropathy
+Michael Polydefkis1 , Joseph Arezzo2 , Marshall Nash3 , Vera Bril4 , Aziz Shaibani5 , Robert
+J. Gordon6 , Kate L. Bradshaw6 , and Roderick W. J. Junor6 , on behalf of the Ranirestat
+Study Group†
+1
+
+Department of Neurology, Johns Hopkins University, Baltimore, MD, USA; 2 Departments of Neuroscience and Neurology,
+Albert Einstein College of Medicine, New York, NY, USA; 3 NeuroStudies.net, LLC, Decatur, GA, USA; 4 Division of Neurology,
+Department of Medicine, University of Toronto, Toronto, Canada; 5 Nerve & Muscle Center of Texas, Houston, TX, USA; and
+6
+Eisai Ltd, Hatﬁeld, UK
+
+Abstract We examined the efﬁcacy and safety of ranirestat in patients with diabetic
+sensorimotor polyneuropathy (DSPN). Patients (18–75 years) with stable type 1/2 diabetes
+mellitus and DSPN were eligible for this global, double-blind, phase II/III study (ClinicalTrials.gov NCT00927914). Patients (n = 800) were randomized 1 : 1 : 1 to placebo, ranirestat
+40 mg/day or 80 mg/day (265 : 264 : 271). Change in peroneal motor nerve conduction velocity (PMNCV) from baseline to 24 months was the primary endpoint with a goal improvement
+vs. placebo ≥1.2 m/s. Other endpoints included symptoms, quality-of-life, and safety. Six
+hundred thirty-three patients completed the study. The PMNCV difference from placebo
+was signiﬁcant at 6, 12, and 18 months in both ranirestat groups, but <1.2 m/s. The mean
+improvement from baseline at 24 months was +0.49, +0.95, and +0.90 m/s for placebo,
+ranirestat 40 mg and 80 mg, respectively (NS). The treatment difference vs. placebo reached
+signiﬁcance when ranirestat groups were combined in a post hoc analysis (+0.44 m/s;
+p = 0.0237). There was no effect of ranirestat on safety assessments, secondary or
+exploratory endpoints vs. placebo. Ranirestat was well tolerated and improved PMNCV,
+but did not achieve any efﬁcacy endpoints. The absence of PMNCV worsening in the placebo
+group underscores the challenges of DSPN studies in patients with well-controlled diabetes.
+Key words: aldose reductase, clinical trial, diabetic neuropathy, neuropathy progression
+
+Buchanan, 2004; Van Acker et al., 2009; Stavniichuk
+et al., 2012). Pathophysiologically, peripheral nerves in
+patients with diabetes have a reduced ability to regenerate, undergo demyelination and axonal degeneration
+(Greene et al., 1992; Polydefkis et al., 2004). Directly
+addressing these causes of complications, rather than
+treating the resulting symptoms, is an important unmet
+medical need.
+The polyol pathway and the enzyme aldose reductase (AR) are implicated in the pathophysiology of
+DSPN and other complications of diabetes (Oates,
+
+Introduction
+Diabetic sensorimotor polyneuropathy (DSPN) is
+characterized by altered sensation and/or pain usually
+in the distal legs and feet and can lead to complications
+such as ulceration and subsequent amputation (Bril and
+
+Address correspondence to: Michael Polydefkis, Johns Hopkins
+University, 855 N. Wolfe St., Room 435, Baltimore, MD 21205, USA.
+Tel: 1 410 502 2909; Fax: 1 410 502 5560; E-mail: mpolyde@jhmi.edu
+† See Appendix for complete list of Investigators.
+
+© 2015 Peripheral Nerve Society
+
+363
+
+
+===== PDF PAGE 2 of 9 (pdftotext -layout) =====
 Polydefkis et al.                                                       Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -124,7 +185,98 @@ unlock. The study was conducted at 84 sites in Asia,               endpoints inc
 
                                                              364
 
-===== PDF PAGE 3 of 9 =====
+===== PDF PAGE 2 of 9 (reading order, same page) =====
+Polydefkis et al.
+
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+Europe, North America, and Russia between July 20,
+2009 and January 10, 2013 after approval by institutional review boards and independent ethics committees. The trial was registered at ClinicalTrials.gov
+(NCT00927914) and was conducted in accordance with
+relevant clinical practice guidelines – the Declaration
+of Helsinki, International Conference on Harmonisation
+Guideline for Good Clinical Practice (GCP), the European GCP directive and Clinical Trial Directive, and US
+Code of Federal Regulations. Written, informed consent was obtained from all patients before screening,
+both for study participation.
+
+2008; Ota et al., 2013). AR catalyzes the reduction
+of aldehyde molecules to sorbitol and then to fructose (Oates, 2008; Ota et al., 2013) which are thought
+to damage cells by mechanisms such as oxidative
+stress (Oates, 2008). Inhibiting AR may, therefore,
+improve the oxidative stress proﬁle in susceptible tissues, potentially treating or preventing progress of
+DSPN (Oates, 2008; Ota et al., 2013).
+Ranirestat (AS-3201), a potent, selective,
+and reversible inhibitor of the AR system, dosedependently inhibits sorbitol production and improves
+nerve conduction velocity in animal and human studies
+of 12 (Bril and Buchanan, 2004) and 60 weeks (Bril
+and Buchanan, 2006). A further clinical study involving patients with mild-to-moderate DSPN showed
+signiﬁcant improvements in PMNCV with ranirestat
+10–40 mg/day vs. placebo (Bril et al., 2009).
+In peripheral nerves, impaired motor nerve conduction velocity is one objective sign of damage and
+a strong predictor of ulceration in patients with diabetes (Carrington et al., 2002). The US Food and Drug
+Administration has accepted peroneal motor nerve
+conduction velocity (PMNCV) as a primary criterion for
+assessing DSPN treatment, and a rate of decline of
+0.6 m/s per year in diabetes has been accepted as standard (Dyck and O’Brien, 1989; Diabetes Control Complications Trial (DCCT) Research Group, 1995; Partanen
+et al., 1995; Dyck et al., 1997). The current Phase II/III
+clinical study was powered upon such a rate of decline
+with the primary objective to determine the effect of
+ranirestat 40 and 80 mg on PMNCV relative to placebo
+over 2 years in patients with mild-to-moderate DSPN.
+Secondary objectives included ranirestat’s effects on
+signs and symptoms of DSPN, safety, and tolerability.
+
+Patients
+Male and female patients (≥18 and ≤75 years)
+were eligible if they had a diagnosis of type 1 or type
+2 diabetes for ≥12 months before screening (with optimized and stable glycemic control for ≥3 months) and
+a history of symptomatic distal symmetric polyneuropathy (secondary to diabetes) according to American
+Academy of Neurology criteria, which include abnormal
+PMNCV (England et al., 2005).
+Exclusion criteria included history of diabetic foot
+ulcers (Wagner Grade ≥1) or lower extremity amputation, diabetic amyotrophy, or non-diabetic cause of
+lower limb neuropathy; history of hypothyroidism or
+B12 /folate deﬁciency; signiﬁcant cardiovascular or hepatic disease; history of hypoglycemia with loss of consciousness, diabetic ketoacidosis, or hyperglycemic
+coma in the 3 months before screening; prior participation in a ranirestat study or receipt of investigational
+medicinal product in the 3 months before screening;
+and clinically signiﬁcant illness that would compromise
+patient safety or ability to assess efﬁcacy.
+Study completers were patients who ﬁnished the
+full treatment period, end of treatment visit, and
+follow-up visit. Patients who discontinued study drug
+prematurely were encouraged to return for the remaining scheduled visits (“retrieved dropouts”).
+
+Patients and Methods
+Trial design
+This double-blind, parallel-group study, randomized patients 1 : 1 : 1 to ranirestat 80 mg or 40 mg,
+or placebo. Patients were allocated via an interactive voice-response system, according to a pre-deﬁned
+randomization schedule stratiﬁed by site. A 1-month
+pre-randomization period with two study visits was followed by a 2-year double-blind period with 10 study
+visits, with a single follow-up visit 1 month after ﬁnishing treatment. Outcome measures were assessed
+at baseline, 6, 12, 18, and 24 months. A change from
+baseline in PMNCV at month 24 was the primary outcome measure with a goal difference for each ranirestat group vs. placebo of 1.2 m/s or greater.
+Patients, investigators, site personnel, and sponsor
+staff were blinded to treatment codes until database
+unlock. The study was conducted at 84 sites in Asia,
+
+Assessments and outcomes
+An independent data safety monitoring board conducted interim assessments at regular intervals and
+a futility analysis when most patients had completed
+1 year.
+
+Efﬁcacy
+The primary efﬁcacy outcome measure was
+change in mean PMNCV (m/s) from baseline to
+month 24 in patients taking ranirestat 80 or 40 mg
+vs. placebo. At each efﬁcacy assessment (baseline,
+6, 12, 18, and 24 months), PMNCV was measured
+bilaterally on two occasions (within a 21-day window),
+and the mean value was used. Secondary efﬁcacy
+endpoints included the self-administered Neuropathy
+364
+
+
+===== PDF PAGE 3 of 9 (pdftotext -layout) =====
 Polydefkis et al.                                                        Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -188,7 +340,114 @@ occurred after starting treatment.                                  combined in 
 
                                                               365
 
-===== PDF PAGE 4 of 9 =====
+===== PDF PAGE 3 of 9 (reading order, same page) =====
+Polydefkis et al.
+
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+Total Symptom Score-6 (NTSS-6-SA) (Bastyr et al.,
+2005) and the vibration perception threshold (VPT)
+measured as the mean of three recordings with a
+standardized and calibrated neurothesiometer (Bailey
+Instruments, Manchester, UK) on both great toes.
+
+The possible saturation of ranirestat effects was
+not envisaged in the original analysis plan, primarily
+because the placebo group was anticipated to progress
+over the 2-year observation period. Therefore, combining the two ranirestat groups was a post hoc
+analysis.
+
+Safety
+All adverse events (AEs) and serious AEs (SAEs)
+were monitored and recorded from the time of consent
+to ﬁnal visit. SAEs were collected for 30 days after
+the last dose. Mood was assessed regularly using
+the Hospital Anxiety and Depression scale; a physical
+examination was performed at screening, months 6
+and 12, and end of treatment; and vital signs were
+recorded at screening and all post-randomization visits.
+Hematology, biochemistry, HbA1c , fasting lipids, urine
+albumin, and 12-lead electrocardiogram (ECG) were
+assessed frequently.
+
+Results
+Patient population, baseline data, and exposure
+Of 2721 patients screened (Figure S1, Supporting
+Information), 1921 (71%) were screen failures (91% of
+whom failed inclusion/exclusion criteria). The remaining 800 were randomized: placebo, 265; ranirestat
+40 mg, 264; ranirestat 80 mg, 271. Patients receiving at
+least one dose of study drug were included in the Full
+Analysis Population. Baseline data were similar across
+treatment groups (Table 1).
+Overall, 633 patients (79%) completed the study,
+with similar rates of study discontinuation: placebo,
+22%; ranirestat 40 mg, 22%; ranirestat 80 mg, 19%.
+Of the 800 patients originally randomized, 197 (25%)
+discontinued treatment before the month-24 assessment (30 continued with study visits as retrieved
+dropouts). The most common primary reason for
+discontinuing treatment was the occurrence of AEs
+(placebo, 5%; ranirestat 40 mg, 4%; and ranirestat
+80 mg, 4%). Study discontinuation was the primary
+reason for missing PMNCV data at a speciﬁc visit, with
+similar percentage of subjects missing data across
+placebo and ranirestat groups at each time point;
+approximately 11%, 17%, 21%, and 22% subjects had
+missing PMNCV data at months 6, 12, 18 and 24,
+respectively.
+Exposure to treatment was similar for patients
+receiving placebo, ranirestat 40 or 80 mg. Mean exposure durations were placebo, 21 months; ranirestat
+40 mg, 21 months; and ranirestat 80 mg, 22 months.
+
+Analytical and statistical methods
+Sample size calculations were based on the number of patients required to detect a baseline to month
+24 PMNCV differences of 1.2 m/s between each dose
+and placebo. Previous studies with ranirestat indicated
+a within-group standard deviation (SD) of 3.0 m/s in
+PMNCV at week 52 (Bril and Buchanan, 2006; Bril
+et al., 2009). To account for greater variability and allow
+for robust secondary analyses, a sample size of 750
+patients (250 per group) was calculated to detect a
+clinically important difference of 1.2 m/s (with a common SD of 3.8 m/s), with approximately 90% power at
+the two-sided 2.5% signiﬁcance level. This group size
+was anticipated to provide approximately 80% power
+to detect a clinically important difference in NTSS-6-SA,
+assuming an SD of 3.8 (Bastyr et al., 2005), and to
+detect a difference of 1.31 V in VPT, assuming an SD
+of 5.2 V (data on ﬁle, Eisai Ltd.). Efﬁcacy analyses used
+the Full Analysis Population. Changes from baseline
+were analyzed using an analysis of covariance (ANCOVA)
+model that included terms for treatment and country,
+and baseline PMNCV as a covariate. Last observation
+carried forward (LOCF) was used, inputting baseline
+values for patients without post-baseline data. Least
+squares means (LSMs) were derived and p-values calculated for ranirestat vs. placebo. Adjustments for
+multiplicity were made (Dunnett’s procedure [Dunnett,
+1955; Dunnett, 1964]), to maintain the overall alpha at
+5% when comparing individual ranirestat doses with
+placebo.
+The Safety Analysis Population included all patients
+who received at least one dose of study drug and had
+at least one post-dose safety assessment. Descriptive
+statistics were used to summarize frequency, severity,
+duration, and relationship to treatment of AEs that
+occurred after starting treatment.
+
+Efﬁcacy
+Primary endpoint
+Figure 1A shows change from baseline in PMNCV
+over time. There was a statistically signiﬁcant treatment difference vs. placebo for both ranirestat 40 and
+80 mg at 6, 12, and 18 months. At month 24, the mean
+(SD) changes from baseline PMNCV were placebo,
++0.49 (2.55) m/s; ranirestat 40 mg, +0.95 (2.94) m/s;
+and ranirestat 80 mg, +0.90 (2.73) m/s. The LSM difference vs. placebo at month 24 was not statistically signiﬁcant in the individual ranirestat 40 or 80 mg groups
+when adjusted for multiplicity (p = 0.07 and p = 0.11,
+respectively).
+When the ranirestat treatment groups were
+combined in a post hoc analysis, there was, a
+365
+
+
+===== PDF PAGE 4 of 9 (pdftotext -layout) =====
 Polydefkis et al.                                                               Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -259,7 +518,169 @@ eters did not show a trend toward treatment effect                        ≥1% 
 
                                                                     366
 
-===== PDF PAGE 5 of 9 =====
+===== PDF PAGE 4 of 9 (reading order, same page) =====
+Polydefkis et al.
+
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+Table 1. Summary of baseline demographics and clinical characteristics: Safety Analysis Population*.
+Ranirestat
+Characteristic
+Mean age, years (SD)†
+Female sex, n (%)
+Mean BMI, kg/m2 (SD)
+Mean HbA1c , % (mmol/mol; SD)
+Type 2 diabetes, n (%)
+DM duration, years (SD)‡
+DSPN duration, years (SD)
+Any diabetic treatment, n (%)
+Prior insulin
+Concomitant insulin
+Prior OHA
+Concomitant OHA
+
+Placebo (n = 258)
+
+40 mg (n = 259)
+
+80 mg (n = 268)
+
+Total (n = 527)
+
+Combined
+total (n = 785)
+
+58.2 (8.9)
+84 (32.6)
+30.4 (5.0)
+7.8 (62; 1.7)
+229 (88.8)
+12.4 (9.7)
+4.6 (4.2)
+249 (96.5)
+2 (0.8)
+142 (55.0)
+5 (1.9)
+192 (74.4)
+
+57.3 (10.0)
+95 (36.7)
+30.3 (4.9)
+7.9 (63; 1. 7)
+234 (90.3)
+11.5 (7.7)
+4.4 (3.9)
+255 (98.5)
+4 (1.5)
+144 (55.6)
+5 (1.9)
+196 (75.7)
+
+57.3 (10.2)
+98 (36.6)
+30.7 (5.1)
+8.0 (64; 1.8)
+228 (85.1)
+13.7 (9.6)
+4.6 (4.6)
+264 (98.5)
+2 (0.7)
+170 (63.4)
+3 (1.1)
+188 (70.1)
+
+57.3 (10.1)
+193 (36.6)
+30.5 (5.0)
+8.0 (64; 1.8)
+462 (87.7)
+12.6 (8.8)
+4.5 (4.3)
+519 (98.5)
+6 (1.1)
+314 (59.6)
+8 (1.5)
+384 (72.9)
+
+57.6 (9.7)
+277 (35.3)
+30.5 (5.0)
+7.9 (63; 1.7)
+691 (88.0)
+12.6 (9.1)
+4.5 (4.2)
+768 (97.8)
+8 (1.0)
+456 (58.1)
+13 (1.7)
+576 (73.4)
+
+BMI, body mass index; DM, diabetes mellitus; DSPN, diabetic sensorimotor polyneuropathy; OHA, oral hypoglycemic agent; SD, standard
+deviation.
+*The Safety Analysis Population included all patients from the Full Analysis Population (n = 800) who had ≥1 safety assessment; as 15 patients
+were lost to follow-up between randomization and the month-1 visit, the Safety Analysis Population comprised 785 patients.
+†Age at informed consent.
+‡One patient was not included in the 80 mg group for this baseline measure, giving 267 patients in this group, 528 in the combined ranirestat
+groups, and 784 in total.
+
+Frequency of complications
+Complications due to DSPN were minimal
+(placebo, 3%; ranirestat 40 mg, 4%; ranirestat 80 mg,
+1%); the rates and time to event did not differ between
+treatment groups.
+
+signiﬁcant difference in PMNCV vs. placebo at month
+24 (+0.44 m/s vs. placebo; p = 0.0237) although this
+did not meet the target of 1.2 m/s.
+We assessed the effect of statin and angiotensinconverting enzyme (ACE) inhibitor use given evidence
+that these factors may inﬂuence DPN (Malik et al.,
+1998; Ziegler et al., 2011; Davis et al., 2008; Vinik et al.,
+2008). Placebo-treated subjects who were taking a
+statin or ACE inhibitor had similar degrees of improvement in PMNCV over 24-months compared to those
+who were not (0.32 vs. 0.5 m/s) and (0.45 vs. 0.70 m/s),
+respectively.
+
+Safety
+Adverse events
+AE incidence was similar across treatment groups:
+87% placebo and 84% ranirestat combined (Tables 2
+and 3). The placebo and combined ranirestat groups
+both had 8% of patients with an AEs leading to discontinuation. The only AE that led to discontinuation in >2
+patients in any treatment group was depression (ﬁve
+patients, ranirestat). Most AEs were of mild or moderate severity. SAEs occurring in ≥2 patients were coronary artery disease, angina pectoris, cataract, dyspnea,
+and gastroenteritis. Two deaths occurred in the placebo
+group and two each in the ranirestat 40 and 80 mg
+groups. One patient in the ranirestat 80 mg group died
+due to hypertensive heart disease considered possibly
+related to study drug; the other three deaths were considered to be related to underlying comorbidities.
+
+Secondary endpoints
+Baseline NTSS-6-SA scores were 9.4–9.6, and
+improvements from baseline were seen by month
+6 and sustained through month 24 in all treatment
+groups. However, no statistically signiﬁcant differences were observed with ranirestat vs. placebo at
+24 months (Fig. 1B). At baseline, VPT was 17.1 V
+in the placebo group, 16.4 V in the ranirestat 40 mg
+group, and 16.8 V in the 80 mg group. There was a
+trend toward worsening VPT over time (i.e., increased
+perception threshold) in all three groups; however,
+there was no statistical difference for either ranirestat group vs. placebo at month 6, 12, 18, or 24
+(Fig. 1C).
+Secondary and exploratory measures including
+signs and symptoms of DSPN, sensory capacity, quality of life, pain, and various electrophysiological parameters did not show a trend toward treatment effect
+(Appendix S1 and Table S1).
+
+Vital signs, ECG parameters, and mean laboratory
+values
+There were no clinically important difference
+between placebo and ranirestat treated groups over
+the course of the study with respect to HbA1c, percentage of subjects with an HbA1c change from baseline
+≥1% at any point during the study, blood pressure
+(BP), or low-density lipoprotein (LDL) levels.
+366
+
+
+===== PDF PAGE 5 of 9 (pdftotext -layout) =====
 Polydefkis et al.                                                                                                                                                                                                        Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -369,7 +790,186 @@ associated with improvements in PMNCV (p < 0.001)                               
 
                                                                                                                                                                         367
 
-===== PDF PAGE 6 of 9 =====
+===== PDF PAGE 5 of 9 (reading order, same page) =====
+Polydefkis et al.
+
+Improvement
+
+1.4
+1.2
+1.0
+
+**
+*
+
+**
+*
+
+***
+***
+
+0.8
+0.6
+0.4
+0.2
+0
+0
+
+6
+
+12
+
+18
+
+B
+0.0
+LS mean change from baseline in NTSS-6
+
+Placebo (n=265)
+40 mg ranirestat (n=264)
+80 mg ranirestat (n=271)
+
+1.6
+
+30
+
+24
+
+Placebo (n=265)
+40 mg ranirestat (n=263)
+80 mg ranirestat (n=271)
+Ranirestat combined (n=534)
+
+–0.5
+
+–1.0
+
+–1.5
+
+–1.67
+–1.88
+
+–1.85
+–2.02
+
+–2.0
+
+Improvement
+
+LS mean change from baseline in PMNCV
+
+A
+
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+–2.5
+
+Time (months)
+
+2.5
+Improvement
+
+LS mean change from baseline in VPT (Volts)
+
+C
+
+2.0
+1.73
+1.5
+
+1.55
+
+1.43
+
+1.30
+1.0
+Placebo (n=264)
+40 mg ranirestat (n=261)
+80 mg ranirestat (n=270)
+Ranirestat combined (n=531)
+
+0.5
+
+0.0
+
+Figure 1. Change from baseline in efﬁcacy measures: Full Analysis Population (last observation carried forward, LOCF). Least
+squares (LS) mean change (±standard error of the mean [SEM]): (A) in peroneal motor nerve conduction velocity (PMNCV)
+(m/s) over time (LOCF, Full Analysis Population), based on analysis of covariance (ANCOVA). p-values vs. placebo (not adjusted
+for multiplicity, except at 24 months), *p ≤ 0.05; **p ≤ 0.01; ***p ≤ 0.001. Error bars have been staggered for clarity; = placebo
+(n = 265); = 40 mg ranirestat (n = 264); = 80 mg ranirestat (n = 271). When ranirestat groups were combined at month 24
+in a post hoc analysis, there was a signiﬁcant difference vs. placebo (p = 0.0237).(B) from baseline to month 24 in mean
+self-administered Neuropathy Total Symptom Score-6 (NTSS-6-SA); all treatment differences vs. placebo were non-signiﬁcant;
+placebo (n = 265); 40 mg ranirestat (n = 263); 80 mg ranirestat (n = 271); ranirestat combined (n = 534); (C) from baseline to
+month 24 in mean vibration perception threshold (VPT) (V); all treatment differences vs. placebo were non-signiﬁcant; placebo
+(n = 264); 40 mg ranirestat (n = 261); 80 mg ranirestat (n = 270); ranirestat combined (n = 531).
+Table 2. Overview of treatment-emergent adverse events: Safety Analysis Population*.
+Ranirestat
+Category, n (%)
+Any AEs
+Treatment-related AEs
+Severe AEs
+AEs leading to discontinuation of study drug
+AEs leading to study drug dose interruption
+Serious AEs
+Death
+
+Placebo (n = 258)
+
+40 mg (n = 259)
+
+80 mg (n = 268)
+
+Total (n = 527)
+
+225 (87.2)
+71 (27.5)
+34 (13.2)
+21 (8.1)
+26 (10.1)
+62 (24.0)
+2 (0.8)
+
+212 (81.9)
+64 (24.7)
+46 (17.8)
+24 (9.3)
+33 (12.7)
+49 (18.9)
+2 (0.8)
+
+228 (85.1)
+71 (26.5)
+43 (16.0)
+17 (6.3)
+31 (11.6)
+52 (19.4)
+2 (0.7)
+
+440 (83.5)
+135 (25.6)
+89 (16.9)
+41 (7.8)
+64 (12.1)
+101 (19.2)
+4 (0.8)
+
+*Includes only adverse events (AEs) that were considered treatment-emergent, that is, started or increased in severity on or after the ﬁrst dose
+of study drug, up to and including 30 days after the ﬁnal dose of study drug.
+
+Discussion
+
+A post hoc analysis of the association of change
+in BP and PMNCV was performed using baseline and
+month 24 data and revealed that increases in DBP were
+associated with improvements in PMNCV (p < 0.001)
+(Fig. 2).
+
+This phase II/III clinical study evaluated the efﬁcacy and safety of ranirestat (40 and 80 mg) in patients
+with mild-to-moderate DSPN. There was a consistent
+367
+
+
+===== PDF PAGE 6 of 9 (pdftotext -layout) =====
 Polydefkis et al.                                                              Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -412,7 +1012,110 @@ when we combined the ranirestat 40 and 80 mg dose                         A simi
 
                                                                     368
 
-===== PDF PAGE 7 of 9 =====
+===== PDF PAGE 6 of 9 (reading order, same page) =====
+Polydefkis et al.
+
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+Table 3. Treatment-emergent adverse events in ≥5% in any treatment group: Safety Analysis Population*.
+Ranirestat
+Category, n (%)
+Nasopharyngitis
+Diarrhea
+Pain in extremity
+Arthralgia
+Upper respiratory tract infection
+Edema peripheral
+Hypertension
+Back pain
+Musculoskeletal pain
+Nausea
+Headache
+
+Placebo (n = 258)
+
+40 mg (n = 259)
+
+80 mg (n = 268)
+
+Total (n = 527)
+
+20 (7.8)
+19 (7.4)
+16 (6.2)
+16 (6.2)
+16 (6.2)
+20 (7.8)
+12 (4.7)
+13 (5.0)
+10 (3.9)
+14 (5.4)
+12 (4.7)
+
+22 (8.5)
+24 (9.3)
+23 (8.9)
+18 (6.9)
+13 (5.0)
+17 (6.6)
+18 (6.9)
+19 (7.3)
+14 (5.4)
+9 (3.5)
+13 (5.0)
+
+21 (7.8)
+17 (6.3)
+17 (6.3)
+19 (7.1)
+23 (8.6)
+18 (6.7)
+16 (6.0)
+8 (3.0)
+10 (3.7)
+15 (5.6)
+9 (3.4)
+
+43 (8.2)
+41 (7.8)
+40 (7.6)
+37 (7.0)
+36 (6.8)
+35 (6.6)
+34 (6.5)
+27 (5.1)
+24 (4.6)
+24 (4.6)
+22 (4.2)
+
+*Includes only adverse events that were considered treatment-emergent, that is, started or increased in severity on or after the ﬁrst dose of
+study drug, up to and including 30 days after the ﬁnal dose of study drug.
+
+Figure 2. Relationship between change from baseline in diastolic blood pressure and peroneal motor nerve conduction velocity
+(PMNCV) at month 24.
+
+but small improvement from baseline to 24 months in
+PMNCV with ranirestat 40 and 80 mg/day vs. placebo
+although the magnitude of improvement never reached
+the primary endpoint goal of 1.2 m/s. Similarly, none
+of the secondary measures demonstrated a treatment
+beneﬁt. The lack of progression in the placebo group
+contributed to ranirestat not meeting the primary endpoint goal of a 1.2 m/s improvement in PMNCV. Even
+when we combined the ranirestat 40 and 80 mg dose
+
+groups and found a signiﬁcant change from baseline
+to 24 months vs. placebo (+0.44 m/s; p = 0.0237), this
+change was still below the established threshold of a
+1.2 m/s difference vs. placebo.
+Unexpectedly, PMNCV improved rather than
+declined (Diabetes Control Complications Trial (DCCT)
+Research Group, 1995; Partanen et al., 1995) over
+time in the placebo group (+0.49 m/s at 24 months).
+A similar pattern of paradoxical improvement or
+368
+
+
+===== PDF PAGE 7 of 9 (pdftotext -layout) =====
 Polydefkis et al.                                                         Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -475,7 +1178,112 @@ suggested by the similar incidences of change in DBP                 support was
 
                                                                369
 
-===== PDF PAGE 8 of 9 =====
+===== PDF PAGE 7 of 9 (reading order, same page) =====
+Polydefkis et al.
+
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+modest progression with placebo has been seen in
+several recent large multicenter clinical trials of DSPN.
+In the Nathan I study, PMNCV improved in the placebo
+group by 0.18 m/s after 2 years (N = 207) and decreased
+by 0.06 m/s after 4 years (N = 207) (Ziegler et al., 2011).
+Conversely, there was a decline of 0.38 m/s in PMNCV
+in placebo patients (N = 262) from two identical
+1-year ruboxistaurin clinical trials (Tesfaye et al., 2007).
+A longitudinal 3-year cohort study of 62 subjects with
+well-controlled diabetes and stable risk factor control
+did not observe a change in NCV but did demonstrate worsening in measures of small ﬁber function
+(Gibbons et al., 2013). Reasons for this relative lack
+of disease progression compared with historical rates
+may include better control of diabetes in the intensively
+monitored clinical trial environment. HbA1c was stable
+over time, averaging 7.8%–8.0% (62–64 mmol/mol).
+An ad hoc analysis of placebo patients with baseline
+HbA1c ≥ 9% (≥75 mmol/mol) did show a worsening
+of PMNCV of 0.06 m/s ± 0.45 at 2 years compared
+with an improvement of 0.62 ± 0.171 in subjects
+with baseline HbA1c < 9%. This modest worsening
+of PMNCV in subjects with poor glycemic control is
+closer to the historical data upon which this study
+was powered (Diabetes Control Complications Trial
+(DCCT) Research Group, 1995; Partanen et al., 1995).
+This could suggest that rates of DPN progression have
+changed over time as diabetes control and treatment
+of comorbidities has improved. Indeed, the average
+HbA1c of the older studies in which PMNCV decreased
+more prominently was 9.3% while the average HbA1c
+in this study was 7.8% compared with 8.8% in the
+NATHAN 1 study (Ziegler et al., 2011), 7.6% in the
+ruboxistaurin studies (Tesfaye et al., 2007), and 7.2%
+in the Gibbons and colleagues study (Gibbons et al.,
+2013). The fact that we were able to detect differences
+between placebo and treatment groups despite the
+lack of progression in the placebo group is likely due
+to the lower than anticipated variability in PMNCV
+(a PMNCV SD of 2.6 across treatment groups vs. an
+expected SD of 3.8 m/s).
+Unexpectedly, a post hoc analysis of change in
+supine diastolic blood pressure (DBP) and PMNCV
+between baseline and month 24 showed a very strong
+association between drop of DBP and reduction (worsening) of PMNCV. The observed decrease in DBP may
+reﬂect a loss of sympathetic muscle tone associated
+with progressive loss of sympathetic nerve function, which may explain the strong association with
+impairment of PMNCV. The association of falling DBP
+and worsening PMNCV may potentially compound
+the risk of developing diabetic complications such as
+ulceration, and therefore could justify more intense
+clinical management of subjects with falling DBP. As
+suggested by the similar incidences of change in DBP
+
+between treatment and placebo groups, ranirestat did
+not appear to have any impact on DBP.
+Dropouts over time and the LOCF approach
+may have underestimated efﬁcacy measures in this
+study. Of the 265 placebo and 535 ranirestat patients,
+209 (79%) and 427 (80%), respectively, continued
+treatment and contributed data (observed data) to
+the 24-month time point. Using observed data, the
+combined ranirestat change from baseline PMNCV
+at 24 months was +1.14 m/s (vs. +0.56 m/s with
+placebo). The LOCF approach assigns the previous recorded observation (or baseline value in the
+absence of post-baseline assessments) for missing
+data, and this approach reduces the ranirestat (combined) change from baseline PMNCV to +0.93 m/s.
+The LOCF approach for handling missing data was
+selected following regulatory agency interactions.
+Regardless of the analysis method used, PMNCV
+changes were small, and the lack of a sequential
+improvement beyond 6 months argues against a
+disease-modifying effect on large-ﬁber nerve function
+with ranirestat. This is reinforced by the lack of treatment effect on signs and symptoms of DSPN or vibration sensation. This lack of observable clinical beneﬁt
+could suggest that an improvement of +0.44 m/s in
+PMNCV above placebo is insufﬁcient to cause perceptible difference in DSPN signs and symptoms; active
+progression is required to demonstrate an effect with
+placebo; or PMNCV is not necessarily the appropriate surrogate for neuropathy progression. AR inhibitors
+are hypothesized to slow the progress of neuropathy by limiting sorbitol accumulation, so the absence
+of disease progression in the placebo group limited
+the ability to observe clinical changes or pathologic
+changes related to ranirestat treatment.
+Incorporating a dedicated measure of small caliber ﬁber such as skin biopsy was considered although
+ultimately not used due to the fact that regulatory
+authorities did not accept a change in this measure as
+a criterion for approval. Future studies should include
+additional measures of small ﬁber structure or function
+such as skin biopsy and more contemporary longitudinal data are needed using these measures.
+Ranirestat was well tolerated and improved
+PMNCV vs. placebo, but not to the 1.2 m/s threshold.
+Ranirestat did not result in any detectable symptom
+beneﬁt over placebo. The lack of neuropathy progression as measured by PMNCV in the placebo group
+highlights the challenges of conducting multinational
+DSPN trials.
+
+Acknowledgements
+This study was funded by Eisai, Inc. Editorial
+support was provided by Kate Carpenter, PhD, and Ann
+369
+
+
+===== PDF PAGE 8 of 9 (pdftotext -layout) =====
 Polydefkis et al.                                                               Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -547,7 +1355,128 @@ Dyck PJ, Davies JL, Litchy WJ, O’Brien PC (1997). Longitudinal               S
 
                                                                     370
 
-===== PDF PAGE 9 of 9 =====
+===== PDF PAGE 8 of 9 (reading order, same page) =====
+Polydefkis et al.
+
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+England JD, Gronseth GS, Franklin G, Miller RG, Asbury AK,
+Carter GT, Cohen JA, Fisher MA, Howard JF, Kinsella LJ,
+Latov N, Lewis RA, Low PA, Sumner AJ, American Academy
+of N, American Association of Electrodiagnostic M, American Academy of Physical M, Rehabilitation (2005). Distal
+symmetric polyneuropathy: a deﬁnition for clinical research:
+report of the American Academy of Neurology, the American
+Association of Electrodiagnostic Medicine, and the American
+Academy of Physical Medicine and Rehabilitation. Neurology
+64:199–207.
+Gibbons CH, Freeman R, Tecilazich F, Dinh T, Lyons TE, Gnardellis C, Veves A (2013). The evolving natural history of neurophysiologic function in patients with well-controlled diabetes.
+J. Peripher. Nerv. Syst. 18:153–161.
+Greene DA, Sima AA, Stevens MJ, Feldman EL, Lattimer SA
+(1992). Complications: neuropathy, pathogenetic considerations. Diabetes Care 15:1902–1925.
+Malik RA, Williamson S, Abbott C, Carrington AL, Iqbal J,
+Schady W, Boulton AJ (1998). Effect of angiotensinconverting-enzyme (ACE) inhibitor trandolapril on human
+diabetic neuropathy: randomised double-blind controlled trial.
+Lancet 352:1978–1981.
+Oates PJ (2008). Aldose reductase, still a compelling target for
+diabetic neuropathy. Curr Drug Targets 9:14–36.
+Ota A, Kakehashi A, Toyoda F, Kinoshita N, Shinmura M, Takano
+H, Obata H, Matsumoto T, Tsuji J, Dobashi Y, Fujimoto
+WY, Kawakami M, Kanazawa Y (2013). Effects of long-term
+treatment with ranirestat, a potent aldose reductase inhibitor,
+on diabetic cataract and neuropathy in spontaneously diabetic
+torii rats. J Diabetes Res 2013:175901.
+Partanen J, Niskanen L, Lehtinen J, Mervaala E, Siitonen O,
+Uusitupa M (1995). Natural history of peripheral neuropathy
+in patients with non-insulin-dependent diabetes mellitus. N
+Engl J Med 333:89–94.
+Polydefkis M, Hauer P, Sheth S, Sirdofsky M, Grifﬁn JW,
+McArthur JC (2004). The time course of epidermal nerve
+ﬁbre regeneration: studies in normal controls and in people
+with diabetes, with and without neuropathy. Brain 127:
+1606–1615.
+Stavniichuk R, Shevalye H, Hirooka H, Nadler JL, Obrosova IG
+(2012). Interplay of sorbitol pathway of glucose metabolism,
+12/15-lipoxygenase, and mitogen-activated protein kinases in
+the pathogenesis of diabetic peripheral neuropathy. Biochem
+Pharmacol 83:932–940.
+Tesfaye S, Tandan R, Bastyr EJ 3rd, Kles KA, Skljarevski
+V, Price KL, Ruboxistaurin Study G (2007). Factors that
+impact symptomatic diabetic peripheral neuropathy in
+placebo-administered patients from two 1-year clinical trials.
+Diabetes Care 30:2626–2632.
+Van Acker K, Bouhassira D, De Bacquer D, Weiss S, Matthys
+K, Raemen H, Mathieu C, Colin IM (2009). Prevalence
+and impact on quality of life of peripheral neuropathy with
+or without neuropathic pain in type 1 and type 2 diabetic patients attending hospital outpatients clinics. Diabetes
+Metab 35:206–213.
+Vinik AI, Strotmeyer ES, Nakave AA, Patel CV (2008). Diabetic
+neuropathy in older adults. Clin Geriatr Med 24:407–435, v.
+Ziegler D, Low PA, Litchy WJ, Boulton AJ, Vinik AI, Freeman R,
+Samigullin R, Tritschler H, Munzel U, Maus J, Schutte K, Dyck
+PJ (2011). Efﬁcacy and safety of antioxidant treatment with
+alpha-lipoic acid over 4 years in diabetic polyneuropathy: the
+NATHAN 1 trial. Diabetes Care 34:2054–2060.
+
+Gordon, PhD, of Complete Medical Communications
+and was funded by Eisai Ltd. M. P., A. Z., M. N., and R.
+W. J. J. have nothing to disclose. J. A. received a grant
+from Eisai during the conduct of the study to set up
+and review the NCV data. V. B. reports receiving grants
+from Grifols, CSL Behring, Cebix, GSK, and Bionevia
+and is a consultant for Eisai, Daninippon, Sumitomo,
+Pﬁzer, Cebix, Bionevia, Grifols, CSL Behring, the FDA,
+and Health Canada. During the conduct of the study,
+both R. J. G. and K. L. B. were full-time employees
+of Eisai Ltd who were sponsors of the study. M. P.,
+J. A., M. N., V. B., and A. S. saw patients, researched
+data, interpreted data, reviewed all manuscript drafts,
+and contributed to its writing. R. J. G., K. L. B., and R.
+W. J. J. were involved in study design, data analysis,
+and interpretation, reviewed all manuscript drafts, and
+contributed to its writing. R. J. G. was the Guarantor.
+No data from this study have been previously published
+or presented publicly.
+
+References
+Bastyr EJ 3rd, Price KL, Bril V, Group MS (2005). Development
+and validity testing of the neuropathy total symptom score-6:
+questionnaire for the study of sensory symptoms of diabetic
+peripheral neuropathy. Clin Ther 27:1278–1294.
+Bril V, Buchanan RA (2004). Aldose reductase inhibition by
+AS-3201 in sural nerve from patients with diabetic sensorimotor polyneuropathy. Diabetes Care 27:2369–2375.
+Bril V, Buchanan RA (2006). Long-term effects of ranirestat
+(AS-3201) on peripheral nerve function in patients with
+diabetic sensorimotor polyneuropathy. Diabetes Care 29:
+68–72.
+Bril V, Hirose T, Tomioka S, Buchanan R, Ranirestat Study G
+(2009). Ranirestat for the management of diabetic sensorimotor polyneuropathy. Diabetes Care 32:1256–1260.
+Carrington AL, Shaw JE, Van Schie CH, Abbott CA, Vileikyte
+L, Boulton AJ (2002). Can motor nerve conduction velocity
+predict foot problems in diabetic subjects over a 6-year
+outcome period? Diabetes Care 25:2010–2015.
+Davis TM, Yeap BB, Davis WA, Bruce DG (2008). Lipid-lowering
+therapy and peripheral sensory neuropathy in type 2 diabetes:
+the Fremantle Diabetes Study. Diabetologia 51:562–566.
+Diabetes Control Complications Trial (DCCT) Research Group
+(1995). Effect of intensive diabetes treatment on nerve
+conduction in the Diabetes Control and Complications Trial.
+Ann Neurol 38:869–880.
+Dunnett CW (1955). A multiple comparison procedure for comparing several treatments with a control. J Am Stat Assoc
+50:1096–1121.
+Dunnett CW (1964). New tables for multiple comparisons with a
+control. Biometrics 20:482–491.
+Dyck PJ, O’Brien PC (1989). Meaningful degrees of prevention or
+improvement of nerve conduction in controlled clinical trials
+of diabetic neuropathy. Diabetes Care 12:649–652.
+Dyck PJ, Davies JL, Litchy WJ, O’Brien PC (1997). Longitudinal
+assessment of diabetic polyneuropathy using a composite
+score in the Rochester Diabetic Neuropathy Study cohort.
+Neurology 49:229–239.
+
+370
+
+
+===== PDF PAGE 9 of 9 (pdftotext -layout) =====
 Polydefkis et al.                                                           Journal of the Peripheral Nervous System 20:363–371 (2015)
 
 
@@ -602,4 +1531,85 @@ Additional Supporting Information may be found in the online version of this art
 
 
                                                                  371
+
+===== PDF PAGE 9 of 9 (reading order, same page) =====
+Polydefkis et al.
+
+Journal of the Peripheral Nervous System 20:363–371 (2015)
+
+Appendix. Investigators by country
+
+Dr. Vlaiculescu, S.C. TEHNOMED TRADING S.R.L. Dr.
+Bradescu, Institutul N.C. Paulescu.
+Russia: Dr. Gurieva, Federal SI Federal Bureau of
+Med.Social Expertise. Dr. Strokov, Moscow Medical
+Academy n. a. I. M. Sechenov. Dr. Suplotova, Tyumen
+State Medical Academy
+United Kingdom: Dr. Bain, Morriston Hospital. Dr.
+Whitelaw, Bradford Teaching Hospital NHS Foundation
+Trust. Dr. Rayman, The Ipswich Hospital NHS Trust. Dr.
+Stevens, Birmingham Heartlands Hospital.
+Canada: Dr. Aronson, LMC Endocrinology Centres
+(Toronto) Ltd. Dr. Belanger, Centre de Recherche Clinique de Laval. Dr. Bril, University of Toronto. Dr. Lasko,
+Manna Research. Dr. Nuttall, Quarry Family Medical
+Centre. Dr. Abdel-Salam, LMC Endocrinology Centres
+(Barrie) Ltd.
+USA: Dr. Polydefkis, Johns Hopkins University.
+Dr. Aronoff, Research Institute of Dallas P.A. Dr.
+Beydoun, University of Southern California. Dr. Cleeremans, NervePro Research. Dr. Gerard, Neurology
+Center Of Ohio. Dr. Ipp, Harbor UCLA Medical Center. Dr. Lawrence, Downeast Medical. Dr. Lerman,
+Jellinger and Lerman, PA. Dr. Licht, Coordinated Clinical Research. Dr. Lubin, National Clinical Research
+- Norfolk Inc. Dr. Magee, MedStar Clinical Research
+Center at Washington Hospital Center. Dr. Nakhle,
+Palm Medical Research Center. Dr. Nash, NeuroStudies.net, LLC. Dr. Burke, Comprehensive Clinical Development. Dr. Pellegrino, Central Arkansas Research.
+Dr. Rosenblit, Diabetes/Lipid Management Center. Dr.
+Rosenstock, Dallas Diabetes and Endocrine Center.
+Dr. Sang, Brigham & Women’s Hospital. Dr. Schmidt,
+Genova Clinical Research Inc. Dr. Selam, University
+Clinical Investigators Inc. Dr. Shaibani, Muscle & Nerve
+Center of Texas. Dr. Steel, Carolina Research Trials. Dr.
+Tuchman, Palm Beach Neurological Center. Dr. Vinik,
+Eastern Virginia Medical School. Dr. Penc, Upstate Clinical Research LLC. Dr. Fried, Omega Medical Research.
+Dr. Haugen, PRACS Institute. Dr. Warren, Physicians
+East P.A. Dr. Borresen, PMG Research of Charlotte
+LLC. Dr. Lin, Southern California Endocrine Center.
+
+Belgium: Dr. Chachati, Centre Hospitalier Hutois.
+Dr. Crenier, Hôpital Erasme. Dr. Philips, CHU
+Sart-Tilman.
+Estonia: Dr. Antsov, Pärnu Hospital. Dr. Braschinsky, Tartu University Hospital. Dr. Lepik, North Estonia
+Medical Centre Foundation. Dr. Toomsoo, East Tallinn
+Central Hospital.
+Germany: Prof. Ziegler, Heinrich-Heine-Universitaet
+Duesseldorf. Dr. Emrich, ZNS Hamburg. Prof. Forst,
+IKFE GmbH. Dr. Krause, medicoKIT. Dr. Reifschneider,
+Neuro Centrum Odenwald. Dr. Schlegel, Gemeinschaftspraxis.
+Hungary: Dr. Baranyai, Vas Megyei Markusovszky
+Korhaz Nonproﬁt Zrt. Dr. Dudas, Bekes Megyei
+Kepviselotestulet Pandy Kalman Korhaza. Dr. Gurzo,
+Bacs-Kiskun Megyei Onkormanyzat Korhaza. Dr. Salamon, Clinfan Kft.. Dr. Beke, Obudai Egeszsegugyi
+Centrum Kft. Dr. Szocs, Karolyi Sandor Korhaz. Dr.
+Biro, Biro Praxis Kft. Felnott Haziorvosi Rendelo.
+Dr. Becher, Sopron Medical Egeszsegugyi Szolgaltato Kft. Dr. Zsom, Kisteleki Tersegi Jarobeteg
+Szakellato Kft.
+India: Dr. Bantwal, St. John’s Medical College Hospital. Dr. Gupta, S. R. Kalla Memorial General Hospital. Dr. Srikanta, Jnana Sanjeevani Medical Centre.
+Dr. Yajnik, King Edward Memorial Hospital Research
+Centre. Dr. Abbas, Neuro Care Research Centre. Dr.
+Mohan, Diabetes Specialities Centre.
+Poland: Dr. Banach, Malopolskie Centrum
+Medyczne. Dr. Klimczak, Niepubliczny Specjalistyczny Zakład Opieki Zdrowotnej. Dr. Mader,
+NZOZ Praktyka Dentystyczno – Internistyczna Dr.
+Zytkiewicz – Jaruga, Regionalna Poradnia Diabetologiczna. Dr. Marcisz, Wojewódzki Szpital Specjalistyczny,
+Dr. Sowinski, Wojewodzki Zespół Specjalistycznej
+Opieki Zdrowotnej.
+Romania: Dr. Angelescu, Institutul N.C. Paulescu.
+Dr. Mindrescu, S.C. NICODIAB SRL. Dr. Negrisanu,
+Centrul Medical. Dr. Crisan, S.C. Rai Medicals S.R.L. Dr.
+Ionescu, Centrul Medical de Diagnostic si Tratament.
+
+Supporting Information
+Additional Supporting Information may be found in the online version of this article.
+
+371
+
 

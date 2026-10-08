@@ -1,5 +1,5 @@
 
-===== PDF PAGE 1 of 12 =====
+===== PDF PAGE 1 of 12 (pdftotext -layout) =====
    Acetyl-l-carnitine: a pathogenesis based treatment for
       HIV-associated antiretroviral toxic neuropathy
  Andrew M. Harta,d, *, Andrew D. H. Wilsona, *, Cristina Montovanid,
@@ -58,7 +58,64 @@ DOI: 10.1097/01.aids.0000131354.14408.fb
                                 ISSN 0269-9370 & 2004 Lippincott Williams & Wilkins                                             1549
 Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 2 of 12 =====
+===== PDF PAGE 1 of 12 (reading order, same page) =====
+Acetyl-l-carnitine: a pathogenesis based treatment for
+HIV-associated antiretroviral toxic neuropathy
+Andrew M. Harta,d, *, Andrew D. H. Wilsona, *, Cristina Montovanid,
+Colette Smithb, Margaret Johnsonc , Giorgio Terenghid and Mike Youlec
+Background: Nucleoside analogue reverse transcriptase inhibitors (NRTI) disrupt
+neuronal mitochondrial DNA synthesis, impairing energy metabolism and resulting in
+a distal symmetrical polyneuropathy (DSP), an antiretroviral toxic neuropathy (ATN)
+that causes signiﬁcant morbidity in HIV disease. Serum acetyl-L-carnitine (ALCAR)
+levels are decreased in neuropathy associated with NRTI therapy. ALCAR enhances
+neurotrophic support of sensory neurons and promotes energy metabolism, potentially
+causing nerve regeneration and symptom relief.
+Objective: To assess the efﬁcacy of oral ALCAR (1500 mg twice daily) for up to 33
+months in an open cohort of 21 HIV-positive patients with established ATN.
+Methods: Skin biopsies were excised from the leg before ALCAR treatment, at 6–12
+month intervals thereafter and from HIV-negative non-neuropathic controls. Fibre
+types in epidermal, dermal and sweat gland innervation were quantiﬁed immunohistochemically.
+Results: After 6 month’s treatment, mean immunostaining area for small sensory ﬁbres
+increased (epidermis 100%, P ¼ 0.006; dermis 133%, P , 0.05) by more than that for
+all ﬁbre types (epidermis 16%, P ¼ 0.04; dermis 49%, P , 0.05; sweat glands 60%,
+P , 0.001) or for sympathetic ﬁbres (sweat glands 41%, P , 0.0003). Compared with
+controls, epidermal, dermal and sweat gland innervation reached 92%, 80% and
+69%, respectively, after 6 month’s treatment. Innervation improvements continued
+(epidermis and dermis) or stabilized (sweat glands) after 24 month’s treatment.
+Neuropathic grade improved in 76% of patients and remained unchanged in 19%.
+HIV RNA load, CD4 and CD8 cell counts did not alter signiﬁcantly throughout the
+study.
+Conclusions: ALCAR treatment improves symptoms, causes peripheral nerve regeneration and is proposed as a pathogenesis-based treatment for DSP.
+& 2004 Lippincott Williams & Wilkins
+
+AIDS 2004, 18:1549–1560
+Keywords: acetyl-L-carnitine, neurons, AIDS, HIV, nerve regeneration,
+antiretroviral toxic neuropathy, reverse transcriptase inhibitors, neuropathy
+
+Introduction
+Antiretroviral toxic neuropathy (ATN) is the commonest HIV-associated distal symmetrical polyneuropathy
+
+(DSP) [1], causing significant morbidity in 10–35% of
+HIV-positive patients [2–4] and occurring in 11–66%
+of patients [1;5] taking nucleoside analogue reverse
+transcriptase inhibitor (NRTI) drug therapy. The di-
+
+From the a Blond McIndoe Centre, the b Department of Primary Care and Population Sciences and the c Royal Free Centre for HIV
+Medicine, Royal Free and University College Medical School, London and d Blond McIndoe Research Laboratories, University of
+Manchester, Manchester, UK.
+Correspondence to Dr M. Youle, Royal Free Centre for HIV Medicine, Royal Free Hospital, Pond St, London NW3 2QG, UK.
+Received: 23 January 2003; revised: 23 July 2003; accepted: 10 September 2003.
+*Joint ﬁrst authors
+DOI: 10.1097/01.aids.0000131354.14408.fb
+
+ISSN 0269-9370 & 2004 Lippincott Williams & Wilkins
+
+1549
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 2 of 12 (pdftotext -layout) =====
 1550   AIDS 2004, Vol 18 No 11
 
        deoxynucleotide analogue agents stavudine, zalcitabine        tative immunohistochemistry with antisera specific for
@@ -124,7 +181,108 @@ Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this ar
 
    Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 3 of 12 =====
+===== PDF PAGE 2 of 12 (reading order, same page) =====
+1550
+
+AIDS 2004, Vol 18 No 11
+
+deoxynucleotide analogue agents stavudine, zalcitabine
+and didanosine are implicated in its pathogenesis [1,4,6]
+and changes in prescribing pattern of these drugs,
+including dose reduction, have led to a reduction in
+the incidence of polyneuropathy [4]. A feature of ATN
+is development of dysaesthetic pain [4], the severity of
+which is associated with elevated plasma levels of HIV1 RNA [7]; this pain may be unresponsive to analgesia,
+even in combination with anticonvulsant drugs [1],
+tricyclic antidepressants [3], mexiletine [3] or peptide T
+[8]. Withdrawal of certain NRTI drugs often becomes
+necessary [1,4] since there are no licensed effective
+therapies, although lamotrigine [9] and recombinant
+human nerve growth factor (NGF) [10] have shown
+some benefit. Ideally a pathogenesis-based treatment
+for ATN would allow patients to continue NRTI
+therapy, still the keystone of current highly active
+antiretroviral therapy regimens [11].
+ATN is thought to result from disrupted mitochondrial
+oxidative metabolism [6,12] secondary to reduction in
+neuronal mitochondrial DNA content [6,13,14]. Consequently, neurons are unable to meet the metabolic
+requirements of their long peripheral axons, which
+undergo die-back and result in the glove and stocking
+distribution of ATN [1]. In keeping with this die-back
+hypothesis, epidermal innervation is reduced in ATN
+[15,16], although the innervation of the dermis and
+sweat glands remains to be quantified. Development of
+abnormal sweating patterns in ATN suggests that an
+autonomic neuropathy also develops, which may be a
+factor in nocturnal sweating, common in HIV disease
+[17].
+A proposed therapeutic agent for DSP is acetyl-Lcarnitine (ALCAR), the acetyl ester of L-carnitine.
+ALCAR is vital for normal mitochondrial function,
+being a transport molecule for free fatty acids and an
+important acetyl-group donor in high-energy metabolism and free fatty acid -oxidation [18,19]. Also,
+ALCAR potentiates NGF actions [20–22], promotes
+peripheral nerve regeneration [23,24] and is neuroprotective in vitro [19,25], in vivo [26] and in animal models
+of diabetic neuropathy [27]. ALCAR has analgesic
+properties, possibly mediated by increasing adrenocorticotrophic hormone and -endorphin levels [28], while
+L-carnitine also has favourable immunological benefits
+[29] in HIV infection. ALCAR treatment has been
+shown to improve pain scores and electrophysiological
+parameters in a placebo-controlled study in diabetics
+with DSP [30]. Short-term ALCAR treatment [31] has
+shown symptomatic benefits in ATN, although it is
+unclear if this effect is long lasting because of neuronal
+regeneration or merely is an analgesic effect.
+This study was designed to determine the effect of
+long-term ALCAR therapy upon symptoms and cutaneous innervation in patients with ATN, using quanti-
+
+tative immunohistochemistry with antisera specific for
+fibre types. This technique has been used in HIVassociated sensory neuropathy [16] and has been found
+to be more sensitive than clinical assessment in diabetic
+and leprosy neuropathy [32–34].
+
+Methods
+Clinical details
+This study was performed in agreement with the terms
+of the Helsinki Declaration, after appropriate review by
+the local research ethics committee. The study recruited five non-neuropathic HIV-negative controls
+and an observational cohort of 21 patients with established ATN (grade 0–4/4 by analgesic requirement,
+where 0 is asymptomatic, 1 is ATN but no analgesia
+required, 2 is ATN requiring non-opioid analgesics, 3
+is opioid analgesics required, and 4 is pain uncontrolled
+by opioid analgesia). Patients commenced treatment
+between March 1999 and October 2001. Selection
+criteria were age 20–60 years, either sex, documented
+HIV positive by a licensed HIV antibody enzymelinked immunosorbent assay (Amplicor version 1.5 or
+Cobas version 1.5; Roche Molecular Systems, Branchburg, New Jersey, USA), and stable ATN diagnosis
+(onset within 6–12 months of commencing NRTI
+therapy, symptoms stable for 2 months, and no other
+neuropathic aetiological factors or DSP-associated
+therapies). The controls tested negative for HIV antibodies within the previous 3–12 months and had no
+neuropathic symptoms, no history of diabetes, metabolic disorders, alcohol abuse or treatment with potentially neurotoxic agents.
+Patients’ clinical grade of DSP was monitored while
+receiving ALCAR 1500 mg twice daily (500 mg tablets; Sigma-Tau, Italia), and a record of changes in
+other medications was kept.
+Skin biopsies (1 cm 3 0.5 cm) were excised from a
+standardized point in the lower third of the more
+symptomatic leg as an outpatient procedure under local
+anaesthesia. Wounds were closed with 4/0 Surgipro
+sutures (Surgipro, Chicago, Illinois, USA), which were
+removed after 14 days. A maximum of four biopsies
+were taken from each patient, the first prior to
+commencing ALCAR therapy (pretreatment), and then
+subsequently from the same leg at 6–12 month intervals while on treatment. A single biopsy was taken
+from an equivalent site in each control.
+
+Immunostaining and quantiﬁcation
+Biopsies were fixed in Zamboni’s solution (16 h at
+48C) prior to equilibration in phosphate-buffered saline,
+0.1% sodium azide, 15% sucrose, followed by rapid
+freezing in OCT compound (Tissuetec, Elkhart, In-
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 3 of 12 (pdftotext -layout) =====
                                                                         Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.    1551
 
 diana, USA). Both pre- and post-treatment biopsies                      camera (Model 1-3-0; Diagnostic Instruments, Sterling
@@ -201,7 +359,124 @@ captured for analysis using a high-resolution digital                   staining
 
 Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 4 of 12 =====
+===== PDF PAGE 3 of 12 (reading order, same page) =====
+Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.
+
+diana, USA). Both pre- and post-treatment biopsies
+were processed together to eliminate variabilities between staining runs and all staining and quantification
+were blinded. Systematic random samples of 15 m
+cryosections from each biopsy [35] were collected onto
+glass slides coated with Vectabond (Vector, Peterborough, UK). Sections were permeabilized in 0.2%
+Triton-X (BDH Laboratory Supplies, Bristol, UK), and
+stained by indirect immunohistochemistry using primary antisera against polyclonal rabbit antisera for
+protein gene product 9.5 (PGP; Affiniti, Chesham,
+UK), calcitonin gene-related peptide (CGRP; Affiniti)
+and vasoactive intestinal polypeptide (VIP; Affiniti).
+PGP antibodies identify all fibre types as it is a
+constitutive component. CGRP antibodies are specific
+for C and A sensory fibres and VIP antibodies are
+specific for cholinergic sympathetic efferent fibres.
+Staining was visualized using a fluorescein isothiocyanate-conjugated secondary antibody (conjugated goat
+anti-rabbit serum, Vector).
+After staining, each section was examined by fluorescence microscopy using a 203 objective. For each
+antibody, a random sample of six visual fields, including
+both epidermis and dermis (PGP and CGRP) or
+subcutaneous sweat glands alone (PGP and VIP), was
+captured for analysis using a high-resolution digital
+
+1551
+
+camera (Model 1-3-0; Diagnostic Instruments, Sterling
+Heights, Michigan, USA). The immunostaining area in
+each captured image was quantified by image analysis
+using Image-Pro-Plus (version 4.0; MediaCybernetics,
+Silver Spring, Maryland, USA) software. First, the
+colour immunofluorescent image was converted into
+greyscale; then the area of interest (epidermis, dermis
+or sweat gland) was outlined by tracing its margins. An
+intensity threshold was applied to differentiate bright
+immunostaining from any low-level background
+autofluorescence, and the immunostaining area was
+calculated automatically. The immunostaining area
+approximates closely the actual area of each nerve fibre
+type, thus permitting quantification of cutaneous innervation by each fibre type.
+To facilitate comparisons, the immunostaining area was
+expressed as a fraction of the total frame area of
+epidermis, dermis or sweat glands. From six figures for
+each patient at each time point, a mean value (fractional area of immunostaining) was calculated and used
+for statistical comparisons.
+
+Statistical methods
+The outcomes were analysed using generalized linear
+models. The model fit was best when the immunostaining fractional areas were fitted on a log scale, so
+
+Table 1. Patient demographics and clinical status at recruitment.
+Category
+Total No. patients
+Median age at starting ALCAR treatment [years (range)]
+Older than 40 years [No. (%)]
+Therapy status
+Ever taken ARV [No. (%)]
+Exposed to all three classes of ARV [No. (%)]
+Exposed to NNRTI and NRTI only [No. (%)]
+Exposed to PI and NRTI only [No. (%)]
+Median No. ARV exposed to (range)
+Currently on treatment [No. (%)]
+Currently on HAART [No. (%)]a
+Median viral load [log copies/ml (IQR)]
+Viral load , 400 copies/ml [No. (%)]
+Median CD4 cell count [3 106 cells/l (IQR)]
+CD4 cell count . 2503 106 cells/l [No. (%)]
+Median CD4 cell % (range)
+Median CD4/CD8 ratio (IQR)
+HIV clinical stage (No.)
+Asymptomatic
+Symptomatic
+AIDS
+Clinical grade of peripheral neuropathyb
+0
+1
+2
+3
+Median duration of neuropathy [months (range)]b
+
+21
+40 (29–60)
+11 (52%)
+21 (100%)
+9 (41%)
+7 (32%)
+6 (27%)
+6 (3–10)
+17 (77%)
+16 (73%)
+, 400 (, 50, 26 900)
+9 (43%)
+286 (155, 423)
+11 (52%)
+15 (7)
+0.19 (0.14, 0.39)
+4
+8
+8
+0
+8
+10
+3
+11 (2–41)
+
+ALCAR, acetyl-L-carnitine; ARV, antiretroviral therapy; NNRTI, non-nucleoside analogue reverse
+transcriptase inhibitor; PI, protease inhibitor; NRTI, nucleoside reverse transcriptase inhibitor;
+HAART, highly active antiretroviral therapy; IQR, interquartile range.
+a
+Deﬁned as at least three ARV including either a PI, a NNRTI or abacavir.
+b
+See Methods.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 4 of 12 (pdftotext -layout) =====
 1552   AIDS 2004, Vol 18 No 11
 
 
@@ -219,7 +494,22 @@ Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this ar
 
    Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 5 of 12 =====
+===== PDF PAGE 4 of 12 (reading order, same page) =====
+1552
+
+AIDS 2004, Vol 18 No 11
+
+Fig. 1. Effect of acetyl-L-carnitine (ALCAR) treatment on cutaneous innervation in all ﬁbre types. Epidermis and dermis: normal
+control (a), in DSP (b), after ALCAR treatment (c). Sweat glands: normal control (d), in DSP (e), after ALCAR treatment (f). In
+established distal symmetrical polyneuropathy (DSP), nerve ﬁbres immunoreactive for protein gene product 9.5 were scarce,
+and atrophic in both the epidermis and dermis (b), and in the sweat glands (e). After ALCAR treatment, innervation in the dermis
+(c) and sweat glands (f) increased to normal levels (a,d). Although epidermal innervation also increased (c) it remained less than
+that found in normal controls (a). Scale bar ¼ 40 m.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 5 of 12 (pdftotext -layout) =====
                                                                     Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.          1553
 
 
@@ -238,7 +528,23 @@ after ALCAR treatment (f), reaching levels found in non-neuropathic controls (d)
 
 Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 6 of 12 =====
+===== PDF PAGE 5 of 12 (reading order, same page) =====
+Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.
+
+1553
+
+Fig. 2. Effect of acetyl-L-carnitine (ALCAR) treatment on cutaneous innervation by small sensory and sympathetic sudomotor
+ﬁbres. Nerve ﬁbres were immunostained with either calcitonin gene-related peptide (a–c) or vasoactive intestinal polypeptide
+(d–f) antisera. Innervation is reduced in established distal symmetrical polyneuropathy (b,e) compared with normal innervation
+(a,d), particularly dermal and epidermal innervation by small sensory ﬁbres (b). After ALCAR treatment (c,f), innervation by small
+sensory (C and A) ﬁbres increases to supranormal levels in the dermis, although epidermal innervation remains sparse (c)
+compared with non-neuropathic controls (a). Similarly, innervation of the sweat glands by cholinergic efferent ﬁbres increases
+after ALCAR treatment (f), reaching levels found in non-neuropathic controls (d). Scale bar ¼ 40 m.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 6 of 12 (pdftotext -layout) =====
 1554   AIDS 2004, Vol 18 No 11
 
        that parameter estimates given are multiplicative in-        patients was unaffected by treatment, and one patient
@@ -304,7 +610,113 @@ Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this ar
 
    Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 7 of 12 =====
+===== PDF PAGE 6 of 12 (reading order, same page) =====
+1554
+
+AIDS 2004, Vol 18 No 11
+
+that parameter estimates given are multiplicative increases. Each observation (i.e., each individual biopsy at
+each time point) was included individually in the
+model, which assumed normal covariance structure,
+with the correlation between individual patient’s values
+accounted for using generalized estimating equations.
+Time-on-therapy covariate was dichotomized into a
+categorical variable because of evidence of a non-linear
+trend in the data. Biopsies taken between 3 and 9
+months after starting treatment were taken to be the
+value at 6 months. Similarly, values at 12, 18 and 24
+months were that time point 3 months. Each variable
+was fitted into the model compared with the baseline
+immunostaining fractional area variables to gain an
+estimate of the average increase rate from baseline to
+that time point. Parameter estimates of increase in
+immunostaining fractional area on therapy were adjusted for potential confounders. These were baseline
+CD4 cell count (, 250 or . 250 3 106 cells/l), baseline age (, 40 or . 40 years), clinical grade of
+peripheral neuropathy (grade 1, 2 and 3) and antiretroviral treatment history (exposed to more or less than
+six different drugs). Models were examined for goodness of fit using residual plots and log-likelihood tests.
+The data were analysed using an intent-to-treat analysis. Analysis was performed using SAS version 8.0 (SAS
+Institute Inc, Cary, North Carolina, USA). All P values
+are two sided.
+
+Results
+Clinical and immunological parameters
+Baseline data and patient demographics are summarized
+in Table 1. Median age at recruitment was 40 years
+(range, 29–60) for neuropathic patients, and 32 years
+(range, 29–53) for controls. In patients with established
+ATN, the median neuropathy duration prior to recruitment was 11 months (range, 2–41). None had a history
+of diabetes, excessive alcohol consumption or metabolic disorders. The median follow-up length was 14
+months (range, 5–33). After the baseline biopsy, 11
+patients had one further biopsy, 10 had two and 1 had
+three. During follow-up, two patients died. The causes
+of death were Mycobacterium avium intracellularae and
+cytomegaloviral infection for one patient, and liver
+failure for the second.
+Clinical grade of neuropathic pain improved in 15 of
+21 patients overall; seven of eight patients whose
+baseline grade was 1 and four of ten whose baseline
+was grade 2 became asymptomatic (grade 0); two of
+ten patients with baseline grade 2 improved to grade 1;
+one of three patients improved from grade 3 to 1 and
+one of three to grade 0. The neuropathic grade of five
+
+patients was unaffected by treatment, and one patient
+progressed from grade 1 to 2.
+Although not formally documented, those who stopped
+ALCAR treatment suffered rapid symptom worsening,
+including return of dysaesthesiae. ALCAR treatment
+was well tolerated with no side effects, no adverse
+events or wound complications.
+Three patients changed antiretroviral medication during
+the study period (one from didanosine to lamivudine at
+month 12 because of raised amylase, two from stavudine
+to nevirapine because of persistent symptoms of ATN).
+Baseline median CD4 cell count was 286 3 106 cells/l
+[interquartile range (IQR), 155–423] and CD8 cell
+count was 1162 3 106 cells/l (IQR, 794–1918). These
+values did not change significantly at 6 months (CD4
+cell count, P ¼ 0.9; CD8 cell count, P ¼ 0.9) and
+remained stable throughout the study. CD4/CD8 ratios
+also remained stable, with baseline median 0.19 (IQR,
+0.14–0.39) not altered significantly at 6 months (P ¼
+0.7) or thereafter. Median viral load values showed a
+similar pattern, with baseline median , 400 copies/ml
+(IQR, , 50 to 26 900) and P ¼ 0.4 when compared
+with values at 6 months.
+
+Morphology of cutaneous innervation
+A normal cutaneous innervation pattern was seen in
+control biopsies, which derived from the reticular
+dermal plexus branching into plexi enveloping sweat
+glands or into the finer subepidermal plexus running
+parallel to the skin surface within the papillary dermis
+(Figs 1a and 2a). These fibres terminated within
+dermo-epidermal junction or entered the epidermis as
+free-end terminals. Within the epidermis, fibres ran
+perpendicular to the skin surface or ended in fine
+branches lying parallel to the stratum corneum. PGPimmunoreactive fibres predominated in all skin regions
+(Fig. 1a,d), while CGRP-positive fibres lay principally
+in the subepidermal plexus and deeper epidermal layers
+(Fig. 2a). VIP-positive fibres enveloped the sweat
+glands (Fig. 2d).
+In patients with established DSP, there was an almost
+complete absence of fibres within the epidermis, the
+subepidermal plexus (Figs 1b and 2b) and around the
+sweat glands (Figs 1e and 2). ALCAR treatment was
+associated with normalization of morphology (Figs 1c,f
+and 2c,f), although epidermal fibres remained less
+evident than in control skin.
+
+Quantiﬁcation: all ﬁbre types
+Initial analysis compared the baseline PGP immunostaining fractional area to that found after 6 months of
+ALCAR treatment (Table 2). Subsequently, the median
+and range of patients’ immunostaining fractional area at
+baseline, 6, 12 and 18 months were calculated and
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 7 of 12 (pdftotext -layout) =====
                                                                         Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.       1555
 
                    Table 2. Effect of acetyl-L-carnitine (ALCAR) treatment for 6 months upon cutaneous innervation.
@@ -374,7 +786,140 @@ Dermal CGRP-positive fibres were significantly re-                      diagnose
 
 Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 8 of 12 =====
+===== PDF PAGE 7 of 12 (reading order, same page) =====
+Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.
+
+1555
+
+Table 2. Effect of acetyl-L-carnitine (ALCAR) treatment for 6 months upon cutaneous innervation.
+Median fractional area of immunostaining [3 102
+(minimum–maximum range)]
+Primary antibody
+and region of skin
+examined
+
+Baseline
+
+Protein gene product 9.5
+Epidermis
+0.19 (0.05–0.45)
+Dermis
+0.35 (0.04–0.65)
+Sweat gland
+1.5 (0.83–2.06)
+Calcitonin gene-related peptide
+Epidermis
+0.01 (0.00–0.04
+Dermis
+0.09 (0.01–0.18)
+Vasoactive intestinal polypeptide
+Sweat glands
+1.5 (0.83–2.06)
+a
+
+After 6 months
+ALCAR (n ¼ 16)
+
+Control sample
+(n ¼ 5)
+
+P valuea
+
+0.22 (0.07–0.5)
+0.52 (0.23–1.85)
+2.4 (1.7–7.0)
+
+0.24 (0.15–0.35)
+0.65 (0.59–0.99)
+3.5 (3.3–7.0)
+
+0.04
+0.05
+, 0.0001
+
+0.02 (0.00–0.08)
+0.21 (0.06–0.56)
+
+0.05 (0.02–0.24)
+0.12 (0.10–0.28)
+
+0.006
+, 0.0001
+
+2.11 (1.18–5.67)
+
+3.7 (2.4–5.2)
+
+0.0003
+
+Comparison between biopsies at baseline and after 6 months of ALCAR treatment.
+
+plotted against comparable values obtained from HIVnegative controls (Fig. 3).
+The effect of ALCAR treatment upon cutaneous
+innervation as determined by quantitative immunohistochemistry, with biopsy intervals from 6 to 24
+months, is summarized in Table 3. Each skin area
+showed significant overall immunostaining increases
+during the course of ALCAR treatment. When compared with controls, patients with established DSP
+exhibited reduced total innervation of epidermis (79%
+of control), dermis (54%) and, most markedly, sweat
+glands (43%) (Table 2; Fig. 3). On average, after 6
+months of ALCAR treatment, the PGP immunostaining percentage in epidermis increased 1.34 times from
+baseline [95% confidence interval (CI), 1.06–1.70],
+equivalent to a 34% increase. After 12 months of
+ALCAR treatment, the patients had, on average, a 2.01
+times increase in epidermal PGP-immunoreactive fibres
+(equivalent to 101% increase) compared with baseline
+(95% CI, 1.45–2.77; Table 3).
+After 6 months of ALCAR treatment, PGP-immunoreactive fibre increase in the dermis was 1.65 times
+than at baseline, equivalent to a 65% increase (Table 3).
+Compared with HIV-negative controls, total epidermal
+and dermal innervation reached normal range within 6
+months of commencing ALCAR treatment and thereafter remained supranormal (Fig. 3), with an overall
+statistically significant increase over 24 months (Table
+3). After 6 months of ALCAR treatment, PGPimmunoreactive fibres around sweat glands showed a
+1.75 times relative increase over baseline, corresponding to a 75% increase (Table 3). This increase remained
+within normal control range for the remaining treatment period (Fig. 3) and persisted up to the last analysis
+point at 24 months, with the overall increase being
+very highly significant (P , 0.0001; Table 3).
+
+Quantiﬁcation: small sensory (C, Aä) ﬁbres
+Dermal CGRP-positive fibres were significantly re-
+
+duced (75% of control) in established DSP, while
+epidermal innervation was almost absent (20% of
+control). Highly significant increases occurred in both
+epidermal (mean 100%; P ¼ 0.006) and dermal (mean
+133%; P , 0.0001) innervation after 6 months of
+ALCAR treatment, such that mean immunostaining
+fractional area reached 40% of control in epidermis,
+and 175% of control in dermis (Table 2).
+Six months of ALCAR treatment increased the proportion of all nerves (PGP positive), which displayed
+CGRP immunoreactivity in both epidermis (4% pretreatment; 8% at the 6 month biopsy; 36% in controls),
+and dermis (22% pretreatment; 44% at the 6 month
+biopsy; 19% in controls) (Table 2). These CGRP
+staining increases in both areas were sustained at all
+time points up to 24 months, with an overall statistically significant immunostaining increase over the study
+duration (P < 0.0001; Table 3).
+
+Quantiﬁcation: sympathetic sudomotor ﬁbres
+In patients with established ATN, the reduction in
+sympathetic innervation of the sweat glands (VIPimmunoreactive fibres) (41% of control) was similar to
+the reduction in their total innervation (43% of control
+for PGP-immunoreactive fibres; Table 2). Sympathetic
+innervation increased by 41% (P ¼ 0.0003) after 6
+months of ALCAR treatment (Table 2). The proportion of total innervation (PGP positive) that was VIP
+immunoreactive remained similar to controls (pretreatment 84%; post-treatment 85%; control 76%). The
+increase observed at 6 months was sustained up to 24
+months of treatment, with an overall statistically significant increase (P , 0.0001; Table 3).
+
+Discussion
+In this patient cohort, NRTI-induced DSP (ATN) was
+diagnosed by a neurologist. All patients had stable
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 8 of 12 (pdftotext -layout) =====
 1556   AIDS 2004, Vol 18 No 11
 
                                                                                                                        Patients on ALCAR
@@ -474,7 +1019,135 @@ Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this ar
 
    Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 9 of 12 =====
+===== PDF PAGE 8 of 12 (reading order, same page) =====
+AIDS 2004, Vol 18 No 11
+
+Fractional immunostaining
+(⫻10⫺2)
+
+1556
+
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+Patients on ALCAR
+Control median values
+Control lower range
+Control upper range
+
+PGP Epidermis
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+Time since commencement of ALCAR (months)
+
+Fractional immunostaining
+(⫻10⫺2)
+
+PGP Dermis
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+0
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+Fractional immunostaining
+(⫻10⫺2)
+
+Time since commencement of ALCAR (months)
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+PGP Gland
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+Time since commencement of ALCAR (months)
+
+Fig. 3. Plots of the mean of all treated individual’s mean fractional immunostaining for protein gene product 9.5 (PGP) in each
+areas of cutaneous innervation at each time point up to 18 months. Observations [medians and ranges (non-parametric)] shown
+as occurring at 6, 12 and 18 months occurred in the windows 3–9, 9–15 and 15–24 months, respectively, after starting acetyl-Lcarnitine (ALCAR) treatment. Plotted with dotted lines on the same graphs are the mean percentage immunostaining levels from
+the ﬁve controls (shown in pink) and the upper and lower mean percentage immunostaining obtained by a control (in black and
+brown, respectively). DSP, distal symmetrical polyneuropathy.
+
+ATN prior to recruitment, making spontaneous resolution unlikely to have accounted for the changes in
+symptoms and innervation reported here.
+Quantification of cutaneous innervation has previously been found to correlate with clinical tests of
+sensory function in leprosy [34] and diabetic neuropathy [33], where immunohistochemical changes preceded those of sensory testing during disease
+progression [32]. The morphology of cutaneous
+innervation in DSP has previously been described
+qualitatively, and the density of epidermal fibres
+
+shown to be reduced along a proximal–distal gradient
+in the limb in DSP [14] and ATN [15]. Epidermal
+nerve fibre density has recently been described as a
+therapeutic outcome measure in HIV [16]; however,
+fibre counts do not assess the health of surviving
+fibres, and atrophy or regeneration of fibres needs to
+be determined by immunostaining area quantification,
+as used in this study.
+Since PGP is a constitutive component of peripheral
+nerve fibres, any decrease in immunoreactivity will
+reflect actual loss or atrophy of fibres rather than
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 9 of 12 (pdftotext -layout) =====
                                                                        Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.    1557
 
                    Table 3. Improvement in cutaneous innervation in DSP patients over 24 months of acetyl-L-
@@ -551,7 +1224,151 @@ reduced function of the surviving sensory fibres. In                  the incomp
 
 Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 10 of 12 =====
+===== PDF PAGE 9 of 12 (reading order, same page) =====
+Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.
+
+1557
+
+Table 3. Improvement in cutaneous innervation in DSP patients over 24 months of acetyl-Lcarnitine (ALCAR) treatment.
+Primary antibody and
+region of skin examined
+PGP epidermis
+
+PGP dermis
+
+CGRP epidermis
+
+CGRP dermis
+
+PGP sweat gland
+
+VIP sweat gland
+
+Duration
+treatment
+(months)a
+
+Relative increase in fractional
+immunostaining from baseline
+(95% conﬁdence interval)
+
+6
+12
+18
+24
+6
+12
+18
+24
+6
+12
+18
+24
+6
+12
+18
+24
+6
+12
+18
+24
+6
+12
+18
+24
+
+1.34 (1.06–1.70)
+2.01 (1.45–2.77)
+2.83 (2.09–3.78)
+3.67 (2.29–5.81)
+1.65 (1.35–2.01)
+2.51 (1.90–3.32)
+2.64 (2.03–3.39)
+2.77 (1.84–4.18)
+1.54 (1.08–2.18)
+2.16 (1.35–3.46)
+2.10 (1.25–3.53)
+2.23 (1.17–4.22)
+2.92 (2.32–3.71)
+3.03 (2.20–4.22)
+2.66 (1.93–3.63)
+3.97 (2.48–6.30)
+1.75 (1.80–2.41)
+2.10 (1.65–2.46)
+2.01 (1.72–2.51)
+2.08 (1.57–2.77)
+1.82 (1.52–2.18)
+1.97 (1.43–2.69)
+2.05 (1.80–2.34)
+1.72 (1.34–2.30)
+
+P valueb
+, 0.0001
+
+, 0.0001
+
+, 0.0001
+
+, 0.0001
+
+, 0.0001
+
+, 0.0001
+
+PGP, protein gene product 9.5; CGRP, calcitonin gene-related peptide; VIP, vasoactive intestinal
+polypeptide.
+Patients assessed: 16 at 6 months; 6 at 12 months; 9 at 18 months; 3 at 24 months.
+b
+The P value in each category is a global evaluation indicating that there is a sustained change
+from baseline over all the different time points. All models adjusted for prior antiretroviral
+therapy exposure, baseline CD4 cell count, baseline viral load, clinical grade of peripheral
+neuropathy and age.
+a
+
+reduction in function of surviving fibres, corresponding
+to decreased immunoreactivity for specific fibre-type
+neuropeptide transmitters (e.g., CGRP, VIP). In established ATN, the symptoms reflect a cutaneous innervation reduction of the lower leg, with epidermal
+innervation being most affected, consistent with the
+die-back hypothesis of sensory neuropathy [4]. There is
+also marked atrophy of dermal and sweat gland plexi.
+This cutaneous denervation may explain why neuropathic symptoms frequently do not begin to resolve for
+some weeks after starting ALCAR treatment and may
+then continue to improve for many months, since this
+time frame matches the slow rate at which peripheral
+nerves regenerate.
+As expected from the ATN dysaesthetic algesic symptomatology, small sensory (C, A) fibres are most
+affected, and we have demonstrated that these fibres
+show the greatest reduction in immunostaining area
+when compared with controls. Furthermore, the proportion of CGRP:PGP-positive fibres was markedly
+reduced in epidermis from neuropathic patients (ATN
+4%; control 36%), implying loss of epidermal fibres and
+reduced function of the surviving sensory fibres. In
+
+contrast, fibre loss or atrophy may be the predominant
+feature in sweat glands, since the VIP:PGP ratio (ATN
+84%; control 76%) is relatively preserved.
+Six months of oral ALCAR treatment resulted in
+significant increases in the innervation in epidermis,
+dermis and sweat glands, an improvement maintained
+throughout the treatment for all patients. The results
+demonstrate that dermal PGP-immunostaining nerve
+fibres regenerated sufficiently to reach the range found
+in normal skin. Intraepidermal fibres also regenerated,
+although more gradually. This difference in regrowth
+rate in separate skin areas is unsurprising as reinnervation occurs more slowly in epidermis than in other
+tissues [36].
+The increased ratio of CGRP and VIP to PGP
+immunostaining found after ALCAR treatment suggests that regenerating fibres may be functional,
+although electrophysiological and sensory testing will
+be required for confirmation. The increase in dermal
+CGRP immunoreactivity to supranormal levels after
+long-term treatment with ALCAR probably reflects
+the incomplete epidermal regeneration, hence the
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 10 of 12 (pdftotext -layout) =====
 1558   AIDS 2004, Vol 18 No 11
 
        anterogradely transported CGRP accumulated in the             of its role in preventing NRTI toxicity. Also, patients
@@ -617,7 +1434,107 @@ Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this ar
 
    Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 11 of 12 =====
+===== PDF PAGE 10 of 12 (reading order, same page) =====
+1558
+
+AIDS 2004, Vol 18 No 11
+
+anterogradely transported CGRP accumulated in the
+dermal fibres through a distal ‘damming’ effect, as
+described in early diabetic neuropathy [32].
+ALCAR treatment resulted in significant reduction in
+neuropathic pain grade experienced by the patients
+after long-term treatment. However, a randomized
+controlled trial utilizing a validated visual analogue pain
+scale is required to demonstrate conclusive symptomatic
+benefits. Such a trial is now underway to determine the
+functional effect of ALCAR treatment in preventing
+ATN. While there was no placebo arm to this study,
+the natural history of untreated DSP suggests that the
+continuous and long-term beneficial effects found in
+this patient cohort resulted from ALCAR treatment.
+The mechanism underlying the effects of ALCAR is
+unclear. Although ATN pathogenesis has not been
+clarified, the DNA polymerase-ª hypothesis remains
+the most likely explanation [14]. In eukaryote cells,
+DNA formed from individual deoxynucleotide trisphosphates by DNA polymerase, and the ª- and -isoforms
+are significantly inhibited by the dideoxynucleotide
+trisphosphate NRTI [6]. Unlike nuclear DNA replication, mitochondrial DNA replication is dependent
+upon the ª-isoform, which is most inhibited in nonmitogenic cells where only mitochondrial DNA is
+replicated [6,14]. Because of its proximity to free
+radical species generated by the respiratory chain complexes, mitochondrial DNA is particularly liable to
+damage. Since no mitochondrial DNA repair mechanisms exist, overall oxidative metabolic function must be
+maintained by replication [6]. Hence by impairing
+mitochondrial DNA replication, a NRTI reduces the
+cell capacity for oxidative phosphorylation, the critical
+energy pathway in neurons. Consequently, neurons
+may apoptose [37] or fail to meet the metabolic
+requirements for maintaining long peripheral axons,
+resulting in die-back glove and stocking neuropathy.
+ALCAR treatment may counteract the dideoxynucleotide trisphosphate NRTI toxicity (ATN) by several
+mechanisms. First, it may reduce mitochondrial DNA
+damage by a direct antioxidant effect [38,39]. Second,
+ALCAR facilitates mitochondrial homeostasis of acetylcoenzyme A, promotes long-chain free fatty acid
+transport across mitochondrial membranes [18] and, via
+regulation of malonyl-coenzyme A, promotes cytosolic
+free fatty acid oxidation [40]. By promoting glucose
+utilization and high-energy substrate oxidative metabolism, ALCAR improves neuronal metabolic capacity
+[41]. In addition, ALCAR may facilitate distal neurotrophic support, particularly of myelinated (A) and
+unmyelinated (C) fibres, since it increases NGF binding
+capacity [22], enhances the response to NGF [21] and
+promotes neurite extension in response to NGF [19].
+Furthermore, ALCAR promotes peripheral nerve regeneration [23,30] and function [42–45] independently
+
+of its role in preventing NRTI toxicity. Also, patients
+with NRTI-associated peripheral neuropathy have
+reduced serum ALCAR levels, which is not seen in
+asymptomatic HIV-positive controls [46]. ALCAR
+penetrates the blood–brain barrier [47], and serum
+levels can be increased by its oral or parenteral administration [48,49], which also reverses the depletion
+occurring in peripheral nerves of diabetic rats [27].
+ALCAR may offer additional benefits in HIV infection management since the mitochondrial DSP pathogenesis shares similarities with that of the
+lipodystrophy syndrome [50], associated with highly
+active antiretroviral therapy [51]. Lipodystrophy might
+be responsive to ALCAR treatment, although an open
+small uncontrolled study of ALCAR in HIV-infected
+individuals with facial wasting showed no clear benefit
+[52]. Furthermore, the related compound L-carnitine
+(with which ALCAR equilibrates in vivo) improves
+CD4 T cell counts by limiting ceramide production
+and apoptosis [53–56], and may also improve general
+health in HIV disease by promoting mononuclear cell
+proliferation [53], serum lipid profiles [54], and exercise capacity [57]. In this study, an oral dose of
+ALCAR 1500 mg twice daily was safe, well tolerated
+and, unlike with recombinant human NGF treatment
+[10], no significant side effects were noted. ALCAR
+treatment was not associated with any progression of
+HIV infection, since viral load, CD4/CD8 ratio, CD4
+cell count and CD8 cell count remained stable
+throughout.
+Although NRTI agents have been partly superseded by
+other agents such as protease inhibitors, they remain
+fundamental for combination therapy [4,11] and are
+likely to remain important components in HIV management for the foreseeable future [4]. Peripheral
+neuropathy has been the principal complication limiting the use of these agents [1,4] and ALCAR may now
+offer an effective, pathogenesis-based management approach, allowing patients to remain on NRTI therapy.
+Data from a full randomized controlled trial is now
+awaited to validate the results of this study and to
+determine the required duration and dose of ALCAR
+treatment.
+
+Acknowledgements
+The authors are grateful for the help given by the
+nursing staff of the Ian Charleson Day Centre, by the
+research nurses Zoe Cuthbertson, Pat Byrne and Tony
+Drinkwater, by the Research Fellows of the Blond
+McIndoe Centre, by Ben Wills, Paul Slade and Andrea
+Price of Bristol-Myers Squibb Pharmaceuticals and
+Menotti Calvani of Sigma-tau Farmaceutiche Italia.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 11 of 12 (pdftotext -layout) =====
                                                                            Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.                     1559
 
 Sponsorship: Unrestricted medical grant for laboratory                     18.   Bremer J. The role of carnitine in intracellular metabolism. J Clin
@@ -704,7 +1621,190 @@ References                                                                 22.  
 
 Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
 
-===== PDF PAGE 12 of 12 =====
+===== PDF PAGE 11 of 12 (reading order, same page) =====
+Acetyl-L-carnitine for toxic HIV neuropathy Hart et al.
+Sponsorship: Unrestricted medical grant for laboratory
+materials from Bristol-Myers-Squibb Pharmaceuticals,
+Hounslow, UK.
+Note: Andrew M. Hart and Andrew D. H. Wilson
+contributed equally to this paper.
+
+18.
+19.
+20.
+21.
+
+References
+1. Simpson DM, Tagliati M. Nucleoside analogue-associated peripheral neuropathy in human immunodeﬁciency virus infection.
+J Acquir Immune Deﬁc Syndr Hum Retrovirol 1995, 9:153–161.
+2. Hall CD, Snyder CR, Messenheimer JA, Wilkins JW, Robertson
+WT, Whaley RA, et al. Peripheral neuropathy in a cohort of
+human immunodeﬁciency virus-infected patients. Incidence and
+relationship to other nervous system dysfunction. Arch Neurol
+1991, 48:1273–1274.
+3. Kieburtz K, Simpson D, Yiannoutsos C, Max MB, Hall CD, Ellis
+RJ, et al. Randomized trial of amitriptyline and mexiletine for
+painful neuropathy in HIV infection. AIDS Clinical Trial Group
+242 Protocol Team. Neurology 1998, 51:1682–1688.
+4. Moyle GJ, Sadler M. Peripheral neuropathy with nucleoside
+antiretrovirals: risk factors, incidence and management. Drug
+Saf 1998, 19:481–494.
+5. Moore RD, Wong WM, Keruly JC, McArthur JC. Incidence of
+neuropathy in HIV-infected patients on monotherapy versus
+those on combination therapy with didanosine, stavudine and
+hydroxyurea. AIDS 2000, 14:273–278.
+6. Brinkman K, ter Hofstede HJ, Burger DM, Smeitink JA, Koopmans
+PP. Adverse effects of reverse transcriptase inhibitors: mitochondrial toxicity as common pathway. AIDS 1998, 12:1735–1744.
+7. Simpson DM, Haidich AB, Schiﬁtto G, Yiannoutsos CT, Geraci
+AP, McArthur JC, et al. Severity of HIV-associated neuropathy is
+associated with plasma HIV-1 RNA levels. AIDS 2002, 16:
+407–412.
+8. Simpson DM, Dorfman D, Olney RK, McKinley G, Dobkin J, So
+Y, et al. Peptide T in the treatment of painful distal neuropathy
+associated with AIDS: results of a placebo-controlled trial. The
+Peptide T Neuropathy Study Group. Neurology 1996, 47:
+1254–1259.
+9. Simpson DM, McArthur JC, Olney R, Clifford D, So Y, Baird BJ, et
+al. Lamotrigine for HIV-associated painful peripheral sensory
+neuropathies: a placebo controlled trial. Neurology 2003
+60:1508–1514.
+10. McArthur JC, Yiannoutsos C, Simpson DM, Adornato BT, Singer
+EJ, Hollander H, et al. A phase II trial of nerve growth factor for
+sensory neuropathy associated with HIV infection. AIDS Clinical
+Trials Group Team 291. Neurology 2000, 54:1080–1088.
+11. Pozniak A Gazzard BG, Churchill D, Johnson MA, Williams I,
+Deutsch JC, et al. British HIV Association (BHIVA) Guidelines for
+the Treatment of HIV-infected Adults with Antiretroviral Therapy.
+London: British HIV Association; 2000.
+12. Chen CH, Vazquez-Padua M, Cheng YC. Effect of anti-human
+immunodeﬁciency virus nucleoside analogs on mitochondrial
+DNA and its implication for delayed toxicity. Mol Pharmacol
+1991, 39:625–628.
+13. Keilbaugh SA, Prusoff WH, Simpson MV. The PC12 cell as a
+model for studies of the mechanism of induction of peripheral
+neuropathy by anti-HIV-1 dideoxynucleoside analogs. Biochem
+Pharmacol 1991, 42:R5–R8.
+14. Lewis W, Dalakas, MC. Mitochondrial toxicity of antiviral drugs.
+Nat Med 1995, 1:417–422.
+15. McCarthy BG, Hsieh ST, Stocks A, Hauer P, Macko C, Cornblath
+DR, et al. Cutaneous innervation in sensory neuropathies:
+evaluation by skin biopsy. Neurology 1995, 45:1848–1855.
+16. Polydefkis M, Yiannoutsos CT, Cohen BA, Hollander H, Schiﬁtto
+G, Clifford DB, et al. Reduced intraepidermal nerve ﬁber density
+in HIV-associated sensory neuropathy. Neurology 2002,
+58:115–119.
+17. Cunningham WE, Shapiro MF, Hays RD, Dixon WJ, Visscher BR,
+George WL, et al. Constitutional symptoms and health-related
+quality of life in patients with symptomatic HIV disease. Am J
+Med 1998, 104:129–136.
+
+22.
+
+23.
+
+24.
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+36.
+37.
+
+38.
+39.
+
+1559
+
+Bremer J. The role of carnitine in intracellular metabolism. J Clin
+Chem Clin Biochem 1990, 28:297–301.
+Colucci WJ, Grandour RD. Carnitine acyltransferase: a review of
+its biology, enzymology and bioorganic chemistry. Bioorg Chem
+1988, 16:307–334.
+Manfridi A, Forloni GL, Arrigoni-Martelli E, Mancia M. Culture of
+dorsal root ganglion neurons from aged rats: effects of acetyl-Lcarnitine and NGF. Int J Dev Neurosci 1992, 10:321–329.
+Taglialatela G, Angelucci L, Ramacci MT, Werrbach-Perez K,
+Jackson GR, Perez-Polo JR. Acetyl-L-carnitine enhances the
+response of PC12 cells to nerve growth factor. Brain Res Dev
+Brain Res 1991, 59:221–230.
+Angelucci L, Ramacci MT, Taglialatela G, Hulsebosch C, Morgan
+B, Werrbach-Perez K, et al. Nerve growth factor binding in aged
+rat central nervous system: effect of acetyl-L-carnitine. J Neurosci Res 1988, 20:491–496.
+Fernandez E, Pallini R, Gangitano C, Del Fa A, Sangiacomo CO,
+Sbriccoli A, et al. Effects of L-Carnitine, L-acetylcarnitine and
+gangliosides on the regeneration of the transected sciatic nerve
+in rats. Neurol Res 1989, 11:57–62.
+Hart AM, Wiberg M, Terenghi G. Pharmacological enhancement
+of peripheral nerve regeneration in the rat by systemic acetyl-Lcarnitine treatment. Neurosci Lett 2002, 334:181–185.
+Virmani MA, Biselli R, Spadoni A, Rossi S, Corsico N, Calvani M,
+et al. Protective actions of L-carnitine and acetyl-L-carnitine on
+the neurotoxicity evoked by mitochondrial uncoupling or inhibitors. Pharmacol Res 1995, 32:383–389.
+Hart AM, Wiberg M, Youle M, Terenghi G. Systemic acetyl-Lcarnitine eliminates sensory neuronal loss after peripheral
+axotomy: a new clinical approach in the management of
+peripheral nerve trauma. Exp Brain Res 2002, 145:182–189.
+Sima AA, Ristic H, Merry A, Kamijo M, Lattimer SA, Stevens MJ,
+et al. Primary preventive and secondary interventionary effects
+of acetyl-L-carnitine on diabetic neuropathy in the bio-breeding
+Worcester rat. J Clin Invest 1996, 97:1900–1907.
+Onofrj M, Fulgente T, Melchionda D, Marchionni A, Tomasello F,
+Salpietro FM, et al. L-Acetylcarnitine as a new therapeutic
+approach for peripheral neuropathies with pain. Int J Clin
+Pharmacol Res 1995, 15:9–15.
+Famularo G, De Simone C, Cifone G. Carnitine stands on its
+own in HIV infection treatment. Arch Intern Med 1999,
+159:1143–1144.
+De Grandis D, Minardi C. Acetyl-L-carnitine (levacarnine) in the
+treatment of diabetic neuropathy. A long-term randomized,
+double-blind, placebo controlled study. Drugs Res Dev 2002,
+3:223–231.
+Scarpini E, Sacilotto G, Baron P, Cusini M, Scarlato G. Effect of
+acetyl-L-carnitine in the treatment of painful peripheral neuropathies in HIV+ patients. J Peripher Nerv Syst 1997, 2:
+250–252.
+Properzi G, Francavilla S, Poccia G, Aloisi P, Gu XH, Terenghi G,
+et al. Early increase precedes a depletion of VIP and PGP-9.5 in
+the skin of insulin-dependent diabetics: correlation between
+quantitative immunohistochemistry and clinical assessment of
+peripheral neuropathy. J Pathol 1993, 169:269–277.
+Levy DM, Terenghi G, Gu XH, Abraham RR, Springall DR, Polak
+JM. Immunohistochemical measurements of nerves and neuropeptides in diabetic skin: relationship to tests of neurological
+function. Diabetologia 1992, 35:889–897.
+Facer P, Mathur R, Pandya SS, Ladiwala U, Singhal BS, Anand P.
+Correlation of quantitative tests of nerve and target organ
+dysfunction with skin immunohistology in leprosy. Brain 1998,
+121:2239–2247.
+Baddeley AJ, Gundersen HJ, Cruz-Orive LM. Estimation of surface area from vertical sections. J Microsc 1986, 142:259–276.
+Navarro X, Verdu E, Wendelschafer-Crabb G, Kennedy WR.
+Immunohistochemical study of skin reinnervation by regenerative axons. J Comp Neurol 1997, 380:164–174.
+Adle-Biassette H, Bell JE, Creange A, Sazdovitch V, Authier FJ,
+Gray F, et al. DNA breaks detected by in situ end-labelling in
+dorsal root ganglia of patients with AIDS. Neuropathol Appl
+Neurobiol 1998, 24:373–380.
+Calvani M, Arrigoni-Martelli E. Attenuation by acetyl-L-carnitine
+of neurological damage and biochemical derangement following
+brain ischemia and reperfusion. Int J Tissue React 1999, 21:1–6.
+Tesco G, Latorraca S, Piersanti P, Piacentini S, Amaducci L, Sorbi
+S. Protection from oxygen radical damage in human diploid
+ﬁbroblasts by acetyl-L-carnitine. Dementia 1992, 3:58–60.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+
+===== PDF PAGE 12 of 12 (pdftotext -layout) =====
 1560   AIDS 2004, Vol 18 No 11
 
        40.   Calvani M, Nicolai R, Barbarisi A, Reda E, Benatti P, Peluso G.           L-Acetylcarnitine and Related Compounds in the Rat. Huntington,
@@ -746,4 +1846,109 @@ Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this ar
 
 
    Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
+===== PDF PAGE 12 of 12 (reading order, same page) =====
+1560
+
+AIDS 2004, Vol 18 No 11
+40.
+41.
+
+42.
+
+43.
+
+44.
+45.
+
+46.
+
+47.
+
+48.
+
+Calvani M, Nicolai R, Barbarisi A, Reda E, Benatti P, Peluso G.
+Carnitine System and Cancer. Advances in Nutrition and Cancer.
+New York: Plenum Press; 2000.
+Peluso G, Benatti P, Nicolai R, Reda E, Calvani M.
+Carnitine system and insulin resistence. In Insulin Resistance,
+Metabolic Disease and Diabetic Complications. Edited by
+Crepaldi G, Tiengo A, Del Prato S. North-Holland: Elsevier;
+1998:259–274.
+Kano M, Kawakami T, Hori H, Hashimoto Y, Tao Y, Ishikawa Y,
+et al. Effects of ALCAR on the fast axoplasmic transport in
+cultured sensory neurons of streptozotocin-induced diabetic
+rats. Neurosci Res 1999, 33:207–213.
+Stevens MJ, Lattimer SA, Feldman EL, Helton ED, Millington DS,
+Sima AA, et al. Acetyl-L-carnitine deﬁciency as a cause of
+altered nerve myo-inositol content, Na,K-ATPase activity, and
+motor conduction velocity in the streptozotocin-diabetic rat.
+Metabolism 1996, 45:865–872.
+De Grandis D, Santoro L Di BenedettoP. L-Acetylcarnitine in the
+treatment of patients with peripheral neuropathies. Clin Drug
+Invest 1995, 10:317–322.
+Giammusso B, Morgia G, Spampinto A, Motta M. Improved
+pallesthetic sensitivity of pudendal nerve in impotent diabetic
+patients treated with acetyl-L-carnitine. Acta Urol Ital 1996,
+10:185–187.
+Famularo G, Moretti S, Marcellini S, Trinchieri V, Tzantzoglou S,
+Santini G, et al. Acetyl-carnitine deﬁciency in AIDS patients
+with neurotoxicity on treatment with antiretroviral nucleoside
+analogues. AIDS 1997, 11:185–190.
+Parnetti L, Gaiti A, Mecocci P, Cadini D, Senin U. Pharmacokinetics of IV and oral acetyl-L-carnitine in a multiple dose
+regimen in patients with senile dementia of Alzheimer type. Eur
+J Clin Pharmacol 1992, 42:89–93.
+Chasseau LF, Hawkins DR, Mayo BC, Baldock GA. Report SGM
+4/5/8176: Pharmacokinetics and Metabolism of 14 C-Labelled
+
+L-Acetylcarnitine and Related Compounds in the Rat. Huntington,
+
+49.
+
+50.
+
+51.
+52.
+53.
+
+54.
+
+55.
+
+56.
+57.
+
+UK: Huntingdon Research Centre, 1984.
+Marzo A, Arrigoni Martelli E, Urso R, Rocchetti M, Rizza V, Kelly
+JG. Metabolism and disposition of intravenously administered
+acetyl-L-carnitine in healthy volunteers. Eur J Clin Pharmacol
+1989, 37:59–63.
+Brinkman K, Smeitink JA, Romijn JA, Reiss P. Mitochondrial
+toxicity induced by nucleoside-analogue reverse-transcriptase
+inhibitors is a key factor in the pathogenesis of antiretroviraltherapy-related lipodystrophy. Lancet 1999, 354:1112–1115.
+Behrens GM, Stoll M, Schmidt RE. Lipodystrophy syndrome in
+HIV Infection: what is it, what causes it and how can it be
+managed? Drug Saf 2000, 23:57–76.
+Mauss S. HIV-associated lipodystrophy syndrome. AIDS 2000,
+14:S197–S207.
+De Simone C, Famularo G, Tzantzoglou S, Trinchieri V, Moretti
+S, Sorice F. Carnitine depletion in peripheral blood mononuclear
+cells from patients with AIDS: effect of oral L-carnitine. AIDS
+1994, 8:655–660.
+De Simone C, Tzantzoglou S, Famularo G, Moretti S, Paoletti F,
+Vullo V, et al. High dose L-carnitine improves immunologic and
+metabolic parameters in AIDS patients. Immunopharmacol Immunotoxicol 1993, 15:1–12.
+Cifone MG, Alesse E, Di Marzio L, Ruggeri B, Zazzeroni F, Moretti
+S, et al. Effect of L-carnitine treatment in vivo on apoptosis and
+ceramide generation in peripheral blood lymphocytes from AIDS
+patients. Proc Assoc Am Physic 1997, 109:146–153.
+De Simone C, Famularo G, Cifone G, Mitsuya H. HIV-I
+infection and cellular metabolism. Immunol Today 1996, 17:
+256–258.
+Vecchiet L, Di Lisa F, Pieralisi G, Ripari P, Menabo R, Giamberardino MA, et al. Inﬂuence of L-carnitine administration on
+maximal physical exercise. Eur J Appl Physiol Occup Physiol
+1990, 61:486–490.
+
+Copyright © Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+
 
