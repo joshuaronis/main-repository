@@ -96,8 +96,16 @@
   "proposed_wording": "Two human intradermal studies have timed plain bupivacaine at three strengths side by side. Aps and Reynolds 1976 (PMID 1023952), double-blind in 31 volunteers, report duration of action unaffected by concentration except at the highest strength tested, which outlasted the other solutions. Cederholm, Akerman and Evers 1994 (PMID 8067217), randomised and double-blind in 10 volunteers, report the same median duration of complete dermal analgesia at each bupivacaine strength. The same 1976 authors also published an intradermal concentration-duration study of the two bupivacaine isomers in 17 volunteers (Aps and Reynolds 1978, PMID 666948), whose full text is held free in Europe PMC as PMC1429379. The two racemic studies disagree in direction; the 1976 full text was not read here.",
   "reason": "A study matching every element the claim says is absent exists, and there are two of them rather than one. Aps and Reynolds 1976 (PMID 1023952) is human skin, intradermal, plain bupivacaine at three strengths, double-blind, with duration of action as the outcome; Cederholm 1994 (PMID 8067217) is the same design in 10 volunteers and reports equal median duration at every bupivacaine strength. So the page's 'the one study that tested three strengths' is too narrow: a second intradermal multi-strength timing exists, and it runs against the 1976 exception rather than with it. What remains genuinely unresolved is the direction, not the existence of evidence, so the correction needed is to the wording about how much evidence there is. The bupivacaine page states its negatives flatly, with no search-limited scoping convention, so the sentence is judged as written. The 1978 companion that the page quotes against the 1976 abstract is itself readable: Europe PMC holds a free scan as PMC1429379, although the fulltext XML endpoint returned HTTP 500 and the PDF could not be parsed in this session.",
   "needs_full_text": [
-   "Aps C, Reynolds F 1976, Br J Anaesth 48(12):1171-4, PMID 1023952 - full text, to reconcile the abstract's exception at the higher strength with the same authors' later description; subscription-only and not in Europe PMC.",
-   "Aps C, Reynolds F 1978, Br J Clin Pharmacol 6(1):63-8, PMID 666948 - free scanned full text exists in Europe PMC as PMC1429379; the fulltext XML endpoint returned HTTP 500 here and ebi.ac.uk is blocked by the network egress proxy, so it was not read in this session."
+   {
+    "pmid": "1023952",
+    "doi": "",
+    "question": "Aps C, Reynolds F 1976, Br J Anaesth 48(12):1171-4, PMID 1023952 - full text, to reconcile the abstract's exception at the higher strength with the same authors' later description; subscription-only and not in Europe PMC."
+   },
+   {
+    "pmid": "",
+    "doi": "",
+    "question": "Aps C, Reynolds F 1978, Br J Clin Pharmacol 6(1):63-8, PMID 666948 - free scanned full text exists in Europe PMC as PMC1429379; the fulltext XML endpoint returned HTTP 500 here and ebi.ac.uk is blocked by the network egress proxy, so it was not read in this session."
+   }
   ],
   "_source_line": 360,
   "_note": "the page reports one study that tested three strengths and the same authors' later contrary description of their own work",
@@ -776,7 +784,11 @@
   "proposed_wording": "No published source reporting 40.5 mm as an injection-pain score for plain bupivacaine was found: a Europe PMC search for that phrase together with bupivacaine returned one record, an unrelated conference proceedings volume. The study usually credited with the figure, Howe and Williams 1994 (PMID 8034840), is subscription-only and is not held in Europe PMC or PubMed Central, and its abstract gives the injection-pain result as an ordering of the three agents rather than as numbers. The companion figure in circulation is traceable: a systematic review of local anaesthetics for digital nerve blocks reports 53 mm as the highest mean pain on injection and attributes it to bupivacaine with epinephrine, not to plain bupivacaine (Vinycomb and Sahhar 2014, PMID 24612831).",
   "reason": "All three parts of the claim hold. A phrase search for the figure together with bupivacaine returned a single, unrelated record; Howe and Williams 1994 is confirmed paywalled from its Europe PMC record, which carries only a subscription link and no PubMed Central copy; and its abstract reports the injection-pain comparison as an ordering, with the duration result given as percentages and no millimetre values anywhere. The page's attribution of the 53 mm figure to bupivacaine with epinephrine via the digital-nerve-block review is also verified from that review's abstract. A pain score is an outcome rather than a drug amount, so the figure is reported here rather than omitted. One caveat on the engine: Europe PMC's handling of a numeric phrase is loose - the same phrase searched without bupivacaine returned 567 records matching unrelated measurements - so absence from this engine is weaker evidence than a clean phrase index would give.",
   "needs_full_text": [
-   "Howe NR, Williams JM 1994, J Dermatol Surg Oncol 20(7):459-64, PMID 8034840 - full text, to establish whether 40.5 mm originates in its results tables or figures. Not needed for the verdict, which is about what was found, but it is the only way to settle the figure's provenance."
+   {
+    "pmid": "8034840",
+    "doi": "",
+    "question": "Howe NR, Williams JM 1994, J Dermatol Surg Oncol 20(7):459-64, PMID 8034840 - full text, to establish whether 40.5 mm originates in its results tables or figures. Not needed for the verdict, which is about what was found, but it is the only way to settle the figure's provenance."
+   }
   ],
   "_source_line": 412,
   "_note": "a sourcing claim about a figure in circulation; the figure is a pain score in mm, not a drug amount",
@@ -1357,8 +1369,16 @@
   "proposed_wording": "No measurement of skin blood flow after a mepivacaine wheal extending beyond an hour was found in searches of Europe PMC through October 2026 or in the PubMed searches run on 2026-10-07: the laser Doppler recordings in the study that compared mepivacaine with saline and needle-stick controls ran for sixty minutes after injection (Guinard et al. 1992, PMID 1286052). Two further measurements of mepivacaine's cutaneous vascular effect - one by laser Doppler in pre-inflamed skin (Fruhstorfer and Wagener 1993, PMID 8435261) and one by infrared thermography after infiltration (Lindorf 1979, PMID 291855) - do not state their observation windows in their abstracts. A six-hour laser Doppler series of skin wheals exists but used lidocaine and bupivacaine, not mepivacaine (Liu et al. 1995, PMID 8519713).",
   "reason": "Confirmed on what the abstracts settle, but left uncertain. Guinard's abstract confirms the sixty-minute window the page gives, and the only study found that followed skin blood flow after wheals for longer, Liu 1995, has no mepivacaine arm, so it misses the intervention element. Two candidates cannot be decided from abstracts: Lindorf 1979 measured mepivacaine's vascular effect by thermography and reports a time course running past an hour for its vasoconstrictor arms, without saying how long the mepivacaine arm was followed or by which route it was injected; and Fruhstorfer 1993 recorded intradermal mepivacaine by laser Doppler without stating the recording length. Either could narrow this claim if its follow-up extended beyond an hour.",
   "needs_full_text": [
-   "Lindorf 1979 (PMID 291855): the route of injection, the mepivacaine concentration, and how long the mepivacaine arm's blood flow was followed by thermography",
-   "Fruhstorfer and Wagener 1993 (PMID 8435261): the length of the scanning laser Doppler recording after intradermal mepivacaine"
+   {
+    "pmid": "",
+    "doi": "",
+    "question": "Lindorf 1979 (PMID 291855): the route of injection, the mepivacaine concentration, and how long the mepivacaine arm's blood flow was followed by thermography"
+   },
+   {
+    "pmid": "8435261",
+    "doi": "",
+    "question": "Fruhstorfer and Wagener 1993 (PMID 8435261): the length of the scanning laser Doppler recording after intradermal mepivacaine"
+   }
   ],
   "_source_line": 144,
   "_note": "",
@@ -1649,18 +1669,17 @@
    }
   ],
   "verdict": "narrowed",
-  "uncertain": true,
+  "uncertain": false,
   "evidence_pmid": "776194",
-  "quote": "In terms of activity as determined by area of anaesthesia, and of duration of action, aptocaine was similar to mepivacaine and more active and long-lasting than lignocaine and prilocaine.",
+  "quote": "Exactly the same procedure was followed. … Twenty-seven volunteers, aged 20-51 yr, seven of … whom participated in the previous study, received the … following seven solutions:",
   "proposed_wording": "Willatts and Reynolds 1985 (PMID 4041306) is at least the third intradermal measurement of mepivacaine in human volunteers, after Reynolds, Bryson and Nicholas 1976 (PMID 776194) and Fairley and Reynolds 1981 (PMID 7326166), and is followed by Christoph et al. 1988 (PMID 2827545) and Farley, Hustead and Becker 1994 (PMID 8148294). It remains the only study found in searches that times mepivacaine against both lidocaine and prilocaine in the same volunteers.",
-  "reason": "Narrowed, with one element refuted and one unresolved. The ordinal element is wrong: Reynolds 1976 is an earlier intradermal study in human volunteers in which mepivacaine was given at a range of concentrations and its duration of action measured, so Willatts 1985 is the third such measurement at least, not the second - and the same paper makes Fairley 1981 the second rather than the first, which is where W-M001 fails. The second element survives the abstracts: Reynolds 1976's mepivacaine comparison was against prilocaine in a second trial of 27 subjects, with lignocaine appearing in a separate first trial of 28 volunteers, and Christoph 1988 and Farley 1994 time mepivacaine against lidocaine but include no prilocaine. Whether the 1976 trials drew on the same volunteers, which would make lignocaine and mepivacaine timed in one group, cannot be settled from the abstract.",
-  "needs_full_text": [
-   "Reynolds, Bryson and Nicholas 1976 (PMID 776194): whether the first and second trials used the same volunteers, so that lignocaine as well as prilocaine was timed against mepivacaine in one group of subjects",
-   "Reynolds 1976 (PMID 776194): the sensory endpoint used - whether analgesia was tested by pinprick over the intradermal bleb, as in the same laboratory's 1981 and 1985 papers"
-  ],
+  "reason": "Resolved from the Reynolds 1976 full text, read in this same session (S-686-25). Two elements were open. First, whether Reynolds timed mepivacaine against lignocaine and prilocaine in one group of volunteers: it did not. Its first trial gave lignocaine, bupivacaine and aptocaine to 28 volunteers, and its second gave mepivacaine, prilocaine and aptocaine to a separate 27, only seven of whom had been in the first, so lignocaine never sat alongside mepivacaine or prilocaine in the same subjects. The surviving element of the claim therefore holds: Willatts and Reynolds 1985 remains the only study found that times mepivacaine against both lidocaine and prilocaine in one group. Second, the endpoint: Reynolds tested each bleb by pinprick with a lancet every 10 minutes to a permanent score of 10, which is pinprick over an intradermal bleb, so it qualifies as the same kind of measurement. What stays refuted is the ordinal claim - Reynolds 1976 precedes Fairley and Reynolds 1981, so Willatts 1985 is at least the third such measurement and not the second.",
+  "needs_full_text": [],
   "_source_line": 150,
   "_note": "only-study claim about Willatts & Reynolds 1985",
-  "pmid": "776194"
+  "pmid": "776194",
+  "paper_id": "S-686-25",
+  "_resolved_by": "lead session, from the full text of S-686-25 read in this session; supersedes the search worker's uncertain flag"
  },
  {
   "claim_id": "W-M010",
@@ -2117,7 +2136,11 @@
   "proposed_wording": "The local vascular response and the duration of dermal analgesia have been recorded at the same intradermal ropivacaine wheals in man (Cederholm, Akerman & Evers 1994, PMID 8067217), with the vascular response scored visually; instrumented flux and block duration at one and the same wheal were not found in searches of Europe PMC through October 2026.",
   "reason": "The page's three partial hits are correctly characterised, and one more sits closer than any of them: Cederholm 1994 used intradermal wheals in the same volunteers to record both pin-prick duration and the local vascular response, so 'never been measured in the same wheal' is too broad for the vascular response in general and holds only for instrumented flux. Both stated reasons for the gap (Kopacz and Newton on pin-prick disturbing the flow being measured) explain exactly that residue: Cederholm avoided the problem by scoring colour by eye. A second intradermal study pairs vasoactivity with duration of action across six drugs (PMID 4041306, 1985) and its measurement method cannot be read off the abstract, which is why this is left uncertain. Counts are Europe PMC counts; two reused searches carry the earlier worker's PubMed counts.",
   "needs_full_text": [
-   "Br J Anaesth 1985 'Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study' (PMID 4041306): whether the vascular effect was measured instrumentally (e.g. laser Doppler or plethysmography) at the same intradermal sites at which duration of action was recorded, or scored visually as Cederholm 1994 did"
+   {
+    "pmid": "4041306",
+    "doi": "",
+    "question": "Br J Anaesth 1985 'Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study' (PMID 4041306): whether the vascular effect was measured instrumentally (e.g. laser Doppler or plethysmography) at the same intradermal sites at which duration of action was recorded, or scored visually as Cederholm 1994 did"
+   }
   ],
   "_source_line": 2711,
   "_note": "page lists three partial hits (Yamashiro 2016, Bernards & Kopacz 1999, Liu 1995)",
@@ -3640,7 +3663,11 @@
   "proposed_wording": "At least three further human intradermal studies record vasoactivity and duration in the same wheals and report the relation between them (Willatts & Reynolds 1985, PMID 4041306, six drugs, relation positive; Aps & Reynolds 1978, PMID 666948, bupivacaine isomers; Fairley & Reynolds 1981, PMID 7326166, mepivacaine isomers, relation absent); Liu 1995 (PMID 8519713) may remain the only paper correlating a measured magnitude of vasoconstriction with duration.",
   "reason": "Willatts & Reynolds 1985 measured vasoactivity and duration in the same human wheals and reported the dose-duration slopes as reflecting the observed vasoactivity, so Liu 1995 is not the only paper reporting the relation; Aps 1978 pairs them in the same direction and Fairley 1981 reports them as unassociated. What distinguishes Liu is that it correlates a measured magnitude of vasoconstriction with duration rather than an observed colour change across drugs, so the claim is too broad as written rather than wrong in spirit. Left uncertain because the distinction between a reported correspondence and a reported correlation can only be settled in the Willatts & Reynolds full text, which the page holds.",
   "needs_full_text": [
-   "Willatts & Reynolds 1985 (PMID 4041306) full text: whether the paper reports a quantified correlation between vasoactivity and duration or only a qualitative correspondence of log dose-duration slopes"
+   {
+    "pmid": "4041306",
+    "doi": "",
+    "question": "Willatts & Reynolds 1985 (PMID 4041306) full text: whether the paper reports a quantified correlation between vasoactivity and duration or only a qualitative correspondence of log dose-duration slopes"
+   }
   ],
   "_source_line": 3053,
   "_note": "only-study claim about Liu 1995",

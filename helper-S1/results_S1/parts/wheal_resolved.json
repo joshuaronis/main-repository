@@ -1,0 +1,103 @@
+[
+ {
+  "claim_id": "W-M009",
+  "page": "mepivacaine-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "page_version": "2026-10-02T03:14:08.315Z",
+  "section": "Skin: vessels and duration",
+  "claim": "DOI 10.1093/bja/57.10.1006. — The second intradermal measurement of mepivacaine, and the only one that times it against lidocaine and prilocaine in the same volunteers.",
+  "elements_said_absent": {
+   "population": "same volunteers",
+   "intervention": "mepivacaine vs lidocaine vs prilocaine",
+   "design": "intradermal timing",
+   "outcome": "duration",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "mepivacaine AND (intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\" OR wheal OR bleb OR intracutaneous OR \"skin anesthesia\" OR \"skin anaesthesia\") AND (duration OR pinprick OR \"pin-prick\" OR recovery)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 19,
+    "screened": 19,
+    "date_searched": "2026-10-07T06:23:39Z"
+   },
+   {
+    "query": "(intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\") AND (lidocaine OR lignocaine) AND (bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR procaine OR chloroprocaine OR etidocaine OR articaine OR tetracaine OR amethocaine) AND (comparison OR compared OR comparative) AND (volunteers OR volunteer OR \"healthy subjects\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 13,
+    "screened": 13,
+    "date_searched": "2026-10-07T06:15:11Z"
+   },
+   {
+    "query": "(TITLE:\"mepivacaine\" OR ABSTRACT:\"mepivacaine\") AND (ABSTRACT:\"intradermal\" OR TITLE:\"intradermal\" OR ABSTRACT:\"intracutaneous\") AND (ABSTRACT:\"duration\" OR ABSTRACT:\"pinprick\" OR ABSTRACT:\"pin-prick\")",
+    "engine": "europepmc",
+    "count": 6,
+    "screened": 6,
+    "date_searched": "2026-10-08T14:40:00Z"
+   },
+   {
+    "query": "mepivacaine AND intradermal AND (duration OR pinprick OR recovery OR \"weal\" OR bleb)",
+    "engine": "europepmc",
+    "count": 139,
+    "screened": 8,
+    "date_searched": "2026-10-08T14:40:00Z"
+   },
+   {
+    "query": "mepivacaine intradermal injection human volunteers duration of analgesia pinprick weal",
+    "engine": "amass",
+    "count": 20,
+    "screened": 20,
+    "date_searched": "2026-10-08T14:40:00Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "776194",
+    "citation": "Reynolds F, Bryson TH, Nicholas ADG. Intradermal study of a new local anaesthetic agent aptocaine. Br J Anaesth 1976;48(4):347-54",
+    "engine": "amass (record fetch) + europepmc",
+    "matches": "human volunteers; intradermal route; mepivacaine given at a range of concentrations in a second double-blind trial of 27 subjects; duration of action and area of anaesthesia measured; mepivacaine and prilocaine in the same subjects",
+    "misses": "the abstract does not name the sensory endpoint, so 'pinprick over an intradermal bleb' is not confirmed from it; lignocaine appears in the first trial (28 volunteers) and the abstract does not say whether the same subjects took part in both trials"
+   },
+   {
+    "pmid": "4041306",
+    "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57(10):1006-11",
+    "engine": "amass (record fetch) + europepmc",
+    "matches": "human skin; intradermal injection in 10 volunteers; double-blind; duration of action of mepivacaine measured alongside lignocaine and prilocaine in the same volunteers; page's own source list records the endpoint as pinprick until sensation returned",
+    "misses": "nothing material to the claim; the abstract itself does not use the word pinprick"
+   },
+   {
+    "pmid": "7326166",
+    "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53(11):1211-6",
+    "engine": "amass (record fetch) + europepmc",
+    "matches": "the study the claim cites: 23 volunteers, intradermal, 'analgesia to pinprick was tested at 5-min intervals thereafter until full recovery', duration and vascular effects",
+    "misses": "nothing; it is simply not the only such study"
+   },
+   {
+    "pmid": "2827545",
+    "citation": "Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17(2):117-20",
+    "engine": "europepmc",
+    "matches": "randomised double-blind study in 25 adult volunteers; intradermal injection of mepivacaine and of lidocaine in the same volunteers; onset, extent and duration of skin anaesthesia measured",
+    "misses": "the abstract does not state the sensory test used to map the anaesthetised area; duration is a secondary outcome to injection pain"
+   },
+   {
+    "pmid": "8148294",
+    "citation": "Farley JS, Hustead RF, Becker KE. Diluting lidocaine and mepivacaine in balanced salt solution reduces the pain of intradermal injection. Reg Anesth 1994;19(1):48-51",
+    "engine": "europepmc + amass",
+    "matches": "20 healthy volunteers each given six intradermal solutions including mepivacaine and lidocaine; 'The degree of anesthesia at each site was evaluated by pinprick every minute for 20 minutes' - human skin, intradermal, pinprick endpoint",
+    "misses": "observation stopped at 20 minutes, so it cannot speak to total duration; no prilocaine arm"
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": false,
+  "evidence_pmid": "776194",
+  "quote": "Exactly the same procedure was followed. … Twenty-seven volunteers, aged 20-51 yr, seven of … whom participated in the previous study, received the … following seven solutions:",
+  "proposed_wording": "Willatts and Reynolds 1985 (PMID 4041306) is at least the third intradermal measurement of mepivacaine in human volunteers, after Reynolds, Bryson and Nicholas 1976 (PMID 776194) and Fairley and Reynolds 1981 (PMID 7326166), and is followed by Christoph et al. 1988 (PMID 2827545) and Farley, Hustead and Becker 1994 (PMID 8148294). It remains the only study found in searches that times mepivacaine against both lidocaine and prilocaine in the same volunteers.",
+  "reason": "Resolved from the Reynolds 1976 full text, read in this same session (S-686-25). Two elements were open. First, whether Reynolds timed mepivacaine against lignocaine and prilocaine in one group of volunteers: it did not. Its first trial gave lignocaine, bupivacaine and aptocaine to 28 volunteers, and its second gave mepivacaine, prilocaine and aptocaine to a separate 27, only seven of whom had been in the first, so lignocaine never sat alongside mepivacaine or prilocaine in the same subjects. The surviving element of the claim therefore holds: Willatts and Reynolds 1985 remains the only study found that times mepivacaine against both lidocaine and prilocaine in one group. Second, the endpoint: Reynolds tested each bleb by pinprick with a lancet every 10 minutes to a permanent score of 10, which is pinprick over an intradermal bleb, so it qualifies as the same kind of measurement. What stays refuted is the ordinal claim - Reynolds 1976 precedes Fairley and Reynolds 1981, so Willatts 1985 is at least the third such measurement and not the second.",
+  "needs_full_text": [],
+  "_source_line": 150,
+  "_note": "only-study claim about Willatts & Reynolds 1985",
+  "pmid": "776194",
+  "paper_id": "S-686-25",
+  "_resolved_by": "lead session, from the full text of S-686-25 read in this session; supersedes the search worker's uncertain flag"
+ }
+]

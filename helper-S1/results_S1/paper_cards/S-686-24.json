@@ -1,110 +1,110 @@
 {
-  "paper_id": "S-686-24",
-  "citation": "Ramos G, Pereira E, Simonetti MPB. Does alkalinization of 0.75% ropivacaine promote a lumbar peridural block of higher quality? Regional Anesthesia and Pain Medicine 2001;26(4):357-362",
-  "pmid": "11464357",
-  "doi": "10.1053/rapm.2001.24257",
-  "right_paper": true,
-  "text_quality": "ok - complete, 6 pages, all seven tables and the full reference list present. Two caveats, both in the source rather than the extraction: (a) the PDF renders some symbols as mojibake (the centre dot, the plus-or-minus, and the greater-than-or-equal and less-than-or-equal signs), which is cosmetic; (b) the paper is internally inconsistent about the bicarbonate quantity in solution B, printing four different figures for it across the abstract, the methods, the arm description and the conclusions - see notes in funding_conflicts and the claim update for D017.",
-  "design": "Two-phase study reported as one paper. Phase 1 is a laboratory phase in three parts: (i) a control step adding saline to the anaesthetic and inspecting under an optical microscope; (ii) a stepwise determination of how much bicarbonate the solution takes before a precipitate appears, with and without adrenaline, judged by 5 minutes of optical-microscope observation at room temperature; (iii) an in-vivo simulation in which the solutions were injected into the popliteal fossae of 3 rats and recovered 5 minutes later by dissection for microscopy. Phase 2 is a randomised, double-blind, three-arm clinical trial of lumbar epidural anaesthesia. Precipitation is a phase-1 observation only; it is not a patient-level outcome.",
-  "population": "Phase 1: solution samples (three lots of the anaesthetic) and 3 rats. Phase 2: 60 adults, ASA physical status I or II, both sexes, not pregnant, aged 18-60, scheduled for lower-limb surgery; patients with absent lower-limb motor activity, mono- or polyneuropathy, Hansen's disease, nerve-root compression, polio sequelae, chronic arterial obstruction or crush injury were excluded.",
-  "n": "60 patients in 3 groups of 20 (G1 control, G2, G3), group size set by power analysis. Phase 1: three lots of the anaesthetic sampled for the preliminary physico-chemical measurements; 3 rats, 2 mL of each solution per popliteal fossa.",
-  "setting": "Center of Teaching and Training in Anesthesiology, Orthopedic Hospital of Goiania, Goiania, Brazil; laboratory and operating theatre. Institutional ethics approval and written patient permission obtained. Accepted February 2001.",
-  "intervention": "Ropivacaine 0.75%, 10 mL per patient, in three arms: solution A (ropivacaine plus 0.5 mL of 0.9% saline, the control), solution B (ropivacaine plus a sub-precipitating quantity of 0.336% sodium bicarbonate), solution C (ropivacaine with adrenaline 1:200,000 added 5 minutes beforehand, plus a sub-precipitating quantity of the same bicarbonate). Only one ropivacaine strength, 0.75%, was studied. The laboratory phase reported the point at which a precipitate appeared as 0.016 mEq or more for the plain solution and above 0.016 and up to 0.020 mEq for the adrenaline-containing solution, and recorded that 0.017 to 0.019 mEq were not tested. The quantity actually chosen for solution B is given inconsistently in the paper: 0.012 mEq (abstract methods and conclusions), 0.0012 mEq (abstract arm description), 0.12 mEq (methods text) and 0.015 mEq (the arm description on p. 359).",
-  "comparator": "Solution A, the saline-diluted unbuffered ropivacaine, as the double-blind control arm; plus each solution against its own pre-addition pH, PCO2 and nonionized fraction.",
-  "route": "Lumbar epidural (peridural), L3-4, 16-gauge Tuohy needle and catheter, injected over a standardised interval. Not intradermal and not a skin wheal. The rat sub-study was an injection into the popliteal fossa.",
-  "duration": "Precipitation was judged over 5 minutes of optical-microscope observation in vitro, and 5 minutes after injection in the rats. Clinical follow-up was once a minute for the first 40 minutes, then every 5 minutes until the block regressed; mean sensory-block durations were 105.7 to 139.8 minutes.",
-  "outcomes": "Laboratory: the bicarbonate quantity at which a precipitate first appeared, presence or absence of precipitate under an optical microscope, and pH, PCO2, nonionized fraction and osmolarity of each solution before and after addition. Animal: presence of precipitate in solution recovered from the rat popliteal fossa. Clinical: sensory-block onset by dermatome (Hollmen criteria), motor-block onset (Bromage), block spread at 40 minutes, and block duration.",
-  "key_results": [
-    {
-      "quote": "Later, we determined the concen…tration of NaHCO3, which can be added to 10 mL of … 0.75% ropivacaine at room temperature, with and … without the previous addition of 1:200,000 (5 mg 䡠 mL⫺1) adrenaline without provoking immediate … precipitation (5 minutes of optical microscope ob…servation) of the final anesthetic solution.",
-      "page": 358
-    },
-    {
-      "quote": "At room temperature, the preparation of solution … A did not promote the precipitation of the anes…thetic solution.",
-      "page": 360
-    },
-    {
-      "quote": "In the popliteal foss…sae of the rats, all of the solutions, including the one … prepared for clinical use, precipitated. This was … most evident in the alkalinized solutions.",
-      "page": 360
-    },
-    {
-      "quote": "Precipitation was present in all the solutions (in…cluding laboratory solutions). However, precipita…tion was observed in greater quantity in solutions B … and C. This finding shows that precipitation of ropi…vacaine may occur after it is administered.",
-      "page": 361
-    },
-    {
-      "quote": "This was a randomized, double-blind clinical trial … in which a control group, G1, with 20 patients, … received solution A",
-      "page": 359
-    },
-    {
-      "quote": "Sixty patients (Table 2), chosen by power analysis … and divided into 3 groups of 20, ASA physical status … I or II",
-      "page": 359
-    },
-    {
-      "quote": "We did not find clinical studies of the alkalization of ropivacaine in the … literature.",
-      "page": 357
-    },
-    {
-      "quote": "The third part of the laboratory phase simulated … the injection of ropivacaine into the human epi…dural space. The popliteal fossae of rats were used",
-      "page": 358
-    },
-    {
-      "quote": "Samples of the laboratory, A, B, and C … anesthetic solutions taken from the rats’ popliteal … fossae were examined with an optical microscope.",
-      "page": 361
-    },
-    {
-      "quote": "Probably, the differences ob…served between these results and those verified in … our study relate to methodology.",
-      "page": 361
-    }
-  ],
-  "author_limitations": [
-    {
-      "quote": "alkalinized 0.75% ropivacaine solution proved to … be statistically different than the stock ropivacaine … solution synthesized in the laboratory. However, its … clinical utility for clinical practice remains indeter…minate.",
-      "page": 362
-    },
-    {
-      "quote": "In the present study, an advantage … of one solution over the others cannot be claimed,",
-      "page": 361
-    },
-    {
-      "quote": "The clinical applicability of the alkalinization of … local anesthetics is controversial.",
-      "page": 362
-    },
-    {
-      "quote": "Probably, the differences ob…served between these results and those verified in … our study relate to methodology.",
-      "page": 361
-    }
-  ],
-  "funding_conflicts": "No funding statement, no conflict-of-interest declaration and no acknowledgements. Affiliations only: Orthopedic Hospital of Goiania, University of Brasilia, University of Sao Paulo. Two reporting problems worth carrying with any use of this paper: (1) the bicarbonate quantity for solution B is printed four different ways across the abstract, the methods, the arm description and the conclusions, so no single figure for it can be read off the paper with confidence; (2) its account of Fulling & Peterfreund 2000 (its ref. 11) gives the ropivacaine strength as ten times the strength that study actually used, while the milligram figure it quotes alongside corresponds to the correct strength - verified against the Fulling record in Europe PMC (EXT_ID:11009239), whose title and methods name 0.2% Naropin.",
-  "studies_it_cites_that_matter": [
-    {
-      "citation": "Fulling PD, Peterfreund RA. Alkalinization and precipitation characteristics of 0.2% ropivacaine. Reg Anesth Pain Med 2000;25(5):518-521. DOI 10.1053/rapm.2000.8931 (its ref. 11)",
-      "pmid": "11009239",
-      "why": "The only other laboratory study of bicarbonate added to ropivacaine, and the direct counterpart to Ramos on claim D017. It is already in D017's records_read. It matters here for three reasons: Ramos miscites its ropivacaine strength tenfold; Ramos attributes the disagreement between the two sets of results to methodology; and Fulling measured precipitate accumulating out to a 20-minute plateau even at its lowest bicarbonate amount, where Ramos looked for 5 minutes only. The two together set the observation window as the variable that decides whether a partly buffered ropivacaine is reported as clear."
-    },
-    {
-      "citation": "Lambert DH. Clinical value of adding sodium bicarbonate to local anesthetics. Reg Anesth Pain Med 2002;27(3):328-9; author reply 329-30. DOI 10.1053/rapm.2002.31931",
-      "pmid": "12016613",
-      "why": "Not cited by Ramos - it is a published Letter/Comment ON Ramos, with an author reply, found on the Europe PMC record (commentCorrection, type 'Comment in'). It bears on D017 because it is a post-publication exchange about this very result. Europe PMC carries no abstract for it and the full text is marked subscription-required, so it was not read; recorded as an extra study with no quote."
-    },
-    {
-      "citation": "Ikuta PT, Raza SM, Durrani Z, Vasireddy AR, Winnie AP, Masters RW. pH adjustment schedule for the amide local anesthetics. Reg Anesth 1989;14:229-235 (its ref. 8)",
-      "pmid": "",
-      "why": "The earlier per-drug bicarbonate schedule for lidocaine, bupivacaine, mepivacaine and etidocaine, which Ramos uses to support treating the plain and adrenaline-containing ropivacaine the same way. Also Milner 2000's ref. 2. No ropivacaine arm, so it does not bear on D017."
-    },
-    {
-      "citation": "Bonhomme L, Benhamou D, Comoy E, Preaux N. Stability of epinephrine in alkalinized solutions. Ann Emerg Med 1990;19:1242-1244 (its ref. 23); Murakami CS, Odland PB, Ross BK. Buffered local anesthetics and epinephrine degradation. J Dermatol Surg Oncol 1994;20:192-195 (its ref. 24)",
-      "pmid": "",
-      "why": "The two sides of the adrenaline-stability question in bicarbonate-containing solutions, which Ramos reports as disagreeing. Ref. 23 is also Milner 2000's ref. 16. Adjacent to claim C091 on the lidocaine-with-epinephrine page, but C091 is scoped to a dilution with 'no added bicarbonate', which both of these add, so neither decides it."
-    },
-    {
-      "citation": "Chow MY, Sai AT, Koay CK, Chan YW. Alkalinization of lidocaine does not hasten the onset of axillary brachial plexus block. Anesth Analg 1998;86:566-568 (its ref. 14); Capogna G, Celleno D, Laudano D, Giunta F. Alkalinization of local anesthetics. Which block, which local anesthetic? Reg Anesth 1995;20:369-377 (its ref. 25); Galindo A. pH-adjusted local anesthetics clinical experience. Reg Anesth 1983;8:35-36 (its ref. 12)",
-      "pmid": "",
-      "why": "The onset and spread literature Ramos measures itself against. Capogna 1995 is also Milner 2000's ref. 10, so both papers lean on the same review for the unsettled state of the technique. None studies ropivacaine, so none bears on D017."
-    },
-    {
-      "citation": "Zhao et al. is NOT cited here; but Hilgier M. Alkalinization of bupivacaine for brachial plexus block. Reg Anesth 1985;10:59-61 (its ref. 17) is, and is also Milner 2000's ref. 7",
-      "pmid": "",
-      "why": "The shared origin citation for the whole alkalinization-speeds-onset idea that both papers test. Recorded only to show the two papers' reference lists overlap at four points (Ikuta, Hilgier, Capogna, Bonhomme), which matters when judging whether they are independent lines of evidence."
-    }
-  ]
+ "paper_id": "S-686-24",
+ "citation": "Ramos G, Pereira E, Simonetti MPB. Does alkalinization of 0.75% ropivacaine promote a lumbar peridural block of higher quality? Regional Anesthesia and Pain Medicine 2001;26(4):357-362",
+ "pmid": "11464357",
+ "doi": "10.1053/rapm.2001.24257",
+ "right_paper": true,
+ "text_quality": "ok - complete, 6 pages, all seven tables and the full reference list present. Two caveats, both in the source rather than the extraction: (a) the PDF renders some symbols as mojibake (the centre dot, the plus-or-minus, and the greater-than-or-equal and less-than-or-equal signs), which is cosmetic; (b) the paper is internally inconsistent about the bicarbonate quantity in solution B, printing four different figures for it across the abstract, the methods, the arm description and the conclusions - see notes in funding_conflicts and the claim update for D017.",
+ "design": "Two-phase study reported as one paper. Phase 1 is a laboratory phase in three parts: (i) a control step adding saline to the anaesthetic and inspecting under an optical microscope; (ii) a stepwise determination of how much bicarbonate the solution takes before a precipitate appears, with and without adrenaline, judged by 5 minutes of optical-microscope observation at room temperature; (iii) an in-vivo simulation in which the solutions were injected into the popliteal fossae of 3 rats and recovered 5 minutes later by dissection for microscopy. Phase 2 is a randomised, double-blind, three-arm clinical trial of lumbar epidural anaesthesia. Precipitation is a phase-1 observation only; it is not a patient-level outcome.",
+ "population": "Phase 1: solution samples (three lots of the anaesthetic) and 3 rats. Phase 2: 60 adults, ASA physical status I or II, both sexes, not pregnant, aged 18-60, scheduled for lower-limb surgery; patients with absent lower-limb motor activity, mono- or polyneuropathy, Hansen's disease, nerve-root compression, polio sequelae, chronic arterial obstruction or crush injury were excluded.",
+ "n": "60 patients in 3 groups of 20 (G1 control, G2, G3), group size set by power analysis. Phase 1: three lots of the anaesthetic sampled for the preliminary physico-chemical measurements; 3 rats, 2 mL of each solution per popliteal fossa.",
+ "setting": "Center of Teaching and Training in Anesthesiology, Orthopedic Hospital of Goiania, Goiania, Brazil; laboratory and operating theatre. Institutional ethics approval and written patient permission obtained. Accepted February 2001.",
+ "intervention": "Ropivacaine 0.75%, 10 mL per patient, in three arms: solution A (ropivacaine plus 0.5 mL of 0.9% saline, the control), solution B (ropivacaine plus a sub-precipitating quantity of 0.336% sodium bicarbonate), solution C (ropivacaine with adrenaline 1:200,000 added 5 minutes beforehand, plus a sub-precipitating quantity of the same bicarbonate). Only one ropivacaine strength, 0.75%, was studied. The laboratory phase reported the point at which a precipitate appeared as 0.016 mEq or more for the plain solution and above 0.016 and up to 0.020 mEq for the adrenaline-containing solution, and recorded that 0.017 to 0.019 mEq were not tested. The quantity actually chosen for solution B is given inconsistently in the paper: 0.012 mEq (abstract methods and conclusions), 0.0012 mEq (abstract arm description), 0.12 mEq (methods text) and 0.015 mEq (the arm description on p. 359).",
+ "comparator": "Solution A, the saline-diluted unbuffered ropivacaine, as the double-blind control arm; plus each solution against its own pre-addition pH, PCO2 and nonionized fraction.",
+ "route": "Lumbar epidural (peridural), L3-4, 16-gauge Tuohy needle and catheter, injected over a standardised interval. Not intradermal and not a skin wheal. The rat sub-study was an injection into the popliteal fossa.",
+ "duration": "Precipitation was judged over 5 minutes of optical-microscope observation in vitro, and 5 minutes after injection in the rats. Clinical follow-up was once a minute for the first 40 minutes, then every 5 minutes until the block regressed; mean sensory-block durations were 105.7 to 139.8 minutes.",
+ "outcomes": "Laboratory: the bicarbonate quantity at which a precipitate first appeared, presence or absence of precipitate under an optical microscope, and pH, PCO2, nonionized fraction and osmolarity of each solution before and after addition. Animal: presence of precipitate in solution recovered from the rat popliteal fossa. Clinical: sensory-block onset by dermatome (Hollmen criteria), motor-block onset (Bromage), block spread at 40 minutes, and block duration.",
+ "key_results": [
+  {
+   "quote": "Later, we determined the concen…tration of NaHCO3, which can be added to 10 mL of … 0.75% ropivacaine at room temperature, with and … without the previous addition of 1:200,000 (5 mg 䨠 … mL⪲1) adrenaline without provoking immediate … precipitation (5 minutes of optical microscope ob…servation) of the final anesthetic solution.",
+   "page": 358
+  },
+  {
+   "quote": "At room temperature, the preparation of solution … A did not promote the precipitation of the anes…thetic solution.",
+   "page": 360
+  },
+  {
+   "quote": "In the popliteal foss…sae of the rats, all of the solutions, including the one … prepared for clinical use, precipitated. This was … most evident in the alkalinized solutions.",
+   "page": 360
+  },
+  {
+   "quote": "Precipitation was present in all the solutions (in…cluding laboratory solutions). However, precipita…tion was observed in greater quantity in solutions B … and C. This finding shows that precipitation of ropi…vacaine may occur after it is administered.",
+   "page": 361
+  },
+  {
+   "quote": "This was a randomized, double-blind clinical trial … in which a control group, G1, with 20 patients, … received solution A",
+   "page": 359
+  },
+  {
+   "quote": "Sixty patients (Table 2), chosen by power analysis … and divided into 3 groups of 20, ASA physical status … I or II",
+   "page": 359
+  },
+  {
+   "quote": "We did not find clinical studies of the alkalization of ropivacaine in the … literature.",
+   "page": 357
+  },
+  {
+   "quote": "The third part of the laboratory phase simulated … the injection of ropivacaine into the human epi…dural space. The popliteal fossae of rats were used",
+   "page": 358
+  },
+  {
+   "quote": "Samples of the laboratory, A, B, and C … anesthetic solutions taken from the rats’ popliteal … fossae were examined with an optical microscope.",
+   "page": 361
+  },
+  {
+   "quote": "Probably, the differences ob…served between these results and those verified in … our study relate to methodology.",
+   "page": 361
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "alkalinized 0.75% ropivacaine solution proved to … be statistically different than the stock ropivacaine … solution synthesized in the laboratory. However, its … clinical utility for clinical practice remains indeter…minate.",
+   "page": 362
+  },
+  {
+   "quote": "In the present study, an advantage … of one solution over the others cannot be claimed,",
+   "page": 361
+  },
+  {
+   "quote": "The clinical applicability of the alkalinization of … local anesthetics is controversial.",
+   "page": 362
+  },
+  {
+   "quote": "Probably, the differences ob…served between these results and those verified in … our study relate to methodology.",
+   "page": 361
+  }
+ ],
+ "funding_conflicts": "No funding statement, no conflict-of-interest declaration and no acknowledgements. Affiliations only: Orthopedic Hospital of Goiania, University of Brasilia, University of Sao Paulo. Two reporting problems worth carrying with any use of this paper: (1) the bicarbonate quantity for solution B is printed four different ways across the abstract, the methods, the arm description and the conclusions, so no single figure for it can be read off the paper with confidence; (2) its account of Fulling & Peterfreund 2000 (its ref. 11) gives the ropivacaine strength as ten times the strength that study actually used, while the milligram figure it quotes alongside corresponds to the correct strength - verified against the Fulling record in Europe PMC (EXT_ID:11009239), whose title and methods name 0.2% Naropin.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Fulling PD, Peterfreund RA. Alkalinization and precipitation characteristics of 0.2% ropivacaine. Reg Anesth Pain Med 2000;25(5):518-521. DOI 10.1053/rapm.2000.8931 (its ref. 11)",
+   "pmid": "11009239",
+   "why": "The only other laboratory study of bicarbonate added to ropivacaine, and the direct counterpart to Ramos on claim D017. It is already in D017's records_read. It matters here for three reasons: Ramos miscites its ropivacaine strength tenfold; Ramos attributes the disagreement between the two sets of results to methodology; and Fulling measured precipitate accumulating out to a 20-minute plateau even at its lowest bicarbonate amount, where Ramos looked for 5 minutes only. The two together set the observation window as the variable that decides whether a partly buffered ropivacaine is reported as clear."
+  },
+  {
+   "citation": "Lambert DH. Clinical value of adding sodium bicarbonate to local anesthetics. Reg Anesth Pain Med 2002;27(3):328-9; author reply 329-30. DOI 10.1053/rapm.2002.31931",
+   "pmid": "12016613",
+   "why": "Not cited by Ramos - it is a published Letter/Comment ON Ramos, with an author reply, found on the Europe PMC record (commentCorrection, type 'Comment in'). It bears on D017 because it is a post-publication exchange about this very result. Europe PMC carries no abstract for it and the full text is marked subscription-required, so it was not read; recorded as an extra study with no quote."
+  },
+  {
+   "citation": "Ikuta PT, Raza SM, Durrani Z, Vasireddy AR, Winnie AP, Masters RW. pH adjustment schedule for the amide local anesthetics. Reg Anesth 1989;14:229-235 (its ref. 8)",
+   "pmid": "",
+   "why": "The earlier per-drug bicarbonate schedule for lidocaine, bupivacaine, mepivacaine and etidocaine, which Ramos uses to support treating the plain and adrenaline-containing ropivacaine the same way. Also Milner 2000's ref. 2. No ropivacaine arm, so it does not bear on D017."
+  },
+  {
+   "citation": "Bonhomme L, Benhamou D, Comoy E, Preaux N. Stability of epinephrine in alkalinized solutions. Ann Emerg Med 1990;19:1242-1244 (its ref. 23); Murakami CS, Odland PB, Ross BK. Buffered local anesthetics and epinephrine degradation. J Dermatol Surg Oncol 1994;20:192-195 (its ref. 24)",
+   "pmid": "",
+   "why": "The two sides of the adrenaline-stability question in bicarbonate-containing solutions, which Ramos reports as disagreeing. Ref. 23 is also Milner 2000's ref. 16. Adjacent to claim C091 on the lidocaine-with-epinephrine page, but C091 is scoped to a dilution with 'no added bicarbonate', which both of these add, so neither decides it."
+  },
+  {
+   "citation": "Chow MY, Sai AT, Koay CK, Chan YW. Alkalinization of lidocaine does not hasten the onset of axillary brachial plexus block. Anesth Analg 1998;86:566-568 (its ref. 14); Capogna G, Celleno D, Laudano D, Giunta F. Alkalinization of local anesthetics. Which block, which local anesthetic? Reg Anesth 1995;20:369-377 (its ref. 25); Galindo A. pH-adjusted local anesthetics clinical experience. Reg Anesth 1983;8:35-36 (its ref. 12)",
+   "pmid": "",
+   "why": "The onset and spread literature Ramos measures itself against. Capogna 1995 is also Milner 2000's ref. 10, so both papers lean on the same review for the unsettled state of the technique. None studies ropivacaine, so none bears on D017."
+  },
+  {
+   "citation": "Zhao et al. is NOT cited here; but Hilgier M. Alkalinization of bupivacaine for brachial plexus block. Reg Anesth 1985;10:59-61 (its ref. 17) is, and is also Milner 2000's ref. 7",
+   "pmid": "",
+   "why": "The shared origin citation for the whole alkalinization-speeds-onset idea that both papers test. Recorded only to show the two papers' reference lists overlap at four points (Ikuta, Hilgier, Capogna, Bonhomme), which matters when judging whether they are independent lines of evidence."
+  }
+ ]
 }

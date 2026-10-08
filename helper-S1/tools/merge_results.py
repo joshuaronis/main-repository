@@ -131,6 +131,19 @@ def main():
     for c in claims.values():
         if c.get("evidence_pmid") and not c.get("pmid"):
             c["pmid"] = c["evidence_pmid"]
+    # some workers wrote needs_full_text as bare strings; coerce to the schema's objects
+    pm = re.compile(r"\b(?:PMID\s*)?(\d{7,8})\b")
+    for c in claims.values():
+        nf = c.get("needs_full_text") or []
+        fixed = []
+        for x in nf:
+            if isinstance(x, str):
+                m = pm.search(x)
+                fixed.append({"pmid": m.group(1) if m else "", "doi": "", "question": x})
+            elif isinstance(x, dict):
+                fixed.append({"pmid": str(x.get("pmid") or ""), "doi": x.get("doi") or "",
+                              "question": x.get("question") or ""})
+        c["needs_full_text"] = fixed
     ordered = sorted(claims.values(), key=lambda c: c["claim_id"])
     json.dump(ordered, open(f"{R}/wheal_claims.json", "w", encoding="utf-8"),
               indent=1, ensure_ascii=False)
