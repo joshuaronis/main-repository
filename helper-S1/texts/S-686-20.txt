@@ -1,0 +1,324 @@
+
+===== PAGE 1 =====
+VOL 22 N O 4              ANESTHESIA                         OCTOBER 1967
+
+
+
+
+The intradermal local analgesic action of prilocaine
+      A controlled double-blind comparison with lignocaine and procaine
+
+                A D R I A N P A D F I E L D , MB, BS, DA*
+                 Aylwen Bursar, Department of Pharmacology
+              St Bartholomew’s Hospital Medical College, London
+
+
+In 1959 Eriksson and Gordh 1 reported the local analgesic activity of
+L67 - prilocaine (Citanest) and claimed that intradermally it had a
+longer duration of action than lignocaine. This view was based on
+findings which did not reach a level of statistical significance. A fur-
+ther paper by Eriksson2 in 1961 produced the same figures and also
+stated that prilocaine had a longer duration of action than lignocaine
+when employed for finger, caudal or spinal blocks.
+   Berling and Bjorn3 compared prilocaine and lignocaine with and
+without adrenaline in dental local analgesia and found that prilocaine
+had a shorter duration of action, especially in soft tissues, which is
+generally regarded as an advantage. Similar findings were made by
+Cowan4 and by Goldman and Gray 5.
+   Further trials6 using peripheral nerve blocks, spinal and epidural
+blockade showed prilocaine to have a longer duration of local
+analgesic action than lignocaine but both had similar duration of
+action when each was tested with added adrenaline (1 :250,000).
+Bromage7 observed that, for epidural anzsthesia, lignocaine had a
+shorter duration of action than prilocaine or mepivacaine but the
+addition of adrenaline (1 :200,000) to all three agents prolonged their
+effects so that all acted for similar durations.
+   Two recent papers819 comparing the actions of prilocaine and
+lignocaine topically reported opposing results, the former suggesting
+that prilocaine lasted longer while the latter indicated that it had an
+action of duration similar to that of lignocaine.
+   Studies on systemic effects and on toxicities showed that prilocaine
+was half as toxic as lignocaine in man 10 while in animals 1 1 it was half
+as active in lowering blood pressure and stimulating respiration and
+had less vasodilating action.
+   In view of the divergent reports of the duration of action of prilo-
+caine compared with the more familiar agents procaine and ligno-
+*Present Appointment : Anresthetic Registrar, St George’s Hospital, London
+                                   556
+
+===== PAGE 2 =====
+Vol22                        ANESTHESIA                              557
+
+caine, further work is necessary. As part of their practical work in
+pharmacology at this Medical College, medical and dental students
+receive intradermal injections of local analgesic drugs into the skin
+of their forearms and assess the intensity and duration of actions of
+each and compared with an injection of 0.9% sodium chloride
+solution. A group of 40 dental students participated in a double blind
+controlled trial as indicated below with a view to assessing the activity
+and duration of action of procaine, lignocaine and prilocaine.
+
+                               METHOD
+
+
+The double blind, controlled trial was carried out during a series of
+practical classes by twenty pairs of clinical dental students. It was
+based upon a class experiment design used for many years in the
+Department 12 which was adapted from that of Mongar13.
+   The drugs used, prilocaine (2 %), lignocaine (2 %), procaine (2 %)
+(all without an added vasoconstrictor agent) and 0.9% sodium
+chloride solution were kindly supplied by the St Bartholomew’s
+Hospital Dispensary in identical numbered bottles. The numbering
+code was not revealed to the author, who gave the injections, or to
+the students until the experiment had been completed.
+   The author injected 0.2ml of each solution intradermally into the
+forearm skin of each subject after sterilization by washing in a stream
+of 70% ethanol. The injection sites were numbered to identify the
+blebs which had been raised on the palmar aspect of each left forearm.
+The sites of injection among the students followed a random alloca-
+tion following a Latin Square design.
+   As soon as possible after the injections at 0 min. the partner of each
+subject tested the blebs for pain in response to a prick from a sharp
+sterile needle which aroused a distinct painful sensation in normal
+skin. With the subject’s eyes averted, each bleb was tested six times
+and the number of non-painful stimuli out of six were recorded and
+indicated the degree of analgesia. This assessment was repeated at 5,
+10, 15,30 and 45 minutes.
+
+                              RESULTS
+
+
+Table 1 gives the results at each time. For each drug the total number
+of non-painful stimuli for all subjects were divided by the number of
+subjects to yield an assessment of local analgesia such that six repre-
+sented complete analgesia. These results are expressed graphically in
+Figure 1in which 100% analgesia corresponds to a score of 6 in table 1.
+
+===== PAGE 3 =====
+558                                                      ANESTHESIA                                                      Vol22
+                                                                 TABLE    1
+                             (maximum response=6. means for 20 subjects)
+      NO. TREATMENT                          TIME (MINUTES) AFTER INJECTION                                               TOTAL
+                                                                                                                         ACTIVITY
+
+                                                                          1
+                             l o
+                                             1    5
+                                                             1     10           15
+                                                                                         1    30      i        45
+                                                                                                                     1
+(1) Liznocaine 2 %
+(2) Przocaine 2%"
+(3) Normal Saline
+(4) Procaine 2"/,
+              ._
+                             1 5.65
+                             1 6.00
+                                 3.65
+                             1 5.75
+                                             I   5.85
+                                                 6.00
+                                                 2.20
+                                                 5.65
+                                                             1
+                                                             j
+                                                                  5.90
+                                                                  6.00
+                                                                  1.25
+                                                                  5.35
+                                                                          '1
+                                                                          1
+
+                                                                          1
+                                                                               5.15
+                                                                               5.80
+                                                                               1.15
+                                                                               4.25
+In the right hand column headed TOTAL ACTIVITY the means for each drug a; all of the
+                                                                                             2.85
+                                                                                             4.25
+                                                                                             1.10
+                                                                                             1.95
+                                                                                                      1
+                                                                                                      j
+                                                                                                      1
+                                                                                                              1.95
+                                                                                                              3.40
+                                                                                                              0.55
+                                                                                                              1.25
+                                                                                                                     I    27.35
+                                                                                                                          31.45
+                                                                                                                           9.90
+                                                                                                                          24.20
+
+test times was summed.
+
+
+
+
+    1
+
+
+
+
+                                                                                                 PRILOCAINE 27,
+-
+in
+w                                                                \        \
+
+                                                                         \,         \
+z
+w
+CI)
+      50   -     ;*'
+                                                                          \.            \\ LlGNOCAlNE 2 7
+
+a
+5 40-
+W
+0
+                       6.
+       30-
+                                    0.
+
+
+                                         &...*..                                                                            N O
+       20-                 ..........................q
+                                                                                             0-   ......'.....
+                                                                                                 NORMAL*"*--              ...
+       10-                                                                                       SALINE                     '"0
+
+             >
+                       I                 I               I           I          I            I            I          f           1
+                       5                 10          15              20        25            30       35             40         45
+                                                                 TIME (niin 1
+                                                                 FIGRUE 1
+
+===== PAGE 4 =====
+ Vol22                             ANESTHESIA                             559
+   I am most grateful to Miss Catherine Duncan who advised on the
+statistical design of the experiment and carried out the following
+ statistical analysis.
+   An analysis of variance was carried out to test subject differences.
+The latter was divided into two parts, one to test the difference
+between the saline solution and the analgesic agents and the other to
+determine whether there were any differential effects among the three
+analgesic drugs. Differences between subjects were expected and were
+significant (p -=0.01) but no effect was found due to varying the site of
+application. Saline showed significantly less activity than the com-
+bined analgesic agents (p < 0.001) and the differences between the
+three analgesic drugs were highly significant (p < 0.001).
+   To find out where these differences occurred, further analysis was
+carried out on the means for the three analgesic drugs using Hart-
+ley’s14 method for multiple comparisons among means. This is
+equivalent to Student’st-test but is applicableto three or more means.
+Hartley’s test takes into account the ranking of the two means in any
+comparison. (Student’s t-test would be incorrect in such a case tend-
+ing to over estimate the significance).
+   With Hartley’s test on the Total Activity scores are as follows:
+      Prilocaine 2 % was more active than lignocaine 2 % (p < 0.05)
+      Prilocaine 2 % was more active than procaine 2 % (p < 0.001)
+      Lignocaine 2 % was more active than procaine 2 % (p < 0.05)
+   It was thought worthwhile to look at the individual times, es-
+pecially the later stages of the experiment, to see whether there was
+any evidence of differential effects among the drugs. The analyses of
+variance given in table 2 should be assessed with some reservation
+because of heterogeneity of variance. (Heterogeneity arises when the
+mean value approaches either the maximum possible or minimum
+possible scores.)
+
+  COMPARISON
+
+ Prilocaine v lignocaine       1   NS
+                                     TABLE 2
+                                   15 MINS   i   ISMINS
+
+                                                 p <0.05
+                                                           iI
+                                                                45 MINS
+                                                                p<o.o1
+                                                                          -
+ Prilocaine v procaine
+ Lignocaine v procaine
+NS=no significant difference
+                               1   p<o.o1
+                                   p<0.05
+                                                 p<o.001        p<O.Ool
+                                                                NS
+
+
+
+   The pH values of the solutions were, procaine, pH 4.4, lignocaine,
+pH 6.5, and prilocaine pH 6.3. Although the pH of a given solution
+may possibly influence analgesic activity, it is emphasised that the
+solutions used in this trial were standard pharmaceutical prepara-
+tions; the results are, therefore, valid for clinical practice.
+
+===== PAGE 5 =====
+560                              ANESTHESIA                                 Vol22
+
+   Vascular efects
+Apart from testing for analgesia, subjects and partners were asked to
+comment on any vascular phenomena associated with the blebs, suchas
+blanching or flushing. Of the twenty pairs, eighteen noticed vaso-
+constriction occurring with priIocaine relative to the saline control
+and vasodilatation was noted by twelve with procaine.
+  The blanching produced by prilocaine alone was less marked than
+that caused by adrenaline 1 :200,000 (personal observation).
+
+                                   SUMMARY
+A controlled double blind trial has shown that, intradermally, prilo-
+caine 2% was a significantly more active local analgesic agent than
+lignocaine 2 % and procaine 2 %when total activity is measured over
+a 45 minute period as well as 30 and 45 minutes after its adminis-
+tration.
+   Vasoconstriction was produced by prilocaine alone which is less
+marked than that following adrenaline 1:200,000.
+
+Acknowledgements
+This work was carried out during the tenure of an Aylwen Research Bursary in
+the Department of Pharmacology of the Medical College of St Bartholomew’s
+Hospital.
+  I should like to thank Professor J. P. Quilliam for help and encouragement and
+Mrs A. Hewlett for her technical assistance. I am grateful to Astra-Hewlett Ltd
+for supplies of Citanest 2%.
+
+References
+  ~ E R I K S S O N ,E.  and G O R D H , T. (1959). Clinical trials of a new local anaes-
+   thetic. Acta amsth. scad. Suppl., IZ, 81
+  ~ E R I K S S O N , E. (1961). L 67 - experimental evaluation of a new local anaes-
+   thetic in man. Acta amsth. s c a d . , 5, 191
+  ~ B E R L I N G , c. and BJORN, H. (1961). L 67-ein neues Lokalbetaubungs-
+   mittel vom Anilidtyp. Dt. zahtnrirztl. Z., 23, 1497
+   COW AN, A. (1962). Clinical evaluation of a new anesthetic agent, L 67.
+   J. dent. Res., 41,421
+   GOLDM MAN, v. and G R A Y , w. (1963). A clinical trial of a new local analgesic
+   agent, Br. dent. J.,115,59
+  ~ V O NB A H R , v. and E R I K S S O N , E. (1962). Citanest (L 67)-ett nytt lokal-
+   anestesimedel. Svenska Lcikartidn.,59,2221
+  ~ B R O M A G E ,P.R. (1962). Spread of analgesic solutions in the epidural space
+    and their site of action: a statistical study. Br. J. Anaesth., 34, 161
+  * T H O R N T O N , J.A. (1965). Clinical experience with prilocaine. Proc. R. SOC.
+    Med., 58,418
+  ~ P U R N E L L , R.J. and F R E W , R.M. (1966). The topical analgesic action of
+    prilocaine: a comparison with lignocaine by two methods. Anresthesia, 21,
+    480
+
+===== PAGE 6 =====
+Vol22                              ANBSTHESIA                                    56 1
+
+~OENGLESSON,         s., ERIKSSON, E., WAHLQUIST, s. and ORTENGREN, B. (1964).
+    Differences in tolerance to intravenous xylocaine and citanest (L 67) a new
+     local anesthetic: a double blind study in man. Proc. 1st europ. Congr.
+    Anesthesiol., Vienna, 2, 206
+I ~ A S T R O M ,A. and PERSSON, N.H. (1961). Some pharmacological properties
+   of o-methyl-a-propylaminopropionanilide, a new local anaesthetic. Br. J.
+   Pharmac. Chemother., 16, 32
+~ZBROWNLEE,          G. and QUILLIAM, J.P. (1966). Experimental Pharmacology,
+   4th ed. London: Smethurst.
+I ~ M O N G A R , J.L. (1955). A study of two methods for testing local anaesthetics
+   in man. Br. J. Pharmac. Chemother., 10,240
+~ ~ H A R T L E YH.O.
+                   ,     (1955). Some recent developments in the analysis of variants.
+    Communspure appl. Math., 8,47
+

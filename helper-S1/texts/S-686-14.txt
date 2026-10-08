@@ -1,0 +1,179 @@
+
+===== PAGE 1 =====
+ANESTH ANALC
+58364-366.1979
+
+
+
+
+Duration of Bupivacaine
+Intradermal Anesthesia When the
+Bupivacaine Is Mixed with
+Lhloroprocaine
+Jong-Min Kim, MD,* Hiroshi Goto, MD,t and Kasumi Arakawa, MDS
+
+KIM. J.-M., GOTO,H., AND ARAKAWA,K.: Duration of bupivacaine intradermal anesthesia when
+the bupivacaine is mixed with chloroprocaine. Anesth Analg 58:364-366, 1979.
+
+In a double-blind trial in 20 human volunteers, the duration of intradermal anesthesia with a
+mixture of bupivacaine, 0.5 mg, and chloroprocaine, 3 mg, was compared with the duration of
+intradermal anesthesia obtained with either bupivacaine. 0.5 mg, or chloroprocaine, 3 mg,
+alone. The duration of intradermal anesthesia produced by the bupivacaine mixed with chloro-
+procaine, 36 f 16 (mean f 1 SD) minutes, was significantly less than the duration of the
+same amount of bupivacaine alone, 139 f 78 minutes. Duration of anesthesia with chloropro-
+caine alone, 24 f 11 minutes, was similar to the duration of anesthesia with chloroprocaine
+plus bupivacaine. A possible explanation for these results is that bupivacaine competes with
+chloroprocaine for nonspecific receptors at the biophase and in the surrounding nerve tissue.
+
+Key Words: ANESTHETICS, Local: bupivacaine; ANESTHETICS, Local: chloroprocaine; INTERACTIONS (DRUG):
+local anesthetics; ANESTHESIA, Duration: local anesthetics.
+
+
+
+
+L  OCAL anesthetics with short duration but rapid
+     onset are often combined with long-acting anes-
+thetics to compensate for the slow onset of action of
+                                                                   appears to depend upon the dose of tetracaine. If the
+                                                                   mixture contains 0.1% tetracaine and either 2% pro-
+                                                                   caine or 1%lidocaine, half of a series of dogs studied
+the latter. A review of previous studies of local anes-            had a duration of anesthesia as short as that observed
+thetic mixtures used for this purpose indicates that               when either procaine or lidocaine alone were used.
+while rapid onset has bem a consistent finding, the                The other half had anesthesia lasting as long as that
+duration of action has been inconsistent.                          produced by tetracaine alone. When the tetracaine
+  For example, comparison of a mixture of bupiva-                  concentration in the mixture was doubled, the dura-
+caine, 100 mg, plus chloroprocaine, 300 mg, with                   tion of anesthesia was the same in all dogs as that
+bupivacaine, 150 mg alone in brachial plexus block,                observed when tetracaine was administered alone.'
+reveals that the mean duration of motor blockade was                  Our clinical trials of a mixture of chloroprocaine
+5 hours for the mixture compared to 7 hours after                  and bupivacaine for regional blocks suggested that
+bupivacaine alone.' When tetracaine is added to pro-               the duration of blockade was shorter than the same
+caine or lidocaine, the duration of epidural anesthesia            block accomplished using bupivacaine alone. This
+                                                                   clinical impression prompted the present study.
+   ' Associate Professor.
+   t Assistant Professor.                                                               Methods
+   $ Professor and Chairman.
+   Received from the Department of Anesthesiology, University of      A double-blind study was performed on 20 healthy
+Kansas College of Health Sciences, 39th and Rainbow Blvd, Kansas
+City, Kansas 66103. Accepted for publication May 4, 1979.          young volunteers. The Human Subjects Committee
+   Reprint requests to Dr. Jong-Min Kim.                           of the University of Kansas Medical Center approved
+                 ANESTHESIA AND ANALGESIA
+364              Vol58, No 5. Sept-Oct 1979
+
+===== PAGE 2 =====
+                                           KIM, GOTO, AND ARAKAWA
+
+the study. Informed consent was obtained from each           tially influencing the duration of local anesthesia in-
+volunteer.                                                   clude: (1)intrinsic binding of drug to receptors in the
+   Using a tuberculin syringe, intradermal wheals            nerve membranes, (2) nonspecific binding of drug to
+were raised on the volar aspect of each volunteer's          membranes or proteins near the site of action, (3)
+forearm with 0.2ml of three local anesthetic solutions.      penetrability of drug through diffusion barriers to the
+The first was 1.5% chloroprocaine, 3 m g the second          biophase, and (4) effect of the drug on local tissue
+was 0.25% bupivacaine, 0.5 m g and the third was a           perfusion.
+mixture of equal volumes of 3%chloroprocaine, 3 mg,             The main sensory receptors for cutaneous pain are
+and 0.5% bupivacaine, 0.5mg. Commercially available          naked nerve endings. Intradermal local anesthetics
+local anesthetics without preservatives were used.           are readily accessible to these nerve endings; the
+Three percent chloroprocaine was diluted with nor-           ability of the agent to penetrate to the site of action is
+mal saline to make 1.5% chloroprocaine. Following            therefore of minor importance.'
+the injections, analgesia to pinprick on the injection          In our study of intradermal anesthesia, the duration
+site was determined every 10 minutes until full recov-       of bupivacaine was significantly shortened when it
+ery occurred. The duration of analgesia was measured         was added to chloroprocaine. A significant difference
+from the time of injection to the last reported anal-        between the mixture and bupivacaine alone is the
+gesia at the site. Statistical analysis was performed        acidity of the solution.
+using the Student's t test for paired data. Results are         The pH range of commercially available chloropro-
+expressed as means +- standard deviations.                   caine is 3.0-3.5 (Penwalt Pharmaceutical Company,
+                                                             Personal communication). When bupivacaine, pH
+                             Results                         5.86, is mixed with chloroprocaine, the pH of the
+  The mean duration of intradermal analgesia was             resulting mixture was 3.44 in our study. A similar low
+found to be 24 f 11 (mean f 1 SD) minutes with               pH of the same mixture was observed by Brodsky
+1.5% chloroprocaine, 139 f 78 minutes with 0.25%             and Br~ck-Utne.~     pH data cannot be averaged until
+bupivacaine, and 36 f 16 minutes with the combi-             they have been converted back to real hydrogen ion
+nation of the two local anesthetics (Table). The dif-        concentration6 After the pH data of bupivacaine,
+ference in duration between the plain and com-               5.86,and chloroprocaine, 3.37, are converted to real
+pounded bupivacaine is 103 minutes, compared to              hydrogen ion concentrations, the calculated pH value
+only 12 minutes difference between the chloropro-            of the resulting mixture of these two solutions is 3.67.
+caine and mixture of chloropmcaine plus bupivacaine.         The difference of 0.23 unit between the calculated
+  Statistical analysis revealed that the difference in       and measured pH values could be the result of an
+duration of action between bupivacaine alone and             error during mixing. Both bupivacaine and chloropro-
+bupivacaine plus chloroprocaine was highly signifi-          caine should be almost completely ionized at this pH.
+cant (p c 0.001), and that the difference in duration        Rapid onset of intradermal anesthesia even with al-
+of action between bupivacaine-chloroprocaine mix-            most completely ionized local anesthetics supports
+ture and chloroprocaine alone was also significant (p        the thesis that penetrability of the drug through dif-
+-=0.01).                                                     fusion barriers is not an important factor; therefore,
+                                                             the amount of available local anesthetics at the nerve
+                                                             membrane and thus the duration of action should not
+  According to Tucker and colleagues? factors poten-         be affected by the acidity.
+                                                                Tissue binding of bupivacaine could be affected by
+TABLE                                                        acidity and also by the presence of chloroprocaine.
+Duration of Intradermal A n m a Obtained by                  Tissue binding could be specific to the receptors in
+Chloroprocaine Alone, BuplvacaineAlone, and a Mixture of     the nerve membrane, if present, or could be nonspe-
+Chioroprocaine and Bupivacaine                               cific. Little is known of the relationship between local
+   Conc. of active agent in solution (%)                     anesthetic effect and drug concentration in the bio-
+                                           Mln of duration   phase or even in the affected tissue. However, there
+ Chloropro-Bupivacaine                     (mean f 1 SD)
+ caine (PKa (pKa                  PH                         is a good correlation between protein binding and
+    8.66)                                                    duration of ane~thesia.~    Greater protein binding ca-
+    1.5                          3.37         24 f 11        pacity implies that the drug should bind to a greater
+                 0.25            5.86        139 f 78        degree with the protein component of nerve mem-
+    1.5          0.25            3.44         36 f 16
+                                                             branes, and, thus, be associated with a longer duration
+                                                                               ANESTHESIA AND ANALGESIA
+                                                                               V O l 5 8 , NO5. Sept-OCt 1979   365
+
+===== PAGE 3 =====
+                                     MIXTURES OF LOCAL ANESTHETICS
+
+of action. Since this binding is nonspecific, many         increased in the affected tissue by mixing bupivacaine
+drugs with similar physicochemical characteristics         with chloroprocaine and that the biophase and im-
+compete with each other. Diphenylhydantoin, quini-         mediate surrounding nerve tissue are the most prob-
+dine, meperidine, and desipramine, for example,            able sites of competition for nonspecific receptors.
+cause displacement of bupivacaine in plasma.' Also            In conclusion, if competition for nonspecific recep-
+the percentage of plasma protein binding of local          tors is responsible for the short duration of the com-
+anesthetics is inversely related to the hydrogen ion       pounded bupivacaine in our intradermal study, the
+and to the local anesthetic concentrations.'. Nishi-       biophase and surrounding nerve tissue are the most
+mura and colleaguesg reported that protein binding         likely sites for the competition. The difference in
+capacity of chloroprocaine is consistently higher than     duration of blockade between chloroprocaine and the
+that of bupivacaine within the pH range of 5-9 and         chloroprocaine-bupivacaine mixture is only 12 min-
+within the range of local anesthetic concentrations 1-     utes; this may be compared to a difference in duration
+20 pg/ml in 4% solutions of bovine serum albumin.          of 103 minutes between bupivacaine alone and the
+   Luduena" reported that the duration of intradermal      bupivacaine-chloroprocaine mixture. This also sup-
+block with 0.25% propoxycaine, a long-acting local         ports the possibility that drug interaction occurs in or
+anesthetic, in guinea pigs is significantly shortened      near the biophase.
+when propoxycaine is added to 2% procaine. The
+possible explanation given was that the high concen-                                 REFERENCES
+tration of the procaine in the mixture competes for
+nonspecific receptors for which the difference in af-       1. Cunningham NL, Kaplan JA: A rapid-onset, long-acting re-
+finity may be small. The amount of propoxycaine not            gional anesthetic technique. Anesthesiology 41509-511, 1974
+                                                            2. Defalque RJ, Stoelting VK: Latency and duration of action of
+bound to receptors and thus liable to systemic ab-             some local anesthetic mixtures. Anesth Analg 45106-116, 1966
+sorption would be increased, thereby shortening the         3. Tucker GT, Boyes RN, Bridenbaugh PO, et al: Binding of
+duration of the anesthesia.                                    anilide-type local anesthetics in human plasma: I. Relationships
+                                                               between binding, physicochemical properties, and anesthetic
+   If the systemic absorption of one local anesthetic is       activity. Anesthesiology 333287-303, 1970
+facilitated by when it is added to another local anes-      4. Astrom A: The pharmacological action of local anesthetics.
+thetic, blood concentrations of the local anesthetic           Acta Anaesthesiol %and [Suppl] 21:19-22, 1966
+                                                            5. Brodsky JB, Brock-Utne JG: Correspondence. Br J Anaesth 50:
+more susceptible to absorption would rapidly reach             1269, 1978
+higher peak levels following injection for major re-        6. Giesecke AH, Beyer CW, Kallus FT: More on interpretation of
+gional anesthesia. However, a study reported by Raj            pH data (correspondence). Anesth Analg 57379-381, 1978
+                                                            7. Ghoneim MM, Pandya H: Plasma protein binding of bupiva-
+and associates," showed that the peak arterial plasma         caine and its interaction with other drugs in man. Br J Anaesth
+level of bupivacaine following epidural and brachial           46:435-438,1974
+plexus blocks with bupivacaine mixed with either            8. Bumey RG, DiFazio CA, Foster JA: Effects of pH on protein
+                                                               binding of lidocaine. Anesth Analg 57:478-480. 1978
+chloroprocaine or lidocaine was comparable to that of       9. Nishimura K, Hamai R, Kitamura E, et al: Protein binding of
+bupivacaine used singly for the same blocks. Wilk-             local anesthetics. Jpn J Anesth 24:245-252, 1975
+inson and Lund" suggested that the long duration of        10. Luduena, FP: Duration of local anesthesia. Annu Rev Pharma-
+                                                               COI 9503-519, 1969
+bupivacaine could be due to its slow removal from          11. Raj PP, Rosenblatt R, Miller J, et al: Dynamics of local-anes-
+the biophase and surrounding nerve tissue which is             thetic compounds in regional anesthesia. Anesth Analg 56110-
+irrespective of the rate of overall elimination from the       117, 1977
+                                                           12. Wilkinson GR, Lund PC: Bupivacaine levels in plasma and
+body. These reports", l2 suggest that systemic vascular        cerebrospinal fluid following peridural administration. Anes-
+absorption is not facilitated nor is tissue perfusion          thesiology 34:482-486, 1970
+
+
+
+
+           ANESTHESIA AND ANALGESIA
+366        Vol58, No 5. Sept-Oct 1979
+

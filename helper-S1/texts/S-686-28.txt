@@ -1,0 +1,576 @@
+
+===== PAGE 1 =====
+Clinical Hemorheology and Microcirculation 55 (2013) 241–253                                                                     241
+DOI 10.3233/CH-2012-1629
+IOS Press
+
+
+
+
+Skin perfusion and pain evaluation with
+different local anaesthetics in a double blind
+randomized study following digital nerve
+block anaesthesia
+Saskia M. Schnabla , Frank Unglaubb , Zarqa Leitzc , Helmut Breuningera
+and Hans-Martin Häfnera,∗
+a
+  Department of Dermatology, University of Tübingen, Tübingen, Germany
+b
+  Department of Hand Surgery, Vulpiusklinik Bad Rappenau, Medical Faculty Mannheim,
+University of Heidelberg, Heidelberg, Germany
+c
+  Department of Dermatology and Allergology, Center for Skin Diseases, Stuttgart Clinic,
+Germany
+
+
+Abstract.
+OBJECTIVE: Supplementing a local anaesthetic with epinephrine has advantages in hand surgery: faster onset of anaesthesia,
+extended effect of anaesthetics with prolonged pain reduction, decreased bleeding into the operative field, and abandoned need
+for tourniquet. We hypothesized that the use of ropivacaine with epinephrine additive in digits allows good skin perfusion rates
+with prolonged pain reduction.
+DESIGN: In this prospective, double-blinded, randomized study with 20 volunteers (80 fingers, without operation) the chrono-
+logical course of changes in digit blood flow, post injection pain status and complication rates after two-injection dorsal technique
+anaesthetic block with ropivacaine (group 1: ropivacaine 0.75%, group 2: ropivacaine 0.75% and epinephrine 1 : 1.000.000, group
+3: local tumescent anaesthesia 0.15% TLA: ropivacaine, lidocaine, saline solution plus epinephrine 1 : 1.000.000) were examined.
+As a control group, injection of 2% lidocaine in the way with 20 minutes tourniquet (group 4) was used.
+MAIN OUTCOME: Group 1 showed increased skin perfusion with a maximum of 160.2%, group 2 showed no significant
+changes with a following significant increase of skin perfusion (+66.6%). In group 3, a significant reduction (–54.1%) was
+followed by an increase of skin perfusion (+45.7%). In the control group (group 4) the skin perfusion was decreased (–66.2%)
+and increased significantly after opening the tourniquet (+248.1%). The longest pain reduction was shown for ropivacaine 0.75%
+and epinephrine with 18.0 hours (group 2); the other groups were between 4.6 to 8.1 hours. Conclusion: Using ropivacaine with
+epinephrine additive in digits could improve the intra-, and postoperative terms.
+Keywords: Digital nerve block anaesthesia, ropivacaine, epinephrine, postoperative pain management, skin perfusion
+
+
+1. Introduction
+
+   Outdated older medical literature stated that local anaesthetics with epinephrine should not be used
+in acral areas. It indicates that epinephrine causes vasoconstriction via alpha-receptors in digital arteries
+resulting in ischemia and gangrene [16]. However, supplementing a local anaesthetic with epinephrine
+  ∗
+    Corresponding author: PD Dr. H.M. Häfner, Department of Dermatology, University of Tübingen, Tübingen, Germany.
+E-mail: hans-martin.haefner@med.uni-tuebingen.de.
+
+
+1386-0291/13/$27.50 © 2013 – IOS Press and the authors. All rights reserved
+
+===== PAGE 2 =====
+242             S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics
+
+has a number of advantages in hand surgery: it may facilitate faster onset of anaesthesia, extend the effect
+of anaesthetics with prolonged post procedure pain relief and reduce the amount required with resulting
+to less toxicity [11, 27]. The addition of epinephrine speeds surgery by decreased bleeding into the
+operative field and abandoned need for tourniquet use to control bleeding [8, 11]. Thus additional hazards
+of tourniquet use such as nerve damage, increased oedema due to lymphatic obstruction, haematoma and
+significant subsequent tissue acidosis with necrosis can be avoided [22].
+   Several literature reviews [1, 4, 8, 9, 11, 17, 25, 26, 30, 31] of acral perfusion during anaesthetic
+block with and without epinephrine additives have been published and have failed to show any support
+behind the current dogma that the acral use of epinephrine in local anaesthetics causes necrosis. Cases
+of digital gangrene after local anaesthesia were reported before 1950 and were associated with procaine
+and cocaine injection with and without epinephrine. There are no reports of necrosis with commercial
+lidocaine-epinephrine mixture. In recent years there are several current reports about the wide-awake
+approach which is defined as the use of local anaesthetics e.g. vasoconstrictive lidocaine with epinephrine
+in finger and hand surgery without use of a tourniquet [7, 18].
+   In the view of the new developments in hand surgery with the above mentioned advantages, the aim
+of this prospective, double-blinded, randomized study was to determine the exact chronological course
+of changes in digit blood flow, post injection pain status and complication rates of volunteers without
+operation using the digital two-injection dorsal technique block for local anesthesia of the finger nerve
+bundles (Oberst’s-method anaesthetic block) with ropivacaine in different mixtures (group 1: ropivacaine
+0.75%, group 2: ropivacaine 0.75% and epinephrine 1 : 1.000.000, group 3: local tumescent anaesthesia
+0.15% TLA: 25 mL ropivacaine 1% (Naropin® ), 25 mL lidocaine 2% (Xylocain® ), 450 mL saline solution
+plus epinephrine Suprarenin® 1 : 1.000.000). The results were compared to the outcomes after injection
+of 2% lidocaine with 20 minutes tourniquet as this method is the commonly used method in hand surgery
+(group 4).
+   We hypothesized that the use of vasodilatative effecting ropivacaine with epinephrine additive allows
+optimized skin perfusion rates with prolonged pain reduction and reduced risk of finger ischemia.
+
+
+2. Patients and methods
+
+2.1. Subjects
+
+   In this prospective, double-blind, randomized study the acral perfusion of 20 healthy subjects (two
+finger of each hand, in total 80 fingers), which are volunteers without any operation, were evaluated. The
+study was approved by institutional review board and all subjects gave written informed consent. The
+study was also performed in accordance with the ethical guidelines of the journal. Twelve volunteers
+were female and eight male. Ages ranged from 21 to 60 years with an average age of 30.25 years (SD
+9.9 years). Exclusion criterias were nicotine consumption, thromboangitis obliterans, diabetic disease,
+peripheral artery occlusive disease, autoimmune dermatosis and other vascular diseases.
+
+2.2. Methods
+
+  Using a questionnaire associated diseases, family history and medication were assessed to find evidence
+for possible exclusion criterias. Clinical evaluation included an Allen’s test in each volunteer to test for
+collateral circulation to the hand by evaluating the patency of the radial and ulnar arteries. This test didn’t
+
+===== PAGE 3 =====
+                   S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics               243
+
+                                                           Table 1
+                                                       Local anesthetics
+
+Group      Fingers per group     Local anesthetics
+I          20 (index finger)     6 mL ropivacaine 0.75%
+II         20 (ring finger)      6 mL ropivacaine 0.75% with epinephrine additive 1 : 1.000.000
+III        20 (index finger)     6 mL tumescent solution 0.15% (25 mL ropivacaine Naropin® , 25 mL lidocaine Xylocain® ,
+                                   450 mL saline solution plus epinephrine Suprarenin® additive 1 : 1.000.000)
+IV         20 (ring finger)      6 mL lidocaine 2% with tourniquet for 20 minutes (control group)
+
+Four different groups of local anesthetics were injected to respective fingers as an anesthetic block at the metacarpophalangeal
+joints: ropivacaine 0.75% (Group 1), ropivacaine 0.75% with epinephrine (Group 2), tumescent solution 0.15% (Group 3),
+lidocaine 2% with tourniquet use (Group 4).
+
+
+
+
+Fig. 1. The test design for measurement of the perfusion parameters. Blood flow was determined simultaneously via laser
+Doppler flowmetry.
+
+
+show noticeable problems, no patient was excluded based on results of their Allen’s test. In the follow-up
+the volunteers were examined daily for 14 days by the same examiner. The evaluation included duration
+of anaesthesia and appearance of post injection complications like prolonged paraesthesia, haematoma
+and movement limitations. The volunteers were randomized into four different groups (Table 1). The
+injection agent was blinded, the examiner (physician) was blinded, too. A two-injection dorsal technique
+digital nerve block for local anesthesia of the finger nerve bundles (Oberst’s-method anaesthetic block)
+was performed on index and ring finger of both hands in each volunteer at the base of the fingers. Each
+finger was injected with 6 mL, 3 mL per lateral and medial side. The fingers were skipped to avoid an
+effect on neighboring digits (Fig. 1).
+
+2.3. Perfusion evaluation
+
+  To quantify changes in skin perfusion, in every group acral skin blood flux was measured via laser
+doppler flowmetry (LDF, Perimed Master 4001 and Perimed PF2b, Sweden; wave length 780 nm) on the
+dorsal side of the fingers below the nail bed. Blood flux in each of the fingers was recorded simultaneously
+by computers [19]. The resulting analogue measurement values were digitalised by an analogue-digital
+
+===== PAGE 4 =====
+244                S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics
+
+
+
+
+Fig. 2. The workflow of the study with time of acclimatisation of the proband, start and course of perfusion and pain measurement.
+
+
+converter with a frequency of 50 Hz (Fig. 1). Perfusion measurements began after 15 minutes acclimatisa-
+tion, followed by an injection 5 minutes later of 6 mL of different local anaesthetics using Oberst’s-method
+anaesthetic block by a physician. The same physician carried out all block [4]. After in following 12 mea-
+surement points (before injection, 1, 8, 16, 24, 32, 40, 48, 56, 60, 360, 1440 minutes), in total the
+measurement period was 1440 minutes. During measurement the volunteers were in a supine position.
+   In the control group (group 4) after injection of 6 mL lidocaine 2% a rotatable metallic finger tourniquet
+apparatus was placed distal to the level of the proximal phalanx for twenty minutes. The LDF signal
+showed the situation of perfusion. Under visual control of the LDF signal the tourniquet was fixed after
+perfusion values were below the zero baseline, equitable with a haemostasis. The workflow of the study
+is shown in Fig. 2.
+
+2.4. Pain evaluation
+
+  Pain was evaluated by provocation on the pulp with a needle. One physician tested all volunteers at
+different time points (measuring points: 0, 16, 32, 48, 60, 360, 1400 minutes) using a visual pain scale
+(VAS scale 1–10).
+
+2.5. Statistical analysis
+
+  Descriptive analysis and graphical presentation was performed using Diadem® Vs. 8.0 (National Instru-
+ments, Austin, Texas) and Jmp® Vs. 3.1.5 (SAS Institute, Cary, NC, USA). Mean, median, quartile and
+simple standard deviation (SD) were calculated. A Student’s paired t test was used to determine whether
+the measurement results for LDF and pain provocation prior to application of the substances changed
+systematically after application. Significance level was set to p < 0.05.
+  For a better overview of the results, the mean percentage of change in blood flow in relation to the
+initial value before injection of one of the substances was calculated and documented. An overview of the
+results of pain perception were given in form of box-and-whiskers plots showing averages, the highest
+and lowest 95% confidence interval and extreme values.
+
+===== PAGE 5 =====
+                   S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics         245
+
+                                                            Table 2
+                                           Perfusion rates of ropivacaine (Group 1)
+
+Point of time [min]     Mean LDF [PU]         SD      p-value     Perfusion change [%]       Median LDF [PU]    Quartiles
+Before injection              27.9           25.6                                                   19.2         7.3/44.8
+1                             30.7           26.5       0.75               10.0                     26.5        11.8/34.8
+8                             43.7           29.2       0.07               56.6                     38.4        23.9/54.2
+16                            41.5           24.0       0.03               48.7                     36.1        22.1/57.9
+24                            47.9           30.2       0.03               71.7                     36.0        24.9/63.8
+32                            51.5           35.5       0.01               84.6                     36.9        26.0/74.8
+40                            55.9           42.2       0.03              100.4                     33.8        25.7/93.1
+48                            64.3           50.8       0.03              130.5                     43.4        25.9/110.1
+56                            72.6           63.0       0.008             160.2                     54.6        27.2/115.1
+60                            68.0           56.3       0.008             143.7                     52.7        26.1/97.8
+360                           64.1           44.8       0.01              129.7                     55.9        39.8/67.7
+1440                          47.9           30.2       0.03               35.1                     40.4        25.7/55.3
+
+Perfusion rates after injection of 6 mL ropivacaine 0.75% (Group 1).
+
+
+                                                            Table 3
+                                  Perfusion rates of ropivacaine with epinephrine (Group 2)
+
+Point of time [min]     Mean LDF [PU]         SD       p-value     Perfusion change [%]       Median LDF [PU]   Quartiles
+Before injection              26.2           19.4                                                    19.2       11.3/43.3
+1                             19.3           17.9       0.18               –26.3                     18.9        2.7/25.8
+8                             21.3           20.1       0.38               –18.6                     20.0        3.6/28.1
+16                            23.5           22.2       0.56               –10.3                     23.1        2.0/36.8
+24                            23.8           21.2       0.59                –9.1                     22.9        4.5/37.6
+32                            25.8           20.0       0.93                –1.5                     26.0        6.9/38.8
+40                            24.0           22.1       0.66                –8.3                     16.0        5.2/38.3
+48                            26.4           23.3       0.97                +0.7                     21.5        4.3/41.0
+56                            28.5           24.6       0.66                +8.9                     26.4        4.4/45.7
+60                            30.6           26.8       0.43               +16.8                     28.3        5.4/47.6
+360                           43.6           31.3       0.05               +66.6                     32.4       22.8/60.9
+1440                          17.2           15.5       0.05               –34.4                     13.0         5.3/21.2
+
+Perfusion rates after injection of 6 mL ropivacaine 0.75% with epinephrine additive 1 : 1.000.000 (Group 2).
+
+
+3. Results
+
+3.1. Perfusion evaluation
+
+  Group 1: Following injection of 6 mL ropivacaine 0.75% skin perfusion values increased (+10.0%).
+Sixteen minutes after injection the skin perfusion change raised significantly to +48.7% (p = 0.03). After a
+continuous progression, skin perfusion values reached +160.2% (p = 0.008) after 56 minutes and +129.7%
+(p = 0.01) after 6 hours. 24 hours after injection the acral perfusion reduced to +35.1% (p = 0.03) in
+comparison to the initial perfusion values before injection (Table 2).
+
+===== PAGE 6 =====
+246                S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics
+
+                                                             Table 4
+                                        Perfusion rates of tumescent solution (Group 3)
+
+Point of time [min]     mean LDF [PU]          SD       p-value      Perfusion change [%]      Median LDF [PU]    Quartiles
+Before injection              23.4            20.2                                                     19.4       7.8/33.1
+1                             10.7            10.7        0.05               –54.1                      7.2       2.4/20.2
+8                             18.9            21.5        0.4                –19.2                     12.1       2.0/36.8
+16                            24.5            29.3        0.9                 +4.9                     15.9       3.6/36.7
+24                            26.8            31.1        0.6                +14.8                     20.9       4.8/32.0
+32                            27.7            32.0        0.56               +18.3                     21.4       5.8/39.2
+40                            31.1            33.8        0.26               +33.0                     23.4       5.6/47.5
+48                            32.3            29.8        0.21               +37.9                     26.3       8.4/58.0
+56                            32.4            30.2        0.19               +38.5                     27.4       6.6/59.9
+60                            34.1            30.4        0.13               +45.7                     28.5       9.3/60.3
+360                           23.1            17.1        0.96                –1.3                     20.6       6.9/35.6
+1440                          15.9            10.7        0.11               –31.9                     14.3       5.8/24.9
+
+Perfusion rates after injection of 6 mL tumescent solution 0.15% (ropivacaine, lidocaine, saline solution plus epinephrine
+1 : 1.000.000) (Group 3).
+
+
+                                                             Table 5
+                                     Perfusion rates of lidocaine with tourniquet (Group 4)
+
+Point of time [min]     Mean LDF [PU]         SD       p-value     Perfusion change [%]       Median LDF [PU]    Quartiles
+Before injection              20.8           14.7                                                    15.9         9.9/32.1
+1                              5.1            2.9      0.0001               –75.4                      3.9         3.3/6.0
+8                              3.4            1.1      0.0001               –83.5                      3.3         2.8/3.9
+16                             7.0           16.6      0.005                –66.2                       3.1        2.7/3.4
+24                            72.2           78.0      0.006               +248.1                     49.1       24.9/79.5
+32                            39.9           35.3      0.05                 +92.1                     29.1       16.9/44.5
+40                            35.5           19.7      0.001                +71.1                     38.1       18.8/49.1
+48                            38.3           29.8      0.05                 +84.7                     33.5       21.3/48.5
+56                            34.2           17.0      0.003                +64.7                     36.1       17.6/47.1
+60                            33.9           16.8      0.003                +63.3                     35.2       17.6/46.4
+360                           18.7           11.7      0.5                   -9.8                     16.1        8.2/31.2
+1440                          15.0            8.6      0.11                 -27.7                     11.9        9.2/20.9
+
+Perfusion rates after injection of 6 mL lidocaine 2% and tourniquet use for 20 minutes (Group 4).
+
+
+  Group 2: Within one hour after injection with 6 mL ropivacaine 0.75% and epinephrine (1 : 1.000.000)
+there were no significant perfusion changes. Six hours later, skin perfusion was significantly increased
+(+66.6%; p = 0.05) and 24 hours later decreased (–34.4%; p = 0.05) in comparison to the initial perfusion
+values before injection (Table 3).
+  Group 3: Briefly after injection of 6 mL local tumescent anesthesia 0.15% (25 mL ropivacaine Naropin® ,
+25 mL lidocaine Xylocain® , 450 mL saline solution plus epinephrine Suprarenin® additive 1 : 1.000.000)
+with Oberst’s-method anaesthetic block, skin perfusion was significantly reduced in comparison to the
+initial value before injection (–54.1%; p = 0.05). Skin perfusion values increased from +4.9% to +45.7%
+
+===== PAGE 7 =====
+                    S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics                   247
+
+
+
+
+Fig. 3. Average percent of change in blood flux in relation to the patient’s level before injection of the local anesthetics.
+Administration of ropivacaine 0.75% resulted in a sustained increase in perfusion, which was still statistically significant even
+after 360 minutes. Administration of ropivacaine 0.75% with epinephrine 1 : 1.000.000 initially resulted in constant values until
+significant increase of 66.6% in perfusion after 6 hours and a reactive decrease of –34.4% in perfusion after 24 hours. Briefly after
+injection of local tumescent anesthesia 0.15% the skin perfusion was significant reduced to –54.1% with following increasing,
+but not significant values. The perfusion following lidocaine 2% injection and opening the tourniquet after 20 minutes rised
+statistically significant to +248.1% compared to the measured values before.
+
+
+
+(16 to 60 minutes). Six hours after injection the perfusion rate was –1.3% and 24 hours –31.9% of the
+initial value (Table 4).
+  Control group (Group 4): Administration of 6 mL lidocaine using an Oberst’s-method anaesthetic
+block and combined use of a tourniquet (Group 4) for 20 minutes resulted in a decrease in mean blood
+perfusion (–75.4%; p = 0.0001). Sixteen minutes after injection the skin perfusion was decreased (–66.2%;
+p = 0.005) and increased significantly after opening (24 minutes: +248.1%; p = 0.006, 60 minutes: +63.3%;
+p = 0.003) of the tourniquet. Six hours after injection blood perfusion was –9.8% and 24 hours –27.7%
+of the initial value (Table 5).
+  The perfusion rates in comparison are shown in Fig. 3.
+
+3.2. Pain evaluation
+
+  Group 1: Sixteen minutes after injection of ropivacaine 0.75% the median VAS was 0, 6 hours after
+injection 0. After 24 hours it increased to VAS = 5 (Fig. 4a). The average duration of drug effect until
+achievement of normal pain perception was 6.0 hours (Fig. 4a).
+  Group 2: Until six hours after injection of ropivacaine 0.75% and epinephrine (1 : 1.000.000) the median
+VAS was 0. After 24 hours the pain perception was normalised (VAS = 10). The average duration of drug
+
+===== PAGE 8 =====
+248                S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics
+
+
+
+
+Fig. 4. a-d: Box-and-whiskers plots of the analgesic effect of the administered substances. The duration of analgesic effect
+with ropivacaine 0.75% (a) was much longer with ropivacaine epinephrine (b) and showed in comparison with all groups the
+longest analgesic time. The initial analgesic effect of tumescent 0.15% (c) takes longer but a decreased analgesic effect was still
+demonstrable even after 6 hours. The shortest analgesic effect in average was reached with lidocaine 2% and tourniquet (d).
+
+
+effect until achievement of normal pain perception of ropivacaine 0.75% and epinephrine was 18.0 hours
+(Fig. 4b).
+   Group 3: Sixteen minutes after injection of 6 mL tumescent solution pain perception was noticeable
+reduced with a median VAS of 0. Between the thirty-second minute and one hour after injection the
+median VAS was 0. After six hours the analgesic effect was decreased (VAS = 6) and after 24 hours
+eliminated (VAS = 10). The average duration until achievement of normal pain perception of 6 mL 0.15%
+tumescent solution was 8.1 hours (Fig. 4c).
+   Control group (Group 4): Sustained analgesia was achieved with lidocaine 2% and tourniquet until
+48 minutes. The maximum analgesia was reached after 16 minutes (VAS = 0). The analgesic effect
+decreased after one hour (VAS = 0) and was nullified after six hours (VAS = 10). The average duration
+until achievement of normal pain perception of 6 mL lidocaine 2% with tourniquet use was 4.6 hours
+(Fig. 4d).
+
+===== PAGE 9 =====
+                  S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics               249
+
+                                                         Table 6
+                                                       Complications
+
+Group                                                     Complications
+I (6 mL ropivacaine 0.75%)                                No complications
+
+II (6 mL ropivacaine 0.75% with epinephrine               • 1 volunteer showed postoperative swelling of the proximal
+  additive1 : 1.000.000)                                    interphalangeal joint for 1.5 days.
+                                                          • 1 volunteer showed a postoperative haematoma in the area of the
+                                                            puncture.
+                                                          • 1 volunteer had an increased pressure-sensitivity of the
+                                                            metacarpal phalangeal joint for one day.
+
+III (6 mL tumescent solution 0.15% (ropivacaine,          No complications
+  lidocaine and epinephrine additive
+  1 : 1.000.000)
+IV (6 mL lidocaine 2% with tourniquet for 20              • 17 volunteers complained about paraesthesia.
+  minutes)                                                • 7 volunteers showed minor motion deficits of the finger with
+                                                            durations between 1.5 and 14 days.
+                                                          • 2 volunteers showed haematomas localised in the area of the
+                                                            tourniquet.
+
+
+
+3.3. Complications
+
+  The complications are detailed in Table 6.
+
+
+4. Discussion
+
+   Traditional medical education discourages the use of epinephrine for digital anaesthesia because of
+possible epinephrine-induced vasoconstriction of end arteries and resulting ischemia and necrosis [16].
+Interestingly in epinephrine supported studies it has become common practice to use an epinephrine
+additive together with lidocaine [7, 18] even though lidocaine alone causes vasoconstriction in proportion
+to the respective tissue concentration.
+
+4.1. Perfusion evaluation
+
+  In our study we determine the exact chronological course of changes in blood flow with ropivacaine
+0.75% with different additives. After injection of ropivacaine 0.75% without additive the perfusion rates
+showed an increasing vasodilatative effect for six hours. With epinephrine additive initial after injection
+no significant perfusion changes were measured. Following the elimination of epinephrine after 6 hours
+perfusion rates showed a vasodilatative and after 24 hours a reactive vasoconstrictive effect. Injection
+of ropivacaine 0.75% plus potential vasoconstrictive additives (lidocaine, epinephrine 1 : 1.000.000) in
+tumescent solution showed initially a reduced perfusion. Because of the longer effective period of ropiva-
+caine 0.75% with an antagonistic vasodilatative effect perfusion values after 16 minutes trend to increase
+continuous. Effects of ropivacaine on perfusion are described controversial in the literature [14], but
+
+===== PAGE 10 =====
+250             S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics
+
+analysis of changes in acral blood flow showed vasodilatative effects and a long lasting effective period
+(6–8 hours) [12, 28].
+   Guinard et al. [10] showed an increased perfusion rate of 12.7% after injection of ropivacaine (0.25%) in
+different skin areas of young pigs. Injection of ropivacaine 0.25% with epinephrine additive (1 : 200000)
+decreased the perfusion rate of –60.4%.
+   Cederholm et al. [3] concluded in their analysis that ropivacaine in different concentrations with
+epinephrine additive (1 : 200.000) decrease the vasoconstrictive effect of epinephrine.
+   Breuninger et al. [2] have described this advantage and beneficial use of ropivacaine in automatic local
+tumescent anaesthesia in a total of 4,670 cutaneous surgical procedures of all kinds in 3,015 subjects.
+   Based on the results of the present study as well as reports in the literature [3, 10, 11] the vasodilata-
+tive effect of ropivacaine can compensate the vasoconstriction of epinephrine and other additives. This
+increases the safety of epinephrine use in digits.
+
+4.2. Analgesic efﬁcacy
+
+   Our data showed the longest analgesic efficiency after injection in digits of 6 mL ropivacaine 0.75%
+with epinephrine (18 hours) and tumescent solution (8 hours).
+   Several studies with local anaesthetics and epinephrine additives [1, 8, 18, 21, 24] mention a faster
+onset, decreased need for additional injections and prolonged post procedure pain relief, because of the
+vasoconstrictive effect of epinephrine and resulting longer persistence of the local anaesthetics in the
+tissue. The current study with first evaluated combination of vasodilatative ropivacaine, a long-acting
+amide and vasoconstrictive epinephrine in different mixtures shows increased efficiency in acute pain
+management and perfusion values with no risk of finger necrosis.
+   Breuninger et al. [2] have described the use of ropivacaine and claimed that ropivacaine acted more
+than twice as long as lidocaine. He stated ropivacaine as a reliable, long-acting local anaesthetic, which
+reduce postoperative pain, make it easier to plan surgery and make it more often possible to avoid general
+anaesthesia. Several other studies confirmed ropivacaine with epinephrine as an effective long-acting
+local anaesthetic combination in lumbar epidural anaesthesia [15], femoral and sciatic nerve blocks [5]
+and postoperative intraarticular injection after knee arthroplasty [20].
+   Weber et al. [29] evaluated the effect of epinephrine on the duration of analgesia of 20 mL ropivacaine
+0.5% or 0.2% injected in femoral three-in-one block for pain relief after total knee replacement. Their
+results showed that epinephrine does not alter the duration of analgesia of the two solutions investigated.
+   It seems that in fingers the combination of ropivacaine and epinephrine has prolonging effects with
+advantages in hand surgery like resulting reduced bleeding and haematoma and improved acute pain
+management.
+
+4.3. Complications
+
+   With regard to necrosis, nerve damage and risk of bleeding in the beginning of our study the perfusion
+was lower with lidocaine and tourniquet than after injection of tumescent solution. In contrast to ropi-
+vacaine 0.75% with and without additives, after opening of tourniquet the acral perfusion rate increased
+suddenly with high values (+63.3%) and a presumed potentional higher risk of bleeding and haematoma
+in the case of insufficient haemostasis.
+   The commonly used method in finger surgery is an Oberst’s-method anaesthetic block combined with
+the use of a tourniquet [7]. Tourniquets have been shown to cause nerve and muscle injury in animals
+
+===== PAGE 11 =====
+                 S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics            251
+
+when pressures exceed 500 mmHg [30]. Digital tourniquets are well tolerated, provided that the skin is
+anesthetized and pressures over 300 mmHg are avoided [23]. But because the tourniquet produces almost
+total occlusion of the blood vessels the time of tourniquet use is limited. Generally it is accepted that
+complete interruption of the perfusion in the acral areas can be used without damage for at least 1 hour
+[6], after 2 hours reperfusion intervals are recommended [22]. After opening the tourniquets a distinct
+hyper perfusion was observed [13].
+  Data in the literature and our results suggest that the use of lidocaine and tourniquet has a higher risk
+of post injection bleeding and haematoma in contrast to the use of ropivacaine and epinephrine.
+
+4.4. Limitations
+
+   Limitations of the study for clinical conclusions are failing perfusion measurements of subcutaneous
+tissue. It can only supposed that changes of skin perfusion with different local anaesthetics and additives
+have the same effect on deeper tissue with all advantages for surgical procedures. Furthermore sensibility
+was not evaluated by a standard technique. We would advise the use for further studies.
+
+4.5. Conclusions
+
+  The benefits of using vasodilatative ropivacaine and epinephrine additive include:
+  1. Compensation of the vasoconstrictive effect of epinephrine. This increases the safety of epinephrine
+     use in digits and minimizes the risk of ischemia. Injection of ropivacaine 0.75% plus potential
+     vasoconstrictive additives (lidocaine, epinephrine 1 : 1.000.000) in tumescent solution showed ini-
+     tially a reduced skin perfusion with hypothetical clinical advantages like reduced blood loss and
+     good view in the operation field. Because of the longer effective period of ropivacaine 0.75% with
+     an antagonistic vasodilatative effect the risk of abrupt reactive hyper perfusion decreased and the
+     postoperative pain management is improved.
+  2. More efficient and prolonged anesthesia and local inhibition of perfusion with good visualisation
+     of the operation field and reduced bleeding and haematoma. Of course, in cases like Dupuytren’s
+     contracture longer pain relief postoperatively is not necessarily desired because the sensibility cannot
+     be examined. There, the advantages of ropivacaine are limited.
+  3. Possibly even decreased need for a tourniquet with reduced risk of tourniquet associated tissue
+     damage or bleeding/haematoma caused by vasodilatation and perfusion rise after opening the
+     tourniquet.
+
+
+Acknowledgments
+
+ The manuscript was written in accordance with the Ethical Guidelines for publication in the journal:
+Anonymous, Ethical Guidelines for publication in Clinical Hemorheology and Microcirculation, Clin
+Hemorheol Microcirc 44 (2010), 1–2.
+
+References
+
+[1] P.R. Andrades, F.A. Olguin and W. Calderon, Digital blocks with or without epinephrine, Plast Reconstr Surg 111 (2003),
+    1769–1770.
+
+===== PAGE 12 =====
+252                S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics
+
+ [2] H. Breuninger, F. Schimek and P. Heeg, Subcutaneous infusion anesthesia with diluted mixtures of prilocain and ropivacain,
+     Langenbecks Arch Surg 385 (2000), 284–289.
+ [3] I. Cederholm, H. Evers and J.B. Lofstrom, Skin blood flow after intradermal injection of ropivacaine in various
+     concentrations with and without epinephrine evaluated by laser Doppler flowmetry, Reg Anesth 17 (1992), 322–
+     328.
+ [4] S. Chowdhry, L. Seidenstricker, D.S. Cooney, R. Hazani and B.J. Wilhelmi, Do not use epinephrine in digital blocks: Myth
+     or truth? Part II. A retrospective review of 1111 cases, Plast Reconstr Surg 126 (2010), 2031–2034.
+ [5] P. Cuvillon, E. Nouvellon, J. Ripart, J.C. Boyer, L. Dehour, A. Mahamat, J. L’Hermite, C. Boisson, N. Vialles, J.Y. Lefrant
+     and J.E. de La Coussaye, A comparison of the pharmacodynamics and pharmacokinetics of bupivacaine, ropivacaine (with
+     epinephrine) and their equal volume mixtures with lidocaine used for femoral and sciatic nerve blocks: A double-blind
+     randomized study, Anesth Analg 108 (2009), 641–649.
+ [6] K. Denkler, A comprehensive review of epinephrine in the finger: To do or not to do, Plast Reconstr Surg 108 (2001),
+     114-124.
+ [7] K. Denkler, Dupuytren’s fasciectomies in 60 consecutive digits using lidocaine with epinephrine and no tourniquet, Plast
+     Reconstr Surg 115 (2005), 802–810.
+ [8] B. Firoz, N. Davis and L.H. Goldberg, Local anesthesia using buffered 0.5% lidocaine with 1:200,000 epinephrine for
+     tumors of the digits treated with Mohs micrographic surgery, J Am Acad Dermatol 61 (2009), 639–643.
+ [9] C. Fitzcharles-Bowe, K. Denkler and D. Lalonde, Finger injection with high-dose (1:1,000) epinephrine: Does it cause
+     finger necrosis and should it be treated? Hand (N.Y.) 2 (2007), 5–11.
+[10] J.P. Guinard, R.L. Carpenter, B.D. Owens and B. Nadir, Comparison between ropivacaine and bupivacaine after subcuta-
+     neous injection in pigs: Cutaneous blood flow and surgical bleeding, Reg Anesth 16 (1991), 268–271.
+[11] H.M. Hafner, M. Rocken and H. Breuninger, Epinephrine-supplemented local anesthetics for ear and nose surgery: Clinical
+     use without complications in more than 10,000 surgical procedures, J Dtsch Dermatol Ges 3 (2005), 195–199.
+[12] H.M. Hafner, U. Schmid, M. Moehrle, A. Strolin and H. Breuninger, Changes in acral blood flux under local application of
+     ropivacaine and lidocaine with and without an adrenaline additive: A double-blind, randomized, placebo-controlled study,
+     Clin Hemorheol Microcirc 38 (2008), 279–288.
+[13] H.N. Himel, M. Ahmad, S.R. Parmett, H.W. Strauss and J.W. May Jr, Effect of the timing of tourniquet release on
+     postoperative hematoma formation: An experimental animal study, Plast Reconstr Surg 83 (1989), 692–700.
+[14] E.G. Keramidas and S.G. Rodopoulou, Ropivacaine versus lidocaine in digital nerve blocks: A prospective study, Plast
+     Reconstr Surg 119 (2007), 2148–2152.
+[15] H.E. Kerkkamp, M.J. Gielen and H.H. Edstrom, Comparison of 0.75% ropivacaine with epinephrine and 0.75% bupivacaine
+     with epinephrine in lumbar epidural anesthesia, Reg Anesth 15 (1990), 204–207.
+[16] H.E. Kleinert, Finger tip injuries and their management, Am Surg 25 (1959), 41–51.
+[17] A.L. Krunic, L.C. Wang, K. Soltani, S. Weitzul and R.S. Taylor, Digital anesthesia with epinephrine: An old myth revisited,
+     J Am Acad Dermatol 51 (2004), 755–759.
+[18] D. Lalonde, M. Bell, P. Benoit, G. Sparkes, K. Denkler and P. Chang, A multicenter prospective study of 3,110 consecutive
+     cases of elective epinephrine use in the fingers and hand: The Dalhousie Project clinical phase, J Hand Surg Am 30 (2005),
+     1061–1067.
+[19] H. Lenasi and M. Strucl, Regular physical activity alters the postocclusive reactive hyperemia of the cutaneous microcir-
+     culation, Clin Hemorheol Microcirc 45 (2010), 365–374.
+[20] A.V. Lombardi, K.R. Berend and J.B. Adams, A rapid recovery program: early home and pain free, Orthopedics 33 (2010),
+     656.
+[21] G. Niemi and H. Breivik, Epinephrine markedly improves thoracic epidural analgesia produced by a small-dose infusion of
+     ropivacaine, fentanyl, and epinephrine after major thoracic or abdominal surgery: A randomized, double-blinded crossover
+     study with and without epinephrine, Anesth Analg 94 (2002), 1598–605, table.
+[22] A.K. Palmer, Complications from tourniquet use, Hand Clin 2 (1986), 301–305.
+[23] J.A. Shaw, W.W. DeMuth and A.W. Gillespy, Guidelines for the use of digital tourniquets based on physiological pressure
+     measurements, J Bone Joint Surg Am 67 (1985), 1086–1090.
+[24] A. Sonmez, M. Yaman, B. Ersoy and A. Numanodlu, Digital blocks with and without adrenalin: A randomised-controlled
+     study of capillary blood parameters, J Hand Surg Eur Vol 33 (2008), 515–518.
+[25] P. Sylaidis and A. Logan, Digital blocks with adrenaline. An old dogma refuted, J Hand Surg Br 23 (1998), 17–19.
+[26] C.J. Thomson, D.H. Lalonde, K.A. Denkler and A.J. Feicht, A critical look at the evidence for and against elective
+     epinephrine use in the finger, Plast Reconstr Surg 119 (2007), 260–266.
+
+===== PAGE 13 =====
+                   S.M. Schnabl et al. / Skin perfusion and pain evaluation with different local anaesthetics              253
+
+[27] A. Trompeter, G. Camilleri, K. Narang, W. Hauf and R. Venn, Analgesia requirements after interscalene block for shoulder
+     arthroscopy: The 5 days following surgery, Archives of Orthopaedic and Trauma Surgery 130 (2010), 417–421.
+[28] Z. Vendegh, A. Melly, B. Toth, K. Wolf, T. Farkas, I. Kadas and J. Hamar, Effects of vasoactive substances on the
+     neurovascular structures and microcirculation in the developing callus 10 and 15 days after bone injury, Clin Hemorheol
+     Microcirc 50 (2012), 279–291.
+[29] A. Weber, R. Fournier, E. Van Gessel, N. Riand and Z. Gamulin, Epinephrine does not prolong the analgesia of 20 mL
+     ropivacaine 0.5% or 0.2% in a femoral three-in-one block, Anesth Analg 93 (2001), 1327–1331.
+[30] B.J. Wilhelmi and S.J. Blackwell, Epinephrine in the finger, Plast Reconstr Surg 110 (2002), 999–1000.
+[31] B.J. Wilhelmi, S.J. Blackwell, J.H. Miller, J.S. Mancoll, T. Dardano, A. Tran and L.G. Phillips, Do not use epinephrine in
+     digital blocks: Myth or truth? Plast Reconstr Surg 107 (2001), 393–397.
+
+===== PAGE 14 =====
+Copyright of Clinical Hemorheology & Microcirculation is the property of IOS Press and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email
+articles for individual use.
+

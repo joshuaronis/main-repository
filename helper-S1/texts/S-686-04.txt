@@ -1,0 +1,269 @@
+
+===== PAGE 1 =====
+ORIGINAL CONTRIBUTION
+anesthetic, local, administration
+
+
+
+
+Pain Reduction in Local Anesthetic
+Administration Through pH Buffering
+
+The effects of pH buffering on the pare of administration and efficacy of            Richard A Christoph, MD
+three local anesthetics (1% lidocaine, 1% lidocaine with 1:100,000 epi-              Leslie Buchanan, RN, ENP
+nephrine, and 1% mepivacaine) were investigated in a randomized, prospec-            Kimberly Begalla, RN, CFNP
+tive, double-blind study of 25 adult volunteers. Plain and buffered solutions        Susan Schwartz, RN, ENP
+                                                                                     Charlottesville, Virginia
+of the three local anesthetics were prepared, and a 0.5 intradermal injection
+of each was administered. Pain of anesthetic infiltration was rated from zero
+to ten. The area of anesthetized skin surrounding each injection site was            From the University of Virginia Medical
+                                                                                     Center, Emergency Medical Services,
+measured at time intervals following each injection. Buffering the local an-         Charlottesville, Virginia.
+esthetics significantly reduced the mean quantitative pain estimates com-
+pared to the nonbuffered controls: I) 1% lidocaine compared with buffered
+                                                                                     Received for publication May 19, 1987.
+1% lidocaine, 4.9 +_ 0.4 versus 1.1 +_ 0.2 (P < 10 6); 2) 1% lidocaine with          Revision received September 28, 1987.
+epinephrine compared with buffered 1% lidocaine with epinephrine, 5.1 +_             Accepted for publication November 16,
+0.4 versus 1.8 +- 0.4 (P < 10 6); and 3) 1% mepivacaine compared with                1987.
+buffered 1% mepivacaine, 5.1 +_ 0.4 versus 0.9 +_ 0.2 (P < 10-6). Onset,
+extent, and duration of skin anesthesia were not statistically altered by pH         Presented at the University Association
+buffering. The pain of local anesthetic administration can be dramatically           for Emergency Medicine Annual Meeting
+reduced by buffering the local anesthetic prior to its infiltration. Anesthetic      in Philadelphia, May 1987.
+efficacy is not compromised, and patient acceptance may be significantly
+increased. [Christoph RA, Buchanan L, Begalla K, Schwartz S: Pain reduc-             Address for reprints: Richard A Christoph,
+tion in local anesthetic administration through pH buffering. Ann Emerg              MD, Emergency Medical Services,
+IVied February 1988;17:117-120.]                                                     Box 523, University of Virginia Hospital,
+                                                                                     Charlottesville, Virginia 22908.
+
+INTRODUCTION
+   Lidocaine, a local anesthetic of the amide class, is one of the most com-
+monly used local anesthetics in the United States today. It is available in a
+wide variety of concentrations and can be combined with varying concentra-
+tions of epinephrine to prolong its action, reduce toxicity, and afford im-
+proved hemostasis3
+   Another amide local anesthetic, mepivacaine, is available for use in emer-
+gency departments across the country. It is similar to lidocaine in its activity,
+but has a slightly more rapid onset and longer duration of action. 1
+   Lidocaine and mepivacaine share with other local anesthetics a charac-
+teristic discomfort associated with their use in infiltrative local anesthesia. It
+is known that very slow infiltration of the local anesthetic can reduce the
+pain associated with its infiltration, 2 but demands on the physician's time
+may preclude the very slow infiltration of local anesthetic. In addition, ED
+patients, especially children, are frequently agitated and fearful. Therefore, it
+would be desirable if a convenient method could be devised by which the
+infiltration of local anesthetic could be less painful.
+   The mechanism of action of local anesthetics has been clarified in several
+studies, a-s Local anesthetic solutions of the amide type are weak organic
+bases, comprised of charged and uncharged fractions when in solution. The
+relative percentage of each fraction is dependent on the pH of the solution,
+ with less local anesthetic in the uncharged form as the acidity of the solu-
+ tion increases.
+    It is believed that only the uncharged form of the local anesthetic is capa-
+ ble of diffusion through interstitial tissues and transport across the nerve
+ membrane.a, 4 The greater the concentration of the local anesthetic in its
+ uncharged form, the more rapid might become its dispersion through the
+
+
+ 17:2February 1988                             Annals of Emergency Medicine                                              117/27
+
+===== PAGE 2 =====
+LOCAL ANESTHETIC
+Christoph et al
+
+
+
+
+tissues.
+    Once within the nerve axoplasm,                                     TABLE 1. Prepared local anesthetic solution pH
+Hille hypothesized, the uncharged lo-
+cal a n e s t h e t i c reequilibrates into
+charged and uncharged fractions ac-                       Local Anesthetic                                                          pH
+cording to axoplasmal pH. 5 He sug-                       1% lidocaine                                                             6.21
+gested that the charged form blocked                      Buffered 1% lidocaine                                                    7.22
+n e u r o t r a n s m i s s i o n at the s o d i u m
+channel, s                                                1% lidocaine/epinephrine                                                 5.98
+    Most local anesthetic solutions cur-                  Buffered lidocaine/epinephrine                                           7.16
+rently marketed are quite acidic. 6 At                    1% mepivacaine                                                           6.18
+the marketed pH of 5.0 to 7.0, the lo-                    Buffered 1% mepivacaine                                                  7.20
+cal anesthetic is more soluble and has
+a shelf-life of three to four years. If the
+pH of the anesthetic solution is ad-                   tory of allergic or other adverse reac-     propyl alcohol and the entire contents
+justed toward its pKa (7.9 for lido-                   tion to lidocaine, mepivacaine, or epi-     of the syringe containing the local an-
+ caine, 7.6 for mepivacaine), an increas-              nephrine, or with a history of peri-        esthetic labeled "unknown A" were
+ ing percentage of the product will be                 pheral neuropathy, cardiovascular dis-      administered intradermally using a
+ the u n c h a r g e d base form. M o s t              ease, or hypertension were excluded.        25-gauge needle. At the completion of
+ amines and amides are chemically un-                  Informed consent was obtained from          the injection a stopwatch was started.
+ stable in this uncharged form, being                  25 subjects, who were then enrolled         Each participant then was asked to in-
+ subject to photodegradation, aldehyde                 and completed the study.                    dicate on the Visual Analogue Scale
+ formation, and other denaturing reac-                    To minimize the incidence of ad-         the number that corresponded to his
+ tions. While the shelf-life of lidocaine              verse reactions to additives and preser-    or her perception of the amount of
+ and mepivacaine adjusted to a pH of                   vatives, local anesthetic solutions free    pain associated with the infiltration of
+ 7.2 to 7.4 has not been measured pre-                 of adulterants were used for the study.     the anesthetic solution. The Visual
+ cisely, it follows that raising their pH              These were obtained as solutions in-        Analogue Scale Pain Score was re-
+ to this level would substantially re-                 tended for use in epidurat block. The       corded.
+ duce effective storage shelf-life and                 local anesthetic solutions were pre-           Immediately thereafter, another in-
+ solubility, z                                         pared as 10:1 dilutions with either         vestigator applied a 3-inch piece of
+    Therefore, it is rational to market                NaC1 or NaHCO 3 as follows: 1) 20 mL        cloth tape to the skin overlying the in-
+ local anesthetics within a pH range of                1% lidocaine + 2.0 mL NaC1 (.9%             tradermal wheal raised by the local
+ 5.0 to 7.0 to enhance solubility and                  NS); 2) 20 mL 1% lidocaine + 2.0            anesthetic injection. The edge of the
+ prolong shelf-life. On the other hand,                NaHCO 3 (1 mEq/mL); 3) 20 mL 1%             tape was located over the center of the
+ raising the pH to 7.2 to 7.4 may have a               lidocaine + 0.2 mL e p i n e p h r i n e    wheal, with the long axis situated at a
+ positive impact on anesthetic efficacy                (1:1,000) + 2.0 mL NaC1 (.9% NS); 4)        90 ° angle to the axis of the injecting
+ by increasing the percentage of the lo-               20 mL 1% lidocaine + 0.2 mL epi-            needle. Thirty seconds after the injec-
+ cal anesthetic in the uncharged form,                 nephrine (1:1,000) + 2.0 mL NaHCO 3         tion, the diameter of the area of the
+ enhancing soft tissue dispersion of the               (1 mEq/mL); 5) 15 mL 1% mepivacaine         skin anesthetized to pinprick was
+ anesthetic.                                            + 1.5 mL NaC1 (.9% NS); and 6) 15          identified and marked on the tape.
+     Several recent clinical studies have              mL 1% m e p i v a c a i n e + 1.5 mL        This procedure was repeated at one,
+ focused on enhanced anesthetic effica-                NaHCO 3 (1 mEq/mL).                         1V2, 2V2, 3V~, and 4V2 minutes after the
+ cy resulting from pH adjustment of                       The pH of each resultant solution        injection, using different colored
+ the local anesthetic prior to use in re-              was measured using a Beckman 3560           marking pens to indicate each time
+ gional anesthesia and major nerve                     pH meter (Beckman Instruments, Ir-          interval. The tape was removed and
+ block. 8-1o These studies did not, how-               vine, California).                          placed on an identifying paper for later
+  ever, address the issue of the pain of                  Tuberculin syringes were used to         measurement and recording.
+ anesthetic infiltration itself.                       draw 0.5-mL aliquots of each of the             The local anesthetic labeled "un-
+     Our study was undertaken to inves-                six local anesthetic solutions. For each    known B" then was injected intrader-
+  tigate the effects of pH buffering on                subject, pairs of buffered and un-          mally in the dorsum of the left hand
+  the pain of anesthetic infiltration and              buffered local anesthetic solutions         and the steps noted above were repeat-
+  anesthetic efficacy of three commonly                were assigned and labeled A to F,           ed. Local anesthetic "unknown C"
+  used local anesthetics: 1% lidocaine,                using a random number table. Injec-         was injected intradermally in the dis-
+  1% lidocaine with 1:100,000 epi-                     tions were given intradermally by a         tal right volar forearm, local anesthet-
+  nephrine, and 1% mepivacaine.                        blinded investigator over an interval of    ic "unknown D" in the distal left volar
+                                                       2.5 seconds, timed by a metronome. A        forearm, "unknown E" in the proximal
+ MATERIALS A N D METHODS                               linear Visual Analogue Scale from 0 to      right volar forearm, and "unknown F"
+   Healthy adult (18 to 40 years old)                   10, a device often used in pain analysis   in the proximal left volar forearm.
+ volunteers were enrolled "~nto this ran-              studies, was made available to each             The Visual Analogue Scale quan-
+ domized, prospective, double-blind                     subject. 11 This device enabled subjects    tifications of pain (pain scores) for
+ study according to a protocol approved                 to assign a numerical value to the          each of the six local anesthetic solu-
+ by the University of Virginia Human                   pain of anesthetic infiltration.             tions were averaged. The mean pain
+ Investigation Committee.                                 For each participant, the dorsum of       scores associated with the buffered
+   Pregnant subjects, those with a his-                 the right hand was prepared with iso-      and unbuffered solutions of each local
+
+28/118                                                      Annals of Emergency Medicine                                  17:2 February 1988
+
+===== PAGE 3 =====
+                                   TABLE 2. Surface area of skin anesthetized to pinprick (cm 2 +_ standard error)
+
+
+                                                                                                Time After Anesthetic Infiltration
+  Local Anesthetic                                                       1/a Min            1 Min     11/2 Min    21/2 Min       31/2 Min                  41/2 Min
+  1% lidocaine                                                          3.5   _+ 1.6     4.4   _+ 2.4      4.7    __ 2.3   5.6   __ 3.4    6.6   +_ 3.8   6.9   _+ 4.5
+  1% lidocaine-buffered                                                 3.5   _+ 1.8     4.9   _+ 2.6      5.7    _+ 3.1   6.4   __ 3.6    7.4   +_ 4.1   7.8   _+ 4.1
+  1% l i d o c a i n e / e p i n e p h r i n e                          3.3   _+ 2.1     4.2   _+ 2.9      4.7    _+ 4.2   5.7   ___ 5.1   6.8   _ 7.0    7.0   _+ 5.4
+  1% l i d o c a i n e / e p i n e p h r i n e - b u f f e r e d        3.0   __ 1.7     3.9   __ 1.8      4.7    _+ 2.6   5.3   _+ 3.1    6.4   +_ 4.1   6.5   __ 4.1
+  1% m e p i v a c a i n e                                              3.3   +_ 1.8     4.4   + 2.4       4.6    + 2.4    5.8   __ 3.1    7.2   _+ 3.6   8.0   _+ 4.9
+  1% m e p i v a c a i n e - b u f f e r e d                            3.3   +_ 1.7     4.1   + 2.1       5.1    +_ 3.2   6.3   _+ 3.6    7.3   _+ 5.1   7.9   _+ 4.3
+
+
+
+                                                                                                                             FIGURE. Mean pain scores associated
+                                                                                                                             with intradermal infiltration of pain
+                                                                                                                             and p H buffered local a n e s t h e t i c
+          6
+                                                                                                                             solution.
+
+     05                     T                                      T                       T
+                                                                                                                             ered 1% lidocaine did anesthetize a
+                                                                                                                             larger surface area of skin than did the
+     c 4                                                                                                                     nonbuffered 1% lidocaine (P = .03).
+                                                                                                                             For the comparisons of buffered com-
+     =3                                                                                                                      pared with nonbuffered 1% lidocaine
+                                                                                                                             with epinephrine and buffered com-
+                                                                                                                             pared with nonbuffered 1% mepiva-
+                                                                                                                             caine, there were no statistically sig-
+
+                                      ®                                                                                      nificant differences in surface area of
+                                                                                                                             anesthetized skin.
+
+                                                                                                                             DISCUSSION
+                [pH 6.21                 722            I      5.98      7.16      I      6.18      7.20         PH I           This study of 25 adult volunteers
+                           Lidocaine                               Lido/Epi              Mepivacaine                         demonstrated a dramatic reduction in
+                    Unbuffered Buffered                     Unbuffered Buffered        Unbuffered Buffered                   the pain of anesthetic infiltration of
+                                                                                                                             three local anesthetics c o m m o n l y
+                                                                                                                             used in the ED. This was accom-
+anesthetic were compared using the                                        The amount of pain associated with                 plished by buffering the pH of the lo-
+Student's t test for paired samples. 1~                                the infiltration of the local anesthetic              cal anesthetic toward a more phys-
+  Assuming that the i n t r a d e r m a l                              solutions was dramatically reduced by                 iologic range of 7.0 to 7.4 without risk
+wheal created by the local anesthetic                                  buffering (Figure). The infiltration of               of anesthetic precipitation or denatur-
+approximated the shape of a circle,                                    the 1% lidocaine was 4.5 times more                   ing of the compound. Many of the
+and that the interstitial dispersion of                                painful than buffered 1% lidocaine;                   subjects indicated that infiltration of
+anesthetic would follow a pattern of                                   1% lidocaine with epinephrine was 2.8                 pH-adjusted local anesthetics was
+enlarging concentric circles, the sur-                                 times more painful than buffered 1%                   painless.
+face area of anesthetized skin was cal-                                lidocaine with epinephrine; and 1%                       The alleviation of pain associated
+culated in cm 2 at each time interval.                                 mepivacaine was 5.7 times more pain-                  with infiltration of buffered local an-
+  The mean anesthetized skin surface                                   ful than buffered 1% mepivacaine.                     esthetic could hypothetically be at-
+areas for the buffered and unbuffered                                  These results were statistically highly               tributed to two processes: the adjust-
+pairs of each local anesthetic solution                                significant with P < 10 6 in all cases.               ment of local anesthetic pH toward
+were compared at each time interval                                       Buffering these local anesthetic so-               the physiologic range of 7.0 to 7.4 re-
+using the Student's t test for paired                                  lutions did not compromise their an-                  duces the direct tissue i r r i t a t i o n
+samples, lz                                                            esthetic efficacy, as indicated by the                caused by the infiltration of a more
+                                                                       surface area of skin that was anesthe-                acidic compound; and by increasing
+RESULTS                                                                tized to pinprick (Table 2). While the                the pH of the local anesthetic to 7.0 to
+  The effect of the buffering of the lo-                               comparisons of anesthetized skin sur-                  7.4, the relative concentration of local
+cal anesthetic solutions was a raising                                 face area for buffered compared with                  anesthetic in the uncharged form is
+of the pH toward a more physiologic                                    nonbuffered 1% lidocaine did indicate                 increased, thus enhancing interstitial
+range of 7.0 to 7.4 (Table 1). This was                                a trend toward enhanced interstitial                  dispersion of the local anesthetic. The
+accomplished without a rise in pH                                      dispersion by the buffered 1% lido-                   result might be sensory nerve block-
+above 7.4, w h i c h would have in-                                     caine, the results were not statistically            ade occurring almost instantaneously.
+creased the risk of precipitation of lo-                                significant except for the 1V2-minute                   The reduction in pain of infiltration
+cal anesthetic out of solution.l#                                       time interval. At that time the buff-                of the buffered local anesthetic solu-
+
+17:2 February 1988                                                            Annals of Emergency Medicine                                                            119/29
+
+===== PAGE 4 =====
+LOCAL ANESTHETIC
+Christoph et al
+
+
+
+
+tion is not due to either a dilutional                       To facilitate the incorporation of lo-               REFERENCES
+effect or reduced dosage of local anes-                    cal anesthetic buffering into clinical                 1. Ritchie JM, Greene NM: Local anesthetics,
+thetic, as all s u b j e c t s r e c e i v e d t h e       practice, an ampule of N a H C O 3 can                 in Goodman and Gilman {eds): The Phar-
+                                                                                                                  macologic Basis of Therapeutics, ed 7. New
+same volume and dosage.                                    be s t o r e d i n t h e m i n o r p r o c e d u r e   York, MacMillan, 1985, p 302-321.
+   Adjustment of pH does not adverse-                      room specifically for admixture with
+                                                           local anesthetic solutions. The buffer-                2. Rund DA: Essentials of Emergency Medi-
+ly affect local anesthetic efficacy. The                                                                          cine. Norwalk, Connecticut, Appleton-Century-
+onset of skin anesthesia was at least                      ing of the local anesthetic should be                  Crofts, 1986, p 274.
+as rapid for the buffered local anes-                      done immediately prior to its use, as                  3. Ritchie JM, Ritchie B, Greengard P: The ac-
+thetic compared with the u n b u f f e r e d               adjusting the pH upward would be ex-                   tive structure of local anesthetics. J Pharmacol
+anesthetic. Measures of skin anesthe-                      pected to decrease the shelf-life of the               Exp Ther 1965;150:152-159.
+sia were carried out for 4V2 minutes.                      anesthetic. 1,7                                        4. Strobel GE, Bianchi CP: The effects of pH
+M u l t i p l e studies o n n e r v e prepara-                                                                    gradients on the distribution of C14 -- propaine
+tions, 4 major nerve block,9,1° and re-                    CONCLUSION                                             and lidocaine in intact and desheathed sciatic
+gional nerve block s have shown that                          The pain of infiltration of 1% lido-                nerve trunks. I Pharmaco] Exp Ther 1970;
+                                                                                                                  172:18-32.
+the duration of anesthetic effect is un-                   caine, 1% lidocaine with epinephrine,
+changed by local anesthetic buffering.                     and 1% mepivacaine can be dramat-                      5. Hille B: Local anesthetic. Hydrophilic and
+                                                                                                                  hydrophobic pathways for the drug receptor ac-
+In our ED, we have noted no clinically                     ically reduced by buffering their pH to                tion. J Gen Physiol 1977;69:497-815.
+significant a l t e r a t i o n s of a n e s t h e t i c   7.0 to 7.4. In a volunteer study, the in-
+d u r a t i o n w h e n u s i n g buffered solu-           filtration of the anesthetic became al-                6. Moore DC: The pH of local anesthetic solu-
+                                                                                                                  tions. Anesth Analg 1981;60:833-834.
+tions for infiltrative local anesthesia,                   most painless. Buffering can be easily
+   T h e f i n d i n g s of this s t u d y have            and safely accomplished by the addi-                    7. deJongRH: Local Anesthetics. Springfield,Il-
+                                                                                                                  linois, Charles C Thomas, 1977, p 42-50.
+multiple applications in the ED. The                       tion of N a H C O 3 so that the resultant
+pediatric patient, already fearful and                     ratio of local anesthetic to N a H C O 3               8. BuckleyFP, Neto GD, Fink BR: Acid and al-
+anxious, will likely be m u c h more co-                   equals 10:1. In doing so, the efficacy of              kaline solutions of local anesthetics: Duration
+                                                                                                                  of nerve block and tissue pH. Anesth Analg
+operative t h r o u g h a m i n o r surgical               the local a n e s t h e t i c is n o t compro-         1985;64:477-482.
+procedure if the local a n e s t h e t i c is              mised. It is r e c o m m e n d e d that local
+                                                                                                                  9. Galindo A: pH-adjusted local anesthetics:
+nearly painless. Local anesthesia can                      anesthetic buffeting occur immediate-                  Clinical experience. Reg Anesth 1983;8:35-36.
+be provided without spending an inor-                      l y prior to the use of the local anes-
+dinate a m o u n t of physician time slow-                 thetic, 8o as to eliminate concerns re-                10. DiFazioCA, Carton H, GrosslightKR, et al:
+                                                                                                                  Comparison of pH-adjusted lidocaine solutions
+ly infiltrating the anesthetic. As the                     g a r d i n g s h o r t e n e d shelf-life of the      for epidural anesthesia. Anesth Analg 1986;
+pain of digital nerve blockade is pri-                     anesthetic caused by the buffering.                    65:760-764.
+marily related to the pain of anesthet-                                                                           11. Scott J, Huskisson EC: Graphic representa-
+ic infiltration, it may be that this form                  The authors thank Robert D Powers, MD,                 tion of pain. Pain 1976;2:175-184.
+of regional anesthesia would also be                       and Joseph F Chance, MD, for editorial as-             12. Dixon WJ, Massey FJ: Introduction to Sta-
+more readily tolerated by buffering the                    sistance in the preparation of this man-               tistical Analysis. New York, McGraw-Hill,
+ local anesthetic prior to use.                            uscript.                                               1983, p 116-160.
+
+
+
+
+ 30/120                                                           Annals of Emergency Medicine                                                17:2 February1988
+

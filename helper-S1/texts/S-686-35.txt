@@ -1,0 +1,271 @@
+
+===== PAGE 1 =====
+ORIGINAL CONTRIBUTION
+anesthesia, local;
+lidocaine
+
+
+
+
+                               E f f e c t of Body Locale and Addition of
+                               Epinephrine on the Duration of Action of a Local
+                               Anesthetic Agent
+
+From the Departments of        Keir Todd, PA-C      Study objective: Little information exists relating body locale to the
+Emergency Medicine, Detroit    William A Berk, MD   duration of action of local anesthetics. We tested the duration of action
+Receiving Hospital and         Raywin Huang, PhD    of a local anesthetic with and without epinephrine at different body
+University Health Center,                           locales.
+and Wayne State University,
+                                                    Participants: Twenty healthy volunteers aged 27 to 48 years (mean,
+Detroit, Michigan.
+                                                    32.0 years).
+Received for publication                            Interventions: In the first of two experiments (L}, 20 subjects had 1
+September 23, 1991. Revision                        mL buffered 1% lidocaine injected intradermally on the forehead, hand,
+received January 20, 1992.                          forearm, and calf. In the:second experiment (LE), ten subjects were
+Accepted for publication                            injected at the same sites with lidocaine containing epinephrine.
+January 30, 1992.
+                                                    Methods: Subjects ranked anesthesia by reaction to pinprick from 0
+Presented at the Society                            (complete) to 20 (none) on a scale with testing done every 15 (L) or 30
+for Academic Emergency                              (LE) minutes and continued until no anesthetic effect was present.
+Medicine Annual Meeting in                          Duration of effective and of any anesthesia were times until score of
+Washington, DC, _May1991.                           more than 5 and of more than 19, respectively. Mean duration of anes-
+                                                    thesia was compared by analysis of variance (between body areas) and
+                                                    paired two-tailed t-test (L vs LE). Significance was taken as P< .05.
+                                                    Results: Anesthesia was significantly briefer for the face than for all
+                                                    other body locales by both indexes of duration and for both plain lido-
+                                                    caine and lidocaine with epinephrine (P< .001 to P< .05). Anesthesia
+                                                    with epinephrine lasted significantly longer than with lidocaine alone
+                                                    at all body locales and for duration of both effective or any anesthesia
+                                                    (P= .0001 to P= .001). Based on 95% confidence interval limits, the
+                                                    duration of anesthesia at other body locales is predicted to be 1.3- to
+                                                    3.2-fold that on the face. Confidence interval analysis indicated that
+                                                    addition of epinephrine to lidocaine increases the duration of anesthet-
+                                                    ic action by 1.3- to 13.0-fold that of lidocaine alone.
+                                                    Conclusion: The duration of action of local anesthesia is consider-
+                                                    ably shorter for the face than for other body areas. Epinephrine signifi-
+                                                    cantly increases the duration of action of lidocaine at all body locales.
+                                                    [Todd K, Berk WA, Huang R: Effect of body locale and addition of
+                                                    epinephrine on the duration of action of a local anesthetic agent.
+                                                    Ann EmergMed June 1992;21:723-726.]
+
+
+
+
+74/723                                                                    ANNALS OF EMERGENCY MEDICINE 2 1 : 6      JUNE1992
+
+===== PAGE 2 =====
+BODY LOCALE
+Todd, Berk & Huang
+
+
+
+
+INTRODUCTION                                                                                           Duration of any anesthesia was considered the time until the
+The duration of action of local anesthetic agents has been the                                         score was greater than 19.
+subject of considerable scientific study. Most previous work                                             Differences in duration of anesthesia at the various body
+has considered the relative duration of action of various                                              locales with lidocaine only were compared by repeated mea-
+compounds at a single body localeA -a Therefore, data relat-                                           sures analysis of variance (ANOVA). The Scheffe test was
+ing to the effect of body locale on duration of action are                                             used post hoc to test pairwise significance. Differences in
+scant. We evaluated the relative duration of action of the                                             duration of anesthesia with and without epinephrine at each
+local anesthetic agent lidocaine w i t h a n d without                                                 body locale were compared with the two-tailed paired
+epinephrine at four body locales.                                                                      Student's t-test for the ten subjects who participated in
+                                                                                                       both phases of the study. Significance was set at P < .05.
+                                                                                                         After ANOVA and the Student's t-test showed significant
+MATERIALS AND METHODS
+Twenty healthy volunteers aged 27 to 48 years (mean, 32.0                                              differences between the face and other body locales and
+years) were recruited from emergency department person-                                                between lidocaine with and lidocaine without epinephrine,
+nel. Exclusion criteria were allergy to lidocaine, pregnancy,                                          mean ratios with 95% confidence intervals were calculated
+                                                                                                       for the duration of effective anesthesia at each of the other
+and c u r r e n t use of analgesic or sedative agents. In the first
+of two experiments, all subjects were injected with i mL 1%                                            body locales to that on the face (all 20 volunteers) and the
+                                                                                                       duration of effective anesthesia with lidocaine and epine-
+lidocaine buffered with sodium bicarbonate as described by
+Christoph et al. s With a 25-gauge needle attached to a tuber-                                         phrine to lidocaine alone at each body locale (the ten volun-
+culin syringe, an intradermal wheal was raised on the fore-                                            teers in both phases of the study). Ratios were calculated to
+head close to the scalp, the volar forearm just distal to the                                          determine the relative duration of anesthesia at each body
+                                                                                                       locale and with and without epinephrine. Determining rela-
+antecubital fossa, the dorsal aspect of the n o n d o m i n a n t
+                                                                                                       tive duration is important because actual duration in clinical
+hand, and the medial aspect of the leg just below the knee.
+                                                                                                       practice depends on dose administered and individual differ-
+  Study subjects were asked to report the effectiveness of
+anesthesia every 15 minutes by marking a 21-point pain-                                                ences in local and systemic metabolism as well as on other
+analysis scale labeled "dull" at the left margin and "sharp"                                           factors. Because these ratios represent the mean of all indi-
+                                                                                                       viduals' ratios, they may not coincide with the ratios of mean
+at the right margin in response to a prick with a 25-gauge
+                                                                                                       durations of anesthesia (Table 1). The study was approved
+needle at the site of injection. For purposes of data analysis,
+                                                                                                       by the Wayne State University H u m a n Use Committee.
+a n u m b e r was assigned to each response, ranging from 0 for
+no painful sensation to 20 for completely absent anesthetic
+effect. This method is generally accepted as a means of mea-                                           RESULTS
+suring response to painful stimuli.5,6                                                                 The duration of anesthesia for both lidocaine alone and lido-
+  In the second experiment, which was performed on a dif-                                              caine with epinephrine at each body locale is given (Table 1).
+ferent day than the first, ten of the volunteers from the first                                        With one exception, both effective and any anesthesia
+experiment were injected at the same body locales with                                                 (whether with or without epinephrine) were significantly
+buffered 1% lidocaine containing epinephrine in a 1:100,000                                            briefer for the face than for all body locales.
+concentration. Anesthetic effect was reported in a m a n n e r                                           With epinephrine added, both effective and any anesthesia
+identical to the first experiment except that measurements                                             lasted longer than lidocaine alone at all body locales (face:
+were recorded every 30 instead of 15 minutes.                                                          effective anesthesia, P = .003, paired t = 4.0; face: any anes-
+  To facilitate data analysis, the efficacy of anesthesia was                                          thesia, P = .02, paired t = 3.0; all others: P = .0001, paired
+defined arbitrarily as follows. Duration of effective anesthe-                                         t = 8.6 to 12.0).
+sia was considered the time until the score was greater than 5.                                          The time courses of local anesthetic effect with and without
+                                                                                                       epinephrine at each body locale are given (Figure).
+Table 1.                                                                                                 The ratios of duration of anesthesia at other body areas to
+Mean + SEM duration of effective and any anesthesia f o r each body locale
+                                                                                                       that of the face and of duration of anesthesia with epine-
+                                          Durationof Anesthesia(hr)*
+                                                                                                       phrine to that of lidocaine alone at each body locale are also
+                       Face               Hand               Arm                       Leg
+                Effective Any        Effective Any Effective Any                Effective     Any      given (Tables 2 and 3).
+Lidocaine       0.7_+0.11.6+0.2       1.4_+0.2 2.5+0.2     1.2_+0.1 2.5_+0.2 1.2_+0.1 2.0_+0.2
+Lidecaine/                                                                                             DISCUSSION
+ epinephrine    3.0_+0.6 4.2+0.8     6.8_+0.6 8.1_+0.6 8.7_+0.6 9.3_+0.6 9.9_+0.9 11.3_+0.8
+                                                                                                       Our experiments indicate that local anesthetic action is
+*Pvalues for body locales comt~aredwith the face were as follows: for lidecaine alone, effective
+anesthesia:hand, P < .001;arm, P = .07;leg, P< .01;for any anesthesia, P < .01 for all body locales.
+                                                                                                       significantly briefer on the face than at other body locales.
+Pvalues for body locales compared with the face were as follows: for lidocaine with epinephrine,       Anesthesia at other body locales has a duration ranging from
+effective anesthesia:hand, P< .01;other locales, P< .00001;for any anesthesia, P< .0001for all         1.3- to 3.2-fold that on the face at the 95% confidence level
+body locales. The only other significant differences observed were between hand and leg lidocaine
+with epinephrinefor both effective (P< .05) and any anesthesia(P< .01).
+                                                                                                       (Table 2). The cause of this effect is unclear, but it may be
+                                                                                                       related to the decreased susceptibility of this area to infec-
+
+
+
+
+JUNE1992        21:6     ANNALS OF EMERGENCY MEDICINE                                                                                                         724/75
+
+===== PAGE 3 =====
+BODY LOCALE
+Todd, Berk & Huang
+
+
+
+
+Figure.
+                                                                                          tion following wound repair.7, 8 We noted little difference in
+Scoring ( m e a n ++_S E M indicated by error bars) against time for each body locale.    activity on body areas other than the face.
+Solid line, lidocaine only, hatched line, lidoeaine with epinephrine.                       The addition of epinephrine to lidocaine prolonged the
+                                                                                          effective duration of anesthesia by 1.3- to 13.0-fold at the
+          Score                                                                           95% confidence level, depending on body locale (Table 3).
+           20                                                                             Although this effect could prove especially helpful in caring
+                                                                                          for facial injuries, care should be taken not to use epine-
+           16                                                                             phrine in contaminated wounds due to its vasoconstrictive
+                                                                                          properties, which may potentiate infection.9, ]°
+           12
+                                                                                            Our experiments differ from the clinical practice of wound
+              8
+                                                                                          repair in that injections were made through intact skin in
+                                                                                          volunteers in an unwounded area. The results of other stud-
+              4                                                                           ies suggest that wounding itself may have an effect on the
+                                                                                Face      duration of action of local anesthetic agents. Compared with
+              0
+                  0    1   2   3   4   5   6      7    8    9    10   11   12   13   14
+                                                                                          cliuically appreciable blood levels when injected through
+                                               Time (hr)                                  intact skin, 11 lidocaine concentrations were undetectable
+                                                                                          when assayed for in patients undergoing suture repair under
+          Score
+                                                                                          infiltration anesthesia. 12 The cause of this phenomenon is
+           20 -
+                                                                                          unclear, but it may be related to local vasoconstriction in
+           16                                                                             response to trauma. If so, local sequestration of anesthetic
+                                                                                          agents could result in a longer duration of action in wounded
+           12                                                                             than in unwounded tissue. Mternatively, local metabolism
+                                                                                          may be enhanced, resulting in a shorter duration of action in
+              8
+                                                                                          wounded areas. Mthough such phenomena would be more
+                                                                                          likely to influence absolute rather than relative duration of
+              4
+
+                                                                                Hand
+                                                                                          action by body locale, they suggest that our results should be
+                  J
+              0 •                                                                         interpreted with caution.
+                0      1   2   3   4   5   6       7   8    9    10   11   12   13   14
+                                               Time (hr)
+                                                                                          CONCLUSION
+          Score                                                                           Our observations indicate that local anesthetics have a con-
+           20 -                                                                           siderably briefer duration of action on the face than at other
+                                                                                          body locales. When administering local anesthesia for repair
+           16
+                                                                                          of facial wounds, emergency physicians should be aware that
+                                                                                          repeated doses may be required to maintain adequate anes-
+           12
+                                                                                          thesia. Mternatively, lidocaine with epinephrine added may
+              8
+                                                                                          be used for closure of clean facial wounds.
+
+                                           i
+              4
+                                                                                          Table 2.
+                                                                                Arm       Mean ratios 4- 95% confidence intervals of the duration of effective and arty
+              0    -
+                  0    1   2   3   4       6       7   8    9    10   11   12   13   14   attesthesia at each body locale to that on the]ace
+                                               Time (hr)
+                                                                                                                               Ratios of Duration of Anesthesia
+                                                                                                                 Face              Hand                 Arm                           Leg
+          Score                                                                                           Effective Any     Effective Any        Effective Any                Effective   Any
+           20                                                                              Lidocaine        1.0     1.0     2.4_+0.8 2 . 0 + 0 . 7   2.1 +0.7 1 . 9 + 0 . 6    2.2+0.6   1.9+0.5
+
+
+            16
+
+
+            12                                                                            Table 3.
+                                                                                          Mean ratios +_95% confidence intervals of the duration of effective and a n y
+              8                                                                           anesthesia with lidocaine and epinephrine at each body locale to that at the
+                                                                                          same body locale with lidocaine only
+
+                                                                                                                               Ratios of Duration 01 Anesthesia
+                                                                                 Leg                             Face              Hand                 Arm                           Leg
+              0                                                                                           Effective Any     Effective Any        Effective Any                Effective   Any
+                  0    1   2   3   4   5   6       7   8    '9   10   11   12   13   14
+                                               Time (hr )                                  Lidecaine/
+                                                                                            epinephrine   5.3+3.3 2.9+1.6   5.8+2.1 4.2_+1.3         8.9_+2.7 4 . 8 + 2 . 0    8.5+4.5   4.3+0.7
+
+
+
+
+7 6 / 7 2 5                                                                                                         ANNALS      OF E M E R G E N C Y M E D I C I N E          21:6   JUNE   1992
+
+===== PAGE 4 =====
+BODY LOCALE
+Todd, Berk & Huang
+
+
+
+
+REFERENCES                                                                                    Address for reprints: Keir Todd, PA-C, Department of Emergency Medicine, Detroit
+1.Wightrnan MA, Vaughn RW: Comparison of compounds used for intradermal                       Receiving Hospital, 4201 St Antoine, Detroit, Michigan 48201.
+anesthesia. Anesthesiology 1976;45:687-689.
+2. Gramling ZW, Ellis RG, Volpitto PP: Clinical experiences with mepivacaine
+(carbocaine). J MedAssoc Georgia 1964;53:16-18.
+3. McCafferty BF, Woolfson AD, Boston V: In vivo assessment of percutaneous local
+anaesthetic preparations. BrJAnaesth 1989;62:17-21.
+4. Swerdlow M, Jones R: The duration of action of bupivacaine, prilocaine and
+lignocaine. BrJAnaesth 1970;42:335-339.
+5. Christoph RA, Buchanan L, Begalia K, et al: Pain reduction in local anesthetic
+administration through pH buffering. Ann Emerg Med 1988;17:117-120.
+6. Scott J, Huskisson EC: Graphic representation of pain. Pain 1976;2:175-181.
+7. Gravett A, Sterner S, Clinton JE, et al: A trial of povidone-iodine in the prevention of
+infection in sutured lacerations. Ann Emerg Med 1987;16:167-171.
+8. Berk WA, Osbourne DB, Taylor DD: Evaluation of the "golden period" for wound
+repair: 204 cases for a third world emergency department. Ann Emerg Med 1988;17:
+496-500.
+9. Magee C, Rodeheaver 6T, Edgerton MT, et al: Studies of the mechanisms by which
+epinephrine damages tissue defenses. J Surg Res 1977;23:126-131.
+10. Stevenson TR, Rodeheaver GT, 6olden 6T, et al: Bamage to tissue defenses by
+vasoconstrictors. JACEP 1975;4:532-535.
+11. Nattel S, Rinkenberger RL, Lehrrnann LL, et ah Therapeutic blood lidocaine
+concentrations after local anesthesia for cardiac electrophysiologic studies.
+N Engl J Med 1979;301:418-420.
+12. Barone JA, Weisman R, Mangione BA, et al: Serum lidocaine concentrations
+following subcutaneous administration. Clin Pharmaco11984;3:281-284.
+
+
+
+
+JUNE1992        21:6    ANNALS OF EMERGENCY MEDICINE                                                                                                                   726/77
+

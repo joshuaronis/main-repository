@@ -1,0 +1,240 @@
+
+===== PAGE 1 =====
+European Journal of Anaesthesiology 2000, 17, 38–42
+
+
+
+
+Alkalinization of amide local anaesthetics by
+addition of 1% sodium bicarbonate solution
+Q. J. W. Milner∗, B. C. Guard∗ and J. G. Allen
+Department of Anaesthesia, Queen Elizabeth II Hospital, Gayton Road, Kings Lynn PE30 4ET, UK
+
+
+
+Summary                                                       for this group of local anaesthetics. This study dem-
+                                                              onstrates that 1 mL of 1% sodium bicarbonate solution
+A number of methods exist by which the pH of local
+                                                              may be used to alkalinize this range of local
+anaesthetic solutions may be increased. Most com-
+                                                              anaesthetics without the risk of precipitation. We also
+monly, these require the addition of differing amounts
+                                                              conclude that Ropivacaine (at concentration 0.75%
+of sodium bicarbonate solution according to the local
+                                                              and 1.0%), is unsuitable for alkalinization since it pre-
+anaesthetic drugs. Sodium bicarbonate (1%) was ti-
+                                                              cipitates at a pH of 6.0.
+trated against pH in six commonly used local
+anaesthetic solutions. Titration curves of pH and vol-        Keywords: local anaesthetics, alkalinization, sodium
+ume of sodium bicarbonate solution added are shown            bicarbonate.
+
+
+
+
+Introduction                                                  commercial local anaesthetic solutions is in the
+                                                              range of 4.0–6.0. Under such conditions amide local
+A number of methods exist by which the pH of local
+                                                              anaesthetics are largely present in an ionized state
+anaesthetic solutions may be increased [1–3]. These
+                                                              and this may influence the latency of action of these
+methods do however, vary greatly, but encompass the
+                                                              agents. We describe a laboratory experiment to deter-
+addition of different volumes and varying con-
+                                                              mine a single, safe and effective method of alkal-
+centrations of sodium bicarbonate to different local
+                                                              inization for six commonly used local anaesthetic
+anaesthetic solutions. There is therefore a risk that
+                                                              solutions using 1% sodium bicarbonate solution. This
+errors may occur when these solutions are prepared
+                                                              solution of sodium bicarbonate is available in small
+for clinical use. When the pH of an amide local
+                                                              volumes (10 mL ampoule) and at low cost (PMU, St
+anaesthetic is raised above its precipitation point there
+                                                              James’ University Hospital, Leeds, UK).
+is a risk of perineural injection of insoluble particulate
+matter.
+   This study describes a single repeatable method of         Methods
+raising the pH of six local anaesthetic solutions used
+for neural blockade. Most amide local anaesthetic             The local anaesthetics tested in this study were those
+agents are weak bases made available as their hydro-          most commonly used in our institution for central
+chloride salt in an acidic medium. The pKa of each            and peripheral neural blockade: bupivacaine 0.5%,
+agent is in the range 7.7–8.9. The proportion of the          bupivacaine 0.25%, bupivacaine 0.125%, bupivacaine
+drug present in the lipophilic unionized state may be         0.5%+1:200 000 epinephrine, bupivacaine 0.25%+1:
+determined by the Henderson–Hasselbalch equation              200 000 epinephrine (all concentrations of bupivacaine
+and depends on the pH of the solution. The pH of              were produced by Astra Pharmaceuticals, Herts, UK)
+                                                              and lidocaine 2%+1:200 000 epinephrine (Antigen
+                                                              Pharmaceuticals, Southport, UK) (see Table 1). Multi-
+Accepted September 1999                                       dose vials and solutions with commercially added
+Correspondence: Q. J. W. Milner, Department of Anaesthesia,
+                                                              epinephrine contain preservatives which may act as
+Box 93, Addenbrooke’s Hospital, Cambridge, CB2 2QQ, UK.
+∗Current address: Department of Anaesthesia, Addenbrookes     buffers, and these were therefore not evaluated in this
+Hospital, Cambridge CB2 2QQ.                                  study. Solutions containing epinephrine were made
+
+38                                                                        2000 European Academy of Anaesthesiology
+
+===== PAGE 2 =====
+                                                                                       Alkalinization of local anaesthetics     39
+
+
+Table 1. Effect of addition of 1 mL 1% sodium bicarbonate to each solution and relative increase in unionized fraction
+
+Agent                                                                                                    Relative increase in
+                                                           pKa∗            pH 0 mL       pH 1 mL          unionized fraction
+
+Bupivacaine 0.5%                                            8.1              4.38          6.85                  295
+Bupivacaine 0.25%                                           8.1              4.26          6.89                  426
+Bupivacaine 0.125%                                          8.1              3.97          7.04                 1175
+Bupivacaine 0.5%+1:200 000 epinephrine                      8.1              3.90          6.78                  758
+Bupivacaine 0.25%+1:200 000 epinephrine                     8.1              3.94          6.86                  831
+Lidocaine 2%+1:200 000 epinenephrine                        7.7              4.54          6.35                  64
+
+pH 0 mL, starting pH; pH 1 mL, pH after addition of 1 mL 1% sodium bicarbonate. ∗[4]
+
+
+
+
+by adding 0.1 mL of 1:1000 epinephrine (0.1 mg), by                     and cause the pH of the solution to rise and thus lead
+micropipette, to 20 mL of the local anaesthetic solution                to the risk of precipitate formation.
+and then discarding 2 mL. Ropivacaine (Astra Phar-
+maceuticals) in both 0.75% and 1.0% concentration
+                                                                        Results
+(pH 4.39 and 4.55, respectively) was included in the
+initial study but formed precipitates at a pH above 6.0                 Titration curves of mean pH and volume of 1% sodium
+and was therefore not suitable for alkalinization.                      bicarbonate solution have been produced including
+  The study was conducted at room temperature to                        the standard error of the mean (SEM) for each of the
+mimic clinical conditions as closely as possible. 18 mL                 six local anaesthetic solutions tested (Fig. 1). Table 1
+of each local anaesthetic solution were placed in an                    shows the pKa, starting pH (pH 0 mL) and pH after the
+inverted 20-mL clear plastic syringe from which the                     addition of 1 mL of 1% sodium bicarbonate (pH 1 mL)
+plunger had been removed. The pH was measured                           for each of the solutions. It also shows the calculated
+using a Jenway 3010 pH meter which was washed                           relative change in proportion of ionized versus un-
+and calibrated between samples using a buffer so-                       ionized fraction for each solution calculated using the
+lution. The experiment was repeated three times for                     Henderson–Hasselbalch equation after the addition of
+each concentration of local anaesthetic using three                     1 mL of sodium bicarbonate. No evidence of pre-
+different production batch numbers. The pH of the                       cipitate formation was detected, by naked eye or
+plain solution was measured and following the ad-                       microscopy in any of the local anaesthetic solutions,
+dition, using a micropipette, of each aliquot (0.25 mL)                 either before or after centrifugation.
+of 1% sodium bicarbonate until a total of 2 mL sodium
+bicarbonate had been added. At each addition the
+                                                                        Discussion
+solution was shaken by hand to ensure mixing, and
+inspected for evidence of precipitate formation against                 Elevation of the pH of local anaesthetics by the addition
+both white and black backgrounds. The alkalinized                       of sodium bicarbonate was first proposed by Louis
+local anaesthetic solutions were also examined                          Bignon in 1892 [5]; however, the technique has yet to
+against white and black backgrounds under an high                       find universal favour [6]. Although methods of alkalin-
+power microscope (Nikon SMZ-U, Telford, UK), both                       ization have been proposed [1,2], these frequently re-
+before and after centrifugation at 3500 r.p.m. Samples                  quire consultation with tables to ensure that the correct
+of the local anaesthetic solutions containing both 1 mL                 quantity of sodium bicarbonate is used. Use of ex-
+and 2 mL of 1% sodium bicarbonate were allowed to                       cessive alkalizing agent causes precipitation of the un-
+stand for 1 h at room temperature and their pH was                      ionized base.
+again measured. On standing, carbon dioxide may                            Enthusiasm for local anaesthetic techniques is fre-
+diffuse out of the solution at the liquid/air interface                 quently diluted by the time required for the successful
+
+ 2000 European Academy of Anaesthesiology, European Journal of Anaesthesiology, 17, 38–42
+
+===== PAGE 3 =====
+40   Q. J. W. Milner et al.
+
+
+
+
+Fig. 1. Relation between pH and volume of 1% sodium bicarbonate solution added.
+
+
+
+
+establishment of neural blockade prior to surgery,          membranes. Alkalization presents one method of in-
+particularly when compared with the ‘speed’ of gen-         creasing the proportion of un-ionized molecules pres-
+eral anaesthesia. One of the factors which affect the       ent. Interest in this technique has been regenerated
+rate of onset of neural blockade may be the con-            in the past decade by Higlier and co-workers [7] who
+centration of un-ionized lipophilic local anaesthetic       reported an increase in the speed of onset of brachial
+molecules that are available to penetrate the neural        plexus blockade following alkalinization of the local
+
+                          2000 European Academy of Anaesthesiology, European Journal of Anaesthesiology, 17, 38–42
+
+===== PAGE 4 =====
+                                                                              Alkalinization of local anaesthetics        41
+
+
+
+anaesthetic. However, several subsequent studies              study, with the standard commercially produced con-
+have failed to demonstrate a significant difference           centrations of 0.75% and 1.0% it was found to pre-
+between the solutions [8,9] and to date there appears         cipitate at a pH above 6.0 and is therefore unsuitable
+to be no consensus as to the value of this                    for alkalinization.
+technique [10,11]. There would appear to be scope for            The evolution of a single method for raising the pH
+this subject to be studied further using randomized           of these commonly used local anaesthetic solutions
+trials.                                                       is clinically convenient, reduces the risk of error and
+   Examination of the value of alkalinization of local        increases the confidence that an increase in the un-
+anaesthetics would be assisted by the use of a con-           ionized fraction will be achieved without the risk of
+sistent method of alkalinization but none has been            precipitation. However, this study follows a laboratory
+described. It is necessary that the proportion of un-         examination and is not a clinical trial. The risk of error
+ionized free base rises significantly for there to be a       when one drug is added to another prior to injection
+clinical effect, but the rise must be limited to prevent      remains. Care should be taken when following this
+precipitation. Inspection of the graphs drawn in Fig. 1       experimental protocol in clinical practice.
+suggests that the addition of 1 mL of 1% sodium
+bicarbonate solution to 18 mL of each of the local
+                                                              References
+anaesthetic solutions will raise the pH of these so-
+lutions sufficiently to have a considerable influence          1 Petertreund RA, Datta S, Ostheimer GW. pH adjustment
+on the proportion of un-ionized local anaesthetic and            of local anaesthetic solutions with sodium bicarbonate:
+yet present no risk of the inadvertent injection of              laboratory evaluation of alkalinisation and precipitation.
+                                                                 Reg Anaesth 1989; 14: 265–270.
+precipitated particles, even if the solution is left to
+                                                               2 Ikuta PT, Raza SM, Durrani Z, Vasireddy AR, Winnie AP,
+stand for up to 1 h before use. The concentration                Masters RW. pH adjustment schedule for the amide local
+of the local anaesthetic solution resulting from the             anaesthetics. Reg Anaesth 1989; 14: 229–235.
+addition of 1 mL of sodium bicarbonate is reduced by           3 Verborgh C, Claeys MA, Camu F. Onset of epidural block-
+5.2% and this may need to be taken into account when             ade after plain or alkalinised 0.5% bupivacaine. Anesth
+calculating the total dose of drug to be used.                   Analg 1991; 73: 401–404.
+   While in the present study examination of the al-           4 Calvey TN, Williams NE. Principles and Practice of Phar-
+                                                                 macology for Anaesthetists. London: Blackwell Science,
+kalinized solution using microscopy both before and
+                                                                 1997.
+after centrifugation, failed to demonstrate evidence of
+                                                               5 Bignon A. On the anaesthetic properties of cocaine. Bull
+precipitate formation, previous studies using particle           Gen Ther Med Chirurg Obstet Pharma 1892; 122: 170–172.
+counters have demonstrated an increased number of              6 Morison DH. Alkalinisation of local anaesthetics. Can J
+particles up to 25 lm after alkalinization of similar local      Anaesth 1995; 42: 1076–1079.
+anaesthetic solutions to a pH of >7 [12,13]. However,          7 Hilgier M. Alkalinisation of bupivacaine for brachial plexus
+particulate     numbers       have    never     exceeded         block. Reg Anaesth 1985; 10: 59–61.
+the numbers set by the USP for small volume                    8 Gormley WP, Hill DA, Murray JM, Fee JP. The effect of
+                                                                 alkalinisation of lignocaine on axillary brachial plexus
+injections [14].
+                                                                 anaesthesia. Anaesthesia 1996; 51: 185–188.
+   Increasing the pH of solutions containing epi-
+                                                               9 Gaggero G, Meyer O, Van Gessel E, Rifat K. Alkalinisation
+nephrine favours its oxidation, and results in both a            of lidocaine 2% does not influence the quality of epidural
+decrease in biological activity and the production of            anaesthesia for elective caesarian section. Can J Anaesth
+an oxidative metabolite adrenochrome. Bonhomme                   1995; 42: 1080–1084.
+and co-workers have shown that the concentration of           10 Capogna G, Celleno D, Laudano D, Giunta F. Alkalinisa-
+epinephrine in solutions that are alkalinized falls, but         tion of local anaesthetics. Which block, which local
+                                                                 anaesthetic? Reg Anaesth 1995; 20: 369–377.
+that the fall is sufficiently slow for there to be no
+                                                              11 Bedder MD, Kozody R, Craig DB. Comparison of bu-
+clinical significance particularly when the solutions
+                                                                 pivacaine and alkalinised bupivacaine in brachial plexus
+are used promptly [15,16].
+                                                                 anaesthesia. Anesth Analg 1988; 67: 48–52.
+   Ropivacaine is less lipid-soluble than bupivacaine         12 Bourget P, Bonhomme L, Benhmou D. Factors influencing
+and therefore theoretically should be easier to al-              precipitation of pH-adjusted bupivacaine solutions. J Clin
+kalinize at the same concentrations. However, in this            Pharm Ther 1990; 15: 197–204.
+
+
+ 2000 European Academy of Anaesthesiology, European Journal of Anaesthesiology, 17, 38–42
+
+===== PAGE 5 =====
+42   Q. J. W. Milner et al.
+
+
+13 Bonhomme L, Benhamou D, Jebri M, Bourget P, Matre            15 Bonhomme L, Benhamou D, Comoy E, Preaux N. Stability
+   H, Postaire E, Preaux N. Chemical stability of bupivacaine      of adrenaline pH-adjusted solutions of local anaesthetics.
+   in pH-adjusted solutions. Anaesthesiology 1988; 69: 754–        J Pharm Biome Anal 1991; 9: 497–499.
+   756.                                                         16 Bonhomme L, Benhamou D, Comoy E, Preaux N. Stability
+14 US. Pharmacopeia. 21th Revision. Easton. Mack Pub-              of epinephrine in alkalinised solutions. Ann Emerg Med
+   lishing Company, 1985.                                          1990; 19: 1242–1244.
+
+
+
+
+                             2000 European Academy of Anaesthesiology, European Journal of Anaesthesiology, 17, 38–42
+

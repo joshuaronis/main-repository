@@ -1,0 +1,391 @@
+
+===== PAGE 1 =====
+Br.J. Anaesth. (1985), 57, 1006-1011
+
+
+
+COMPARISON OF THE VASOACTIVITY OF AMIDE AND
+ESTER LOCAL ANAESTHETICS
+An Intradermal Study
+
+D. G. WILLATTS AND F. REYNOLDS
+The intrinsic vasoactivity of a local anaesthetic
+                                                               SUMMARY
+
+
+
+
+                                                                                                                       Downloaded from http://bja.oxfordjournals.org/ at University of Western Ontario on June 7, 2015
+agent is one of the factors determining its rate of
+removal from the site of action. Lignocaine, and                The vascular effects and duration of action of two
+other amide local anaesthetics, have been shown to             ester-linked local anaesthetics, procaine and
+possess vasoconstrictor properties, especially at              amethocaine, and four amide-linked local anaes-
+low concentrations (Aps and Reynolds, 1976;                    thetics, cinchocaine, lignocaine, mepivacaine
+Reynolds, Bryson and Nicholas, 1976). Cocaine, an              and prilocaine, were investigated in 10 volunteers
+ester-linked agent, produces marked vasoconstric-              by intradermal injection using a double-blind
+tion by inhibition of noradrenaline uptake (I versen,          technique. Procaine and amethocaine produced
+ 1965), although alternative mechanisms such as                marked vasodilatation; weal formation was
+the mobilization of Ca2+ (Daniel and Wolowyk,                  observed at 80% of the amethocaine injection
+ 1965) and the release of endogenous catecholamines            sites. Mepivacaine had a marked vasoconstrictor
+(Vohra, 1970) may contribute to cocaine-induced                effect; the other three agents produced more
+smooth muscle contraction in other tissues. The                variable vasoactivity. Duration of action was
+intrinsic vasoactivity of other ester-linked anaes-            concentration-dependent for all six drugs, the
+thetics, such as procaine and amethocaine, is less             slopes of the log dose-duration plots reflecting
+reliably documented.                                           the observed vasoactivity.
+   The intradermal method of measuring local
+anaesthesia and vasoactivity gives results which
+are consistent with other methods (Aberg, 1972;                containing 0.1% sodium metabisulphite (to
+Luduena, Bogado and Tullar, 1972; Aps and                      stabilize the esters) and sufficient sodium chloride
+Reynolds, 1978; Fairley and Reynolds, 1981).                   to render it isosmotic with physiological saline.
+Previous intradermal studies in human volunteers               Ampoules of the solutions were randomly coded
+(Aps and Reynolds, 1976; Fairley and Reynolds,                 and sterilized by autoclaving. The following
+1981) have demonstrated the direct action of                   solutions were administered:
+amide local anaesthetics on cutaneous blood                    Procaine hydrochloride  0.1%     0.3%       1.0%
+vessels and the effect this may have on the                    Amethocaine HC1         0.025%   0.0833% 0.25%
+relationship between concentration and duration                Cinchocaine HC1         0.01 %   0.033%     0.1%
+of action. The present study was designed to                   Lignocaine HC1          0.1%     0.33%      1.0%
+compare the vasoactivity, at various concentra-                Racemic mepivacaine HC1 0.1%     0.33%      1-0%
+                                                               Racemic prilocaine HC1 0.1%      0.33%      1.0%
+tions, of two ester-linked local anaesthetics with             Sodium chloride         0.9%     ("control solution")
+that of four amide-linked agents, using the intra-
+dermal route.                                                  Subjects
+         SUBJECTS, MATERIALS AND METHODS
+                                                                 The subjects were 10 fit adults (eight male)
+                                                               whose ages ranged from 21 to 40 years. One
+Solutions                                                      subject was an author (D.G.W.); the others were
+  Each of the six local anaesthetics was prepared              medical students or medical and laboratory
+as an aqueous solution of the hydrochloride salt,              colleages. All gave informed consent.
+D. G. WlLLATTS, M.A., M.B., B.S., F.F.A.R.C.S; FELICITY REY-   Procedure
+NOLDS, M.D., F.F.A.R.C.S.; Anaesthetic Unit, St Thomas's
+Hospital Medical School, London SE1 7EH.                          The study was carried out in two parts. In the
+  Reprint request to F.R.                                      first, amethocaine, lignocaine and prilocaine (each
+
+===== PAGE 2 =====
+VASOACTIVITY OF LOCAL ANAESTHETICS                                                                                    1007
+at three concentrations) and physiological saline 10 min was 6, 7 or 8, the 50% recovery time was
+(control solution) were tested in each of the 10 recorded as 5 min; with an initial score of 9 or 10,
+subjects. In the second part, procaine, cinchocaine 50% recovery time was taken to be zero. The
+and mepivacaine each in three concentrations, and results for the control solution from the two parts
+saline were tested on the same 10 subjects. The of the study were combined.
+solutions were injected intradermally on the flexor      Differences in proportions were analysed using
+surface of both forearms; each subject received a the Chi-squared test with Yates' correction. The
+pair of 0.1-ml injections of each of the 10 solutions, GLIM3 linear modelling computer program
+spaced at 40-mm intervals. The position of each (Baker and Nelder, 1978) was used to calculate the
+solution varied randomly between the subjects and slopes of the linear regression lines of log
+was known to neither subject nor investigator. The concentration v. duration of action for each drug
+appearance of each bleb was noted 5—10 min after in each subject; the significance of the differences
+
+
+
+
+                                                                                                                              Downloaded from http://bja.oxfordjournals.org/ at University of Western Ontario on June 7, 2015
+injection, by which time the initial distension had between the mean slopes for each drug was
+disappeared. Colour changes were classified as evaluated by a one-way analysis of variance, with
+pink, nil or pale. Any haemorrhagic changes were logarithmic transformation of the slopes to
+recorded.                                              decrease differences in their standard deviations.
+   Ten minutes after injection, every 5 min for the A value of P less than 0.05 was considered
+first 1 h and subsequently every 10 min until statistically significant.
+complete recovery, analgesia was assessed by
+pricking the central area of each bleb with a lancet
+                                                                            RESULTS
+5 times while the subject looked away. For each
+solution, the number of times out of 10 that the       Vascular effects
+prick felt sharp was recorded; the time of 50%           All local colour changes were transient and no
+recovery was taken as the time at which the permanent tissue damage occurred. Only two
+sharpness score reached 5 out of 10. If this haemorrhagic changes were observed, one with
+occurred between two time intervals, the mid-point 1.0% lignocaine, the other with 0.1 % prilocaine.
+of the interval was taken. If the initial score at       The vasoactivity of the six agents, expressed as
+
+                                                                                                                    Control
+                     Procaine        Amefhocaine    Cinchocaine      Lignocaine      Mepivacaine     Prilocaine     soln
+                    20    20         20   20 20      20 20 20        20 20 20        20 20 20        20 20 20       40
+       100
+
+
+
+  «     80
+  01
+   c
+  .c
+  ^     60
+  o
+  o
+  I 40
+  o
+  >-
+  g    20
+
+
+
+
+                   0.1 0.3 1.0 0.025 | 0.25 0.01 \ 0.1              0.1 0.331.0      0.1 0.33 1.0    0,1 0.33 1.0    0
+                                   0.0833       0.033
+
+                                               Local anaesthetic concentration ( % )
+             FIG. 1. Percentage frequency of local colour changes. • = Pink; • = nil; 0 = pale. The numbers above
+                              the columns indicate the total numbers of injections of each solution,
+
+===== PAGE 3 =====
+1008                                                      BRITISH JOURNAL OF ANAESTHESIA
+percentage frequency of local colour changes at        relationship between vasoactivity and initial
+different concentrations, is shown in figure 1. Pro-   analgesic activity.
+caine and amethocaine both showed vasodilator
+activity, which was significantly greater than that    Duration of action
+produced by saline (P < 0.05), at both intermediate       Complete recovery from all injections (perma-
+and highest concentrations. No vasoconstriction        nent pinprick score of 5 in all subjects) had
+occurred with procaine at any concentration; that      occurred by 80 min. The mean 50 % recovery
+shown by amethocaine was not concentration-            times of the different concentrations of the six
+dependent and did not differ significantly from the    agents plotted against the concentration on a
+effects of the saline.                                 logarithmic scale is shown in figure 3. The
+   There was a marked difference in appearance         concentrations used were chosen to lie on the
+between the procaine and amethocaine injection         central linear portion of the respective log
+
+
+
+
+                                                                                                             Downloaded from http://bja.oxfordjournals.org/ at University of Western Ontario on June 7, 2015
+sites. In all instances where procaine produced        dose-duration curves; this appears to have been
+vasodilatation, the area of redness was well           achieved with all agents except procaine, although
+demarcated and showed no local oedema. In              the lowest concentration of procaine still had a
+contrast, the vasodilatation produced by ametho-       50 % recovery time well above that of the control
+caine extended over a larger area with irregular       solution.
+margins — a typical "flare" response; in addition,        Figure 4 shows the regression lines of log
+weal formation occurred at 12 injection sites at the   concentration v. duration of action for each agent;
+lowest amethocaine concentration, 16 at the            concentration is expressed as a multiple of the
+intermediate and 16 at the highest concentration.      lowest concentration to eliminate differences in
+   The four amide local anaesthetics all produced      potency. There was a highly significant difference
+less vasodilatation at all concentrations than did     between the slopes (P < 0.001; Ftest). In general,
+saline. All three concentrations of lignocaine and     the steepness of the slope reflected the observed
+mepivacaine produced vasoconstriction signifi-         vasoactivity of the agent; there was a significant
+cantly more frequently than saline (P < 0.05 for       difference (P < 0.05) between the slopes of
+lignocaine;P < 0.001 for mepivacaine). Significant     procaine and mepivacaine, cinchocaine and prilo-
+vasoconstriction was only observed for cinchocaine     caine, and between those of amethocaine and
+at 0.01% (P<0.05) and prilocaine at 1.0%               mepivacaine.
+(P < 0.001),comparedwithsaline. Vasoconstrictor
+activity declined with increasing concentration for
+lignocaine, mepivacaine and cinchocaine, although                           DISCUSSION
+this trend was not significant.                      The relationship between the vasoactivity of a
+   Taking the results for both ester agents          local anaesthetic agent and its duration of action
+together, 108 out of 120 blebs showed vasodilata-    is not straightforward. Using the intradermal
+tion, compared with 49 out of 240 blebs for the      route, in which systemic, reflex and regional
+four amide agents combined (P < 0.001).              effects are eliminated, Aps and Reynolds (1976)
+                                                     found a greater incidence of vasoconstriction with
+Analgesic activity                                   0.125 % bupivacainethanwith0.25 % bupivacaine;
+   For each time of testing, the mean pinprick score the duration of action was not significantly
+for the 10 subjects was converted to a percentage different, indicating that the effect of increasing
+(full recovery = 100%). Figure 2 is a graphical concentration was counteracted by the re-
+representation of these results with time, for all duced vasoconstriction. L( — ) Bupivacaine was
+three concentrations of the six agents, and for longer acting than D( +) bupivacaine
+                                                                                   1
+                                                                                          in concentra-
+saline. The analgesic activity of 0.1 % prilocaine tions of 0.48-3.84 mmol litre- (0.16-1.25%), and
+and 0.01 % cinchocaine differed little from that over this range, the L( —) isomer showed signifi-
+produced by saline. There was no difference cantly greater vasoconstriction (Aps and Reynolds,
+between the analgesic activity of 0.1 % and 0.3 % 1978). Luduena (1969), also, concluded that the
+procaine, but in all other instances analgesic increased duration of action of L( +) prilocaine,
+activity increased with concentration. Only 1.0% L( + ) mepivacaine and L( —) bupivacaine, com-
+lignocaine produced complete analgesia (0% pared with their optical isomers, was solely
+recovery in all subjects at 10 min). A comparison attributable to the production of greater vaso-
+of figures 1 and 2 demonstrates that there was no constriction. In contrast Fairley and Reynolds
+
+===== PAGE 4 =====
+VASOACTIVITY OF LOCAL ANAESTHETICS                                                                                                                     1009
+                    100
+                    60                                                                      1       «
+
+                    60                              Procaina                                                                     Amethocaint
+                                         •—•= 0.1%                                                                  •        •= 0.02S %
+                    to
+                                         - - • = 03%                                                                o- -«= 0.0833%
+                    20                   »-..«= 1.OV0                                                               »•••-«= 0.25%
+
+                     0
+                    100                                                                                                                    + 4
+                    80
+                                /   «
+                                                    Cinchoeaina                                                                  Lignocaina
+                    60                                                  - '''                       /
+
+
+
+
+                                                                                                                                                              Downloaded from http://bja.oxfordjournals.org/ at University of Western Ontario on June 7, 2015
+                                         •        « 0.01%                                                                        0.1%
+               I 40                                                                 1           *           '           *~
+                                         ,- -.=. 0.033%                             (       •               •—0=                 0.33%
+               I 20       4 /            » *« 0.1%                          J j                             M           « = 1.0%
+                                                                            1. '                I       •           1     1            1       •   1
+
+
+               1°
+               f 100                                                    .   ^           /                       '
+
+                0    80                                                                                                          Prilxaine
+
+                I" 60                                                                                                  — . = 0.1%
+                                                                                1
+                                                                                            /                        0-- -0= 033%
+                1 .0                                                                                                X •••«= 1.0%
+
+                f 20                                                        »           * .             •           .        •     I       I       I
+
+                                                                            1 0 2 0 3 0 4 0 S 0 6 0                                        70 80
+               1 0
+                * 100
+                     80                             Control
+                                                        sotn
+                     60
+                     40
+                     20
+                          10   20   30       40    50     60   70 80
+                      0
+                                                          Time after injection (min)
+
+         FIG. 2. Mean pinprick scores presented as percentage recovery against time for each concentration of
+               the six agents tested, n •= 20 for each point, except for the control solution where n = 40.
+
+
+(1981), comparing L( + ) and D( — ) mepivacaine, vasoactivity as concentration-dependent as in
+found that the increase in the duration of action of previous intradermal studies (Aps and Reynolds,
+the L( +) isomer in concentrations of 0.1-0.9 % 1976; Reynolds, Bryson and Nicholas, 1976;
+was not associated with greater vasoconstriction; Fairley and Reynolds, 1981). This may have been
+indeed, at the highest concentration L( +) mepiva- the result of the presence of sodium metabisulphite
+caine was the more potent vasodilator. In the in the solutions; certainly, the saline-metabisul-
+present study, the vasodilatation produced by phite control solution produced a much higher
+procaine and amethocaine, and the vasoconstriction incidence of vasodilatation (65 %) than had been
+seen with mepivacaine, were associated with observed previously with plain 0.9% saline
+differences in the mean slope of the log dose- (0-10%). The addition of metabisulphite also
+duration plots in the expected direction compared appeared to increase the pain of the injection.
+with cinchocaine, lignocaine and prilocaine, with      There are few reports of the effects of the
+which the vasoactivity was less marked and more intradermal administration of ester-linked local
+variable. With none of the six agents was the anaesthetics in man. Padfield (1967) compared 2 %
+
+===== PAGE 5 =====
+1010                                                                           BRITISH JOURNAL OF ANAESTHESIA
+                          50
+                                                     Procaine
+                                                     Amethocairtt
+                                                     Cinchociin*
+                                                     Lignociint
+                          40
+                                                     Mepivacatne
+                                                     Prilocaine
+
+
+                      >. 30
+
+
+
+
+                                                                                                                                            Downloaded from http://bja.oxfordjournals.org/ at University of Western Ontario on June 7, 2015
+                          20
+
+
+
+
+                           10
+
+
+
+
+                                   0.01                0 03              01              0.3                 1.0
+                                                        Local anaesthetic concentration (%)
+
+              FIG. 3. Mean duration of action (expressed as time to 50% recovery) for each of the six local anaesthetic
+                               agents tested, n => 10 for each point. Vertical bars represent SEM.
+
+
+
+
+                                                                          prilocaine, 2% lignocaine and 2% procaine
+                                                                          intradermally in human volunteers and found that
+                1 « Mtpivacaine                                           these agents were equi-analgesic shortly after
+                2 = Cinchocalnt                                           injection, with procaine having the shortest, and
+                3 ° Prilocaine                                            prilocaine the longest duration of action. There
+                4= Lignocaine                                             was a 60% incidence of vasodilatation with
+   30                                                                     procaine. The action of ester-linked local anaes-
+                5= Amethocant
+                6 a Procaine
+                                                                          thetics on other vascular tissues, as well as on
+                                                                          smooth muscle from other organs, appears to vary.
+                                                                          In the rabbit aortic strip preparation, the
+                                                                          contraction produced by acetylcholine, histamine,
+   20                                                                     noradrenaline or 5-hydroxytryptamine was in-
+                                                                          hibited in a dose-dependent manner by procaine
+                                                                          and amethocaine in concentrations ranging from
+                                                                          1 nmol litre"1 to 1 mmol litre"1, although the
+                                                                          potencies for these inhibitory actions were not
+                                                                          related to local anaesthetic potency (Altura and
+       10                                                                 Altura, 1974). It was postulated that these effects
+
+                                                                          FIG. 4. Mean regression lines for duration of action calculated
+                                                                          by the GLIM3 linear modelling computer. Concentration
+                                                                          expressed as multiples of the lowest concentration for each
+                                                                          agent. Slope values (min per log unit of concentration) ± SEM:
+        o1-                                                         10    Procaine, 6 = 11.41 ±2.31; amethocaine, b = 12.77±2.12;
+                                                                          lignocaine, b = 18.47±2.53; cinchocainc, b = 21.05±2.94;
+                        Relative     concentration                          prilocaine, b = 22.70±3.09; mepivacaine, b = 31.12±5.51.
+
+===== PAGE 6 =====
+VASOACTIVITY OF LOCAL ANAESTHETICS                                                                                     1011
+might be mediated by "alteration in intracellular            ampoules, and to Susan Chinn of the Department of
+metabolism".                                                 Community Medicine, St Thomas' Hospital for statistical
+                                                             advice.
+   Jacobs and Keating (1974) demonstrated that
+procaine, in concentrations up to 20 mmol litre"1,
+facilitated or induced electrical and mechanical                                       REFERENCES
+activity in sheep carotid artery strips, but in high         Aberg, G. (1972). Myogenic activity of local anaesthetics on
+concentration (80 mmol litre"1) blocked electrical             smooth muscle; role of Ca ++ and cyclic AMP. Acta
+activity and caused contraction followed by                    Pharmacol. Toxicol., 31, (Suppl. 1), 46.
+relaxation. Blockade of CaJ+ entry channels was              Altura, B. M., and Altura, B. T. (1974). Effects of local
+                                                               anaesthetics, antihistamines and glucocorticoids on periph-
+thought to be the mechanism for the relaxant                   eral blood flow and vascular smooth muscle. Anesthesiology,
+effect; procaine is known to inhibit CaI+ exchange             41, 197.
+in uterine smooth muscle (Feinstein, 1966). Aberg            Aps, C , and Reynolds, F. (1976). The effect of concentration
+
+
+
+
+                                                                                                                                 Downloaded from http://bja.oxfordjournals.org/ at University of Western Ontario on June 7, 2015
+(1972) suggested that the smooth muscle relaxant               on vasoactivity of bupivacaine and lignocaine. Br. J.
+effect of high concentrations of local anaesthetics            Anaesth., 48, 347.
+                                                                        (1978). An intradermal study of the local anaesthetic
+is the result of inhibition of Ca1+ release by                 and vascular effects of the isomers of bupivacaine. Br.J. Clin.
+stabilization of the membrane surrounding Ca2+                 Pharmacol., 6, 63.
+stores.                                                      Baker, R. J., and Nelder, J. A. (1978). The GLIM System
+   The local oedema that we observed frequently                Release 3 Manual. 7 Banbury Road, Oxford OX2 6NN:
+                                                               Numerical Algorithms Group.
+with amethocaine may have decreased capillary                Daniel, E. E., and Wolowyk, M. (1965). The contractile
+blood flow and retarded absorption (Luduena,                   response of the uterus to cocaine. CanJ. Physiol. Pharmacol.,
+1969). However, our results do not support this;               44,731.
+any such effect may have been counteracted by the            Fairley, J. W., and Reynolds, F. (1981). An intradermal study
+vasodilatation observed; in no instance was the                of the local anaesthetic and vascular effects of the isomers of
+                                                               mepivacaine. Br. J. Anaesth., 53, 1211.
+weal blanched.                                               Feinstein, M. B. (1966). Inhibition of contraction and calcium
+   The duration of action of procaine and                      exchangeability in rat uterus by local anaesthetics. J.
+amethocaine might be decreased by plasma                       Pharmacol. Exp. Ther., 152, 516.
+cholinesterase acting locally. However, Foldes and           Foldes, F. F., and McNall, P. G. (1952). 2-Chloroprocaine: a
+                                                               new local anesthetic agent. Anesthesiology, 13, 287.
+McNall (1952) found that the duration of action              Iversen, L. L. (1965). Inhibition of noradrenaline uptake by
+of procaine and chloroprocaine, given via the                  drugs. J. Pharm. Pharmacol, 17, 62.
+intradermal route in man, was not prolonged by               Jacobs, A., and Keating, W. R. (1974). Effects of procaine and
+the addition of a plasma cholinesterase inhibitor              lignocaine on electrical and mechanical activity of smooth
+either with or without adrenaline. This indicates              muscle of sheep carotid arteries. Br. J. Pharmacol., 51, 405.
+                                                             Luduena, F. P. (1969). Duration of local anaesthesia. Ann.
+that, intradermally, in situ hydrolysis of ester-              Rev. Pharmacol., 9, 503.
+linked local anaesthetics is not a factor determining              Bogado, E. F., and Tullar, B. F. (1972). Optical isomers
+the duration of action.                                        of mepivacaine and bupivacaine. Arch. Int. Pharmacodyn.,
+   It would appear that vasodilatation is a feature            200, 359.
+                                                             Padfield, A. (1967). The intradermal local analgesic action of
+of ester-linked local anaesthetics even at low                 prilocaine. A controlled double blind comparison with
+concentrations, in contrast to amides. In the                  lignocaine and procaine. Anaesthesia, 22, 556.
+clinical setting, intrinsic vasoconstriction enhances        Reynolds, F., Bryson, T. H. L., and Nicholas, A. D. G.
+local anaesthetic activity while diminishing toxicity          (1976). Intradermal study of a new local anaesthetic agent:
+and, thus, contributes to the superior performance             aptocaine. Br. J. Anaesth., 48, 347.
+                                                             Vohra, M. M. (1970). Factors affecting the contractile
+of the amides.                                                 responses of the rat vas deferens to cocaine and tetracaine.
+                                                               Can. J. Physiol. Pharmacol., 48, 490.
+                ACKNOWLEDGEMENTS
+We are grateful to the staff of the Sterile Products Unit,
+St Thomas' Hospital Pharmacy for making up the sterile
+

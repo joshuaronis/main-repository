@@ -1,0 +1,158 @@
+[
+ {
+  "line": 18,
+  "heading": "The recommendation",
+  "sentence": "**Mepivacaine is not the longer wheal it looks like.** The only study that measured it in human skin, by the test you would use — pinprick over an intradermal bleb — found recovery complete or nearly complete **within 2 hours at every concentration tested**, with time to half-recovery levelling off **between about 40 and 70 minutes** (Fairley and Reynolds, 1981).",
+  "dose_flag": false
+ },
+ {
+  "line": 20,
+  "heading": "The recommendation",
+  "sentence": "- **The plain strength sold in Mexico is the irritant one.** Mexico sells **3% plain** and **2% with epinephrine**; there is no plain 2%.",
+  "dose_flag": true
+ },
+ {
+  "line": 28,
+  "heading": "What does a local anesthetic do to a nerve?",
+  "sentence": "So there is no fixed set of blocked channels — at any single instant some fraction of the channels along a stretch of nerve is plugged and the rest are open, and which particular ones are plugged is different an instant later.",
+  "dose_flag": false
+ },
+ {
+  "line": 53,
+  "heading": "What does mepivacaine do to skin blood vessels?",
+  "sentence": "Put a note under the dashed segment reading “3 percent: sold, but never measured”, and a bracket under the 2 and 3 percent marks labelled “strengths sold”.",
+  "dose_flag": false
+ },
+ {
+  "line": 56,
+  "heading": "What does mepivacaine do to skin blood vessels?",
+  "sentence": "Mepivacaine does more of the first than lidocaine does; whether it does enough of the second to matter is not established by these studies.",
+  "dose_flag": false
+ },
+ {
+  "line": 73,
+  "heading": "In skin, which is the tissue that matters here",
+  "sentence": "That gap is the tissue, not the drug.",
+  "dose_flag": false
+ },
+ {
+  "line": 100,
+  "heading": "What does the laboratory say about damage to nerve cells?",
+  "sentence": "Mepivacaine's 4.84 against lidocaine's 3.35 is a gap the study explicitly declined to call real.",
+  "dose_flag": false
+ },
+ {
+  "line": 101,
+  "heading": "What does the laboratory say about damage to nerve cells?",
+  "sentence": "So of the three laboratory studies, two rank mepivacaine ahead of lidocaine and the third — the only one performed on human cells — finds them indistinguishable.",
+  "dose_flag": false
+ },
+ {
+  "line": 110,
+  "heading": "What does the human evidence say about nerve damage?",
+  "sentence": "- A third pooled analysis compared every anesthetic against every other, including pairs that had never been tested head to head, by chaining the comparisons that had been.",
+  "dose_flag": false
+ },
+ {
+  "line": 110,
+  "heading": "What does the human evidence say about nerve damage?",
+  "sentence": "Mepivacaine is absent from that list, and the reason it is absent is worth stating exactly, because \"absent\" is not the same as \"as bad as lidocaine\".",
+  "dose_flag": false
+ },
+ {
+  "line": 110,
+  "heading": "What does the human evidence say about nerve damage?",
+  "sentence": "Mepivacaine is missing from the safer list not because it was shown to be as harmful as lidocaine but because the trials cannot tell the two apart in either direction.",
+  "dose_flag": false
+ },
+ {
+  "line": 120,
+  "heading": "What does the human evidence say about nerve damage?",
+  "sentence": "It says nothing about nerve fibre loss, which is the damage that would matter to someone whose fibres are already depleted — **nobody has measured damage to nerve fibres in skin from an injected anesthetic**; the one measurement is of lidocaine patches, which lowered epidermal nerve fibre density in healthy volunteers after 42 days (Wehrfritz et al., 2011, PMID 21530339) — but it does say that 3 percent mepivacaine is hard on the tissue it is put into.",
+  "dose_flag": false
+ },
+ {
+  "line": 123,
+  "heading": "What does all of this mean for a wheal?",
+  "sentence": "**The reason to want mepivacaine was that it does not open up skin blood vessels the way lidocaine does.** That is real and measured: at clinical strength it adds no vessel widening beyond what the needle itself causes, while lidocaine at its higher concentrations raises flow to roughly 1.8 times what saline alone produced — though at lidocaine’s lowest concentration the two were comparable, so the gap is a property of the strengths actually used rather than of the molecule at every dose.",
+  "dose_flag": false
+ },
+ {
+  "line": 133,
+  "heading": "What is sold in Mexico",
+  "sentence": "Searches of the retail pharmacy chains and of PLM México returned no mepivacaine listing. **There is no vial or frasco ámpula presentation on the Mexican market**, so the multi-dose bottle that mepivacaine is sold in elsewhere for infiltration and nerve block is not obtainable here.",
+  "dose_flag": false
+ },
+ {
+  "line": 138,
+  "heading": "What is sold in Mexico",
+  "sentence": "**There is no plain 2 percent.** This is not a gap in Mexican supply but how the drug is sold worldwide: 3 percent is the strength made without a vasoconstrictor and 2 percent is the strength made with one.",
+  "dose_flag": false
+ },
+ {
+  "line": 144,
+  "heading": "What is not known",
+  "sentence": "**Nobody has measured skin blood flow after a mepivacaine wheal for longer than an hour.** The Guinard recordings stop at 60 minutes and the Fairley colour observations were made at 5 to 10 minutes.",
+  "dose_flag": false
+ },
+ {
+  "line": 146,
+  "heading": "What is not known",
+  "sentence": "**Whether mepivacaine damages nerve fibers in skin is unmeasured.** Fairley's haemorrhagic changes show tissue irritation at 2.7 percent but say nothing about fiber loss, which is the damage that matters to skin already depleted of fibers.",
+  "dose_flag": false
+ },
+ {
+  "line": 146,
+  "heading": "What is not known",
+  "sentence": "No such study exists for any local anesthetic.",
+  "dose_flag": false
+ },
+ {
+  "line": 147,
+  "heading": "What is not known",
+  "sentence": "**Whether the spinal evidence transfers to skin at all is unknown,** and the argument of this page is that it probably does not.",
+  "dose_flag": false
+ },
+ {
+  "line": 150,
+  "heading": "Skin: vessels and duration",
+  "sentence": "DOI 10.1093/bja/57.10.1006. — The second intradermal measurement of mepivacaine, and the only one that times it against lidocaine and prilocaine in the same volunteers. 10 volunteers, double-blind, six agents at three concentrations each, 0.1 mL on the flexor forearm: \"Complete recovery from all injections had occurred by 80 min.\" Concentration–duration slopes in extra minutes per tenfold rise: procaine 11.41 ± 2.31, amethocaine 12.77 ± 2.12, lignocaine 18.47 ± 2.53, cinchocaine 21.05 ± 2.94, prilocaine 22.70 ± 3.09, **mepivacaine 31.12 ± 5.51**, the steepest of the six; difference between slopes P under 0.001.",
+  "dose_flag": true
+ },
+ {
+  "line": 151,
+  "heading": "Skin: vessels and duration",
+  "sentence": "Limits: eight volunteers; **subcutaneous injection into abdominal fat, not intradermal wheals**; standard errors nearly as large as the means, so the study supports a ranking and not the individual percentages; concentrations stop at 2 percent, so 3 percent is unmeasured; recordings stop at 60 minutes.",
+  "dose_flag": false
+ },
+ {
+  "line": 151,
+  "heading": "Skin: vessels and duration",
+  "sentence": "Citation standing: no editorial notices; 9 citing publications and no Smart Citations either supporting or contrasting, so the finding has never been directly tested again.",
+  "dose_flag": false
+ },
+ {
+  "line": 168,
+  "heading": "Nerve damage in people",
+  "sentence": "Citation standing: 55 citing publications, 3 supporting and 0 contrasting Smart Citations, so the mepivacaine rate has not been directly contradicted in the citing literature. **Two notices are attached**: an erratum, *Der Anaesthesist* 2002;51(8):633, DOI 10.1007/s00101-002-0388-4, paywalled and not read, so what it corrects is unknown; and a letter from U.",
+  "dose_flag": false
+ },
+ {
+  "line": 168,
+  "heading": "Nerve damage in people",
+  "sentence": "The letters are paywalled and in German and their content could not be read, so what they dispute is unknown.",
+  "dose_flag": false
+ },
+ {
+  "line": 175,
+  "heading": "Nerve damage in people",
+  "sentence": "Limits: low to moderate certainty throughout; the primary outcome is time to discharge, not neurologic symptoms; arthroplasty trials excluded for lack of randomized data, which removes the setting where mepivacaine is most used.",
+  "dose_flag": false
+ },
+ {
+  "line": 185,
+  "heading": "What has no source",
+  "sentence": "No study has tested the assumption in either direction.",
+  "dose_flag": false
+ }
+]

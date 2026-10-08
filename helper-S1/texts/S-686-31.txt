@@ -1,0 +1,338 @@
+
+===== PAGE 1 =====
+Brit. J. Anaesth. (1970), 42, 335
+
+
+
+          THE DURATION OF ACTION OF BUPIVACAINE, PRILOCAINE AND
+                               LIGNOCAINE
+                                                      BY
+                                    M . SWERDLOW AND RUTH JONES
+
+                                               SUMMARY
+       The duration of analgesia and of hypoaesthesia produced by a variety of solutions has
+       been examined by skin weal testing; each separate study was carried out in twenty
+       female volunteers under double-blind conditions. First, bupivacaine, lignocaine and
+       prilocaine were compared with and without 1 in 200,000 adrenaline. Bupivacaine was
+
+
+
+
+                                                                                                                  Downloaded from http://bja.oxfordjournals.org/ at Aston University on September 5, 2014
+       found to give significantly longer analgesia than prilocaine and significantly longer hypo-
+       aesthesia than both the other agents. Adrenaline significantly lengthened the action of
+       all three drugs, this prolongation being greatest with lignocaine. The second part of the
+       trial compared the duration of action of hospital-prepared and commercially prepared
+       solutions of the three local analgesics plus adrenaline. The commercial ampoule prepara-
+       tions provided significandy longer action than the corresponding drugs in hospital-
+       prepared multidose vials. The third group of experiments studied the effect of doubling
+       the concentrations of the solutions; there was no great increase in duration of analgesia
+       but die duration of hypoaesthesia was lengdiened, significandy so with bupivacaine.
+       Throughout all die above studies die individual results with bupivacaine showed a
+       greater range of variation dian diose widi the odier agents. Finally die analgesic effect
+       of saline (with and widiout adrenaline) was investigated; it was found diat both agents
+       generally produced a similar brief period of hypoaesdiesia. The findings and dieir prac-
+       tical implications are discussed.
+
+There have recendy been a number of publica-           intervals by touching each weal widi die fingertip
+tions on die use of bupivacaine (Marcaine) for         and if analgesia or hypoaesdiesia appeared to have
+regional analgesia (Ekblom and Widman, 1966;           terminated this was confirmed by dropping the
+Fortuna, 1966; Watt, Ross and Atkinson, 1968).         needle-loaded (empty) 1 ml syringe from a height
+   The present trial was carried out in order to       of 0.5 cm on to the weal.
+compare die duration of skin analgesia produced           Three different comparisons of die agents were
+by this agent widi diat produced by lignocaine         carried out.
+(Xylocaine) and prilocaine (Citanest).
+                                                       TRIAL   1. Duration of action of agents with and
+                     METHOD                                 without adrenaline.
+The tests were carried out on volunteer subjects          Twenty volunteers received from "blind" coded
+(female nursing staff) by a mediod similar to diat     ampoules the following: (1) bupivacaine HC1
+reported by Foldes and Macnall (1952).                 0.25 per cent; (2) bupivacaine HC1 0.25 per cent
+   Skin weals were made in the ventral aspect of       widi adrenaline 1 in 200,000; (3) lignocaine (HQ)
+the left forearm by intradermal injection of           1 per cent; (4) Jignocaine H Q 1 per cent with
+0.25 ml of local anaesthetic from a 1 ml poly-         adrenaline 1 in 200,000; (5) prilocaine 1 per cent;
+ediylene tuberculin sringe with a 27 s.w.g. needle.    (6) prilocaine 1 per cent widi adrenaline 1 in
+Each weal was "labelled" widi the code letter of       200,000.
+the corresponding "blind" ampoule. Measurement
+was made of the time when some sensation re-           M . SWERDLOW, MX)., M.SC., F.F.A.R C.S.; RUTH JONES,*
+turned in die weal and of the time when analgesia      MJ., CH.B., D.R.C.O.G., D.A.; Department of Anaesthesia,
+                                                       Salford Hospital Group.
+completely disappeared ("regression time"). Test-
+ing of sensation was carried out at 5-10 minute          * Present address: Princess Alexandra Hospital,
+                                                       Harlow, Essex. ,
+
+===== PAGE 2 =====
+336                                                                   BRITISH JOURNAL OF ANAESTHESIA
+
+   The allocation of the code letters to each of the             it is found that the increase in duration produced
+six injections was determined by using a random                  by adrenaline is not the same for each drug.
+code. Each volunteer received all six preparations               Adrenaline resulted in a significantly longer pro-
+(i.e. six weals).                                                longation of both analgesia and hypoaesthesia
+   Table I shows the mean duration (and standard                 with lignocaine rhan with the other two agents.
+errors) of analgesia and of hypoaesthesia produced
+by the various preparations.                                     TRIAL 2. Comparison of hospital v. commercially
+                                                                       prepared agents.
+                           TABLE I
+Duration of effect of solutions with (*) and without
+                                                                    Multiple-dose code-labelled vials were prepared
+             adrenaline (mean and SE).                           by the hospital pharmacist containing bupivacaine
+                                                                 0.25 per cent plus 1 in 200,000 adrenaline, ligno-
+    Agent            No.       Duration          Duration of
+    used             of       of analgesia      hypoaesthesia    caine 1 per cent plus 1 in 200,000 adrenaline, and
+      (%)           cases        (min)             (min)         prilocaine 1 per cent plus 1 in 200,000 adrenaline.
+
+
+
+
+                                                                                                                        Downloaded from http://bja.oxfordjournals.org/ at Aston University on September 5, 2014
+Bupivacaine 0.25     20       199.5 ±33.4        306.8 ±30.2     Twenty volunteers received an injection of each
+Lignocaine 1         20       127.6 ±17.4        221.1 ±24.0     of the three preparations. The results were com-
+Prilocaine 1         20        99.1 ±19.1        172.9 ±22.2     pared with those obtained with the commercially
+Bupivacaine* 0.25    20       428.6 ±39.9        500.2 ±37.0     prepared (Trial 1) preparations of the same three
+Lignocaine* 1        20       416.2 ±25.8        483.8 ±24.1
+Prilocaine* 1        20       288.7 ± 10.2       349.1 ±13.2     agents.
+                                                                    Table HI shows that in every case injection of
+   Table II shows the significance of the differ-                the commercially prepared drug resulted in a
+ences between the effects of the three local anaes-              longer duration of both analgesia and hypo-
+thetics used without adrenaline. It will be seen                 aesthesia than did the corresponding drug
+that bupivacaine gave significantly longer analgesia             prepared in the hospital pharmacy. Statistical
+than prilocaine and significantly longer hypo-                   analysis shows that the comparisons are all signi-
+aesthesia than both the other local anaesthetics.                ficant at the level of either P<0.001 or
+                           TABLE II                              0.01<P<0.05.
+              Significance of differences.                          In an endeavour to explain the difference in
+                     Difference in         Difference in         duration of the two preparations of the same
+   Agents            mean duration        mean duration          drugs, samples of both hospital-prepared and
+  compared            of analgesia       of hypoaesthesia        commercially prepared agents were sent for
+Bupivacaine           Significant              Significant       analysis. It was found that the identity and concen-
+  v. prilocaine     0.01<P<0.05                 P<0.001          tration of each coded container was as intended
+Bupivacaine         Not significant            Significant       and that the results of pH measurements were:
+  v. lignocaine         P>0.1                0.01<P<0.05
+Lignocaine          Not significant          Not significant
+  v. prilocaine                                                       Agent                   Hospital    Commercial
+                        P>0.1                    P>0.1           (with adrenaline)          preparation   preparation
+   The effect of adding adrenaline to the three                                                 pH            pH
+drugs is very marked; the increased duration is
+                                                                 Bupivacaine 0.25%              2.55            3.0
+highly significant for each of the three drugs, both
+                                                                 Lignocaine 1%                  2.80            3.15
+in duration of analgesia and hypoaesthesia
+                                                                 Prilocaine 1%                  2.70            3.05
+(P<0.001 in each instance). On further analysis
+                                                          TABLE III
+                  Comparison of hospital and commercial preparations (values are mean and SE).
+                                                     Duration of analgesia       Duration of hypoaesthesia
+                                                            (min)                         (min)
+                     Agent                          Hospital      Commercial         Hospital    Commercial
+        Bupivacaine 0.25% +adrenaline             265.8 ±27.6     428.6 ±39.9    378.8 + 35.8    500.2 + 37.0
+        Lignocaine 1% + adrenaline                231.5 ±23.0     416.2 ±25.8    332.0 ±27.7     483.8 + 24.1
+        Prilocaine 1% +adrenaline                 205.0 + 16.8    288.7 ± 10.2   287.3 ±23.7     349.1 ±13.2
+
+===== PAGE 3 =====
+ACTION OF BUPIVACAINE, PRILOCAINE AND LIGNOCAINE                                                        337
+
+To determine whether ionic dissociation differ-           It will be noted that the magnitude of the
+ences were responsible for the differences in the      standard error differs with the results for the three
+duration of action of the two preparations acid-       drugs, and reference to the results of the other
+base titration analysis was carried out over the       trials above shows a similar pattern for the
+entire pH range, using glass electrodes. The           standard errors. Variance-ratio tests were therefore
+results showed no appreciable difference in ionic      carried out on the data in table IV and these
+dissociation between the two preparations.             showed that the variance when bupivacaine is
+(Analyses were undertaken by Dr. E. Power,             used is very significantly greater than with
+Department of Chemistry, Salford University.)          either prilocaine or lignocaine (P<0.001 and
+                                                       0.001<P<0.01 respectively) and the comparison
+TRIAL 3. Effect of concentration of analgesic solu-    of variances for prilocaine and lignocaine was just
+    tion.                                              significant (i.e. PiO:0.05), that for prilocaine
+   In order to study the influence of an increase      being the larger. This is an agreement with the
+
+
+
+
+                                                                                                                Downloaded from http://bja.oxfordjournals.org/ at Aston University on September 5, 2014
+in concentration of the agents on the duration of      findings in Trials 1 and 2.
+action, twenty volunteers received an injection of        With regard to the duration of hypoaesthesia,
+each of the following commercially prepared solu-      table V shows that, with each agent, the double-
+tions : bupivacaine 0.5 per cent; lignocaine 2 per     strength solutions gave a greater duration than
+cent; prilocaine 2 per cent.                           the single-strength. The increases were not signi-
+   Table IV shows the mean duration of analgesia       ficant with prilocaine or lignocaine, but the in-
+and table V of hypoaesthesia produced by these         crease for bupivacaine was significant. No allergic
+concentrations of the anaesthetics. The comparison     effects were seen in any of the volunteers in the
+shows that doubling the strength of the solution       series, but slight irritation over the injected areas
+does not significantly increase the mean duration      occurred in one subject who received double-
+of analgesia for any of the three drugs used. (For     strength solutions without adrenaline.
+lignocaine the mean duration is actually less with
+the 2 per cent concentration, though not signi-        TRIAL 4. Effect of intradermal injection of
+ficantly so.)                                                saline with and without adrenaline.
+                       TABLE IV                           It is of interest to know what part, if any, is
+Effect of concentration on duration of analgesia {mean being played in these results by distension of the
+                        and SE).                       tissues by the injected solutions. Accordingly
+             Concen- Mean duration Significance        normal saline and normal saline plus 1 in 200,000
+              tiation     of analgesia         of      adrenaline were prepared in "blind" containers
+    Agent                     (min)       difference
+                                                       and twenty nurses received intradermal weals of
+Bupivacaine     «'»       199.5 + 33.4                 both preparations under the experimental condi-
+                          252.8 ±34.3      PX).05
+                1         127.6  ±17.4
+                                                       tions described above. It was found that, in nine-
+Lignocaine      2         108.5 ±13.7      P>0.05      teen   of the twenty subjects, both preparations
+                1           99.1 ±19.1                 produced a period of hypoaesthesia. The mean
+Prilocaine      2         100.8 + 20.6     P>0.05
+                                                       duration of hypoaesthesia was 35.4 ±7.1 min with
+                                                       saline including adrenaline and 36.1 ±5.4 min
+                        TABLE V                        with normal saline; the difference is not significant.
+Effect of concentration on duration of hypoaesthesia These times are significantly shorter (P<0.001)
+                     (mean and SE).
+                                                       than those obtained with any of the local analgesic
+             Concen- Mean duration       Significance  solutions tested. With regard to analgesia, saline
+              trauon of hypoaesthesia          of      including adrenaline produced analgesia in only
+    Agent       (%)            (min)       difference
+                                                       two subjects (1 min; 19 min) and saline alone
+                0.25       306.8 + 30.2
+                                        0.01<P<0.05    produced     analgesia in three subjects (2 min;
+Bupivacaine     0.5       435.8 + 42.1
+                1          221.1 + 24                  8 min; 16 min). Finally, a number of the
+Lignocaine      2         274.0 ±27.2       P>0.05     volunteers stated that saline with adrenaline
+Prilocaine      1          172.9 ±22.2      PX).05
+                                                       caused more pain during injection than did saline
+                2          244.5 ±33.5                 alone.
+
+===== PAGE 4 =====
+338                                                         BRITISH JOURNAL OF ANAESTHESIA
+
+                    DISCUSSION                             The marked prolongation of effect produced by
+The results of these trials provide some informa-       adrenaline is well known (Braun, 1914; Gray and
+tion on the duration of action of bupivacaine as        Geddes, 1954), absorption of the local anaesthetic
+compared with lignocaine and prilocaine. The            from the site of injection being markedly slowed
+results are not strictly comparable with the clinical   down. The finding that adrenaline prolonged the
+situation in which the local analgesic is applied       effect of lignocaine more than the other two agents
+to nerve fibres within the body mass. However,          confirms the work of Astrom (1965) who postu-
+skin weal testing in volunteers does allow the          lates an anti-adrenaline action for prilocaine.
+comparison of the effects of a number of prepara-       Albert and Lofstrom (1965) carried out bilateral
+tions in the same subject and facilitates frequent      ulnar nerve blocks in volunteers and tested by
+testing of the state of analgesia and hypoaesthesia.    pinch-test for analgesia and hypoaesthesia. They
+The "overloading" which may result from injec-          found that adrenaline prolonged the duration of
+tion of 0.25 ml solution intradermally may to           action of lignocaine four times and that of prilo-
+
+
+
+
+                                                                                                                Downloaded from http://bja.oxfordjournals.org/ at Aston University on September 5, 2014
+some extent hinder the clearance of the local           caine twice. They also found that "the time from
+analgesic by blood flow. Furthermore the skin has       reappearance of pain sensation until complete
+a somewhat limited blood supply so that blood           recovery of pain perception" (regression time)
+clearance will be slower than in deeper tissues and     were similar with prilocaine and lignocaine; the
+in addition the effects of adrenaline will be           regression times were lengthened by adrenaline
+exaggerated. Dhuner and Lewis (1966) showed             especially for lignocaine. This was not found in
+that both lignocaine and bupivacaine cause an           the present study. Widman (1964), who per-
+increase in regional blood flow when injected           formed digital nerve block in volunteers and
+intramuscularly but not when given subcutane-           tested analgesia by pinprick, found that 025 per
+ously. They found also that addition of adrenaline      cent bupivacaine with 1 in 250,000 adrenaline
+to the injected solutions significantly prolonged       gave a duration of anaesthesia of 445 ± 48 min—
+the duration of action of subcutaneous injections       a very similar duration to that found in the present
+of local anaesthetic but not that of intramuscularly    trial with the same solution. Hollmen (1966) also
+injected solutions.                                     reported similar durations of analgesia and hypo-
+   With regard to the different results produced        aesthesia when 0.25 per cent bupivacaine was
+by the hospital and commercial preparations             used for axillary plexus block.
+of the same analgesics, it must be noted that              Comparison of the duration of analgesia pro-
+the commercially prepared ampoules were gassed          duced by double-strength solutions with that of
+with nitrogen before sealing, whereas the hospital      single-strength solutions plus adrenaline shows
+pharmacy prepared vials of the three agents by          that adrenaline gives significantly longer analgesia,
+direct transfer from the manufacturer's ampoule.        suggesting that maintenance of the solution at the
+The vials were not filled with nitrogen and these       injection site is important in prolonged action.
+solutions would undergo oxidation more readily,         The duration of hypoaesthesia is also significantly
+resulting in a lower pH which may partly account        longer with single-strength solution plus adrena-
+for the disparity in duration of action. It seems       line than with double-strength solution, except in
+likely, however, that the main reason was a deacti-     the bupivacaine groups. Thus as far as intra-
+vation of the adrenaline in the solutions. Sodium       dermal injection is concerned the prolongation of
+metabisulphite is added to local anaesthetic            action produced by adrenaline is of more import-
+solutions to prevent oxygenation of adrenaline,         ance than that resulting from increasing the
+but in the hospital-prepared vials some oxygen          concentration of local anaesthetic used. When the
+would be let into the vial during preparation and       trial was planned it was hoped to include a study
+every time it was used. It will be of interest to       of times of onset of action. In practice this proved
+anaesthetists and others using local analgesics to      impossible because each skin weal was analgesic
+realize that bottles and vials of local analgesic       to pinprick immediately it was produced—pre-
+(particularly multidose ones) prepared in the hos-      sumably due to the distension of the tissues
+pital pharmacy and perhaps kept on the shelf for        produced by the solution. In this respect the
+long periods will not provide as long a duration        findings of the present normal saline trial are of
+of action as intact ampoules.                           interest. No previous similar trial has been found
+
+===== PAGE 5 =====
+ACTION OF BUPIVACAINE, PRILOCAINE AND LIGNOCAINE                                                                  339
+
+except that of Padfield (1967) who also reported            papule cutanee; cheque essai sipazi a tti fait k double
+that saline produced a brief period of analgesia            insu chez vingt volontaires feminines. Bupivacaine,
+                                                            lignocalne et prilocaine ont d'abord iti comparers avec
+after intradermal injection. It is chastening to dis-       et sans adrenaline, 1:200 000. Bupivacaine causa une
+cover that Halstead in 1885 wrote: "The skin can            analgesic significativetnent plus longue que prilocaine, et
+be completely anaesthetised by cutaneous injec-             une hypoth&ie significativement plus longue que les
+                                                            deux autres substances. Adrenaline prolongea significa-
+tions of water. The anaesthesia seldom oversteps            tivement l'effet des trois medicaments, cette prolonga-
+the boundary of the original bloodlesss wheal, but          tion itant la plus grande pour lignocalne. Les auteurs
+                                                            ont compare au cours de la seconds partie de l'essai, la
+does not always vanish just as hyperaemia super-            duree d'action de solutions, preparees a I'h6pital et
+venes."                                                     d'origine commerciale, des trois analgesiques locaux +
+                                                            adrenaline. Les ampoules d'origine commerciale eurent
+                 ACKNOWLEDGEMENTS                           une duree d'action significativement plus longue, que
+Our thanks are due to the nursing staff of the Salford      celle des flacons multidose prepares 4 l'hdpital. Le
+Group of Hospitals who volunteered to take part in          troisieme groupe d'experiments £tudia l'effet d"un
+the study. We are also grateful to Mr. B. A. Moore,         d&ioublement des concentrations des solutions; il n'y
+M.SC., of the Department of Mathematics, Salford            cut pas de prolongation importante de la duree d'anal-
+
+
+
+
+                                                                                                                          Downloaded from http://bja.oxfordjournals.org/ at Aston University on September 5, 2014
+University, for carrying out the statistical analysis of    gesie mais l'hypoesth^sie se prolongea, merne signifi-
+the results. Finally we would like to thank Mr. A.          cativement en ce qui concerne la bupivacaine. Les
+Williams (Chief Pharmacist, Salford Hospital Group)         resultats individuels obtenus durant les diffirents essais
+and Mr. G. W. Williams of BDH Pharmaceuticals for           varierent plus avec bupivacaine qu'avec les autres
+preparing the "blind" preparations of the local anal-       substances. Finalement on a e^udi^ l'effet analgesique
+gesics.                                                     d'une solution saline (avec et sans adrenaline); on
+                                                            observa que les deux solutions provoquerent en general
+                      REFERENCES                            une courte piriode similaire d'hypoesthesie. Les
+Albert, J., and Lofstrom, B. (1965). Effects of epine-      auteurs discutent les observations et leurs consequences
+     phrine in solutions of local anaesthetic agents.       pratiques.
+    Acta anaesth. scand., SuppL 16, 71.
+Astrom, A. (1965). Factors affecting the action of
+     Citanest in vivo. Acta anaesth. scand., SuppL 16,
+     23.
+Braun, H. fl914). Die Lokalanastesie, 4th ed., p. 163.      DIE    WIRKUNGSDAUER VON BUPIVACAIN,
+     Leipzig: Verlag von J. A. Barth.                                PRILOCAIN UND LIGNOCAIN
+Dhuner, K. G., and Lewis, D. H. (1966). Effects of
+                                                                               ZUSAMMENFASSUNG
+     local anaesthetics and vasoconstrictors upon
+     regional bloodflow. Acta anaesth. scand., SuppL 23,    Die Analgesie- und Hypasthesie-Dauer, wie sie durch
+     347.                                                   verschiedene Losnngen erzielt wird, ist mittels Intra-
+Ekblom, L., and Widman, B. (1966). A comparison of          kutantestung unrersucht worden: jede einzelne Studie
+     the properties of LAC-43, prilocaine and mepi-         wurde an 2wanzig freiwilligen weibliche Probandinnen
+     vacaine in extradural anaesthesia. Acta anaesth.       unter Doppelbhndversuchs-Bedingungen durchgefuhrt
+     scand., SuppL 21, 10, 33.                              Zuerst wiirden Bupivacain, Prilocain und Lignocain mit
+Foldes, F. F., and McNall, P. G. (1952). Chloro-            und ohne Zusatz von Adrenahn (1:200 000) vergUchen.
+     procaine—a new local anesthetic agent. Anes-           Dabei wurde festgestellt, dafi die Analgesie mit Bupiv-
+     thesiology, 13, 287.                                   acain wesentlich langer anhielt als mit Prilocain; die
+Fortuna, A. (1966). Further experiences with LAC-43         Hypasthesie-Dauer war nach Bupivacain wesentlich
+     in peridural block. Acta anaesth. scand., SuppL 23,    langer ab nach den beiden anderen Agenzien.
+     402.                                                   AdrenaUn verlangerte die Wirkungsdauer aller drei
+Gray, T. C , and Geddes, I. C (1954). A review of           Substanzen erhebh'ch; am starksten wird die Wirkung
+     local anaesthetics. 7. Pharm. Pharmacol, 6, 89.        von Lignocain prolongiert. Im zweiten Teil der Priifung
+Halstead, W. S. (1885). Water as a local anaesthetic.       wurde die Wirkungsdauer von im Krankenhaus herge-
+     N.Y. med. J., 42, 327.                                 stellten Losungen der drei Lokalanalgerika, jeweib mit
+Hollmin, A. (1966). Axillary plexus block: a double         Adrenahn-Zusatz, mit den entsprechenden handebiib-
+     blind study of 59 cases using mepivacaine and          lichen Losungen verglichen. Die handelsublichen
+     LAC-43. Acta anaesth. scand., SuppL 21, 10, 53.        Ampullenpraparationen besaDen eine erheblich langere
+Padfield, A. (1967). The intradennal local analgesic        Wirkungsdauer als die im Krankenhaus hergestellten
+     action of pnlocaine. Anaesthesia, 12, 556.             Mulridosis-Flaschen. Im dritten Abschnitt der Prufung
+Watt, M. ]., Ross, D. M., and Atkinson, R. S. (1968).       wurde die die Wirkung einer Konzentrationsverdopp-
+                                                            lung der Losungen untersucht: es kam zu keiner
+     A rlintral trial of bupivacaine. Anaesthesia, 23, 2.   starken Verlangerung der Analgesiedauer, die Dauer der
+Widman, B. (1964). Clinical trial of a new local anaes-     Hypasthesie jedoch wurde verlangert, nach Bupivacain
+     thetic (LAC-43) with the aid of the pin-prick and      sogar erheblich. Wahrend aller der oben beschriebenen
+     ninhydrin methods in finger blocks. Acta anaesth.      Prflfungsabschnitte zeigten die individuelkn Ergebnisse
+     scand., 8, 219.                                        fur Bupivacain eine groflere Schwankungsbreite als die
+                                                            der anderen Agenzien. Abschliefiend wurde der anal-
+   LA DUREE D'ACTION DE BUPIVACAINE,                        gerische Effekt einer Salzlosung Cmit und ohne Zusatz
+       PRILOCAINE ET LIGNOCAINE                             von Adrenalin) untersucht: es wurde festgestellt, dafi
+                                                            beide Losungen gewohnlich eine Hypasthesie von gleich
+                       SOMMATRE
+                                                            kurzer Dauer hervorriefen. Die Befunde und die sich
+La duree d'analgesie et d'hypoesthesie, produites par       ergebenden praktischen Folgerungen wurden diskutiert.
+diverses solutions, a tti etudiee a l'aide du test de la
+

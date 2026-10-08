@@ -1,0 +1,357 @@
+
+===== PAGE 1 =====
+Br. J. Amesth. (1975), 47, 586
+
+
+
+               AN INVESTIGATION IN MAN INTO THE RELATIVE POTENCY OF
+                      LIGNOCAINE, BUPIVACAINE AND ETIDOCAINE
+
+                                        M. MORGAN AND W. J. RUSSELL
+
+                                                      SUMMARY
+           The relative potency of lignocaine, bupivacaine and etidocaine was estimated by fore-
+           arm skin weals in four volunteers. Potency was estimated as the time to half-recovery
+
+
+
+
+                                                                                                                    Downloaded from http://bja.oxfordjournals.org/ at University of Illinois at Urbana-Champaign on March 14, 2015
+           of a sharp sensation in response to a needle-prick. The increase in duration of action
+           with increased concentration was greater for bupivacaine and etidocaine as compared
+           with lignocaine. At the same concentrations, bupivacaine had a longer duration of
+           action than etidocaine. However, etidocaine 1% had a longer duration of action than
+           bupivacaine 0.5%.
+The assessment of any new local anaesthetic agent            1.0%. Sodium chloride 0.9% in water (normal
+must include investigations into its potency, its            saline) was included as a control. No solution con-
+latency (time to onset of action) and its toxicity,          tained adrenaline. The lower concentrations of each
+both local and general. In such assessments it is            drug were made by dilution of the highest con-
+important to determine the activity of the new               centration with saline in a 1-ml graduated syringe.
+drug in relation to a standard. In 1957, Bonica              Each test weal was made by injecting 0.2 ml of the
+discussed the various methods which may be used              test solution intradermally with a 25-gauge needle.
+to test these properties, the difficulty of extrapola-       Care was taken to ensure that there was no leakage
+ting from animal studies to man and the problems             of fluid. The outline of each weal was marked
+of testing new agents in the clinical situation. Prob-       accurately with ink, and numbered.
+ably the least variation occurs when using intra-               Site of weals. On the flexor surface of the fore-
+dermal weals, and this technique has been used to            arm, a line was drawn from the medial side of the
+compare local anaesthetic activity in both animals           biceps tendon to the palmaris longus tendon at the
+(Biilbring and Wajda, 1945) and man (Sinha, 1936;            wrist. Any watch-band area was avoided. Weals
+Geddes, 1956). The technique also gives informa-             were raised on alternate sides of this line 2 cm
+tion on the duration of action and local toxicity.           apart. In this way it was possible to make eight
+   If potency is defined as the reciprocal of the con-       weals on each forearm. The order of the test solu-
+centration required to achieve a specific effect to a        tions and the saline control used to make the weals
+specific end-point, then one form of potency, prob-          down the forearm was determined from an 8 x 8
+ably the most important for local anaesthesia,               latin square. Neither the subject nor the investiga-
+relates to the duration of action. Potency, in terms         tor knew the identity of the weals and the subject
+of duration, is then defined by the concentration of         could not see which weal was being tested.
+local anaesthetic which produces analgesia for a                Testing. Sensation was tested with a Down's
+given time. Relative potency is thus the inverse             No. 10 fine triangular straight needle. The needle
+ratio of two of these concentrations.                        was weighted with circular lead weights about its
+   This study was designed to compare the potency            shaft 15 mm from the tip. Before raising the weals,
+of the new local anaesthetic agent etidocaine with           the number of weights was adjusted for each indi-
+lignocaine, which we have regarded as the stand-             vidual so that every needle-prick was felt as being
+ard, and bupivacaine.                                        sharp along the whole length of the forearm. The
+                                                             actual sites of the weals were not used during this
+                        METHOD
+                                                             preliminary testing. The needle was applied
+Solutions. The local anaesthetic solutions were              through a guide so that the weights alone pressed
+lignocaine 0.25% and 1.0%, bupivacaine 0.25%                 the needle against the skin (fig. 1). Using this
+and 0.5%, and etidocaine 0.25%, 0.5% and                     method, we found that the needle did not penetrate
+M. MORGAN, M.B., B.S., D.A., FJ?.AJLC.S.; W. J. RUSSELL,     the skin, and yet there was sufficient pressure to
+M.B., B.S., F.F.A.R.C.S., D.I.C.; Hammersmith Hospital and   give the subject a sensation of a sharp prick.
+Royal Postgraduate Medical School, Du Cane Road,
+London, W12 0HS.                                                Each weal was tested four times, at 5-min inter-
+
+===== PAGE 2 =====
+RELATIVE POTENCY OF LOCAL ANAESTHETICS                                                                          587
+
+                                                            R=l—(C/K)=(l—e-" 1 )- Return of sensation was
+                                                            regarded as being the return of a pricking feeling
+                                                            when the stimulus was applied. However, return of
+                                                            sensation occurred gradually, so that four stimuli
+                                                            to a single weal resulted in the perception of 1, 2, 3
+                                                            or 4 pricks. The progressive increase in the num-
+                                                            ber of pricks perceived was taken to be an estimate
+                                                            of the degree of recovery of sensation.
+                                                               The sum of the positive prick responses at each
+                                                            5-min interval for each concentration of each drug
+
+
+
+
+                                                                                                                         Downloaded from http://bja.oxfordjournals.org/ at University of Illinois at Urbana-Champaign on March 14, 2015
+                                                            for the eight experimental situations was derived.
+
+
+                                                                           y _n   -(M)35(t-11-5)
+FIG. 1. Diagram of pricking device. The weighted needle
+is applied to the forearm until the whole weight is on
+the needle point. Each marked weal is tested four times
+in a selected pattern. The test pattern is varied so that
+         the whole test area is evenly pricked.
+
+vals. The order of testing was determined from a               0-5
+table of random numbers. This number defined the
+first weal to be tested. Each alternate weal was
+tested, then the remaining weals in sequence. Thus
+if weal number 3 was tested first, the order would
+be 3, 5, 7, 1, 2, 4, 6, 8, while if number 6 was first
+tested the order would be 6, 8, 2, 4, 5, 7, 1, 3.
+    When the needle was applied to anaesthetized                 o    io 20 a r u i         s r i 708090100
+skin, either no sensation or one of light touch was                                 Time (minutes)
+                                                            FIG. 2. Group response for lignocaine 1% in 5-min time
+felt. The end-point was the return of a sharp prick-        intervals. Ordinate is response (y) from 0 to 1.0 (32/32).
+ing sensation, which could not always be appre-             The recovery curve, y=l—e°-<»J(t—ii-», where t is time
+                                                            in minutes, is estimated from 10 data points from 15
+ ciated accurately when sensation was recovering.           min to 60 min. The dashed lines are 95% confidence
+The number of sharp pricks felt on each test was            limits for the curve. From this curve the half-recovery
+ recorded. The procedure was continued until four                (y=0.5) line (T») can be estimated as 31 min.
+ sharp pricks were recorded for all weals on the
+ same test, or until 240 min had elapsed since injec-       The maximum possible value for each point of time
+ tion, with four pricks recorded for all weals at least     was therefore 32. Values from 6% (2/32) to the
+ once.                                                      first value over 65% (21/32) were used to estimate
+     Subjects. The subjects were four adult male            a best fit line of the theoretical form outlined above
+ volunteers from the Department of Anaesthetics             (fig. 2). Where necessary, data were taken above
+ at the Hammersmith Hospital. The right and left            65 % recovery, so that at least 10 data points were
+ arms were used on separate occasions, so that, in          used for the estimate of each curve (table I). The
+ all, eight complete experiments were performed.            curves were estimated from the equation:
+
+Statistical method.
+   If recovery is assumed to be a simple washout of          where y is the degree of recovery and T is the delay
+the drug from the tissues, the concentration ( Q of          time to the beginning of return of sensation. This
+the drug in the tissues declines in the form                 equation was estimated by a least-squares linear
+C=Ke- o t ; where t=time and a and K are con-                regression. A half-recovery time (y=0.5, 16/32)
+stants for the conditions. If one further assumes a          was estimated from the fitted line as a measure of
+uniform distribution of nerve sensitivity, then the          the duration of action of the anaesthetic agent. An
+block of the nerve will have the same form. Thus             estimate of the variability of T was not made as
+the recovery (R) will be the residual, that is,              this would require extrapolation. The variability of
+
+===== PAGE 3 =====
+588                                                                      BRITISH JOURNAL OF ANAESTHESIA
+           TABLE I.   Actual group values at each time for each test solution. The values between the bars are those
+                         selected for estimation of the recovery curve. The maximum value possible is 32.
+                                         Lignocaine               Bupivacaine                    Etidocaine
+           Time        Normal
+           (min)        saline         0.25%      1.0%         0.25%       0-5%          0.25%       0.5%     1.0%
+              0           25              0         0              0         0              1         0        0
+              5           26              0         0              0         0              0         0        0
+             10           30              7         0              0         0              5         0         0
+             15           30             18         3              5         0             16         1         1
+
+
+
+
+                                                                                                                       Downloaded from http://bja.oxfordjournals.org/ at University of Illinois at Urbana-Champaign on March 14, 2015
+             20           28             20         9             12         2             14         0         1
+            25            29             19        14             13         2            18          2         0
+            30            30             22        10             18         5            27          2         1
+            35            28             19        20             14         9            20          5         0
+            40           31             22        23             16          9            24        10          3
+            45           30             21        20             16          9            28        12          2
+            50           31             27        21             18         10            21        16          2
+            55           31             28        25             20         15            25        20          5
+            60           31             28        27              19        15            26        16          8
+            65            32            28         27            19         17            27        15          9
+            70            29            24         23            21         11            27        19         10
+            75           30             29        25             20         17            24        16          9
+            80           32             28        27             19         16            27        25          8
+            85           30             30        29             17        16             27        20        14
+            90           31             29        28             19        18             24        21        15
+            95           30                       31             17        16                       23        15
+           100                                                   17        19                       25        18
+           105                                                   22        22                       21        20
+           110                                                             18                       25        18
+           115                                                             20                       24        24
+           120                                                             24                                 26
+           125                                                             20                                 20
+           130                                                             24                                 22
+           135                                                             25                                 29
+           140                                                             27                                 26
+                                                                                                              27
+                                                                                                              26
+
+
+a was estimated by standard equations, and the                  solutions differed considerably between individuals.
+variability of the half-recovery time T a 0 was                 The fastest time for recovery of sensation in all
+obtained from the equation:                                     weals was 85 min, and the longest was 240 min.
+     (Var T 5 0 )/(T 5 0 ) 2 = (Var y)/ y 2 + (Var a)/a»        Each subject, however, showed similar durations of
+                                                                effect on each arm.
+(Modified from Armitage (1971), where y is the                     Table II shows the estimated time for the begin-
+mean observed value of y.)                                      ning of return of sensation, the rate of return of
+                                                                sensation and the correlation coefficient for the
+                        RESULTS                                 data for each drug.
+Sensation was present in the normal saline weal on                 Figure 3 shows the time for 50% recovery for
+the first test (zero time) and recovery was usually             each concentration of the different agents. If
+complete within the first 10 min, so that pressure              potency is defined by duration of action, then bupi-
+or mechanical damage to the tissues had little part             vacaine is more potent than etidocaine, which in
+to play in the remaining results (table I).                     turn is more potent than lignocaine. The similar
+   The duration of effect of the local anaesthetic              slopes of the concentration/duration lines for bupi-
+
+===== PAGE 4 =====
+RELATIVE POTENCY OF LOCAL ANAESTHETICS                                                                                  589
+
+           TABLE II. Statistical parameters for the seven solutions tested. N is the number of data values used to
+           estimate the exponential curve; r u the correlation coefficient of the logarithmic transform of the curve,
+           which is linear. The curve fined is y=l —e^'—V, where y is the proportion of recovery of sensation,
+           a. is the rate of recovery and T the delay in minutes before recovery begins. Ts0 is the estimated time in
+                 minutes for 50 % (y=0.5) recovery. Both a and Tw are shown with their standard error.
+           Anaesthetic                  N              r           -aXKT3                 T
+
+           Lignocaine
+                   0.25%                10          -0.87            30±6               -4.9            18.2±3.8
+                    1.0%                10          -0.94            35 ±4               11.5           31.4±4.6
+           Bupivacaine
+                   0.25%                12          -0.89            12±2              -14.8            40.5 ±6 3
+
+
+
+
+                                                                                                                              Downloaded from http://bja.oxfordjournals.org/ at University of Illinois at Urbana-Champaign on March 14, 2015
+                   0.5%                 18          -0.93            10±l                103            76.5 ±8.0
+           Etidocaine
+                    0.25%               10          -0.71            28±10              -7.4            17.4±6.2
+                    0.5%                12          -0.87            20 ±4               22.7           56.9±10.3
+                    1.0%                16          -0.93            15±2                43.9           91.3±9.8
+
+   1-0                                                    in perceiving the sensation as a sharp prick may be
+                                                          related to the sparse innervation of the flexor sur-
+                                                          face of the forearm. This would be consistent with
+   0-5                                                    our own observations that two-point discrimination
+                                                          in this area was 1 cm or greater whereas on a finger
+g                                                         it is usually about 3 mm.
+                                                             From the results obtained, it can be seen that
+   0-25                                                   increasing the concentration of lignocaine did not
+                                                          markedly prolong its duration of action as com-
+                                                          pared with the findings for etidocaine and bupi-
+           10 20 30 40 50 60 70 80 90 100 vacaine. The difference in slope of the concentra-
+                 Half-Recovery Time (minutes)
+FIG. 3. Relation of half-recovery time and concentration tion/duration lines between lignocaine and the
+for three local anaesthetic agents. A log-linear response other drugs is probably a reflection of the differ-
+(Bulbring and Wajda, 1945) was assumed for the two ence in removal of the agents from the skin weaL
+standard drugs and so only two points were estimated.
+         Three points are given for etidocaine.           This is in keeping with animal studies (Adams,
+                                                          Kronberg and Takman, 1972) and is compatible
+                                                          with the known differences in protein binding of
+vacaine and etidocaine suggest that the removal of
+                                                          the drugs; lignocaine is bound much less than
+these drugs from a skin weal follows a similar
+                                                          either etidocaine or bupivacaine (Tucker et al.,
+pattern.
+                                                          1970; Lund, Cwik and Pagdanganan, 1973).
+   During these experiments, stinging was a com-
+mon experience with all test solutions. No weals             These results illustrate the difficulty in estimating
+showed any evidence of an inflammatory, allergic          relative potency. Because the slopes for lignocaine
+or toxic reaction during testing or the following and etidocaine differ (fig. 3), the drugs are equi-
+day. None of the drugs caused any general reaction potent at a concentration of 0.25%, but lignocaine
+in any subject.                                           1% corresponds with an estimated 0.32%, giving
+                                                          31 min analgesia; thus etidocaine is three times
+                      DISCUSSION                          more potent than lignocaine. However, the dose/
+Skin weals in humans have been used to test local response lines for bupivacaine and etidocaine are
+anaesthetic activity by Sinha (1936) and Geddes parallel, so that in general bupivacaine can be said
+(1956). In this study we attempted to apply a to be 1.5 times more potent than etidocaine. This
+standard stimulus to the skin. Initial testing showed illustrates that one of the important assumptions
+a considerable difference in individual sensitivity to underlying potency ratios is that the dose/response
+pinprick. Thus the pricking pressure was adjusted curves are parallel. Thus single doses of drugs
+by adding weights to the needle until the subject should never be used for comparisons of this type.
+consistently perceived the stimulus as a sharp prick         At a concentration of 0.5%, therefore, bupi-
+sensation at all points on the forearm. The difficulty vacaine has a longer duration of action than etido-
+
+===== PAGE 5 =====
+ 590                                                              BRITISH JOURNAL OF ANAESTHESIA
+
+caine. However, it would appear that etidocainc           the Royal Postgraduate Medical School is gratefully
+                                                          acknowledged. We thank Miss A. Petrie for advice on
+can be used safely in a concentration of 1%, a            the statistical aspects of this investigation and Astra
+strength at which bupivacaine is not used because         Chemicals Ltd for a gift of the etidocaine used in this
+of its systemic toxitity, and a longer duration of        investigation. We are grateful to Mrs J. T. Russell for
+                                                          secretarial assistance.
+effect could be expected with etidocaine 1%. The
+                                                                                 REFERENCES
+work of Scott, Jebson and Boyes (1973) suggests
+                                                          Adams, H. J., Kronberg, G. H., and Takman, B. H.
+that the systemic toxicity of etidocaine may be less        (1972). Local anesthetic activity and acute toxicity of
+than that of bupivacaine. They showed that etido-           (±) - 2 - (N-ethylpropylamino) -2'-ft'- butyroxylidide,
+caine disappeared much more quickly from the                a new long-acting agent. J. Pharm. Set., 61, 1829.
+                                                          Armitage, P. (1971). Statistical Methods in Medical
+plasma than bupivacaine, with plasma concentra-             Research, p. 97. Oxford: Blackwell.
+
+
+
+
+                                                                                                                       Downloaded from http://bja.oxfordjournals.org/ at University of Illinois at Urbana-Champaign on March 14, 2015
+tions which were 40-50% lower at all times, and           Bonica, J. J. (1957}. Minimi investigation of local anes-
+that it was distributed in a much larger volume in          thetics. Anesthestology, 18, 110.
+                                                          Bfllbring, E., and Wajda, I. (1945). Biological compari-
+the body. These workers stressed that further work          son of local anesthetics. J. Pharmacol. Exp. Ther., 85,
+is required before any definite conclusions can be          78.
+                                                          Geddesp I. C. (1956). Local anaesthetic properties and
+drawn about the relative systemic toxidty of the            toxicity of hydroxyprocaine and hydroxyamethocaine.
+two drugs. Animal experiments also suggest that             Br. J. Anaesth., 28, 55.
+subcutaneous etidocaine is less toxic than bupi-          Lund. P. C., Cwik, J. C , and Pagdanganan, R. T.
+                                                            (1973). Etidocaine—a new long-acting local anesthetic
+vacaine (Adams, Kronberg and Takman, 1972).                 agent: a clinical evaluation. Anesth. Analg. (Cleve.),
+   We have heard recently that bupivacaine 0.75%            52, 482.
+                                                          Scott, D. B., Jebson, P. J. R., and Boyes, R. N. (1973).
+has been used in clinical practice, in the United           Pharmacokinetic study of the local anaesdieu'cs bupi-
+States, apparently without any toxic reaction. We           vacaine (Marcain) and etidocaine (Duranest) in man.
+                                                            Br. J. Anaesth., 45, 1010.
+have no experience of this concentration but, from        Sinha, H. K. (1936). The local anesthetic actions of
+extrapolation of the bupivacaine line in figure 3,          certain pyrazoline and quinoline compounds. J.
+we would expect the duration of action of bupi-             Pharmacol. Exp. Ther., 57, 199.
+                                                          Tucker, G. T., Boyes, R. N., Bridenbaugh, P. O., and
+vacaine 0.75% to be closely comparable to that of           Moore, D. C. (1970). Binding of anilide-type local
+etidocaine 1%. This agrees with Lund and col-               anesthetics in human plasma. I : Relationships between
+                                                            binding, physicochemical properties, and anesthetic
+leagues (1973).                                             activity. Anesthesiology, 33, 287.
+   This study gives no information about some
+                                                          UNE ETUDE CHEZ L'HOMME DE L'EFFICACTTE
+very important clinical aspects of local anaesthetic         RELATIVE DE LA LIGNOCAINE, DE LA
+pharmacology, such as tissue penetrability and                BUPIVACAINE ET DE L'ETIDOCAINE
+latency of onset, and the results apply only to skin                               RESUME
+weals. In other sites, the removal of the local anaes-    On a estim6 l'efficacite' relative de la lignocaine, de la
+                                                          bupivacaine et dc l'e'tidocaine en se basant sur des pap-
+thetic agent may occur in ways which are totally          ules produites sur la peau de l'avant-bras chez quatre
+different, and governed by factors other than those       volontaires. L'efficaati a itt eValuee comme dtant le
+which apply to skin weals.                                temps jusqu'a demi-rdtablissement d'une sensation soud-
+                                                          aine faisant suite a une piqure d'aiguille. L augmentation
+                                                          de la durfc de l'action en fonction de la concentration
+                     CONCLUSION                           accrue est supe'rieure dans le cas de la bupivacaine et de
+                                                          l'eudocaine par comparaison a lignocaine. A concentra-
+Etidocaine would appear to be a satisfactory local        tions egaks, la bupivacaine avait unc durfc d'action plus
+anaesthetic agent. It has a duration of action less       longue que l'etidocaine. Toutefois, l'itidocaine a 1%
+than an equal concentration of bupivacaine but            avait une duree d'action plus longue que la bupivacaine
+                                                          4 0,5*.
+greater than lignocaine at 1%, when tested by skin
+weals. The change in duration of action with                 EINE UNTERSUCHUNG DER RELATTVEN
+                                                               WIRKUNGSSTARKE VON LIGNOCAIN,
+change in concentration parallels that of bupiva-              BUPIVACAIN UND ETIDOCAIN BEIM
+caine. This similarity suggests a similar pattern of                      MENSCHEN
+clearance for etidocaine and bupivacaine from skin                           ZUSAMMENFASSUNG
+weals. The duration of analgesia, as measured by          Die relative Wirkungsstarke dieser 3 Drogen wurde bei
+                                                          vier Freiwilligen mit Unterarm-Hautpusteln getestet. Die
+a half-recovery time, which is obtainable with bupi-      Starke wurde nach der Zeit der halben Erholung auf
+vacaine 0.5% is less than the duration of analgesia       einen scharfen Schmerz nach einem Nadelstich geschSm.
+obtained by etidocaine 1%.                                Die Erhohung der Wirkungsdauer war bei verst&rkter
+                                                          Konzentration bei Bupivacain und Etidocain grosser als
+                                                          bei Lignocain. Bei gleichen Konzentrationen war Bupi-
+                  ACKNOWLEDGEMENTS                        vacain langer wiiksam als Etidocain. Dagegen hatte 1%
+The help of Professor J. G. Robson and the co-operation   Etidocain eine langere Wirkungsdauer als 0,5% Bupi-
+of our colleagues in the Department of Anaesthetics at    vacain.
+
+===== PAGE 6 =====
+RELATIVE POTENCY OF LOCAL ANAESTHETICS                                                                            591
+
+   INVESTIGACION EN EL HOMBRE DE LA                           po de media recuperation de una sensation aguda en
+  POTENCIA RELATIVA DB LA LIGNOCAINA,                         respuesta a un pinchazo de aguja. El aumento en duration
+        BUPIVACAINA Y ETTDOCAINA                              de la acci6n con concentration aumentada fue mayor para
+                                                              la bupivacaina y eddocaina comparadas con la lignorafna.
+                         SUMAHIO                              Con las misTTin^ concentraciones, la bupivacaina tuyo una
+Se C3tim6 la potencia relative de lignocalna, bupivacaina y   mayor durati6n en su acci6n que la eddocaina. Sin em-
+eddocaina por mediation de las senates en la piel del ante-   bargo, la eddocaina al 1 % tuvo una mayor duration de
+brazo de 4 voluntarios. Se estim6 la potencia como el tiem-   acti6n que la bupivacaina al 0,5%.
+
+
+
+
+                                                                                                                          Downloaded from http://bja.oxfordjournals.org/ at University of Illinois at Urbana-Champaign on March 14, 2015
+

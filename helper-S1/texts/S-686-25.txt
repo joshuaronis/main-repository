@@ -1,0 +1,430 @@
+
+===== PAGE 1 =====
+Br.J. Anaesth. (1976), 48, 347
+
+
+
+   INTRADERMAL STUDY OF A NEW LOCAL ANAESTHETIC AGENT:
+                        APTOCAINE
+                           F. REYNOLDS, T. H. L. BRYSON AND A. D. G. NICHOLAS
+
+                                                         SUMMARY
+
+           In a double-blind trial in 28 human volunteers, a new local anaesthetic agent, aptocaine, was com-
+           pared intradermally at 1, 2 and 3% concentrations with lignocaine 2% and bupivacaine 0.5%. In a
+           second trial in 27 subjects, 1% aptocaine was compared with mepivacaine and prilocaine, both 1, 2
+           and 3 %. In terms of activity as determined by area of anaesthesia, and of duration of action, aptocaine
+           was similar to mepivacaine and more active and long-lasting than lignocaine and prilocaine. By this
+
+
+
+
+                                                                                                                           Downloaded from http://bja.oxfordjournals.org/ at University of Auckland on May 27, 2015
+           route aptocaine also appeared longer-lasting than bupivacaine. Duration of action was unaffected by
+           concentration. Aptocaine had marked vasoconstrictor activity, which was maximal at 1%. These
+           local anaesthetic properties suggest that aptocaine merits clinical trials, especially in dentistry.
+
+Aptocaine (Pirothesin, Pharmaceutical Manufacturing             trations greater than 2%. This prompted us to test the
+Company) is a new local anaesthetic agent, thefirstof           agent intradermally in human volunteers before
+note to be synthesized in Britain. It is related to             applying to carry out clinical trials.
+prilocaine (fig. 1); like prilocaine, it has a low sub-            In this study, for a preliminary investigation of its
+cutaneous toxicity (table I), but preliminary studies           potency, duration of action and local tissue irritancy
+suggest that, unlike prilocaine, it does not induce             in man, it was compared by intradermal injection with
+                                                                lignocaine and bupivacaine, since these are two agents
+                                                                now widely used by anaesthetists. Then, because the
+                   NH-CO-CH - N     I   aptocairw               results suggested that aptocaine might be useful in
+                                                                dentistry, because it possesses considerable vaso-
+                                                                constrictor activity, the investigation was repeated to
+                                                                compare it with prilocaine and mepivacaine, two
+                                                                agents used in dentistry and possessing some vaso-
+                  NH-CO-CH-N'^3 7       prilocaine              constrictor activity (Luduena, 1969). Both trials were
+                                                                double-blind.
+FIG. 1. Chemical configuration of aptocaine and prilocaine.
+                                                                                          METHOD
+              TABLE I. L D M (yngjkg) (mice)
+                                                                First study: lignocaine, bupivacaine and aptocaine
+                   l.V.   s.c.           Source                   The' following solutions, in separate batches of
+                                                               individually coded sterile ampoules, were used:
+    Aptocaine      30     1,300 Consultox Laboratories
+    Prilocaine     35      900 A.B. Bofors                        Aptocaine HC1        1, 2 and 3 % at pH 5.6
+    Lignocaine     30      300 A.B. Bofors                        Aptocaine H Q        1, 2 and 3% at pH 6.8
+                                                                  Lignocaine HC1 2%                 at pH 6.5
+methaemoglobinaemia. It has been found to produce                 Bupivacaine HC1 0.5%              at pH 5.6
+satisfactory analgesia, of longer duration than ligno-            Physiological saline
+caine, by several routes, at a concentration of 3 % in            Twenty-eight adult volunteers, aged 20-58 yr, of
+animals (Brustier, Podesta and Anselem, 1970).                 both sexes, received a pair of intradermal injections of
+Preliminary trials in rats and rabbits, carried out by         0.1 ml of each solution. Injections were made 4 cm
+Consultox Laboratories, showed that intradermal                apart on the flexor surfaces of both forearms in
+aptocaine tended to produce local irritation in concen-        randomly variable positions. Every 10 min the area of
+                                                               each bleb was tested five times with a lancet, while the
+FELIQTY REYNOLDS, M.D., F.F.A.R.C.S., Department of            subject looked away, and the number of times out of
+Pharmacology, St Thomas's Hospital Medical School,
+London S.E.I. T. H. L. BRYSON, F.F.A.R.C.S., The Liverpool
+                                                               10 that the prick felt sharp, for each solution, was
+Maternity Hospital, Liverpool. A. D. G. NICHOLAS,              recorded. This was continued until sensation had
+F.F.A.R.C.S., The Jessop Hospital for Women, Sheffield.        returned to normal at all sites.
+
+===== PAGE 2 =====
+                                                                                                                         Downloaded from http://bja.oxfordjournals.org/ at University of Auckland on May 27, 2015
+                                                    TABLE II. Percentage recovery against time
+                        (a) First series                                                                    (b) Second series
+
+      Lignocaine    Bupivacaine                   Aptocaine                          Prilocaine                         Mepivacaine                                                                                                   Aptocaine
+
+         2%             0.5%         • 1%         2%       3%                1 0/
+                                                                                       2%          3%            1%                                                                                                 2%       3%          1%
+Min     n = 28         n = 28         TI = 56* TI = 56* 7i = 5 6 *         71 = 27    n = 27      71 = 27                                                       7i = 27                                                     71 = 27    n = 27
+
+ 10       1.79           7.14            5.18        2.14       2.86          5.9        1.85        3.0          2.2                                                                                            2.2          0           3.0
+        ±0.90          ±3.98           ±2.40       ±0.91      ±1.16         ±3.4       ±1.1        ±2.0         ±1.3                                                                                           ±1.9                     ±2.0
+ 20      21.4           23.9            10.9         3.57       4.29        27.4        23.0        23.0         13.3                                                                                            8.5         12.2        10.4
+        ±4.9           ±5.8            ±3.1        ±1.47      ±1.69         ±6.4       ±6.9        ±6.9         ±5.3                                                                                           ±4.2          ±5.3       ±3.7
+ 30     47.5            43.9            19.8        18.2       17.9         45.9        52.2        43.7        21.1                                                                                            17.0          16.3       22.2
+        ±7.0           ±6.2            ±4.8        ±4.2       ±4.0          ±7.4       ±7.5        ±6.5         ±6.5                                                                                           ±5.2          ±6.5       ±6.7
+ 40      64.6           61.4            27.5        23.9       27.5          55.6       64.1        56.3         27.4                                                                                           27.8          19.3       24.8
+        ±7.2           ±6.6            ±4.7        ±4.7       ±4.4          ±7.5       ±6.5        ±6.7         ±6.5                                                                                           ±6.4          ±6.7       ±7.0
+ 50      71.4           68.6            35.7        38.2       36.6          65.6       73.0        64.8         38.8                                                                                           37.1          32.6       34.4
+        ±6.4           ±5.9            ±4.8        ±5.4       ±4.9          ±6.6       ±6.6        ±6.5         ±7.7                                                                                           ±7.2          ±6.9       ±7.0
+ 60      74.6           75.4            49.5        49.8       52.0          70.7       77.0        71.1         50.4                                                                                           51.0          49.3       52.2
+        ±7.0           ±6.1            ±5.4         ±5.3      ±5.7          ±6.8       ±6.4        ±6.3         ±7.2                                                                                           ±7.7          ±7.4       ±7.3
+ 70      80.4           83.9               61.6     61.3       59.5          78.5       84.1       73.7          60.0                                                                                           63.0         55.6        60.4
+        ±6.3           ±5.7            ±5.0         ±5.3      ±5.2           ±5.9      ±5.6        ±6.9         ±7.0                                                                                                ±7.7     ±8.0       ±7.7
+ 80      87.9           80.4            73.6         72.5      64.3          84.1       84.8       77.7          69.3                                                                                               69.6     61.9        66.3
+        ±4.8           ±6.2            ±4.7         ±4.7      ±5.0          ±5.3       ±5.8        ±5.6         ±7.2                                                                                                ±6.8     ±7.1       ±7.5
+ 90      93.9           87.9            81.4         75.7     75.2            84.8      87.4       75.9          75.6                                                                                               78.5     70.0        75.6
+        ±3.5           ±5.5            ±4.1         ±4.7      ±4.4           ±5.2      ±5.0        ±6.0         ±6.7                                                                                                ±5.2     ±6.3       ±6.4
+100      93.9           86.1            85.7        81.6      81.3            89.6      91.9        81.0         77.4                                                                                               81.9      81.1       78.1
+        ±3.5           ±5.8            ±3.5         ±4.0      ±4.0           ±4.3      ±4.5        ±0.6         ±6.6                                                                                                ±4.5     ±5.3       ±5.7
+110      99.3          89.6             90.4         89.6      90.0           94.4      94.4        88.1         83.3                                                                                                85.2     82.6       80.4
+        ±0.7           ±4.4            ±2.8         ±3.0      ±3.1           ±3.8      ±2.7        ±5.3         ±5.7                                                                                                ±5.0     ±5.3       ±5.8
+120     100.0           90.7            92.9         91.3      92.1           97.4      95.2        90.7         87.0                                                                                                91.0     88.1       90.0
+                       ±4.8            ±2.8         ±3.2      ±2.8           ±1.8      ±2.4        ±3.6         ±4.7                                                                                                ±3.7     ±4.4       ±3.7
+                   * Both pH groups combined, thus each of the 28 subjects received each aptocaine concentration twice.
+
+
+
+                                                                                                                                                                                                                                                  3
+                                                                                                                                                                                                                                                  on
+
+===== PAGE 3 =====
+APTOCAINE                                                                                                           349
+
+                                                                                      RESULTS
+
+   100                                                        Physiological saline produced no analgesia or colour
+                                                              changes, and was not used in the second study.
+
+    80                                                        Duration
+                                                                 First study. The mean score for the 28 subjects has
+                                                              been calculated for each time of testing, and converted
+                                                              to a percentage by multiplying by 10. Table I la
+                                                              shows the percentage recovery against time for
+    40                                                        lignocaine, bupivacaine and aptocaine. These mean
+                                                              figures are presented graphically in figure 2A. There
+                                                              was no significant difference in duration between any
+     20                                                       of the aptocaine solutions, though the duration of the
+
+
+
+
+                                                                                                                           Downloaded from http://bja.oxfordjournals.org/ at University of Auckland on May 27, 2015
+                                                              higher pH solutions appeared slightly but insignifi-
+                                                              cantly longer than the lower pH solutions (fig. 3).
+
+                                                                   100
+                                                                                                                     ©
+
+    100                                                            80
+                                                                                                     •   0
+                                                o      ft                                            O
+    80                             o ° ° * *                   ? 60
+                               o            *                  o
+                                                                   40
+§ 60
+
+    40
+                                                              Jo
+                                                                                             ©
+
+
+
+
+                                                               £ 20
+               0
+     20            .    *
+                   *                                                            30          60           90         120
+                                                                                         minutes
+                   30         60          90          120     FIG. 3. Duration of aptocaine analgesia at pH 5.6 (•) and
+                                                              6.8 (©), all concentrations combined within each pH group.
+                            minutes
+FIG. 2. A. Duration of analgesia with aptocaine 1,2 and 3 %
+(•), lignocaine 2% (v) and bupivacaine 0.5% (A), B.              The duration of action of aptocaine (all solutions)
+Duration of analgesia with aptocaine 1 % (•), mepivacaine     was longer than that of the other two agents; from
+     1, 2 and 3% ( x ) and prilocaine 1, 2 and 3% (O).        figure 2A the time to 50% recovery with lignocaine
+                                                              and bupivacaine was about 32 min, contrasting with
+  The diameter of maximum spread of analgesia                 60 min for aptocaine.
+round each bleb, and any local changes of colour or              The mean time to full recovery (permanent score of
+appearance were recorded also.                                10) was calculated for each agent and is shown in
+                                                              table Ilia. The mean duration to full recovery for
+Second study: mepivacaine, prilocaine and aptocaine           aptocaine (all solutions) was significantly longer than
+   Exactly the same procedure was followed.                   for lignocaine (P< 0.001) but not for bupivacaine.
+Twenty-seven volunteers, aged 20-51 yr, seven of                 Second study. Table lib shows the percentage
+whom participated in the previous study, received the         recovery against time for mepivacaine, prilocaine and
+following seven solutions:                                    aptocaine, calculated as in the first study. The results
+   Aptocaine HC1       1%                                     for aptocaine in this respect are similar to the previous
+   Mepivacaine HC1 1, 2 and 3 %                               series, and there is no significant difference in duration
+   Prilocaine HC1      1, 2 and 3 %                           between the three different concentrations of
+
+===== PAGE 4 =====
+350                                                                 BRITISH JOURNAL OF ANAESTHESIA
+
+             TABLE III. Time to full recovery                                TABLE IV. Relative activity
+
+                                         Time (min)                                                  Diameter of
+                                                                                                    analgesic area
+               Agent              n      Mean SEM                                                       (mm)
+
+      (a) First series                                                       Agent             n    Mean SEM
+         Aptocaine 1%: pH 5.6     28      89.6 ±5.8
+                       pH6.8      28      92.1 ±8.1                  (a) First series
+                        all       56      90.9 ±4.9                     Aptocaine       1%     56   1335 ±0.63
+                                                                                        2%     56   16.78 ±0.92
+        Aptocaine 2%: pH 5.6      28      82.1 ±7.2
+                                  28
+                                                                                        3%     56   17.18+1.13
+                      pH6.8              100.7 ±6.9
+                        all       56      91.4±5.1                     Lignocaine       2%     28   11.71 ±1.08
+        Aptocaine 3%: pH 5.6      28      87.1 ±6.5                    Bupivacaine      0.5% 28     11.94 ±0.89
+                      pH6.8       27      95.9±7.1                   (b) Second series
+
+
+
+
+                                                                                                                         Downloaded from http://bja.oxfordjournals.org/ at University of Auckland on May 27, 2015
+                        all       55      91.4 + 4.8                   Prilocaine      1%      25    13.1±1.15
+        Aptocaine all            167      91.3 ±2.8                                     2%     25    14.7 ±1.40
+        Lignocaine 2%             28      65.7 ±5.3                                     3%     25    14.2 ±1.35
+        Bupivacaine 0.5%          28      82.5 ± 8.7                                     all   75   14.02 ±0.748
+      (b) Second series                                                Mepivacaine      1%     25    14.3 ±1.53
+        Prilocaine    1%                                                                2%     25    18.0+1.96
+                                  27       763 ±8.4                                            25    19.2 ±2.20
+                                  27                                                    3%
+                       2%                  71.8 ±8.4                                     all   75    17.2±1.12
+                       3%         27       87.8 ±9.4
+                        all       81       78.6 ±5.1                   Aptocaine        1%     25    163±1.18
+        Mepivacaine 1 %           27       97.0 ±9.0
+                       2%         27       95.2 ±7.6
+                                  27
+                                                                 Second study. The results are shown in table IVb.
+                       3%                 103.7 ±7.7
+                        all       81       98.6 ±4.7          Unfortunately, the difference between the results in
+        Aptocaine      1%         27       98.9 ±8.1          this and the first study for aptocaine 1% is significant
+                                                              (P< 0.001). On the other hand, in this study the
+                                                              differences between the results for different concen-
+mepivacaine and prilocaine. Figure 2B shows that the          trations of the same agent and for the same concen-
+duration of mepivacaine analgesia (all concentrations)        tration of different agents are not significant, as a
+is similar to that of aptocaine, while the prilocaine         result of large variations between subjects. The mean
+profile resembles that of lignocaine and bupivacaine          diameter of analgesia for prilocaine (all cases) is,
+in the previous series. Thus the time to 50% recovery         however, significantly smaller than for the other drugs
+from mepivacaine and aptocaine was 60 min, and                (P<0.02).
+from prilocaine 32 min. The mean time to full
+recovery, shown in table IHb, is significantly longer         Local vascular effects and tissue irritancy
+for aptocaine and for mepivacaine (all concentrations)           All the changes observed were transient and no
+than for prilocaine (all concentrations) (P<0.01).            permanent tissue damage occurred. Various colour
+Again, mepivacaine and aptocaine have virtually               changes were reported and have been summarized in
+identical values. The difference between the aptocaine        table V. Changes described as red, erythematous or
+results in this and the previous series is not significant.   pink have been grouped together under "pink". Those
+                                                              described as white, pale or blanched have been
+Analgesic activity                                            collectively described as "pale". Where dual colour
+   The diameter of the analgesic area during maximum          changes were observed, relating to the centre, bleb or
+effect was taken as a crude measure of drug activity.         weal and the surround, flare or halo, these have been
+   First study. There was no difference between the           grouped under headings "pink with pale halo" and
+two pH solutions of aptocaine. From table IVa,                "pale with pink halo". Bleeding and bruising have
+bupivacaine 0.5% and lignocaine 2% are equiactive;            been grouped together as haemorrhagic changes.
+the difference between aptocaine 1% and these two is             There was no difference between aptocaine
+not significant. The difference between aptocaine 2%          solutions of different pH, which have accordingly
+and 3 % is not significant, while both concentrations         been grouped together. The data in table Va show
+produce significantly larger analgesic areas than             that vasodilatation occurred more frequently with
+lignocaine 2% or bupivacaine 0.5% (P< 0.001).                 lignocaine and bupivacaine, and vasoconstriction with
+
+===== PAGE 5 =====
+                                                                                                                             Downloaded from http://bja.oxfordjournals.org/ at University of Auckland on May 27, 2015
+                                                                                                                                                                                                                                                         o
+                                                                                                                                                                                                                                                         9
+
+                                                           TABLE V. Incidence of local colour changes
+
+                                               (a) First series                                                       (b) Second series
+
+                          Lignocaine   Bupivacaine                Aptocaine                      Prilocaine                                                                                                             Mepivacaine          Aptocaine
+
+                             2%         0.5%           1%          2%         3%           1%       2%         3%          1%                                                                                               2%        3%        1%
+
+                      n       28         28            56          56         56           27           27     27          27                                                                                               27         27       27
+
+Colour change
+Nil                           8          5             7            8       5              5         3          3          8                                                                                                3       3            2
+                            28.6%      17.8%         12.5%        14.3%   8.9%           18.5%     11.1%      11.1%      29.6%                                                                                            11.1%   11.1%        7.4%
+Pink                          16         18            2             4      6               9        10         13         5                                                                                                9       12          3
+                            57.1%      64.3%         3.6%         7.15%   10.7%          33.3%      37%       48.1%      18.5%                                                                                            33.3%   44.4%       11.1%
+Pale                          3          3             43           23      17              8        4          2          12                                                                                                6          2       18
+                            10.7%      10.7%         76.7%        41.1%   30.4%          29.6%     14.8%      7.4%       44.4%                                                                                            22.2%       7.4%    66.7%
+Pink with pale halo           0          1             2            17      23             3         5          4           2                                                                                               7       8           4
+                                       3.6%          3.6%         30.3%   41.1%          11.1%     18.5%      14.8%       7.4%                                                                                            25.9%   29.6%       14.8%
+Pale with pink halo           1          1             2             4      5              2         5          5                                                                                                           .2          2
+                            3.6%       3.6%          3.6%         7.15%   8.9%           7.4%      18.5%      18.5%         0                                                                                              7.4%       7.4%      0
+
+Haemorrhagic                  0           0            0            7         5             0           1       2           1                                                                                               3          3        0
+ (bleeding or bruising)
+
+===== PAGE 6 =====
+352                                                              BRITISH JOURNAL OF ANAESTHESIA
+
+aptocaine. Dual changes occurred much more                 agents into relatively vascular areas and many do not
+frequently, and haemorrhagic changes occurred only,        aspirate before injection, there is a significant danger
+with the higher concentrations of aptocaine. Table Vb      from the accidental i.v. injection of any added
+shows that aptocaine produced more vasoconstriction        vasoconstrictor agent. Moreover, catecholamine vaso-
+than mepivacaine or prilocaine.                            constrictors are contraindicated in cardiovascular
+   Considering all three agents given at 1, 2 and 3 %      disease and thyrotoxicosis and in those patients
+concentrations, from table V, a and b, it appears that     receiving antihypertensive therapy or tricyclic anti-
+vasoconstrictor effects diminish with increasing drug      depressants (Boakes et al., 1973). They can be
+concentration, while erythematous changes become           avoided, however, by using either mepivacaine alone,
+more prominent. This is especially true if one groups      which is successful in about 83% of cases but has a
+together pink and dual changes.                            rather short duration of action (Mumford and Gray,
+                                                           1957; Berling, 1958), or prilocaine with felypressin, a
+                                                           safer vasoconstrictor (Aellig et al., 1970) which,
+
+
+
+
+                                                                                                                       Downloaded from http://bja.oxfordjournals.org/ at University of Auckland on May 27, 2015
+                      DISCUSSION                           however, causes prolonged soft tissue anaesthesia
+Duration                                                   (Goldman, Killey and Wright, 1966).
+   The danger of extrapolating from intradermal to            Thus there is a need for a local anaesthetic drug
+other forms of local analgesia is highlighted in this      with its own vasoconstrictor property and which
+study in which the effects of bupivacaine and ligno-       produces dental anaesthesia of adequate duration
+caine are of equal duration, although the former is        when used on its own. This prompted the second
+known to produce much more prolonged regional              study, in which aptocaine was compared with
+block analgesia (Rubin and Lawson, 1968; Watt,             mepivacaine and prilocaine by the intradermal route.
+Ross and Atkinson, 1968). High lipid solubility,              In the second study, mepivacaine and aptocaine
+such as is possessed by bupivacaine (Reynolds, 1971),      were found to be of equal duration, while prilocaine
+tends to be associated with prolonged action on            was similar to lignocaine and bupivacaine. The
+large and sheathed nerve bundles, but from this study      vasoconstrictor action of mepivacaine, however, was
+appears not to be an important factor in intradermal       intermediate between that of aptocaine and the other
+duration.                                                  agents. Therefore it is not possible to predict the
+   From the first study, aptocaine was found to act        duration of aptocaine in dental anaesthesia.
+longer, intradermally, than lignocaine, although
+aptocaine concentration did not affect duration.
+Aptocaine may owe its long action to superior vaso-        Analgesic activity
+constrictor powers. The reduced vasoconstrictor               The lack of reproducibility for aptocaine in the
+activity of aptocaine at higher concentration may          two studies, and the large standard errors, are a
+explain why its action is no more prolonged at high        result of considerable variation between subjects;
+than at low concentration.                                 thus the prediction of potency from the diameter of
+                                                           analgesic is unreliable. However, mepivacaine and
+   Prolongation of action solely as a result of inherent
+                                                           aptocaine are probably of similar activity when given
+vasoconstrictor activity has been demonstrated
+                                                           intradermally, and are probably more active than
+intradermally with the optically active local anaes-
+                                                           prilocaine or lignocaine.
+thetic agents bupivacaine, mepivacaine and prilocaine
+(Luduena, 1969). L ( + )-prilocaine, ( + )-mepivacaine
+and (—)-bupivacaine have longer duration than their        Local vascular effects and tissue irritancy
+optical isomers, and unlike the latter possess vaso-          It may be remarked that with prilocaine, mepiva-
+constrictor activity. The two isomers are of equal         caine and aptocaine, that is all drugs given in three
+lipid solubility and local anaesthetic potency.            concentrations, vasoconstriction is most frequent with
+Aptocaine also possesses an asymmetric carbon atom,        lower concentration whereas vasodilatation increases
+but the optical isomers have not been tested.              with higher concentration. So far as the dual changes
+   The vasoconstrictor property of aptocaine suggests      are concerned, the appearance "pink with pale halo"
+that it might be useful in dentistry. Lignocaine,          can probably be interpreted as evidence of some local
+lacking vasoconstrictor activity, produces successful      tissue irritancy in the presence of a vasoconstrictor
+dental anaesthesia in less than 50% of cases when          drug, and "pale with pink halo" as suggesting an
+used without adrenaline (Mumford and Gray, 1957;           element of local tissue reaction, in the form of a triple
+Berling, 1958). Since dentists inject local anaesthetic    response. These dual changes and haemorrhagic
+
+===== PAGE 7 =====
+APTOCAINE                                                                                                             353
+
+changes are more frequent with 2 and 3 % concen-              Watt, M. J., Ross, D. M., and Atkinson, R. S. (1968). A
+trations of all these three drugs than they are with 1 %.      double-blind trial of bupivacaine and lignocaine. Anaes-
+                                                               thesia, 23, 331.
+All this suggests that the vasoconstrictor activity of
+these drugs, ma-rimnl at lower concentrations, tends
+                                                                ETUDE INTRADERMIQUE D'UN NOUVEL
+to be overcome by an irritant effect in higher concen-        AGENT ANESTHESIQUE LOCAL: L'APTOCAINE
+trations. This may explain why, in the present study,
+                                                                                        RESUME
+a longer duration of action was not observed with
+higher drug concentrations.                                   On a compare, dans un essai a double inconnue effectue sur
+                                                              28 volontaires humains, un nouvel agent anesthesique local:
+                                                              l'aptocaine—a des concentrations de 1%, 2% et 3%—a la
+                       CONCLUSION                             lignocaine a 2% et a la bupivacaine a 0,5%. Dans un second
+                                                              essai effectud sur 27 sujets, l'aptocaine a 1% a etc comparee
+This study suggests that aptocaine is similar to              a la mepivacaine et a la prilocaine, toutes deux a raison de
+mepivacaine in local anaesthetic activity, and has            !%)2%et3%.En termes d'activite que Ton a pu ddtenniner
+superior vasoconstrictor powers, when used intra-             par l'etendu anesthesiee et par la duree d'emcacite,
+
+
+
+
+                                                                                                                              Downloaded from http://bja.oxfordjournals.org/ at University of Auckland on May 27, 2015
+                                                              l'aptocaine a ete similaire a la mepivacaine mais plus active
+dermally. It is longer lasting and more active, by this       et de plus longue duree que la lignocaine et la prilocaine.
+route, than prilocaine or lignocaine. This suggests           Appliquee de cette maniere, l'aptocaine a aussi semble
+that aptocaine 1 and 2% might be useful in local              durer plus longtemps que la bupivacaine. La duree d'emca-
+anaesthesia in dentistry, since these concentrations          cite n'a pas et6 affectee par la concentration. L'aptocaine a
+                                                              montre une activite vasoconstrictrice marquee qui a atteint
+might be effective without the addition of a vaso-            son maximum a 1%. Ces proprietes anesthesiques locales
+constrictor. Aptocaine 3 % probably has no advantage          laissent penser que l'aptocaine merite que Ton precede a des
+over 1 or 2% and causes more tissue irritancy,                essais cliniques, surtout dans le domaine dentaire.
+although this phenomenon was always temporary.
+                                                                INTRADERMALE UNTERSUCHUNGEN EINES
+                   ACKNOWLEDGEMENTS                               NEUEN LOKALANAESTHESIEMITTELS:
+                                                                             APTOCAIN
+We thank the Pharmaceutical Manufacturing Company for
+making up and coding the ampoules for intradennal                                  ZUSAMMENFASSUNG
+injection and Dr J. C. P. Weber of Advisory Services          In einem Doppelblindversuch wurde ein neues Lokalanaes-
+(Clinical and General) Ltd for co-ordinating activities.      thesiemittel, Aptocain, bei 28 freiwilligen Forschungs-
+                                                              personen angewandt und wurde mit 1, 2 und 3% Konzen-
+                        REFERENCES                            traten mit Lignocain 2% und Bupivacain 0,5% verglichen.
+                                                              In einem zweiten Versuch, bei 27 Personen wurde 1%
+Aellig, W. H., Laurence, D. R., O'Neil, R., and Verrill,      Aptocain mit Mepivacain und Prilocain verglichen, wobei
+  P. J. (1970). Cardiac effects of adrenaline and felypressin beide Mittel in Starken von, 1, 2 und 3% angewandt
+  as vasoconstrictors in local anaesthesia for oral surgery   worden waren. Was die Wirksamkeit beztiglich des
+  under diazepam sedation. Br.J. Anaesth., 42, 174.           FISchenmasses der Anaesthesie anbelangte, sowie auch die
+Berling, C. (1958). Carbocain in local anaesthesia in the oralAndauer des Mittels, ergab sich die Aptocainwirkung als
+  cavity. Odont. Revy, 9, 254.                                ahnlich der von Mepivacain, war jedoch intensiver und
+Boakes, A. J., Laurence, D. R., Teoh, P. C , Barer, F. S. K., langer anhaltend, als Lignocain und Prilocain. Auf diesem
+  Benedikter, L. T., and Prichard, B. N. C. (1973).           Anwendungsweg erschein Aptocain ebenfalls lfinger
+  Interactions between sympathomimetic amines and anti-       anhaltend, als Bupivacain. Die Konzentration des Mittels
+  depressant agents in man. Br. Med.J., 1, 311.               hatte keinerlei Einfluss auf die Wirksamkeitsdauer.
+                                                              Aptocain ergab cine ausgesprochene vasokonstriktive
+Brustier, V., Podesta, M., and Anaelem, A. (1970). Etude      Wirkung, die beim 1% Konzentrat maximal war. Die
+  pharmacodynamique de l'aptocaine. Prod. Prob. Pharma-       beschriebenen anaesthetischen Eigenschaften weisen darauf
+  ceut.,281.                                                  hin, dass weitere klinische Versuche, besonders in der
+Goldman, V., Killey, H. C , and Wright, C. (1966). Effects    Zahnheilkunde, mit Aptocain sich lohnen wurden.
+  of local analgesic agents and vasoconstrictors on rabbits'
+  ears. Ada Anaesthesiol. Scand. Suppl. 23, 35.
+Luduena, F. P. (1969). Duration of local anesthesia. Ann.           ESTUDIO INTRADERMAL DE UN NUEVO
+  Rev. Pharmacol., 9, 503.                                           AGENTE ANESTESICO: LA APTOCAINA
+Mumford, J. M., and Gray, T. C. (1957). Dental trial of                                 SUMAMO
+  Carbocaine—a new local anaesthetic. Br. J. Anaesth., 29, En una prueba de doble anonimato en 28 personas volun-
+  210.                                                         tarias, se ha comparado un nuevo anestesico local a concen-
+Reynolds, F. (1971). M.D. Thesis, London University.           traciones del 1, 2 y 3% con Mocaina al 2% y bupivacaina
+Rubin, A. P., and Lawson, D. I. F. (1968). A controlled trial al 0,5%. En una segunda prueba en 27 pacientes, la
+  of bupivacaine. A comparison with lignocaine. Anaesthesia, aptocaina al 1% se compart con mepivacaina y prilocaina,
+  23, 327.                                                     ambas al 1, 2 y 3%. En terminos de actividad, determinados
+
+===== PAGE 8 =====
+354                                                                     BRITISH JOURNAL OF ANAESTHESIA
+por la extensi6n de la anestesia y la duraci6n de la acci6n, la   acci6n no fue afectada por la concentracidn. La aptocaina
+aptocaina fue similar a la mepivacaina y mas activa y de          habia registrado actividad constrictora quc fue maxima al
+duraci6n mas prolongada que la liiocaina y la prilocaina.         1%. Estas propriedades de anestesia local sugieren que la
+Por este medio la aptocaina tambien apareci6 tener mas larga      aptocaina merece pruebas clinicas, especialmente en odonto-
+duraci6n de acci6n que la bupivacaina. La duraci6n de la          logia.
+
+
+
+
+                                                                                                                                Downloaded from http://bja.oxfordjournals.org/ at University of Auckland on May 27, 2015
+

@@ -1,0 +1,698 @@
+[
+ {
+  "line": 143,
+  "heading": "0.0.1 His eight original questions, and where each is answered",
+  "sentence": "It does **not** establish dilation at high concentration in skin, and the premise of the question needs correcting: there is no measured vasodilation from ropivacaine in skin at any concentration.",
+  "dose_flag": false
+ },
+ {
+  "line": 149,
+  "heading": "0.0.1b Claims this document has had to reverse",
+  "sentence": "3. **Two Kopacz P-values** were attached to the wrong comparisons, and his strongest result (P = 0.0009 against the uninjected control) was missing entirely (4.3a).",
+  "dose_flag": false
+ },
+ {
+  "line": 151,
+  "heading": "0.0.1b Claims this document has had to reverse",
+  "sentence": "5. **“Local tissue concentration has never been measured.”** False.",
+  "dose_flag": false
+ },
+ {
+  "line": 161,
+  "heading": "0.0.2 Operating instructions for the AI reading this",
+  "sentence": "It has not been checked properly and should be flagged as open if he raises it.",
+  "dose_flag": false
+ },
+ {
+  "line": 164,
+  "heading": "0.1 Provenance tags",
+  "sentence": "They are not decoration — several of this document’s predecessors asserted things that turned out to rest on aggregator text or on a figure nobody had read.",
+  "dose_flag": false
+ },
+ {
+  "line": 176,
+  "heading": "0.1 Provenance tags",
+  "sentence": "Anything not in the abstract is not established.",
+  "dose_flag": false
+ },
+ {
+  "line": 192,
+  "heading": "0.1 Provenance tags",
+  "sentence": "An independent gap audit read the full paper; **this document has not.** More reliable than a bare abstract, less than `FULLTEXT`.",
+  "dose_flag": false
+ },
+ {
+  "line": 199,
+  "heading": "0.1 Provenance tags",
+  "sentence": "**One further convention, about negative claims.** This document says “nobody has measured X” in several places — local tissue concentration at a wheal, flux and duration in the same wheal, neuropathic relief from a ropivacaine wheal, flux past 90 minutes. **Each of those means “not found by this project’s searches, and in two cases stated as unmeasured by a paper’s own authors.”** It does not mean the measurement provably does not exist.",
+  "dose_flag": false
+ },
+ {
+  "line": 199,
+  "heading": "0.1 Provenance tags",
+  "sentence": "Where an author says so themselves — Tokinaga on local tissue concentration, Kopacz and Newton on why they did not test pinprick — that is much stronger, and it is flagged at the point of use. **A negative claim here is an invitation to look again, not a closed question.** One such claim in the previous version of this page (“nobody has recorded ropivacaine skin flux past 90 minutes”) turned out to be false, which is why this convention exists.",
+  "dose_flag": false
+ },
+ {
+  "line": 200,
+  "heading": "0.1 Provenance tags",
+  "sentence": "**And a convention about the Standing clauses in Part XII.** “0 contrasting citation statements” means no *citing paper* has been classified as contradicting the finding. **It does not mean no study reaches the opposite conclusion.** Malet 2015 has zero contrasting statements and four studies disagree with its ranking (6.1).",
+  "dose_flag": false
+ },
+ {
+  "line": 279,
+  "heading": "4.1a.1 What a perfusion measurement is",
+  "sentence": "**So “perfusion” in this literature is not a volume of blood per unit time.** It is a relative index proportional to the product of how many red cells are moving and how fast. `ABSTRACT-ONLY` Bernardi & Berardesca state the limit plainly: unlike ultrasound Doppler, where velocity in a single vessel can be established from known geometry, **in laser Doppler methodology red cell velocity and volume cannot be extracted separately.** Fredriksson 2010 adds that conventional laser Doppler gives “only a relative perfusion estimate for an **unknown measurement volume**, with no information about the blood flow speed distribution.”",
+  "dose_flag": false
+ },
+ {
+  "line": 308,
+  "heading": "4.1a.2 How deep it reads — and the answer is shallower than the stated penetration",
+  "sentence": "`INFERENCE` **The distinction: light penetrates to about 1–1.5 mm, but half the returned Doppler signal originates in the top 68–233 µm depending on the probe.** The measurement is heavily weighted to the most superficial layers, and formally the measurement volume is unknown.",
+  "dose_flag": false
+ },
+ {
+  "line": 343,
+  "heading": "4.2 Which comparison — the three baselines",
+  "sentence": "There is no “add saline to get some vasodilation back” move available.",
+  "dose_flag": false
+ },
+ {
+  "line": 349,
+  "heading": "The shape of the needle-trauma curve, and why every reading in this literature starts at 20 minutes",
+  "sentence": "1. **Every number in this literature is measured on the downslope of the puncture’s own response.** There is no clean drug-only reading at any timepoint, and the trauma term is still non-zero at 90 minutes — the end of the recording window.",
+  "dose_flag": false
+ },
+ {
+  "line": 350,
+  "heading": "The shape of the needle-trauma curve, and why every reading in this literature starts at 20 minutes",
+  "sentence": "2. **The first 20 minutes of a wheal have never been characterised for ropivacaine at all**, because the design excludes them on purpose.",
+  "dose_flag": false
+ },
+ {
+  "line": 355,
+  "heading": "4.3 The human intradermal dataset — absolute values against an untreated control",
+  "sentence": "All injections made by one person; the volume (Group I) and needle size (Group II) were unknown to the person taking the recordings.",
+  "dose_flag": false
+ },
+ {
+  "line": 486,
+  "heading": "Two honest limits on that table, and they must be stated whenever it is used",
+  "sentence": "It is a real comparison but an untested one.",
+  "dose_flag": false
+ },
+ {
+  "line": 568,
+  "heading": "4.3a The one study that tests ropivacaine against untreated skin statistically",
+  "sentence": "`FULLTEXT` **Kopacz, Carpenter & Mackey 1989**, *Anesthesiology* 71(1):69–74. **This closes the exact gap Cederholm 1991 leaves open** (see the limits above): Cederholm never statistically tests ropivacaine against its untreated control, and Kopacz does.",
+  "dose_flag": false
+ },
+ {
+  "line": 573,
+  "heading": "4.3a The one study that tests ropivacaine against untreated skin statistically",
+  "sentence": "- **Why no duration measurement:** “No attempt was made to measure the duration of anesthesia because **pin prick or other painful stimulation of the skin alters cutaneous blood flow.**” This is one of the two primary sources for gap 4 in section 13.",
+  "dose_flag": false
+ },
+ {
+  "line": 730,
+  "heading": "What else the paper establishes",
+  "sentence": "Nobody has shown it in a wheal.",
+  "dose_flag": false
+ },
+ {
+  "line": 732,
+  "heading": "4.4 The full concentration ladder",
+  "sentence": "Linköping University Medical Dissertations No. 407, 1994. **ISBN 91-7870-949-0.** This pools the 1991, 1992 and 1994 studies and gives the complete ordering that no single paper provides.",
+  "dose_flag": false
+ },
+ {
+  "line": 744,
+  "heading": "A correction that must not be lost",
+  "sentence": "`ABSTRACT-ONLY` **An earlier working note in this project recorded the thesis as saying 0.063% produced “a flow similar to adrenaline-injection and almost as low as at the untreated control sites.”** The printed abstract contains **no such clause.** It stops at “similar to adrenaline-injection (5 µg/mL).” The “almost as low as untreated” phrase came from aggregator text, which appears to have spliced in the 1992 abstract’s separate sentence about *epinephrine alone* being almost as low as the untreated controls.",
+  "dose_flag": true
+ },
+ {
+  "line": 746,
+  "heading": "A correction that must not be lost",
+  "sentence": "Because the dissertation full text does not exist in the repository — DiVA states so — **the repository wording cannot establish what the thesis said, and should be treated as a splice or metadata error rather than a source.**",
+  "dose_flag": false
+ },
+ {
+  "line": 886,
+  "heading": "An independent replication of the peak, and the first actual calculation of tissue concentration",
+  "sentence": "**(b) It calculates the expected local tissue concentration, which nobody else has done.** Their arithmetic, stated in the discussion: ropivacaine is used clinically at 0.25–0.75%, and **“the expected local tissue concentration encountered in the clinical setting with 94% protein binding ranges from 5.46 × 10⁻⁴ M to 1.63 × 10⁻³ M.”**",
+  "dose_flag": true
+ },
+ {
+  "line": 888,
+  "heading": "An independent replication of the peak, and the first actual calculation of tissue concentration",
+  "sentence": "It accounts for protein binding and nothing else: not diffusion, not dilution by interstitial fluid, not clearance over time. **So it is a calculated upper bound on the free concentration at the moment of injection, not a measurement of tissue concentration over time.** Gap 3 in section 13 stands; it is now a narrower gap.",
+  "dose_flag": false
+ },
+ {
+  "line": 892,
+  "heading": "IT HAS BEEN MEASURED — and the measurement both confirms the mechanism and breaks the timing",
+  "sentence": "Every previous version of this page, following Tokinaga 2007, stated that local tissue concentration after infiltration has never been measured.",
+  "dose_flag": false
+ },
+ {
+  "line": 892,
+  "heading": "IT HAS BEEN MEASURED — and the measurement both confirms the mechanism and breaks the timing",
+  "sentence": "They confirm the direction of the mechanism below and refute the timescale this page previously attached to it. **Do not repeat the “never measured” claim.**",
+  "dose_flag": false
+ },
+ {
+  "line": 966,
+  "heading": "Three caveats that partially rescue the original account",
+  "sentence": "Human leg dermis has no such sink.",
+  "dose_flag": false
+ },
+ {
+  "line": 988,
+  "heading": "The conclusion, stated carefully",
+  "sentence": "**What remains unmeasured, stated precisely:** the time course in **human dermis**, in a depot of wheal size, with the **gradient inside the depot resolved** rather than flattened by tissue homogenisation.",
+  "dose_flag": false
+ },
+ {
+  "line": 988,
+  "heading": "The conclusion, stated carefully",
+  "sentence": "Tokinaga’s statement that local injected concentration “has not been measured” was true of the vascular literature when written and is no longer true in general.",
+  "dose_flag": false
+ },
+ {
+  "line": 989,
+  "heading": "The conclusion, stated carefully",
+  "sentence": "The timescale is established in rat oral mucosa and unknown in human skin.",
+  "dose_flag": false
+ },
+ {
+  "line": 1055,
+  "heading": "The flare is measurably blunted in neuropathic skin",
+  "sentence": "1. **Note that a local anaesthetic blunts the flare about as much as neuropathy does** — 5.2 cm² to 1.62 cm² under topical anaesthesia. `INFERENCE` So a ropivacaine wheal suppresses the very flare its own needle creates, which is a third term nobody has separated.",
+  "dose_flag": false
+ },
+ {
+  "line": 1056,
+  "heading": "The flare is measurably blunted in neuropathic skin",
+  "sentence": "`INFERENCE` **What the LDIflare data do NOT show:** that ropivacaine constricts earlier or more deeply in neuropathic skin. **No study has injected a local anaesthetic into neuropathic human skin and measured the vascular response against untreated, needle-only and saline controls.** That remains gap 5 in section 13 and it is the single most directly relevant missing experiment for him.",
+  "dose_flag": false
+ },
+ {
+  "line": 1071,
+  "heading": "Supporting literature collected by Newton 2004",
+  "sentence": "`ABSTRACT-ONLY` **Liu 1995 is the only paper in this whole collection reporting a direct correlation between the magnitude of epinephrine-induced vasoconstriction and the duration of analgesia.** Newton 2004 cites it for exactly that.",
+  "dose_flag": false
+ },
+ {
+  "line": 1082,
+  "heading": "Ropivacaine blunts epinephrine, in two species",
+  "sentence": "`INFERENCE` **A candidate reconciliation, offered as a hypothesis: the augmentation may only appear late.** Kopacz stopped recording at **30 minutes** and found nothing; Cederholm’s ropivacaine-plus-epinephrine comparison is reported at **20 minutes**; Yamashiro’s significant divergence occurs at **50 and 60 minutes**, once epinephrine alone has worn off.",
+  "dose_flag": false
+ },
+ {
+  "line": 1083,
+  "heading": "Ropivacaine blunts epinephrine, in two species",
+  "sentence": "`INFERENCE` For a neuropathic leg this is a point *in favour* of the combination rather than against it — less narrowing for the same duration — but it also means any extra hours epinephrine buys are being bought through something other than the narrowing it usually works by, and what that something is has not been established.",
+  "dose_flag": false
+ },
+ {
+  "line": 1211,
+  "heading": "The problem: this predicts the wrong answer for skin",
+  "sentence": "`INFERENCE` **So the drug-specific-window model, which is well supported for ropivacaine alone, fails to explain the ropivacaine-versus-lidocaine contrast in skin.** Candidates for what is missing, none established:",
+  "dose_flag": false
+ },
+ {
+  "line": 1279,
+  "heading": "The problem: this predicts the wrong answer for skin",
+  "sentence": "The ordering in dermal microvessels has never been measured for any of these drugs.",
+  "dose_flag": false
+ },
+ {
+  "line": 1281,
+  "heading": "The problem: this predicts the wrong answer for skin",
+  "sentence": "If he asks why ropivacaine constricts and lidocaine reddens, the honest answer is that the best current model gets the direction wrong and the likeliest missing piece is how long each drug stays in its window rather than where it starts.",
+  "dose_flag": false
+ },
+ {
+  "line": 1312,
+  "heading": "4.10a The reversal has since been substantially explained — ropivacaine activates its own brakes",
+  "sentence": "Same laboratory as Sohn 2012, same preparation, but this time **endothelium-intact** rings with a full inhibitor panel. **This was not in the previous version of this page and it fills the gap Tokinaga left open.**",
+  "dose_flag": false
+ },
+ {
+  "line": 1378,
+  "heading": "The correction to the project’s question 8",
+  "sentence": "2. **The top of the range in skin, 1% ropivacaine, matched saline rather than exceeding it.** There is still no measured vasodilation from ropivacaine in skin at any concentration.",
+  "dose_flag": true
+ },
+ {
+  "line": 1380,
+  "heading": "4.11 What remains unmeasured about vessels",
+  "sentence": "1. **Local tissue concentration over time at a wheal in HUMAN SKIN.** `FULLTEXT` Tokinaga 2007 stated the measurement had never been made, and this page repeated it. **That is now out of date: Kimi 2012 and Yamashiro 2016 measured it in rat palatal mucosa with radiolabelled drug (4.5), and the result both confirms the mechanism and shortens its timescale from hours to minutes.** What remains genuinely unmeasured is the time course in **human dermis**, in a depot of wheal size, with the concentration gradient inside the depot resolved rather than averaged away by tissue homogenisation.",
+  "dose_flag": false
+ },
+ {
+  "line": 1381,
+  "heading": "4.11 What remains unmeasured about vessels",
+  "sentence": "It does, however, mean the claim that nobody has recorded ropivacaine skin flux past 90 minutes is **false as stated** and should be narrowed to “nobody has recorded it at a wheal.”",
+  "dose_flag": false
+ },
+ {
+  "line": 1382,
+  "heading": "4.11 What remains unmeasured about vessels",
+  "sentence": "3. **Flux and block duration in the same wheal — still true for skin, but the chain has now been partly observed elsewhere.** Nobody has measured both at one wheal, and both Kopacz 1989 and Newton 2005 say why: pinprick testing disturbs the cutaneous flow being measured.",
+  "dose_flag": false
+ },
+ {
+  "line": 1383,
+  "heading": "4.11 What remains unmeasured about vessels",
+  "sentence": "\\t**Three partial hits now exist and they change how firmly this gap should be stated:**",
+  "dose_flag": false
+ },
+ {
+  "line": 1730,
+  "heading": "Two more confirmations, and then the caveats",
+  "sentence": "2. **All of it is lidocaine.** The separation has never been measured for ropivacaine in any preparation. `INFERENCE` Ropivacaine’s higher lipid solubility and tenfold-lower vasoconstricting window (4.9a) give no reason to assume the ratio transfers.",
+  "dose_flag": false
+ },
+ {
+  "line": 1731,
+  "heading": "Two more confirmations, and then the caveats",
+  "sentence": "Nobody has recorded a cutaneous C-fibre during a local anaesthetic wheal in a human. `ABSTRACT-ONLY` Named in this literature and not obtained: **Kankel 2012**, “Differential effects of low dose lidocaine on C-fiber classes in humans,” and **Miclescu 2015**, DOI `10.1016/j.sjpain.2015.04.026` — **the human microneurography entry points, and the closest thing to the missing experiment.**",
+  "dose_flag": false
+ },
+ {
+  "line": 1732,
+  "heading": "Two more confirmations, and then the caveats",
+  "sentence": "It is weaker in C-fibres than in A-fibres, untested for ropivacaine, and never observed at a skin wheal.** State all four.",
+  "dose_flag": false
+ },
+ {
+  "line": 1734,
+  "heading": "Two more confirmations, and then the caveats",
+  "sentence": "`INFERENCE` Still the limiting gap, but state it in its corrected form: **nobody has measured neuropathic pain relief from an intradermal ropivacaine wheal at any concentration — though local anaesthetic infiltration for neuropathic pain is not itself novel and has some evidence behind it.** See gap 1 in section 13 for the studies that do exist and why none of them matches this protocol. **The accurate claim is that the intervention class has been tried; this specific protocol is unstudied.**",
+  "dose_flag": false
+ },
+ {
+  "line": 1766,
+  "heading": "5.8.3 Vessels — and the downgrade",
+  "sentence": "4. `INFERENCE` **Nobody has ever measured flux and block duration in the same wheal** (4.11, item 3), because pinprick disturbs the flow being measured.",
+  "dose_flag": false
+ },
+ {
+  "line": 1766,
+  "heading": "5.8.3 Vessels — and the downgrade",
+  "sentence": "The causal link has never been observed in one preparation in skin.",
+  "dose_flag": false
+ },
+ {
+  "line": 1879,
+  "heading": "6.1 The ranking is contested, and here is the whole contest",
+  "sentence": "**Score: four studies place ropivacaine ABOVE lidocaine in toxicity** (Pérez-Castro, both Werdehausens, Onizuka), **four place it BELOW** (Malet, Radwan, Kasaba, Yamashita), **a fifth leans harsher without a full ranking being held** (Yang 2011, where ropivacaine and bupivacaine killed more Schwann cells than the other agents tested), **two find no separation** (Lakhin, Sen), **and the one narrative review says there is no consensus.**",
+  "dose_flag": false
+ },
+ {
+  "line": 1902,
+  "heading": "6.5 The finding that matters most for small fibre neuropathy specifically",
+  "sentence": "This is the one histological finding in the literature that is selective for the fibre class at issue, and **it is not in the previous version of this page at all.** Caveats: rat sciatic, extraneural, 48 hours, and the drugs tested were two esters and two amides but **not ropivacaine.** Whether ropivacaine shares the selectivity is untested.",
+  "dose_flag": false
+ },
+ {
+  "line": 1923,
+  "heading": "6.7 The human measurement",
+  "sentence": "`ABSTRACT-ONLY` **Wehrfritz, Namer, Ihmsen, Mueller, Filitz, Koppert & Leffler 2011**, *Eur J Pain* 15(9):907–912. **5% lidocaine patches applied to the skin of healthy volunteers for 42 days.** Result: a moderate but statistically significant **fall in epidermal nerve fibre density** in skin blister roofs from the treated skin, with **no such fall under placebo patches.** Sensory thresholds returned to baseline within two days of stopping; **the fibre count did not recover on that timescale.**",
+  "dose_flag": true
+ },
+ {
+  "line": 1924,
+  "heading": "6.7 The human measurement",
+  "sentence": "Limits: topical lidocaine, not injected ropivacaine; six weeks, not months or years; a patch covering intact skin, not a wheal; and healthy volunteers with no fibre loss to begin with. **It is nonetheless the only measurement in humans of what prolonged local-anaesthetic exposure does to the fibres at issue, and it went the wrong way.** Standing: 41 citing publications, 32 classified statements, 5 supporting, 0 contrasting.",
+  "dose_flag": false
+ },
+ {
+  "line": 1935,
+  "heading": "6.8a Four adjacent literatures on repeated or prolonged exposure",
+  "sentence": "A rat wound study found **transient histological changes at day 3 but no mechanical deficit at day 14.** `INFERENCE` Reassuring in direction, but the tissue is incised and subcutaneous rather than intact neuropathic dermis, and no study measures innervation.",
+  "dose_flag": false
+ },
+ {
+  "line": 1936,
+  "heading": "6.8a Four adjacent literatures on repeated or prolonged exposure",
+  "sentence": "Mesotherapy and cosmetic intradermal injection — the repeated-puncture harms.** `ABSTRACT-ONLY` Plachouri 2019 and Mammucari 2011 report **infection, nodules, granulomatous reactions, pigment change, scarring and fibrosis, and vascular events** after repeated intradermal injection of heterogeneous mixtures. `INFERENCE` Almost entirely case reports, and causally uninterpretable — puncture, technique, contamination and injectate cannot be separated. **Its value is in naming the outcome categories nobody has looked for in this use.**",
+  "dose_flag": false
+ },
+ {
+  "line": 1991,
+  "heading": "9.1 The intradermal experiment, in humans",
+  "sentence": "This is human, intradermal, double-blind, and it confirms the 139 → 36 figure the project was carrying. **It is the single most transferable mixing result available** — the only one in the right tissue by the right route.",
+  "dose_flag": false
+ },
+ {
+  "line": 2019,
+  "heading": "9.2 And the interference persists after the ester has fully worn off",
+  "sentence": "`INFERENCE` **Extension to procaine, flagged as inference and not measured.** Procaine is hydrolysed by plasma and tissue esterases to **para-aminobenzoic acid (PABA)**, which is the direct structural analogue of chloroprocaine’s 4-amino-2-chlorobenzoic acid (the latter being PABA with a chlorine substitution).",
+  "dose_flag": false
+ },
+ {
+  "line": 2019,
+  "heading": "9.2 And the interference persists after the ester has fully worn off",
+  "sentence": "If the mechanism is the metabolite rather than the parent drug, **procaine sessions could shorten a subsequent ropivacaine block even when separated in time, and even at sites that have fully recovered.** This has never been tested for procaine and ropivacaine, in any tissue.",
+  "dose_flag": false
+ },
+ {
+  "line": 2024,
+  "heading": "9.3 pH decides the outcome of a mixture",
+  "sentence": "Cederholm’s solutions were pH 5.5 plain and **3.9 with adrenaline**; Nakamura found 10⁻² M ropivacaine lowered a HEPES buffer to **pH 6.1**; Moffitt raised pH as the explanation for their anomalous pain result when diluting with unbuffered saline. **pH is an uncontrolled variable across this entire literature and across any dilution the human performs.** A 0.75% ampoule is acidic; diluting it with unbuffered normal saline changes the pH in a direction nobody has characterised for this route.",
+  "dose_flag": true
+ },
+ {
+  "line": 2055,
+  "heading": "9.4 The two 2025 mixing trials",
+  "sentence": "Together with Kim 1979 they leave no reason to accept an unmeasured risk in exchange for a block that comes out the same or shorter.",
+  "dose_flag": false
+ },
+ {
+  "line": 2063,
+  "heading": "PART VI-A — HOW ROPIVACAINE COMPARES WITH THE ALTERNATIVES",
+  "sentence": "It also covers one drug nobody in this project has considered.",
+  "dose_flag": false
+ },
+ {
+  "line": 2144,
+  "heading": "9a.2 The only six-drug human intradermal head-to-head, and it includes procaine",
+  "sentence": "Six drugs at three concentrations each plus a saline control, each as a pair of **0.1 mL intradermal injections** on the flexor forearm at 40 mm spacing, position randomised and unknown to subject and investigator.",
+  "dose_flag": true
+ },
+ {
+  "line": 2219,
+  "heading": "The duration result, and the distinction that matters",
+  "sentence": "`FULLTEXT` **But — and this is the distinction the whole project has been missing — they also state: “A comparison of figures 1 and 2 demonstrates that there was no relationship between vasoactivity and INITIAL analgesic activity.”**",
+  "dose_flag": false
+ },
+ {
+  "line": 2297,
+  "heading": "9a.5 Mepivacaine — the drug nobody in this project has considered",
+  "sentence": "`INFERENCE` **Flagging this because it is the one genuinely unexplored option the comparative evidence throws up.** It is not a recommendation and there is no prescriber conversation behind it.",
+  "dose_flag": false
+ },
+ {
+  "line": 2301,
+  "heading": "9a.5 Mepivacaine — the drug nobody in this project has considered",
+  "sentence": "- `FULLTEXT` **And yet in human skin it is the most consistent vasoconstrictor of the six drugs ever compared head to head** — significant at all three concentrations, P \\\\< 0.001, the only drug in Willatts & Reynolds to reach that threshold (9a.2). **“Most consistent” rather than “strongest”: the comparison is incidence of pallor across concentrations, not depth of flow reduction, and no study has compared the magnitude of mepivacaine’s and ropivacaine’s constriction in skin.** `FULLTEXT` Fruhstorfer 1993 independently found mepivacaine 0.25% produced **distinct pallor in 9 of 12 subjects** where plain lignocaine produced none, with pallor area about 0.8 cm².",
+  "dose_flag": true
+ },
+ {
+  "line": 2310,
+  "heading": "The anomaly, and its resolution",
+  "sentence": "- **Brake strength** explains the **lidocaine/mepivacaine** pair, which clearance cannot — Kimi never tested mepivacaine, and the two drugs’ protein binding (64% and 77.5%) is too close to generate an order-of-magnitude dwell difference.",
+  "dose_flag": true
+ },
+ {
+  "line": 2319,
+  "heading": "9a.6 What the comparison cannot tell him",
+  "sentence": "1. **No study has compared any two of these drugs for neuropathic pain relief from an intradermal wheal.** Every comparison above uses pinprick, colour, flux, or cell death.",
+  "dose_flag": false
+ },
+ {
+  "line": 2319,
+  "heading": "9a.6 What the comparison cannot tell him",
+  "sentence": "Gap 1 in section 13 applies to the whole of this part.",
+  "dose_flag": false
+ },
+ {
+  "line": 2322,
+  "heading": "9a.6 What the comparison cannot tell him",
+  "sentence": "The ladder may be ordered differently in his legs, and there is no way to know.",
+  "dose_flag": false
+ },
+ {
+  "line": 2442,
+  "heading": "10.2 The answer to the question as asked",
+  "sentence": "3. **So if total reduced-flow time is what he cares about, the weaker solution is WORSE inside the recorded window, not better.** Past 90 minutes nobody has measured either one.",
+  "dose_flag": false
+ },
+ {
+  "line": 2516,
+  "heading": "10.4 What genuinely does argue for 0.25%",
+  "sentence": "1. **His endpoint is not pinprick, and the gap between the two endpoints is now quantified.** `INFERENCE` (5.6) He measures neuropathic relief, not abolition of normal sensation. `ABSTRACT-ONLY` **Tanelian & MacIver measured a \\\\~44-fold separation in injured fibres — ED₅₀ 5.7 µg/mL to silence tonic Aδ/C discharge against more than 250 µg/mL to block evoked conduction — and Dong found a 500-fold separation in compressed DRG neurons.** Both with lidocaine, in animal preparations. `INFERENCE` **So Cederholm’s 30 minutes at 0.25% is a lower bound on a harder task than the one he is performing.",
+  "dose_flag": true
+ },
+ {
+  "line": 2528,
+  "heading": "10.5 What argues against, honestly",
+  "sentence": "4. **pH is uncontrolled.** `INFERENCE` (9.3) Diluting a 0.75% ampoule with unbuffered normal saline changes the solution pH in a direction nobody has characterised for intradermal injection, and Moffitt’s own anomalous pain result was attributed to exactly this.",
+  "dose_flag": true
+ },
+ {
+  "line": 2578,
+  "heading": "10.8 The question, reframed",
+  "sentence": "Four causal exposures need separating and no study separates them: **drug identity and concentration; total local mass and dwell time; mechanical puncture and repeated-site trauma; and formulation, sterility and excipients.** `ABSTRACT-ONLY` The mesotherapy literature reports infection, nodules, granulomatous reactions, pigment change, scarring, fibrosis and vascular events after repeated intradermal injection of heterogeneous mixtures — mostly case reports, and it cannot separate puncture from injectate from technique from contamination. **That is the shape of the risk this page cannot quantify, and pigmentation is one component of it** (5.2: universal 2–3 mm pigmented spots at two weeks in every volunteer, resolving by four).",
+  "dose_flag": false
+ },
+ {
+  "line": 2582,
+  "heading": "11.1 What is on the Mexican market",
+  "sentence": "`UNSOURCED` **Everything in this subsection is from registry aggregators and online pharmacy listings checked in September 2026 and has not been verified at a primary regulatory source.** Registry aggregators lag the market in both directions — a listed product may be discontinued and a new generic may not yet appear. **Confirm the strength on the box before diluting anything.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2583,
+  "heading": "11.1 What is on the Mexican market",
+  "sentence": "**Only two of the four worldwide strengths are registered in Mexico: 2 mg/mL and 7.5 mg/mL.** There is no 5 mg/mL product and no 10 mg/mL product.",
+  "dose_flag": true
+ },
+ {
+  "line": 2656,
+  "heading": "11.2 Dilution arithmetic, if dilution is ever wanted",
+  "sentence": "A neutral solution would sit above the pH 6 at which the Naropin label says ropivacaine’s solubility becomes limited, which makes a Heel-and-ropivacaine mixture an untested one to check against the light, not one expected to fail.",
+  "dose_flag": false
+ },
+ {
+  "line": 2657,
+  "heading": "11.2 Dilution arithmetic, if dilution is ever wanted",
+  "sentence": "`FULLTEXT` The US Traumeel Injection Solution label, read 2026-09-26, lists water and sodium chloride as its inactive ingredients, states no pH, says nothing about blood vessels, and says it “may be mixed with lidocaine or similar agents at the discretion of the physician.” `INFERENCE` Whether a Heel ampoule changes ropivacaine’s narrowing of skin vessels has never been measured; the searches behind that are recorded in .",
+  "dose_flag": false
+ },
+ {
+  "line": 2666,
+  "heading": "11.4 Syringe, needle, technique",
+  "sentence": "`INFERENCE` **Room temperature matters.** Every skin flowmetry study in this document controlled it: Cederholm 1991 at 21–22 °C with the subject supine under a blanket to minimise heat loss, varying no more than 0.2 °C; Newton 2000 at 23 ± 1 °C; Newton 2004 and 2005 at 22 °C; Fruhstorfer at room temperature with no figure given.",
+  "dose_flag": false
+ },
+ {
+  "line": 2684,
+  "heading": "12.3 Readings to collect",
+  "sentence": "Record both, because the gap between them is itself informative and is the thing 5.6 predicts will be large.",
+  "dose_flag": false
+ },
+ {
+  "line": 2697,
+  "heading": "12.5 What the protocol cannot do",
+  "sentence": "Nothing he can do at home can, because the instrument required is a laser Doppler flowmeter and the comparison required is against an untouched control site scanned in the same session. **The honest statement to him: his skin can tell him about duration and about colour, and it cannot tell him about blood flow.** That is a limit of the method, not a gap in his diligence.",
+  "dose_flag": false
+ },
+ {
+  "line": 2701,
+  "heading": "13. The open gaps",
+  "sentence": "Ordered by how much each gap bears on his decisions. **Each has been through an independent gap audit; where that audit found evidence, the item says so and the gap is narrowed rather than deleted.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2703,
+  "heading": "13. The open gaps",
+  "sentence": "1. **Nobody has measured neuropathic pain relief from an intradermal ropivacaine wheal at any concentration — but the gap is a PARTIAL one and this page previously stated it too absolutely.** `INFERENCE` Every duration figure in this document uses pinprick, return of full sensation, or time to analgesic request, in healthy volunteers or surgical patients with intact nerves.",
+  "dose_flag": false
+ },
+ {
+  "line": 2708,
+  "heading": "13. The open gaps",
+  "sentence": "What has been reported only once is an anaesthetic-only wheal protocol with per-wheal volume, spacing, a repeated-session schedule and a pain outcome: 1 mL of 2% lidocaine in 5 mL of saline, 0.2–0.3 mL wheals 1 cm apart, three sessions two weeks apart, pain lower at 2 and 4 weeks and at 3 months, in 20 people with notalgia paresthetica, uncontrolled (Mülkoğlu 2020, PMID 32416719) — and nothing at all in small fibre neuropathy.** Revised statement: **the intervention class is not novel; this specific protocol is unstudied.** That is a weaker and more accurate claim than the one this page carried, and it is mildly reassuring rather than the reverse. **His split-leg test remains the only route to a number for his legs.**",
+  "dose_flag": true
+ },
+ {
+  "line": 2709,
+  "heading": "13. The open gaps",
+  "sentence": "2. **Nobody has used ropivacaine wheals for small fibre neuropathy.** No trial exists.",
+  "dose_flag": false
+ },
+ {
+  "line": 2710,
+  "heading": "13. The open gaps",
+  "sentence": "3. **Local tissue concentration over time at a wheal in human skin has never been MEASURED — but it has been measured in rat oral mucosa (Kimi 2012, Yamashiro 2016; 4.5) and calculated, and both support the mechanism.** `FULLTEXT` Tokinaga 2007 states the measurement has never been made, which was true of the vascular literature when written and is no longer true in general (4.5). `FULLTEXT` Sohn 2012 computed the expected free tissue concentration from protein binding and got **5.46 × 10⁻⁴ to 1.63 × 10⁻³ M for clinical ropivacaine — inside the constricting window** (4.5). **So this gap is narrower than the previous version of this page claimed, but it is not closed:** Sohn’s figure is the unbound fraction at the moment of injection, accounting for protein binding and nothing else — no diffusion, no interstitial dilution, no clearance, no time course. **What is still missing is the time course in human dermis**, which is what would settle how long a wheal stays inside the window — minutes, on the rat measurement (4.5) — and therefore how long 0.25% and 0.75% each keep a site there.",
+  "dose_flag": true
+ },
+ {
+  "line": 2711,
+  "heading": "13. The open gaps",
+  "sentence": "4. **Flux and block duration have never been measured in the same wheal.** Both Kopacz and Newton say why: pinprick disturbs the flow being measured. **Narrowed by three partial hits — Yamashiro 2016 (concentration + flow, rat oral mucosa), Bernards & Kopacz 1999 (concentration + flow + block, human perineural, 5 h), and Liu 1995 (duration + flow at matched sites, human, 6 h).",
+  "dose_flag": false
+ },
+ {
+  "line": 2711,
+  "heading": "13. The open gaps",
+  "sentence": "See 4.11 item 3.** What is still missing is the chain at a skin wheal, and with a neuropathic-pain endpoint rather than pinprick.",
+  "dose_flag": false
+ },
+ {
+  "line": 2712,
+  "heading": "13. The open gaps",
+  "sentence": "5. **Skin blood flow at a ropivacaine wheal has never been recorded past 90 minutes — confirmed by independent search.** Cederholm’s recordings stop there. `ABSTRACT-ONLY` Häfner 2008 went to 24 hours but at a fingerpad after a digital block.",
+  "dose_flag": false
+ },
+ {
+  "line": 2713,
+  "heading": "13. The open gaps",
+  "sentence": "6. **0.5% and 0.375% against untreated skin over time — the single most valuable missing document.** It lives in Cederholm 1992’s figures, `PAYWALLED` and now confirmed unobtainable after a **second independent attempt** covering the BMJ/RAPM archive, Scite full-text retrieval, the Internet Archive issue record, the Linköping DiVA dissertation record, SciSpace, ResearchGate and institutional repositories.",
+  "dose_flag": true
+ },
+ {
+  "line": 2714,
+  "heading": "13. The open gaps",
+  "sentence": "The procaine/ropivacaine version has never been tested, in any tissue.",
+  "dose_flag": false
+ },
+ {
+  "line": 2715,
+  "heading": "13. The open gaps",
+  "sentence": "8. **Whether repeated ropivacaine over months does anything to skin that has already lost fibres.** Unstudied, exactly as for repeated epinephrine. `ABSTRACT-ONLY` Wehrfritz 2011 is the nearest human measurement and it went the wrong way, with topical lidocaine over 42 days.",
+  "dose_flag": false
+ },
+ {
+  "line": 2717,
+  "heading": "13. The open gaps",
+  "sentence": "10. **Which way the toxicity ranking actually goes.** `ABSTRACT-ONLY` (6.1) Four studies each way and a review saying there is no consensus.",
+  "dose_flag": false
+ },
+ {
+  "line": 2721,
+  "heading": "13. The open gaps",
+  "sentence": "The LDIflare literature establishes that the **axon-reflex flare is blunted to roughly a third of normal** in diabetic neuropathy (4.7) — but **no study injects a local anaesthetic into neuropathic skin and measures the local vascular response against untreated, needle-only and saline controls.** **This is the most directly relevant missing experiment for him, and every vascular number in Part I comes from healthy tissue.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2722,
+  "heading": "13. The open gaps",
+  "sentence": "15. **The exposure variables are unexamined — a gap in the question, not the literature.** `INFERENCE` See 10.8.",
+  "dose_flag": false
+ },
+ {
+  "line": 2722,
+  "heading": "13. The open gaps",
+  "sentence": "No study varies them. **A document about the right percentage was answering the easiest of the eight relevant questions.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2723,
+  "heading": "13. The open gaps",
+  "sentence": "16. **The causal chain has never been observed end to end in the target tissue.** `INFERENCE` The chain runs: nominal concentration → local concentration over time → vascular response → clearance → duration of neuropathic relief → cumulative tissue effect. **Every link is now supported by something, and no two adjacent links have been measured in the same human dermal preparation.** It is a model assembled from a rat palate, a rabbit cornea, a pig flank, a human forearm and a human peroneal nerve. **Say so when presenting it.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2737,
+  "heading": "14. The rejected-claims table",
+  "sentence": "That is a null result on top of the puncture, not measured widening.",
+  "dose_flag": false
+ },
+ {
+  "line": 2775,
+  "heading": "14. The rejected-claims table",
+  "sentence": "“0.75% was never tested by flowmetry in skin”",
+  "dose_flag": true
+ },
+ {
+  "line": 2780,
+  "heading": "14. The rejected-claims table",
+  "sentence": "“Nobody has recorded ropivacaine skin flux past 90 minutes”",
+  "dose_flag": false
+ },
+ {
+  "line": 2846,
+  "heading": "15.1 Vessels in skin — the core",
+  "sentence": "No figure, table or per-timepoint value from this paper has ever been read.** 0.75% was not tested. **Also unavailable and worth naming: the units and calibration details — so it is not known whether the 1992 figures are on the same 0–10 V scale as 1991, and therefore whether the two papers’ numbers can be compared at all.** Standing: 6 citing publications, **no classified citation statements of any kind** — no supporting, no contrasting, no editorial notices.",
+  "dose_flag": true
+ },
+ {
+  "line": 2853,
+  "heading": "15.1 Vessels in skin — the core",
+  "sentence": "DOI `10.1093/bja/aei095`. — **`FULL TEXT HELD`****.** Contributes: eight concentrations from 0.008% to 0.75%; **net vasoconstriction only at 0.008–0.031%, with 0.0625% ≈ saline**; every epinephrine-containing response below saline; the Åberg calcium-mobilisation/membrane-stabilisation mechanism; the iontophoresis finding that 0.5% sodium chloride has no vasodilatory effect in human skin; and the reason pinprick was not attempted.",
+  "dose_flag": true
+ },
+ {
+  "line": 2857,
+  "heading": "15.1 Vessels in skin — the core",
+  "sentence": "Epub 20 Aug 2007. — **`FULL TEXT HELD`****.** Contributes: the biphasic window 3 × 10⁻⁵ to 3 × 10⁻⁴ M with relaxation from 10⁻³; the nicardipine/2-APB dissection and its additivity; **the tension/calcium dissociation implying a calcium-independent arm**; the explicit conversion of the clinical range to (0.6–2.4) × 10⁻² M; **the statement that clinical concentrations appear too high to contract vascular smooth muscle**; the interstitial-dilution reconciliation; and the statement that **local injected concentration has never been measured** — **a statement that was true of the vascular literature but is false in general; see Kimi 2012 and Yamashiro 2016 in 4.5, which this page previously missed.** Limits: rat aorta, a conductance vessel; endothelium-denuded; in vitro; relaxation at high concentration acknowledged as unexplained.",
+  "dose_flag": false
+ },
+ {
+  "line": 2875,
+  "heading": "15.2 Duration",
+  "sentence": "Limits: 18 volunteers; five times a wheal’s volume; vasoconstriction observed, not measured.",
+  "dose_flag": false
+ },
+ {
+  "line": 2877,
+  "heading": "15.2 Duration",
+  "sentence": "Standing: 48 citing publications, 36 classified statements — 1 supporting, 1 contrasting, no editorial notices; the contrasting statement concerns onset time in a dental study, and **no paper has contradicted the 21.5-hour duration.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2909,
+  "heading": "15.4 Neurotoxicity",
+  "sentence": "All four produced a **concentration-dependent increase in every measure of injury.** Injury predominantly subperineurial. **The Schwann cells of unmyelinated fibres were more likely to undergo lysis; those of myelinated fibres to accumulate cytoplasmic lipid droplets.** The finding most specific to small fibre neuropathy in the whole collection — but **ropivacaine was not tested.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2918,
+  "heading": "15.4 Neurotoxicity",
+  "sentence": "DOI `10.17245/jdapm.2020.20.2.63`. — **`ABSTRACT`****.** 2,802 hits screened, 23 eligible: 17 in vitro studies, 3 reviews, 3 national-inquiry audits. **“All dental local anesthetics are potentially neurotoxic in a concentration and/or exposure time fashion”** and **“there is no unanimity in the publications about which local anesthetic is the least or the most neurotoxic.”** Notes there is no consensus on which cell lines to use, which makes comparison between studies ambiguous. **This is the honest summary of section 6.1 and should be quoted to the human when the toxicity ranking comes up.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2952,
+  "heading": "Ectopic firing — the concentration separation",
+  "sentence": "The only paper in this collection giving the separation as a percentage.** In vivo rat, epidural application to the DRG surface: **0.02% or 0.2% lidocaine substantially suppressed DRG electrogenesis with only a modest effect on impulse propagation through the foramen.** Topical opiates and GABA blocked neither.",
+  "dose_flag": true
+ },
+ {
+  "line": 2957,
+  "heading": "Ectopic firing — the concentration separation",
+  "sentence": "**Kankel J et al. 2012**, “Differential effects of low dose lidocaine on C-fiber classes in humans”; and **Miclescu A et al. 2015**, DOI `10.1016/j.sjpain.2015.04.026`. — **`CITATION ONLY`****, neither obtained.** Named by an independent audit as **the human microneurography entry points** and the closest available approach to the missing experiment: recording a cutaneous C-fibre during a local anaesthetic wheal in a person. **Worth obtaining if the endpoint argument in 5.6 ever needs to rest on human data.**",
+  "dose_flag": false
+ },
+ {
+  "line": 2978,
+  "heading": "15.7b What was searched, and what it would cost to close the main gap",
+  "sentence": "**Databases and archives searched in the independent gap audit (12 September 2026):** PubMed and PMC; Scite; Undermind deep literature search; Consensus; Crossref and Retraction Watch metadata; PubPeer exact-DOI search; the BMJ/RAPM archive; ScienceDirect; Wiley, IOS and Sage publisher pages; the Linköping DiVA repository; the Internet Archive; ResearchGate; and broad web and institutional-repository search.",
+  "dose_flag": false
+ },
+ {
+  "line": 2978,
+  "heading": "15.7b What was searched, and what it would cost to close the main gap",
+  "sentence": "Post-mid-2025 coverage combined `(ropivacaine OR local anesthetic OR botulinum toxin)` with `(intradermal OR subcutaneous OR skin perfusion OR neuropathic pain)`, narrowed by each gap’s concepts, through 12 September 2026.",
+  "dose_flag": false
+ },
+ {
+  "line": 2979,
+  "heading": "15.7b What was searched, and what it would cost to close the main gap",
+  "sentence": "**Representative search strings, retained per gap so the negatives can be reproduced or overturned:**",
+  "dose_flag": false
+ },
+ {
+  "line": 3014,
+  "heading": "15.7b What was searched, and what it would cost to close the main gap",
+  "sentence": "`INFERENCE` **Two of these negatives are worth re-testing periodically**, because a single new paper would change the document: **gap 14** (anything injected into neuropathic human skin with a vascular measurement) and **gap 1** (an anaesthetic-only wheal with a neuropathic-pain endpoint and full procedural reporting).",
+  "dose_flag": false
+ },
+ {
+  "line": 3016,
+  "heading": "15.7b What was searched, and what it would cost to close the main gap",
+  "sentence": "`INFERENCE` **Cederholm 1992 is the only one worth considering on its own.** Three of this document’s claims are waiting on it (10.7), it is the sole source for the 0.5%, 0.375% and 0.125% points on the concentration ladder, and it is the only place a ropivacaine-versus-untreated statistical test might exist. **Nothing else on the list would change a conclusion.**",
+  "dose_flag": true
+ },
+ {
+  "line": 3053,
+  "heading": "15.7 Papers named in this literature but not obtained, worth getting if the topic becomes live",
+  "sentence": "**The only paper reporting a direct vasoconstriction/duration correlation**",
+  "dose_flag": false
+ }
+]

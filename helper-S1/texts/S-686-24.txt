@@ -1,0 +1,388 @@
+
+===== PAGE 1 =====
+Does Alkalinization of 0.75% Ropivacaine
+Promote a Lumbar Peridural Block of Higher
+Quality?
+
+Gilson Ramos, M.Sc., Edisio Pereira, Ph.D., and Maria P.B. Simonetti, D.Sc.
+
+     Background and Objectives: We did not find clinical studies of the alkalization of ropivacaine in the
+     literature. The objectives of this study were: (1) to determine the quantity of sodium bicarbonate (NaHCO3),
+     which alkalinizes 0.75% ropivacaine (with and without adrenaline); (2) to verify the physico-chemical alter-
+     ations arising from this alkalization; and (3) to determine whether alkalinized ropivacaine produces a higher-
+     quality epidural block measured via sensory-motor onset, block spread and anesthesia duration.
+     Methods: It was determined in the laboratory that 0.012 and 0.015 mEq of NaHCO3, respectively, alkalinized
+     10 mL of the 0.75% ropivacaine solutions without and with adrenaline (1:200,000). In the second phase, the
+     study was random and double-blind and involved 60 patients divided into 3 groups of 20 (G1, G2, and G3). Via
+     epidural lumbar blocks, these groups received, respectively, 10 mL of 0.75% ropivacaine plus 0.5 mL of 0.9%
+     NaCl (solution A), 10 mL of 0.75% ropivacaine plus 0.0012 mEq of NaHCO3 (solution B), and 10 mL of 0.75%
+     ropivacaine (with adrenaline) plus 0.015 mEq of NaHCO3 (solution C). The pH, PCO2 (partial CO2 pressure), and
+     the nonionized fractions of the 0.75% ropivacaine solutions were compared before and after the addition of
+     0.9% NaCl or NaHCO3 or adrenaline plus NaHCO3. The motor and sensory onsets, block spread, and the
+     duration of the block were evaluated.
+     Results: The values of the pH, PCO2, and nonionized fractions increased significantly in solutions B and C in
+     relation to solution A. No differences among the groups were observed in relation to block spread and
+     sensory-motor onset. The duration of the sensory blocks was significantly greater in the patients in groups G2
+     and G3.
+     Conclusions: This study indicates that the quantity of NaHCO3 needed to alkalize 10 mL of 0.75% ropivacaine
+     at room temperature is 0.012 mEq. When the solution contains adrenaline 1:200,000 (mg 䡠 mL⫺1), up to 0.015
+     mEq of NaHCO3 may be added. The alkalization of the 0.75% ropivacaine solution did not cause a reduction of
+     sensory-motor onset, but did provide a significant increase in the duration of the epidural block with no
+     significant differences between the solutions with and without adrenaline. Reg Anesth Pain Med 2001;26:357-362.
+     Key Words:        Anesthetics, Local, Ropivacaine, Alkalinization, Anesthetic techniques, Regional, Peridural.
+
+
+
+
+A     nesthetics are weak bases, which in solutions for
+      clinical use, possess a local anesthetic dissoci-
+ation constant (pKa) above the physiological pH
+                                                                     salts are soluble (stable) in water and are responsi-
+                                                                     ble for the acidity (pH 6) of the solution.2 Sodium
+                                                                     bisulfite (pH 4), a strong acid, is sometimes added to
+(7.4), varying between 7.5 and 9.1 These agents are                  prevent the oxidative decomposition of adrenaline,
+poorly soluble in water. This is why they are pre-                   which may be added to the solution. Thus, the
+pared for clinical use in the form of their salts. These             anesthetic solution prepared for clinical use has a
+                                                                     pH somewhere between 3.2 and 6.5.3 This acid pH
+                                                                     is responsible for the low nonionized fraction.
+   From the Center of Teaching and Training (CTT) in Anesthe-
+siology, Orthopedic Hospital of Goiânia (G.R.), Goiânia; Health       Local anesthetics may be alkalinized to raise the
+Sciences Faculty, University of Brasilia (E.P.), Brasilia; and the   pH of the solution so that it approaches the pKa of
+Department of Pharmacology, Biomedical Sciences Institute,
+University of Sao Paulo (M.P.B.S.), Sao Paulo, Brazil.
+                                                                     the anesthetic. The goal is to increase the nonion-
+   This study was performed at the CTT of the Orthopedic Hos-        ized fraction of the anesthetic, lower onset, improve
+pital of Goiânia, Goiânia, Brazil.                                 spread, and lengthen the period of activity; in short,
+   Accepted for publication February 12, 2001.
+   Reprint requests: Gilson Ramos, M.Sc., Rua 8, No. 74, Ap. 402,
+                                                                     to improve the quality of anesthesia. The alkalin-
+S. Oeste, 74115-100, Goiânia-GO, Brazil.                            ization of local anesthetics also increases the PCO2
+   © 2001 by the American Society of Regional Anesthesia and         (partial CO2 pressure) of the solution. This is highly
+Pain Medicine.
+   1098-7339/01/2604-0010$35.00/0                                    diffusible and increases the ionized fraction of the
+   doi:10.1053/rapm.2001.24257                                       agent inside the nerve fiber.
+
+
+                       Regional Anesthesia and Pain Medicine, Vol 26, No 4 (July–August), 2001: pp 357–362             357
+
+===== PAGE 2 =====
+358    Regional Anesthesia and Pain Medicine Vol. 26 No. 4 July–August 2001
+
+       Table 1. Preliminary Measurements: pH, PCO2, Nonionized Fractions, and Osmolarity of the Solutions
+                                                                         PCO2                                   Osm
+                Solutions                            pH                 (mm Hg)            NIF (%)           (mOsm 䡠 l⫺1)
+
+      3 lots of 0.75% ropivacaine*                5.1 ⫾ 0.03           10.4 ⫾ 0.83        1.1 ⫾ 0.12          277 ⫾ 0.0
+      Solution A                                      5.2                  10.0               1.2                280
+      Solution B                                      6.1                  16.0              17.3                274
+      Solution C                                      6.0                  13.0              10.0                258
+
+  *Values explicit by mean ⫾ SD.
+
+
+  In this study, the alkalinization of ropivacaine                      ropivacaine (solution A or the control solution) and
+with sodium bicarbonate (NaHCO3) was evaluated.                         using an optical microscope (10 ⫻ 0.25 resolution)
+Approximately 99% of the ropivacaine molecules                          to detect the presence of precipitation of the anes-
+prepared for clinical use are found in ionized form                     thetic solution. Later, we determined the concen-
+and only 1% in nonionized form. The objectives                          tration of NaHCO3, which can be added to 10 mL of
+were: (1) to determine the quantity of NaHCO3,                          0.75% ropivacaine at room temperature, with and
+which alkalinizes 0.75% ropivacaine (with and                           without the previous addition of 1:200,000 (5 mg 䡠
+without adrenaline); (2) to verify the physico-                         mL⫺1) adrenaline without provoking immediate
+chemical alterations arising from this alkalinization;                  precipitation (5 minutes of optical microscope ob-
+and (3) to determine whether alkalinized ropiva-                        servation) of the final anesthetic solution. Repeated
+caine provokes a higher-quality peridural block                         concentrations of 0.004 mEq of 0.336% NaHCO3
+with respect to sensory-motor onset, block spread,                      were added to 10 mL of the anesthetic solution
+and anesthesia duration.                                                until a precipitate appeared. This occurred with val-
+                                                                        ues of 0.336% NaHCO3 ⱖ 0.016 mEq. Thus, 0.12
+Methods                                                                 mEq of NaHCO3 was established as the maximum
+                                                                        effective concentration to be added to 10 mL of the
+  This study was performed at the Center for
+                                                                        anesthetic solution (solution B). The same proce-
+Teaching and Training in Anesthesiology at the Or-
+                                                                        dure was used to reach the concentration of
+thopedic Hospital of Goiânia, after having been ap-
+                                                                        0.336% NaHCO3 to be added to the local anesthetic
+proved by that institution’s medical ethics commit-
+                                                                        with 1:200,000 adrenaline (previously added 5
+tee and have obtained in writing the patients’
+                                                                        minutes before alkalinization). Precipitation was es-
+permission. It consisted of 2 phases: the first in the
+                                                                        tablished with values of NaHCO3 greater than 0.016
+laboratory and the second in the surgical center.
+                                                                        mEq. Concentrations of 0.017 to 0.019 mEq of Na
+The first part of the laboratory phase consisted of
+                                                                        HCO3 were not tested, and 0.020 mEq of NaHCO3
+adding 0.5 mL of 0.9% NaCl to 10 mL of 0.75%
+                                                                        precipitated the solution in a few seconds. In this
+                                                                        way, we reached the concentration of 0.015 mEq to
+    Table 2. Characteristics of the Patients Studied                    be added to 10 mL of the anesthetic solution with
+                                         Groups                         adrenaline (solution C).
+                                                                           In the second part of the laboratory phase, pre-
+                         Group 1        Group 2        Group 3
+   Characteristics        (G1)           (G2)           (G3)            liminary measurements were made of pH and
+                                                                        PCO2, nonionized fractions, and the osmolarity of
+ Age (yr)               32.8 ⫾ 9.6   33.1 ⫾ 10.9      31.0 ⫾ 10.8       the solutions. For this a Drake AGS 21 gasometer
+ Height (m)              1.7 ⫾ 0.0    1.7 ⫾ 0.1*       1.7 ⫾ 0.0*
+ Weight (kg)            63.8 ⫾ 9.0   76.4 ⫾ 14.1†     70.5 ⫾ 10.9
+                                                                        (Drake, São Paulo, Brazil), similar to the ABL radi-
+ Sex (M/F)                 12/8          17/3            16/4           ometer, the Henderson Hasselbalch equation, and a
+ Physical Status I/II                                                   Fiske One-Ten osmometer (Fiske Associates, Nor-
+   (ASA)                    20/0          20/0            18/2
+                                                                        wood, MA) were used, respectively. Three samples
+   NOTE. Values expressed by mean ⫾ SD except by sex and                of 0.75% ropivacaine from different lots and solu-
+physical status. There were no statistically significant differences    tions A, B, and C were studied (Table 1).
+among the mean values of patient ages in the 3 groups studied.
+In relation to height, the means of group G1 (1.65 m) presented            The third part of the laboratory phase simulated
+a statistically significant difference in comparison with the other     the injection of ropivacaine into the human epi-
+groups (G2: 1.73 m and G3: 1.70 m). In relation to the weight           dural space. The popliteal fossae of rats were used
+variable, the difference between the mean values found for group
+G1 (63.75 kg) and for group 2 (76.40 kg) was statistically signif-      for this purpose. These regions are anatomically
+icant; 75% of the patients were males and 25% females. Physical         related to the animals’ sciatic nerves. This is the
+status I applied to 97% of the patients and physical status II to       reason why they are commonly used to study nerve
+3%.
+   *P ⬍ .05 ⫻ G1.                                                       tissue in vivo.4 A total of 2 mL of 0.75% ropivacaine
+   †P ⬍ .05 ⫻ G1.                                                       and 2 mL of solutions A, B, and C were injected into
+
+===== PAGE 3 =====
+                                                  Peridural Block With 0.75% Ropivacaine Alkalinized            •   Ramos et al.       359
+
+             Table 3. Values Found for pH, PCO2, and the Nonionized Fraction After Preparation of the
+                                             Solutions (mean ⫾ SD)
+                          G1 (Solution A)                           G2 (Solution B)                         G3 (Solution C)
+                     Before               After               Before              After              Before                 After
+
+    pH              5.3 ⫾ 0.1           5.3 ⫾ 0.3             5.4 ⫾ 0.2         6.1 ⫾ 0.1*          5.4 ⫾ 0.1            6.1 ⫾ 0.1*
+    PCO2           11.7 ⫾ 2.1          10.8 ⫾ 2.5            12.6 ⫾ 2.0        18.2 ⫾ 5.2*         11.8 ⫾ 1.4           16.9 ⫾ 6.2*
+    NIF             2.0 ⫾ 0.8           2.4 ⫾ 2.0             3.0 ⫾ 1.3        18.9 ⫾ 8.9*          2.7 ⫾ 1.0           20.1 ⫾ 11.7*
+
+  NOTE. The variables pH, PCO2, and nonionized fraction of the patients in group G1 did not present statistically significant differences
+before and after the addition of 0.9% NaCl. For the other 2 solutions, however, the differences between these variables before and after
+the addition of NaHCO3 (G2) or NaHCO3 and adrenaline (G3) were statistically significant (P ⬍ .001).
+  Abbreviation: NIF, nonionized fraction.
+  *Significant values (P ⬍ .001).
+
+
+the popliteal fossae of 3 rats. Five minutes later,                       lated before and after the addition of 0.9% NaCl or
+through surgical dissection, samples of the injected                      0.336% NaHCO3 or adrenaline and 0.336%
+solutions were taken and observed under the 10 ⫻                          NaHCO3 (Table 3). The lumbar epidural blocks were
+0.25 optical microscope. The animals were later                           standardized. Before entering the operating room,
+euthanized by ether inhalation.                                           each patient had received 5 to 10 mg of intravenous
+   The second phase, in the surgical center, con-                         diazepam. Monitoring consisted of continuous
+sisted of performing lumbar epidural anesthesia.                          LEAD II electrocardiogram (ECG), pulse oxymetry,
+Sixty patients (Table 2), chosen by power analysis                        heart rate, and arterial pressure with a sphygmo-
+and divided into 3 groups of 20, ASA physical status                      manometer. Patients were placed in a seated posi-
+I or II,5 of both sexes, not pregnant, between 18 and                     tion or on their right or left side. After local infil-
+60 years of age, without a contraindication to an                         tration with 50 mg of 1% lidocaine, the epidural
+epidural block, and who were going to have surgery                        puncture was made in the L3-4 interverterbral
+on a lower limb were selected at random. Patients                         space with a 16-gauge Tuohy needle with a ceph-
+who did not have motor activity of the lower limbs,                       alad-orientated bevel. A Portex epidural catheter
+those with diseases, which can lead to reduction of                       (SIMS Portex, London, England) was inserted 2.0 to
+skin sensitivity, such as Hansen’s disease or mono                        3.0 cm into the epidural space. Later, with the
+or polyneuropathy, nerve or nerve root compres-                           patient in the supine position, 10 mL of anesthetic
+sion of the lower limbs, the after-effects of polio,                      solution A, B, or C was injected at a rate of 1 mL
+chronic arterial obstruction, and crushing of the                         every 3 seconds.
+lower limbs were excluded.                                                   The sensory block was evaluated according to the
+   This was a randomized, double-blind clinical trial                     Hollmen’s criteria.6 The dermatome studied was
+in which a control group, G1, with 20 patients,                           compressed with a noncutting (40 ⫻ 8 mm) needle,
+received solution A (10 mL of 0.75% ropivacaine                           and its sensitivity was compared with that of the C5
+with 0.5 mL of 0.9% NaCl) for lumbar epidural                             nonanesthetized dermatome (anterior region of the
+block. Groups G2 and G3 with 20 patients/group                            left or right shoulder). Grade 0: patient referred to
+received solution B (10 mL of ropivacaine ⫹ 0.015                         the presence of a pointed object, whose intensity
+mEq of 0.336% NaHCO3) and solution C (10 mL of                            was equal to that of the upper limb. Grade 1: per-
+ropivacaine ⫹ 5 ␮g 䡠 mL⫺1 of adrenaline ⫹ 0.015                           ception of a pointed object, but with less intensity in
+mEq of 0.336% NaHCO3), respectively. The pH and                           the lower limb. Grade 2: the patient no longer
+PCO2 of these anesthetic solutions, as well as their                      perceived the needle point, but only its touch.
+nonionized fractions, were measured and calcu-                            Grade 3: the patient lost feeling. The onset of the
+                                                                          block for a measured dermatome coincided with
+                                                                          grade 2. The spread (height or level) of the anes-
+      Table 4. Onset (minutes) of Sensory Block
+                                     Groups
+  Dermatomes            G1             G2               G3                      Table 5. Onset (minutes) of Motor Block
+                                                                                         (mean ⫾ SD) Groups
+       L1           10.1 ⫾ 4.2       9.8 ⫾ 4.7        9.6 ⫾ 4.6
+       L2           10.4 ⫾ 4.3       9.1 ⫾ 3.7        8.8 ⫾ 3.3                       Groups                        Bromage
+       L3           10.4 ⫾ 4.2      10.6 ⫾ 4.7        9.8 ⫾ 3.9
+       L4           13.0 ⫾ 6.9      11.1 ⫾ 5.1        9.9 ⫾ 3.9                        G1                           22.9 ⫾ 8.5
+       L5           16.4 ⫾ 7.3      17.7 ⫾ 8.2       16.4 ⫾ 7.2                        G2                           21.1 ⫾ 8.0
+                                                                                       G3                           24.6 ⫾ 6.0
+ NOTE. Observation of the dermatomes from L1 to L5 (mean ⫾
+SD). By ANOVA the results were not significant.                            NOTE. By ANOVA the results were not significant.
+
+===== PAGE 4 =====
+360    Regional Anesthesia and Pain Medicine Vol. 26 No. 4 July–August 2001
+
+  Table 6. Time (in minutes) of the Duration of the                  0.016 mEq and ⱕ0.020 mEq. In the popliteal foss-
+            Block Sensory (mean ⫾ SD)                                sae of the rats, all of the solutions, including the one
+           Groups                          Duration                  prepared for clinical use, precipitated. This was
+                                                                     most evident in the alkalinized solutions.
+             G1                          105.7 ⫾ 35.3
+             G2*                         131.1 ⫾ 39.4
+             G3*                         139.8 ⫾ 44.3                Discussion
+   NOTE. Application of the Duncan test did not identify a statis-      The concentration of 0.016 mEq and the concen-
+tically significant difference between groups G2 and G3; how-        tration varying from 0.016 to 0.020 mEq of
+ever, the duration of the block in these groups was significantly
+greater than that of group G1. By ANOVA, the results were            NaHCO3, responsible for the precipitation of 10 mL
+significant in the groups G2 and G3 when they were compared          of the 0.75% ropivacaine solution and 10 mL of
+with G1.                                                             0.75% ropivacaine with recently-added adrenaline
+   *Significant values (P ⬍ .05).
+                                                                     (1:200,000), respectively, appear very close from
+                                                                     the clinical laboratory point of view. In fact, after
+thesia was measured at 40 minutes, and refers to                     they were prepared and administered, solutions B
+the highest dermatome blocked with grade 2, and                      and C did not show consistent clinical differences,
+represented the onset of the sensory block. The end                  and the pH, PCO2, and nonionized-fraction vari-
+of the block (duration) occurred when the der-                       ables did not exhibit differences. Catecholamines
+matome representing the level of anesthesia had its                  are manufactured for clinical use in an acid pH
+block resolve (Hollmen grade 1 or 0). The trunk                      solution, and the addition of 1:200,000 adrenaline
+dermatomes (T12-T1) were analyzed for the level of                   minutes before the alkalinization of the 0.75%
+block, while the lumbars (L1-L5) were analyzed in                    ropivacaine solution did not reduce the pH of the
+relation to onset. The dermatomes were tested in 1                   solution sufficiently to allow a greater concentra-
+topographical region and always in an identical se-                  tion of NaHCO3. For this reason the concentration
+quence. Initially onset was tested (from L1 to L5)                   of NaHCO3 for alkalizing the 0.75% ropivacaine
+and immediately thereafter spread (ascending                         solution may be considered the same, without
+through the trunk starting at T12). The motor block                  adrenaline or with recently added adrenaline. This
+was evaluated immediately after the spread evalu-                    finding is consistent with results presented by other
+ation on the Bromage scale.7 This was also observed                  authors8 who studied the alkalinization of lido-
+for a maximum of 40 minutes.                                         caine, bupivacaine, mepivacaine, and etidocaine.
+   Sensory-motor onset was investigated in the                          Ropivacaine and bupivacaine possess similar
+lower limb, which was operated on, unless it had a                   physico-chemical properties. However, 10 mL of
+functional incapacity that prevented the Bromage                     0.5% bupivacaine solution is capable of receiving,
+evaluation. In this case, the limb on the opposite                   without precipitating and at room temperature, a
+side was investigated. Data were collected once a                    concentration of NaHCO3 (0.05 mEq) 3 to 4 times
+minute for the first 40 minutes and always by the                    greater than that necessary to precipitate 1 mL of
+same observer. Thereafter, the regression of the                     0.75% ropivacaine. This may be explained by the
+anesthesia level was investigated every 5 minutes.                   difference in pH of the solutions. The higher pH of
+This characterized the end of the block.                             the ropivacaine solution makes it more sensitive to
+   To test the hypothesis of equal means among the                   small increases in the pH of the environment. Thus,
+3 groups, the analysis of variance (ANOVA) tech-                     smaller concentrations of NaHCO3 precipitate the
+nique was used. When the F value was statistically                   solution. On the other hand, the bupivacaine solu-
+significant in ANOVA, multiple comparisons were
+made using the Duncan test. The hypothesis of
+equality of the means in a single group, before and                    Table 7. Distribution of the Level of the Block in
+after a particular intervention, was verified by                                   Groups G1, G2, and G3
+means of a paired Student t test. A value of P ⬍ .05                                             Frequency/Proportion %
+was considered statistically significant in the evalu-
+                                                                         Dermatome          G1            G2              G3
+ation of differences between parameters.
+                                                                            T4               —            2/10        1/5
+Results                                                                     T5              1/15          2/10         —
+                                                                            T6               —            1/5         1/5
+  At room temperature, the preparation of solution                          T7              2/10          1/5         1/5
+                                                                            T8              4/20          1/5         3/15
+A did not promote the precipitation of the anes-                            T9              6/30          2/10        2/10
+thetic solution. For solution B, this phenomenon                            T10             3/15          2/10        4/20
+occurred with values of NaHCO3 ⱖ 0.016 mEq and                              T11             3/15          5/25        4/20
+                                                                            T12             1/5           4/20        4/20
+for solution C, with values of NaHCO3 greater than
+
+===== PAGE 5 =====
+                                       Peridural Block With 0.75% Ropivacaine Alkalinized   •   Ramos et al.   361
+
+tion’s more acid pH permits a greater quantity of          cause marked physico-chemical alterations, though
+NaHCO3 to be added. The bupivacaine and ropiva-            possibly not sufficient to reduce the onset of the
+caine solutions are prepared in a pH of approxi-           blocks14 (Table 4). Adding higher concentrations of
+mately 4.0 and 5.0, respectively.3,9,10                    NaHCO3 than the ones established in this experi-
+   Another study11 has established that the concen-        ment, in an attempt to raise the pH and the liposol-
+tration of 0.010 mEq of 8.4% NaHCO3 added to 2             uble fraction of the anesthetic even more, precipi-
+mL of 2% ropivacaine solution (4 mg of anesthetic)         tated the solution. This also explains why there
+causes the precipitation of this solution in a period,     were no significant differences in motor block onset
+which varies between 8 and 10 minutes, elevates            (Table 5). Possibly, the small volume (10 mL) ad-
+the pH of 5.6 to near 7.3, and generates an increase       ministered may have contributed to the fact that 10
+in the nonionized fraction of the agent from 1% to         patients in group G1, 11 in group G2, and 5 in
+approximately 20%. Probably, the differences ob-           group G3 did not have a Bromage score of 1.
+served between these results and those verified in            Solutions B and C, in comparison to solution A,
+our study relate to methodology. In the present            increased the duration of these blocks significantly
+experiment, 10 mL of 0.75% ropivacaine solution            (Table 6). Possibly, a greater quantity of ropivacaine
+(75 mg of anesthetic) was utilized, and the precip-        in solutions B and C, with the increase in their
+itation time of 5 minutes was evaluated by optical         nonionized fractions, was able to cross the neural
+microscope.                                                membrane. In the intraneural environment, acidi-
+   There is no evidence that the alkalinization of         fied by the CO2 resulting from the alkalinization of
+local anesthetics with the correct concentration of        the anesthetic solution, there is an increase in the
+NaHCO3 causes any clinical complications or side           ionizable (cationic) fraction of the anesthetic,
+effects.12 Samples of the laboratory, A, B, and C          whose affinity for the sodium canals is greater than
+anesthetic solutions taken from the rats’ popliteal        that existing between the sodium channels and the
+fossae were examined with an optical microscope.           nonionized fraction of ropivacaine. In this way, an
+Precipitation was present in all the solutions (in-        anesthetic block of longer duration is estab-
+cluding laboratory solutions). However, precipita-         lished.15-17
+tion was observed in greater quantity in solutions B          Reports on the vasoconstricting18-20 property of
+and C. This finding shows that precipitation of ropi-      ropivacaine suggest that the addition of adrenaline
+vacaine may occur after it is administered. That is,       in clinical preparations of this agent does not in-
+ropivacaine solutions correctly alkalinized with           crease the length of anesthetic block.21,22 The dura-
+NaHCO3 and even solutions of ropivacaine pre-              tion of the epidural block caused by ropivacaine with
+pared for clinical use may result in some degree of        adrenaline in an alkalinized solution has not been
+precipitation after they are injected in the human         previously studied. Ropivacaine with pH-adjusted
+epidural space. This may be explained by the pres-         adrenaline did not increase the duration of the epi-
+ence of the local anesthetic solution in a body tem-       dural block. Adrenaline is unstable in physiological
+perature (36°C) environment and the action of or-          (or alkaline) pH, and for this reason its clinical
+ganic buffer systems.                                      preparation is formulated in a pH, which varies
+   Height and weight are highly interconnected             between 3.5 and 5.5. Little is known about the
+variables. In this study, the mean height values of        stability and efficacy of adrenaline when the pH of
+the patients in group G1 presented significant dif-        the environment in which it is found is altered.
+ferences in comparison with the mean values of the         Some studies23 did not report a decrease in the
+other groups. In the same fashion, the mean weight         concentration of adrenaline in an alkalinized solu-
+of the group G1 patients was significantly less than       tion of lidocaine and bupivacaine. Others,24 how-
+that of the group G2 patients. However, these dif-         ever, reported considerable degradation of the
+ferences did not have clinical repercussions, since        adrenaline when this catecholamine was added to
+the spread of the blocks reached higher levels in          the local anesthetic solution containing NaHCO3.
+groups G2 and G3 (greater height and weight).                 Theoretically, by elevating the pH of its solution,
+Habitually, depending on other variables (for exam-        the increase in nonionized molecules of ropivacaine
+ple, anesthetic volume), epidural blocks tend to           would promote a greater spread of the epidural
+have less spread in patients of greater stature.13         block. Some studies, in which other local anesthet-
+   Solutions B and C, even with a significant eleva-       ics were alkalinized, report this occurrence.25 Oth-
+tion of the nonionized fractions of ropivacaine, did       ers, however, did not obtain the same results and
+not reduce the sensory onset of the epidural blocks        reported no differences between the solution with
+relative to the control solution A. The concentra-         an adjustment in pH and the solution prepared for
+tions of NaHCO3, which alkalinized the 0.75% ropi-         clinical use.12,26 In the present study, an advantage
+vacaine solutions, while small, were sufficient to         of one solution over the others cannot be claimed,
+
+===== PAGE 6 =====
+362   Regional Anesthesia and Pain Medicine Vol. 26 No. 4 July–August 2001
+
+although solutions B and C reached a dermatome                 13. Curatolo M, Orlando A, Zbinden AM, Scaramozzino
+(T4) not reached by solution A (Table 7).                          P, Venuti FS. A multifactorial analysis to explain
+   The clinical applicability of the alkalinization of             inadequate surgical analgesia after extradural block.
+local anesthetics is controversial. In this study, the             Br J Anaesth 1995;75:274-281.
+                                                               14. Chow MY, Sai AT, Koay CK, Chan YW. Alkaliniza-
+alkalinized 0.75% ropivacaine solution proved to
+                                                                   tion of lidocaine does not hasten the onset of axillary
+be statistically different than the stock ropivacaine              brachial plexus block. Anesth Analg 1998;86:566-568.
+solution synthesized in the laboratory. However, its           15. Ritchie JM, Ritchie B, Greengard P. The active struc-
+clinical utility for clinical practice remains indeter-            ture of local anesthetics. J Pharmacol Exp Ther 1965;
+minate.                                                            150:152-159.
+                                                               16. Ritchie JM, Ritchie B, Greengard P. The effect of the
+                      References                                   nerve sheath on the action of local anesthetics.
+                                                                   J Pharmacol Exp Ther 1965;150:160-164.
+ 1. Difazio CA, Carron H, Grosslight KR, Moscicki JC,          17. Hilgier M. Alkalinization of bupivacaine for brachial
+    Bolding WR, Johns RA. Comparison of pH-adjusted                plexus block. Reg Anesth 1985;10:59-61.
+    lidocaine solutions for epidural anesthesia. Anesth        18. Niesel HC, Kaiser H, Eilingsfeld T. Ropivacaine—a
+    Analg 1986;65:760-764.                                         new local anesthetic with specific properties. Reg
+ 2. Stoelting RK. Local anesthetics. In: Pharmacology and          Anesth 1990;13:54-56.
+    Physiology in Anesthetic Practice. 1st ed. Philadelphia,   19. Iida H, Watanabe Y, Dohi S, Ishiyama T. Direct effects
+    PA: Lippincott, 1987:148-168.                                  of ropivacaine and bupivacaine on spinal pial vessels
+ 3. Moore DC. The pH of local anesthetic solutions.                in canine. Assessment with closed spinal window
+    Anesth Analg 1981;60:833-834.                                  technique. Anesthesiology 1997;87:75-81.
+ 4. Waynforth HB. Injection techniques. In: Experimental       20. Ishiyama T, Dohi S, Iida H, Watanabe Y. The effects of
+    and Surgical Technique in the Rat. 1st ed. San Diego,          topical and intravenous ropivacaine on canine pial
+    CA: Academic; 1980:3-61.                                       microcirculation. Anesth Analg 1997;85:75-81.
+ 5. American Society of Anesthesiologists. New classifi-       21. Hurley RJ, Feldman HS, Latka C, Arthur GR, Covino
+    cation of physical status. Anesthesiology 1963;24:111-         BG. The effects of epinephrine on the anesthetic and
+    116.                                                           hemodynamic properties of ropivacaine and bupiva-
+ 6. Buttner J, Klose R. Alkalinization of mepivacaine for          caine after epidural administration in the dog. Reg
+    axillary plexus anesthesia using a catheter. Reg An-           Anesth 1991;16:303-308.
+    aesth 1991;14:17-24.                                       22. Cederholm I, Anskar S, Bengtsson M. Sensory block
+ 7. Bromage PR. A comparison of the hydrochloride and              during epidural analgesia with 0.5% and 0.75% ropi-
+    carbon dioxide salts of lidocaine and prilocaine in            vacaine with and without epinephrine. Reg Anesth
+    epidural analgesia. Acta Anaesthesiol Scand 1965;16:           1994;19:18-33.
+    55-69.                                                     23. Bonhomme L, Benhamou D, Comoy E, Preaux N.
+ 8. Ikuta PT, Raza SM, Durrani Z, Vasireddy AR, Winnie             Stability of epinephrine in alkalinized solutions. Ann
+    AP, Masters RW. pH adjustment schedule for the                 Emerg Med 1990;19:1242-1244.
+    amide local anesthetics. Reg Anesth 1989;14:229-235.       24. Murakami CS, Odland PB, Ross BK. Buffered local
+ 9. McClure JH. Ropivacaine. Br J Anaesth 1996;76:300-             anesthetics and epinephrine degradation. J Dermatol
+    307.                                                           Surg Oncol 1994;20:192-195.
+10. Leisure GS, Difazio CA. Ropivacaine: The new local         25. Capogna G, Celleno D, Laudano D, Giunta F. Alka-
+    anesthetic. Semin Anesthesia 1996;15:1-9.                      linization of local anesthetics. Which block, which
+11. Fulling PD, Peterfreund RA. Alkalinization and pre-            local anesthetic? Reg Anesth 1995;20:369-377.
+    cipitation characteristics of 0.2% ropivacaine. Reg        26. Siler JN, Rosenberg H. Lidocaine hydrochloride ver-
+    Anesth Pain Med 2000;25:518-521.                               sus lidocaine bicarbonate for epidural anesthesia in
+12. Galindo A. pH—Adjusted local anesthetics clinical              outpatients undergoing arthroscopic surgery. J Clin
+    experience. Reg Anesth 1983;8:35-36.                           Anesth 1990;2:296-300.
+

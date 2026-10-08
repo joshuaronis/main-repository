@@ -1,0 +1,122 @@
+[
+ {
+  "line": 80,
+  "heading": "Does raising the strength help?",
+  "sentence": "Against that, the same two authors, writing two years later, describe their own 1976 result as showing that a duration-rises-with-concentration relationship \"has not been observed at higher concentrations of racemic bupivacaine and other local anaesthetics.\" The full text could not be read through any route available here, so the two statements cannot be reconciled from the source.",
+  "dose_flag": false
+ },
+ {
+  "line": 80,
+  "heading": "Does raising the strength help?",
+  "sentence": "The honest reading is that the concentration–duration curve in skin is flat over most of the range with a possible step at 0.5 percent, and that the size of that step is unknown.",
+  "dose_flag": false
+ },
+ {
+  "line": 84,
+  "heading": "Does raising the strength help?",
+  "sentence": "Buying the 0.75 percent bottle costs more and, in skin, delivers a more irritant solution for no measured gain.",
+  "dose_flag": false
+ },
+ {
+  "line": 153,
+  "heading": "The toxicity paradox",
+  "sentence": "A spinal anesthetic measures what a dose does to a whole person over a day, in a tissue — bare nerve roots in cerebrospinal fluid — that is nothing like dermis. **Neither of them is skin, and nobody has measured damage in skin from an injected anesthetic**; the one skin measurement is of lidocaine patches, which lowered epidermal nerve fiber density in healthy volunteers after 42 days (Wehrfritz et al., 2011, PMID 21530339).",
+  "dose_flag": false
+ },
+ {
+  "line": 168,
+  "heading": "The sting, and the two things that reduce it",
+  "sentence": "**So among the three agents that trial tested, bupivacaine is in the middle on pain.** It is not the most painful, and the study cannot say whether it is the most painful of the seven agents on the comparison page, because it did not test the other four.",
+  "dose_flag": false
+ },
+ {
+  "line": 220,
+  "heading": "The sting, and the two things that reduce it",
+  "sentence": "Warming is free, carries no precipitation risk, produces the larger reduction, and is the only one of the two that also helps with bupivacaine's slow onset.",
+  "dose_flag": false
+ },
+ {
+  "line": 348,
+  "heading": "What to buy in Mexico, and how to make the solution",
+  "sentence": "Either brand is the same drug at the same strength in the same presentation; **Vaprinext** exists and is worth naming, because if PiSA's line is out of stock the market has not run dry.",
+  "dose_flag": false
+ },
+ {
+  "line": 350,
+  "heading": "What to buy in Mexico, and how to make the solution",
+  "sentence": "**Do not buy the 0.75 percent.** It costs more, it is more irritant in skin on Aps and Reynolds's own reading, and it has never been shown to last longer than 0.5 percent intradermally.",
+  "dose_flag": false
+ },
+ {
+  "line": 352,
+  "heading": "What to buy in Mexico, and how to make the solution",
+  "sentence": "The glucose has no place in dermis and there is no reason to pay for it.",
+  "dose_flag": false
+ },
+ {
+  "line": 360,
+  "heading": "What is still unknown",
+  "sentence": "**Whether 0.5 percent really outlasts 0.25 percent in skin.** The abstract of the one study that tested three strengths says it does; the same authors' later description of their own work says there is no concentration–duration relationship at higher strengths.",
+  "dose_flag": false
+ },
+ {
+  "line": 364,
+  "heading": "What is still unknown",
+  "sentence": "It has not been done for any drug.",
+  "dose_flag": false
+ },
+ {
+  "line": 365,
+  "heading": "What is still unknown",
+  "sentence": "**Whether repeated bupivacaine over months changes skin that has already lost fibers.** Unstudied, as it is for every drug in this group.",
+  "dose_flag": false
+ },
+ {
+  "line": 376,
+  "heading": "Duration in skin",
+  "sentence": "Limits: every arm contained epinephrine, so there is no plain comparator in it; healthy volunteers; the volume per injection was not recoverable.",
+  "dose_flag": false
+ },
+ {
+  "line": 377,
+  "heading": "Duration in skin",
+  "sentence": "Its own flowmetry showing vasoconstriction gone by 30 minutes while analgesia continues is consistent with the observation that blanching and numbness do not run on the same clock.",
+  "dose_flag": false
+ },
+ {
+  "line": 384,
+  "heading": "Nerve tissue",
+  "sentence": "Limits: spinal anesthesia only, which says nothing directly about intradermal safety; transient neurologic symptoms are a syndrome with normal neurophysiology, not demonstrated nerve injury; **the 1.1 percent is a crude incidence among bupivacaine recipients, not 1.1 percent of 2,813 and not the meta-analytic estimate**; too few trials existed for tetracaine, procaine and ropivacaine to conclude anything about them, so ropivacaine has no human number here at all; published in German.",
+  "dose_flag": false
+ },
+ {
+  "line": 384,
+  "heading": "Nerve tissue",
+  "sentence": "Standing: 55 citing publications, 27 classified statements — 3 supporting, 0 contrasting. **Two notices are attached**: an erratum, *Der Anaesthesist* 2002;51(8):633 (DOI 10.1007/s00101-002-0388-4, August 2002), paywalled and not read, so what it corrects is unknown; and a comment (DOI 10.1007/s00101-002-0421-7, December 2002).",
+  "dose_flag": false
+ },
+ {
+  "line": 402,
+  "heading": "The dose ceiling",
+  "sentence": "Limits: the label states no different maximum when epinephrine is added; the 1,000 mg is a per-treatment total across all routes and is the wrong denominator for an infiltration regimen; the range is printed with no derivation and no study is cited for either end of it.",
+  "dose_flag": true
+ },
+ {
+  "line": 407,
+  "heading": "Mexican availability",
+  "sentence": "Limits: manufacturer-supplied monographs; no retail price or stock information for any of the three, and none was found in the online pharmacies checked, so their practical availability is unknown.",
+  "dose_flag": false
+ },
+ {
+  "line": 409,
+  "heading": "Mexican availability",
+  "sentence": "Limits: an online pharmacy; several prices are marked as discounted from a higher list figure; the page carries a general statement that some bupivacaine products are prescription-only rather than a per-product one; registro numbers are not published on the listings.",
+  "dose_flag": false
+ },
+ {
+  "line": 413,
+  "heading": "What has no source",
+  "sentence": "**The claim that bupivacaine is the most painful to inject of the seven agents on the comparison page.** No study has compared all seven for injection pain intradermally, and the one that is cited for the claim found etidocaine worse.",
+  "dose_flag": false
+ }
+]
