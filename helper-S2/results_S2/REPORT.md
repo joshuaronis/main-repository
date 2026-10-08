@@ -12,6 +12,7 @@ All 15 papers in the S2 packet are the papers requested, and each was read in fu
 | Verdicts still uncertain | D067 (refuted, uncertain); D033, D020, D026, D032 (narrowed, uncertain) |
 | Extra studies | 68, each with a PMID |
 | Notion findings | 103 on 33 pages: 13 high, 36 medium, 54 low; 11 of them on the three wheal pages S1 tests |
+| Notion re-check | Every page carrying a finding was fetched again after merging: all 33 pages are at the version recorded in their findings, none was truncated, and all 103 finding sentences are on their pages |
 | Quote check (`common/tools/quotecheck.py`) | 66 of 66 claim-update quotes and 103 of 103 finding quotes found; 62 of 62 abstract quotes in `extra_studies.json` found (6 entries have no abstract to quote) |
 
 Notion findings by kind and importance:
@@ -113,6 +114,8 @@ Notion findings by kind and importance:
   - Wang 2011: Figure 1's panel letters B and C are swapped against its legend.
   - Effendy 2015: the sampling days differ between Methods and Results.
   - Baroni 2013: reference errors.
+
+**Noticed outside this job's scope.** The Ropiconest (higher strength) row for Vitau (https://app.notion.com/p/3e010b7903aa81a5ac8fc0ebfff97715) contradicts itself: its Why property records the listing showing a cart and in stock on 2026-09-27, while its Verdict, Checklist and "what would change this" sections still describe it as unavailable with a stock conflict unresolved.
 
 **Claims not tested: dose or toxicity subject** (counted, text not written out; each was skipped by every worker whose paper touched it):
 - Safe Doses Of Intradermal Analgesics: 1 claim not tested: dose or toxicity subject (D073).
