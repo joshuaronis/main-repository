@@ -68,5 +68,53 @@
    "What transfers…",
    "Menthol Formulations & Science"
   ]
+ },
+ {
+  "paper_id": "S-686-11",
+  "notion_searches": [
+   "Hart 2004 acetyl-L-carnitine HIV neuropathy skin biopsy",
+   "15238773",
+   "acetyl-L-carnitine nerve regeneration pain grade"
+  ],
+  "pages_fetched": [
+   {
+    "page": "L-Carnitine",
+    "url": "https://app.notion.com/p/31b10b7903aa80618faec4f0b789ea58",
+    "as_of": "2026-09-09T08:52:32.373Z"
+   },
+   {
+    "page": "ALCAR (Acetyl-L-carnitine) — Dose, Form and Timing",
+    "url": "https://app.notion.com/p/3d610b7903aa8170897bf57b9fa40994",
+    "as_of": "2026-09-24T03:19:33.674Z"
+   },
+   {
+    "page": "NOW Foods Acetyl-L-Carnitine 500 mg",
+    "url": "https://app.notion.com/p/3b910b7903aa81f59897e0a450ca673c",
+    "as_of": "2026-10-01T12:30:59.449Z"
+   },
+   {
+    "page": "Alternative Treatments For Growing Back Nerves In SFN",
+    "url": "https://app.notion.com/p/1d410b7903aa80b684fce440ab72ee3d",
+    "as_of": "2026-09-26T18:25:56.958Z"
+   },
+   {
+    "page": "Why a before-and-after skin biopsy cannot tell you whether a treatment worked",
+    "url": "https://app.notion.com/p/3d410b7903aa81148e18db7732af99c9",
+    "as_of": "2026-09-22T09:09:40.530Z"
+   },
+   {
+    "page": "Reference, Product Guide, unsettled, searched-for-and-absent, what-transfers (cached copies from S-686-46)",
+    "url": "",
+    "as_of": "see S-686-46"
+   }
+  ],
+  "method": "Full text of each page searched for Hart, 15238773, acetyl-L-carnitine/ALCAR/carnitine, skin biopsy and neuropathic grade; every passage around each hit read.",
+  "no_mention_found_on": [
+   "Why a before-and-after skin biopsy… (no ALC)",
+   "What is still unsettled",
+   "What was searched for and does not exist",
+   "Product Guide (ALC passage does not discuss skin biopsies)",
+   "Growing Back Nerves page cites neither Hart nor Valcour (A020–A022 cover it)"
+  ]
  }
 ]

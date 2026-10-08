@@ -50,5 +50,57 @@
   "page": 0,
   "proposed_wording": "That menthol at [dose figure omitted] is safe or unsafe specifically in a cold-hyperalgesic phenotype. No trial or series has phenotyped patients before treating them with it; one case report (Davies 2002) used quantitative sensory testing to class a patient with postherpetic neuralgia as an 'irritable nociceptor' type before treating her with peppermint oil, which contains menthol, and reports no cold-hyperalgesia subgroup or result.",
   "reason": "Found in Petramfar 2016's reference list (ref 29). Davies 2002 is a single case in postherpetic neuralgia: QST phenotyping came first and led the authors to treat with neat peppermint oil containing menthol, with pain relief and one minor side effect over 2 months. It matches 'phenotyped before treating', a neuropathic population and a menthol concentration inside the claim's range. It misses the cold-hyperalgesic subgroup (the phenotype named is 'irritable nociceptor') and the trial-or-series design, so the safety question stays open, but 'Nobody has phenotyped patients before treating them with it' is too broad. Page 0 = abstract."
+ },
+ {
+  "claim_id": "A022",
+  "paper_id": "S-686-11",
+  "pmid": "15238773",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "an observational cohort of 21 patients with established ATN (grade 0–4/4 by analgesic requirement, where 0 is asymptomatic, 1 is ATN but no analgesia required, 2 is ATN requiring non-opioid analgesics, 3 is opioid analgesics required, and 4 is pain uncontrolled by opioid analgesia) … Clinical grade of neuropathic pain improved in 15 of 21 patients overall",
+  "page": 2,
+  "proposed_wording": "No controlled trial of acetyl-L-carnitine has shown a structural and a pain benefit at the same dose. The one study in which both moved was an uncontrolled 21-patient HIV-neuropathy cohort (Hart 2004), and its symptom measure was a 0–4 grade set by analgesic requirement, not a pain score: it improved in 15 of 21 patients, with no statistical test reported and no analysis linking it to the skin results.",
+  "reason": "Answer to the open question: pain was not measured on any pain scale. The 'neuropathic grade' is a 0–4 grade by analgesic requirement (p. 2). It improved in 15 of 21, was unchanged in 5 and worsened in 1 (p. 6; the abstract's '76% … 19%' does not match these counts). No test of the grade change and no correlation with the immunostaining results are reported, and skin was re-biopsied in only 16 at six months. The authors themselves say a randomised trial with a validated VAS is needed (p. 10). So Hart shows a structural signal and a crude analgesic-requirement signal together, uncontrolled. Within acetyl-L-carnitine the claim holds for controlled trials only, and the narrowing for the capsaicin patch trial outside ALC stands."
+ },
+ {
+  "claim_id": "A020",
+  "paper_id": "S-686-11",
+  "pmid": "15238773",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Highly significant increases occurred in both epidermal (mean 100%; P = 0.006) and dermal (mean 133%; P < 0.0001) innervation after 6 months of ALCAR treatment",
+  "page": 7,
+  "proposed_wording": "Its only controlled structural results are sural myelinated fibre morphometry. Skin biopsies have been taken only in two uncontrolled HIV-neuropathy cohorts at twice the daily dose of the page's biopsy trial: one reported a rise in the immunostained area of small sensory (CGRP) fibres in epidermis and dermis (Hart 2004, 21 patients, 16 re-biopsied at six months), the other found no change in intraepidermal fibre counts (Valcour 2009, 21 patients). No controlled study has shown it touches the fibre type that burns.",
+  "reason": "The full text confirms the refutation and sharpens it. The small-fibre result is CGRP immunostaining area in the epidermis and dermis (C and A-delta sensory fibres; p. 3, p. 7), not a fibre count. It rests on 16 patients biopsied at six months against 5 HIV-negative reference volunteers, with no control arm. 'Every structural result is sural myelinated morphometry' is false; 'never shown to touch the fibre type that burns' holds only for controlled evidence."
+ },
+ {
+  "claim_id": "A021",
+  "paper_id": "S-686-11",
+  "pmid": "15238773",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "While there was no placebo arm to this study, the natural history of untreated DSP suggests that the continuous and long-term beneficial effects found in this patient cohort resulted from ALCAR treatment.",
+  "page": 10,
+  "proposed_wording": "",
+  "reason": "The full text confirms that Hart 2004 is not the study the claim says has never been done. It has no placebo arm, used excision biopsies (an ellipse of skin) rather than punch biopsies, and used 3,000 mg/day, not the 1,500 mg/day trial dose."
+ },
+ {
+  "claim_id": "C076",
+  "paper_id": "S-686-11",
+  "pmid": "15238773",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "fibre counts do not assess the health of surviving fibres, and atrophy or regeneration of fibres needs to be determined by immunostaining area quantification, as used in this study.",
+  "page": 8,
+  "proposed_wording": "Intraepidermal nerve fibre density is the standard objective measure of nerve loss in skin; sweat gland nerve fibre density, dermal fibre diameter, perivascular axon-Schwann ratios and quantified immunostaining area of epidermal, dermal and sweat-gland nerves are others, all requiring a biopsy.",
+  "reason": "One more objective skin measure: Hart 2004 quantified the immunostaining area of PGP 9.5, CGRP and VIP fibres in epidermis, dermis and sweat glands under blinded image analysis, and cites earlier work relating such quantification to clinical neuropathy tests in diabetes and leprosy (refs 32–34). The claim's uniqueness wording stays refuted."
  }
 ]
