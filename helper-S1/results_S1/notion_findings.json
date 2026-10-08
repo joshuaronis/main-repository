@@ -1329,6 +1329,54 @@
  },
  {
   "finding_id": "S1-F084",
+  "paper_id": "S-686-33",
+  "page": "Comparing the injectable local anesthetics for intradermal wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
+  "page_version": "2026-10-02T03:14:02.626Z",
+  "section": "Is duration even the right thing to be optimising?",
+  "sentence_as_it_stands": "It has been tested against a dummy injection once, in neuropathic pain, and it held.",
+  "kind": "open-question-answered",
+  "quote": "The intensity of pain in the lower leg was determined before and at 15 minutes after nerve block using a five grade pain scale",
+  "page_in_paper": 204,
+  "corrected_wording": "Relief outlasting the block has been tested against a dummy injection once in neuropathic pain with adequate power, and it held. Dummy-controlled trials of a local-anaesthetic block in neuropathic pain populations that measure relief only while the block is running are separate from it, among them Tajiri 1998 (PMID 9520891) in lumbar disc herniation, where pain was measured before the block and at fifteen minutes after it with no later follow-up.",
+  "importance": "medium",
+  "notes": "The sentence is right about the durable effect and this paper does not disturb it. The finding is that this paper must not be counted toward it: it is a randomised, double-blind, saline-controlled block in a neuropathic pain population, so it surfaces in a search for one, but its only post-block measurement is inside the block. This is the Notion side of claim D020, which the lead session re-judged from the full text; the page sentence itself needs the word 'adequately powered' or an equivalent qualifier more than it needs this paper.",
+  "worker_finding_id": "S-686-33-F001"
+ },
+ {
+  "finding_id": "S1-F085",
+  "paper_id": "S-686-33",
+  "page": "Relief that outlasts the block — and whether the whole list is optimising the wrong thing",
+  "page_url": "https://app.notion.com/p/3d310b7903aa811cb51bcca149b3de73",
+  "page_version": "2026-10-02T03:14:06.492Z",
+  "section": "The three hypotheses, and what each would have him do (table, hypothesis C)",
+  "sentence_as_it_stands": "C — it is deafferentation long enough to reorganise | What is being optimised: unbroken days without input from the painful area",
+  "kind": "understated",
+  "quote": "However, the finding that nerve block at a site distal to the lesion is effective for pain relief shows that impulses that are transmitted to the periphery may be important in the generation of sciatic radicular pain.",
+  "page_in_paper": 206,
+  "corrected_wording": "C — it is deafferentation long enough to reorganise | What is being optimised: unbroken days without input from the painful area. The premise that peripheral input sustains pain generated more proximally has controlled human support at short timescales: in a randomised, double-blind, saline-controlled trial in lumbar disc herniation, blocking the common peroneal nerve far distal to the root lesion abolished or reduced leg pain in every treated patient while saline did not (Tajiri 1998, PMID 9520891), measured at fifteen minutes and not followed further.",
+  "importance": "medium",
+  "notes": "The hypothesis is presented as resting on mechanism reasoning plus the one six-day infusion trial. A controlled human demonstration of its premise exists and is not cited on the page. It cuts both ways and should be entered with both halves: it shows that removing peripheral input can switch off pain of proximal origin, and it shows nothing about whether that outlasts the block, because the measurement stops inside the block.",
+  "worker_finding_id": "S-686-33-F003"
+ },
+ {
+  "finding_id": "S1-F086",
+  "paper_id": "S-686-33",
+  "page": "What it is & How it works",
+  "page_url": "https://app.notion.com/p/31910b7903aa80aaa903d118c62e73e8",
+  "page_version": "2026-09-13T07:36:07.833Z",
+  "section": "Section 2 — Where procaine acts in this chain",
+  "sentence_as_it_stands": "A local anesthetic injection can silence signaling in the tissue region it actually bathes, but it usually cannot reach every generator of abnormal firing in a distributed small-fiber disorder—so the benefit is often partial, regional, and time-limited, even when the logic is biologically sound.",
+  "kind": "overstated",
+  "quote": "In this study, the fibular head was selected as the site for the block because it is far from the nerve root. Thus, it seems reasonable to assume that the local anesthetic does not reach the lesion after common peroneal nerve block.",
+  "page_in_paper": 206,
+  "corrected_wording": "A local anesthetic injection silences signalling in the tissue region it actually bathes, and whether it must reach the generator of abnormal firing to relieve pain is not settled: in a randomised, double-blind, saline-controlled trial, a block placed far distal to an imaged lumbar root lesion abolished or reduced leg pain in every treated patient and saline did not (Tajiri 1998, PMID 9520891). The benefit measured there was time-limited, because the single post-block assessment was at fifteen minutes.",
+  "importance": "medium",
+  "notes": "The page's account implies that a block helps only to the extent that it reaches the generators of abnormal firing, and draws the practical conclusion that a local injection in a distributed disorder will give partial, regional benefit. A controlled human trial shows that a block placed away from the lesion can relieve pain generated at the lesion, which the account does not allow for. The page is a mechanism explainer and carries a note at the top asking for it to be reworked, so the correction is to the inference rather than to a figure.",
+  "worker_finding_id": "S-686-33-F004"
+ },
+ {
+  "finding_id": "S1-F087",
   "paper_id": "S-686-35",
   "page": "💉 Lidocaine With Epinephrine Wheals",
   "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
@@ -1344,7 +1392,7 @@
   "worker_finding_id": "S-686-35-F001"
  },
  {
-  "finding_id": "S1-F085",
+  "finding_id": "S1-F088",
   "paper_id": "S-686-35",
   "page": "💉 Lidocaine With Epinephrine Wheals",
   "page_url": "https://app.notion.com/p/3c610b7903aa801c906fcde8b5c43674",
@@ -1360,7 +1408,7 @@
   "worker_finding_id": "S-686-35-F004"
  },
  {
-  "finding_id": "S1-F086",
+  "finding_id": "S1-F089",
   "paper_id": "S-686-35",
   "page": "adjuvants-without-a-vasoconstrictor",
   "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
@@ -1376,7 +1424,7 @@
   "worker_finding_id": "S-686-35-F006"
  },
  {
-  "finding_id": "S1-F087",
+  "finding_id": "S1-F090",
   "paper_id": "S-686-35",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1392,7 +1440,7 @@
   "worker_finding_id": "S-686-35-F007"
  },
  {
-  "finding_id": "S1-F088",
+  "finding_id": "S1-F091",
   "paper_id": "S-686-35",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1408,7 +1456,7 @@
   "worker_finding_id": "S-686-35-F008"
  },
  {
-  "finding_id": "S1-F089",
+  "finding_id": "S1-F092",
   "paper_id": "S-686-35",
   "page": "bupivacaine-wheals",
   "page_url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
@@ -1424,7 +1472,7 @@
   "worker_finding_id": "S-686-35-F011"
  },
  {
-  "finding_id": "S1-F090",
+  "finding_id": "S1-F093",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1440,7 +1488,7 @@
   "worker_finding_id": "S-686-39-F002"
  },
  {
-  "finding_id": "S1-F091",
+  "finding_id": "S1-F094",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1456,7 +1504,7 @@
   "worker_finding_id": "S-686-39-F005"
  },
  {
-  "finding_id": "S1-F092",
+  "finding_id": "S1-F095",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1472,7 +1520,7 @@
   "worker_finding_id": "S-686-39-F008"
  },
  {
-  "finding_id": "S1-F093",
+  "finding_id": "S1-F096",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1488,7 +1536,7 @@
   "worker_finding_id": "S-686-39-F009"
  },
  {
-  "finding_id": "S1-F094",
+  "finding_id": "S1-F097",
   "paper_id": "S-686-39",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -1504,7 +1552,7 @@
   "worker_finding_id": "S-686-39-F011"
  },
  {
-  "finding_id": "S1-F095",
+  "finding_id": "S1-F098",
   "paper_id": "S-686-39",
   "page": "What is still unsettled across these pages, and what would settle each one",
   "page_url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
@@ -1520,7 +1568,7 @@
   "worker_finding_id": "S-686-39-F012"
  },
  {
-  "finding_id": "S1-F096",
+  "finding_id": "S1-F099",
   "paper_id": "S-686-39",
   "page": "adjuvants-without-a-vasoconstrictor",
   "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
@@ -1536,7 +1584,7 @@
   "worker_finding_id": "S-686-39-F016"
  },
  {
-  "finding_id": "S1-F097",
+  "finding_id": "S1-F100",
   "paper_id": "S-686-39",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1552,7 +1600,7 @@
   "worker_finding_id": "S-686-39-F017"
  },
  {
-  "finding_id": "S1-F098",
+  "finding_id": "S1-F101",
   "paper_id": "S-686-04",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1568,7 +1616,7 @@
   "worker_finding_id": "S-686-04-F004"
  },
  {
-  "finding_id": "S1-F099",
+  "finding_id": "S1-F102",
   "paper_id": "S-686-04",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1584,7 +1632,7 @@
   "worker_finding_id": "S-686-04-F005"
  },
  {
-  "finding_id": "S1-F100",
+  "finding_id": "S1-F103",
   "paper_id": "S-686-20",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1600,7 +1648,7 @@
   "worker_finding_id": "S-686-20-F003"
  },
  {
-  "finding_id": "S1-F101",
+  "finding_id": "S1-F104",
   "paper_id": "S-686-20",
   "page": "prilocaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8159a5d9e4447ec15409",
@@ -1616,7 +1664,7 @@
   "worker_finding_id": "S-686-20-F012"
  },
  {
-  "finding_id": "S1-F102",
+  "finding_id": "S1-F105",
   "paper_id": "S-686-24",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1632,7 +1680,7 @@
   "worker_finding_id": "S-686-24-F002"
  },
  {
-  "finding_id": "S1-F103",
+  "finding_id": "S1-F106",
   "paper_id": "S-686-24",
   "page": "mepivacaine-wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
@@ -1648,7 +1696,7 @@
   "worker_finding_id": "S-686-24-F006"
  },
  {
-  "finding_id": "S1-F104",
+  "finding_id": "S1-F107",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1664,7 +1712,7 @@
   "worker_finding_id": "S-686-25-F002"
  },
  {
-  "finding_id": "S1-F105",
+  "finding_id": "S1-F108",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1680,7 +1728,7 @@
   "worker_finding_id": "S-686-25-F014"
  },
  {
-  "finding_id": "S1-F106",
+  "finding_id": "S1-F109",
   "paper_id": "S-686-25",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1696,7 +1744,7 @@
   "worker_finding_id": "S-686-25-F015"
  },
  {
-  "finding_id": "S1-F107",
+  "finding_id": "S1-F110",
   "paper_id": "S-686-28",
   "page": "Comparing the injectable local anesthetics for intradermal wheals",
   "page_url": "https://app.notion.com/p/3c510b7903aa81208d4fe305e7cb069b",
@@ -1712,7 +1760,7 @@
   "worker_finding_id": "S-686-28-F002"
  },
  {
-  "finding_id": "S1-F108",
+  "finding_id": "S1-F111",
   "paper_id": "S-686-28",
   "page": "Ropivacaine Wheals",
   "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
@@ -1728,7 +1776,23 @@
   "worker_finding_id": "S-686-28-F005"
  },
  {
-  "finding_id": "S1-F109",
+  "finding_id": "S1-F112",
+  "paper_id": "S-686-33",
+  "page": "Relief that outlasts the block — and whether the whole list is optimising the wrong thing",
+  "page_url": "https://app.notion.com/p/3d310b7903aa811cb51bcca149b3de73",
+  "page_version": "2026-10-02T03:14:06.492Z",
+  "section": "The one place this has been tested against a dummy (section heading)",
+  "sentence_as_it_stands": "The one place this has been tested against a dummy",
+  "kind": "overstated",
+  "quote": "The patients were divided randomly into lidocaine and placebo groups after enrollment.",
+  "page_in_paper": 204,
+  "corrected_wording": "The one place the durable effect has been tested against a dummy",
+  "importance": "low",
+  "notes": "As a standalone heading the sentence reads wider than the section it introduces, and the body scopes it correctly to the durable effect. Blocks of injected local anaesthetic have been tested against a dummy injection in neuropathic pain populations elsewhere, Tajiri 1998 (PMID 9520891) among them, at endpoints inside the block. Low importance because the body already carries the scope; the heading is the only thing that overreaches.",
+  "worker_finding_id": "S-686-33-F002"
+ },
+ {
+  "finding_id": "S1-F113",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",
@@ -1744,7 +1808,7 @@
   "worker_finding_id": "S-686-39-F006"
  },
  {
-  "finding_id": "S1-F110",
+  "finding_id": "S1-F114",
   "paper_id": "S-686-39",
   "page": "🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned",
   "page_url": "https://app.notion.com/p/3d410b7903aa8107a042d4e7f6540c1a",

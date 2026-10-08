@@ -9,8 +9,8 @@
   - left uncertain: 1
   - **7 further claims counted but not written out**, because their subject is a dose ceiling, a toxicity threshold, or how to mix, buffer or dilute a solution: Ropivacaine Wheals 3; mepivacaine-wheals 1; bupivacaine-wheals 3
 - **Extra studies recorded: 55**, found through the papers' reference lists and discussions.
-- **Notion findings: 110** — **38 high**, **59 medium**, **13 low**.
-  - by kind: 25 overstated, 22 understated, 17 now-verified, 14 open-question-answered, 11 outdated, 10 wrong-figure, 8 ranking-reweigh, 2 citation-error, 1 wrong-design
+- **Notion findings: 114** — **38 high**, **62 medium**, **14 low**.
+  - by kind: 27 overstated, 23 understated, 17 now-verified, 15 open-question-answered, 11 outdated, 10 wrong-figure, 8 ranking-reweigh, 2 citation-error, 1 wrong-design
 
 ### The three wheal pages
 
@@ -31,7 +31,7 @@
 - **S-686-25 — Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent: aptocaine. Br J Anaesth 1976;48:347-354** · own question: yes · 14 claims re-judged, 5 changed · 15 Notion findings.
 - **S-686-28 — Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253** · own question: yes · 5 claims re-judged, 2 changed · 9 Notion findings.
 - **S-686-31 — Swerdlow M, Jones R. The duration of action of bupivacaine, prilocaine and lignocaine. Br J Anaesth 1970;42:335-339** · own question: yes · 11 claims re-judged, 4 changed · 13 Notion findings.
-- **S-686-33 — Tajiri K, Takahashi K, Ikeda K, Tomita K. Common Peroneal Nerve Block for Sciatica. Clin Orthop Relat Res 1998;347:203-207** · own question: yes · 1 claims re-judged · 0 Notion findings.
+- **S-686-33 — Tajiri K, Takahashi K, Ikeda K, Tomita K. Common Peroneal Nerve Block for Sciatica. Clin Orthop Relat Res 1998;347:203-207** · own question: yes · 1 claims re-judged · 4 Notion findings.
 - **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: yes · 5 claims re-judged, 2 changed · 11 Notion findings.
 - **S-686-39 — Wightman MA, Vaughan RW. Comparison of Compounds Used for Intradermal Anesthesia. Anesthesiology 1976;45(6):687-689** · own question: yes · 2 claims re-judged, 1 changed · 17 Notion findings.
 - **S-686-40 — Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011** · own question: ? · 15 claims re-judged, 5 changed · 0 Notion findings.
