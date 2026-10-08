@@ -122,7 +122,7 @@
  {
   "finding_id": "S-686-35-F009",
   "paper_id": "S-686-35",
-  "page": "PiSA Lidocaína/Epinefrina 2% – 0.001% (1:100,000), dental cartridge 1.8 mL (Mexico)",
+  "page": "PiSA Lidocaína/Epinefrina [dose figure omitted], dental cartridge [dose figure omitted] (Mexico)",
   "page_url": "https://app.notion.com/p/3e010b7903aa81059294ec5f6c29f711",
   "page_version": "2026-09-27T10:59:06.263Z",
   "section": "Verdict; and the Why and Why For Purpose properties",
@@ -132,12 +132,12 @@
   "page_in_paper": 724,
   "corrected_wording": "Needs More Research, and Kinda for the purpose: no wheal study with a pain outcome in a neuropathic condition used an anaesthetic with epinephrine, so its evidence for the purpose is only indirect, from one uncontrolled study of plain lidocaine. Intradermal wheal studies of lidocaine with epinephrine do exist, with sensory rather than pain endpoints in healthy volunteers: Todd 1992 (PMID 1590615), at this product's epinephrine strength, Christoph 1988 (PMID 2827545), and Collins 2013 (PMID 24431939).",
   "importance": "high",
-  "notes": "As written the sentence is a design claim about the literature and it is wrong: Todd 1992 is an intradermal wheal study of lidocaine with epinephrine at exactly this product's epinephrine strength. The row's own 'What would change this' already states the correct scope — 'a wheal study of an epinephrine-containing anaesthetic with a pain outcome, in any neuropathic pain condition' — so the fix is to carry that scope into the Verdict and the Why. The record also already holds Collins 2013 as an intradermal study with epinephrine on its Lidocaine With Epinephrine Wheals page, so the two documents contradict each other independently of Todd. The sentence is the stated ground of this row's Decision and Met Intended Purpose, which is why this is marked high."
+  "notes": "As written the sentence is a design claim about the literature and it is wrong: Todd 1992 is an intradermal wheal study of lidocaine with epinephrine at exactly this product's epinephrine strength. The row's own 'What would change this' already states the correct scope — 'a wheal study of an epinephrine-containing anaesthetic with a pain outcome, in any neuropathic pain condition' — so the fix is to carry that scope into the Verdict and the Why. The record also already holds Collins 2013 as an intradermal study with epinephrine on its Lidocaine With Epinephrine Wheals page, so the two documents contradict each other independently of Todd. The sentence is the stated ground of this row's Decision and Met Intended Purpose, which is why this is marked high. Product strengths and container volumes are omitted from the page title above; page_url identifies the row exactly."
  },
  {
   "finding_id": "S-686-35-F010",
   "paper_id": "S-686-35",
-  "page": "Newtheek (New Stetic) lidocaína 2 % con epinefrina 1:100,000, 50 glass cartridges × 1.8 mL — Tu Depósito Dental (Mexico)",
+  "page": "Newtheek (New Stetic) lidocaína con epinefrina [dose figure omitted], 50 glass cartridges × [dose figure omitted] — Tu Depósito Dental (Mexico)",
   "page_url": "https://app.notion.com/p/3e810b7903aa81e0bb6bd09d27b3356e",
   "page_version": "2026-09-27T10:50:53.047Z",
   "section": "Verdict; Why; Why For Purpose",
@@ -147,7 +147,7 @@
   "page_in_paper": 724,
   "corrected_wording": "Kinda, as on the product's other rows: right drug and route, and the evidence for the purpose is only indirect — no wheal study with a pain outcome used an epinephrine-containing solution, and the one wheal protocol with a pain outcome, in notalgia paresthetica, used plain lidocaine and was uncontrolled (Mülkoğlu 2020, PMID 32416719). Wheal studies of an epinephrine-containing solution with sensory endpoints in healthy volunteers exist, including one at this product's epinephrine strength (Todd 1992, PMID 1590615).",
   "importance": "high",
-  "notes": "Here the clause is a standalone conjunct rather than scoped by the Mülkoğlu clause, so it reads as an unrestricted claim. The same sentence appears on at least thirteen further product rows that a Notion search returned: Lidocaína FD Zeyco (several seller rows: Odontodo, Dentiprime Supply, Gómez Farías, Dental Shop glass and plastic, Dentalmex, Tu Depósito Dental), Lidocaína FD 2% con epinefrina, Anestésico lidocaína 2% FD Zeyco, Newtheek at Gómez Farías and at Paradentum, Pisacaina 2% con epinefrina 1:200,000 at Farmacia La Paz, and Pisacaína 2% con epinefrina 1:200,000 at Curitek. I read only this row and the PiSA row in full; the others are search-indicated and should be checked before being changed. Because they repeat one sentence, one correction applies to all of them."
+  "notes": "Here the clause is a standalone conjunct rather than scoped by the Mülkoğlu clause, so it reads as an unrestricted claim. The same sentence appears on at least thirteen further product rows that a Notion search returned: Lidocaína FD Zeyco (several seller rows: Odontodo, Dentiprime Supply, Gómez Farías, Dental Shop glass and plastic, Dentalmex, Tu Depósito Dental), Lidocaína FD con epinefrina, Anestésico lidocaína FD Zeyco, Newtheek at Gómez Farías and at Paradentum, Pisacaina con epinefrina at Farmacia La Paz, and Pisacaína con epinefrina at Curitek (strengths and pack sizes omitted; the page_url of each row identifies it exactly). I read only this row and the PiSA row in full; the others are search-indicated and should be checked before being changed. Because they repeat one sentence, one correction applies to all of them."
  },
  {
   "finding_id": "S-686-35-F011",
