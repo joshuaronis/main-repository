@@ -1,0 +1,92 @@
+[
+ {
+  "page": "bupivacaine-wheals",
+  "url": "https://app.notion.com/p/3d310b7903aa81469517da5f7c05e37d",
+  "as_of": "2026-10-02T03:14:18.695Z",
+  "fetched": "2026-10-08 (read-only)",
+  "claims_tested": 8,
+  "claims_extracted": 8,
+  "claims_not_yet_tested": 0,
+  "claims_skipped_dose_or_toxicity_subject": 3,
+  "skipped_detail": [
+   {
+    "line": 402,
+    "section": "The dose ceiling",
+    "reason": "dose ceiling"
+   },
+   {
+    "line": 363,
+    "section": "What is still unknown",
+    "reason": "lethal-concentration figure (toxicity threshold)"
+   },
+   {
+    "line": 414,
+    "section": "What has no source",
+    "reason": "lethal-concentration figure (toxicity threshold)"
+   }
+  ],
+  "verdicts": {
+   "refuted": 2,
+   "confirmed": 5,
+   "narrowed": 1
+  },
+  "uncertain": 0
+ },
+ {
+  "page": "mepivacaine-wheals",
+  "url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+  "as_of": "2026-10-02T03:14:08.315Z",
+  "fetched": "2026-10-08 (read-only)",
+  "claims_tested": 10,
+  "claims_extracted": 10,
+  "claims_not_yet_tested": 0,
+  "claims_skipped_dose_or_toxicity_subject": 1,
+  "skipped_detail": [
+   {
+    "line": 186,
+    "section": "What has no source",
+    "reason": "sterility of a dilution procedure"
+   }
+  ],
+  "verdicts": {
+   "refuted": 2,
+   "narrowed": 4,
+   "confirmed": 4
+  },
+  "uncertain": 2
+ },
+ {
+  "page": "Ropivacaine Wheals",
+  "url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "as_of": "2026-10-02T03:14:26.511Z",
+  "fetched": "2026-10-08 (read-only)",
+  "claims_tested": 24,
+  "claims_extracted": 31,
+  "claims_not_yet_tested": 7,
+  "claims_skipped_dose_or_toxicity_subject": 3,
+  "skipped_detail": [
+   {
+    "line": 2024,
+    "section": "9.3 pH decides the outcome of a mixture",
+    "reason": "solution preparation / pH of mixtures"
+   },
+   {
+    "line": 2528,
+    "section": "10.5 What argues against, honestly",
+    "reason": "dilution of an ampoule"
+   },
+   {
+    "line": 2656,
+    "section": "11.2 Dilution arithmetic",
+    "reason": "mixing and dilution"
+   }
+  ],
+  "verdicts": {
+   "confirmed": 8,
+   "narrowed": 9,
+   "out-of-scope": 1,
+   "refuted": 6
+  },
+  "uncertain": 2
+ }
+]
