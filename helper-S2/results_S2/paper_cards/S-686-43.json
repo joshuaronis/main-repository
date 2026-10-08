@@ -1,0 +1,236 @@
+{
+ "paper_id": "S-686-43",
+ "citation": "Flondell M, Rosén B, Andersson G, Björkman A. Carpal tunnel syndrome treated with guided brain plasticity: a randomised, controlled study. J Plast Surg Hand Surg 2017;51(3):159-164 (advance online 12 Jul 2016).",
+ "pmid": "27403887",
+ "doi": "10.1080/2000656X.2016.1205503",
+ "right_paper": true,
+ "text_quality": "ok (born-digital publisher PDF of the advance-online article, same DOI, title and authors as the 2017 issue; PDF page 1 is the publisher cover page and the article is on PDF pages 2-7; Figure 1, the CONSORT flow chart on PDF page 4, is an image and was read from the rendered page; Table 2 read in the layout view)",
+ "design": "Prospective randomised, placebo-cream-controlled, parallel-group trial at one centre. Computer-generated randomisation list (Excel). The two therapists who did all direct assessments and administered the questionnaires, and the neurophysiologist, were blind to treatment; the researcher who randomised the patients and applied and removed the cream (MF) was not. The placebo cream was visually and cosmetically identical to the active cream; the paper does not state that patients were blinded and does not use the words double-blind. Planned sample 66 (90% power, 5% significance) to detect a difference of 0.8 (SD 1.0) in the BCTQ symptom severity scale. Analysis: t-tests of change from baseline between groups, and within groups with a Bonferroni-corrected threshold (p < 0.004).",
+ "population": "70 adults with clinically and electroneurography-verified carpal tunnel syndrome (symptoms for more than 3 months, clinical signs, fractionated sensory conduction velocity across the wrist of 40 m/s or less), referred to the Department of Hand Surgery, Skåne University Hospital, Malmö, 2009-2015; 16 men and 54 women, mean age 49 (SD 9). Excluded: rheumatoid arthritis, diabetes, neurological disease, multiple systemic disease, vibration-induced neuropathy, complete conduction block, allergy to local anaesthetics. Patients were not selected or characterised by pain, and baseline pain is not reported. Most had normal hand sensibility at baseline (abnormal touch threshold in 9 of 70, two-point discrimination over 5 mm in 2 of 70); median conduction velocity across the carpal tunnel 31 m/s.",
+ "n": "Randomised 70: EMLA 34, placebo 36 (305 assessed, 235 excluded). Analysed 68: EMLA 32 (the CONSORT chart records 2 who withdrew after the first treatment because of local discomfort), placebo 36. Surgery status at 12 months reported for 32 and 36.",
+ "setting": "Department of Hand Surgery, Skåne University Hospital, Malmö, Sweden; first application at the hospital (patients observed for adverse events), later applications self-administered at home with sensory re-education.",
+ "intervention": "Lidocaine-prilocaine eutectic cream (EMLA, AstraZeneca) [dose figure omitted], applied to the volar forearm on the side of the carpal tunnel syndrome (the paper's area: 'from the wrist and 15 cm proximal'; in bilateral cases the more symptomatic side), not to the hand or the median-nerve territory, combined in both arms with sensory re-education and advice on using the hand in daily activities. The aim was to deafferent the forearm skin so that more cortical neurons serve the hand (guided plasticity), not analgesia of the symptomatic area. Schedule, as the study did it: three applications in week 1, two a week in weeks 2-6 and one a week in weeks 7-8 (15 applications over 8 weeks), each left on for 90 minutes and then washed off; the first at the hospital, the rest at home.",
+ "comparator": "Placebo cream, visually and cosmetically identical, applied to the same forearm area on the same schedule, with the same sensory re-education.",
+ "route": "Topical, cutaneous, volar forearm (proximal to and outside the painful or numb median-nerve territory of the hand).",
+ "duration": "8-week treatment programme; assessments at baseline, 90 minutes after the first application (sensory tests only) and at 8 weeks; surgery (carpal tunnel release) recorded at 12 months; all participants were offered surgical decompression after the 8 weeks.",
+ "outcomes": "Primary: Boston Carpal Tunnel Questionnaire symptom severity scale (SSS; Levine 1993; mean of 11 items scored 1 best to 5 worst, labelled '0–5' in Table 2) at 8 weeks. The published SSS has 5 pain items (night pain severity, night waking from pain, daytime pain, daytime pain frequency, duration of daytime pain episodes) and 6 items on numbness, tingling, night numbness or tingling, weakness and difficulty grasping small objects; the paper reports only the total score, with no item or pain/numbness subscale breakdown. Secondary: QuickDASH (activity limitation), satisfaction with treatment on a 0-100 VAS, touch threshold (Semmes-Weinstein monofilaments, index finger), two-point discrimination (index finger), sensory electroneurography, carpal tunnel release by 12 months. No pain measure of any kind (no pain VAS or NRS); the word pain appears once, in the introduction.",
+ "key_results": [
+  {
+   "quote": "Seventy patients with clinical and electroneurography-verified CTS were randomised to sensory training combined with either an anaesthetic cream (EMLAV) (n ¼ 34) or a placebo cream (n ¼ 36) on the volar part of the forearm.",
+   "page": 2
+  },
+  {
+   "quote": "The primary outcome was the Boston carpal tunnel questionnaire (BCTQ) symptom severity scale after 8 weeks.",
+   "page": 2
+  },
+  {
+   "quote": "EMLAV or placebo was applied to the volar aspect of the forearm, in an area from the wrist and 15 cm proximal on the same side as the CTS.",
+   "page": 3
+  },
+  {
+   "quote": "After 90 minutes, the cream was washed off.",
+   "page": 3
+  },
+  {
+   "quote": "An 8-week treatment programme ([dose figure omitted]) was used.",
+   "page": 3
+  },
+  {
+   "quote": "Two therapists – who were blind regarding the treatment and who were experienced in assessment of nerve function – carried out all the direct assessments and administered the PROMs.",
+   "page": 3
+  },
+  {
+   "quote": "There was no significant difference in the BCTQ symptom severity scale between the EMLAV group and the placebo group when comparing baseline and 8 weeks (p ¼ 0.78, mean difference ¼ 0.05 units, 95% CI ¼ 0.3–0.4).",
+   "page": 5
+  },
+  {
+   "quote": "The BCTQ symptom severity scale had improved significantly in the EMLAV group after 8 weeks (p ¼ 0.001).",
+   "page": 5
+  },
+  {
+   "quote": "However, in absolute numbers the improvement was 0.5 units in the BCTQ symptom severity scale that goes from 1–5, where 0.8 units is considered a clinically important change [15]. Thus, the improvement may be of limited clinical importance (Table 2).",
+   "page": 5
+  },
+  {
+   "quote": "A reduction of symptoms in the BCTQ symptom severity scale was also seen in the placebo group after 8 weeks, but this difference was not significant. This might be the reason for the lack of a group difference at 8 weeks.",
+   "page": 5
+  },
+  {
+   "quote": "Furthermore, there were no significant differences between the EMLAV group and the placebo group when comparing changes in outcome between baseline and 8 weeks, regarding QuickDASH, SWM, and 2PD.",
+   "page": 5
+  },
+  {
+   "quote": "Mean patient satisfaction after 8 weeks, estimated on a visual analogue scale, was 53 (SD ¼ 28) in the EMLAV group and 40 (SD ¼ 28) in the placebo group. The difference between groups was not statistically significant, however.",
+   "page": 5
+  },
+  {
+   "quote": "ENeG did not show any significant differences after 8 weeks, either within groups or between the two groups (Table 2).",
+   "page": 5
+  },
+  {
+   "quote": "In the present study, patients treated with EMLAV showed an improvement in sensibility after 90 minutes, although this was not significant after correction for multiple comparisons (p ¼ 0.02).",
+   "page": 5
+  },
+  {
+   "quote": "However, repeated treatment with EMLAV did not consolidate the initial improvement in sensibility.",
+   "page": 5
+  },
+  {
+   "quote": "Despite this, 1 year after inclusion in the study, 15 of the 32 patients in the EMLAV group (47%) and 22 of the 36 patients in the placebo group (61%) had chosen a surgical intervention for their CTS.",
+   "page": 5
+  },
+  {
+   "quote": "No treatment-related adverse events were observed in any of the groups.",
+   "page": 5
+  },
+  {
+   "quote": "An 8-week treatment protocol with cutaneous forearm anaesthesia to guide brain plasticity gave no significant subjective or objective improvements in hand function compared to placebo.",
+   "page": 2
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "This study had some shortcomings. Although CTS is relatively common, it was difficult to recruit patients.",
+   "page": 6
+  },
+  {
+   "quote": "The sensory assessments used here could not capture the relief of symptoms experienced by the patients in the EMLAV group. This could indicate that the sensitivity of the test instruments was too low.",
+   "page": 6
+  },
+  {
+   "quote": "This skewed distribution of the data with a ceiling effect, with very few study participants below cut-off for normality in both touch thresholds and discriminative touch at … baseline (Table 2), means that the changes after 8 weeks of treatment could only be very small.",
+   "page": 6
+  },
+  {
+   "quote": "Only nine of the 70 participants had abnormal touch threshold (SWM above filament no. 2.83) at baseline, and only two had 2PD over 5 mm at baseline.",
+   "page": 6
+  },
+  {
+   "quote": "Further studies are needed to identify which patients with CTS may benefit from this treatment. Also, the optimal treatment protocol in terms of timing and duration of treatment would have to be decided on.",
+   "page": 6
+  }
+ ],
+ "funding_conflicts": "Regional Research Fund of Region Skåne, Sweden ('Financial support was received from the Regional Research Fund of Region Skåne, Sweden.', PDF p. 6); 'The authors report no conflicts of interest.' (PDF p. 6). Ethics: Lund University ethical committee (1062–03). Not stated: trial registration. Note: the results say no treatment-related adverse events were observed, while the CONSORT chart records 2 EMLA patients who withdrew after the first treatment because of local discomfort.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Rosén B, Björkman A, Lundborg G. Improved sensory relearning after nerve repair induced by selective temporary anaesthesia - a new concept in hand rehabilitation. J Hand Surg Br 2006;31(2):126-32 (ref 10; the paper prints the volume as 13)",
+   "pmid": "16352379",
+   "why": "Randomised double-blind trial: lidocaine-prilocaine cream or placebo cream applied repeatedly to the flexor forearm of the injured arm over a 2-week period after median or ulnar nerve repair (EMLA n=7, placebo n=6), with sensory re-education; sensory outcomes, no pain endpoint. Bears on D066 (repeated non-daily application in an established neuropathy) and on any claim counting placebo-controlled randomised trials of this cream."
+  },
+  {
+   "citation": "Lundborg G, Björkman A, Rosén B. Enhanced sensory relearning after nerve repair by using repeated forearm anaesthesia: aspects on time dynamics of treatment. Acta Neurochir Suppl 2007;100:121-6 (ref 17)",
+   "pmid": "17985560",
+   "why": "Prospective randomised double-blind study of repeated cutaneous forearm anaesthesia with sensory re-education after median or ulnar nerve repair; tactile gnosis better than placebo up to 4 weeks after the last session, no difference at 8-11 months; appears to report the same programme as Rosén 2006 with longer follow-up. Source of the schedule this trial used. Bears on D066 and D067 (placebo-controlled, no pain endpoint)."
+  },
+  {
+   "citation": "Rosén B, Björkman A, Lundborg G. Improving hand sensibility in vibration induced neuropathy: a case-series. J Occup Med Toxicol 2011;6:13 (ref 12; the paper prints '2011;13:3104948', i.e. article number and PMCID run together)",
+   "pmid": "21524297",
+   "why": "Case series of 9 workers with vibration-induced neuropathy given repeated self-applied forearm anaesthesia with the cream for up to 1 year (2 cases 4 years); sensibility and DASH outcomes, secondary finding of less nocturnal numbness; no pain endpoint. Bears on D066 (long repeated non-daily application in an established neuropathy)."
+  },
+  {
+   "citation": "Björkman A, Rosén B, Lundborg G. Acute improvement of hand sensibility after selective ipsilateral cutaneous forearm anaesthesia. Eur J Neurosci 2004;20(10):2733-6 (ref 11)",
+   "pmid": "15548216",
+   "why": "Single forearm application of the cream versus placebo in 10 + 10 healthy volunteers (indexed as a randomised controlled trial; single-blind in MeSH); tactile discrimination of the same-side hand improved for at least 24 h. The origin of guided plasticity by forearm anaesthesia; healthy volunteers, no pain endpoint."
+  },
+  {
+   "citation": "Björkman A, Weibull A, Rosén B, Svensson J, Lundborg G. Rapid cortical reorganisation and improved sensitivity of the hand following cutaneous anaesthesia of the forearm. Eur J Neurosci 2009;29(4):837-44 (ref 13)",
+   "pmid": "19250441",
+   "why": "fMRI in 10 healthy volunteers: the hand area of the primary somatosensory cortex expanded over the anaesthetised forearm area during forearm anaesthesia with the cream. Mechanism of guided plasticity; healthy volunteers."
+  },
+  {
+   "citation": "Björkman A, Weibull A, Svensson J, et al. Cortical changes in dental technicians exposed to vibrating tools. Neuroreport 2010;21:722-6 (ref 8)",
+   "pmid": "20508542",
+   "why": "Cortical reorganisation in vibration-induced neuropathy; background for guided plasticity in neuropathy."
+  },
+  {
+   "citation": "Rosén B, Lundborg G. Sensory re-education. In: Skirven T, ed. Rehabilitation of the Hand and Upper Extremity. 6th ed. Philadelphia: Elsevier Mosby; 2011:634-45 (ref 16, book chapter)",
+   "pmid": "",
+   "why": "The sensory re-education method given to both arms; sensory relearning topic."
+  },
+  {
+   "citation": "Taylor KS, Anastakis DJ, Davis KD. Cutting your nerve changes your brain. Brain 2009;132:3122-33 (ref 7)",
+   "pmid": "19737843",
+   "why": "Brain changes after peripheral nerve injury; background for sensory relearning and neuropathy-related cortical change."
+  },
+  {
+   "citation": "Duffau H. Brain plasticity: from pathophysiological mechanisms to therapeutic applications. J Clin Neurosci 2006;13:885-97 (ref 9)",
+   "pmid": "17049865",
+   "why": "Review of brain plasticity; background for guided plasticity."
+  },
+  {
+   "citation": "Levine DW, Simmons BP, Koris MJ, et al. A self-administered questionnaire for the assessment of severity of symptoms and functional status in carpal tunnel syndrome. J Bone Joint Surg Am 1993;75(11):1585-92 (ref 18)",
+   "pmid": "8245050",
+   "why": "The Boston Carpal Tunnel Questionnaire, the primary outcome. Its symptom severity scale is the mean of 11 items scored 1 (best) to 5 (worst): 5 pain items (items 1-5) and 6 items on numbness, tingling, night numbness or tingling, weakness and grasping small objects. Decides D067's own question (the SSS contains pain items but is a composite)."
+  },
+  {
+   "citation": "Leite JC, Jerosch-Herold C, Song F. A systematic review of the psychometric properties of the Boston Carpal Tunnel Questionnaire. BMC Musculoskelet Disord 2006;7:78 (ref 15)",
+   "pmid": "17054773",
+   "why": "Psychometrics of the BCTQ; full text: the SSS has 11 questions on a five-point scale scored as the mean of items (1-5); the 0.8 clinically important difference the trial used. Bears on D067 (what the endpoint measures)."
+  },
+  {
+   "citation": "Atroshi I, Flondell M, Hofer M, Ranstam J. Methylprednisolone injections for the carpal tunnel syndrome: a randomized, placebo-controlled trial. Ann Intern Med 2013;159(5):309-17 (ref 14)",
+   "pmid": "24026316",
+   "why": "Randomised placebo-controlled trial of local steroid injection in carpal tunnel syndrome with the SSS as a primary endpoint (Flondell is a co-author); source of the SSS sample-size assumptions. Bears on steroid-injection and carpal tunnel topics; not intradermal."
+  },
+  {
+   "citation": "Schmid AB, Bland JD, Bhat MA, Bennett DL. The relationship of nerve fibre pathology to sensory function in entrapment neuropathy. Brain 2014;137(Pt 12):3186-99 (ref 22)",
+   "pmid": "25348629",
+   "why": "Carpal tunnel syndrome (n=30 vs 26 controls): intraepidermal nerve fibre density reduced in median-territory finger skin, with small- and large-fibre dysfunction on quantitative sensory testing. Bears on small fibre pathology in nerve compression (small fibre neuropathy and nerve-compression topics)."
+  },
+  {
+   "citation": "Tang DT, Barbour JR, Davidge KM, Yee A, Mackinnon SE. Nerve entrapment: update. Plast Reconstr Surg 2015;135(1):199e-215e (ref 23)",
+   "pmid": "25539328",
+   "why": "Review of nerve compression pathophysiology and management (carpal tunnel and cubital tunnel; carpal tunnel release under local anaesthesia among its topics)."
+  },
+  {
+   "citation": "Gerritsen AA, de Krom MC, Struijs MA, et al. Conservative treatment options for carpal tunnel syndrome: a systematic review of randomised controlled trials. J Neurol 2002;249:272-80 (ref 4)",
+   "pmid": "11993525",
+   "why": "Systematic review of 14 RCTs of conservative CTS treatments (steroid injections effective on limited evidence; no topical anaesthetic among the treatments the abstract names). Carpal tunnel topic; what randomised evidence existed for non-surgical CTS treatment."
+  },
+  {
+   "citation": "Ashworth NL. Carpal tunnel syndrome. BMJ Clin Evid 2011:1114 (ref 5, printed as 2010;2011:1114)",
+   "pmid": "22018420",
+   "why": "Evidence overview of CTS treatments; carpal tunnel topic."
+  },
+  {
+   "citation": "Scholten RJ, Mink van der Molen A, Uitdehaag BM, et al. Surgical treatment options for carpal tunnel syndrome. Cochrane Database Syst Rev 2007;(4):CD003905 (ref 6)",
+   "pmid": "17943805",
+   "why": "Surgical CTS treatment; poor outcomes after release in some patients (carpal tunnel topic)."
+  },
+  {
+   "citation": "Katz JN, Simmons BP. Clinical practice. Carpal tunnel syndrome. N Engl J Med 2002;346:1807-12 (ref 21)",
+   "pmid": "12050342",
+   "why": "Clinical review of CTS (carpal tunnel topic)."
+  },
+  {
+   "citation": "Katz JN, Stirrat CR. A self-administered hand diagram for the diagnosis of carpal tunnel syndrome. J Hand Surg Am 1990;15:360-3 (ref 3)",
+   "pmid": "2324471",
+   "why": "CTS symptom diagnosis (cited for 'clinical signs of CTS' and for discomfort and pain in the hand)."
+  },
+  {
+   "citation": "Dale AM, Harris-Adamson C, Rempel D, et al. Prevalence and incidence of carpal tunnel syndrome in US working populations: pooled analysis of six prospective studies. Scand J Work Environ Health 2013;39:495-505 (ref 1)",
+   "pmid": "23423472",
+   "why": "CTS epidemiology (carpal tunnel topic)."
+  },
+  {
+   "citation": "Atroshi I, Gummesson C, Johnsson R, et al. Prevalence of carpal tunnel syndrome in a general population. JAMA 1999;282:153-8 (ref 2)",
+   "pmid": "10411196",
+   "why": "CTS epidemiology (carpal tunnel topic)."
+  },
+  {
+   "citation": "Jerosch-Herold C, Shepstone L, Miller L, Chapman P. The responsiveness of sensibility and strength tests in patients undergoing carpal tunnel decompression. BMC Musculoskelet Disord 2011;12:244 (ref 24)",
+   "pmid": "22032626",
+   "why": "Responsiveness of monofilament and other sensibility tests in CTS (sensory outcome measurement in nerve compression)."
+  },
+  {
+   "citation": "Bell-Krotoski J, Weinstein S, Weinstein C. Testing sensibility, including touch-pressure, two-point discrimination, point localization and vibration. J Hand Ther 1993;6:114-23 (ref 20)",
+   "pmid": "8393725",
+   "why": "Sensibility testing methods used for the secondary outcomes (sensory testing topic)."
+  },
+  {
+   "citation": "Wewers ME, Lowe NK. A critical review of visual analogue scales in the measurement of clinical phenomena. Res Nurs Health 1990;13:227-36 (ref 19)",
+   "pmid": "2197679",
+   "why": "VAS methodology; cited for the satisfaction VAS (the trial's only VAS; no pain VAS was used)."
+  }
+ ]
+}

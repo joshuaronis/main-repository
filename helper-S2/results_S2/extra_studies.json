@@ -439,6 +439,99 @@
   "quote_from_abstract": "At 23 May 2013, The Cochrane Pain, Palliative and Supportive Care Review Group (PaPaS) withdrew this review as the authors were no longer available to complete the update."
  },
  {
+  "pmid": "39545073",
+  "citation": "Flondell M, Mannfolk P, Rosén B, Björkman-Burtscher IM, Björkman A. Cerebral Changes Following Carpal Tunnel Syndrome Treated with Guided Plasticity: A Prospective, Randomized, Placebo-Controlled Study. J Brachial Plex Peripher Nerve Inj 2024;19(1):e31-e41. PMC11563718",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D067",
+   "D066"
+  ],
+  "what_it_shows": "Not cited by Flondell 2017 (it is later); looked up because D067's proposed wording names it. A separate randomised placebo-cream-controlled trial in 24 patients with unilateral carpal tunnel syndrome (EMLA 11, placebo 13 after one randomisation error), same forearm regimen as Flondell 2017 with daily sensory training in both arms. Full text: primary clinical outcome within-group change in two-point discrimination; dexterity, symptom severity scale and QuickDASH secondary; fMRI showed larger primary somatosensory activation after the cream; no between-group difference in any clinical outcome; no pain measure. Corrects D067's proposed wording (the primary outcome was not the symptom severity scale); for D066 it is a further non-daily forearm dataset in an established compression neuropathy.",
+  "quote_from_abstract": "Twenty-four patients with mild-to-moderate unilateral CTS were randomized to treatment with anesthetic cream (EMLA) or placebo."
+ },
+ {
+  "pmid": "8245050",
+  "citation": "Levine DW, Simmons BP, Koris MJ, Daltroy LH, Hohl GG, Fossel AH, Katz JN. A self-administered questionnaire for the assessment of severity of symptoms and functional status in carpal tunnel syndrome. J Bone Joint Surg Am 1993;75(11):1585-92",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D067"
+  ],
+  "what_it_shows": "The paper's ref 18: the Boston Carpal Tunnel Questionnaire. Its symptom severity scale is scored 1 (best) to 5 (worst) as the mean of 11 items, of which items 1-5 concern hand or wrist pain and items 6-11 numbness, weakness, tingling, night numbness or tingling and waking from it, and grasping small objects (item content from the free full texts of Multanen 2020 and Leite 2006; the abstract does not list items). So the trial's primary endpoint contains pain items but is not a pain endpoint.",
+  "quote_from_abstract": "We developed a self-administered questionnaire for the assessment of severity of symptoms and functional status in patients who have carpal tunnel syndrome."
+ },
+ {
+  "pmid": "17054773",
+  "citation": "Leite JC, Jerosch-Herold C, Song F. A systematic review of the psychometric properties of the Boston Carpal Tunnel Questionnaire. BMC Musculoskelet Disord 2006;7:78. PMC1624826",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D067"
+  ],
+  "what_it_shows": "The paper's ref 15. Full text: the symptom severity scale has 11 questions on a five-point scale and is scored as the sum divided by the number of items (1-5); a change of 0.8 on it is taken as clinically important, the figure Flondell 2017 used. Supports reading the endpoint as a composite symptom score.",
+  "quote_from_abstract": "The Boston Carpal Tunnel Questionnaire (BCTQ) is a disease-specific measure of self-reported symptom severity and functional status."
+ },
+ {
+  "pmid": "32919457",
+  "citation": "Multanen J, Ylinen J, Karjalainen T, Ikonen J, Häkkinen A, Repo JP. Structural validity of the Boston Carpal Tunnel Questionnaire and its short version, the 6-Item CTS symptoms scale: a Rasch analysis one year after surgery. BMC Musculoskelet Disord 2020;21(1):609. PMC7488577",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D067"
+  ],
+  "what_it_shows": "Not cited by Flondell 2017; looked up (free full text) to establish the item content of the symptom severity scale. Full text: the scale's 11 items assess pain, paresthesia, numbness, weakness, nocturnal symptoms and difficulty grasping; the five pain items (items 1-5) and the six numbness, tingling, weakness and fine-motor items (items 6-11) behave as two separate clusters in Rasch analysis, so a total score mixes pain with numbness.",
+  "quote_from_abstract": "The CTS-6 might be more accurate when separated into item sets measuring pain or numbness."
+ },
+ {
+  "pmid": "16352379",
+  "citation": "Rosén B, Björkman A, Lundborg G. Improved sensory relearning after nerve repair induced by selective temporary anaesthesia - a new concept in hand rehabilitation. J Hand Surg Br 2006;31(2):126-32",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D066",
+   "D067"
+  ],
+  "what_it_shows": "The paper's ref 10 (printed with volume 13 instead of 31). Randomised double-blind trial after median or ulnar nerve repair: the cream (n=7) or placebo cream (n=6) applied repeatedly to the flexor forearm of the injured arm over a 2-week period with sensory re-education; better touch/pressure perception and tactile gnosis than placebo. Repeated non-daily forearm application after nerve injury; sensory endpoints, no pain endpoint, early reinnervation rather than an established pain state.",
+  "quote_from_abstract": "A prospective, randomized, double-blind study was designed to investigate the effects of cutaneous forearm anaesthesia combined with sensory re-education on the outcome after ulnar or median nerve repair."
+ },
+ {
+  "pmid": "17985560",
+  "citation": "Lundborg G, Björkman A, Rosén B. Enhanced sensory relearning after nerve repair by using repeated forearm anaesthesia: aspects on time dynamics of treatment. Acta Neurochir Suppl 2007;100:121-6",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D066",
+   "D067"
+  ],
+  "what_it_shows": "The paper's ref 17 and the source of its treatment schedule. Prospective randomised double-blind study of repeated cutaneous forearm anaesthesia with sensory re-education after median or ulnar nerve repair over two weeks; tactile gnosis better than placebo up to four weeks after the last session, no difference at 8-11 months. Appears to be the Rosén 2006 trial with longer follow-up. Sensory endpoints only.",
+  "quote_from_abstract": "In a prospective, randomised, double blind study we studied the effects of cutaneous forearm anaesthesia combined with sensory reeducation on the outcome after median or ulnar nerve repair at wrist or distal forearm level."
+ },
+ {
+  "pmid": "21524297",
+  "citation": "Rosén B, Björkman A, Lundborg G. Improving hand sensibility in vibration induced neuropathy: A case-series. J Occup Med Toxicol 2011;6(1):13. PMC3104948",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D066"
+  ],
+  "what_it_shows": "The paper's ref 12 (printed as '2011;13:3104948'). Case series of 9 workers with vibration-induced neuropathy who self-applied the cream to the forearm repeatedly at increasing intervals for up to a year (two for four years); touch thresholds, tactile discrimination and DASH improved in most; a secondary finding was less nocturnal numbness. The longest repeated-application dataset in an established neuropathy, but non-daily, uncontrolled, forearm rather than symptomatic skin, and without a pain endpoint.",
+  "quote_from_abstract": "They were treated with temporary selective cutaneous anaesthesia (EMLA® cream) of the forearm repeatedly for a period up to one year (in two cases four years)."
+ },
+ {
+  "pmid": "26270587",
+  "citation": "Strauss S, Grothe M, Usichenko T, Neumann N, Byblow WD, Lotze M. Inhibition of the primary sensorimotor cortex by topical anesthesia of the forearm in patients with complex regional pain syndrome. Pain 2015;156(12):2556-2561",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D067"
+  ],
+  "what_it_shows": "Not cited by Flondell 2017; found by a PubMed search for forearm-anaesthesia trials that this paper prompted. Double-blind placebo-controlled crossover in 12 patients with chronic unilateral CRPS type I of the hand: the cream (named as EMLA only in the full paper, read free in the first author's dissertation at d-nb.info/113254338X/34) or an aqueous placebo cream applied once per session to the volar forearm of the affected side, session order randomised ('pseudorandomized'); tactile acuity and hand motor function improved after the cream, intracortical inhibition rose on the treated side, and pain intensity (VAS at rest) did not change. A placebo-controlled trial of this cream with a pain measure in an established pain state, though not on the painful area and not as analgesic treatment; decides D067 if CRPS I is counted as neuropathic pain.",
+  "quote_from_abstract": "In a double-blinded placebo-controlled study, we enrolled 12 patients with unilateral CRPS I of the hand in the chronic state. … Pain intensity was not modulated after intervention."
+ },
+ {
+  "pmid": "20636964",
+  "citation": "Lundborg GN, Björkman AC, Rosén BN, Nilsson JA, Dahlin LB. Cutaneous anaesthesia of the lower leg can improve sensibility in the diabetic foot. A double-blind, randomized clinical trial. Diabet Med 2010;27(7):823-9",
+  "found_in_paper": "S-686-43",
+  "bears_on_claim_ids": [
+   "D067"
+  ],
+  "what_it_shows": "Not cited by Flondell 2017 (same group; found by the forearm-anaesthesia search this paper prompted). Double-blind randomised trial in 37 people with type 1 or type 2 diabetes and impaired foot sensibility: the cream or a placebo cream applied once to the skin of the lower leg (not the foot); primary outcome change in touch threshold at the first metatarsal head at 1.5 h, which improved on the cream at 1.5 and 24 h, with lower vibration thresholds. A placebo-controlled randomised trial of this cream in diabetic feet with a sensory endpoint only (no pain endpoint in the abstract); bears on how D067's wording and the record's 'no placebo-controlled trial' sentences describe what exists, not on its pain-endpoint element.",
+  "quote_from_abstract": "In a double-blind study, 37 patients with Type 1 or Type 2 diabetes were randomly assigned to cutaneous application of either an anaesthetic cream (EMLA) or a placebo cream to the skin of the lower leg for 1.5 h."
+ },
+ {
   "pmid": "20171359",
   "citation": "Batista da Silva C, Berto LA, Volpato MC, Ramacciato JC, Motta RH, Ranali J, Groppo FC. Anesthetic efficacy of articaine and lidocaine for incisive/mental nerve block. J Endod 2010;36(3):438-41",
   "found_in_paper": "S-686-01",
