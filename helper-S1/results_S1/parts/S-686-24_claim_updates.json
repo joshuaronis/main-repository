@@ -1,0 +1,41 @@
+[
+ {
+  "claim_id": "D017",
+  "paper_id": "S-686-24",
+  "pmid": "11464357",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Later, we determined the concen…tration of NaHCO3, which can be added to [dose figure omitted] of … [dose figure omitted] ropivacaine at room temperature, with and … without the previous addition of [dose figure omitted] adrenaline without provoking immediate … precipitation (5 minutes of optical microscope ob…servation) of the final anesthetic solution.",
+  "page": 358,
+  "proposed_wording": "Bicarbonate has been put into ropivacaine in four published studies and they disagree about whether the solution stays clear. The laboratory phase of a randomised double-blind trial of lumbar peridural block in 60 patients located the point at which a precipitate appeared, used a quantity below it, and reported no precipitate under an optical microscope over five minutes at room temperature; the same paper found precipitate in every solution recovered from rat tissue five minutes after injection, including the unmodified clinical-use preparation and most of all the alkalinized ones (Ramos 2001, PMID 11464357). A bench study of a weaker ropivacaine measured precipitate still accumulating to a plateau at 20 minutes even at its lowest bicarbonate amount (Fulling & Peterfreund 2000, PMID 11009239), and a 2025 laboratory series reported precipitate at every bicarbonate volume it tried in ropivacaine (AlShammari 2025, PMID 40330160). A fourth laboratory study titrated ropivacaine at its two strongest commercial strengths only, found precipitation above pH 6.0 and excluded it, so it reports nothing about a weaker strength (Milner 2000, PMID 10758442). No study has followed a partly buffered ropivacaine past a few minutes, or at the moment it enters tissue, and reported it still clear.",
+  "reason": "Ramos matches every element D017 says is absent, within the claim's own scope. The claim's population element is 'laboratory or clinical' and its outcome element is that the solution remains free of precipitate: Ramos's laboratory phase located the point at which a precipitate appeared in 10 mL of 0.75% ropivacaine - 0.016 mEq of bicarbonate or more without adrenaline, above 0.016 and up to 0.020 mEq with adrenaline added beforehand - and the quantity it then fixed on lay below that point and showed no precipitate under an optical microscope over five minutes at room temperature, which is a positive observation of a partly buffered ropivacaine staying clear, the very thing the claim says nobody has shown; that solution was then given epidurally to 40 of the 60 patients, and the design element ('any study') and intervention element ('ropivacaine with a small, sub-precipitating amount of bicarbonate') are matched exactly. The scope difference between the two full texts decides how much each can settle: Ramos is a clinical peridural trial whose primary endpoints were sensory and motor onset, block spread and duration, and in which precipitation was a secondary laboratory and animal observation rather than an inspection of the syringes given to patients, so it settles the laboratory half of the claim's population element and leaves the clinical half resting on inference - whereas Milner 2000 is a pure laboratory solution study whose whole business was pH and precipitate, which is where it could have settled the question, and there ropivacaine precipitated at both strengths tested. Three limits belong with the verdict and none of them restores the claim as written: the observation window was five minutes of optical microscopy at room temperature at a single ropivacaine strength; Fulling & Peterfreund 2000 found precipitate accumulating out to 20 minutes in a weaker ropivacaine at its lowest bicarbonate amount, and Ramos attributes the disagreement to methodology; and in Ramos's own rat sub-study every solution recovered from tissue had precipitated, including the plain clinical-use preparation, so post-injection precipitation is reported for ropivacaine generally rather than for the buffered solutions alone. One further caution for anyone quoting a figure from this paper: the bicarbonate quantity in the arm the patients received is printed four different ways across the abstract, the methods text, the arm description and the conclusions, so no single figure for it can be read off the paper with confidence."
+ },
+ {
+  "claim_id": "D018",
+  "paper_id": "S-686-24",
+  "pmid": "11464357",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "This was a randomized, double-blind clinical trial … in which a control group, G1, with 20 patients, … received solution A",
+  "page": 359,
+  "proposed_wording": "In skin, only bupivacaine's partial buffer has been measured against injection pain. A partial, sub-precipitating buffer on ropivacaine has been tested in patients, but for block quality rather than for injection pain and by the peridural route, not in skin: a randomised double-blind three-arm trial in 60 patients found no change in sensory or motor onset or in block spread, and a longer sensory block in both buffered arms (Ramos 2001, PMID 11464357).",
+  "reason": "Ramos matches three of D018's elements and misses the two that carry the claim. It is human (60 patients), it is a comparative study (randomised, double-blind, a saline-diluted control arm against two buffered arms), and its intervention is exactly a partial sub-precipitating bicarbonate buffer on a drug that precipitates when fully buffered. But its outcome element is unmatched - injection pain was not an endpoint, and the paper reports sensory and motor onset, block spread and block duration instead - and its route element is unmatched, since this is a lumbar peridural block and the claim's context is skin injection. So 'measured on bupivacaine only' remains true for injection pain in skin and the existing narrowed verdict holds; what Ramos adds is that the record's sentence is narrower than it looks, because a partial buffer on ropivacaine has been measured in patients for a different outcome."
+ },
+ {
+  "claim_id": "C027",
+  "paper_id": "S-686-24",
+  "pmid": "11464357",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "In the popliteal foss…sae of the rats, all of the solutions, including the one … prepared for clinical use, precipitated. This was … most evident in the alkalinized solutions.",
+  "page": 360,
+  "proposed_wording": "Whether injected crystals matter. Crystallisation has been graded under a microscope in mixtures that were never injected, and separately demonstrated in tissue in an animal model: solutions recovered from rat popliteal fossae five minutes after injection had all precipitated, including the unmodified clinical-use preparation and most of all the alkalinised ones (Ramos 2001, PMID 11464357). No study has measured a clinical consequence of precipitated local anaesthetic in a human given a freshly prepared solution.",
+  "reason": "Ramos bears on the 'never injected into anyone' half of this claim without matching the element that decides it. It did inject ropivacaine solutions into tissue and recover precipitate from them, which is more than grading crystals in an undisturbed syringe, and it then gave the alkalinised solution epidurally to 40 patients. But the recovery of precipitate from tissue was in 3 rats, not humans, so the population element is unmatched for that observation; and no clinical consequence was measured in the patients - the trial's endpoints were onset, spread and duration, and no adverse-event analysis is reported - so the outcome element stays unmatched. The existing narrowed verdict holds; what Ramos adds is an animal demonstration that precipitate forms in tissue after injection of both buffered and unmodified ropivacaine, which the record does not currently carry."
+ }
+]

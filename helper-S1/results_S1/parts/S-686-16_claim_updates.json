@@ -1,0 +1,28 @@
+[
+ {
+  "claim_id": "D017",
+  "paper_id": "S-686-16",
+  "pmid": "10758442",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Ropivacaine (Astra Pharmaceuticals) in both [dose figure omitted] and [dose figure omitted] concentration … was included in the … initial study but formed precipitates at a pH above 6.0 … and was therefore not suitable for alkalinization.",
+  "page": 39,
+  "proposed_wording": "The laboratory study that titrated sodium bicarbonate into six amide local anaesthetic solutions put ropivacaine through its initial titration at its two strongest commercial strengths only, found that both precipitated above pH 6.0, and excluded ropivacaine before the main experiment; its report of no precipitate by naked eye, by microscopy and after centrifugation covers the six solutions it carried through, none of which was ropivacaine, and no weaker ropivacaine strength was tested (Milner 2000, PMID 10758442).",
+  "reason": "The full text answers Milner's own open question with a negative: no ropivacaine concentration stayed clear, because only two were ever tested. Ropivacaine was put through the initial titration at 0.75% and 1.0% (starting pH 4.39 and 4.55), precipitated above pH 6.0 and was dropped before the main experiment, so it never reached the point at which 1 mL of 1% sodium bicarbonate had been added, which is what Table 1 reports for the other six solutions; no ropivacaine strength below 0.75% was tested at all, so the paper cannot say whether a weaker one would have stayed clear. The Results sentence 'No evidence of precipitate formation was detected ... in any of the local anaesthetic solutions' (p. 39) refers to the six solutions carried through - three bupivacaine strengths, two bupivacaine-with-epinephrine, one lidocaine-with-epinephrine - and not to ropivacaine, so it cannot be read as a clear ropivacaine. Scope matters for how much this paper can decide: Milner is a laboratory solution study with no patients, no animals and no clinical endpoint, so it speaks only to the laboratory half of D017's population element, and on that half it reports precipitation rather than clarity. On Milner alone every element of D017 is unmatched and the claim stands; it is the companion full text, Ramos 2001 (PMID 11464357), whose laboratory phase matches them, and the two D017 entries should be read together."
+ },
+ {
+  "claim_id": "D018",
+  "paper_id": "S-686-16",
+  "pmid": "10758442",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "However, this study follows a laboratory … examination and is not a clinical trial.",
+  "page": 41,
+  "proposed_wording": "No change proposed. The record's existing narrowed wording stands: in skin, only bupivacaine's partial buffer has been measured against injection pain.",
+  "reason": "Milner is the closest laboratory neighbour to D018 - it is a study of sub-precipitating bicarbonate added to bupivacaine among other amides - but it misses two of the claim's elements outright. Its population element is unmatched because there are no human subjects; its outcome element is unmatched because it measured pH, unionized fraction and the presence of precipitate, and never injection pain or any other clinical endpoint, as the authors state. It also reaches no partial buffer for ropivacaine, since ropivacaine was excluded from the experiment, so it adds nothing to the ropivacaine half of the claim either. The existing narrowed verdict is unaffected."
+ }
+]

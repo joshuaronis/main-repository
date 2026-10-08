@@ -41,9 +41,9 @@ out to be exactly right: both citation-standing claims tested here failed.
   - still uncertain after the full text: 12
 - **New wheal-page claims extracted and tested: 49** (8 W-B, 10 W-M, 31 W-R).
   - verdicts: **19 confirmed**, **17 narrowed**, **12 refuted**, **1 out-of-scope**
-  - left uncertain: 4
+  - left uncertain: 3
   - **7 further claims counted but not written out**, because their subject is a dose ceiling, a toxicity threshold, or how to mix, buffer or dilute a solution: Ropivacaine Wheals 3; mepivacaine-wheals 1; bupivacaine-wheals 3
-- **Extra studies recorded: 25**, found through the papers' reference lists and discussions.
+- **Extra studies recorded: 33**, found through the papers' reference lists and discussions.
 - **Notion findings: 45** — **20 high**, **22 medium**, **3 low**.
   - by kind: 11 overstated, 8 open-question-answered, 7 wrong-figure, 7 understated, 6 now-verified, 3 ranking-reweigh, 2 outdated, 1 citation-error
 
@@ -100,7 +100,7 @@ out to be exactly right: both citation-standing claims tested here failed.
 | W-M002 | mepivacaine | narrowed | Narrowed rather than refuted |
 | W-M003 | mepivacaine | refuted | Refuted on both counts the claim makes |
 | W-M004 | mepivacaine | narrowed | Narrowed |
-| W-M009 | mepivacaine | narrowed | Narrowed, with one element refuted and one unresolved |
+| W-M009 | mepivacaine | narrowed | Resolved from the Reynolds 1976 full text, read in this same session (S-686-25) |
 | W-M010 | mepivacaine | narrowed | Narrowed |
 | W-R003 | Ropivacaine Wheals | narrowed | The page's narrowing (rat oral mucosa, plus Sohn's calculation) is right as far as it goes but it stops one step short: there are two human in vivo mi |
 | W-R004 | Ropivacaine Wheals | narrowed | The page's three partial hits are correctly characterised, and one more sits closer than any of them: Cederholm 1994 used intradermal wheals in the sa |
@@ -221,7 +221,12 @@ on, and nothing was written from it:
   reader, plus imperatives such as "Read the composition panel on the physical box before buying".
 - The Amass usage-limit error, described above, which carried an instruction not to use other tools.
 
-**Compliance.** No dose ceiling, maximum dose, overdose or toxicity threshold, antidote passage or
+**Compliance.** Every output file was scanned mechanically (`tools/compliance_scan.py`) for a drug
+amount, a safety judgement or an imperative left in a field the rules do not exempt — the exemption
+covers only the paper cards and a claim update's `reason`. **It reports zero breaches.** Six lines
+are flagged for eyeballing because they contain a bare percentage; all six were reviewed and are
+outcome measures — a flow rise, a difference between two means — rather than drug amounts, so they
+stay. No dose ceiling, maximum dose, overdose or toxicity threshold, antidote passage or
 preparation step was copied into any output. Where a claim's own subject was one of those, it was
 counted and its text left unwritten (`results_S1/wheal_skipped.json` records each with its page,
 section and reason). Where a recorded sentence contained such a figure, `[dose figure omitted]`

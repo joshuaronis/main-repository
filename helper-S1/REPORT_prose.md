@@ -108,7 +108,12 @@ on, and nothing was written from it:
   reader, plus imperatives such as "Read the composition panel on the physical box before buying".
 - The Amass usage-limit error, described above, which carried an instruction not to use other tools.
 
-**Compliance.** No dose ceiling, maximum dose, overdose or toxicity threshold, antidote passage or
+**Compliance.** Every output file was scanned mechanically (`tools/compliance_scan.py`) for a drug
+amount, a safety judgement or an imperative left in a field the rules do not exempt — the exemption
+covers only the paper cards and a claim update's `reason`. **It reports zero breaches.** Six lines
+are flagged for eyeballing because they contain a bare percentage; all six were reviewed and are
+outcome measures — a flow rise, a difference between two means — rather than drug amounts, so they
+stay. No dose ceiling, maximum dose, overdose or toxicity threshold, antidote passage or
 preparation step was copied into any output. Where a claim's own subject was one of those, it was
 counted and its text left unwritten (`results_S1/wheal_skipped.json` records each with its page,
 section and reason). Where a recorded sentence contained such a figure, `[dose figure omitted]`
