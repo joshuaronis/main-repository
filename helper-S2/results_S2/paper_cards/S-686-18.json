@@ -1,0 +1,246 @@
+{
+ "paper_id": "S-686-18",
+ "citation": "Mülkoğlu C, Nacır B. Notalgia paresthetica: clinical features, radiological evaluation, and a novel therapeutic option. BMC Neurol 2020;20(1):191",
+ "pmid": "32416719",
+ "doi": "10.1186/s12883-020-01773-6",
+ "right_paper": true,
+ "text_quality": "ok (born-digital PDF, 8 pages; text, Tables 1–3, figure legends and references 1–33 all extracted; Fig. 1–2 are clinical photographs with no data). Free full text also in PMC (PMC7229619).",
+ "design": "Single-centre study that the authors call cross-sectional, with two parts: (1) a clinical and radiological comparison of notalgia paresthetica (NP) patients with dorsalgia patients without NP; (2) a non-randomised, unblinded, uncontrolled before-and-after treatment series of intradermal lidocaine in part of the NP group. How the treated NP patients were chosen is not stated. The other NP patients were prescribed topical capsaicin, but no outcomes are reported for them and the two treatments are not compared; the authors state they had no NP control group without lidocaine. PubMed indexes the paper as 'Clinical Trial' (MeSH 'Cross-Sectional Studies'). The title calls the treatment 'a novel therapeutic option'; the authors do not claim to be the first and cite their own earlier single-case report of local lidocaine injections in NP (ref 12, 2018). They frame the method as therapeutic local anaesthesia (neural therapy).",
+ "population": "Adults seen in a physical medicine and rehabilitation outpatient clinic: 45 with notalgia paresthetica (39 women; mean age 54.7 years; pruritus in all, burning 49%, paresthesia 44%, hypoesthesia 40%, hyperpigmented patch 76%; median symptom duration 12 months) and 35 with dorsalgia without NP. Excluded: under 18, chronic inflammatory, infectious, neurological, psychiatric, rheumatologic or malignant disease, other skin disease, spinal trauma.",
+ "n": "80 in total: NP 45, dorsalgia comparison group 35 (radiological comparison only). Lidocaine treatment planned for 22 NP patients; 2 did not attend the second session and were excluded; 20 analysed. Remaining NP patients (about 23) prescribed topical capsaicin, not reported.",
+ "setting": "Department of Physical Medicine and Rehabilitation, Health Sciences University Ankara Training and Research Hospital, Ankara, Turkey; patients presenting August 2018 to June 2019.",
+ "intervention": "Intradermal injection of plain lidocaine diluted with saline [dose figure omitted], each injection raising a small bump (papule) in the skin, at pencil-marked points around the hyperpigmented patch and segmentally along and beside the C2–T6 spinous processes, patient prone; chlorhexidine-alcohol skin antisepsis. No vasoconstrictor or other additive is named. Needle gauge and injection depth are not stated. What the study did: three sessions, the first followed by repeats at weeks 2 and 4 (two-week intervals).",
+ "comparator": "None for the treatment: no sham, saline, waiting-list or untreated NP group; the capsaicin-prescribed NP patients were neither reported nor compared. The 35 dorsalgia patients were a comparison group for the clinical and radiological findings only.",
+ "route": "Intradermal (papules/wheals) in the skin of the upper back.",
+ "duration": "Four-week treatment course; follow-up to 3 months from the first session (about 2 months after the last).",
+ "outcomes": "VAS pain and VAS pruritus (0–10) at day 0, week 2, week 4 and 3 months (Table 3; Friedman's test); adverse effects noted at the week-2 and week-4 visits; spine X-ray and MRI findings (NP vs dorsalgia). NOT measured or reported: any sensory testing after the injections (pinprick, touch or thresholds), patient-reported numbness, onset or duration of skin anaesthesia, skin biopsy or nerve-fibre measures. The neurological examination 'for motor and sensorial functions' was done at enrolment only. Whether the week-2 and week-4 scores were taken before or after that visit's injection is not stated, and the results sentence ('After the third session ... decreased at the second- and fourthweek follow-up') does not fit the schedule, since the third session was at week 4.",
+ "key_results": [
+  {
+   "quote": "We also investigated the effect of intradermal lidocaine injection on patients with NP.",
+   "page": 1
+  },
+  {
+   "quote": "After the diagnosis of NP and physical examination, therapeutic lidocaine injections were planned for the 22 patients in the NP group.",
+   "page": 3
+  },
+  {
+   "quote": "Small bumps appeared on the skin.",
+   "page": 3
+  },
+  {
+   "quote": "Topical capsaicin was prescribed to the remaining patients in the NP group.",
+   "page": 3
+  },
+  {
+   "quote": "All of the patients were called for a follow-up at the second and fourth weeks and third month. The VAS-pain and VAS-pruritus scores were assessed at these visits.",
+   "page": 3
+  },
+  {
+   "quote": "We planned local lidocaine injections for 22 patients. Since 2 patients did not come to the second injection, they were excluded from the study and the evaluation … was made on 20 patients.",
+   "page": 4
+  },
+  {
+   "quote": "After the third session of lidocaine injection, the VAS-pain and VAS-pruritus scores were significantly decreased at the second- and fourthweek follow-up.",
+   "page": 5
+  },
+  {
+   "quote": "The median VAS-pain score 0.day 8 (5–9) 2nd week 4 (3–6) 4th week 2 (2–5) p < 0.001 After 3 months 2 (1–4)",
+   "page": 5
+  },
+  {
+   "quote": "The median VAS-pruritus score 0.day 7 (5–8) 2nd week 5 (3–6) 4th week 1 (0–4) p < 0.001 After 3 months 1 (0–3)",
+   "page": 5
+  },
+  {
+   "quote": "We did not observe any adverse effect due to lidocaine at the follow-up visits at the second and fourth weeks.",
+   "page": 5
+  },
+  {
+   "quote": "The relief of pain and pruritus continued for up to 3 months.",
+   "page": 5
+  },
+  {
+   "quote": "In the current study, 20 patients in the NP group suffering from pruritus and neuropathic pain were locally administered therapeutic lidocaine, and improvement was observed to sustain for up to 3 months.",
+   "page": 7
+  },
+  {
+   "quote": "We obtained successful results in relieving of pain and pruritus of the patients with NP by simple intradermal lidocaine injections. Therefore, we did not consider the need to block the dorsal spinal nerves with a deeper injection method.",
+   "page": 7
+  },
+  {
+   "quote": "Therapeutic local anesthesia (neural therapy) is a modality using injections with local anesthetics for diagnosis and therapy",
+   "page": 7
+  },
+  {
+   "quote": "The real purpose, though, is not to apply local anesthetics.",
+   "page": 7
+  },
+  {
+   "quote": "We also previously reported a 73-year-old male case with NP treated with therapeutic lidocaine injections. In that case, we locally administered lidocaine into the upper back to relieve pain and obtained successful results related to neuropathic back pain.",
+   "page": 2
+  },
+  {
+   "quote": "Hypoesthesia was present in 18 patients (40%) and hyperesthesia in three (7%)",
+   "page": 4
+  },
+  {
+   "quote": "There was a significantly higher number of HNP at the C6–7 segment and cervical degenerative changes in the NP group (p < 0.05).",
+   "page": 1
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Firstly, the radiological findings of the patients were evaluated by X-ray and MRI, but their consistency with the clinical findings was not evaluated.",
+   "page": 7
+  },
+  {
+   "quote": "Secondly, the patients were not followed up after the third months of lidocaine application.",
+   "page": 7
+  },
+  {
+   "quote": "It remains unclear whether the efficacy of lidocaine treatment is durable or continuous injections are required for greater benefit in patients with NP.",
+   "page": 7
+  },
+  {
+   "quote": "We also did not have a control group with NP who did not undergo lidocaine treatment.",
+   "page": 7
+  },
+  {
+   "quote": "Thirdly, in the current cross-sectional study, it was difficult to draw definitive conclusions concerning the treatment applied.",
+   "page": 7
+  }
+ ],
+ "funding_conflicts": "Funding: 'Not applicable.' Competing interests: 'The authors declare that they have no competing interests.' (p7). Approved by the hospital's Clinical Research Ethics Committee; written informed consent. The same two authors (with a third) published the earlier single-case report of this treatment (ref 12, Int J Dermatol 2018).",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Mülkoğlu C, Nacir B, Genç H. An alternative in the treatment of notalgia paresthetica: neural therapy. Int J Dermatol 2018;57(9):e70–e71 (letter; ref 12)",
+   "pmid": "29911324",
+   "why": "The same group's earlier single case (a 73-year-old man) of local lidocaine injections into the upper back in NP with a pain outcome (VAS 7 to 1 at week 2, per the 2020 text); route depth and whether the skin was numbed are not stated; no abstract. Bears on 'the one wheal protocol/study' wording on the product pages and Ropivacaine Wheals 12.3a, and on D033 (a further cutaneous-anaesthesia report in a neuropathic condition, numbness undocumented)."
+  },
+  {
+   "citation": "Egli S, Pfister M, Ludin SM, Puente de la Vega K, Busato A, Fischer L. Long-term results of therapeutic local anesthesia (neural therapy) in 280 referred refractory chronic pain patients. BMC Complement Altern Med 2015;15:200 (ref 29)",
+   "pmid": "26115657",
+   "why": "Uncontrolled neural-therapy case series, procaine or lidocaine alone, outcomes at one year; cited on the Relief page and (mis-tagged as S174) in Reference §4.9; bears on D035 and D042 and on 'relief that outlasts the block' statements; the authors say the specific contribution of the intervention cannot be determined."
+  },
+  {
+   "citation": "Fischer L. Pathophysiology of pain and neural therapy [German]. Praxis (Bern 1994) 2003;92(48):2051–9 (ref 30)",
+   "pmid": "14694543",
+   "why": "Review of the neural-therapy rationale (Huneke): local anaesthetic injections into segments and 'interference fields'; the mechanism the paper invokes for relief outlasting the anaesthetic (Relief page, D038)."
+  },
+  {
+   "citation": "Chtompel Y, Eghtesadi M, Vargas-Schaffer G. A case report of refractory notalgia paresthetica treated with lidocaine infusions. Am J Case Rep 2017;18:1225–8 (ref 2)",
+   "pmid": "29151570",
+   "why": "Intravenous lidocaine for neuropathic itch in NP (single case: itch relieved, neuropathic pain not); systemic lidocaine in a neuropathic condition."
+  },
+  {
+   "citation": "da Cruz CM, Antunes F. Physical medicine and rehabilitation role on notalgia paresthetica: case report and treatment review. Am J Phys Med Rehabil 2018;97(12):929–32 (ref 11)",
+   "pmid": "30439740",
+   "why": "Topical lidocaine patches plus exercises in NP (single case and treatment review); topical lidocaine in a neuropathic condition."
+  },
+  {
+   "citation": "Williams EH, Rosson GD, Elsamanoudi I, Dellon AL. Surgical decompression for notalgia paresthetica: a case report. Microsurgery 2010;30(1):70–2 (ref 28)",
+   "pmid": "19790177",
+   "why": "NP as compression of the dorsal branch of the spinal nerve; a diagnostic bupivacaine (Marcaine) block relieved pain for hours only, then surgical decompression (nerve compression; a local anaesthetic block whose relief did not outlast it)."
+  },
+  {
+   "citation": "Eisenberg E, Barmeir E, Bergman R. Notalgia paresthetica associated with nerve root impingement. J Am Acad Dermatol 1997;37(6):998–1000 (ref 22)",
+   "pmid": "9418774",
+   "why": "NP with C4 root impingement treated with cervical epidural steroid injections, near-complete recovery (steroid injection; nerve compression)."
+  },
+  {
+   "citation": "Andersen HH, Sand C, Elberling J. Considerable variability in the efficacy of [dose figure omitted] capsaicin topical patches in the treatment of chronic pruritus in 3 patients with notalgia paresthetica. Ann Dermatol 2016;28(1):86–9 (ref 24)",
+   "pmid": "26848223",
+   "why": "High-concentration capsaicin patch in neuropathic itch (3-patient series; relief lasting from days to over two months); capsaicin-patch claims on the pain-biology page."
+  },
+  {
+   "citation": "Ansari A, Weinstein D, Sami N. Notalgia paresthetica: treatment review and algorithmic approach. J Dermatolog Treat 2020;31(4):424–32 (epub 2019; ref 10)",
+   "pmid": "30942103",
+   "why": "NP treatment review: topical capsaicin, anaesthetic cream, tacrolimus, amitriptyline/ketamine, gabapentin, oxcarbazepine, botulinum toxin A, narrowband UVB, physical therapy; botulinum toxin and topical anaesthetics in neuropathic itch."
+  },
+  {
+   "citation": "Maciel AA, Cunha PR, Laraia IO, Trevisan F. Efficacy of gabapentin in the improvement of pruritus and quality of life of patients with notalgia paresthetica. An Bras Dermatol 2014;89(4):570–5 (ref 3)",
+   "pmid": "25054742",
+   "why": "Systemic gabapentin for neuropathic itch (systemic neuropathic-pain drugs)."
+  },
+  {
+   "citation": "Howard M, Sahhar L, Andrews F, Bergman R, Gin D. Notalgia paresthetica: a review for dermatologists. Int J Dermatol 2018;57(4):388–92 (ref 1)",
+   "pmid": "29243804",
+   "why": "NP review (pathogenesis as spinal entrapment and muscular compressive neuropathy; treatments)."
+  },
+  {
+   "citation": "Pérez-Pérez LC. General features and treatment of notalgia paresthetica. Skinmed 2011;9(6):353–8 (ref 23)",
+   "pmid": "22256623",
+   "why": "NP review: physical, topical, systemic and intralesional treatments (sensory neuropathy of the spinal nerves)."
+  },
+  {
+   "citation": "Ellis C. Notalgia paresthetica: the unreachable itch. Dermatol Pract Concept 2013;3(1):3–6 (ref 13)",
+   "pmid": "23785628",
+   "why": "NP review (neuropathic itch; nerve entrapment)."
+  },
+  {
+   "citation": "Cohen PR. Notalgia paresthetica: a novel approach to treatment with cryolipolysis. Cureus 2017;9(9):e1719 (ref 6)",
+   "pmid": "29188163",
+   "why": "Device treatment for neuropathic itch; cited for the NP treatment list (including paravertebral local anaesthetic blocks)."
+  },
+  {
+   "citation": "Low R, Swanson LA, Swanson DL. Notalgia paresthetica relieved by cervical traction. J Am Board Fam Med 2017;30(6):835–7 (ref 4)",
+   "pmid": "29180561",
+   "why": "Nerve compression: relief by cervical traction (non-drug treatment of a neuropathic condition)."
+  },
+  {
+   "citation": "Savk E, Savk SO. On brachioradial pruritus and notalgia paresthetica. J Am Acad Dermatol 2004;50(5):800–1 (ref 5)",
+   "pmid": "15097973",
+   "why": "Spinal degenerative change as a cause of NP (nerve compression)."
+  },
+  {
+   "citation": "Savk O, Savk E. Investigation of spinal pathology in notalgia paresthetica. J Am Acad Dermatol 2005;52(6):1085–7 (ref 20)",
+   "pmid": "15928634",
+   "why": "Radiological spinal pathology in 43 NP patients (nerve compression)."
+  },
+  {
+   "citation": "Alai NN, Skinner HB, Nabili ST, et al. Notalgia paresthetica associated with cervical spinal stenosis and cervicothoracic disk disease at C4 through C7. Cutis 2010;85(2):77–81 (ref 21)",
+   "pmid": "20349681",
+   "why": "NP with cervical stenosis (nerve compression)."
+  },
+  {
+   "citation": "Raison-Peyron N, Meunier L, Acevedo M, Meynadier J. Notalgia paresthetica: clinical, physiopathological and therapeutic aspects. A study of 12 cases. J Eur Acad Dermatol Venereol 1999;12(3):215–21 (ref 15)",
+   "pmid": "10461640",
+   "why": "12-case NP series; dorsal arthrosis; spinal physiotherapy helped 4 of 6 (nerve compression, non-drug treatment)."
+  },
+  {
+   "citation": "Pagliarello C, Fabrizi G, De Felici B, et al. Notalgia paresthetica: factors associated with its perceived severity, duration, side, and localization. Int J Dermatol 2017;56(9):932–8 (ref 16)",
+   "pmid": "28646529",
+   "why": "65-patient NP series: severity and duration factors (neuropathic itch)."
+  },
+  {
+   "citation": "Terzi R, Bekdik ŞP. A rare cause of neuropathic pain in the back: notalgia paresthetica. Noro Psikiyatr Ars 2016;53(1):89–90 (ref 19)",
+   "pmid": "28360775",
+   "why": "NP as neuropathic back pain (case)."
+  },
+  {
+   "citation": "Zagarella S, Kapila S, Fallahi A. Notalgia paraesthetica: a pilot study of treatment with simple exercises and stretches. Australas J Dermatol 2016;57(3):222–4 (ref 25)",
+   "pmid": "26499931",
+   "why": "Exercise for NP, 11 of 12 improved, uncontrolled (non-drug treatment of a compressive neuropathy)."
+  },
+  {
+   "citation": "Sahhar L, Howard M, Allnutt K, et al. Treatment of notalgia paraesthetica with manipulative physiotherapy. Australas J Dermatol 2018;59(3):241–3 (ref 26)",
+   "pmid": "28805241",
+   "why": "Manipulative physiotherapy for NP, 13 of 20 improved, uncontrolled."
+  },
+  {
+   "citation": "Fleischer AB, Meade TJ, Fleischer AB. Notalgia paresthetica: successful treatment with exercises. Acta Derm Venereol 2011;91(3):356–7 (ref 27)",
+   "pmid": "21279307",
+   "why": "Exercise for NP (case)."
+  },
+  {
+   "citation": "Marcusson JA, Lundh B, Sidén A, Persson A. Notalgia paresthetica — puzzling posterior pigmented pruritic patch. Acta Derm Venereol 1990;70(5):452–4 (ref 7); Shin J, Kim YC. Neuropathic itch of the back: a case of notalgia paresthetica. Ann Dermatol 2014;26(3):392–4 (ref 9); Weber PJ, Poulos EG. Notalgia paresthetica: case reports and histological appraisal. J Am Acad Dermatol 1988;18(1):25–30 (ref 17); Layton AM, Cotterill JA. Notalgia paraesthetica: report of three cases and their treatment. Clin Exp Dermatol 1991;16(3):197–8 (ref 18); Bernhard JD. Notalgia paresthetica, macular posterior pigmentary incontinence, macular amyloidosis and pruritus. Acta Derm Venereol 1997;77(2):164 (ref 14); Robbins BA, Ferrer-Bruker SJ. Notalgia paresthetica. StatPearls 2019 (ref 8)",
+   "pmid": "1980988; 24966642; 2831253; 1934572; 9111839; 29262015",
+   "why": "NP case reports, histology and overview (neuropathic itch); background only."
+  },
+  {
+   "citation": "Cornelissen P, van Kleef M, Mekhail N, Day M, van Zundert J. Evidence-based interventional pain medicine according to clinical diagnoses. 3. Persistent idiopathic facial pain. Pain Pract 2009;9(6):443–8 (ref 32)",
+   "pmid": "19874535",
+   "why": "Interventional pain-medicine review, cited oddly in the paper's neural-therapy passage; marginal (chronic pain treatment)."
+  }
+ ]
+}

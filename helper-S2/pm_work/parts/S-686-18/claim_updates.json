@@ -1,0 +1,80 @@
+[
+ {
+  "claim_id": "D033",
+  "paper_id": "S-686-18",
+  "pmid": "32416719",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": true,
+  "quote": "All of the patients were called for a follow-up at the second and fourth weeks and third month. The VAS-pain and VAS-pruritus scores were assessed at these visits.",
+  "page": 3,
+  "proposed_wording": "Eight papers met the inclusion criteria of one 2012 systematic analysis (search to about 2011), which required a demonstrated anaesthetic effect on the skin; a later intradermal lidocaine series in a neuropathic condition did not document skin numbness (Mülkoğlu 2020, notalgia paresthetica, PMID 32416719), and whether other studies that did document skin anaesthesia, such as Attal 1999 in postherpetic neuralgia, are among the eight is not known.",
+  "reason": "Own question answered: no. Mülkoğlu 2020 records only VAS pain and VAS itch at weeks 2 and 4 and month 3 (Table 3) and adverse effects at the week-2 and week-4 visits; it reports no sensory testing after the injections (no pinprick, touch or thresholds), no patient report of numbness and no onset or duration of anaesthesia, and the only description of the treated skin is 'Small bumps appeared on the skin' (p3). The study gave lidocaine diluted with saline intradermally as papules in repeated sessions to 22 NP patients (20 analysed), with no NP control without lidocaine, and the authors present it as 'a novel therapeutic option' without claiming it is the first (they cite their own 2018 single case). So it fails the claim's qualifier 'in which the skin was demonstrably numbed': it cannot count as a ninth paper and it no longer narrows the claim. The narrowed verdict now rests on the wording: Vlassakov's abstract counts eight publications that met its own inclusion criteria (search to about 2011, excluding CRPS, migraine and zoster under three months), not the world literature. It stays uncertain, and could become refuted, because Attal 1999 (PMID 10353509; topical EMLA in PHN, 'an overall anaesthetic effect' on sensory testing, pain outcomes) matches every element if it is not one of the eight, which cannot be checked (Vlassakov 2012 is closed access and was not reachable), and the acute-zoster intracutaneous trials (Cui 2017, S-686-05) would match if their full text documents skin numbness."
+ },
+ {
+  "claim_id": "D015",
+  "paper_id": "S-686-18",
+  "pmid": "32416719",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "All of the patients were called for a follow-up at the second and fourth weeks and third month. The VAS-pain and VAS-pruritus scores were assessed at these visits.",
+  "page": 3,
+  "proposed_wording": "What repeated injection over months does to skin that has already lost nerve fibres is unstudied for every drug here; the nearest report, an uncontrolled four-week course of intradermal lidocaine in notalgia paresthetica, measured only pain and itch scores (Mülkoğlu 2020, PMID 32416719).",
+  "reason": "The claim's own reason names Mülkoğlu 2020 as the closest study, and the full text confirms that description: repeated intradermal lidocaine over a four-week course in a sensory neuropathy, with only VAS pain and itch to three months and adverse effects at the week-2 and week-4 visits recorded; no skin biopsy, nerve-fibre count or other skin measurement was made, and the paper does not show that the treated skin had lost fibres. A four-week course is also shorter than the months of injection the claim concerns, so the verdict stays confirmed."
+ },
+ {
+  "claim_id": "T02",
+  "paper_id": "S-686-18",
+  "pmid": "32416719",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "We also did not have a control group with NP who did not undergo lidocaine treatment.",
+  "page": 7,
+  "proposed_wording": "No controlled study of anaesthetic-only intradermal wheals for chronic neuropathic pain was found, and none in small fibre neuropathy; the one series found with its parameters and an outcome is uncontrolled, in notalgia paresthetica (Mülkoğlu 2020, PMID 32416719), and lidocaine-only intradermal or infiltration arms appear as comparators in randomised zoster and postherpetic neuralgia trials.",
+  "reason": "T02's sentence is the Finding of the Health Pages - Meta page https://app.notion.com/p/3da10b7903aa8123b623fcaad4241eea, whose full text continues '…and none exists in small fibre neuropathy; the one protocol found with its parameters and an outcome is uncontrolled, in notalgia paresthetica'. The full text confirms that second half: Mülkoğlu 2020 is an anaesthetic-only intradermal papule series (lidocaine diluted with saline; no steroid or vasoconstrictor named) in a chronic neuropathic condition (median symptom duration 12 months) that reports its parameters and outcomes, but its treatment part has no comparison arm: the other NP patients were prescribed topical capsaicin with no outcomes reported, and the authors state there was no NP control group without lidocaine. It adds one uncontrolled study and does not change the narrowed verdict, which rests on the lidocaine-only comparator arms in zoster and PHN trials."
+ },
+ {
+  "claim_id": "C047",
+  "paper_id": "S-686-18",
+  "pmid": "32416719",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "All of the patients were called for a follow-up at the second and fourth weeks and third month. The VAS-pain and VAS-pruritus scores were assessed at these visits.",
+  "page": 3,
+  "proposed_wording": "No measurement of the duration of intradermal anaesthesia in neuropathic skin was found; the one intradermal series found in a neuropathic condition (Mülkoğlu 2020, notalgia paresthetica, PMID 32416719) recorded pain and itch scores, not anaesthesia or its duration.",
+  "reason": "Mülkoğlu 2020 is the nearest candidate: intradermal lidocaine injected into the affected skin of a sensory neuropathy (notalgia paresthetica, hypoesthesia in 40% at baseline). But it timed nothing: no pinprick or other sensory testing after injection and no onset or duration of anaesthesia, only VAS pain and itch at weeks 2 and 4 and month 3. It does not supply the duration figure in neuropathic skin that the claim says is absent, so the verdict stays confirmed."
+ },
+ {
+  "claim_id": "D040",
+  "paper_id": "S-686-18",
+  "pmid": "32416719",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "All of the patients were called for a follow-up at the second and fourth weeks and third month. The VAS-pain and VAS-pruritus scores were assessed at these visits.",
+  "page": 3,
+  "proposed_wording": "No study measuring the duration or vasoactivity of an intradermal anaesthetic in neuropathic skin was found; intradermal lidocaine has been given into neuropathic skin in an uncontrolled series in notalgia paresthetica that measured pain and itch only (Mülkoğlu 2020, PMID 32416719).",
+  "reason": "The claim's reason lists Rowbotham 1989 and Helås 2017 as the nearest studies; Mülkoğlu 2020 is a third near-miss: intradermal lidocaine into the affected back skin of a sensory neuropathy, but with no measurement of anaesthesia duration and no blood-flow or other vascular measurement, only VAS pain and itch. It is also back skin, not leg skin. The verdict stays confirmed."
+ },
+ {
+  "claim_id": "D032",
+  "paper_id": "S-686-18",
+  "pmid": "32416719",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": true,
+  "quote": "In this study, we intradermally administered lidocaine diluted with saline into the upper back over [dose figure omitted].",
+  "page": 1,
+  "proposed_wording": "The only systematic analysis found of injected skin anaesthesia in neuropathic pain; primary reports of the same route exist outside it, including an uncontrolled series of repeated intradermal lidocaine papules in notalgia paresthetica that did not document skin anaesthesia (Mülkoğlu 2020, PMID 32416719), and topical lidocaine for neuropathic pain has its own Cochrane review (Derry 2014).",
+  "reason": "This paper bears only on D032's also-text, which calls Vlassakov 2012 'the closest paper in existence to what this reader is doing'. Mülkoğlu 2020 is a primary report of the reader's exact route (repeated intradermal lidocaine papules, with the schedule and outcomes stated) in a sensory neuropathy, followed to three months, so that wording overreaches, although Mülkoğlu did not demonstrate skin anaesthesia, is uncontrolled, and Vlassakov's eight papers remain unread. It is not a review, so it does not touch the 'only systematic analysis' element; the verdict stays narrowed, and the standing uncertainty (whether Vlassakov 2012 included topical studies) is not resolved by this paper."
+ }
+]
