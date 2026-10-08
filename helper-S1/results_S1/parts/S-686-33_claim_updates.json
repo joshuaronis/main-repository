@@ -1,0 +1,15 @@
+[
+ {
+  "claim_id": "D020",
+  "paper_id": "S-686-33",
+  "pmid": "9520891",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": true,
+  "quote": "The intensity of pain in the lower leg was determined before and at 15 minutes after nerve block using a five grade pain scale",
+  "page": 204,
+  "proposed_wording": "Tajiri 1998 (PMID 9520891) is a randomised, double-blind, saline-controlled trial of a common peroneal nerve block in 19 patients with lumbar disc herniation, with pain measured before the block and at 15 minutes after it. It demonstrates relief during the block, not relief outlasting it, so it does not bear on the claim that relief can outlast the block.",
+  "reason": "The open question was whether Tajiri measured pain in minutes or weeks after the block. The full text settles it: the single post-block assessment was at 15 minutes, which is inside the block, and there is no later follow-up anywhere in the paper. Tajiri therefore matches the population and the sham-controlled design but fails the outcome element of D020, which is relief outlasting the block, so it should be removed from the set of studies cited as narrowing that claim. The verdict stays narrowed on the strength of the other studies already listed in the claim's reason, and uncertain remains true because D020's other open question, on PMID 34903493, is not answered by this paper."
+ }
+]

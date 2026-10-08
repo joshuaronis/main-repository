@@ -1,0 +1,68 @@
+[
+ {
+  "pmid": "6054556",
+  "citation": "Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22:556. DOI 10.1111/j.1365-2044.1967.tb10153.x",
+  "found_in_paper": "S-686-31 reference list and Discussion ('No previous similar trial has been found except that of Padfield (1967) who also reported that saline produced a brief period of analgesia after intradermal injection'). Swerdlow's reference line prints the volume as 12, which is a citation or OCR error: the Amass/PubMed record gives Anaesthesia, October 1967.",
+  "bears_on_claim_ids": [
+   "C065",
+   "C066",
+   "C067",
+   "C031",
+   "D023",
+   "D024",
+   "D039",
+   "D054",
+   "D062"
+  ],
+  "what_it_shows": "A controlled double-blind human intradermal comparison of prilocaine against lignocaine and procaine. The title alone establishes humans, the intradermal route, a controlled double-blind design and the three agents, so it is a human intradermal prilocaine timing study nearly two decades before Willatts and Reynolds 1985 and a human intradermal procaine study. Swerdlow and Jones add that it found intradermal saline produced a brief period of analgesia. Looked up in Amass BiomedCore by PMID; the record carries no abstract, so durations in minutes, volumes and whether any solution contained adrenaline cannot be read without the full text - which leaves the open questions on D023, D039 and D054 still open.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "14933832",
+  "citation": "Foldes FF, McNall PG. 2-Chloroprocaine: a new local anesthetic agent. Anesthesiology 1952;13:287. DOI 10.1097/00000542-195205000-00009",
+  "found_in_paper": "S-686-31 Method ('The tests were carried out on volunteer subjects (female nursing staff) by a method similar to that reported by Foldes and Macnall (1952)') and reference list.",
+  "bears_on_claim_ids": [
+   "D023",
+   "D054",
+   "C031",
+   "D062"
+  ],
+  "what_it_shows": "The source of the intradermal skin-weal timing method used in 1970, and the 1952 experiment that the procaine pages rest on for the claim that a vasoconstrictor and a plasma cholinesterase inhibitor did not prolong procaine intradermally. Swerdlow and Jones' description confirms it was an intradermal weal timing study in volunteers, which supports the pages' characterisation of it as an intradermal test rather than a nerve-block one, and it fixes 1952 as a real start date for the intradermal-weal seam the record describes. Looked up by title/author search in Amass BiomedCore; the record has a PMID and a DOI but no abstract, contrary to the note on D023 that it has no PubMed record to cite.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "5324841",
+  "citation": "Albert J, Lofstrom B. Bilateral ulnar nerve blocks for the evaluation of local anesthetic agents. 3. Tests with a new agent, prilocaine, and with lidocaine in solutions with and without epinephrine. Acta Anaesthesiol Scand 1965;Suppl 16:71. DOI 10.1111/j.1399-6576.1965.tb00507.x",
+  "found_in_paper": "S-686-31 Discussion ('Albert and Lofstrom (1965) carried out bilateral ulnar nerve blocks in volunteers and tested by pinch-test for analgesia and hypoaesthesia. They found that adrenaline prolonged the duration of action of lignocaine four times and that of prilocaine twice.') and reference list.",
+  "bears_on_claim_ids": [
+   "D009",
+   "C067",
+   "C081"
+  ],
+  "what_it_shows": "A human volunteer study timing prilocaine and lidocaine, each in solutions with and without epinephrine, by bilateral ulnar nerve block with pinch-testing for analgesia and for regression time. It is a second human measurement of prilocaine with a vasoconstrictor timed to an endpoint, and a further duration measurement for the prilocaine count, but the route is nerve block rather than intradermal, so on its own it does not reach the intradermal element of D009 - the 1970 paper does that. Looked up by title/author search in Amass BiomedCore; no abstract, but the title states the agents, the with-and-without-epinephrine design and the route.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "14272291",
+  "citation": "Widman B. Clinical trial of a new local anaesthetic (LAC-43) with the aid of the pin-prick and ninhydrin methods in finger blocks. Acta Anaesthesiol Scand 1964;8:219. DOI 10.1111/j.1399-6576.1964.tb00242.x",
+  "found_in_paper": "S-686-31 Discussion (Widman performed digital nerve block in volunteers, tested analgesia by pinprick, and reported a duration for bupivacaine with adrenaline that the authors call very similar to their own with the same solution) and reference list.",
+  "bears_on_claim_ids": [
+   "D006",
+   "D008",
+   "C039"
+  ],
+  "what_it_shows": "A volunteer digital nerve block study timing bupivacaine with adrenaline by pinprick, reported by Swerdlow and Jones as 445 min (SE 48). It is an external duration figure for bupivacaine with a vasoconstrictor that the 1970 authors found closely matched their own intradermal result, which is what lets the two routes be compared at all; it is a nerve block, not a weal, so it does not reach any claim scoped to skin. Looked up by title/author search in Amass BiomedCore; no abstract.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "5851306",
+  "citation": "Astrom A. Factors affecting the action of Citanest in vivo. Acta Anaesthesiol Scand 1965;Suppl 16:23",
+  "found_in_paper": "S-686-31 Discussion ('confirms the work of Astrom (1965) who postulates an anti-adrenaline action for prilocaine') and reference list.",
+  "bears_on_claim_ids": [
+   "D009",
+   "C067"
+  ],
+  "what_it_shows": "The source of the proposal that prilocaine has an anti-adrenaline action, which is the mechanism Swerdlow and Jones invoke for prilocaine gaining least from adrenaline of the three agents they tested. Relevant to any statement that the interaction between prilocaine and an added vasoconstrictor is unstudied: it was proposed and is cited as confirmed by an intradermal result in 1970. Looked up by title/author search in Amass BiomedCore; no abstract and no DOI.",
+  "quote_from_abstract": ""
+ }
+]

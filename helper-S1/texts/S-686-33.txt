@@ -1,11 +1,234 @@
+[TRANSCRIBED FROM PAGE IMAGES — the PDF is a scan with no text layer and no OCR engine is
+installed in this session. Transcribed by reading texts/scans/S-686-33-{1..5}.png. Page numbers
+below are the journal's own printed page numbers, which is what quotes should cite.]
 
-===== PAGE 1 =====
-
-===== PAGE 2 =====
-
-===== PAGE 3 =====
-
-===== PAGE 4 =====
-
-===== PAGE 5 =====
-
+===== PAGE 203 =====
+CLINICAL ORTHOPAEDICS AND RELATED RESEARCH
+Number 347, pp 203-207
+© 1998 Lippincott-Raven Publishers
+
+Common Peroneal Nerve Block for Sciatica
+
+Kazuya Tajiri, MD, PhD*; Keisuke Takahashi, MD, PhD**; Kazuo Ikeda, MD, PhD†; and Katsuro Tomita,
+MD, PhD†
+
+The effectiveness of common peroneal nerve block for lumbar disc herniation was evaluated in a
+double blind study. Common peroneal nerve block was performed near the fibular head in nine
+patients using 2% lidocaine and in 10 patients using saline. The average pain scale score decreased
+from 3.1 to 0.6 in the lidocaine group, whereas it decreased from 3.0 to 2.6 in the placebo group.
+The average result in the straight leg raising test increased from 61° to 84° in the lidocaine
+group, but from 44° to 50° in the placebo group. Lower leg pain lessened more in the lidocaine group
+than in the placebo group. The finding that lower leg pain disappeared or decreased with a lidocaine
+block at a site far distal to the lumbar lesion suggests that impulses that are transmitted distal
+to the lesion may be important for the generation of sciatic radicular pain.
+
+From the *Department of Orthopaedic Surgery, Tsuruga City Hospital, Tsuruga, Japan; the
+**Department of Orthopaedic Surgery, Ishikawa Prefectural Central Hospital, Kanazawa, Japan; and
+the †Department of Orthopaedic Surgery, School of Medicine, Kanazawa University, Kanazawa, Japan.
+The study was performed at the School of Medicine, Kanazawa University, Kanazawa, Japan.
+Reprint requests to Kazuya Tajiri, MD, PhD, Department of Orthopaedic Surgery, School of Medicine,
+Kanazawa, University, 13-1 Takara-machi, Kanazawa 920, Japan.
+Received: June 21, 1996.
+Revised: November 14, 1996; June 20, 1997.
+Accepted: August 13, 1997.
+
+Many kinds of nerve block are used for the treatment of pain. In general, an anesthetic is thought
+to be effective for reducing pain when injected proximal to the lesion. However, some nerve blocks,
+such as nerve root block, intercostal nerve block, and trigeminal nerve block, are performed distal
+to the lesion. It is not clear why these distal blocks are effective, but it is possible that the
+local anesthetic reaches the lesion and blocks the nerve. The authors performed a prospective
+evaluation of the effectiveness of common peroneal nerve block for patients with lumbar disc
+herniation. The current study investigated the effectiveness of nerve block at a point distal to the
+lesion. The fibular head was selected as the injection site because it is far from the lumbar nerve
+root, and the common peroneal nerve takes a superficial course at that point.
+
+PATIENTS AND METHODS
+
+Between October 1991 and March 1992, 22 consecutive outpatients who had diagnoses of sciatic
+radicular pain on physical examination were enrolled in this study. All of the patients underwent
+myelography or magnetic resonance imaging, and those who did not have intervertebral disc
+herniation at L4-L5 or L5-S1 were excluded. The existence of a sensory or motor deficit and the
+results of the straight leg raising test were not primary selection criteria. However, if a sensory
+or motor deficit existed, the distribution had to be compati-
+
+===== PAGE 204 =====
+204 Tajiri et al
+Clinical Orthopaedics and Related Research
+
+ble with the dermatome of the affected nerve root detected by imaging. Patients without sensory or
+motor deficits had to have pain in the typical dermatomal distribution of the affected nerve root.
+The patients were divided randomly into lidocaine and placebo groups after enrollment.
+
+For common peroneal nerve block, 6 ml of 2% lidocaine (which was thought to be enough to block the
+nerve completely) or 6 ml of physiologic saline was injected 3 cm distal to the fibular head. To
+avoid nerve injury, injection was done near the nerve at a site that did not cause radiating pain.
+
+Changes in sensitivity to pin prick (analgesia, 0 points; normal sensation, 10 points) in the
+distribution of the common peroneal nerve and weakness of the tibialis anterior and extensor
+hallucis longus muscles were used as indicators of blockade. Patients who showed no changes of
+sensation and muscle strength at 15 minutes after nerve block were excluded from this study. The
+intensity of pain in the lower leg was determined before and at 15 minutes after nerve block using a
+five grade pain scale (Table 1).7 The straight leg raising test also was done. The physician
+assessing the effect of the block had no knowledge of the type of therapy given.
+
+Statistical Analysis
+
+The mean pain scale scores obtained before and after nerve block were compared using Student's t
+test. The relationship between changes of the pin prick scale and the decrease in pain was examined
+using Spearman's correlation analysis. P values less than 0.01 were considered significant.
+
+RESULTS
+
+Twenty-two patients took part in this study. Three patients in the lidocaine group who did not show
+a change of muscle strength and sensation at 15 minutes after nerve block were excluded. The average
+age of the patients in the lidocaine group (N = 9), was 41.8 years (range, 22-69 years); in the
+placebo group (N = 10), the average age was 41.0 years (range, 18-70 years). The L5 nerve root was
+involved in seven patients from both groups, whereas the S1 nerve root was involved in two patients
+from the lidocaine group and three patients from the placebo group.
+
+TABLE 1. Pain Scale
+Pain scale / Complaints
+0 None
+1 Mild
+2 Moderate
+3 Severe
+4 Unbearable
+
+In all patients from the lidocaine group, lower leg pain decreased or disappeared completely (Fig
+1A). The average pain scale score decreased from 3.1 to 0.6, indicating that leg pain decreased
+significantly after the block (p < 0.001). The decrease in sensitivity to pin prick test did not
+show any significant relationship to the decrease of pain.
+
+FIG 1A-B. Pain scale score for the lower leg before and after block. (A) In the lidocaine group, the
+average pain scale score decreased from 3.0 to 0.6 (p < 0.001 versus before block). (B) In the
+placebo group, the average score decreased from 3.0 to 2.6 (not significant).
+
+===== PAGE 205 =====
+Number 347
+February, 1998
+Common Peroneal Nerve Block 205
+
+In the placebo group, lower leg pain decreased slightly in four cases (Fig 1B). The average pain
+scale score changed slightly from 3.0 to 2.6, and leg pain did not decrease significantly after the
+block.
+
+There was a significant difference between the two groups in the reduction of lower leg pain (p <
+0.001).
+
+The average result of the straight leg raising test increased from 61° to 84° in the lidocaine group
+(Fig 2A), whereas in the placebo group it changed from 44° to 50° (Fig 2B, Table 2).
+
+DISCUSSION
+
+This study showed that common peroneal nerve block was effective for the relief of sciatic radicular
+pain, despite that the block was done at a point distal to the nerve root. A placebo effect has been
+reported to occur in one of three cases.3 In this study, lower leg pain decreased in four of 10
+patients in the placebo group. In contrast, the common peroneal nerve block was effective in
+reducing the sciatic radicular pain in all pa-
+
+FIG 2A-B. Changes of the straight leg raising test in (A) the lidocaine group and (B) the placebo
+group.
+
+TABLE 2. Results of This Study
+Parameter | Lidocaine Group Before Block | Lidocaine Group After Block | Placebo Group Before Block | Placebo Group After Block
+Number of subjects | 9 | | 10 |
+Male/female | 5/4 | | 6/4 |
+Age (years) | 41.8 ± 17.3 | | 41.0 ± 14.4 |
+Affected nerve (L5/S1) | 7/2 | | 7/3 |
+Pin prick test | 8.11 ± 2.62 | 4.56 ± 3.28 | 7.30 ± 2.36 | 6.00 ± 3.20
+MMT (TA) | 4.67 ± 0.67 | 3.04 ± 1.74 | 4.84 ± 0.32 | 4.84 ± 0.32
+MMT (EHL) | 4.31 ± 0.73 | 2.71 ± 1.67 | 4.64 ± 0.46 | 4.60 ± 0.47
+Pain scale | 3.11 ± 0.60 | 0.56 ± 0.73* | 3.00 ± 0.82 | 2.60 ± 1.17 NS
+SLRT (degrees) | 60.8 ± 25.4 | 84.2 ± 13.8** | 44.0 ± 17.0 | 49.5 ± 18.3 NS
+Values are X ± standard deviation.
+*p < 0.001 versus before block; **p < 0.05 versus before block; NS = not significant versus before
+block.
+MMT = manual muscle testing; TA = tibialis anterior muscle; EHL = extensor hallucis longus muscle;
+SLRT = straight leg raising test.
+Pin prick test: Normal level is 10 points.
+MMT: Normal level is five points.
+
+===== PAGE 206 =====
+206 Tajiri et al
+Clinical Orthopaedics and Related Research
+
+tients in the lidocaine group. Sciatic radicular pain means pain in the leg arising from a lumbar
+nerve root lesion.8 The pathophysiology of the lesion is complex.13 Impulses generated at the lesion
+are transmitted in the proximal and distal directions,4,15 but the actual mechanism that generates
+radicular pain remains unknown. The effectiveness of distal blocks, such as nerve root block,
+intercostal nerve block, and trigeminal nerve block, was not recognized until recently. It is
+possible that in some cases the local anesthetic reaches the lesion and blocks the impulses just at
+the lesion. In the case of nerve root block, nerve root infiltration often shows that the contrast
+medium reaches the lesion. Selander and Sjostrand14 reported that subepineurally injected local
+anesthetics spread 6.5 cm after 15 minutes in rabbits.
+
+In this study, the fibular head was selected as the site for the block because it is far from the
+nerve root. Thus, it seems reasonable to assume that the local anesthetic does not reach the lesion
+after common peroneal nerve block. Local anesthetics block the transmission of nerve impulses by
+interfering with membrane depolarization.12 When local anesthetic is injected proximal to a lesion,
+the impulses to the central nervous system are blocked and the patient does not feel pain. When the
+injection is given distal to the lesion, impulses to the brain obviously are not blocked.
+
+Xavier et al16 reported that sciatic nerve block was effective in five cases of sciatic radicular
+pain. Three hypotheses regarding the mechanism involved in the generation of sciatic radicular pain
+have been proposed. These are: (1) loss of segmental inhibition in the spinal cord6,10; (2) so
+called cross talk9,11; and (3) amplification of normal impulses.1 All of these hypotheses require
+impulses from the periphery but do not explain the nature of such impulses.
+
+Lewis5 explained the mechanism of causalgia as follows. Impulses generated at the site where a
+peripheral nerve is stimulated chronically are transmitted in the proximal and distal directions. In
+the case of sensory nerves, after impulses are transmitted to the periphery, a vasodilator substance
+(H substance) is released from cells in the skin. This substance decreases the pain threshold, and
+generates impulses from sensory nerve ends, so causalgia occurs.
+
+Ectopic impulses generated by affected nerve roots are transmitted to the periphery.4 Recently,
+Devor2 reported that axonal swellings acted as ectopic neural pacemaker nodules in chronically
+injured rat sciatic nerves. It seems possible that new impulses are generated in afferent sensory
+nerve fibers after antidromic impulses reach the distal nerve ends. These impulses are transmitted
+to the brain and cause the sensation of sciatic radicular pain (Fig 3).
+
+The mechanism of the generation of sciatic radicular pain remains unknown. However, the finding that
+nerve block at a site distal to the lesion is effective for pain relief shows that impulses that are
+transmitted to the periphery may be important in the generation of sciatic radicular pain.
+
+FIG 3. Proposed pain relief mechanism of distal point block. (1) Orthodromic impulses in the sensory
+nerve. (2) Antidromic impulses that are transmitted to the periphery and return to the central
+nervous system.
+
+Acknowledgment
+The authors thank Dr. Björn Rydevik, Göteborg University, for his advice during the preparation of
+this article.
+
+===== PAGE 207 =====
+References
+
+1. Calvin WH: Some Design Features of Axons and How Neuralgias May Defeat Them. In Bonica JJ,
+   Liebeskind JC, Albe-Fessard DG (eds). Advances in Pain Research and Therapy. New York, Raven
+   Press 297-309, 1979.
+2. Devor M: Basic Pain Mechanism in Nerve Root Lesion. In Hasue M (ed). International Society for
+   the Study of the Lumbar Spine, Instructional Course. Tokyo, Intermed Inc 90-93, 1991.
+3. Evans FJ: The Placebo Response in Pain Reduction. In Bonica JJ (ed). Advances in Neurology. New
+   York, Raven Press 289-296, 1974.
+4. Howe JF, Loeser JD, Calvin WH: Mechanosensitivity of dorsal root ganglia and chronically injured
+   axons: A physiological basis for the radicular pain of nerve root compression. Pain 3:25-41, 1977.
+5. Lewis T: Cutaneous hyperalgesia. Clin Sci 2:373-423, 1936.
+6. Melzack R, Wall PD: Pain mechanism: A new theory. Science 150:971-978, 1965.
+7. Mineta Y: Evaluation of pain. Rigakuryouhou (in Japanese) 7:23-31, 1990.
+8. Mixter WJ, Barr JS: Rupture of intervertebral disc with involvement of the spinal canal. N Engl J
+   Med 211:210-218, 1934.
+9. Murphy RW: Nerve roots and spinal nerves in degenerative disc disease. Clin Orthop 129:46-60,
+   1977.
+10. Noordenbos W: Fibre Dissociation. In Noordenbos W (ed). Pain: Problems Pertaining to the
+    Transmission of Nerve Impulses Which Give Rise to Pain. Amsterdam, Elsevier 81-89, 1959.
+11. Rasminski M: Ectopic generation of impulses and cross-talk in spinal nerve roots of dystrophic
+    mice. Ann Neurol 13:351-357, 1978.
+12. Ritchie JM: Mechanism of action of local anesthetic agents and biotoxins. Br J Anaesth
+    47:191-198, 1975.
+13. Rydevik B, Brown MD, Lundborg G: Pathoanatomy and pathophysiology of nerve root compression.
+    Spine 9:7-14, 1984.
+14. Selander D, Sjostrand J: Longitudinal spread of intraneurally injected local anesthetics. Acta
+    Anaesthesiol Scand 22:622-634, 1978.
+15. Wall PD, Devor M: Sensory afferent impulses originate from dorsal root ganglia as well as from
+    the periphery in normal and nerve injured rats. Pain 17:321-339, 1983.
+16. Xavier AV, McDanal J, Kissin I: Relief of sciatic radicular pain by sciatic nerve block. Anesth
+    Analg 67:1177-1180, 1988.

@@ -1,0 +1,12 @@
+[
+ {
+  "pmid": "3269220",
+  "citation": "Xavier AV, McDanal J, Kissin I. Relief of sciatic radicular pain by sciatic nerve block. Anesth Analg 1988;67(12):1177-1180",
+  "found_in_paper": "S-686-33",
+  "bears_on_claim_ids": [
+   "D020"
+  ],
+  "what_it_shows": "A case series of five patients in whom sciatic nerve block relieved sciatic radicular pain; Tajiri 1998 cites it as the precedent for a distal block working on radicular pain. Europe PMC indexes it as Journal Article and Case Reports with no abstract, so it is uncontrolled and cannot serve as a sham-controlled demonstration. It is worth naming against D020 because it is the other local-anaesthetic-block-for-radicular-pain study in this citation neighbourhood, but it does not meet D020's design element, and whether its relief outlasted the block cannot be established without the full text.",
+  "quote_from_abstract": ""
+ }
+]

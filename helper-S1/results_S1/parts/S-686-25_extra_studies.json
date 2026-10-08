@@ -1,0 +1,87 @@
+[
+ {
+  "pmid": "4953096",
+  "citation": "Luduena FP. Duration of local anesthesia. Annu Rev Pharmacol 1969;9:503-520",
+  "found_in_paper": "Cited twice in the discussion of S-686-25 as the source for prolongation of intradermal action by inherent vasoconstrictor activity in the optical isomers of bupivacaine, mepivacaine and prilocaine, and for the vasoconstrictor activity of the dental agents.",
+  "bears_on_claim_ids": [
+   "D024",
+   "D062",
+   "D025",
+   "C034"
+  ],
+  "what_it_shows": "A 1969 review (publication type Review) of what determines duration of local anaesthesia, indexed under Humans, Rabbits, Guinea Pigs, Rats, Stereoisomerism and Time Factors. It is the earliest source in this chain for the finding that the local-anaesthetic isomer with vasoconstrictor activity lasts longer intradermally. Europe PMC holds no abstract, so whether its intradermal duration figures are human or animal cannot be settled from the record; it is a review, not a primary intradermal measurement, so it does not add a study to the counts in D025. Engine: Europe PMC (AUTH search).",
+  "quote_from_abstract": "",
+  "engine": "europepmc",
+  "engine_query": "AUTH:\"Luduena FP\" AND PUB_YEAR:1969"
+ },
+ {
+  "pmid": "13426364",
+  "citation": "Mumford JM, Gray TC. Dental trial of carbocaine; a new local anaesthetic. Br J Anaesth 1957;29(5):210-216",
+  "found_in_paper": "Cited in the discussion of S-686-25, with Berling 1958, for mepivacaine used alone being successful in dental anaesthesia but having 'a rather short duration of action'.",
+  "bears_on_claim_ids": [
+   "D025",
+   "C044"
+  ],
+  "what_it_shows": "A human dental trial of mepivacaine (Carbocaine) against lidocaine, indexed under Humans, Mepivacaine, Lidocaine and Anesthesia, Local. It is a mouth-tissue study, not a skin study, so it does not add to the count of studies timing mepivacaine in skin; it matters because it is one of the two sources Reynolds reads as showing mepivacaine's duration is short, which cuts against a 2.5-hour mepivacaine figure. Europe PMC holds no abstract (pre-1966 citation). A free full text is listed at the publisher DOI via Unpaywall. Engine: Europe PMC (TITLE search).",
+  "quote_from_abstract": "",
+  "engine": "europepmc",
+  "engine_query": "TITLE:\"Dental trial of carbocaine\""
+ },
+ {
+  "pmid": "4876877",
+  "citation": "Rubin AP, Lawson DI. A controlled trial of bupivacaine. A comparison with lignocaine. Anaesthesia 1968;23(3):327-330",
+  "found_in_paper": "Cited in the discussion of S-686-25 as evidence that bupivacaine produces much more prolonged regional block analgesia than lignocaine, the contrast used to warn against extrapolating intradermal duration to other routes.",
+  "bears_on_claim_ids": [
+   "D006",
+   "D008"
+  ],
+  "what_it_shows": "A randomised controlled trial comparing bupivacaine with lignocaine, indexed under Anesthesia, Spinal and Time Factors. It is a nerve-trunk/neuraxial duration comparison, not a skin measurement, so it does not bear on the wheal-volume duration claims except as the non-skin figure those claims are contrasted with. Europe PMC holds no abstract; a free PDF is listed via Unpaywall. Engine: Europe PMC (TITLE search).",
+  "quote_from_abstract": "",
+  "engine": "europepmc",
+  "engine_query": "TITLE:\"controlled trial of bupivacaine\" AND PUB_YEAR:1968"
+ },
+ {
+  "pmid": "4876878",
+  "citation": "Watt MJ, Ross DM, Atkinson RS. A double-blind trial of bupivacaine and lignocaine. Latency and duration in extradural blockade. Anaesthesia 1968;23(3):331-337",
+  "found_in_paper": "Cited alongside Rubin and Lawson in the discussion of S-686-25 for bupivacaine's prolonged block by a non-intradermal route.",
+  "bears_on_claim_ids": [
+   "D006",
+   "D008"
+  ],
+  "what_it_shows": "A randomised double-blind trial of latency and duration of extradural blockade with bupivacaine against lignocaine. Extradural, not skin, so again only the contrast route. Europe PMC holds no abstract; a free PDF is listed via Unpaywall. Engine: Europe PMC (TITLE search).",
+  "quote_from_abstract": "",
+  "engine": "europepmc",
+  "engine_query": "TITLE:\"double-blind trial of bupivacaine and lignocaine\""
+ },
+ {
+  "pmid": "7326166",
+  "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53(11):1211-1216",
+  "found_in_paper": "Not cited by S-686-25, which predates it; looked up to place S-686-25 in the Reynolds intradermal series, because the mepivacaine-wheals page calls this paper the only study that measured mepivacaine in human skin by pinprick over an intradermal bleb.",
+  "bears_on_claim_ids": [
+   "D025",
+   "D024",
+   "D062",
+   "C034"
+  ],
+  "what_it_shows": "A double-blind intradermal study in 23 fit volunteers of L(+), D(-) and racemic mepivacaine plus saline, at a range of concentrations, with analgesia to pinprick tested at 5-min intervals until full recovery - the same method as S-686-25 but five years later, so S-686-25 is the earlier measurement of mepivacaine in human skin by that test. It also reports human intradermal log dose-duration plots for mepivacaine, so the concentration-duration slopes are not unique to Willatts 1985. Its finding that duration rose with concentration in the low range is compatible with the flat 1-3% relationship in S-686-25 if the curve plateaus above about 1%. Engine: Europe PMC (AUTH search).",
+  "quote_from_abstract": "The duration of action of both isomers increased with concentration between 0.05 and 0.9%, but the L isomer was significantly longer acting than the D at 0.3% and more.",
+  "engine": "europepmc",
+  "engine_query": "AUTH:\"Fairley\" AND AUTH:\"Reynolds\" AND (mepivacaine OR intradermal)"
+ },
+ {
+  "pmid": "4041306",
+  "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57(10):1006-1011",
+  "found_in_paper": "Not cited by S-686-25, which predates it; looked up because it is the source the prilocaine-wheals, mepivacaine-wheals and comparison pages treat as the only or the second intradermal timing of these agents.",
+  "bears_on_claim_ids": [
+   "C065",
+   "D024",
+   "D062",
+   "C034",
+   "D025"
+  ],
+  "what_it_shows": "A double-blind intradermal study in 10 volunteers of six agents - procaine, amethocaine, cinchocaine, lignocaine, mepivacaine and prilocaine - reporting duration of action and vascular effects. It is the third, not the first or second, intradermal timing of mepivacaine and prilocaine in human skin once S-686-25 (1976) and Fairley 1981 are counted. Its finding that duration was concentration-dependent for all six drugs disagrees with S-686-25, which found no significant difference in duration across the three concentrations it tested for three agents; the likely reconciliation is that Willatts spanned much lower concentrations where the log dose-duration slope is steep. Engine: Europe PMC (EXT_ID fetch).",
+  "quote_from_abstract": "Duration of action was concentration-dependent for all six drugs, the slopes of the log dose--duration plots reflecting the observed vasoactivity.",
+  "engine": "europepmc",
+  "engine_query": "EXT_ID:4041306"
+ }
+]

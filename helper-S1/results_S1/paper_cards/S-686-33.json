@@ -1,0 +1,80 @@
+{
+ "paper_id": "S-686-33",
+ "citation": "Tajiri K, Takahashi K, Ikeda K, Tomita K. Common Peroneal Nerve Block for Sciatica. Clin Orthop Relat Res 1998;347:203-207",
+ "pmid": "9520891",
+ "doi": "10.1097/00003086-199802000-00024",
+ "right_paper": true,
+ "text_quality": "ocr — the PDF is a scan with no text layer and no OCR engine is installed in this session, so texts/S-686-33.txt is a manual transcription from the five page images in texts/scans/. Abstract, methods, results, both tables, all figure legends, the discussion and all 16 references are transcribed; Figures 1 and 2 are per-subject line plots whose individual values exist only as plotted points, and Table 2 carries the group means, so nothing numeric is lost.",
+ "design": "Randomised, double-blind, placebo-controlled parallel-group trial. Patients randomised to lidocaine or saline after enrolment; the physician assessing the effect of the block had no knowledge of the type of therapy given. Student's t test for pain scores, Spearman correlation for the pin-prick/pain relationship, significance at p < 0.01.",
+ "population": "22 consecutive outpatients with sciatic radicular pain on physical examination and intervertebral disc herniation at L4-L5 or L5-S1 confirmed on myelography or MRI, enrolled October 1991 to March 1992. Three lidocaine-group patients were excluded for showing no change of muscle strength and sensation at 15 minutes, leaving 19 analysed.",
+ "n": "lidocaine n = 9 (mean age 41.8, range 22-69); placebo n = 10 (mean age 41.0, range 18-70); 22 enrolled, 3 excluded",
+ "setting": "Outpatients; study performed at the School of Medicine, Kanazawa University, Japan",
+ "intervention": "Common peroneal nerve block near the fibular head, injected distal to the fibular head: lidocaine [dose figure omitted] in one arm, physiologic saline [dose figure omitted] in the other. Injection was placed near the nerve at a site that did not cause radiating pain.",
+ "comparator": "Physiologic saline, same volume and site (placebo injection)",
+ "route": "Perineural injection at the common peroneal nerve near the fibular head. This is a peripheral nerve block, not an intradermal wheal.",
+ "duration": "Single block. Pain and the straight leg raising test were measured before the block and at 15 minutes after it. There is no later follow-up and no measurement after the block wore off.",
+ "outcomes": "Five-grade pain scale for lower leg pain (0 none to 4 unbearable); straight leg raising test in degrees; pin-prick sensitivity and manual muscle testing of tibialis anterior and extensor hallucis longus as indicators of blockade",
+ "key_results": [
+  {
+   "quote": "The intensity of pain in the lower leg was determined before and at 15 minutes after nerve block using a five grade pain scale",
+   "page": 204
+  },
+  {
+   "quote": "Patients who showed no changes of sensation and muscle strength at 15 minutes after nerve block were excluded from this study.",
+   "page": 204
+  },
+  {
+   "quote": "The average pain scale score decreased from 3.1 to 0.6, indicating that leg pain decreased significantly after the block (p < 0.001).",
+   "page": 204
+  },
+  {
+   "quote": "The average pain scale score changed slightly from 3.0 to 2.6, and leg pain did not decrease significantly after the block.",
+   "page": 205
+  },
+  {
+   "quote": "There was a significant difference between the two groups in the reduction of lower leg pain (p < 0.001).",
+   "page": 205
+  },
+  {
+   "quote": "The physician assessing the effect of the block had no knowledge of the type of therapy given.",
+   "page": 204
+  },
+  {
+   "quote": "The decrease in sensitivity to pin prick test did not show any significant relationship to the decrease of pain.",
+   "page": 204
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "A placebo effect has been reported to occur in one of three cases.3 In this study, lower leg pain decreased in four of 10 patients in the placebo group.",
+   "page": 205
+  },
+  {
+   "quote": "The mechanism of the generation of sciatic radicular pain remains unknown.",
+   "page": 206
+  }
+ ],
+ "funding_conflicts": "No funding or conflict-of-interest statement. The acknowledgment thanks Dr Bjorn Rydevik, Goteborg University, for advice during preparation.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Xavier AV, McDanal J, Kissin I. Relief of sciatic radicular pain by sciatic nerve block. Anesth Analg 1988;67(12):1177-1180",
+   "pmid": "3269220",
+   "why": "the closest precedent for a local-anaesthetic nerve block relieving radicular pain, and the obvious candidate for the relief-outlasting-the-block question behind D020. Verified in Europe PMC: PMID 3269220, DOI 10.1213/00000539-198812000-00013, publication types Journal Article and Case Reports, no abstract indexed, 15 citing papers, two published comments (PMIDs 2764297 and 2818739). Being a case series it is uncontrolled, so it cannot displace a sham-controlled demonstration."
+  },
+  {
+   "citation": "Selander D, Sjostrand J. Longitudinal spread of intraneurally injected local anesthetics. Acta Anaesthesiol Scand 1978;22:622-634",
+   "pmid": "",
+   "why": "cited for how far injected local anaesthetic spreads along a nerve, which bears on any claim about whether a distal injection can reach a proximal lesion [PMID not verified in this session and therefore left blank rather than guessed]"
+  },
+  {
+   "citation": "Evans FJ. The Placebo Response in Pain Reduction. In Bonica JJ (ed). Advances in Neurology. New York, Raven Press 289-296, 1974",
+   "pmid": "",
+   "why": "the source of the one-in-three placebo-response figure the authors use to interpret their own placebo arm; bears on how sham-controlled injection results are read"
+  },
+  {
+   "citation": "Ritchie JM. Mechanism of action of local anesthetic agents and biotoxins. Br J Anaesth 1975;47:191-198",
+   "pmid": "",
+   "why": "cited for the membrane-depolarisation mechanism of local anaesthetics; background for mechanism claims on the pain-biology page [PMID not verified in this session and therefore left blank rather than guessed]"
+  }
+ ]
+}
