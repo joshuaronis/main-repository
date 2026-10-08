@@ -167,5 +167,18 @@
   "page": 3,
   "proposed_wording": "NCT07805057 would be the first sham-controlled device trial in skin-biopsy-proven idiopathic SFN; drugs have already been tested against placebo in this condition (IVIG, Geerts 2021, n=60, null; gabapentin and tramadol, Ho 2009; vixotrigine, CONVEY 2023), and one device has been tested without a sham, against an untreated leg (electrical stimulation, Burakgazi 2020, n=8, null).",
   "reason": "Burakgazi 2020 tested a device in idiopathic SFN with an untreated contralateral leg rather than a sham, so 'nothing in this condition has yet been tested' is wrong for devices too. 'First sham-controlled device trial' remains true. The paper does not say whether its subjects' SFN was biopsy-proven ('previously diagnosed SFN')."
+ },
+ {
+  "claim_id": "A027",
+  "paper_id": "S-686-22",
+  "pmid": "26313450",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Incorporating a dedicated measure of small caliber fiber such as skin biopsy was considered although ultimately not used due to the fact that regulatory authorities did not accept a change in this measure as a criterion for approval.",
+  "page": 7,
+  "proposed_wording": "",
+  "reason": "Answer to the open question: the ranirestat phase II/III trial (NCT00927914, 800 randomised) did not include skin biopsy or IENFD among any of its endpoints. The authors say skin biopsy was considered and dropped because regulators did not accept it as an approval criterion, and they list the secondary and exploratory measures without it (p. 4). So this trial does not add to the class's skin-biopsy literature. The other half of the claim's uncertainty, what the 2000 letter is, is answered in the Yasuda 2000 entry (S-686-41)."
  }
 ]

@@ -147,5 +147,23 @@
    "Reference §6.12 and S245",
    "Product Guide Part Four"
   ]
+ },
+ {
+  "paper_id": "S-686-22",
+  "notion_searches": [
+   "ranirestat",
+   "Polydefkis 2015 ranirestat skin biopsy regulatory"
+  ],
+  "pages_fetched": [
+   {
+    "page": "Growing Back Nerves (ARI section), Reference §6.12.4 and S238, Product Guide (cached copies)",
+    "url": "",
+    "as_of": "see earlier entries"
+   }
+  ],
+  "method": "Searched the cached full texts for ranirestat, 26313450 and aldose reductase; read the ARI passages.",
+  "no_mention_found_on": [
+   "Polydefkis 2015 is not cited anywhere found; ranirestat only in Reference §6.12.4"
+  ]
  }
 ]

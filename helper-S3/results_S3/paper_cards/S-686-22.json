@@ -1,0 +1,75 @@
+{
+ "paper_id": "S-686-22",
+ "citation": "Polydefkis M, Arezzo J, Nash M, Bril V, Shaibani A, Gordon RJ, Bradshaw KL, Junor RWJ; Ranirestat Study Group. Safety and efficacy of ranirestat in patients with mild-to-moderate diabetic sensorimotor polyneuropathy. J Peripher Nerv Syst 2015;20(4):363–371",
+ "pmid": "26313450",
+ "doi": "10.1111/jns.12138",
+ "right_paper": true,
+ "text_quality": "partial: publisher PDF with a text layer, 9 pages, main text, tables 1–3, figures 1–2 and investigator appendix complete. The online-only Supporting Information (Appendix S1, Table S1, Figure S1, which list every secondary and exploratory measure) is not in the PDF. Page numbers are PDF pages (PDF 1–9 = journal pages 363–371).",
+ "design": "Global, multicentre (84 sites), randomised, double-blind, placebo-controlled, three-arm parallel phase II/III trial (NCT00927914), 1:1:1, IVRS allocation stratified by site; 1-month run-in, 24 months of treatment, 1-month follow-up. Analysis by ANCOVA with LOCF and Dunnett adjustment; the combined-dose comparison was post hoc.",
+ "population": "Adults 18–75 with type 1 or type 2 diabetes for at least 12 months (stable glycaemic control at least 3 months) and symptomatic diabetic sensorimotor polyneuropathy by AAN criteria with abnormal peroneal motor conduction velocity. Excluded: foot ulcer or amputation, non-diabetic neuropathy causes, hypothyroidism, B12/folate deficiency and others. Mean age about 57.6, 88% type 2, mean HbA1c about 7.9%, DSPN duration about 4.5 years.",
+ "n": "800 randomised: placebo 265, ranirestat 40 mg 264, 80 mg 271 (2,721 screened); 785 in the safety population; 633 (79%) completed.",
+ "setting": "84 sites in Asia, Europe, North America and Russia; July 2009 to January 2013; sponsor Eisai.",
+ "intervention": "Oral ranirestat (AS-3201), an aldose reductase inhibitor, 40 mg/day or 80 mg/day for 24 months.",
+ "comparator": "Placebo",
+ "route": "oral",
+ "duration": "24 months of treatment (mean exposure about 21–22 months).",
+ "outcomes": "Primary: change in peroneal motor nerve conduction velocity (PMNCV) at 24 months, target difference of at least 1.2 m/s. Secondary: NTSS-6-SA symptom score, vibration perception threshold. Exploratory (Supporting Information): signs and symptoms, sensory capacity, quality of life, pain, other electrophysiology. No skin biopsy or other small-fibre measure.",
+ "key_results": [
+  {
+   "quote": "Incorporating a dedicated measure of small caliber fiber such as skin biopsy was considered although ultimately not used due to the fact that regulatory authorities did not accept a change in this measure as a criterion for approval.",
+   "page": 7
+  },
+  {
+   "quote": "Secondary and exploratory measures including signs and symptoms of DSPN, sensory capacity, quality of life, pain, and various electrophysiological parameters did not show a trend toward treatment effect",
+   "page": 4
+  },
+  {
+   "quote": "The mean improvement from baseline at 24 months was +0.49, +0.95, and +0.90 m/s for placebo, ranirestat 40 mg and 80 mg, respectively (NS).",
+   "page": 1
+  },
+  {
+   "quote": "The treatment difference vs. placebo reached significance when ranirestat groups were combined in a post hoc analysis (+0.44 m/s; p = 0.0237).",
+   "page": 1
+  },
+  {
+   "quote": "Unexpectedly, PMNCV improved rather than declined … over time in the placebo group (+0.49 m/s at 24 months).",
+   "page": 6
+  },
+  {
+   "quote": "Ranirestat was well tolerated and improved PMNCV vs. placebo, but not to the 1.2 m/s threshold.",
+   "page": 7
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "The lack of progression in the placebo group contributed to ranirestat not meeting the primary endpoint goal of a 1.2 m/s improvement in PMNCV.",
+   "page": 6
+  },
+  {
+   "quote": "Dropouts over time and the LOCF approach may have underestimated efficacy measures in this study.",
+   "page": 7
+  },
+  {
+   "quote": "Future studies should include additional measures of small fiber structure or function such as skin biopsy and more contemporary longitudinal data are needed using these measures.",
+   "page": 7
+  }
+ ],
+ "funding_conflicts": "Funded by Eisai; editorial support funded by Eisai Ltd. Two authors (R.J.G., K.L.B.) were full-time Eisai employees, the guarantor among them; J.A. received an Eisai grant to set up and review the NCV data; V.B. is a consultant for Eisai and others. M.P., A.Z., M.N. and R.W.J.J. declare nothing to disclose.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Bril V, Buchanan RA. Aldose reductase inhibition by AS-3201 in sural nerve from patients with diabetic sensorimotor polyneuropathy. Diabetes Care 2004;27:2369–2375",
+   "pmid": "",
+   "why": "Earlier ranirestat RCT with sural nerve biopsies for nerve sorbitol and fructose, not skin; bears on the ARI class pages but not on A027 (skin) or A026 (epalrestat)."
+  },
+  {
+   "citation": "Gibbons CH, Freeman R, Tecilazich F, et al. The evolving natural history of neurophysiologic function in patients with well-controlled diabetes. J Peripher Nerv Syst 2013;18:153–161",
+   "pmid": "",
+   "why": "In well-controlled diabetes nerve conduction stayed stable over 3 years while small-fibre function worsened; context for placebo arms that do not progress (the trial's failure mode)."
+  },
+  {
+   "citation": "Ziegler D, Low PA, Litchy WJ, et al. Efficacy and safety of antioxidant treatment with alpha-lipoic acid over 4 years in diabetic polyneuropathy: the NATHAN 1 trial. Diabetes Care 2011;34:2054–2060",
+   "pmid": "",
+   "why": "Placebo-arm behaviour in a long ALA trial; context for the ALA section of the Growing Back Nerves page (A000 concerns fibre endpoints, which NATHAN 1 did not use)."
+  }
+ ]
+}
