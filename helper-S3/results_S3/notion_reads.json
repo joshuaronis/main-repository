@@ -218,5 +218,35 @@
    "Searched-absent",
    "What transfers"
   ]
+ },
+ {
+  "paper_id": "S-686-32",
+  "notion_searches": [
+   "(cached pages searched for Taheri, 32961514, dsx.2020.09, 'both feet', 'one foot', 'single-foot', 'single-versus-double')"
+  ],
+  "pages_fetched": [
+   {
+    "page": "🕳️ What was searched for and does not exist (cached copy; body item 5 and S18)",
+    "url": "https://app.notion.com/p/3d410b7903aa8169b833f5997631cc82",
+    "as_of": "2026-09-27T00:27:49.877Z"
+   },
+   {
+    "page": "botulinum-toxin-wheals (cached copy; coverage problem, What is still unknown, Sources)",
+    "url": "https://app.notion.com/p/3c510b7903aa81e7ba6aff740e868a71",
+    "as_of": "2026-10-02T03:14:16.296Z"
+   }
+  ],
+  "method": "Full-text search of the twelve cached pages for the trial and for the one-foot/both-feet statements; passages around each hit read. The trial is cited on one page only (searched-for-and-absent, S18) and described without attribution on the botulinum page.",
+  "no_mention_found_on": [
+   "Reference (the Taheri hits there are three different authors named Taheri)",
+   "Product Guide",
+   "Unsettled",
+   "What transfers",
+   "Pain biology",
+   "Menthol",
+   "Growing Back",
+   "Non-drug",
+   "Before-after biopsy"
+  ]
  }
 ]

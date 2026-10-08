@@ -232,5 +232,44 @@
   "page": 3,
   "proposed_wording": "Wang C, Zhang Q, Wang R, Xu L. … — The largest pooled analysis whose trials were all intradermal: four randomized trials, 231 patients. Its abstract gives no route criterion; every trial it found was intradermal. An earlier meta-analysis, Lakhan 2015 (Pain Medicine, PMID 25800040), pooled two randomized placebo-controlled trials in painful diabetic neuropathy, Yuan 2009 and Ghasemi 2014, both intradermal (58 patients), to a VAS difference of −1.96 (95% CI −3.09 to −0.84).",
   "reason": "Answer to the open question. Lakhan pooled exactly two trials: Yuan 2009 (Neurology, PMID 19246421; double-blind crossover, onabotulinumtoxinA, 18 analysed) and Ghasemi 2014 (J Res Med Sci, PMID 24778662; double-blind parallel, abobotulinumtoxinA, 40 patients). Its Table 2 describes both as intradermal, into the dorsum of the foot (p. 3), and the results restate the shared grid (p. 6). A third trial, Chen 2013 (PMID 23462284), was excluded as a duplicate report of Yuan. Route was not an inclusion criterion: the review took AAN class I/II double-blind placebo-controlled trials in painful diabetic neuropathy (pp. 2, 5). Wang 2021's abstract does not give one either ('RCTs were included if they were related to the treatment of DPN pain with BTX-A'). Both reviews are therefore restricted to the intradermal route in the same sense, by what they found, and Wang's is not the only one. Lakhan adds no trial that Wang 2021 and the Notion pages do not already cover: Ghasemi is cited on the botulinum page and both trials in Reference S150. Its pooled estimate also counts the crossover patients in both arms (58 patients, 76 treatments)."
+ },
+ {
+  "claim_id": "C008",
+  "paper_id": "S-686-32",
+  "pmid": "32961514",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "In our study, patients who received unilateral BTX-A injections showed decreased VAS score in both feet, which may reflect the central effects of BTX-A injection (and not just the topical effect).",
+  "page": 3,
+  "proposed_wording": "Whether the crossover to the untreated side is large enough to halve the dose needed is unstudied. A third of patients injected in one foot reported relief in both, pooled analysis found no significant difference between one-foot and two-foot injection, and a three-arm randomised trial that gave each patient the same total amount — all of it in one foot in one arm, divided between both feet in the other — found the two arms differed on only one of ten items, hot sensation, which improved less when the amount was split across both feet. What none of them tests is a smaller total.",
+  "reason": "Answer to the open question, in two parts. (1) The saline-injected foot of the one-foot group is not reported separately: the visual analogue scale and all ten Neuropathy Pain Scale items were recorded per patient, not per foot, and the trial's only statement about the untreated side is the Discussion sentence quoted here, with no count of patients and no figure. So this trial is not a second measurement of the untreated foot; it is a second author group reporting the same impression. (2) The bilateral arm's amount was per patient, not per foot: 'For each patient, total of [dose figure omitted] of BTX- A was injected' (p. 2), with that total divided equally between the two feet in the bilateral arm, so the per-foot amount there was half the unilateral arm's while the per-patient total matched. That makes this a randomised head-to-head of one foot against both at a matched total, and the arms separated on only one item (hot sensation, improving less in the bilateral arm, p=0.003, p. 3). The verdict stays narrowed because the dose-halving question itself is still untested: no arm received a smaller total."
+ },
+ {
+  "claim_id": "C002",
+  "paper_id": "S-686-32",
+  "pmid": "32961514",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "When comparing group D1 and D2, only hot sensation showed a significant difference; in other words, hot sensation improvement was significantly lower among those patients who received injection in both feet compared to one foot",
+  "page": 3,
+  "proposed_wording": "So one of three things has to give: the area treated, the density of the grid, or the units delivered per point. One randomised trial has varied two of them deliberately: holding the total per patient and the grid geometry fixed, it compared all of the toxin in one foot against the same total divided between both feet, which halves the amount per point and doubles the area. The two arms separated on one of ten items — hot sensation, which improved less when the amount was spread across both feet. What has not been varied deliberately is the density of the grid, or the fraction of a single painful region covered.",
+  "reason": "Taheri 2020 is a randomised, double-blind, three-arm trial that deliberately varied the treated area and the amount delivered per point while holding the per-patient total and the grid geometry constant (one foot against both feet, p. 2), with pain as the outcome. That matches every element of the claim — population, intervention, design, outcome — so 'none has varied them deliberately' is refuted, as is the later sentence that 'no trial has varied it deliberately'. The result is also informative rather than null: of ten items only hot sensation differed, and it favoured concentrating the amount in one foot (p=0.003, p. 3). Grid density was not varied, and no trial has covered part of one painful region, so the page's underlying worry survives in narrower form. Verdict was already narrowed on the abstract; the full text confirms the deliberate variation and adds the direction of the one difference."
+ },
+ {
+  "claim_id": "C011",
+  "paper_id": "S-686-32",
+  "pmid": "32961514",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "It is of note that the total injected volume for each patient in each group was equal to [dose figure omitted].",
+  "page": 2,
+  "proposed_wording": "",
+  "reason": "Checked and unchanged. This randomised controlled trial states an amount per injection point and a spacing between points, but no units-per-area figure, so the claim as worded still holds for controlled trials; the per-area number remains a derivation, here from a trial's geometry rather than from a sentence in it. The narrowing already recorded (one uncontrolled study dosed explicitly by area) is unaffected. Figures not recorded here, per the dose rule."
  }
 ]

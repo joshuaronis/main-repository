@@ -1,0 +1,107 @@
+{
+ "paper_id": "S-686-32",
+ "citation": "Taheri M, Sedaghat M, Solhpour A, Rostami P, Safarpour Lima B. The effect of intradermal botulinum toxin A injections on painful diabetic polyneuropathy. Diabetes Metab Syndr 2020;14(6):1823–1828",
+ "pmid": "32961514",
+ "doi": "10.1016/j.dsx.2020.09.019",
+ "right_paper": true,
+ "text_quality": "ok: 6-page Elsevier PDF, journal pages 1823–1828. The text layer renders '=' as '¼', '–' as 'e' and '±' as '', and Table 2 extracts as one long column of values whose row and group labels had to be matched by position; the group comparisons quoted below were read from the Results prose rather than the table.",
+ "design": "Prospective, randomised, double-blind, placebo-controlled parallel trial with three arms, registered IRCT20130518013364N8: (D1) toxin into one foot and saline into the other; (D2) toxin into both feet; (N) saline into both feet. Allocation by simple random sampling with substitution from a random-number table, with syringes coded by a physician who did not inject; the injecting physician, the patients and the outcome assessors were blind. Both active arms received the same total amount per patient, divided equally between the two feet in D2, so the bilateral arm's per-foot amount was half the unilateral arm's and the total injected per patient was identical; total injected volume per patient was equal in all three arms. Analysis: paired t tests within groups, ANCOVA adjusted for baseline between groups, Sidak-corrected multiple comparisons. Reviewer's observations: the design mixes a within-patient comparison (treated foot against saline foot in D1) with between-patient comparisons, and only the between-patient ones are reported; pain was recorded per patient, not per foot; the design sentence says three months of follow-up while the strengths paragraph and the methods say assessment at four weeks; the groups differed at baseline on one item (sensitive sensation), handled by covariate adjustment; every patient was also given a daily systemic antidepressant, so the trial measures the toxin as an add-on.",
+ "population": "141 adults aged 40–70 with type 1 or type 2 diabetes and distal symmetrical polyneuropathy of the lower limbs by DN4 (score ≥4) and nerve conduction (ESTEEM criteria: sensory nerve action potential amplitude and sensory conduction velocity each ≥2.5 SD below normal). Excluded: local infection, lumbar radiculopathy, neurological or mental deficit, toxin allergy, alcohol or opium use, renal disease, lower-limb weakness or atrophy, myasthenia gravis, aminoglycosides, breastfeeding. Mean age 55.2, 61% women; 47 per arm (powered for 30 per arm).",
+ "n": "141 randomised, 47 per arm; no dropouts reported.",
+ "setting": "Pain clinic, Imam Hossein Medical Center, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Recruited May–August 2019; final study date September 2019.",
+ "intervention": "Botulinum toxin type A [dose figure omitted] in saline, injected intradermally with an insulin needle on a fixed grid over the sole of the foot [dose figure omitted]. All patients took a daily oral antidepressant (duloxetine) throughout.",
+ "comparator": "Normal saline 0.9% injected the same way — into the contralateral foot in D1 and into both feet in N.",
+ "route": "intradermal (sole of the foot)",
+ "duration": "Single injection session; outcomes at four weeks.",
+ "outcomes": "Visual analogue scale (0–10) and the ten-item Neuropathy Pain Scale (pain intensity, sharp, hot, dull, cold, itching, sensitive, unpleasant, deep and surface pain), recorded per patient before treatment and at four weeks. No quality-of-life, sleep, fibre or adverse-event outcome is reported.",
+ "key_results": [
+  {
+   "quote": "This prospective, randomized, double-blind, controlled trial was performed in Imam Hossein Medical Center, pain clinic (Tehran, Iran).",
+   "page": 1
+  },
+  {
+   "quote": "Patients were randomly assigned to one of three groups using the simple random sampling with substitution with the help of a random numbers table (Kendall & Smith table).",
+   "page": 2
+  },
+  {
+   "quote": "Proper allocation concealment was used to keep the trial investigators and participants blind to upcoming allocations.",
+   "page": 2
+  },
+  {
+   "quote": "For each patient, total of [dose figure omitted] of BTX- A was injected.",
+   "page": 2
+  },
+  {
+   "quote": "It is of note that the total injected volume for each patient in each group was equal to [dose figure omitted].",
+   "page": 2
+  },
+  {
+   "quote": "A daily dose of Duloxetine [dose figure omitted] was prescribed for all patients.",
+   "page": 2
+  },
+  {
+   "quote": "Each patient underwent the standard procedure, and routine follow-up was performed 4 weeks after performing the procedure of injection.",
+   "page": 2
+  },
+  {
+   "quote": "This is a prospective, randomized trial study with three months of follow-up performed between May and September 2019.",
+   "page": 2
+  },
+  {
+   "quote": "A total of 141 patients entered the study corresponding to 47 patients in each group to cover probable loss to follow-up.",
+   "page": 2
+  },
+  {
+   "quote": "there was no difference among the 3 groups regarding pretreatment parameters, except for sensitive sensation",
+   "page": 3
+  },
+  {
+   "quote": "All parameters were improved significantly in D1 and D2 groups as compared to group N, except for dull sensation and cold sensation.",
+   "page": 3
+  },
+  {
+   "quote": "When comparing group D1 and D2, only hot sensation showed a significant difference; in other words, hot sensation improvement was significantly lower among those patients who received injection in both feet compared to one foot",
+   "page": 3
+  },
+  {
+   "quote": "In our study, patients who received unilateral BTX-A injections showed decreased VAS score in both feet, which may reflect the central effects of BTX-A injection (and not just the topical effect).",
+   "page": 3
+  },
+  {
+   "quote": "It was striking that the rats who received unilateral BTX-A injections showed bilateral decreased pain. This effect was also observed in our study.",
+   "page": 3
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "As a limitation, we could not determine the optimal dose of BTXA required to improve pain in diabetic neuropathy.",
+   "page": 5
+  },
+  {
+   "quote": "The strength of this study includes larger sample size compared to other previous studies … and a 4-week follow-up after treatment.",
+   "page": 5
+  },
+  {
+   "quote": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+   "page": 5
+  }
+ ],
+ "funding_conflicts": "Acknowledgment: 'None to declare.' Declaration of interests: no competing financial interests or personal relationships (p. 5). No funder named.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Bach-Rojecky L, Šalković-Petrišić M, Lacković Z. Botulinum toxin type A reduces pain supersensitivity in experimental diabetic neuropathy: bilateral effect after unilateral injection. Eur J Pharmacol 2010;633(1–3):10–14",
+   "pmid": "20123097",
+   "why": "The rat model of the bilateral effect; the authors say the same crossover appeared in their patients, which is the human half of the botulinum page's 'crossover to the untreated side' question."
+  },
+  {
+   "citation": "Ranoux D, Attal N, Morain F, Bouhassira D. Botulinum toxin type A induces direct analgesic effects in chronic neuropathic pain. Ann Neurol 2008;64(3):274–283",
+   "pmid": "18546285",
+   "why": "The intradermal trial this one is compared against; the authors note their own trial was larger and covered more points."
+  },
+  {
+   "citation": "Salehi H, Moussaei M, Kamiab Z, Vakilian A. The effects of botulinum toxin type A injection on pain symptoms, quality of life, and sleep quality of patients with diabetic neuropathy: a randomized double-blind clinical trial. Iran J Neurol 2019;18(3):99–107",
+   "pmid": "31749930",
+   "why": "Cited as the comparison trial whose sharp, sensory and deep items did not separate from placebo; already on the record for claim C000 (quality of life)."
+  }
+ ]
+}
