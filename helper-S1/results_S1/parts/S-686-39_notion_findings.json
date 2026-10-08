@@ -231,13 +231,13 @@
   "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
   "page_version": "2026-10-02T03:14:20.685Z",
   "section": "What “without a vasoconstrictor” has to mean; The adjuvant already in the bottle",
-  "sentence_as_it_stands": "Benzyl alcohol is a weak local anesthetic in its own right, not a modifier of another drug. No vessel. [and] Benzyl alcohol on its own wears off faster than lidocaine. It is an additive, not a substitute.",
+  "sentence_as_it_stands": "Benzyl alcohol is a weak local anesthetic in its own right, not a modifier of another drug. No vessel. / Benzyl alcohol on its own wears off faster than lidocaine. It is an additive, not a substitute.",
   "kind": "now-verified",
   "quote": "Satisfactory anesthesia began to dissipate after 2 to 3 minutes with benzyl alcohol–saline solution, after 5 minutes with procaine, and after 20 minutes with the lidocaine preparations",
   "page_in_paper": 688,
   "corrected_wording": "No change needed. Both statements now have a second, independent human intradermal source: in Wightman and Vaughan 1976 (PMID 791022) benzyl alcohol in saline produced anaesthesia of its own where plain saline produced none, and that anaesthesia began to dissipate within a few minutes against twenty minutes for the lidocaine preparations in the same subjects.",
   "importance": "medium",
-  "notes": "Recorded as now-verified because the page states both points from a single trial each and neither was marked as replicated. The 1976 measurement is of benzyl alcohol in saline rather than added to lidocaine, so it verifies the 'anaesthetic in its own right' and 'wears off faster' statements and not the prolongation figure. Recorded against claims C013 and D019."
+  "notes": "Recorded as now-verified because the page states both points from a single trial each and neither was marked as replicated. The 1976 measurement is of benzyl alcohol in saline rather than added to lidocaine, so it verifies the 'anaesthetic in its own right' and 'wears off faster' statements and not the prolongation figure. Recorded against claims C013 and D019. Two separate sentences from the same page, from the two sections named, joined with a slash; each was checked verbatim against the fetched page."
  },
  {
   "finding_id": "S-686-39-F017",

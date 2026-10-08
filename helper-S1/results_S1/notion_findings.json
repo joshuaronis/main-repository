@@ -1372,7 +1372,7 @@
   "page_in_paper": 206,
   "corrected_wording": "A local anesthetic injection silences signalling in the tissue region it actually bathes, and whether it must reach the generator of abnormal firing to relieve pain is not settled: in a randomised, double-blind, saline-controlled trial, a block placed far distal to an imaged lumbar root lesion abolished or reduced leg pain in every treated patient and saline did not (Tajiri 1998, PMID 9520891). The benefit measured there was time-limited, because the single post-block assessment was at fifteen minutes.",
   "importance": "medium",
-  "notes": "The page's account implies that a block helps only to the extent that it reaches the generators of abnormal firing, and draws the practical conclusion that a local injection in a distributed disorder will give partial, regional benefit. A controlled human trial shows that a block placed away from the lesion can relieve pain generated at the lesion, which the account does not allow for. The page is a mechanism explainer and carries a note at the top asking for it to be reworked, so the correction is to the inference rather than to a figure.",
+  "notes": "The page's account implies that a block helps only to the extent that it reaches the generators of abnormal firing, and draws the practical conclusion that a local injection in a distributed disorder will give partial, regional benefit. A controlled human trial shows that a block placed away from the lesion can relieve pain generated at the lesion, which the account does not allow for. The page is a mechanism explainer and carries a note at the top asking for it to be reworked, so the correction is to the inference rather than to a figure. Sentence read from an inline Notion fetch of this page (small enough to return inline, so it is not among the saved large-page files) and checked character by character against that fetch; emphasis markers stripped, as for every sentence recorded here.",
   "worker_finding_id": "S-686-33-F004"
  },
  {
@@ -1574,13 +1574,13 @@
   "page_url": "https://app.notion.com/p/3d310b7903aa81fbb5b9e999637c362a",
   "page_version": "2026-10-02T03:14:20.685Z",
   "section": "What “without a vasoconstrictor” has to mean; The adjuvant already in the bottle",
-  "sentence_as_it_stands": "Benzyl alcohol is a weak local anesthetic in its own right, not a modifier of another drug. No vessel. [and] Benzyl alcohol on its own wears off faster than lidocaine. It is an additive, not a substitute.",
+  "sentence_as_it_stands": "Benzyl alcohol is a weak local anesthetic in its own right, not a modifier of another drug. No vessel. / Benzyl alcohol on its own wears off faster than lidocaine. It is an additive, not a substitute.",
   "kind": "now-verified",
   "quote": "Satisfactory anesthesia began to dissipate after 2 to 3 minutes with benzyl alcohol–saline solution, after 5 minutes with procaine, and after 20 minutes with the lidocaine preparations",
   "page_in_paper": 688,
   "corrected_wording": "No change needed. Both statements now have a second, independent human intradermal source: in Wightman and Vaughan 1976 (PMID 791022) benzyl alcohol in saline produced anaesthesia of its own where plain saline produced none, and that anaesthesia began to dissipate within a few minutes against twenty minutes for the lidocaine preparations in the same subjects.",
   "importance": "medium",
-  "notes": "Recorded as now-verified because the page states both points from a single trial each and neither was marked as replicated. The 1976 measurement is of benzyl alcohol in saline rather than added to lidocaine, so it verifies the 'anaesthetic in its own right' and 'wears off faster' statements and not the prolongation figure. Recorded against claims C013 and D019.",
+  "notes": "Recorded as now-verified because the page states both points from a single trial each and neither was marked as replicated. The 1976 measurement is of benzyl alcohol in saline rather than added to lidocaine, so it verifies the 'anaesthetic in its own right' and 'wears off faster' statements and not the prolongation figure. Recorded against claims C013 and D019. Two separate sentences from the same page, from the two sections named, joined with a slash; each was checked verbatim against the fetched page.",
   "worker_finding_id": "S-686-39-F016"
  },
  {
