@@ -1,0 +1,67 @@
+[
+ {
+  "claim_id": "D001",
+  "paper_id": "S-686-28",
+  "pmid": "23076005",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "After in following 12 measurement points (before injection, 1, 8, 16, 24, 32, 40, 48, 56, 60, 360, 1440 minutes), in total the measurement period was 1440 minutes. … 24 hours after injection the acral perfusion reduced to +35.1% (p = 0.03) in comparison to the initial perfusion values before injection (Table 2).",
+  "page": 4,
+  "proposed_wording": "Ropivacaine skin blood flow has been recorded past 90 minutes in more than one study, and the two longest are both finger blocks rather than wheals. The figure quoted here is from a double-blind randomised study in which [dose figure omitted] plain ropivacaine at the base of the finger raised fingerpad flow by 155.2 percent, still raised at 24 hours, in 20 volunteers (Häfner 2008, PMID 18334782). The same department published a second randomised double-blind volunteer study that recorded finger skin perfusion by laser Doppler at 12 points out to 24 hours after a plain-ropivacaine digital nerve block, in 20 volunteers with 20 fingers per arm, and found flow still significantly above baseline at 24 hours (Schnabl 2013, PMID 23076005). No recording at a ropivacaine wheal extends past 90 minutes.",
+  "reason": "The paper settles its own open question exactly. Perfusion was recorded at 12 points spanning 1440 minutes (before injection, then 1, 8, 16, 24, 32, 40, 48, 56, 60, 360 and 1440 minutes), and Tables 2 to 5 each report all 12 points, so the plain-ropivacaine arm (group 1, 6 mL ropivacaine 0.75% without additive, 20 index fingers) was followed to 24 hours, exactly as long as the ropivacaine-with-epinephrine, tumescent and lidocaine-plus-tourniquet arms; group 1 peaked at +160.2% at 56 minutes and was still significantly above baseline at 1440 minutes (+35.1%, p = 0.03, page 5). Schnabl 2013 therefore matches every element D001 lists as absent - humans, ropivacaine by any route, any design, a skin blood flow recording, and a recording longer than 90 minutes - so the uniqueness asserted by 'the one ropivacaine flow recording past 90 minutes' is refuted rather than merely narrowed, and the full text removes the uncertainty that the abstract left. The claim's own figures for Häfner 2008 check out against that paper's abstract (+155.2%, still demonstrable at 24 h, 20 test persons, Oberst's-method block), so what needs correcting is only the word 'one'; one caveat on the deciding number is that the 1440-minute row of Table 2 repeats the 24-minute row's mean and SD, which makes the body text's percentage the reliable figure at that point."
+ },
+ {
+  "claim_id": "W-R005",
+  "paper_id": "S-686-28",
+  "pmid": "23076005",
+  "kind": "other-claim",
+  "old_verdict": "",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "A two-injection dorsal technique digital nerve block for local anesthesia of the finger nerve bundles (Oberst's-method anaesthetic block) was performed on index and ring finger of both hands in each volunteer at the base of the fingers. … To quantify changes in skin perfusion, in every group acral skin blood flux was measured via laser doppler flowmetry (LDF, Perimed Master 4001 and Perimed PF2b, Sweden; wave length 780 nm) on the dorsal side of the fingers below the nail bed.",
+  "page": 3,
+  "proposed_wording": "Skin blood flow at a ropivacaine wheal has still not been recorded past 90 minutes. The only laser Doppler recordings at an intradermal ropivacaine injection stop at 90 minutes (Cederholm 1992, PMID 1286053; Cederholm 1991, PMID 2038927), and the other intradermal ropivacaine study judged the vessels by visual inspection rather than by flow (Cederholm 1994, PMID 8067217). Recordings past 90 minutes exist for ropivacaine by a different route: two randomised double-blind volunteer studies recorded finger skin perfusion by laser Doppler out to 24 hours after a plain-ropivacaine digital nerve block (Häfner 2008, PMID 18334782; Schnabl 2013, PMID 23076005).",
+  "reason": "Schnabl 2013 matches three of W-R005's four elements and misses the one that decides it. It matches population (human skin, 20 healthy volunteers), design (the claim allows any; this is prospective, randomised and double-blind) and outcome (laser Doppler skin blood flux recorded at 360 and 1440 minutes, far beyond 90 minutes). It misses the intervention element twice over: the injection is a digital nerve block by Oberst's two-injection dorsal technique, 6 mL per finger given as 3 mL per lateral and medial side at the base of the finger, which is a perineural and subcutaneous deposit rather than an intradermal wheal; and the flow was recorded on the dorsal side of the finger below the nail bed, a site remote from the injection, whereas a wheal recording is made at the wheal itself. A longer recording by a different route cannot refute a wheal-scoped claim, and because the claim's wording is already explicitly limited to a wheal it is not shown to be too broad either, so the verdict is confirmed and not narrowed. My own independent check (Europe PMC) positively supports the 90-minute figure rather than merely failing to disturb it: both laser Doppler studies of intradermal ropivacaine in human forearm skin took their last reading at 90 minutes, which is where the boundary in the claim comes from."
+ },
+ {
+  "claim_id": "D000",
+  "paper_id": "S-686-28",
+  "pmid": "23076005",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "A two-injection dorsal technique digital nerve block for local anesthesia of the finger nerve bundles (Oberst's-method anaesthetic block) was performed on index and ring finger of both hands in each volunteer at the base of the fingers.",
+  "page": 3,
+  "proposed_wording": "No study has recorded skin blood flow at a wheal of any of these drugs for longer than ninety minutes. The longest ropivacaine flow recordings in skin run to 24 hours but follow a digital nerve block rather than a wheal (Häfner 2008, PMID 18334782; Schnabl 2013, PMID 23076005), and the recordings made at an intradermal ropivacaine injection stop at 90 minutes (Cederholm 1992, PMID 1286053; Cederholm 1991, PMID 2038927).",
+  "reason": "This is the same wheal-scoped statement as W-R005 and the paper leaves it standing. Schnabl 2013 records skin blood flow in human skin out to 1440 minutes, so it matches the population, design, outcome and time elements, but its route is a digital nerve block at the base of the finger with the flow probe on the dorsum of the finger below the nail bed, so it is neither a wheal nor a recording at the injection site - the one element the claim turns on. The verdict stays confirmed; the only wording gain is to name the long nerve-block recordings so the sentence is not read as saying that no ropivacaine flow recording of any kind runs past 90 minutes."
+ },
+ {
+  "claim_id": "D060",
+  "paper_id": "S-686-28",
+  "pmid": "23076005",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "A two-injection dorsal technique digital nerve block for local anesthesia of the finger nerve bundles (Oberst's-method anaesthetic block) was performed on index and ring finger of both hands in each volunteer at the base of the fingers.",
+  "page": 3,
+  "proposed_wording": "No study has recorded skin blood flow at a wheal of any of these drugs for longer than ninety minutes, and no modern intradermal laser Doppler study runs past that point; the intradermal ropivacaine recordings stop at 90 minutes (Cederholm 1992, PMID 1286053; Cederholm 1991, PMID 2038927), while the 24-hour ropivacaine flow recordings in skin follow a digital nerve block rather than a wheal (Häfner 2008, PMID 18334782; Schnabl 2013, PMID 23076005).",
+  "reason": "Same wheal-scoped statement as D000, carried on the Procaine / Novocaine page, and the same reasoning applies. Schnabl 2013 is a laser Doppler recording in human finger skin running to 24 hours, which satisfies the population, design, outcome and duration elements, but it follows a perineural digital nerve block and the probe sits remote from the injection, so it is not an intradermal wheal recording and cannot refute a claim scoped to one. Confirmed stands; naming the nerve-block recordings is the only improvement available."
+ },
+ {
+  "claim_id": "D003",
+  "paper_id": "S-686-28",
+  "pmid": "23076005",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "The average duration of drug effect until achievement of normal pain perception was 6.0 hours (Fig. 4a).",
+  "page": 7,
+  "proposed_wording": "Plain-ropivacaine blocks have been followed to complete resolution in people more than once. Besides the volunteer study that timed pinprick anaesthesia to 15.9 hours in 15 volunteers assessed over 72 hours, a randomised double-blind volunteer study timed return of normal pain perception after a plain-ropivacaine digital nerve block at an average of 6.0 hours in 20 volunteers (Schnabl 2013, PMID 23076005), and a randomised double-blind digital block trial in 70 patients timed it at a mean of 21.5 hours (Keramidas 2007, PMID 17519714).",
+  "reason": "D003 is already refuted, and this paper adds a further clean instance within the claim's own scope: people, plain ropivacaine, any block, any design, followed until the block had completely resolved. Group 1 received 6 mL ropivacaine 0.75% with no additive as a digital nerve block, and pain provocation was repeated to 1400 minutes until normal pain perception returned, giving an average duration of drug effect of 6.0 hours; the paper's reference [14] (Keramidas 2007, PMID 17519714) is a second such measurement, a randomised double-blind plain-ropivacaine digital block in 70 patients with a mean duration of 21.5 hours. The verdict does not change, but the page's uniqueness wording is now contradicted by three independent measurements rather than one."
+ }
+]

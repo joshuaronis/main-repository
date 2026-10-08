@@ -1,0 +1,94 @@
+{
+  "paper_id": "S-686-16",
+  "citation": "Milner QJW, Guard BC, Allen JG. Alkalinization of amide local anaesthetics by addition of 1% sodium bicarbonate solution. European Journal of Anaesthesiology 2000;17:38-42",
+  "pmid": "10758442",
+  "doi": "10.1046/j.1365-2346.2000.00596.x",
+  "right_paper": true,
+  "text_quality": "ok",
+  "design": "Laboratory solution study (bench titration). No patients, no animals, no clinical endpoint. Sodium bicarbonate 1% was titrated against pH in commercially supplied amide local anaesthetic solutions at room temperature, with each solution run three times using three different production batch numbers. Precipitation was looked for at every addition by naked eye against white and black backgrounds, then under a high-power microscope before and after centrifugation, and the pH was re-read after the samples had stood for 1 h.",
+  "population": "None - solutions in syringes, not people. Manufacturer-supplied ampoules (Astra Pharmaceuticals for the bupivacaine and ropivacaine preparations, Antigen Pharmaceuticals for the lidocaine-with-epinephrine preparation).",
+  "n": "Six local anaesthetic solutions carried through the full titration, each tested three times from three production batches (nine titration runs per solution reported as mean +/- SEM). Ropivacaine was put through the initial titration at two strengths and then dropped; the paper gives no run count for it.",
+  "setting": "Department of Anaesthesia, Queen Elizabeth II Hospital, Kings Lynn, UK; bench work at room temperature. Accepted September 1999.",
+  "intervention": "Addition of 1% sodium bicarbonate solution to each anaesthetic solution, with pH read after each addition. The six solutions carried through were bupivacaine 0.5%, 0.25% and 0.125%, bupivacaine 0.5% and 0.25% each with 1:200 000 epinephrine, and lidocaine 2% with 1:200 000 epinephrine. Ropivacaine was included in the initial titration at 0.75% and 1.0% only (starting pH 4.39 and 4.55) and was excluded once it precipitated. No ropivacaine strength below 0.75% was tested. Multi-dose vials and commercially pre-mixed epinephrine solutions were excluded because their preservatives may buffer.",
+  "comparator": "Each solution against its own unbuffered starting pH; no between-drug randomisation and no untreated control arm.",
+  "route": "None - in vitro. The paper names central and peripheral neural blockade as the clinical context for the solutions it tested.",
+  "duration": "Observation of each sample through the titration, plus a re-read of pH after standing 1 h at room temperature. Precipitation was looked for at every addition and after centrifugation.",
+  "outcomes": "Primary: pH as a function of bicarbonate added (titration curves, Fig. 1), and the calculated relative increase in unionized fraction from the Henderson-Hasselbalch equation (Table 1). Secondary and the one that bears on claim D017: presence or absence of visible or microscopic precipitate, judged by naked eye against white and black backgrounds, by high-power microscopy, before and after centrifugation at 3500 r.p.m., and again after 1 h standing.",
+  "key_results": [
+    {
+      "quote": "Ropivacaine (Astra Pharmaceuticals) in both [dose figure omitted] and [dose figure omitted] concentration … was included in the … initial study but formed precipitates at a pH above 6.0 … and was therefore not suitable for alkalinization.",
+      "page": 39
+    },
+    {
+      "quote": "conclude that Ropivacaine (at concentration [dose figure omitted] and [dose figure omitted]), is unsuitable for alkalinization since it pre…cipitates at a pH of 6.0.",
+      "page": 38
+    },
+    {
+      "quote": "No evidence of pre…cipitate formation was detected, by naked eye or … microscopy in any of the local anaesthetic solutions, … either before or after centrifugation.",
+      "page": 39
+    },
+    {
+      "quote": "The experiment was repeated three times for … each concentration of local anaesthetic using three … different production batch numbers.",
+      "page": 39
+    },
+    {
+      "quote": "The study was conducted at room temperature to … mimic clinical conditions as closely as possible.",
+      "page": 39
+    },
+    {
+      "quote": "precipitate formation, previous studies using particle … counters have demonstrated an increased number of … particles up to 25 lm after alkalinization of similar local … anaesthetic solutions to a pH of >7",
+      "page": 41
+    }
+  ],
+  "author_limitations": [
+    {
+      "quote": "However, this study follows a laboratory … examination and is not a clinical trial.",
+      "page": 41
+    },
+    {
+      "quote": "The risk of error … when one drug is added to another prior to injection … remains.",
+      "page": 41
+    },
+    {
+      "quote": "There would appear to be scope for … this subject to be studied further using randomized … trials.",
+      "page": 41
+    },
+    {
+      "quote": "particulate     numbers       have    never     exceeded … the numbers set by the USP for small volume … injections",
+      "page": 41
+    }
+  ],
+  "funding_conflicts": "No funding statement, no conflict-of-interest statement and no acknowledgements anywhere in the paper. The 1% sodium bicarbonate source is named as a hospital production unit (PMU, St James' University Hospital, Leeds); the anaesthetic manufacturers are named only as suppliers.",
+  "studies_it_cites_that_matter": [
+    {
+      "citation": "Petertreund RA [Peterfreund RA], Datta S, Ostheimer GW. pH adjustment of local anaesthetic solutions with sodium bicarbonate: laboratory evaluation of alkalinisation and precipitation. Reg Anaesth 1989;14:265-270 (ref. 1; first author's surname is misspelt in Milner's reference list)",
+      "pmid": "",
+      "why": "The earlier bench alkalinization/precipitation evaluation. Already the source behind the bupivacaine-wheals page's 'it cannot be brought to body pH' passage. Pre-dates ropivacaine's clinical availability, so it carries no ropivacaine arm and cannot bear on D017."
+    },
+    {
+      "citation": "Ikuta PT, Raza SM, Durrani Z, Vasireddy AR, Winnie AP, Masters RW. pH adjustment schedule for the amide local anaesthetics. Reg Anaesth 1989;14:229-235 (ref. 2)",
+      "pmid": "",
+      "why": "The per-drug bicarbonate schedule Milner set out to replace with one method. Also cited by Ramos 2001 (its ref. 8) for lidocaine, bupivacaine, mepivacaine and etidocaine. No ropivacaine arm, so it does not bear on D017."
+    },
+    {
+      "citation": "Bourget P, Bonhomme L, Benhmou D [Benhamou D]. Factors influencing precipitation of pH-adjusted bupivacaine solutions. J Clin Pharm Ther 1990;15:197-204 (ref. 12)",
+      "pmid": "",
+      "why": "One of the two particle-counter studies Milner uses to qualify its own null precipitation finding: particle counts rose after alkalinization where naked eye and microscopy saw nothing. Bears on how an absence-of-precipitate observation should be read, which is the outcome element of D017 and of the bupivacaine page's partial-buffer passage."
+    },
+    {
+      "citation": "Bonhomme L, Benhamou D, Jebri M, Bourget P, Matre H, Postaire E, Preaux N. Chemical stability of bupivacaine in pH-adjusted solutions. Anaesthesiology 1988;69:754-756 (ref. 13)",
+      "pmid": "",
+      "why": "The second particle-counter study behind the same qualification."
+    },
+    {
+      "citation": "Bonhomme L, Benhamou D, Comoy E, Preaux N. Stability of epinephrine in alkalinised solutions. Ann Emerg Med 1990;19:1242-1244 (ref. 16); and Stability of adrenaline pH-adjusted solutions of local anaesthetics. J Pharm Biome Anal 1991;9:497-499 (ref. 15)",
+      "pmid": "",
+      "why": "Epinephrine stability in alkalinized solutions. Ref. 16 is also Ramos 2001's ref. 23. Bears on the lidocaine-with-epinephrine page's epinephrine-breakdown gap (claim C091), but C091 is scoped to 'no added bicarbonate', which both studies add, so neither decides it."
+    },
+    {
+      "citation": "Hilgier M. Alkalinisation of bupivacaine for brachial plexus block. Reg Anaesth 1985;10:59-61 (ref. 7, printed in the text as 'Higlier')",
+      "pmid": "",
+      "why": "The onset-of-block claim Milner says regenerated interest in the technique, against which it then sets refs 8-9 as failures to replicate. Also Ramos 2001's ref. 17. Bears on nothing in the 320 claims; recorded because Milner's text misspells the name."
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+ "paper_id": "S-686-20",
+ "citation": "Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561",
+ "pmid": "6054556",
+ "doi": "10.1111/j.1365-2044.1967.tb10153.x",
+ "right_paper": true,
+ "text_quality": "partial - the body reads cleanly and all body numbers are intact (introduction, Method, Results, the statistics section, Vascular effects, Summary, acknowledgements and all 14 references are present), with only 1967 scan artefacts: the running head prints as ANESTHESIA/ANBSTHESIA, drug names appear as 'Liznocaine', 'Przocaine', 'priIocaine' (capital I), 'anzsthesia', the figure legend as 'FIGRUE 1', and several journal titles in the reference list are mangled. One sentence is split by the page-1 footnote ('ligno-' / 'caine') and one by the Table 1 number block. TABLES: Table 1 is garbled in layout - the extraction interleaves it column-major, separating the time columns from the drug rows - but each row reconstructs unambiguously and all four printed TOTAL ACTIVITY sums check arithmetically against their six per-time means, so Table 1 can be relied on. Table 2 is garbled and partly unreadable: its three column headers print as '15 MINS', 'ISMINS' and '45 MINS' (the middle is almost certainly 30 MINS, which the Summary's '30 and 45 minutes' supports), and the lignocaine-versus-procaine cell for the middle column cannot be assigned to a column with confidence, so no Table 2 cell is quoted here beyond what the body text states. Figure 1 is a line graph restating Table 1 as percentages; its plotted points are not recoverable from the text.",
+ "design": "Randomised, double-blind, saline-controlled within-subject (crossover) comparison of three injected local analgesic agents, run as a pharmacology class experiment adapted from Mongar's method. Each subject received all four solutions at separate numbered sites on the same forearm, so each subject was his or her own control. Injection sites were allocated by random allocation on a Latin Square design. The bottle numbering code was withheld from the author (who gave every injection) and from the students until the experiment had been completed, and the partner who tested each bleb did so with the subject's eyes averted. Analysis: analysis of variance (subject effects; saline versus the combined agents; differences among the three agents), then Hartley's multiple-comparison test on the Total Activity scores, plus analyses of variance at individual later times. Indexed in MEDLINE as Randomized Controlled Trial / Clinical Trial / Comparative Study.",
+ "population": "Healthy clinical dental students at St Bartholomew's Hospital Medical College, London, acting as their own controls during a series of practical pharmacology classes. 40 dental students took part, working as twenty pairs; one of each pair was the injected subject and the other tested the blebs, so the reported means are for 20 injected subjects. MeSH: Adult, Humans. No patients, no neuropathy, no diseased skin.",
+ "n": "20 injected subjects, each receiving all four solutions (within-subject, so n = 20 per drug); 40 students in all, as twenty subject/tester pairs",
+ "setting": "Department of Pharmacology, Medical College of St Bartholomew's Hospital, London; student practical classes, published October 1967",
+ "intervention": "Prilocaine 2%, lignocaine 2% and procaine 2%, all standard commercial pharmaceutical preparations, all without an added vasoconstrictor agent, each given as a single 0.2 ml intradermal bleb. No solution in the trial contained adrenaline or any other vasoconstrictor. Adrenaline appears in the paper only as an external comparator for blanching, quoted from the author's personal observation and not injected in this trial.",
+ "comparator": "0.9% sodium chloride solution (normal saline), given the same way as a fourth bleb in every subject; the three agents were also each other's comparators",
+ "route": "Intradermal. Each solution was injected intradermally into forearm skin, raising numbered blebs (weals) on the palmar aspect of each left forearm. Not subcutaneous: the paper says 'intradermally' and describes raised blebs throughout.",
+ "duration": "No duration of anaesthesia was measured or reported, for any agent. The endpoint was a pinprick analgesia score taken at fixed times - 0, 5, 10, 15, 30 and 45 minutes after injection - and summed across those six times into a 'Total Activity' score. Observation stopped at 45 minutes, when all three agents still scored above saline, so neither time to half recovery nor time to complete recovery of sensation could be read, and neither is given. The stated aim names 'duration of action', but no time-to-recovery figure in minutes appears anywhere in the paper.",
+ "outcomes": "Primary: degree of analgesia as the number of non-painful stimuli out of six needle pricks per bleb, tested by the subject's partner with the subject's eyes averted, at 0, 5, 10, 15, 30 and 45 min; per-drug means at each time (6 = complete analgesia) and a 'Total Activity' sum of the six means (Table 1; Figure 1 shows the same as percentage analgesia). Reconstructed from the garbled Table 1, with the printed totals verified arithmetically: lignocaine 2% 5.65, 5.85, 5.90, 5.15, 2.85, 1.95 (total 27.35); prilocaine 2% 6.00, 6.00, 6.00, 5.80, 4.25, 3.40 (total 31.45); normal saline 3.65, 2.20, 1.25, 1.15, 1.10, 0.55 (total 9.90); procaine 2% 5.75, 5.65, 5.35, 4.25, 1.95, 1.25 (total 24.20). Secondary: naked-eye vascular phenomena at the blebs (blanching or flushing) reported by subjects and partners. Also reported: the measured pH of each of the three agent solutions.",
+ "key_results": [
+  {
+   "quote": "The double blind, controlled trial was carried out during a series of practical classes by twenty pairs of clinical dental students.",
+   "page": 2
+  },
+  {
+   "quote": "A group of 40 dental students participated in a double blind controlled trial as indicated below with a view to assessing the activity and duration of action of procaine, lignocaine and prilocaine.",
+   "page": 2
+  },
+  {
+   "quote": "The drugs used, prilocaine ([dose figure omitted]), lignocaine ([dose figure omitted]), procaine ([dose figure omitted]) (all without an added vasoconstrictor agent) and [dose figure omitted] sodium chloride solution were kindly supplied by the St Bartholomew's Hospital Dispensary in identical numbered bottles.",
+   "page": 2
+  },
+  {
+   "quote": "The numbering code was not revealed to the author, who gave the injections, or to the students until the experiment had been completed.",
+   "page": 2
+  },
+  {
+   "quote": "The author injected [dose figure omitted] of each solution intradermally into the forearm skin of each subject after sterilization by washing in a stream of 70% ethanol.",
+   "page": 2
+  },
+  {
+   "quote": "The injection sites were numbered to identify the blebs which had been raised on the palmar aspect of each left forearm.",
+   "page": 2
+  },
+  {
+   "quote": "The sites of injection among the students followed a random allocation following a Latin Square design.",
+   "page": 2
+  },
+  {
+   "quote": "As soon as possible after the injections at 0 min. the partner of each subject tested the blebs for pain in response to a prick from a sharp sterile needle which aroused a distinct painful sensation in normal skin.",
+   "page": 2
+  },
+  {
+   "quote": "With the subject's eyes averted, each bleb was tested six times and the number of non-painful stimuli out of six were recorded and indicated the degree of analgesia. This assessment was repeated at 5, 10, 15,30 and 45 minutes.",
+   "page": 2
+  },
+  {
+   "quote": "For each drug the total number of non-painful stimuli for all subjects were divided by the number of subjects to yield an assessment of local analgesia such that six represented complete analgesia.",
+   "page": 2
+  },
+  {
+   "quote": "(maximum response=6. means for 20 subjects)",
+   "page": 3
+  },
+  {
+   "quote": "Saline showed significantly less activity than the combined analgesic agents (p < 0.001) and the differences between the three analgesic drugs were highly significant (p < 0.001).",
+   "page": 4
+  },
+  {
+   "quote": "Differences between subjects were expected and were significant (p -=0.01) but no effect was found due to varying the site of application.",
+   "page": 4
+  },
+  {
+   "quote": "Prilocaine 2 % was more active than lignocaine 2 % (p < 0.05)",
+   "page": 4
+  },
+  {
+   "quote": "Prilocaine 2 % was more active than procaine 2 % (p < 0.001)",
+   "page": 4
+  },
+  {
+   "quote": "Lignocaine 2 % was more active than procaine 2 % (p < 0.05)",
+   "page": 4
+  },
+  {
+   "quote": "The pH values of the solutions were, procaine, pH 4.4, lignocaine, pH 6.5, and prilocaine pH 6.3.",
+   "page": 4
+  },
+  {
+   "quote": "Of the twenty pairs, eighteen noticed vasoconstriction occurring with priIocaine relative to the saline control and vasodilatation was noted by twelve with procaine.",
+   "page": 5
+  },
+  {
+   "quote": "The blanching produced by prilocaine alone was less marked than that caused by adrenaline [dose figure omitted] (personal observation).",
+   "page": 5
+  },
+  {
+   "quote": "A controlled double blind trial has shown that, intradermally, prilocaine 2% was a significantly more active local analgesic agent than lignocaine 2 % and procaine 2 %when total activity is measured over a 45 minute period as well as 30 and 45 minutes after its administration.",
+   "page": 5
+  },
+  {
+   "quote": "In 1959 Eriksson and Gordh 1 reported the local analgesic activity of L67 - prilocaine (Citanest) and claimed that intradermally it had a longer duration of action than lignocaine. This view was based on findings which did not reach a level of statistical significance.",
+   "page": 1
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "The analyses of variance given in table 2 should be assessed with some reservation because of heterogeneity of variance.",
+   "page": 4
+  },
+  {
+   "quote": "Heterogeneity arises when the mean value approaches either the maximum possible or minimum possible scores.",
+   "page": 4
+  },
+  {
+   "quote": "Although the pH of a given solution may possibly influence analgesic activity, it is emphasised that the solutions used in this trial were standard pharmaceutical preparations; the results are, therefore, valid for clinical practice.",
+   "page": 4
+  },
+  {
+   "quote": "In view of the divergent reports of the duration of action of prilocaine compared with the more familiar agents procaine and ligno...caine, further work is necessary.",
+   "page": 1
+  }
+ ],
+ "funding_conflicts": "Carried out during the tenure of an Aylwen Research Bursary in the Department of Pharmacology, Medical College of St Bartholomew's Hospital ('This work was carried out during the tenure of an Aylwen Research Bursary in the Department of Pharmacology of the Medical College of St Bartholomew's Hospital.', p5). Solutions were supplied in identical numbered bottles by the St Bartholomew's Hospital Dispensary; the prilocaine was supplied by its manufacturer ('I am grateful to Astra-Hewlett Ltd for supplies of Citanest 2%.', p5). The statistical design and analysis were done by Miss Catherine Duncan. No conflict-of-interest statement, as was normal for 1967.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Eriksson E. L 67 - experimental evaluation of a new local anaesthetic in man. Acta Anaesthesiol Scand 1961;5:191-205",
+   "pmid": "13890590",
+   "why": "Padfield's reference 2 and the paper he is answering: the source of the claim that prilocaine has a longer intradermal duration of action than lignocaine. Bears on C065, C066 and C067 (how many measurements of prilocaine duration exist, and whether any human intradermal timing predates Reynolds 1976 and Willatts 1985). Indexed in Europe PMC with no abstract, subscription-only, so what it measured could not be read here."
+  },
+  {
+   "citation": "Eriksson E, Gordh T. Clinical trials of a new local anaesthetic. Acta Anaesthesiol Scand 1959;Suppl 12:81",
+   "pmid": "",
+   "why": "Padfield's reference 1, the original 1959 intradermal prilocaine-versus-lignocaine duration claim, which Padfield says rested on findings that did not reach statistical significance. Not found in Europe PMC (a supplement, not indexed). Bears on C065/C066/C067 for the same reason."
+  },
+  {
+   "citation": "Mongar JL. A study of two methods for testing local anaesthetics in man. Br J Pharmacol Chemother 1955;10(2):240-246",
+   "pmid": "14389667",
+   "why": "Padfield's reference 13: the method his class experiment was adapted from, i.e. the origin of this intradermal pinprick-score design. Potentially bears on D039 and on the 'intradermal wheal literature nobody cites' page if it timed procaine in skin, but its free full text could not be retrieved in this session (europepmc.org and onlinelibrary.wiley.com are both denied by the egress proxy) and it has no abstract, so what it measured is unread."
+  },
+  {
+   "citation": "Purnell RJ, Frew RM, Roth IZ. The topical analgesic action of prilocaine. A comparison with lignocaine by two methods. Anaesthesia 1966;21(4):480-489",
+   "pmid": "5922004",
+   "why": "Padfield's reference 9, a randomised comparison of topical prilocaine against lignocaine which he reports as finding similar durations. Topical (larynx/trachea), not intradermal, so it bears on topical prilocaine statements rather than on the wheal claims. Note Padfield's reference list omits the third author, Roth."
+  },
+  {
+   "citation": "Thornton JA. Recent advances in local analgesia. Clinical experience with prilocaine. Proc R Soc Med 1965;58:418-420",
+   "pmid": "14293186",
+   "why": "Padfield's reference 8, the other of the two topical prilocaine-versus-lignocaine reports, which he says suggested prilocaine lasted longer. Free full text in Europe PMC (PMC1898583). Topical and clinical, not intradermal."
+  },
+  {
+   "citation": "von Bahr V, Eriksson E. Citanest (L 67) - ett nytt lokalanestesimedel. Sven Lakartidn 1962;59:2221-2232",
+   "pmid": "13863977",
+   "why": "Padfield's reference 6, the source of his statement that prilocaine outlasted lignocaine in peripheral nerve, spinal and epidural block but that the two were equal once a vasoconstrictor was added to each. In Swedish; relevant to vasoconstrictor-and-duration statements, but by nerve-block and neuraxial routes, not intradermal."
+  },
+  {
+   "citation": "Bromage PR. Spread of analgesic solutions in the epidural space and their site of action: a statistical study. Br J Anaesth 1962;34:161",
+   "pmid": "",
+   "why": "Padfield's reference 7, cited for the observation that adding a vasoconstrictor to lignocaine, prilocaine and mepivacaine evened out their epidural durations. Epidural, not intradermal, so it does not reach the intradermal vasoconstrictor claims (D023, D054)."
+  }
+ ]
+}

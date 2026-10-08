@@ -1,0 +1,77 @@
+[
+ {
+  "pmid": "1286053",
+  "citation": "Cederholm I, Evers H, Löfström JB. Skin blood flow after intradermal injection of ropivacaine in various concentrations with and without epinephrine evaluated by laser Doppler flowmetry. Reg Anesth 1992;17(6):322-328",
+  "found_in_paper": "Reference [3], discussed on page 10 of S-686-28 ('Cederholm et al. [3] concluded in their analysis that ropivacaine in different concentrations with epinephrine additive (1 : 200.000) decrease the vasoconstrictive effect of epinephrine.'). Record fetched from Europe PMC by title search.",
+  "bears_on_claim_ids": [
+   "W-R005",
+   "D000",
+   "D060",
+   "C072"
+  ],
+  "what_it_shows": "The study that sets the 90-minute boundary the wheal pages assert. Randomised, double-blind, 23 healthy young male non-smoking volunteers, four test sites per volar forearm, intradermal injection of ropivacaine at several concentrations with and without epinephrine, with saline, lidocaine and an untreated area as controls; skin blood flow by laser Doppler flowmetry. Its last reading is at 90 minutes, so it is the right route and the right outcome for W-R005 and it stops exactly where the claim says the literature stops. It therefore supports the claim rather than refuting it, and it is the reason a nerve-block recording running to 24 hours does not close the wheal gap.",
+  "quote_from_abstract": "Recordings were made at 20, 40, 60, and 90 minutes after intradermal injection"
+ },
+ {
+  "pmid": "2038927",
+  "citation": "Cederholm I, Evers H, Löfström JB. Effect of intradermal injection of saline or a local anaesthetic agent on skin blood flow - a methodological study in man. Acta Anaesthesiol Scand 1991;35(3):208-215",
+  "found_in_paper": "NOT cited by S-686-28. Found by Europe PMC author search while testing W-R005 independently (engine: europepmc).",
+  "bears_on_claim_ids": [
+   "W-R005",
+   "D000",
+   "D060"
+  ],
+  "what_it_shows": "A second, independent laser Doppler study of intradermal ropivacaine in human forearm skin, and it also stops at 90 minutes. Randomised, double-blind, 17 healthy young male volunteers, four test sites per volar forearm; Group III (n=12) received intradermal ropivacaine 0.75% and 0.25% alongside bupivacaine and lidocaine, and reported that ropivacaine at clinical concentrations decreased skin blood flow. Because the two laser Doppler wheal studies of ropivacaine both end at 90 minutes, the '90 minutes' in W-R005 is traceable to real recording schedules rather than being an unverified assertion.",
+  "quote_from_abstract": "Recordings were made at 20, 40, 60 and in Group III also at 90 min after needle insertion or intradermal injection."
+ },
+ {
+  "pmid": "8067217",
+  "citation": "Cederholm I, Åkerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38(4):322-327",
+  "found_in_paper": "NOT cited by S-686-28 (its sibling, reference [3], is the 1992 paper). Found by Europe PMC author search; it is the 'Cederholm et al., 1994' the pages cite for intradermal ropivacaine duration.",
+  "bears_on_claim_ids": [
+   "W-R005",
+   "D000",
+   "D060",
+   "D002",
+   "D034",
+   "D047"
+  ],
+  "what_it_shows": "The third intradermal ropivacaine study in humans, and the one that could most easily have been mistaken for a long wheal flow recording. Randomised, double-blind, 10 healthy young male volunteers, intradermal wheals of ropivacaine and bupivacaine at several concentrations with and without adrenaline, pin-prick for dermal analgesia. Its vascular endpoint is visual inspection of the injected area graded nil / pink / pale, not a flow measurement, so it does not extend the wheal blood-flow record past 90 minutes and leaves W-R005 intact. It is the source of the concentration-duration figures the pages use for intradermal ropivacaine.",
+  "quote_from_abstract": "Local vascular effects at the injected areas were determined by visual inspection (nil, pink, pale)."
+ },
+ {
+  "pmid": "18334782",
+  "citation": "Häfner HM, Schmid U, Moehrle M, Strölin A, Breuninger H. Changes in acral blood flux under local application of ropivacaine and lidocaine with and without an adrenaline additive: a double-blind, randomized, placebo-controlled study. Clin Hemorheol Microcirc 2008;38(4):279-288",
+  "found_in_paper": "Reference [12], cited on page 9 of S-686-28 for 'vasodilatative effects and a long lasting effective period (6-8 hours)'. Same senior author (Häfner) and same department as S-686-28.",
+  "bears_on_claim_ids": [
+   "D001",
+   "W-R005",
+   "D000",
+   "D060"
+  ],
+  "what_it_shows": "The study the D001 annotation describes, and the paper my own paper most resembles. Prospective, double-blind, randomised, placebo-controlled, 20 vascularly healthy volunteers, Oberst's-method digital blocks, laser Doppler skin blood flux at the fingerpads followed over 24 hours, with plain ropivacaine, plain lidocaine, lidocaine with adrenaline and saline placebo arms. Plain ropivacaine raised flux by 155.2% with vasodilatation still demonstrable at 24 hours - confirming every figure the Notion annotation gives for it. S-686-28 is the same group repeating the same design on different fingers with epinephrine and tumescent arms added, which is why D001's 'the one' fails: the two are twin studies of the same measurement, not one unique study.",
+  "quote_from_abstract": "We studied skin blood flux at the fingerpads via laser Doppler flowmetry over the course of 24 hours in a prospective, double-blind, randomized, placebo-controlled study with 20 vascularly healthy test persons following Oberst's-method anesthetic blocks."
+ },
+ {
+  "pmid": "17519714",
+  "citation": "Keramidas EG, Rodopoulou SG. Ropivacaine versus lidocaine in digital nerve blocks: a prospective study. Plast Reconstr Surg 2007;119(7):2148-2152",
+  "found_in_paper": "Reference [14], cited on page 9 of S-686-28 for 'Effects of ropivacaine on perfusion are described controversial in the literature'.",
+  "bears_on_claim_ids": [
+   "D003",
+   "D001"
+  ],
+  "what_it_shows": "A prospective, randomised, double-blind comparison of plain ropivacaine against lidocaine for digital nerve block in 70 adults having reconstruction of digital injuries, with onset, duration of anaesthesia and time to first analgesic recorded; mean postoperative anaesthesia 21.5 hours for ropivacaine against 2.4 hours for lidocaine. It is a further plain-ropivacaine block followed to the end of its effect in people, so it adds to the studies that refute D003's uniqueness claim. It does not bear on W-R005 or D001's flow element: its vascular endpoints were visual observation and a digital-brachial systolic pressure index, not a blood flow recording.",
+  "quote_from_abstract": "The mean duration of postoperative anesthesia for lidocaine was 2.4 hours (range, 1.4 to 4 hours), compared with 21.5 hours for ropivacaine"
+ },
+ {
+  "pmid": "18687842",
+  "citation": "Sönmez A, Yaman M, Ersoy B, Numanoğlu A. Digital blocks with and without adrenalin: a randomised-controlled study of capillary blood parameters. J Hand Surg Eur Vol 2008;33(4):515-518",
+  "found_in_paper": "Reference [24], cited on page 10 of S-686-28 among studies reporting faster onset and prolonged post-procedure pain relief with epinephrine additives.",
+  "bears_on_claim_ids": [
+   "D001",
+   "W-R005"
+  ],
+  "what_it_shows": "A randomised controlled digital block study of lidocaine with and without adrenalin in 20 patients, measuring fingertip capillary blood gas parameters and return of sensation. Checked because it is the paper's nearest circulatory comparator with a vasoconstrictor, but its circulatory endpoint is a single capillary blood gas sample at 15 minutes, so it contributes nothing past 90 minutes and nothing at a wheal; return of sensation was 4.8 hours for plain lidocaine and 8.1 hours with adrenalin.",
+  "quote_from_abstract": "Capillary blood parameters were measured prior to the digital blocks and 15 minutes after the injections."
+ }
+]

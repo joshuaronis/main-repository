@@ -100,7 +100,8 @@
    "Aps C, Reynolds F 1978, Br J Clin Pharmacol 6(1):63-8, PMID 666948 - free scanned full text exists in Europe PMC as PMC1429379; the fulltext XML endpoint returned HTTP 500 here and ebi.ac.uk is blocked by the network egress proxy, so it was not read in this session."
   ],
   "_source_line": 360,
-  "_note": "the page reports one study that tested three strengths and the same authors' later contrary description of their own work"
+  "_note": "the page reports one study that tested three strengths and the same authors' later contrary description of their own work",
+  "pmid": "8067217"
  },
  {
   "claim_id": "W-B002",
@@ -204,7 +205,8 @@
   "reason": "Both halves of the claim hold on these searches. Across two Europe PMC queries - one of which returned 22 records, every title screened - and six of the earlier worker's PubMed searches on the same topic, no record measured nerve damage in skin after an injected local anaesthetic by any design. The claim's attribution of the one skin measurement to lidocaine patches is verified from the Wehrfritz abstract, including the route, the healthy-volunteer population, the 42-day exposure and the direction of the effect. This is the same claim as W-M005 on the mepivacaine page, which another worker in this session holds; the two verdicts should be reconciled before either is written up. Kept to study design and existence throughout, with no thresholds or lethal values recorded.",
   "needs_full_text": [],
   "_source_line": 153,
-  "_note": "same claim as W-M005 on a different page"
+  "_note": "same claim as W-M005 on a different page",
+  "pmid": "21530339"
  },
  {
   "claim_id": "W-B003",
@@ -496,7 +498,8 @@
   "reason": "The claim is scoped to all seven agents and nothing found matches that scope, so the headline negative stands: a Europe PMC query requiring articaine, ropivacaine and bupivacaine with injection-pain terms returned zero records, and the earlier worker's two PubMed injection-pain searches (88 and 141 records, both screened in full) found no seven-agent comparison either. The second half of the claim is verified from the cited trial's own abstract. What narrows the claim is the implication that only a three-agent comparison exists: Prien 1994 compared five local anaesthetic preparations of four agents intradermally for infiltration pain in 600 randomised patients, among them mepivacaine and prilocaine, and Wightman and Vaughan 1976 compared six intradermal solutions in 20 volunteers, so the page's 'what would settle it' sentence - which asks for mepivacaine and prilocaine to be included and says none exists - overstates the gap for part of that set. On which trial 'is cited for the claim': Howe and Williams 1994 (PMID 8034840) is the intradermal injection-pain trial that found etidocaine worse and is the better fit; Morgan 1975 (PMID 1138776) compares the same three agents and its full text is being read by another worker in this same session, so the attribution should be settled against that reading before the page is edited.",
   "needs_full_text": [],
   "_source_line": 413,
-  "_note": "the trial usually cited compared three agents and found etidocaine worse"
+  "_note": "the trial usually cited compared three agents and found etidocaine worse",
+  "pmid": "7887101"
  },
  {
   "claim_id": "W-B006",
@@ -586,7 +589,8 @@
   "reason": "A study matching every element exists, and it is the same paper the page is discussing. Yang 2011 ran the design the claim asks for - a time-course whose shortest exposure is hours - for five local anaesthetics, and reports an outcome at the brief exposure as well as at 24, 48 and 72 hours, so 'it has not been done for any drug' does not hold as written. The page itself records that this study read toxicity at 4, 24, 48 and 72 hours, so the sentence contradicts the page's own description of the source two sections earlier; the correction needed is to the wording. What survives the correction is narrower and still true: the time-course was run in cultured rat Schwann cells, not in skin, so it does not establish what an intradermal wheal delivers to Schwann cells in dermis. Recorded as design and existence only; no threshold figure is reported here.",
   "needs_full_text": [],
   "_source_line": 364,
-  "_note": ""
+  "_note": "",
+  "pmid": "21857272"
  },
  {
   "claim_id": "W-B007",
@@ -775,7 +779,8 @@
    "Howe NR, Williams JM 1994, J Dermatol Surg Oncol 20(7):459-64, PMID 8034840 - full text, to establish whether 40.5 mm originates in its results tables or figures. Not needed for the verdict, which is about what was found, but it is the only way to settle the figure's provenance."
   ],
   "_source_line": 412,
-  "_note": "a sourcing claim about a figure in circulation; the figure is a pain score in mm, not a drug amount"
+  "_note": "a sourcing claim about a figure in circulation; the figure is a pain score in mm, not a drug amount",
+  "pmid": "8034840"
  },
  {
   "claim_id": "W-M001",
@@ -873,7 +878,8 @@
   "reason": "Refuted, and the page contradicts itself: its own source list calls Willatts and Reynolds 1985 the second intradermal measurement of mepivacaine and records its endpoint as pinprick until sensation returned, so that study matches every element the claim says is unique - human skin, intradermal injection, pinprick, duration. Reynolds 1976 (PMID 776194) matches human volunteers, the intradermal route, mepivacaine at a range of concentrations and duration of action, though its abstract does not name the sensory endpoint; Farley 1994 matches human skin, intradermal route and an explicit pinprick endpoint but only followed sites for 20 minutes; Christoph 1988 matches human skin, intradermal route and duration but does not name the test. The mepivacaine page states this negative flatly, with none of the search-limited scoping the Ropivacaine Wheals page applies, so the sentence is wrong as written rather than merely over-broad.",
   "needs_full_text": [],
   "_source_line": 18,
-  "_note": "only-study claim about Fairley & Reynolds 1981; the page's own source list calls Willatts & Reynolds 1985 the second such measurement"
+  "_note": "only-study claim about Fairley & Reynolds 1981; the page's own source list calls Willatts & Reynolds 1985 the second such measurement",
+  "pmid": "4041306"
  },
  {
   "claim_id": "W-M002",
@@ -992,7 +998,8 @@
   "reason": "Narrowed rather than refuted. The claim is scoped to skin blood flow, and nothing found measures skin blood flow at the strength sold plain, so the page's reason for the gap - that neither Guinard nor Fairley reached it - still holds; Guinard's own abstract confirms the concentrations stop short of it. But the flat statement that the strength was never measured for blood flow overreaches: four human laser-Doppler studies injected exactly that plain preparation and recorded blood flow, in dental pulp, and a fifth recorded finger skin perfusion after an intraoral injection of it (Fernieini et al. 2001, PMID 11346729). Those miss the skin element and, for the pulp studies, the intradermal route. Quote omitted because every sentence naming the preparation states its concentration; PMID 35377931 is a double-blind crossover of 20 subjects with laser Doppler flowmetry as the blood-flow measure.",
   "needs_full_text": [],
   "_source_line": 183,
-  "_note": "the strength sold plain was measured by neither cited study"
+  "_note": "the strength sold plain was measured by neither cited study",
+  "pmid": "35377931"
  },
  {
   "claim_id": "W-M003",
@@ -1076,7 +1083,8 @@
   "reason": "Refuted on both counts the claim makes. Malet 2015 is not the only laboratory study performed on human cells: Werdehausen 2009 used human SHEP neuroblastoma cells and Perez-Castro 2009 used human SH-SY5Y cells, and both included mepivacaine and lidocaine among the agents compared - matching population (human cells), intervention (mepivacaine vs lidocaine), design (laboratory toxicity assay) and outcome (relative toxicity). The count of three laboratory studies is therefore too low, and the direction is not uniform: Werdehausen's human-cell ranking is the opposite of the two animal-cell studies the page relies on. Neither new study is cited on the page.",
   "needs_full_text": [],
   "_source_line": 101,
-  "_note": "only-study claim"
+  "_note": "only-study claim",
+  "pmid": "19700777"
  },
  {
   "claim_id": "W-M004",
@@ -1146,7 +1154,8 @@
   "reason": "Narrowed. Within the scope of the network meta-analysis the claim is right - the pooled mepivacaine-against-lidocaine estimate is indistinguishable from no effect, which is why mepivacaine is absent from that list. But as written, that the trials cannot tell the two apart in either direction overreaches: a randomised, double-blind head-to-head trial did separate them significantly (P = 0.008), in mepivacaine's favour, and the page cites that trial itself elsewhere. The two other randomised head-to-head comparisons found no difference, so the body of trials is mixed rather than uniformly uninformative.",
   "needs_full_text": [],
   "_source_line": 110,
-  "_note": ""
+  "_note": "",
+  "pmid": "9523803"
  },
  {
   "claim_id": "W-M005",
@@ -1352,7 +1361,8 @@
    "Fruhstorfer and Wagener 1993 (PMID 8435261): the length of the scanning laser Doppler recording after intradermal mepivacaine"
   ],
   "_source_line": 144,
-  "_note": ""
+  "_note": "",
+  "pmid": "1286052"
  },
  {
   "claim_id": "W-M007",
@@ -1649,7 +1659,8 @@
    "Reynolds 1976 (PMID 776194): the sensory endpoint used - whether analgesia was tested by pinprick over the intradermal bleb, as in the same laboratory's 1981 and 1985 papers"
   ],
   "_source_line": 150,
-  "_note": "only-study claim about Willatts & Reynolds 1985"
+  "_note": "only-study claim about Willatts & Reynolds 1985",
+  "pmid": "776194"
  },
  {
   "claim_id": "W-M010",
@@ -1747,7 +1758,8 @@
   "reason": "Narrowed. The inference from the citation counts is the part that fails: a separate study published after Guinard measured mepivacaine's effect on human cutaneous blood flow by laser Doppler against a saline control, matching population, intervention and outcome, so the finding has been examined again rather than left untested. It is not a replication - the skin was pre-inflamed by a histamine prick, the concentration lower than the strengths sold, the route intradermal rather than subcutaneous - which is why this narrows rather than refutes. The page cites that study itself in another section. Two further measurements of mepivacaine's cutaneous vasoactivity predate Guinard and report vasoconstriction, so the direction of the effect is not a single unexamined result. Separately, Europe PMC records a higher count of citing works for PMID 1286052 than the page's figure, which comes from a different citation source.",
   "needs_full_text": [],
   "_source_line": 151,
-  "_note": "citation-standing claim about Guinard; zero contrasting citation statements is not the same as no disagreeing study"
+  "_note": "citation-standing claim about Guinard; zero contrasting citation statements is not the same as no disagreeing study",
+  "pmid": "8435261"
  },
  {
   "claim_id": "W-R001",
@@ -2018,7 +2030,8 @@
   "reason": "The page's narrowing (rat oral mucosa, plus Sohn's calculation) is right as far as it goes but it stops one step short: there are two human in vivo microdialysis measurements of local-anaesthetic tissue concentration over time at an injection site, and the page cites one of them (Bernards & Kopacz 1999) for a different purpose. So the sentence 'at a wheal in human skin has never been MEASURED' overreaches in the drug and depot it rules out, and should be narrowed to ropivacaine and to a dermal wheal of wheal size with the intra-depot gradient resolved - which is exactly what section 4.11 item 1 already says and what section 13 gap 3 does not. Bernards and Kopacz state in their own abstract that no study had previously measured tissue concentrations of local anaesthetic over time in humans, which dates the gap rather than closing it. Counts are Europe PMC counts (full-text indexed, so noisier than PubMed); the two reused searches are the earlier worker's PubMed counts.",
   "needs_full_text": [],
   "_source_line": 2710,
-  "_note": "page already narrows this: measured in rat oral mucosa (Kimi 2012, Yamashiro 2016)"
+  "_note": "page already narrows this: measured in rat oral mucosa (Kimi 2012, Yamashiro 2016)",
+  "pmid": "12818954"
  },
  {
   "claim_id": "W-R004",
@@ -2107,7 +2120,8 @@
    "Br J Anaesth 1985 'Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study' (PMID 4041306): whether the vascular effect was measured instrumentally (e.g. laser Doppler or plethysmography) at the same intradermal sites at which duration of action was recorded, or scored visually as Cederholm 1994 did"
   ],
   "_source_line": 2711,
-  "_note": "page lists three partial hits (Yamashiro 2016, Bernards & Kopacz 1999, Liu 1995)"
+  "_note": "page lists three partial hits (Yamashiro 2016, Bernards & Kopacz 1999, Liu 1995)",
+  "pmid": "8067217"
  },
  {
   "claim_id": "W-R005",
@@ -2489,7 +2503,8 @@
   "reason": "The specific gap the page names holds: no study was found that compares what happens to unmyelinated fibres' Schwann cells against myelinated fibres' after ropivacaine, which is the comparison Kalichman made. But the sentence implies ropivacaine has not been looked at in this way at all, and that is too broad - ropivacaine has been tested on Schwann cells as such, and examined by electron microscopy and quantitative histomorphometry in intact nerve, in at least four studies. Only one Europe PMC record carries both 'ropivacaine' and 'unmyelinated' in its abstract, and it is an electrophysiological study on a nerve selected for containing only motor fibres, so it is the opposite of the needed design. Everything recorded here is design and existence only. Counts are Europe PMC counts except the three marked as the earlier worker's PubMed counts.",
   "needs_full_text": [],
   "_source_line": 2716,
-  "_note": "Kalichman 1989 tested chloroprocaine, procaine, etidocaine and lidocaine, not ropivacaine"
+  "_note": "Kalichman 1989 tested chloroprocaine, procaine, etidocaine and lidocaine, not ropivacaine",
+  "pmid": "21857272"
  },
  {
   "claim_id": "W-R009",
@@ -2689,7 +2704,8 @@
   "reason": "The open part of the page's sentence survives intact: no dermal microvessel preparation was found for ropivacaine at all, so neither brake has been weighed in skin and the impaired-endothelium case is untouched. What does not survive is the parenthetical justification 'since all of this is rat aorta'. Three canine in vivo studies measured ropivacaine's effect on arteriole and venule diameter directly by intravital microscopy, in two of them with adrenoceptor antagonists to exclude an adrenergic route - arteriole-level, not aortic-ring, and not rat. Only six Europe PMC records carry both ropivacaine and a microvessel term in the abstract and all were screened; none is dermal. The claim is narrowed in its premise rather than in its open question. Counts are Europe PMC counts except the four marked as the earlier worker's PubMed counts.",
   "needs_full_text": [],
   "_source_line": 2718,
-  "_note": "gap marked LARGELY CLOSED by Ok 2013 in rat aorta; what is open is the dermal microvessel case"
+  "_note": "gap marked LARGELY CLOSED by Ok 2013 in rat aorta; what is open is the dermal microvessel case",
+  "pmid": "9232137"
  },
  {
   "claim_id": "W-R011",
@@ -2789,7 +2805,8 @@
   "reason": "The experiment the page is after is genuinely missing, and two independent Europe PMC queries plus three reused PubMed searches establish that: the whole intradermal-injection-plus-flare literature in neuropathic skin uses mediators and electrical or chemical axon-reflex stimuli, never an injected local anaesthetic, and the LDIflare numbers the page quotes come from exactly those studies. But the sentence as extracted - 'Nothing has ever been measured in neuropathic human skin after an injected local anaesthetic' - is broader than that and is false as written, because pain and pruritus have been measured after intradermal lidocaine in a sensory neuropathy. The page's own fuller sentence in section 13 item 14 states the narrow version correctly; it is the short form that overreaches. Counts are Europe PMC counts except the three marked as the earlier worker's PubMed counts.",
   "needs_full_text": [],
   "_source_line": 2721,
-  "_note": "page calls this the most directly relevant missing experiment"
+  "_note": "page calls this the most directly relevant missing experiment",
+  "pmid": "32416719"
  },
  {
   "claim_id": "W-R012",
@@ -2876,7 +2893,8 @@
   "reason": "'No study varies them' is too broad for the first item on the page's own list. Volume per injection has been isolated and varied in at least two randomised double-blind infiltration studies with onset, success and duration endpoints, and the page already contains a third instance without drawing the inference: Cederholm 1991's first group varied the volume per intradermal wheal and measured skin blood flow, which is the basis of the page's own recommendation of a particular test volume in section 4.2. The remaining five exposure variables are not found varied anywhere, so the claim holds for them. Figures for volumes and concentrations are deliberately omitted throughout. Counts are Europe PMC counts except the three marked as the earlier worker's PubMed counts.",
   "needs_full_text": [],
   "_source_line": 2722,
-  "_note": "page frames this as a gap in its own question rather than in the literature"
+  "_note": "page frames this as a gap in its own question rather than in the literature",
+  "pmid": "18547150"
  },
  {
   "claim_id": "W-R013",
@@ -2963,7 +2981,8 @@
   "reason": "The headline claim stands: nothing follows the whole chain in human dermis, and the six-record targeted query returns no candidate at all. The supporting clause does not stand. 'No two adjacent links have been measured in the same human dermal preparation' is contradicted by two studies, one of which uses intradermal ropivacaine wheals in man and pairs the vascular response with the duration of dermal analgesia, and the other of which pairs the tissue concentration time course at a subcutaneous local-anaesthetic depot with the duration of skin anaesthesia at the same sites. So the model is less purely assembled-from-fragments than the page says, and the sentence should be narrowed to the full chain and to the links that remain unpaired. Counts are Europe PMC counts except the two marked as the earlier worker's PubMed counts.",
   "needs_full_text": [],
   "_source_line": 2723,
-  "_note": ""
+  "_note": "",
+  "pmid": "12818954"
  },
  {
   "claim_id": "W-R014",
@@ -3063,7 +3082,8 @@
   "reason": "Within the claim's own elements - human skin, ropivacaine at any concentration, any design, outcome vasodilation - a matching study exists, and the page already holds it: section 4.11 item 2 records Hafner 2008 and says in terms that the parallel claim about flux past 90 minutes is 'false as stated'. The same correction is owed here and has not been made, so section 0.0.1 contradicts section 4.11 of the same document. Two further studies from different groups point the same way. The route matters and is what should go into the wording: all three are nerve blocks, where the measured skin is remote from the needle, whereas the intradermal evidence the sentence is actually reasoning from shows no rise above saline. The page's convention already scopes its negatives as search-limited, so the correction needed is to the wording rather than a reversal of the page's position on intradermal wheals. Counts are Europe PMC counts except the three marked as the earlier worker's PubMed counts.",
   "needs_full_text": [],
   "_source_line": 1378,
-  "_note": ""
+  "_note": "",
+  "pmid": "18334782"
  },
  {
   "claim_id": "W-R015",
@@ -3250,7 +3270,8 @@
   "reason": "The claim's own elements set population and design to 'any', which makes an animal study decisive, and one exists in the paper the page already cites for a different point: Kopacz 1989 read laser Doppler flow at a ropivacaine infiltration site at three timepoints inside the first twenty minutes, with saline and untouched control sites alongside. So 'never been characterised for ropivacaine at all' is wrong as written; what is true is the narrower statement about the human intradermal dataset, and the stated reason - that the design excludes the early window on purpose - belongs with that narrower statement. One human candidate exists and could narrow the residue further: a 2008 Anaesthesia study injected ropivacaine intradermally in human skin under laser Doppler imaging, though its recording schedule is not in the abstract and the measured response is to co-injected mediators. The page's convention already scopes its negatives as search-limited, so the correction needed is to the wording rather than a reversal of the page's position on the human dataset. Counts are Europe PMC counts except the three marked as the earlier worker's PubMed counts.",
   "needs_full_text": [],
   "_source_line": 350,
-  "_note": ""
+  "_note": "",
+  "pmid": "2751142"
  },
  {
   "claim_id": "W-R017",
@@ -3317,7 +3338,8 @@
   "reason": "Nothing found measures a wheal's drug effect without a puncture, which is a design necessity rather than a gap anyone could close. Cederholm 1991 does carry needle-only and saline arms, so a drug-minus-saline contrast exists and the sentence would be more exact as 'no reading uncontaminated by the puncture response' rather than 'no clean drug-only reading'. The page's own convention at 0.1 already scopes its negatives as search-limited, so the correction needed is to the wording, not to the page's position.",
   "needs_full_text": [],
   "_source_line": 349,
-  "_note": ""
+  "_note": "",
+  "pmid": "2038927"
  },
  {
   "claim_id": "W-R018",
@@ -3403,7 +3425,8 @@
   "reason": "Every element the claim says is absent - dermal microvessels, these drugs, any design, an ordering of vascular effect - is matched by the in vivo human studies above, and the page itself rests its skin orderings on two of them. What remains unfound is the narrower thing the surrounding bullet is reaching for, namely an isolated dermal resistance-arteriole preparation to set against Sohn's and Tokinaga's aortic rings. Since the page's convention at 0.1 already scopes its negatives as search-limited, the fix is to say 'has not been measured in isolated dermal resistance vessels' rather than to reverse the page's position.",
   "needs_full_text": [],
   "_source_line": 1279,
-  "_note": ""
+  "_note": "",
+  "pmid": "11097672"
  },
  {
   "claim_id": "W-R019",
@@ -3470,7 +3493,8 @@
   "reason": "The claim's recorded elements - ropivacaine, any preparation, any design, the A-fibre/C-fibre concentration separation - are all matched by Bader 1989, which varied ropivacaine concentration and recorded A- and C-fibre compound action potentials in order to test fibre-class sensitivity, and again by Ostertag-Hill 2025. If the sentence is meant narrowly, as the separation between suppressing ectopic discharge in injured fibres and blocking conduction that the surrounding paragraph attributes to Tanelian and Kirillova, that specific separation remains unmeasured for ropivacaine. Under the page's own search-limited convention the correction is to the wording: name which separation is meant.",
   "needs_full_text": [],
   "_source_line": 1730,
-  "_note": ""
+  "_note": "",
+  "pmid": "2735537"
  },
  {
   "claim_id": "W-R020",
@@ -3536,7 +3560,8 @@
   "reason": "Kankel 2012 matches the population (human), the intervention (an intradermal local-anaesthetic injection), the design (microneurography) and the outcome (cutaneous C-fibre recording) that the claim says are absent, and it is the very paper the page names two sentences later as 'the closest thing to the missing experiment'. The experiment has been done; what has not been done is the ropivacaine version. The page's convention at 0.1 already scopes its negatives as search-limited, so the needed correction is to the wording - the drug, not the recording, is the gap.",
   "needs_full_text": [],
   "_source_line": 1731,
-  "_note": ""
+  "_note": "",
+  "pmid": "23182228"
  },
  {
   "claim_id": "W-R021",
@@ -3618,7 +3643,8 @@
    "Willatts & Reynolds 1985 (PMID 4041306) full text: whether the paper reports a quantified correlation between vasoactivity and duration or only a qualitative correspondence of log dose-duration slopes"
   ],
   "_source_line": 3053,
-  "_note": "only-study claim about Liu 1995"
+  "_note": "only-study claim about Liu 1995",
+  "pmid": "4041306"
  },
  {
   "claim_id": "W-R022",
@@ -3679,7 +3705,8 @@
   "reason": "The claim says this is the one histological finding in the literature selective for the fibre class at issue. Powell 1988 is a separate published histological study, in a different journal and a year earlier, whose stated conclusion is that unmyelinated-fibre Schwann cells are more vulnerable than myelinated-fibre ones - the same selectivity, independently reported, and absent from the page. It shares the group, species and route with Kalichman 1989, so the finding is replicated rather than contradicted; the page's convention at 0.1 means the fix is to say 'the finding is reported in two papers from this group' rather than 'the one finding in the literature'.",
   "needs_full_text": [],
   "_source_line": 1902,
-  "_note": "only-study claim about Kalichman 1989"
+  "_note": "only-study claim about Kalichman 1989",
+  "pmid": "3404978"
  },
  {
   "claim_id": "W-R023",
@@ -3759,7 +3786,8 @@
   "reason": "Within the claim's recorded outcome - epidermal nerve fibre density - searches found no second human study, so the core of the claim holds. It is too broad as 'the only measurement in humans of what prolonged local-anaesthetic exposure does to the fibres at issue', because Sjoberg 1992 is a human study of months-long local-anaesthetic exposure with a nerve-tissue histological endpoint, in nerve roots rather than cutaneous small fibres and with morphine, preservatives and prior oncological treatment confounding it. Adding 'to cutaneous small fibres' or 'to epidermal nerve fibre density' makes the sentence exact.",
   "needs_full_text": [],
   "_source_line": 1924,
-  "_note": "only-study claim about Wehrfritz 2011"
+  "_note": "only-study claim about Wehrfritz 2011",
+  "pmid": "1736693"
  },
  {
   "claim_id": "W-R024",
@@ -3925,7 +3953,8 @@
   "reason": "Reynolds 1976 matches the population (human skin), the design (double-blind intradermal head-to-head) and the outcome (vasoconstrictor activity, with duration also recorded), and it includes mepivacaine among the comparators; it does not match the 'six drugs' element, covering five agents in two separate trials of 28 and 27 subjects rather than six in one group. So the literal uniqueness of the six-drug design survives, but 'the six drugs ever compared head to head' overstates the universe of human intradermal vasoactivity comparisons, and mepivacaine's standing was also assessed against other agents in 1976. The page's convention at 0.1 means the fix is to the wording.",
   "needs_full_text": [],
   "_source_line": 2301,
-  "_note": "only-study claim about Willatts & Reynolds 1985"
+  "_note": "only-study claim about Willatts & Reynolds 1985",
+  "pmid": "776194"
  },
  {
   "claim_id": "W-R026",
@@ -3979,7 +4008,8 @@
   "reason": "Schnabl 2013 measures duration after a ropivacaine digital nerve block - the same drug, route and block type as Keramidas - and reports every arm except ropivacaine-with-epinephrine, plain ropivacaine included, as giving pain reduction well below the lower bound of the Keramidas 19-to-23-hour range. So a published paper does reach a conflicting figure even though no citing paper was classified as contrasting. This is exactly the failure the page's own convention at 0.1 warns about, so the correction is to the Standing clause's wording: the count means no citing paper was classified as contradicting, not that no study disagrees. The populations differ (volunteers without surgery versus postoperative patients) and the endpoints are named differently, which should be stated alongside.",
   "needs_full_text": [],
   "_source_line": 2877,
-  "_note": "citation-standing claim; the page's own convention at 0.1 warns that zero contrasting citation statements does not mean no study disagrees"
+  "_note": "citation-standing claim; the page's own convention at 0.1 warns that zero contrasting citation statements does not mean no study disagrees",
+  "pmid": "23076005"
  },
  {
   "claim_id": "W-R027",
@@ -4193,7 +4223,8 @@
   "reason": "The claim's elements - a wheal, a vasoconstricting local anaesthetic, any design, prolonged duration of action - are all matched by Willatts & Reynolds 1985, which measured vasoactivity and duration in the same intradermal wheals in volunteers and reported the dose-duration slopes as reflecting the vasoactivity; the page holds that paper in full text and cites it in 9a.2. Aps 1978 points the same way and Fairley 1981 the other, so the right correction is not 'nobody has shown it in a wheal' but that it has been examined in wheals with mixed results and never for ropivacaine. Under the page's search-limited convention this is a wording fix.",
   "needs_full_text": [],
   "_source_line": 730,
-  "_note": ""
+  "_note": "",
+  "pmid": "4041306"
  },
  {
   "claim_id": "W-R030",
@@ -4273,7 +4304,8 @@
   "reason": "Judged inside the bullet's own scope - continuous infiltration of incised subcutaneous tissue - the claim holds: the rat wound study and the animal wound-infiltration safety work measure inflammatory, collagen, vascular and healing endpoints, never innervation. As a bare sentence 'no study measures innervation' is too broad, because the page's own 6.7 cites a human study of six weeks' local-anaesthetic exposure that counted epidermal nerve fibres, and Zarucco 2010 measured nerve conduction after six days of perineural infusion. Adding 'in this literature' or 'in the wound-infiltration studies' makes it exact.",
   "needs_full_text": [],
   "_source_line": 1935,
-  "_note": ""
+  "_note": "",
+  "pmid": "21530339"
  },
  {
   "claim_id": "W-R031",
@@ -4353,6 +4385,7 @@
   "reason": "Within the claim's intervention element - a local anaesthetic wheal - nothing found separates the drug's flare suppression from the needle's own flare, and Cederholm 1991 has the needle-only and saline controls but measures blood flow rather than the axon-reflex flare. The claim is too broad in calling it a term nobody has separated, since the suppression term has been isolated in human skin, including for ropivacaine, by provoking the flare with an independent stimulus. The page's convention at 0.1 already scopes its negatives as search-limited, so this is a wording correction: nobody has separated it within a wheal.",
   "needs_full_text": [],
   "_source_line": 1055,
-  "_note": ""
+  "_note": "",
+  "pmid": "18211446"
  }
 ]

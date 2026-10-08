@@ -38,6 +38,22 @@ def merge_lists(pattern):
     return out, seen_files
 
 
+def norm(t):
+    return re.sub(r"[^a-z0-9]", "", (t or "").lower())
+
+
+def quote_in_text(quote, path):
+    """quotecheck.py's own matching: ignore spacing/case/punctuation, and treat
+    an ellipsis or a [bracketed omission] as a split between parts."""
+    try:
+        body = norm(open(path, encoding="utf-8", errors="replace").read())
+    except OSError:
+        return False
+    parts = [norm(x) for x in re.split(r"\.\.\.|\u2026|\[[^\]]*\]", quote or "")]
+    parts = [x for x in parts if len(x) > 10]
+    return bool(parts) and all(x in body for x in parts)
+
+
 def pmid_to_paper():
     """So a quote cited by PMID is checked against a full text we actually hold."""
     m = {}
@@ -52,13 +68,24 @@ def main():
     # ---- claim updates -------------------------------------------------
     updates, files = merge_lists("*_claim_updates.json")
     p2p = pmid_to_paper()
+    repointed = skipped_repoint = 0
     for u in updates:
-        # if the deciding source is a paper whose text we hold, point the
-        # checker at it; it falls back to the cached abstract otherwise
+        # If the deciding source is a paper whose full text we hold, point the
+        # checker at that text -- but only when the quote actually matches it.
+        # texts/S-686-40.txt is an OCR of a two-column scan whose columns
+        # interleave, so quotes from it verify against the abstract and not
+        # against the extracted text; those stay on the PMID.
         if not u.get("paper_id") and u.get("pmid") in p2p:
-            u["paper_id"] = p2p[u["pmid"]]
+            cand = p2p[u["pmid"]]
+            if quote_in_text(u.get("quote"), f"texts/{cand}.txt"):
+                u["paper_id"] = cand
+                repointed += 1
+            else:
+                skipped_repoint += 1
     json.dump(updates, open(f"{R}/claim_updates.json", "w", encoding="utf-8"),
               indent=1, ensure_ascii=False)
+    print(f"  quote source      {repointed} re-pointed to a held full text, "
+          f"{skipped_repoint} left on the PMID (quote does not match the extracted text)")
 
     # ---- extra studies -------------------------------------------------
     extras, _ = merge_lists("*_extra_studies.json")
@@ -97,6 +124,13 @@ def main():
             if c.get("claim_id") in claims and c.get("verdict"):
                 claims[c["claim_id"]] = c
                 filled += 1
+    # The handover's wheal schema names the field evidence_pmid, but
+    # common/tools/quotecheck.py resolves a cached abstract from "pmid".
+    # Mirror it rather than editing the packet's tool, so the provided checker
+    # validates these quotes as-is.
+    for c in claims.values():
+        if c.get("evidence_pmid") and not c.get("pmid"):
+            c["pmid"] = c["evidence_pmid"]
     ordered = sorted(claims.values(), key=lambda c: c["claim_id"])
     json.dump(ordered, open(f"{R}/wheal_claims.json", "w", encoding="utf-8"),
               indent=1, ensure_ascii=False)

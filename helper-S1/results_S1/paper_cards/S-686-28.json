@@ -1,0 +1,130 @@
+{
+ "paper_id": "S-686-28",
+ "citation": "Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253",
+ "pmid": "23076005",
+ "doi": "10.3233/CH-2012-1629",
+ "right_paper": true,
+ "text_quality": "ok - full body text, Tables 1-6 and all figure legends are present and legible, pages 1-13 plus a copyright page. Figures 1-4 are images only, so the perfusion curve (Fig. 3) and the box-and-whisker pain plots (Fig. 4a-d) can be read only through their legends and the body text; every figure value used here is also stated in the tables or the body. One internal inconsistency in the source: the 1440-minute row of Table 2 repeats the mean LDF and SD of the 24-minute row (47.9 PU, SD 30.2) while giving a different percentage change (35.1%), so the percentage change quoted in the body text is the reliable figure for that timepoint.",
+ "design": "Prospective, randomised, double-blind, four-arm parallel-group volunteer study (no operation). Double-blinding covered both the injected agent and the examining physician. Allocation was within-subject by finger: four fingers per volunteer (index and ring finger of both hands), one arm per finger, with fingers skipped so neighbouring digits were not affected. Analysis by paired t test against each finger's own pre-injection value, significance p < 0.05.",
+ "population": "20 healthy adult volunteers without any operation; 12 female, 8 male; mean age 30.25 years (SD 9.9), range 21-60. Exclusions: nicotine consumption, thromboangiitis obliterans, diabetic disease, peripheral artery occlusive disease, autoimmune dermatosis and other vascular disease. Allen's test normal in all; none excluded on it.",
+ "n": "20 fingers per arm, 80 fingers from the same 20 volunteers: group 1 n=20 (index finger), group 2 n=20 (ring finger), group 3 n=20 (index finger), group 4 n=20 (ring finger). 20 subjects contribute to every arm.",
+ "setting": "Department of Dermatology, University of Tübingen, Germany (with Hand Surgery, Vulpiusklinik Bad Rappenau / Heidelberg, and Dermatology, Stuttgart Clinic). Laboratory volunteer study; subjects supine, recording begun after 15 minutes of acclimatisation, injection 5 minutes later, all blocks performed by the same physician.",
+ "intervention": "Digital nerve block of the finger nerve bundles by the two-injection dorsal technique (Oberst's method) at the metacarpophalangeal joints, at the base of the finger; 6 mL per finger, 3 mL per lateral and medial side. Group 1: ropivacaine 0.75%, plain (no vasoconstrictor). Group 2: ropivacaine 0.75% with epinephrine additive 1:1,000,000. Group 3: tumescent solution 0.15% (ropivacaine Naropin, lidocaine Xylocain, saline solution plus epinephrine Suprarenin additive 1:1,000,000).",
+ "comparator": "Group 4, the control arm: 6 mL lidocaine 2% by the same Oberst's-method block plus a rotatable metallic digital tourniquet placed distal to the proximal phalanx for 20 minutes, fixed under visual control of the laser Doppler signal once perfusion fell below the zero baseline. Groups 1-3 are also comparators for one another; group 1 (plain ropivacaine) is the only arm with no vasoconstrictor and no tourniquet.",
+ "route": "Perineural / subcutaneous digital nerve block at the base of the finger - NOT an intradermal wheal. Skin perfusion was recorded at a site remote from the injection, on the dorsal side of the finger below the nail bed, so the flow signal is downstream of the block rather than at the injection site.",
+ "duration": "Skin perfusion was recorded at 12 points spanning 1440 minutes (24 hours): before injection, then 1, 8, 16, 24, 32, 40, 48, 56, 60, 360 and 1440 minutes after injection. All four arms, including plain ropivacaine (group 1), were followed to the same final 1440-minute point - Tables 2, 3, 4 and 5 each report all 12 points, so the plain-ropivacaine arm was followed exactly as long as the others. Pain was tested at 0, 16, 32, 48, 60, 360 and 1400 minutes (the text gives 1400 for the last pain point against 1440 for the last perfusion point). Complications were followed by daily examination for 14 days by the same examiner.",
+ "outcomes": "(1) Acral skin blood flux by laser Doppler flowmetry (LDF; Perimed Master 4001 and Perimed PF2b, Sweden; wavelength 780 nm) on the dorsum of the finger below the nail bed, all fingers recorded simultaneously by computer, analogue signal digitised at 50 Hz; reported as mean percentage change from each finger's pre-injection value, with mean and median LDF in perfusion units, SD, quartiles and p-values. (2) Pain by needle provocation on the finger pulp on a 1-10 visual analogue scale, and the average duration of drug effect until return of normal pain perception. (3) Post-injection complications (paraesthesia, haematoma, swelling, movement limitation).",
+ "key_results": [
+  {
+   "quote": "After in following 12 measurement points (before injection, 1, 8, 16, 24, 32, 40, 48, 56, 60, 360, 1440 minutes), in total the measurement period was 1440 minutes.",
+   "page": 4
+  },
+  {
+   "quote": "To quantify changes in skin perfusion, in every group acral skin blood flux was measured via laser doppler flowmetry (LDF, Perimed Master 4001 and Perimed PF2b, Sweden; wave length 780 nm) on the dorsal side of the fingers below the nail bed.",
+   "page": 3
+  },
+  {
+   "quote": "In this prospective, double-blind, randomized study the acral perfusion of 20 healthy subjects (two finger of each hand, in total 80 fingers), which are volunteers without any operation, were evaluated.",
+   "page": 2
+  },
+  {
+   "quote": "The injection agent was blinded, the examiner (physician) was blinded, too.",
+   "page": 3
+  },
+  {
+   "quote": "A two-injection dorsal technique digital nerve block for local anesthesia of the finger nerve bundles (Oberst's-method anaesthetic block) was performed on index and ring finger of both hands in each volunteer at the base of the fingers.",
+   "page": 3
+  },
+  {
+   "quote": "skin perfusion values reached +160.2% (p = 0.008) after 56 minutes and +129.7% (p = 0.01) after 6 hours.",
+   "page": 5
+  },
+  {
+   "quote": "24 hours after injection the acral perfusion reduced to +35.1% (p = 0.03) in comparison to the initial perfusion values before injection (Table 2).",
+   "page": 5
+  },
+  {
+   "quote": "Within one hour after injection with 6 mL ropivacaine 0.75% and epinephrine (1 : 1.000.000) there were no significant perfusion changes.",
+   "page": 6
+  },
+  {
+   "quote": "Six hours later, skin perfusion was significantly increased (+66.6%; p = 0.05) and 24 hours later decreased (-34.4%; p = 0.05) in comparison to the initial perfusion values before injection (Table 3).",
+   "page": 6
+  },
+  {
+   "quote": "The longest pain reduction was shown for ropivacaine 0.75% and epinephrine with 18.0 hours (group 2); the other groups were between 4.6 to 8.1 hours.",
+   "page": 1
+  },
+  {
+   "quote": "The average duration of drug effect until achievement of normal pain perception was 6.0 hours (Fig. 4a).",
+   "page": 7
+  },
+  {
+   "quote": "One physician tested all volunteers at different time points (measuring points: 0, 16, 32, 48, 60, 360, 1400 minutes) using a visual pain scale (VAS scale 1-10).",
+   "page": 4
+  },
+  {
+   "quote": "In the follow-up the volunteers were examined daily for 14 days by the same examiner.",
+   "page": 3
+  },
+  {
+   "quote": "I (6 mL ropivacaine 0.75%)                                No complications",
+   "page": 9
+  },
+  {
+   "quote": "After injection of ropivacaine 0.75% without additive the perfusion rates showed an increasing vasodilatative effect for six hours.",
+   "page": 9
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Limitations of the study for clinical conclusions are failing perfusion measurements of subcutaneous tissue.",
+   "page": 11
+  },
+  {
+   "quote": "It can only supposed that changes of skin perfusion with different local anaesthetics and additives have the same effect on deeper tissue with all advantages for surgical procedures.",
+   "page": 11
+  },
+  {
+   "quote": "Furthermore sensibility was not evaluated by a standard technique.",
+   "page": 11
+  },
+  {
+   "quote": "Effects of ropivacaine on perfusion are described controversial in the literature [14], but",
+   "page": 9
+  }
+ ],
+ "funding_conflicts": "No funding statement and no conflict-of-interest or disclosure declaration appears anywhere in the text. The only acknowledgment states that the manuscript was written in accordance with the journal's Ethical Guidelines. Ethics: 'The study was approved by institutional review board and all subjects gave written informed consent.' (page 2). Two proprietary product names are used in the methods (Naropin, Xylocain, Suprarenin) without any stated commercial relationship.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Cederholm I, Evers H, Lofstrom JB. Skin blood flow after intradermal injection of ropivacaine in various concentrations with and without epinephrine evaluated by laser Doppler flowmetry. Reg Anesth 1992;17:322-328",
+   "pmid": "1286053",
+   "why": "Reference [3]. The decisive comparator for W-R005, D000 and D060: the one laser-Doppler recording of skin blood flow at an actual intradermal ropivacaine wheal in humans. Its last recording is at 90 minutes, which is where the pages' 90-minute ceiling comes from. Cited here only for its epinephrine conclusion, not its timing."
+  },
+  {
+   "citation": "Hafner HM, Schmid U, Moehrle M, Strolin A, Breuninger H. Changes in acral blood flux under local application of ropivacaine and lidocaine with and without an adrenaline additive: A double-blind, randomized, placebo-controlled study. Clin Hemorheol Microcirc 2008;38:279-288",
+   "pmid": "18334782",
+   "why": "Reference [12], by the same senior author (Hafner) and department. This is the study the Notion pages annotate for D001: laser Doppler at the fingerpads over 24 hours in 20 volunteers after Oberst's-method blocks, plain ropivacaine +155.2% and still demonstrable at 24 h. S-686-28 is the same group repeating the same design on different fingers with epinephrine and tumescent arms added, so it is a second instance of the same measurement, not a different kind of study."
+  },
+  {
+   "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38:322-327",
+   "pmid": "8067217",
+   "why": "Not cited by this paper but the sibling of its reference [3] and the source the pages use for intradermal ropivacaine duration (D002, D034, D047). Relevant to W-R005 because it is an intradermal ropivacaine wheal study whose vascular endpoint was visual inspection (nil/pink/pale), not a flow recording, so it does not extend the wheal flow record either."
+  },
+  {
+   "citation": "Keramidas EG, Rodopoulou SG. Ropivacaine versus lidocaine in digital nerve blocks: A prospective study. Plast Reconstr Surg 2007;119:2148-2152",
+   "pmid": "17519714",
+   "why": "Reference [14], the paper's own source for 'effects of ropivacaine on perfusion are described controversial in the literature'. A randomised double-blind plain-ropivacaine digital block in 70 patients followed to return of sensation (mean 21.5 hours), so it bears on D003's uniqueness claim about plain-ropivacaine blocks followed to completion. Its vascular endpoints were visual observation and a digital-brachial pressure index, not a flow recording."
+  },
+  {
+   "citation": "Sonmez A, Yaman M, Ersoy B, Numanodlu A. Digital blocks with and without adrenalin: A randomised-controlled study of capillary blood parameters. J Hand Surg Eur Vol 2008;33:515-518",
+   "pmid": "18687842",
+   "why": "Reference [24]. The nearest comparator for the paper's own epinephrine question: a randomised digital block study of lidocaine with and without adrenalin, but its circulatory endpoint is fingertip capillary blood gas measured once at 15 minutes, so it adds nothing past 90 minutes and nothing at a wheal."
+  },
+  {
+   "citation": "Breuninger H, Schimek F, Heeg P. Subcutaneous infusion anesthesia with diluted mixtures of prilocain and ropivacain. Langenbecks Arch Surg 2000;385:284-289",
+   "pmid": "",
+   "why": "Reference [2], the paper's source for ropivacaine in tumescent/subcutaneous infusion anaesthesia across 4,670 procedures in 3,015 subjects, and for the claim that ropivacaine acted more than twice as long as lidocaine. Relevant background to the tumescent arm; PMID not looked up because it decides no claim in the set."
+  }
+ ]
+}

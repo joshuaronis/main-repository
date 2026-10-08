@@ -1,0 +1,41 @@
+[
+  {
+    "claim_id": "D025",
+    "paper_id": "S-686-04",
+    "pmid": "2827545",
+    "kind": "own-question",
+    "old_verdict": "refuted",
+    "new_verdict": "refuted",
+    "uncertain_after": false,
+    "quote": "Measures of skin anesthe … sia were carried out for 4V2 minutes.",
+    "page": 4,
+    "proposed_wording": "No source was found for a 2.5-hour mepivacaine duration in skin. Three human studies have timed mepivacaine in skin (Reynolds 1976, PMID 776194; Fairley 1981; Willatts 1985), not two, and the durations read from them come in far below 2.5 hours. Christoph 1988 (PMID 2827545) is not a fourth: it injected mepivacaine intradermally in 25 volunteers in a randomised, double-blind, within-subject study, but it recorded only the area of skin anaesthetised to pinprick over the first 4 1/2 minutes and never timed a duration.",
+    "reason": "The full text settles the open question: this study measured no duration of skin anaesthesia at all, for mepivacaine or for either lidocaine solution. Recording what the study itself used, as the question asks: 0.5 mL of 1% mepivacaine was injected intradermally through a 25-gauge needle, and skin anaesthesia was then measured as the area insensitive to pinprick at 30 seconds and at 1, 1 1/2, 2 1/2, 3 1/2 and 4 1/2 minutes, after which measurement stopped; in Table 2 that area was still rising at the last reading (unbuffered mepivacaine 8.0 cm2, buffered 7.9 cm2), so the block was never followed even to its peak. The abstract's 'duration of skin anesthesia' is therefore not a measurement of this study's own: the duration half of that sentence rests on cited nerve-preparation, epidural and rat nerve-block work and on the authors' uncontrolled impression from their own emergency department. So Christoph 1988 matches the claim's population (humans), intervention (mepivacaine) and route (skin) but misses its outcome element (duration of anaesthesia in skin), and must come out of the count of studies that have timed mepivacaine in skin. The claim stays refuted on the strength of Reynolds 1976 alone, which is a genuine third such study, and the count in the wording should read three rather than four."
+  },
+  {
+    "claim_id": "C081",
+    "paper_id": "S-686-04",
+    "pmid": "2827545",
+    "kind": "other-claim",
+    "old_verdict": "narrowed",
+    "new_verdict": "refuted",
+    "uncertain_after": false,
+    "quote": "three local anesthetics ([dose figure omitted] lidocaine, [dose figure omitted] lidocaine with [dose figure omitted] epi … nephrine, and [dose figure omitted] mepivacaine) were investigated in a randomized, prospec … tive, double-blind study of 25 adult volunteers. … of the three local anesthetics were prepared, and a [dose figure omitted] intradermal injection … of each was administered.",
+    "page": 1,
+    "proposed_wording": "Collins 2013 is not the only human intradermal study of lidocaine with epinephrine at the strengths this claim names. Christoph 1988 (PMID 2827545) injected that mixture intradermally in a randomised, double-blind, within-subject study of 25 volunteers and recorded onset and the area of skin anaesthetised to pinprick, though it stopped measuring after the first few minutes and so gives no duration; Todd 1992 timed intradermal lidocaine with epinephrine at four body sites including the calf, at an epinephrine strength its abstract does not state.",
+    "reason": "Christoph 1988 matches every element the claim states in its own words: humans, the intradermal route, and lidocaine with epinephrine at exactly the strengths named, which this paper states in its title sentence and lists in its methods and in its solution-pH table. It is therefore a second study of the same thing, and a uniqueness claim is refuted by a second study of what it says is unique. What it does not match is the outcome the judging note added: it reports onset (at least as rapid for the buffered as for the unbuffered solution) and the extent of anaesthesia as an area in cm2 at six readings, but measurement stopped after 4 1/2 minutes, so it supplies no duration. If the page narrows the sentence to the only study that timed the duration of that mixture in skin, the narrowed form survives."
+  },
+  {
+    "claim_id": "D012",
+    "paper_id": "S-686-04",
+    "pmid": "2827545",
+    "kind": "other-claim",
+    "old_verdict": "confirmed",
+    "new_verdict": "confirmed",
+    "uncertain_after": false,
+    "quote": "The mean pain … scores associated with the buffered … and unbuffered solutions of each local … anesthetic were compared using the … Student's t test for paired samples.",
+    "page": 2,
+    "proposed_wording": "",
+    "reason": "The existing reason already set Christoph 1988 aside as a comparison that left pH unmatched, and the full text confirms that from the methods rather than from the abstract: every comparison made in this paper is a paired within-drug one, each drug's buffered solution against its own unbuffered solution, and the two members of each pair differ in pH by about a unit by design. The three drugs were never compared against one another, by any test. Two further points keep the claim intact: the agents here are lidocaine, lidocaine with epinephrine and mepivacaine, so neither bupivacaine nor etidocaine is present, and the claim's substance is about where bupivacaine ranks. The one nuance worth recording is that the three unbuffered solutions happened to sit within a quarter of a pH unit of each other and their mean pain scores are printed side by side in the Figure, so a near-matched three-drug pain comparison exists in the data even though the paper never drew it."
+  }
+]
