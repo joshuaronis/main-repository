@@ -1,0 +1,33 @@
+[
+ {
+  "pmid": "8034840",
+  "citation": "Howe NR, Williams JM. Pain of injection and duration of anesthesia for intradermal infiltration of lidocaine, bupivacaine, and etidocaine. J Dermatol Surg Oncol 1994;20(7):459-464. DOI 10.1111/j.1524-4725.1994.tb03216.x",
+  "found_in_paper": "Not cited by S-686-17 (S-686-17 is from 1975). Identified as 'the one that is cited' from the Notion bupivacaine-wheals, comparison and 'still unsettled' pages, then fetched and verified independently (engine: europepmc, query EXT_ID:8034840).",
+  "bears_on_claim_ids": [
+   "D012",
+   "D056",
+   "D010",
+   "D011"
+  ],
+  "what_it_shows": "This, not Morgan & Russell 1975, is the paper the record cites for the intradermal injection-pain ranking in which etidocaine comes out worst. Randomised, placebo-controlled, double-blinded, 20 subjects, intradermal etidocaine, bupivacaine and lidocaine [dose figures omitted] plus normal saline, each with and without epinephrine, every solution adjusted to pH 5.95 +/- 0.15. Its ordering is as the record states it. Europe PMC confirms the authors, year, journal, pages 459-464 and the abstract wording; full text subscription-only, so the millimetre values remain unread, exactly as the record says.",
+  "quote_from_abstract": "Lidocaine hurt least and etidocaine hurt most. Adrenalized solutions were more painful than plain. For plain solutions bupivacaine lasted longest and lidocaine lasted shortest by far."
+ },
+ {
+  "pmid": "13293283",
+  "citation": "Geddes IC. Local anaesthetic properties and toxicity of hydroxyprocaine and hydroxyamethocaine. Br J Anaesth 1956;28(2):55-66. DOI 10.1093/bja/28.2.55",
+  "found_in_paper": "Reference list and introduction of S-686-17, p. 586, cited as one of the two earlier uses of the intradermal weal technique in man",
+  "bears_on_claim_ids": [
+   "D045"
+  ],
+  "what_it_shows": "Cannot be established from available records. Europe PMC holds the citation but no abstract (engine: europepmc, query AUTH:\"Geddes IC\" AND SRC:MED AND PUB_YEAR:1956; hitCount 2); the only content is MeSH - Anesthetics Local, Anesthesia Local, Procaine/analogs & derivatives - and the full text is subscription-only. All that is established is that Morgan & Russell cite it as a human intradermal weal study. Because hydroxyamethocaine is an amethocaine (tetracaine) analogue, it is worth opening against D045's claim that Willatts holds the only human intradermal timing of tetracaine, but it cannot decide that claim from here, and the analogue is not tetracaine itself.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "",
+  "citation": "Sinha HK. The local anesthetic actions of certain pyrazoline and quinoline compounds. J Pharmacol Exp Ther 1936;57:199",
+  "found_in_paper": "Reference list and introduction of S-686-17, p. 586, cited as the earlier use of the intradermal weal technique in man",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Not retrievable. No matching record in Europe PMC (engine: europepmc, query AUTH:\"Sinha HK\" OR (TITLE:\"pyrazoline\" AND TITLE:\"anesthetic\") - 14 hits, none this paper; 1936 J Pharmacol Exp Ther appears not to be indexed). It is recorded here only because it dates human intradermal weal testing to 1936, which is earlier than the 1952 start the Notion wheal-literature page gives that tradition.",
+  "quote_from_abstract": ""
+ }
+]

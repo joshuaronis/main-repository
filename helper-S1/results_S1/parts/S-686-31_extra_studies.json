@@ -1,7 +1,7 @@
 [
  {
   "pmid": "6054556",
-  "citation": "Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22:556. DOI 10.1111/j.1365-2044.1967.tb10153.x",
+  "citation": "Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561. PMID 6054556. DOI 10.1111/j.1365-2044.1967.tb10153.x",
   "found_in_paper": "S-686-31 reference list and Discussion ('No previous similar trial has been found except that of Padfield (1967) who also reported that saline produced a brief period of analgesia after intradermal injection'). Swerdlow's reference line prints the volume as 12, which is a citation or OCR error: the Amass/PubMed record gives Anaesthesia, October 1967.",
   "bears_on_claim_ids": [
    "C065",
@@ -14,8 +14,9 @@
    "D054",
    "D062"
   ],
-  "what_it_shows": "A controlled double-blind human intradermal comparison of prilocaine against lignocaine and procaine. The title alone establishes humans, the intradermal route, a controlled double-blind design and the three agents, so it is a human intradermal prilocaine timing study nearly two decades before Willatts and Reynolds 1985 and a human intradermal procaine study. Swerdlow and Jones add that it found intradermal saline produced a brief period of analgesia. Looked up in Amass BiomedCore by PMID; the record carries no abstract, so durations in minutes, volumes and whether any solution contained adrenaline cannot be read without the full text - which leaves the open questions on D023, D039 and D054 still open.",
-  "quote_from_abstract": ""
+  "what_it_shows": "A controlled double-blind human intradermal comparison of prilocaine against lignocaine and procaine. The title alone establishes humans, the intradermal route, a controlled double-blind design and the three agents, so it is a human intradermal prilocaine timing study nearly two decades before Willatts and Reynolds 1985 and a human intradermal procaine study. Swerdlow and Jones add that it found intradermal saline produced a brief period of analgesia. Looked up in Amass BiomedCore by PMID; the record carries no abstract, so durations in minutes, volumes and whether any solution contained adrenaline cannot be read without the full text - which leaves the open questions on D023, D039 and D054 still open. Europe PMC (EXT_ID:6054556) confirms the pagination as 22(4):556-561, the article types as Comparative Study, Clinical Trial and Randomized Controlled Trial, and the MeSH as Humans, Adult, Prilocaine, Lidocaine, Procaine, Anesthesia Local and Injections, Intradermal - which matches every element of claim C065 from the indexing alone. Europe PMC holds no abstract for it either and the full text is subscription-only, so whether it reports durations in minutes is still unread.",
+  "quote_from_abstract": "",
+  "engine": "amass (get by pmid, before the usage limit) + europepmc (EXT_ID:6054556, confirming citation, MeSH and article types)"
  },
  {
   "pmid": "14933832",
@@ -28,7 +29,8 @@
    "D062"
   ],
   "what_it_shows": "The source of the intradermal skin-weal timing method used in 1970, and the 1952 experiment that the procaine pages rest on for the claim that a vasoconstrictor and a plasma cholinesterase inhibitor did not prolong procaine intradermally. Swerdlow and Jones' description confirms it was an intradermal weal timing study in volunteers, which supports the pages' characterisation of it as an intradermal test rather than a nerve-block one, and it fixes 1952 as a real start date for the intradermal-weal seam the record describes. Looked up by title/author search in Amass BiomedCore; the record has a PMID and a DOI but no abstract, contrary to the note on D023 that it has no PubMed record to cite.",
-  "quote_from_abstract": ""
+  "quote_from_abstract": "",
+  "engine": "amass (title/author search, before the usage limit)"
  },
  {
   "pmid": "5324841",
@@ -40,7 +42,8 @@
    "C081"
   ],
   "what_it_shows": "A human volunteer study timing prilocaine and lidocaine, each in solutions with and without epinephrine, by bilateral ulnar nerve block with pinch-testing for analgesia and for regression time. It is a second human measurement of prilocaine with a vasoconstrictor timed to an endpoint, and a further duration measurement for the prilocaine count, but the route is nerve block rather than intradermal, so on its own it does not reach the intradermal element of D009 - the 1970 paper does that. Looked up by title/author search in Amass BiomedCore; no abstract, but the title states the agents, the with-and-without-epinephrine design and the route.",
-  "quote_from_abstract": ""
+  "quote_from_abstract": "",
+  "engine": "amass (title/author search, before the usage limit)"
  },
  {
   "pmid": "14272291",
@@ -52,7 +55,8 @@
    "C039"
   ],
   "what_it_shows": "A volunteer digital nerve block study timing bupivacaine with adrenaline by pinprick, reported by Swerdlow and Jones as 445 min (SE 48). It is an external duration figure for bupivacaine with a vasoconstrictor that the 1970 authors found closely matched their own intradermal result, which is what lets the two routes be compared at all; it is a nerve block, not a weal, so it does not reach any claim scoped to skin. Looked up by title/author search in Amass BiomedCore; no abstract.",
-  "quote_from_abstract": ""
+  "quote_from_abstract": "",
+  "engine": "amass (title/author search, before the usage limit)"
  },
  {
   "pmid": "5851306",
@@ -63,6 +67,7 @@
    "C067"
   ],
   "what_it_shows": "The source of the proposal that prilocaine has an anti-adrenaline action, which is the mechanism Swerdlow and Jones invoke for prilocaine gaining least from adrenaline of the three agents they tested. Relevant to any statement that the interaction between prilocaine and an added vasoconstrictor is unstudied: it was proposed and is cited as confirmed by an intradermal result in 1970. Looked up by title/author search in Amass BiomedCore; no abstract and no DOI.",
-  "quote_from_abstract": ""
+  "quote_from_abstract": "",
+  "engine": "amass (title/author search, before the usage limit)"
  }
 ]

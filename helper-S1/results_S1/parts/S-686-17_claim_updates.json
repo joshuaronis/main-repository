@@ -1,0 +1,41 @@
+[
+ {
+  "claim_id": "D008",
+  "paper_id": "S-686-17",
+  "pmid": "1138776",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "A half-recovery time (y=0.5, 16/32) … was estimated from the fitted line as a measure of … the duration of action of the anaesthetic agent.",
+  "page": 587,
+  "proposed_wording": "No study has measured intradermal bupivacaine's duration at a wheal volume of [dose figure omitted]; the figure on this page is an interpolation between two studies in two tissue layers with two definitions of the endpoint, forty-two years apart. The nearest human intradermal measurements used larger weals: a 1982 volunteer study timed plain bupivacaine to full return of sensation (Sweet 1982, PMID 6751499), and a 1975 double-blind volunteer weal study timed lignocaine, bupivacaine and etidocaine to half-recovery of pinprick at that same larger volume, following every weal to four sharp pricks or 240 minutes but reporting no per-agent complete-recovery time (Morgan & Russell 1975, PMID 1138776).",
+  "reason": "The full text settles both halves of the open question. The 1975 study injected 0.2 ml intradermally per weal through a 25-gauge needle in four volunteers, which is four times the 0.05 mL the claim is scoped to and the same volume as Sweet 1982, so 'nothing measured it at 0.05 mL' holds and the claim's volume element is unmatched. The reported endpoint is half-recovery of sharp pinprick (T50) read off a fitted exponential curve, not complete recovery; complete recovery was recorded only as a range across all weals of all solutions - 'The fastest time for recovery of sensation in all … weals was 85 min, and the longest was 240 min.' (p. 588) - with no per-agent complete-recovery time for bupivacaine, so 'neither has been timed to complete recovery at a wheal volume' also holds. The paper is not one of the two studies behind the interpolation (Sweet 1982 and Arancibia 2024), so the characterisation of that figure is untouched."
+ },
+ {
+  "claim_id": "D006",
+  "paper_id": "S-686-17",
+  "pmid": "1138776",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": true,
+  "quote": "The procedure was continued until four … sharp pricks were recorded for all weals on the same test, or until 240 min had elapsed since injec- … tion, with four pricks recorded for all weals at least … once.",
+  "page": 587,
+  "proposed_wording": "Four of the seven drugs have been timed to complete recovery in skin at a wheal volume; bupivacaine and ropivacaine have been timed to full return of sensation only at larger intradermal volumes, and articaine not at all. A 1975 double-blind weal study followed every weal to the return of four sharp pricks or to 240 minutes but reported duration per agent as a half-recovery time only (Morgan & Russell 1975, PMID 1138776).",
+  "reason": "The paper runs its testing to complete return of sharp pinprick in every weal, so complete recovery was observed - but it reports duration per agent only as half-recovery times, and reports complete recovery solely as an overall 85-240 min range across all weals and all solutions. At a volume four times the claim's 'wheal volume', and with no per-agent complete-recovery figure, it adds no drug to the set timed to complete recovery at a wheal volume, so the claim stands as narrowed. It remains uncertain because the two papers D006's own open question names (PMID 776194 and PMID 573558) were not read here."
+ },
+ {
+  "claim_id": "D012",
+  "paper_id": "S-686-17",
+  "pmid": "1138776",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "During these experiments, stinging was a common experience with all test solutions.",
+  "page": 589,
+  "proposed_wording": "The pH-matched intradermal injection-pain comparison of these drugs is still the only one of its kind (Howe & Williams 1994, PMID 8034840), and in it lidocaine hurt least and etidocaine most, which puts bupivacaine between the two. One earlier intradermal volunteer study compared the same three agents and recorded injection pain without matching or reporting pH, finding stinging common to all test solutions and ranking none of them (Morgan & Russell 1975, PMID 1138776).",
+  "reason": "This paper compares the same three agents (lignocaine, bupivacaine, etidocaine) intradermally in volunteers and does record injection pain, so it is a second comparative measurement of these drugs' intradermal injection pain. But it matches no element of the claim's pH condition: the words pH, buffer, alkalinize and epinephrine appear nowhere in it, the lower strengths were made by diluting the strongest with saline, and no solution contained adrenaline, so pH was neither matched nor measured. The claim is scoped to 'two or more of the seven drugs at matched pH', so it stays confirmed. What the paper does add is that the only other intradermal comparison of those three agents on injection pain found stinging common to all and did not rank them."
+ }
+]

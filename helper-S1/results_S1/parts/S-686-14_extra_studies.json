@@ -8,7 +8,19 @@
    "D006"
   ],
   "what_it_shows": "A human comparison, five years before Kim 1979, of a chloroprocaine-plus-bupivacaine mixture against bupivacaine alone in brachial plexus block, reporting mean duration of motor blockade for each - the mixture's the shorter of the two. It is a published pre-1979 study of an ester and an amide given together, with block duration as the outcome, which is exactly what C033 says nobody had studied. Route is brachial plexus, not skin, so it leaves Kim 1979 as the first intradermal answer.",
-  "quote_from_abstract": ""
+  "quote_from_abstract": "",
+  "engine": "amass"
+ },
+ {
+  "pmid": "556897",
+  "citation": "Raj PP, Rosenblatt R, Miller J, Katz RL, Carden E. Dynamics of local-anesthetic compounds in regional anesthesia. Anesth Analg 1977;56(1):110-117",
+  "found_in_paper": "S-686-14 (Kim 1979), reference 11, discussed on page 3",
+  "bears_on_claim_ids": [
+   "C033"
+  ],
+  "what_it_shows": "A second pre-1979 human study of the same ester-plus-amide mixture, in the paper's own reference list: compounded mixtures of chloroprocaine plus bupivacaine (and of lidocaine plus bupivacaine) given for epidural or brachial plexus block in 48 adult patients. Like Cunningham 1974 it matches every element C033 says is absent except the intradermal route, so the two together refute 'a question nobody had answered'. Kim cites it for its plasma-level finding rather than for duration.",
+  "quote_from_abstract": "The clinical effectiveness and safety of compounded mixtures of lidocaine + bupivacaine and chloroprocaine + bupivacaine for either epidural or brachial-plexus block was studied in 48 adult patients.",
+  "engine": "europepmc"
  },
  {
   "pmid": "5948743",
@@ -18,7 +30,8 @@
    "C033"
   ],
   "what_it_shows": "A 1966 study of local anaesthetic mixtures measuring latency and duration, summarised by Kim as the work in which an ester (tetracaine) was added to procaine or to lidocaine and epidural duration tracked in dogs, with the result depending on how much tetracaine the mixture held. Supports C033's refutation by showing that mixtures of a long-acting and a short-acting agent, and their effect on duration, were an established subject before 1979; the population is animal and the route epidural, so it does not match C033's human element on its own.",
-  "quote_from_abstract": ""
+  "quote_from_abstract": "",
+  "engine": "amass"
  },
  {
   "pmid": "4953096",
@@ -29,6 +42,19 @@
    "C046"
   ],
   "what_it_shows": "Reported by Kim as finding that intradermal block by a long-acting agent (propoxycaine) in guinea pigs was significantly shortened when a short-acting ester (procaine) was added - the same route and the same direction of effect as Kim 1979, in animals, ten years earlier. Relevant background for any statement that nothing had looked at whether mixing shortens an intradermal block. No abstract is on record and the primary paper was not read.",
-  "quote_from_abstract": ""
+  "quote_from_abstract": "",
+  "engine": "amass"
+ },
+ {
+  "pmid": "24431939",
+  "citation": "Collins JB, Song J, Mahabir RC. Onset and duration of intradermal mixtures of bupivacaine and lidocaine with epinephrine. Can J Plast Surg 2013;21(1):51-53",
+  "found_in_paper": "Not cited by S-686-14 (it postdates it); found in the paper's forward-citation list, and already in the record's own bupivacaine-wheals register",
+  "bears_on_claim_ids": [
+   "D006",
+   "C040"
+  ],
+  "what_it_shows": "A human intradermal mixing study in the same tissue and by the same route as Kim 1979, but amide with amide: 25 subjects, randomised and double-blind, four intradermal forearm injections each, onset and duration of four bupivacaine/lidocaine-with-epinephrine mixtures timed by sharp skin prick. Bears on the Ropivacaine page's claim that Kim 1979 is 'the only one in the right tissue by the right route' (notion finding F008), and on C040's account of whether Sweet's comparison has been repeated.",
+  "quote_from_abstract": "Twenty-five subjects were enrolled in a double-blinded, randomized block design study to evaluate the onset and duration of four different mixtures of lidocaine and bupivacaine with epinephrine.",
+  "engine": "amass"
  }
 ]

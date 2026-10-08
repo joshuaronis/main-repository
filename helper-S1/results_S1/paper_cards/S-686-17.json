@@ -1,0 +1,132 @@
+{
+ "paper_id": "S-686-17",
+ "citation": "Morgan M, Russell WJ. An investigation in man into the relative potency of lignocaine, bupivacaine and etidocaine. Br J Anaesth 1975;47:586-591",
+ "pmid": "1138776",
+ "doi": "10.1093/bja/47.5.586",
+ "right_paper": true,
+ "text_quality": "ok (OCR of a two-column scan; the two columns are interleaved line by line, so most sentences are broken by text from the other column -- quotes below use '...' to bridge those breaks. Table I and Table II are legible; the axis tick labels of fig. 2 and fig. 3 are garbled, and the fitted-equation exponents are partly mangled. Printed journal pages 586-591 correspond to the file's '===== PAGE 1 =====' to '===== PAGE 6 ====='; page numbers in this card are the printed journal pages. Pages 590-591 carry French, German and Spanish translations of the summary. NOTE: the by-line in the text is 'M. MORGAN AND W. J. RUSSELL', not the 'Morgan, Lumley & Whitwam' given in the task assignment -- see status notes.)",
+ "design": "Double-blind, within-subject volunteer bioassay of intradermal skin weals. Seven anaesthetic solutions plus a normal-saline control were allocated to the eight weal positions down each forearm from an 8 x 8 Latin square; neither subject nor investigator knew which weal was which and the subject could not see the weal being tested. Order of testing within a run was set from a table of random numbers. Pinprick was delivered by a weighted needle through a guide, with the number of weights pre-adjusted per subject so every prick was felt as sharp before the weals were raised. Recovery curves of the form y = 1 - e^(-a(t-T)) were fitted by least-squares linear regression on the log transform.",
+ "population": "Four healthy adult male volunteers from the Department of Anaesthetics, Hammersmith Hospital. No patients; no neuropathy.",
+ "n": "4 subjects; right and left arms used on separate occasions, giving 8 complete experiments; 8 weals per forearm (7 anaesthetic solutions plus saline control), each weal pricked 4 times at each 5-min interval, so the maximum group score per solution per time point is 32",
+ "setting": "Hammersmith Hospital and Royal Postgraduate Medical School, Du Cane Road, London (single centre, 1975)",
+ "intervention": "Lignocaine at two strengths, bupivacaine at two strengths and etidocaine at three strengths [dose figures omitted]; lower strengths made by dilution of the highest with saline. No solution contained adrenaline.",
+ "comparator": "Lignocaine was treated as the standard against which the other two were measured; normal saline was the inactive control weal",
+ "route": "Intradermal weal, 0.2 ml per weal through a 25-gauge needle, flexor surface of the forearm, weals on alternate sides of a line from the medial side of the biceps tendon to the palmaris longus tendon (this volume is recorded here under the brief's own-question exception)",
+ "duration": "Each weal tested four times at 5-min intervals, continuing until four sharp pricks were recorded for every weal on the same test or until 240 min after injection; observed complete recovery of all weals ranged 85-240 min",
+ "outcomes": "Primary: time to half-recovery (T50, y=0.5) of sharp pinprick sensation, read off the fitted exponential recovery curve, as the measure of duration of action; also the delay T before recovery began, the rate of recovery a, the correlation of the log transform, and the concentration/duration (log-linear) relation used to derive relative potency. Secondary observations: stinging on injection, local inflammatory/allergic/toxic reaction at the weal during testing and the following day, and any general reaction.",
+ "key_results": [
+  {
+   "quote": "The relative potency of lignocaine, bupivacaine and etidocaine was estimated by forearm skin weals in four volunteers.",
+   "page": 586
+  },
+  {
+   "quote": "Potency was estimated as the time to half-recovery … of a sharp sensation in response to a needle-prick.",
+   "page": 586
+  },
+  {
+   "quote": "Each test weal was made by injecting 0.2 ml of the … test solution intradermally with a 25-gauge needle.",
+   "page": 586
+  },
+  {
+   "quote": "The order of the test … solutions … and the saline control used to make the weals … down the forearm was determined from an 8 x 8 … latin square.",
+   "page": 586
+  },
+  {
+   "quote": "The increase in duration of action with increased concentration was greater for bupivacaine and etidocaine as compared with lignocaine.",
+   "page": 586
+  },
+  {
+   "quote": "The subjects were four adult male … volunteers from the Department of Anaesthetics … at the Hammersmith Hospital.",
+   "page": 587
+  },
+  {
+   "quote": "The right and left … arms were used on separate occasions, so that, in … all, eight complete experiments were performed.",
+   "page": 587
+  },
+  {
+   "quote": "A half-recovery time (y=0.5, 16/32) … was estimated from the fitted line as a measure of … the duration of action of the anaesthetic agent.",
+   "page": 587
+  },
+  {
+   "quote": "The procedure was continued until four … sharp pricks were recorded for all weals on the same test, or until 240 min had elapsed since injec- … tion, with four pricks recorded for all weals at least … once.",
+   "page": 587
+  },
+  {
+   "quote": "The fastest time for recovery of sensation in all … weals was 85 min, and the longest was 240 min.",
+   "page": 588
+  },
+  {
+   "quote": "Sensation was present in the normal saline weal on … the first test (zero time) and recovery was usually … complete within the first 10 min",
+   "page": 588
+  },
+  {
+   "quote": "A log-linear response … was assumed for the two … standard drugs and so only two points were estimated. … Three points are given for etidocaine.",
+   "page": 589
+  },
+  {
+   "quote": "During these experiments, stinging was a common experience with all test solutions.",
+   "page": 589
+  },
+  {
+   "quote": "The duration of analgesia, as measured by … a half-recovery time, which is obtainable with … bupivacaine [dose figure omitted] … is less than the duration of analgesia … obtained by etidocaine [dose figure omitted].",
+   "page": 590
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "The duration of effect of the local anaesthetic … solutions differed considerably between individuals.",
+   "page": 588
+  },
+  {
+   "quote": "This study gives no information about some … very important clinical aspects of local anaesthetic … pharmacology, such as tissue penetrability and … latency of onset, and the results apply only to skin … weals.",
+   "page": 590
+  },
+  {
+   "quote": "In other sites, the removal of the local … anaesthetic agent … may occur in ways which are totally … different, and governed by factors other than those … which apply to skin weals.",
+   "page": 590
+  }
+ ],
+ "funding_conflicts": "No grant or competing-interest statement is printed. The acknowledgements record a gift of the etidocaine from the manufacturer's UK arm, plus departmental help and statistical advice: \"Astra … Chemicals Ltd for a gift of the etidocaine used in this … investigation.\" (p. 590). Etidocaine was the new agent under test, so the sponsor supplied the investigational drug.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Sinha HK. The local anesthetic actions of certain pyrazoline and quinoline compounds. J Pharmacol Exp Ther 1936;57:199",
+   "pmid": "",
+   "why": "Cited by Morgan & Russell as one of the two earlier human intradermal-weal studies. Bears on how far back the human intradermal weal literature runs, which the Notion page 'The intradermal wheal literature nobody cites' dates from 1952. No record retrievable in Europe PMC."
+  },
+  {
+   "citation": "Geddes IC. Local anaesthetic properties and toxicity of hydroxyprocaine and hydroxyamethocaine. Br J Anaesth 1956;28:55-66",
+   "pmid": "13293283",
+   "why": "The other earlier human intradermal-weal study Morgan & Russell cite. Potentially bears on D045 (whether tetracaine/amethocaine has been timed in human skin outside Willatts), because hydroxyamethocaine is an amethocaine analogue - but Europe PMC holds no abstract for it, so it cannot decide anything here."
+  },
+  {
+   "citation": "Bulbring E, Wajda I. Biological comparison of local anesthetics. J Pharmacol Exp Ther 1945;85:78",
+   "pmid": "",
+   "why": "The animal intradermal-weal method and the log-linear concentration/duration assumption that Morgan & Russell's fig. 3 - and the concentration-duration slopes the Notion comparison page quotes from Willatts - both rest on."
+  },
+  {
+   "citation": "Scott DB, Jebson PJR, Boyes RN. Pharmacokinetic study of the local anaesthetics bupivacaine (Marcain) and etidocaine (Duranest) in man. Br J Anaesth 1973;45:1010",
+   "pmid": "",
+   "why": "The human plasma-kinetics comparison of bupivacaine and etidocaine that Morgan & Russell lean on in discussion; relevant to the record's clearance-based explanation of skin duration."
+  },
+  {
+   "citation": "Tucker GT, Boyes RN, Bridenbaugh PO, Moore DC. Binding of anilide-type local anesthetics in human plasma. I: Relationships between binding, physicochemical properties, and anesthetic activity. Anesthesiology 1970;33:287",
+   "pmid": "",
+   "why": "The protein-binding data Morgan & Russell use to explain why lignocaine's duration rises less with concentration than bupivacaine's or etidocaine's. The record's Ropivacaine Wheals page makes the same protein-binding argument."
+  },
+  {
+   "citation": "Lund PC, Cwik JC, Pagdanganan RT. Etidocaine - a new long-acting local anesthetic agent: a clinical evaluation. Anesth Analg (Cleve.) 1973;52:482",
+   "pmid": "",
+   "why": "Clinical evaluation of etidocaine that Morgan & Russell say agrees with their extrapolation; the only other etidocaine clinical source they name."
+  },
+  {
+   "citation": "Adams HJ, Kronberg GH, Takman BH. Local anesthetic activity and acute toxicity of a new long-acting agent. J Pharm Sci 1972;61:1829",
+   "pmid": "",
+   "why": "Animal study of etidocaine's local anaesthetic activity; cited for the concentration/duration difference between agents. Its toxicity content is not reproduced here."
+  },
+  {
+   "citation": "Bonica JJ. Clinical investigation of local anesthetics. Anesthesiology 1957;18:110",
+   "pmid": "",
+   "why": "The methods review Morgan & Russell cite for why intradermal weals vary least among ways of comparing local anaesthetics in man - the rationale the whole intradermal-weal tradition in the Notion record rests on."
+  }
+ ]
+}

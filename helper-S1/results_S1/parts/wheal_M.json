@@ -1,0 +1,974 @@
+[
+  {
+    "claim_id": "W-M001",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "The recommendation",
+    "claim": "The only study that measured it in human skin, by the test you would use — pinprick over an intradermal bleb — found recovery complete or nearly complete within 2 hours at every concentration tested, with time to half-recovery levelling off between about 40 and 70 minutes (Fairley and Reynolds, 1981).",
+    "elements_said_absent": {
+      "population": "human skin",
+      "intervention": "mepivacaine",
+      "design": "pinprick over an intradermal bleb",
+      "outcome": "duration / recovery",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "mepivacaine AND (intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\" OR wheal OR bleb OR intracutaneous OR \"skin anesthesia\" OR \"skin anaesthesia\") AND (duration OR pinprick OR \"pin-prick\" OR recovery)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 19,
+        "screened": 19,
+        "date_searched": "2026-10-07T06:23:39Z"
+      },
+      {
+        "query": "(intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\") AND (lidocaine OR lignocaine) AND (bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR procaine OR chloroprocaine OR etidocaine OR articaine OR tetracaine OR amethocaine) AND (comparison OR compared OR comparative) AND (volunteers OR volunteer OR \"healthy subjects\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 13,
+        "screened": 13,
+        "date_searched": "2026-10-07T06:15:11Z"
+      },
+      {
+        "query": "mepivacaine AND intradermal AND (duration OR pinprick OR recovery OR \"weal\" OR bleb)",
+        "engine": "europepmc",
+        "count": 139,
+        "screened": 8,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "(TITLE:\"mepivacaine\" OR ABSTRACT:\"mepivacaine\") AND (ABSTRACT:\"intradermal\" OR TITLE:\"intradermal\" OR ABSTRACT:\"intracutaneous\") AND (ABSTRACT:\"duration\" OR ABSTRACT:\"pinprick\" OR ABSTRACT:\"pin-prick\")",
+        "engine": "europepmc",
+        "count": 6,
+        "screened": 6,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "mepivacaine intradermal injection human volunteers duration of analgesia pinprick weal",
+        "engine": "amass",
+        "count": 20,
+        "screened": 20,
+        "date_searched": "2026-10-08T14:40:00Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "4041306",
+        "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57(10):1006-11",
+        "engine": "amass (record fetch) + europepmc",
+        "matches": "human skin; intradermal injection in 10 volunteers; double-blind; duration of action of mepivacaine measured alongside lignocaine and prilocaine in the same volunteers; page's own source list records the endpoint as pinprick until sensation returned",
+        "misses": "nothing material to the claim; the abstract itself does not use the word pinprick"
+      },
+      {
+        "pmid": "776194",
+        "citation": "Reynolds F, Bryson TH, Nicholas ADG. Intradermal study of a new local anaesthetic agent aptocaine. Br J Anaesth 1976;48(4):347-54",
+        "engine": "amass (record fetch) + europepmc",
+        "matches": "human volunteers; intradermal route; mepivacaine given at a range of concentrations in a second double-blind trial of 27 subjects; duration of action and area of anaesthesia measured; mepivacaine and prilocaine in the same subjects",
+        "misses": "the abstract does not name the sensory endpoint, so 'pinprick over an intradermal bleb' is not confirmed from it; lignocaine appears in the first trial (28 volunteers) and the abstract does not say whether the same subjects took part in both trials"
+      },
+      {
+        "pmid": "7326166",
+        "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53(11):1211-6",
+        "engine": "amass (record fetch) + europepmc",
+        "matches": "the study the claim cites: 23 volunteers, intradermal, 'analgesia to pinprick was tested at 5-min intervals thereafter until full recovery', duration and vascular effects",
+        "misses": "nothing; it is simply not the only such study"
+      },
+      {
+        "pmid": "2827545",
+        "citation": "Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17(2):117-20",
+        "engine": "europepmc",
+        "matches": "randomised double-blind study in 25 adult volunteers; intradermal injection of mepivacaine and of lidocaine in the same volunteers; onset, extent and duration of skin anaesthesia measured",
+        "misses": "the abstract does not state the sensory test used to map the anaesthetised area; duration is a secondary outcome to injection pain"
+      },
+      {
+        "pmid": "8148294",
+        "citation": "Farley JS, Hustead RF, Becker KE. Diluting lidocaine and mepivacaine in balanced salt solution reduces the pain of intradermal injection. Reg Anesth 1994;19(1):48-51",
+        "engine": "europepmc + amass",
+        "matches": "20 healthy volunteers each given six intradermal solutions including mepivacaine and lidocaine; 'The degree of anesthesia at each site was evaluated by pinprick every minute for 20 minutes' - human skin, intradermal, pinprick endpoint",
+        "misses": "observation stopped at 20 minutes, so it cannot speak to total duration; no prilocaine arm"
+      }
+    ],
+    "verdict": "refuted",
+    "uncertain": false,
+    "evidence_pmid": "4041306",
+    "quote": "The vascular effects and duration of action of two ester-linked local anaesthetics, procaine and amethocaine, and four amide-linked local anaesthetics, cinchocaine, lignocaine, mepivacaine and prilocaine, were investigated in 10 volunteers by intradermal injection using a double-blind technique.",
+    "proposed_wording": "Mepivacaine has been measured in human skin by intradermal injection at least five times: Reynolds, Bryson and Nicholas 1976 (PMID 776194), Fairley and Reynolds 1981 (PMID 7326166), Willatts and Reynolds 1985 (PMID 4041306), Christoph et al. 1988 (PMID 2827545) and Farley, Hustead and Becker 1994 (PMID 8148294). Fairley and Reynolds 1981 is the largest of them and the one that maps the concentration range; it is not the only one.",
+    "reason": "Refuted, and the page contradicts itself: its own source list calls Willatts and Reynolds 1985 the second intradermal measurement of mepivacaine and records its endpoint as pinprick until sensation returned, so that study matches every element the claim says is unique - human skin, intradermal injection, pinprick, duration. Reynolds 1976 (PMID 776194) matches human volunteers, the intradermal route, mepivacaine at a range of concentrations and duration of action, though its abstract does not name the sensory endpoint; Farley 1994 matches human skin, intradermal route and an explicit pinprick endpoint but only followed sites for 20 minutes; Christoph 1988 matches human skin, intradermal route and duration but does not name the test. The mepivacaine page states this negative flatly, with none of the search-limited scoping the Ropivacaine Wheals page applies, so the sentence is wrong as written rather than merely over-broad.",
+    "needs_full_text": [],
+    "_source_line": 18,
+    "_note": "only-study claim about Fairley & Reynolds 1981; the page's own source list calls Willatts & Reynolds 1985 the second such measurement"
+  },
+  {
+    "claim_id": "W-M002",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "What has no source; What does mepivacaine do to skin blood vessels (line 53); Skin: vessels and duration (line 151)",
+    "claim": "That mepivacaine does not raise blood flow at [dose figure omitted].",
+    "elements_said_absent": {
+      "population": "human skin",
+      "intervention": "mepivacaine at the strength sold plain",
+      "design": "any",
+      "outcome": "skin blood flow",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(mepivacaine OR carbocaine OR scandonest OR polocaine) AND (\"3%\" OR \"30 mg/ml\" OR \"30 mg/mL\" OR plain OR \"without vasoconstrictor\" OR \"without epinephrine\") AND (\"blood flow\" OR perfusion OR \"laser Doppler\" OR vasoconstriction OR vasodilation OR vasoactivity OR blanching OR pallor OR \"pulpal blood flow\" OR \"gingival blood flow\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 119,
+        "screened": 119,
+        "date_searched": "2026-10-07T06:24:37Z"
+      },
+      {
+        "query": "mepivacaine AND (intradermal OR intracutaneous OR \"skin\" OR cutaneous OR subcutaneous) AND (\"laser Doppler\" OR \"blood flow\" OR perfusion OR thermography OR \"skin temperature\" OR flux)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 53,
+        "screened": 53,
+        "date_searched": "2026-10-07T06:27:20Z"
+      },
+      {
+        "query": "(TITLE:\"mepivacaine\" OR ABSTRACT:\"mepivacaine\") AND (TITLE:\"blood flow\" OR ABSTRACT:\"blood flow\" OR ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"perfusion\" OR ABSTRACT:\"microcirculation\")",
+        "engine": "europepmc",
+        "count": 94,
+        "screened": 94,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "EXT_ID:11346729 OR EXT_ID:291855 OR EXT_ID:21211791 OR EXT_ID:35377931 OR EXT_ID:29304423 OR EXT_ID:21397892",
+        "engine": "europepmc",
+        "count": 7,
+        "screened": 7,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "ABSTRACT:\"mepivacaine\" AND (ABSTRACT:\"skin temperature\" OR ABSTRACT:\"thermography\" OR ABSTRACT:\"thermographic\" OR ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"cutaneous blood flow\")",
+        "engine": "europepmc",
+        "count": 27,
+        "screened": 8,
+        "date_searched": "2026-10-08T14:40:00Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "35377931",
+        "citation": "Thayer S, Townsend JA, Peters M, Yu Q, Odom M, Sabey KA. Kovanaze Intranasal Spray vs Traditional Injected Anesthetics: a Study of Pulpal Blood Flow Utilizing Laser Doppler Flowmetry. Anesth Prog 2022;69(1):31-8",
+        "engine": "europepmc",
+        "matches": "human, double-blind crossover in 20 subjects; plain mepivacaine at the strength sold without a vasoconstrictor given by intraoral infiltration; blood flow measured by laser Doppler flowmetry; plain mepivacaine produced no significant change from baseline while lidocaine with epinephrine did",
+        "misses": "the tissue is dental pulp, not skin, and the injection is an intraoral infiltration, not an intradermal wheal"
+      },
+      {
+        "pmid": "21211791",
+        "citation": "Kijsamanmith K, Timpawat S, Vongsavan N, Matthews B. Pulpal blood flow recorded from human premolar teeth with a laser Doppler flow meter using either red or infrared light. Arch Oral Biol 2011;56(7):629-33",
+        "engine": "europepmc",
+        "matches": "human teeth; laser Doppler blood flow recorded before and after injecting plain mepivacaine at the strength sold without a vasoconstrictor over the tooth apex; reports no significant effect of the injection on the signal",
+        "misses": "dental pulp rather than skin; blood flow is the instrument's subject, the anaesthetic a step in the protocol"
+      },
+      {
+        "pmid": "21397892",
+        "citation": "Kijsamanmith K, Timpawat S, Vongsavan N, Matthews B. A comparison between red and infrared light for recording pulpal blood flow from human anterior teeth with a laser Doppler flow meter. Arch Oral Biol 2011;56(6):614-8",
+        "engine": "europepmc",
+        "matches": "as above, in anterior teeth, with plain mepivacaine injected over the apex and laser Doppler recording before and after",
+        "misses": "dental pulp rather than skin"
+      },
+      {
+        "pmid": "29304423",
+        "citation": "Kijsamanmith K, Vongsavan N, Matthews B. Pulpal blood flow recorded from exposed dentine with a laser Doppler flow meter using red or infrared light. Arch Oral Biol 2018;87:163-7",
+        "engine": "europepmc",
+        "matches": "human teeth; laser Doppler; explicitly states the anaesthetic injected was mepivacaine without vasoconstrictor at the strength sold plain; reports no significant change in mean blood flow on anaesthetising the tooth",
+        "misses": "dental pulp rather than skin"
+      },
+      {
+        "pmid": "11346729",
+        "citation": "Fernieini EM, Bennett JD, Silverman DG, Halaszynski TM. Hemodynamic assessment of local anesthetic administration by laser Doppler flowmetry. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2001;91(5):526-30",
+        "engine": "europepmc",
+        "matches": "17 people, randomised order, intraoral injection of plain mepivacaine at the strength sold without a vasoconstrictor and of lidocaine with epinephrine; laser Doppler flowmetry of skin perfusion recorded at intervals",
+        "misses": "the perfusion measured is of the finger, remote from the injection; the reported signal is dominated by anxiety before injection, so it is not a measurement of the injected skin"
+      },
+      {
+        "pmid": "1286052",
+        "citation": "Guinard JP, Carpenter RL, Morell RC. Effect of local anesthetic concentration on capillary blood flow in human skin. Reg Anesth 1992;17(6):317-21",
+        "engine": "europepmc",
+        "matches": "the study the page relies on: eight volunteers, randomised double-blind, laser Doppler capillary perfusion, saline and needle-stick controls; abstract states recording ran for 60 minutes after the interventions and that the injections were subcutaneous",
+        "misses": "its concentrations stop below the strength sold plain; recording stops at 60 minutes; Europe PMC records a higher citing-work count than the page's figure"
+      },
+      {
+        "pmid": "291855",
+        "citation": "Lindorf HH. Investigation of the vascular effect of newer local anesthetics and vasoconstrictors. Oral Surg Oral Med Oral Pathol 1979;48(4):292-7",
+        "engine": "europepmc",
+        "matches": "a comparative measurement of the vascular effect of mepivacaine after infiltration, by infrared thermography, indexed under Skin/blood supply, reporting mepivacaine as mildly vasoconstrictor; its reported time course for the vasoconstrictor arms extends beyond an hour",
+        "misses": "the abstract gives no concentration, does not state the route precisely, predates Guinard 1992, and does not say how long the mepivacaine arm was followed"
+      },
+      {
+        "pmid": "8435261",
+        "citation": "Fruhstorfer H, Wagener G. Effects of intradermal lignocaine and mepivacaine on human cutaneous circulation in areas with histamine-induced neurogenic inflammation. Br J Anaesth 1993;70(2):167-70",
+        "engine": "amass + europepmc",
+        "matches": "human skin; intradermal mepivacaine and lignocaine against saline; flux by scanning laser Doppler flowmetry; published after Guinard 1992 and reaching the same direction (local anaesthetics did not raise the flux that saline raised)",
+        "misses": "skin pre-inflamed by a histamine prick rather than ordinary skin; a concentration below the strengths sold; the abstract does not state how long flux was recorded"
+      }
+    ],
+    "verdict": "narrowed",
+    "uncertain": false,
+    "evidence_pmid": "35377931",
+    "quote": "",
+    "proposed_wording": "Blood flow has been measured in humans after an injection of plain mepivacaine at the strength sold without a vasoconstrictor, but in dental pulp rather than skin: a double-blind crossover study of 20 subjects recorded pulpal blood flow by laser Doppler flowmetry after intraoral infiltration and found no significant change from baseline for the plain preparation (Thayer et al. 2022, PMID 35377931), and three further laser-Doppler studies of human teeth recorded before and after injecting that same plain preparation over the tooth apex (Kijsamanmith et al. 2011, PMIDs 21211791 and 21397892; Kijsamanmith et al. 2018, PMID 29304423). No study measuring skin blood flow at that strength was found in searches of Europe PMC through October 2026 or in the PubMed searches run on 2026-10-07.",
+    "reason": "Narrowed rather than refuted. The claim is scoped to skin blood flow, and nothing found measures skin blood flow at the strength sold plain, so the page's reason for the gap - that neither Guinard nor Fairley reached it - still holds; Guinard's own abstract confirms the concentrations stop short of it. But the flat statement that the strength was never measured for blood flow overreaches: four human laser-Doppler studies injected exactly that plain preparation and recorded blood flow, in dental pulp, and a fifth recorded finger skin perfusion after an intraoral injection of it (Fernieini et al. 2001, PMID 11346729). Those miss the skin element and, for the pulp studies, the intradermal route. Quote omitted because every sentence naming the preparation states its concentration; PMID 35377931 is a double-blind crossover of 20 subjects with laser Doppler flowmetry as the blood-flow measure.",
+    "needs_full_text": [],
+    "_source_line": 183,
+    "_note": "the strength sold plain was measured by neither cited study"
+  },
+  {
+    "claim_id": "W-M003",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "What does the laboratory say about damage",
+    "claim": "So of the three laboratory studies, two rank mepivacaine ahead of lidocaine and the third — the only one performed on human cells — finds them indistinguishable.",
+    "elements_said_absent": {
+      "population": "human cells",
+      "intervention": "mepivacaine vs lidocaine",
+      "design": "laboratory study",
+      "outcome": "relative toxicity",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(\"SH-SY5Y\" OR neuroblastoma OR \"neuronal cells\") AND (ropivacaine OR bupivacaine) AND (lidocaine OR mepivacaine OR procaine OR chloroprocaine) AND (cytotoxicity OR toxicity OR \"cell death\" OR viability OR apoptosis)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 9,
+        "screened": 9,
+        "date_searched": "2026-10-07T06:26:20Z"
+      },
+      {
+        "query": "(\"Schwann cell\" OR \"Schwann cells\" OR RSC96 OR \"S16\") AND (lidocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR chloroprocaine OR tetracaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\") AND (toxicity OR cytotoxicity OR apoptosis OR \"cell death\" OR viability OR necrosis)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 21,
+        "screened": 21,
+        "date_searched": "2026-10-07T06:25:51Z"
+      },
+      {
+        "query": "ABSTRACT:\"mepivacaine\" AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\") AND (ABSTRACT:\"cytotoxicity\" OR ABSTRACT:\"cell viability\" OR ABSTRACT:\"apoptosis\" OR ABSTRACT:\"neurotoxicity\" OR ABSTRACT:\"cell death\") AND (ABSTRACT:\"human\" OR ABSTRACT:\"cell line\" OR ABSTRACT:\"neuroblastoma\" OR ABSTRACT:\"SH-SY5Y\" OR ABSTRACT:\"cultured\")",
+        "engine": "europepmc",
+        "count": 12,
+        "screened": 10,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "ABSTRACT:\"mepivacaine\" AND (ABSTRACT:\"SH-SY5Y\" OR ABSTRACT:\"neuroblastoma\" OR ABSTRACT:\"human neuronal cells\" OR ABSTRACT:\"human neuronal\")",
+        "engine": "europepmc",
+        "count": 8,
+        "screened": 8,
+        "date_searched": "2026-10-08T14:40:00Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "19700777",
+        "citation": "Werdehausen R, Fazeli S, Braun S, Hermanns H, Essmann F, Hollmann MW, Bauer I, Stevens MF. Apoptosis induction by different local anaesthetics in a neuroblastoma cell line. Br J Anaesth 2009;103(5):711-8",
+        "engine": "europepmc",
+        "matches": "laboratory study on human neuronal cells (SHEP neuroblastoma); eight local anaesthetics including mepivacaine and lidocaine; apoptosis by annexin V flow cytometry; reports an order of apoptotic potency that places mepivacaine above lidocaine rather than level with it",
+        "misses": "nothing material to the claim"
+      },
+      {
+        "pmid": "19224816",
+        "citation": "Perez-Castro R, Patel S, Garavito-Aguilar ZV, Rosenberg A, Recio-Pinto E, Zhang J, Blanck TJ, Xu F. Cytotoxicity of local anesthetics in human neuronal cells. Anesth Analg 2009;108(3):997-1007",
+        "engine": "europepmc",
+        "matches": "laboratory study on human cells (SH-SY5Y neuroblastoma); six local anaesthetics including both mepivacaine and lidocaine; viability by MTT with imaging and caspase assays",
+        "misses": "nothing material; Europe PMC's stored abstract truncates the sentence giving the potency order, so the direction of the mepivacaine/lidocaine comparison was not read from it"
+      },
+      {
+        "pmid": "25514420",
+        "citation": "Malet A, Faure MO, Deletage N, Pereira B, Haas J, Lambert G. The comparative cytotoxic effects of different local anesthetics on a human neuroblastoma cell line. Anesth Analg 2015;120(3):589-96",
+        "engine": "europepmc",
+        "matches": "the study the claim calls the only one on human cells: SH-SY5Y cells, six local anaesthetics, and no significant difference between the prilocaine, lidocaine and mepivacaine figures",
+        "misses": "nothing; it is simply not the only human-cell study"
+      },
+      {
+        "pmid": "34180760",
+        "citation": "MicroRNA-183-5p protects human derived cell line SH-SY5Y cells from mepivacaine-induced injury. Bioengineered 2021",
+        "engine": "europepmc",
+        "matches": "a further laboratory study of mepivacaine injury in a human neuronal cell line",
+        "misses": "no lidocaine comparator, so it does not bear on the ranking"
+      }
+    ],
+    "verdict": "refuted",
+    "uncertain": false,
+    "evidence_pmid": "19700777",
+    "quote": "Therefore, we compared apoptosis induction by local anaesthetics related to their physicochemical properties in human neuronal cells.",
+    "proposed_wording": "Mepivacaine and lidocaine have been compared in human neuronal cell lines in at least three laboratory studies: Perez-Castro et al. 2009 in SH-SY5Y cells (PMID 19224816), Werdehausen et al. 2009 in SHEP neuroblastoma cells (PMID 19700777) and Malet et al. 2015 in SH-SY5Y cells (PMID 25514420), with a fourth examining mepivacaine alone in SH-SY5Y cells (PMID 34180760). Werdehausen's reported order of apoptotic potency places mepivacaine above lidocaine rather than level with it.",
+    "reason": "Refuted on both counts the claim makes. Malet 2015 is not the only laboratory study performed on human cells: Werdehausen 2009 used human SHEP neuroblastoma cells and Perez-Castro 2009 used human SH-SY5Y cells, and both included mepivacaine and lidocaine among the agents compared - matching population (human cells), intervention (mepivacaine vs lidocaine), design (laboratory toxicity assay) and outcome (relative toxicity). The count of three laboratory studies is therefore too low, and the direction is not uniform: Werdehausen's human-cell ranking is the opposite of the two animal-cell studies the page relies on. Neither new study is cited on the page.",
+    "needs_full_text": [],
+    "_source_line": 101,
+    "_note": "only-study claim"
+  },
+  {
+    "claim_id": "W-M004",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "What does the human evidence say about nerve damage",
+    "claim": "Mepivacaine is missing from the safer list not because it was shown to be as harmful as lidocaine but because the trials cannot tell the two apart in either direction.",
+    "elements_said_absent": {
+      "population": "any",
+      "intervention": "mepivacaine vs lidocaine",
+      "design": "randomised trials",
+      "outcome": "neurologic symptoms",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "ABSTRACT:\"mepivacaine\" AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\") AND (ABSTRACT:\"transient neurologic symptoms\" OR ABSTRACT:\"transient neurological symptoms\" OR ABSTRACT:\"transient radicular irritation\" OR ABSTRACT:\"transient neurologic syndrome\")",
+        "engine": "europepmc",
+        "count": 25,
+        "screened": 10,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "(\"transient neurologic symptoms\" OR \"transient neurological symptoms\" OR intrathecal OR spinal) AND (intradermal OR \"subcutaneous tissue\" OR skin OR cutaneous OR peripheral) AND (\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR lidocaine OR mepivacaine) AND (neurotoxicity OR \"tissue toxicity\" OR irritation) AND (comparison OR compared OR predict OR correlation OR \"in vitro\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 21,
+        "screened": 20,
+        "date_searched": "2026-10-07T06:25:10Z"
+      },
+      {
+        "query": "(\"transient neurologic symptoms\" OR \"transient neurological symptoms\") AND (skin OR intradermal OR subcutaneous OR infiltration OR \"peripheral nerve\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 20,
+        "screened": 20,
+        "date_searched": "2026-10-07T06:27:40Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "9523803",
+        "citation": "Liguori GA, Zayas VM, Chisholm MF. Transient neurologic symptoms after spinal anesthesia with mepivacaine and lidocaine. Anesthesiology 1998;88(3):619-23",
+        "engine": "europepmc",
+        "matches": "randomised, double-blinded head-to-head comparison of mepivacaine with lidocaine for spinal anaesthesia in 60 ambulatory patients, with transient neurologic symptoms as the outcome; the two arms differed significantly (P = 0.008), with none of the mepivacaine arm affected",
+        "misses": "a single trial, not the pooled network estimate the claim is about; the outcome is symptoms, not fibre damage"
+      },
+      {
+        "pmid": "11167171",
+        "citation": "Salazar F, Bogdanovich A, Adalia R, Chabas E, Gomar C. Transient neurologic symptoms after spinal anaesthesia using isobaric [dose figure omitted] mepivacaine and isobaric [dose figure omitted] lidocaine. Acta Anaesthesiol Scand 2001;45(2):240-5",
+        "engine": "europepmc",
+        "matches": "80 patients randomly allocated to mepivacaine or lidocaine, assessor unaware of grouping, transient neurologic symptoms as the outcome; no statistically significant difference between groups",
+        "misses": "nothing; it supports the claim's direction"
+      },
+      {
+        "pmid": "22342508",
+        "citation": "Pawlowski J, Orr K, Kim KM, Pappas AL, Sukhani R, Jellish WS. Anesthetic and recovery profiles of lidocaine versus mepivacaine for spinal anesthesia in patients undergoing outpatient orthopedic arthroscopic procedures. J Clin Anesth 2012;24(2):109-15",
+        "engine": "europepmc",
+        "matches": "prospective randomised double-blinded comparison of mepivacaine with lidocaine in 84 patients; transient neurologic symptoms recorded; neither group had them",
+        "misses": "nothing; it supports the claim's direction"
+      }
+    ],
+    "verdict": "narrowed",
+    "uncertain": false,
+    "evidence_pmid": "9523803",
+    "quote": "Two to 4 days after operation, each patient was questioned about the development of TNS.",
+    "proposed_wording": "Randomised head-to-head comparisons of mepivacaine with lidocaine for spinal anaesthesia exist and do not all agree: one double-blind trial of 60 ambulatory patients reported significantly fewer transient neurologic symptoms in the mepivacaine arm than the lidocaine arm (Liguori et al. 1998, PMID 9523803), while two further randomised comparisons found no significant difference between the two (Salazar et al. 2001, PMID 11167171; Pawlowski et al. 2012, PMID 22342508). The pooled network estimate against lidocaine remains imprecise.",
+    "reason": "Narrowed. Within the scope of the network meta-analysis the claim is right - the pooled mepivacaine-against-lidocaine estimate is indistinguishable from no effect, which is why mepivacaine is absent from that list. But as written, that the trials cannot tell the two apart in either direction overreaches: a randomised, double-blind head-to-head trial did separate them significantly (P = 0.008), in mepivacaine's favour, and the page cites that trial itself elsewhere. The two other randomised head-to-head comparisons found no difference, so the body of trials is mixed rather than uniformly uninformative.",
+    "needs_full_text": [],
+    "_source_line": 110,
+    "_note": ""
+  },
+  {
+    "claim_id": "W-M005",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "What does the human evidence say about nerve damage; What is not known (line 146)",
+    "claim": "It says nothing about nerve fibre loss, which is the damage that would matter to someone whose fibres are already depleted — nobody has measured damage to nerve fibres in skin from an injected anesthetic; the one measurement is of lidocaine patches, which lowered epidermal nerve fibre density in healthy volunteers after 42 days (Wehrfritz et al., 2011, PMID 21530339) — but it does say that [dose figure omitted] mepivacaine is hard on the tissue it is put into.",
+    "elements_said_absent": {
+      "population": "skin",
+      "intervention": "any injected local anaesthetic",
+      "design": "any",
+      "outcome": "damage to nerve fibres",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (infiltration OR intradermal OR intracutaneous OR \"subcutaneous injection\" OR \"skin injection\" OR \"wound infiltration\") AND (\"nerve fibers\" OR \"nerve fibres\" OR \"nerve fiber\" OR \"nerve fibre\" OR innervation OR neurites OR \"sensory nerve\" OR \"cutaneous nerves\") AND (histology OR histological OR immunohistochemistry OR immunohistochemical OR morphology OR biopsy OR density)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 286,
+        "screened": 200,
+        "date_searched": "2026-10-07T06:19:07Z"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine OR \"lidocaine patch\" OR \"lidocaine plaster\") AND (\"intraepidermal nerve fiber\" OR \"intraepidermal nerve fibre\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"IENFD\" OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"skin innervation\" OR \"cutaneous innervation\" OR \"PGP9.5\" OR \"PGP 9.5\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 265,
+        "screened": 200,
+        "date_searched": "2026-10-07T06:18:36Z"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine) AND (\"intraepidermal nerve\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"epidermal nerve fibers\" OR \"epidermal nerve fibres\" OR IENFD OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"PGP9.5\" OR \"PGP 9.5\" OR \"protein gene product 9.5\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 21,
+        "screened": 21,
+        "date_searched": "2026-10-07T06:18:47Z"
+      },
+      {
+        "query": "(\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR lidocaine OR bupivacaine OR ropivacaine OR procaine OR chloroprocaine OR tetracaine OR mepivacaine OR levobupivacaine) AND (unmyelinated OR \"C fibers\" OR \"C fibres\" OR \"C-fibers\" OR \"C-fibres\" OR \"Remak\" OR \"small fibers\" OR \"small fibres\" OR \"intraepidermal\") AND (histology OR histological OR histopathology OR morphometry OR \"electron microscopy\" OR ultrastructural OR degeneration OR \"nerve injury\" OR neurotoxicity)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 114,
+        "screened": 114,
+        "date_searched": "2026-10-07T06:18:05Z"
+      },
+      {
+        "query": "(ABSTRACT:\"local anesthetic\" OR ABSTRACT:\"local anaesthetic\" OR ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"mepivacaine\") AND (ABSTRACT:\"intraepidermal nerve fiber density\" OR ABSTRACT:\"intraepidermal nerve fibre density\" OR ABSTRACT:\"epidermal nerve fiber density\" OR ABSTRACT:\"epidermal nerve fibre density\" OR ABSTRACT:\"IENFD\")",
+        "engine": "europepmc",
+        "count": 2,
+        "screened": 2,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "(ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"local anesthetic\" OR ABSTRACT:\"local anaesthetic\") AND (ABSTRACT:\"intradermal\" OR ABSTRACT:\"intracutaneous\" OR ABSTRACT:\"subcutaneous\" OR ABSTRACT:\"infiltration\") AND (ABSTRACT:\"nerve fiber\" OR ABSTRACT:\"nerve fibre\" OR ABSTRACT:\"nerve fibers\" OR ABSTRACT:\"nerve fibres\" OR ABSTRACT:\"skin innervation\" OR ABSTRACT:\"cutaneous innervation\" OR ABSTRACT:\"intraepidermal\") AND (ABSTRACT:\"degeneration\" OR ABSTRACT:\"density\" OR ABSTRACT:\"damage\" OR ABSTRACT:\"histology\" OR ABSTRACT:\"biopsy\" OR ABSTRACT:\"immunohistochemistry\")",
+        "engine": "europepmc",
+        "count": 7,
+        "screened": 7,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "(ABSTRACT:\"cutaneous analgesia\" OR ABSTRACT:\"infiltration anesthesia\" OR ABSTRACT:\"infiltration anaesthesia\" OR ABSTRACT:\"skin wheal\" OR ABSTRACT:\"intradermal injection\" OR ABSTRACT:\"skin infiltration\") AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"local anesthetic\") AND (ABSTRACT:\"neurotoxicity\" OR ABSTRACT:\"nerve damage\" OR ABSTRACT:\"nerve injury\" OR ABSTRACT:\"axonal\" OR ABSTRACT:\"histopathology\" OR ABSTRACT:\"nerve fiber loss\" OR ABSTRACT:\"denervation\")",
+        "engine": "europepmc",
+        "count": 5,
+        "screened": 5,
+        "date_searched": "2026-10-08T14:40:00Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "21530339",
+        "citation": "Wehrfritz A, Namer B, Ihmsen H, Mueller C, Filitz J, Koppert W, Leffler A. Differential effects on sensory functions and measures of epidermal nerve fiber density after application of a lidocaine patch ([dose figure omitted]) on healthy human skin. Eur J Pain 2011;15(9):907-12",
+        "engine": "europepmc",
+        "matches": "human skin; epidermal nerve fibre density measured; randomised and double-blinded against a placebo patch; a moderate but significant decrease in density after prolonged treatment",
+        "misses": "the anaesthetic is applied topically as a patch, not injected, so it does not match the claim's intervention element"
+      },
+      {
+        "pmid": "23887198",
+        "citation": "Bischoff JM, Petersen M, Uceyler N, Sommer C, Kehlet H, Werner MU. Lidocaine patch ([dose figure omitted]) in treatment of persistent inguinal postherniorrhaphy pain. Anesthesiology 2013;119(6):1444-52",
+        "engine": "europepmc",
+        "matches": "human skin biopsies for intraepidermal nerve fibre density in a randomised crossover trial of a lidocaine patch",
+        "misses": "topical patch, not an injection, and density was measured at baseline only, so it is not a before/after measurement of patch effect on fibres"
+      },
+      {
+        "pmid": "23182228",
+        "citation": "Kankel J, Obreja O, Kleggetveit IP, Schmidt R, Jorum E, Schmelz M, Namer B. Differential effects of low dose lidocaine on C-fiber classes in humans. J Pain 2012;13(12):1232-41",
+        "engine": "europepmc",
+        "matches": "human skin; intradermally injected lidocaine against saline; microneurography of single cutaneous C-fibre classes, so nerve fibres in skin were the measured object",
+        "misses": "the outcome is reversible axonal conduction physiology during a block, not structural damage or loss of fibres, so it misses the claim's outcome element"
+      },
+      {
+        "pmid": "23590164",
+        "citation": "The spectrum of histopathologic patterns secondary to the topical application of EMLA on vulvar epithelium. 2013",
+        "engine": "europepmc",
+        "matches": "human skin/mucosa histopathology after a local anaesthetic",
+        "misses": "topical application, and the findings are epithelial, with no nerve-fibre measurement"
+      },
+      {
+        "pmid": "8519713",
+        "citation": "Liu S, Carpenter RL, Chiu AA, McGill TJ, Mantell SA. Epinephrine prolongs duration of subcutaneous infiltration of local anesthesia in a dose-related manner. Reg Anesth 1995;20(5):378-84",
+        "engine": "amass",
+        "matches": "skin wheals in volunteers with laser Doppler flowmetry of skin blood flow followed for six hours, which is the design the claim says is missing",
+        "misses": "the drugs are lidocaine and bupivacaine with epinephrine; no mepivacaine arm, so it does not match the intervention element"
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": false,
+    "evidence_pmid": "",
+    "quote": "",
+    "proposed_wording": "No study measuring damage to nerve fibres in skin after an injected local anaesthetic was found in searches of Europe PMC through October 2026 or in the PubMed searches run on 2026-10-07. The nearest human measurements are of a topically applied lidocaine patch, which lowered epidermal nerve fibre density in healthy volunteers (Wehrfritz et al. 2011, PMID 21530339), and a microneurography study that recorded reversible changes in cutaneous C-fibre conduction after intradermal lidocaine without assessing fibre loss (Kankel et al. 2012, PMID 23182228).",
+    "reason": "Confirmed within the claim's own scope. Four independent searches on nerve-fibre density and cutaneous innervation terms returned only topical-patch studies: Wehrfritz 2011, which the page already cites, and Bischoff 2013 (PMID 23887198), which measured intraepidermal nerve fibre density at baseline only. Neither matches the intervention element, an injected anaesthetic. The closest miss is Kankel 2012, which did inject lidocaine intradermally and did record from single cutaneous C-fibres in humans, but its outcome is reversible conduction physiology during a block, not structural damage or fibre loss, so it misses the outcome element. This reads the same way as W-B002 on the bupivacaine page, which states the same absence; both stand.",
+    "needs_full_text": [],
+    "_source_line": 120,
+    "_note": "the page pairs this with Wehrfritz 2011, which measured lidocaine patches rather than an injection"
+  },
+  {
+    "claim_id": "W-M006",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "What is not known",
+    "claim": "Nobody has measured skin blood flow after a mepivacaine wheal for longer than an hour.",
+    "elements_said_absent": {
+      "population": "any",
+      "intervention": "mepivacaine wheal",
+      "design": "any",
+      "outcome": "skin blood flow beyond one hour",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "mepivacaine AND (intradermal OR intracutaneous OR \"skin\" OR cutaneous OR subcutaneous) AND (\"laser Doppler\" OR \"blood flow\" OR perfusion OR thermography OR \"skin temperature\" OR flux)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 53,
+        "screened": 53,
+        "date_searched": "2026-10-07T06:27:20Z"
+      },
+      {
+        "query": "(intradermal OR intradermally OR wheal OR wheals OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (\"laser Doppler\" OR \"blood flow\" OR perfusion OR \"skin blood flow\") AND (pinprick OR \"pin-prick\" OR \"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\" OR \"sensory block\" OR \"analgesia\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 13,
+        "screened": 13,
+        "date_searched": "2026-10-07T06:23:09Z"
+      },
+      {
+        "query": "(TITLE:\"mepivacaine\" OR ABSTRACT:\"mepivacaine\") AND (TITLE:\"blood flow\" OR ABSTRACT:\"blood flow\" OR ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"perfusion\" OR ABSTRACT:\"microcirculation\")",
+        "engine": "europepmc",
+        "count": 94,
+        "screened": 94,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "ABSTRACT:\"mepivacaine\" AND (ABSTRACT:\"skin temperature\" OR ABSTRACT:\"thermography\" OR ABSTRACT:\"thermographic\" OR ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"cutaneous blood flow\")",
+        "engine": "europepmc",
+        "count": 27,
+        "screened": 8,
+        "date_searched": "2026-10-08T14:40:00Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "1286052",
+        "citation": "Guinard JP, Carpenter RL, Morell RC. Effect of local anesthetic concentration on capillary blood flow in human skin. Reg Anesth 1992;17(6):317-21",
+        "engine": "europepmc",
+        "matches": "the study the page relies on: eight volunteers, randomised double-blind, laser Doppler capillary perfusion, saline and needle-stick controls; abstract states recording ran for 60 minutes after the interventions and that the injections were subcutaneous",
+        "misses": "its concentrations stop below the strength sold plain; recording stops at 60 minutes; Europe PMC records a higher citing-work count than the page's figure"
+      },
+      {
+        "pmid": "8435261",
+        "citation": "Fruhstorfer H, Wagener G. Effects of intradermal lignocaine and mepivacaine on human cutaneous circulation in areas with histamine-induced neurogenic inflammation. Br J Anaesth 1993;70(2):167-70",
+        "engine": "amass + europepmc",
+        "matches": "human skin; intradermal mepivacaine and lignocaine against saline; flux by scanning laser Doppler flowmetry; published after Guinard 1992 and reaching the same direction (local anaesthetics did not raise the flux that saline raised)",
+        "misses": "skin pre-inflamed by a histamine prick rather than ordinary skin; a concentration below the strengths sold; the abstract does not state how long flux was recorded"
+      },
+      {
+        "pmid": "291855",
+        "citation": "Lindorf HH. Investigation of the vascular effect of newer local anesthetics and vasoconstrictors. Oral Surg Oral Med Oral Pathol 1979;48(4):292-7",
+        "engine": "europepmc",
+        "matches": "a comparative measurement of the vascular effect of mepivacaine after infiltration, by infrared thermography, indexed under Skin/blood supply, reporting mepivacaine as mildly vasoconstrictor; its reported time course for the vasoconstrictor arms extends beyond an hour",
+        "misses": "the abstract gives no concentration, does not state the route precisely, predates Guinard 1992, and does not say how long the mepivacaine arm was followed"
+      },
+      {
+        "pmid": "12757130",
+        "citation": "Holmes LC, Gaughan EM, Gorondy DA, Hogge S, Spire MF. The effect of perineural anesthesia on infrared thermographic images of the forelimb digits of normal horses. Can Vet J 2003;44(5):392-6",
+        "engine": "europepmc",
+        "matches": "skin surface temperature after mepivacaine, measured repeatedly against a saline control",
+        "misses": "horses, perineural rather than intradermal, and the recordings stop before an hour"
+      },
+      {
+        "pmid": "8519713",
+        "citation": "Liu S, Carpenter RL, Chiu AA, McGill TJ, Mantell SA. Epinephrine prolongs duration of subcutaneous infiltration of local anesthesia in a dose-related manner. Reg Anesth 1995;20(5):378-84",
+        "engine": "amass",
+        "matches": "skin wheals in volunteers with laser Doppler flowmetry of skin blood flow followed for six hours, which is the design the claim says is missing",
+        "misses": "the drugs are lidocaine and bupivacaine with epinephrine; no mepivacaine arm, so it does not match the intervention element"
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": true,
+    "evidence_pmid": "1286052",
+    "quote": "Cutaneous blood flow was measured with a laser Doppler capillary perfusion monitor before and for 60 minutes after these interventions.",
+    "proposed_wording": "No measurement of skin blood flow after a mepivacaine wheal extending beyond an hour was found in searches of Europe PMC through October 2026 or in the PubMed searches run on 2026-10-07: the laser Doppler recordings in the study that compared mepivacaine with saline and needle-stick controls ran for sixty minutes after injection (Guinard et al. 1992, PMID 1286052). Two further measurements of mepivacaine's cutaneous vascular effect - one by laser Doppler in pre-inflamed skin (Fruhstorfer and Wagener 1993, PMID 8435261) and one by infrared thermography after infiltration (Lindorf 1979, PMID 291855) - do not state their observation windows in their abstracts. A six-hour laser Doppler series of skin wheals exists but used lidocaine and bupivacaine, not mepivacaine (Liu et al. 1995, PMID 8519713).",
+    "reason": "Confirmed on what the abstracts settle, but left uncertain. Guinard's abstract confirms the sixty-minute window the page gives, and the only study found that followed skin blood flow after wheals for longer, Liu 1995, has no mepivacaine arm, so it misses the intervention element. Two candidates cannot be decided from abstracts: Lindorf 1979 measured mepivacaine's vascular effect by thermography and reports a time course running past an hour for its vasoconstrictor arms, without saying how long the mepivacaine arm was followed or by which route it was injected; and Fruhstorfer 1993 recorded intradermal mepivacaine by laser Doppler without stating the recording length. Either could narrow this claim if its follow-up extended beyond an hour.",
+    "needs_full_text": [
+      "Lindorf 1979 (PMID 291855): the route of injection, the mepivacaine concentration, and how long the mepivacaine arm's blood flow was followed by thermography",
+      "Fruhstorfer and Wagener 1993 (PMID 8435261): the length of the scanning laser Doppler recording after intradermal mepivacaine"
+    ],
+    "_source_line": 144,
+    "_note": ""
+  },
+  {
+    "claim_id": "W-M007",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "What is not known",
+    "claim": "Whether mepivacaine damages nerve fibers in skin is unmeasured. No such study exists for any local anesthetic.",
+    "elements_said_absent": {
+      "population": "skin",
+      "intervention": "mepivacaine and any local anaesthetic",
+      "design": "any",
+      "outcome": "nerve fibre damage",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (infiltration OR intradermal OR intracutaneous OR \"subcutaneous injection\" OR \"skin injection\" OR \"wound infiltration\") AND (\"nerve fibers\" OR \"nerve fibres\" OR \"nerve fiber\" OR \"nerve fibre\" OR innervation OR neurites OR \"sensory nerve\" OR \"cutaneous nerves\") AND (histology OR histological OR immunohistochemistry OR immunohistochemical OR morphology OR biopsy OR density)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 286,
+        "screened": 200,
+        "date_searched": "2026-10-07T06:19:07Z"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine OR \"lidocaine patch\" OR \"lidocaine plaster\") AND (\"intraepidermal nerve fiber\" OR \"intraepidermal nerve fibre\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"IENFD\" OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"skin innervation\" OR \"cutaneous innervation\" OR \"PGP9.5\" OR \"PGP 9.5\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 265,
+        "screened": 200,
+        "date_searched": "2026-10-07T06:18:36Z"
+      },
+      {
+        "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine) AND (\"intraepidermal nerve\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"epidermal nerve fibers\" OR \"epidermal nerve fibres\" OR IENFD OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"PGP9.5\" OR \"PGP 9.5\" OR \"protein gene product 9.5\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 21,
+        "screened": 21,
+        "date_searched": "2026-10-07T06:18:47Z"
+      },
+      {
+        "query": "(\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR lidocaine OR bupivacaine OR ropivacaine OR procaine OR chloroprocaine OR tetracaine OR mepivacaine OR levobupivacaine) AND (unmyelinated OR \"C fibers\" OR \"C fibres\" OR \"C-fibers\" OR \"C-fibres\" OR \"Remak\" OR \"small fibers\" OR \"small fibres\" OR \"intraepidermal\") AND (histology OR histological OR histopathology OR morphometry OR \"electron microscopy\" OR ultrastructural OR degeneration OR \"nerve injury\" OR neurotoxicity)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 114,
+        "screened": 114,
+        "date_searched": "2026-10-07T06:18:05Z"
+      },
+      {
+        "query": "(ABSTRACT:\"local anesthetic\" OR ABSTRACT:\"local anaesthetic\" OR ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"mepivacaine\") AND (ABSTRACT:\"intraepidermal nerve fiber density\" OR ABSTRACT:\"intraepidermal nerve fibre density\" OR ABSTRACT:\"epidermal nerve fiber density\" OR ABSTRACT:\"epidermal nerve fibre density\" OR ABSTRACT:\"IENFD\")",
+        "engine": "europepmc",
+        "count": 2,
+        "screened": 2,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "(ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"local anesthetic\" OR ABSTRACT:\"local anaesthetic\") AND (ABSTRACT:\"intradermal\" OR ABSTRACT:\"intracutaneous\" OR ABSTRACT:\"subcutaneous\" OR ABSTRACT:\"infiltration\") AND (ABSTRACT:\"nerve fiber\" OR ABSTRACT:\"nerve fibre\" OR ABSTRACT:\"nerve fibers\" OR ABSTRACT:\"nerve fibres\" OR ABSTRACT:\"skin innervation\" OR ABSTRACT:\"cutaneous innervation\" OR ABSTRACT:\"intraepidermal\") AND (ABSTRACT:\"degeneration\" OR ABSTRACT:\"density\" OR ABSTRACT:\"damage\" OR ABSTRACT:\"histology\" OR ABSTRACT:\"biopsy\" OR ABSTRACT:\"immunohistochemistry\")",
+        "engine": "europepmc",
+        "count": 7,
+        "screened": 7,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "(ABSTRACT:\"cutaneous analgesia\" OR ABSTRACT:\"infiltration anesthesia\" OR ABSTRACT:\"infiltration anaesthesia\" OR ABSTRACT:\"skin wheal\" OR ABSTRACT:\"intradermal injection\" OR ABSTRACT:\"skin infiltration\") AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"local anesthetic\") AND (ABSTRACT:\"neurotoxicity\" OR ABSTRACT:\"nerve damage\" OR ABSTRACT:\"nerve injury\" OR ABSTRACT:\"axonal\" OR ABSTRACT:\"histopathology\" OR ABSTRACT:\"nerve fiber loss\" OR ABSTRACT:\"denervation\")",
+        "engine": "europepmc",
+        "count": 5,
+        "screened": 5,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "mepivacaine AND (skin OR cutaneous OR dermal OR intradermal OR subcutaneous OR \"soft tissue\" OR mucosa OR mucosal OR gingival) AND (necrosis OR irritation OR \"tissue irritation\" OR \"local toxicity\" OR \"tissue toxicity\" OR histology OR histopathology OR ulceration OR hemorrhage OR haemorrhage OR \"injection site reaction\" OR inflammation OR \"tissue damage\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 156,
+        "screened": 156,
+        "date_searched": "2026-10-07T06:23:54Z"
+      },
+      {
+        "query": "(mepivacaine OR carbocaine OR scandicaine OR scandonest OR polocaine) AND (necrosis OR \"skin necrosis\" OR \"tissue necrosis\" OR ulcer OR ulceration OR \"Nicolau\" OR gangrene OR \"skin lesion\" OR \"skin lesions\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 55,
+        "screened": 55,
+        "date_searched": "2026-10-07T06:24:21Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "21530339",
+        "citation": "Wehrfritz A, Namer B, Ihmsen H, Mueller C, Filitz J, Koppert W, Leffler A. Differential effects on sensory functions and measures of epidermal nerve fiber density after application of a lidocaine patch ([dose figure omitted]) on healthy human skin. Eur J Pain 2011;15(9):907-12",
+        "engine": "europepmc",
+        "matches": "human skin; epidermal nerve fibre density measured; randomised and double-blinded against a placebo patch; a moderate but significant decrease in density after prolonged treatment",
+        "misses": "the anaesthetic is applied topically as a patch, not injected, so it does not match the claim's intervention element"
+      },
+      {
+        "pmid": "23887198",
+        "citation": "Bischoff JM, Petersen M, Uceyler N, Sommer C, Kehlet H, Werner MU. Lidocaine patch ([dose figure omitted]) in treatment of persistent inguinal postherniorrhaphy pain. Anesthesiology 2013;119(6):1444-52",
+        "engine": "europepmc",
+        "matches": "human skin biopsies for intraepidermal nerve fibre density in a randomised crossover trial of a lidocaine patch",
+        "misses": "topical patch, not an injection, and density was measured at baseline only, so it is not a before/after measurement of patch effect on fibres"
+      },
+      {
+        "pmid": "23182228",
+        "citation": "Kankel J, Obreja O, Kleggetveit IP, Schmidt R, Jorum E, Schmelz M, Namer B. Differential effects of low dose lidocaine on C-fiber classes in humans. J Pain 2012;13(12):1232-41",
+        "engine": "europepmc",
+        "matches": "human skin; intradermally injected lidocaine against saline; microneurography of single cutaneous C-fibre classes, so nerve fibres in skin were the measured object",
+        "misses": "the outcome is reversible axonal conduction physiology during a block, not structural damage or loss of fibres, so it misses the claim's outcome element"
+      },
+      {
+        "pmid": "23590164",
+        "citation": "The spectrum of histopathologic patterns secondary to the topical application of EMLA on vulvar epithelium. 2013",
+        "engine": "europepmc",
+        "matches": "human skin/mucosa histopathology after a local anaesthetic",
+        "misses": "topical application, and the findings are epithelial, with no nerve-fibre measurement"
+      },
+      {
+        "pmid": "8519713",
+        "citation": "Liu S, Carpenter RL, Chiu AA, McGill TJ, Mantell SA. Epinephrine prolongs duration of subcutaneous infiltration of local anesthesia in a dose-related manner. Reg Anesth 1995;20(5):378-84",
+        "engine": "amass",
+        "matches": "skin wheals in volunteers with laser Doppler flowmetry of skin blood flow followed for six hours, which is the design the claim says is missing",
+        "misses": "the drugs are lidocaine and bupivacaine with epinephrine; no mepivacaine arm, so it does not match the intervention element"
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": false,
+    "evidence_pmid": "",
+    "quote": "",
+    "proposed_wording": "No study measuring nerve-fibre damage in skin after an injected local anaesthetic - mepivacaine or any other - was found in searches of Europe PMC through October 2026 or in the PubMed searches run on 2026-10-07; the design the page names, biopsy fibre counts before and after, was not found for any agent. The nearest measurements are of a topically applied lidocaine patch in healthy volunteers (Wehrfritz et al. 2011, PMID 21530339) and a microneurography study of cutaneous C-fibre conduction after intradermal lidocaine (Kankel et al. 2012, PMID 23182228).",
+    "reason": "Confirmed, on the same evidence as W-M005 and consistent with it. For mepivacaine specifically, searches on mepivacaine with skin, irritation and histology terms returned no nerve-fibre outcome at all; the only skin damage signal remains the haemorrhagic change the page already reports from Fairley. For local anaesthetics generally, the before-and-after fibre count the page asks for was not found: every candidate either applied the drug topically (Wehrfritz, Bischoff, the EMLA histopathology series PMID 23590164) or measured function rather than fibre loss (Kankel). The flat wording is therefore supportable, subject to the usual limit that searches establish absence only within what they reach.",
+    "needs_full_text": [],
+    "_source_line": 146,
+    "_note": ""
+  },
+  {
+    "claim_id": "W-M008",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "What has no source; What is not known (line 147)",
+    "claim": "No study has tested the assumption in either direction.",
+    "elements_said_absent": {
+      "population": "skin",
+      "intervention": "anything measured in spinal anaesthesia",
+      "design": "any",
+      "outcome": "transferability to skin",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "(\"transient neurologic symptoms\" OR \"transient neurological symptoms\" OR intrathecal OR spinal) AND (intradermal OR \"subcutaneous tissue\" OR skin OR cutaneous OR peripheral) AND (\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR lidocaine OR mepivacaine) AND (neurotoxicity OR \"tissue toxicity\" OR irritation) AND (comparison OR compared OR predict OR correlation OR \"in vitro\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 21,
+        "screened": 20,
+        "date_searched": "2026-10-07T06:25:10Z"
+      },
+      {
+        "query": "(\"transient neurologic symptoms\" OR \"transient neurological symptoms\") AND (skin OR intradermal OR subcutaneous OR infiltration OR \"peripheral nerve\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 20,
+        "screened": 20,
+        "date_searched": "2026-10-07T06:27:40Z"
+      },
+      {
+        "query": "(ABSTRACT:\"transient neurologic symptoms\" OR ABSTRACT:\"transient neurological symptoms\" OR ABSTRACT:\"intrathecal neurotoxicity\") AND (ABSTRACT:\"skin\" OR ABSTRACT:\"intradermal\" OR ABSTRACT:\"cutaneous\" OR ABSTRACT:\"infiltration\") AND (ABSTRACT:\"predict\" OR ABSTRACT:\"correlation\" OR ABSTRACT:\"correlate\" OR ABSTRACT:\"compared\")",
+        "engine": "europepmc",
+        "count": 3,
+        "screened": 3,
+        "date_searched": "2026-10-08T14:40:00Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "25051261",
+        "citation": "Hampl K, Steinfeldt T, Wulf H. Spinal anesthesia revisited: toxicity of new and old drugs and compounds. Curr Opin Anaesthesiol 2014;27(5):549-55",
+        "engine": "europepmc",
+        "matches": "a review of intrathecal neurotoxicity that collects the clinical and experimental spinal evidence",
+        "misses": "it does not test whether intrathecal findings predict anything in skin; no skin outcome at all"
+      },
+      {
+        "pmid": "9523803",
+        "citation": "Liguori GA, Zayas VM, Chisholm MF. Transient neurologic symptoms after spinal anesthesia with mepivacaine and lidocaine. Anesthesiology 1998;88(3):619-23",
+        "engine": "europepmc",
+        "matches": "randomised, double-blinded head-to-head comparison of mepivacaine with lidocaine for spinal anaesthesia in 60 ambulatory patients, with transient neurologic symptoms as the outcome; the two arms differed significantly (P = 0.008), with none of the mepivacaine arm affected",
+        "misses": "a single trial, not the pooled network estimate the claim is about; the outcome is symptoms, not fibre damage"
+      },
+      {
+        "pmid": "23182228",
+        "citation": "Kankel J, Obreja O, Kleggetveit IP, Schmidt R, Jorum E, Schmelz M, Namer B. Differential effects of low dose lidocaine on C-fiber classes in humans. J Pain 2012;13(12):1232-41",
+        "engine": "europepmc",
+        "matches": "human skin; intradermally injected lidocaine against saline; microneurography of single cutaneous C-fibre classes, so nerve fibres in skin were the measured object",
+        "misses": "the outcome is reversible axonal conduction physiology during a block, not structural damage or loss of fibres, so it misses the claim's outcome element"
+      }
+    ],
+    "verdict": "confirmed",
+    "uncertain": false,
+    "evidence_pmid": "",
+    "quote": "",
+    "proposed_wording": "No study testing whether anything measured in spinal anaesthesia predicts anything in skin, in either direction, was found in searches of Europe PMC through October 2026 or in the PubMed searches run on 2026-10-07.",
+    "reason": "Confirmed. Three searches combining transient neurologic symptom and intrathecal neurotoxicity terms with skin, intradermal and cutaneous terms and with prediction or correlation terms returned no study that puts a spinal measurement and a skin measurement side by side. The nearest hits are reviews that collect the intrathecal toxicity literature without any skin outcome (Hampl et al. 2014, PMID 25051261). The claim is an absence of a cross-route validation study, and nothing matching it exists in what the searches reached.",
+    "needs_full_text": [],
+    "_source_line": 185,
+    "_note": ""
+  },
+  {
+    "claim_id": "W-M009",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "Skin: vessels and duration",
+    "claim": "DOI 10.1093/bja/57.10.1006. — The second intradermal measurement of mepivacaine, and the only one that times it against lidocaine and prilocaine in the same volunteers.",
+    "elements_said_absent": {
+      "population": "same volunteers",
+      "intervention": "mepivacaine vs lidocaine vs prilocaine",
+      "design": "intradermal timing",
+      "outcome": "duration",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "mepivacaine AND (intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\" OR wheal OR bleb OR intracutaneous OR \"skin anesthesia\" OR \"skin anaesthesia\") AND (duration OR pinprick OR \"pin-prick\" OR recovery)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 19,
+        "screened": 19,
+        "date_searched": "2026-10-07T06:23:39Z"
+      },
+      {
+        "query": "(intradermal OR intradermally OR \"skin infiltration\" OR \"subcutaneous infiltration\") AND (lidocaine OR lignocaine) AND (bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR procaine OR chloroprocaine OR etidocaine OR articaine OR tetracaine OR amethocaine) AND (comparison OR compared OR comparative) AND (volunteers OR volunteer OR \"healthy subjects\")",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 13,
+        "screened": 13,
+        "date_searched": "2026-10-07T06:15:11Z"
+      },
+      {
+        "query": "(TITLE:\"mepivacaine\" OR ABSTRACT:\"mepivacaine\") AND (ABSTRACT:\"intradermal\" OR TITLE:\"intradermal\" OR ABSTRACT:\"intracutaneous\") AND (ABSTRACT:\"duration\" OR ABSTRACT:\"pinprick\" OR ABSTRACT:\"pin-prick\")",
+        "engine": "europepmc",
+        "count": 6,
+        "screened": 6,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "mepivacaine AND intradermal AND (duration OR pinprick OR recovery OR \"weal\" OR bleb)",
+        "engine": "europepmc",
+        "count": 139,
+        "screened": 8,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "mepivacaine intradermal injection human volunteers duration of analgesia pinprick weal",
+        "engine": "amass",
+        "count": 20,
+        "screened": 20,
+        "date_searched": "2026-10-08T14:40:00Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "776194",
+        "citation": "Reynolds F, Bryson TH, Nicholas ADG. Intradermal study of a new local anaesthetic agent aptocaine. Br J Anaesth 1976;48(4):347-54",
+        "engine": "amass (record fetch) + europepmc",
+        "matches": "human volunteers; intradermal route; mepivacaine given at a range of concentrations in a second double-blind trial of 27 subjects; duration of action and area of anaesthesia measured; mepivacaine and prilocaine in the same subjects",
+        "misses": "the abstract does not name the sensory endpoint, so 'pinprick over an intradermal bleb' is not confirmed from it; lignocaine appears in the first trial (28 volunteers) and the abstract does not say whether the same subjects took part in both trials"
+      },
+      {
+        "pmid": "4041306",
+        "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57(10):1006-11",
+        "engine": "amass (record fetch) + europepmc",
+        "matches": "human skin; intradermal injection in 10 volunteers; double-blind; duration of action of mepivacaine measured alongside lignocaine and prilocaine in the same volunteers; page's own source list records the endpoint as pinprick until sensation returned",
+        "misses": "nothing material to the claim; the abstract itself does not use the word pinprick"
+      },
+      {
+        "pmid": "7326166",
+        "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53(11):1211-6",
+        "engine": "amass (record fetch) + europepmc",
+        "matches": "the study the claim cites: 23 volunteers, intradermal, 'analgesia to pinprick was tested at 5-min intervals thereafter until full recovery', duration and vascular effects",
+        "misses": "nothing; it is simply not the only such study"
+      },
+      {
+        "pmid": "2827545",
+        "citation": "Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17(2):117-20",
+        "engine": "europepmc",
+        "matches": "randomised double-blind study in 25 adult volunteers; intradermal injection of mepivacaine and of lidocaine in the same volunteers; onset, extent and duration of skin anaesthesia measured",
+        "misses": "the abstract does not state the sensory test used to map the anaesthetised area; duration is a secondary outcome to injection pain"
+      },
+      {
+        "pmid": "8148294",
+        "citation": "Farley JS, Hustead RF, Becker KE. Diluting lidocaine and mepivacaine in balanced salt solution reduces the pain of intradermal injection. Reg Anesth 1994;19(1):48-51",
+        "engine": "europepmc + amass",
+        "matches": "20 healthy volunteers each given six intradermal solutions including mepivacaine and lidocaine; 'The degree of anesthesia at each site was evaluated by pinprick every minute for 20 minutes' - human skin, intradermal, pinprick endpoint",
+        "misses": "observation stopped at 20 minutes, so it cannot speak to total duration; no prilocaine arm"
+      }
+    ],
+    "verdict": "narrowed",
+    "uncertain": true,
+    "evidence_pmid": "776194",
+    "quote": "In terms of activity as determined by area of anaesthesia, and of duration of action, aptocaine was similar to mepivacaine and more active and long-lasting than lignocaine and prilocaine.",
+    "proposed_wording": "Willatts and Reynolds 1985 (PMID 4041306) is at least the third intradermal measurement of mepivacaine in human volunteers, after Reynolds, Bryson and Nicholas 1976 (PMID 776194) and Fairley and Reynolds 1981 (PMID 7326166), and is followed by Christoph et al. 1988 (PMID 2827545) and Farley, Hustead and Becker 1994 (PMID 8148294). It remains the only study found in searches that times mepivacaine against both lidocaine and prilocaine in the same volunteers.",
+    "reason": "Narrowed, with one element refuted and one unresolved. The ordinal element is wrong: Reynolds 1976 is an earlier intradermal study in human volunteers in which mepivacaine was given at a range of concentrations and its duration of action measured, so Willatts 1985 is the third such measurement at least, not the second - and the same paper makes Fairley 1981 the second rather than the first, which is where W-M001 fails. The second element survives the abstracts: Reynolds 1976's mepivacaine comparison was against prilocaine in a second trial of 27 subjects, with lignocaine appearing in a separate first trial of 28 volunteers, and Christoph 1988 and Farley 1994 time mepivacaine against lidocaine but include no prilocaine. Whether the 1976 trials drew on the same volunteers, which would make lignocaine and mepivacaine timed in one group, cannot be settled from the abstract.",
+    "needs_full_text": [
+      "Reynolds, Bryson and Nicholas 1976 (PMID 776194): whether the first and second trials used the same volunteers, so that lignocaine as well as prilocaine was timed against mepivacaine in one group of subjects",
+      "Reynolds 1976 (PMID 776194): the sensory endpoint used - whether analgesia was tested by pinprick over the intradermal bleb, as in the same laboratory's 1981 and 1985 papers"
+    ],
+    "_source_line": 150,
+    "_note": "only-study claim about Willatts & Reynolds 1985"
+  },
+  {
+    "claim_id": "W-M010",
+    "page": "mepivacaine-wheals",
+    "page_url": "https://app.notion.com/p/3c510b7903aa8152b01bf10e2f980185",
+    "page_version": "2026-10-02T03:14:08.315Z",
+    "section": "Skin: vessels and duration",
+    "claim": "Citation standing: no editorial notices; 9 citing publications and no Smart Citations either supporting or contrasting, so the finding has never been directly tested again.",
+    "elements_said_absent": {
+      "population": "any",
+      "intervention": "mepivacaine",
+      "design": "direct retest",
+      "outcome": "skin blood flow finding",
+      "other": ""
+    },
+    "queries": [
+      {
+        "query": "mepivacaine AND (intradermal OR intracutaneous OR \"skin\" OR cutaneous OR subcutaneous) AND (\"laser Doppler\" OR \"blood flow\" OR perfusion OR thermography OR \"skin temperature\" OR flux)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 53,
+        "screened": 53,
+        "date_searched": "2026-10-07T06:27:20Z"
+      },
+      {
+        "query": "mepivacaine AND ropivacaine AND (vasoconstriction OR vasoconstrictive OR \"blood flow\" OR perfusion OR \"laser Doppler\" OR vasoactivity OR vascular OR blanching OR pallor)",
+        "engine": "pubmed (earlier worker, 2026-10-07)",
+        "count": 18,
+        "screened": 18,
+        "date_searched": "2026-10-07T06:20:56Z"
+      },
+      {
+        "query": "(TITLE:\"mepivacaine\" OR ABSTRACT:\"mepivacaine\") AND (TITLE:\"blood flow\" OR ABSTRACT:\"blood flow\" OR ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"perfusion\" OR ABSTRACT:\"microcirculation\")",
+        "engine": "europepmc",
+        "count": 94,
+        "screened": 94,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "ABSTRACT:\"mepivacaine\" AND (ABSTRACT:\"skin temperature\" OR ABSTRACT:\"thermography\" OR ABSTRACT:\"thermographic\" OR ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"cutaneous blood flow\")",
+        "engine": "europepmc",
+        "count": 27,
+        "screened": 8,
+        "date_searched": "2026-10-08T14:40:00Z"
+      },
+      {
+        "query": "intradermal lignocaine mepivacaine human cutaneous circulation histamine-induced neurogenic inflammation",
+        "engine": "amass",
+        "count": 10,
+        "screened": 10,
+        "date_searched": "2026-10-08T14:40:00Z"
+      }
+    ],
+    "records_read": [
+      {
+        "pmid": "8435261",
+        "citation": "Fruhstorfer H, Wagener G. Effects of intradermal lignocaine and mepivacaine on human cutaneous circulation in areas with histamine-induced neurogenic inflammation. Br J Anaesth 1993;70(2):167-70",
+        "engine": "amass + europepmc",
+        "matches": "human skin; intradermal mepivacaine and lignocaine against saline; flux by scanning laser Doppler flowmetry; published after Guinard 1992 and reaching the same direction (local anaesthetics did not raise the flux that saline raised)",
+        "misses": "skin pre-inflamed by a histamine prick rather than ordinary skin; a concentration below the strengths sold; the abstract does not state how long flux was recorded"
+      },
+      {
+        "pmid": "1286052",
+        "citation": "Guinard JP, Carpenter RL, Morell RC. Effect of local anesthetic concentration on capillary blood flow in human skin. Reg Anesth 1992;17(6):317-21",
+        "engine": "europepmc",
+        "matches": "the study the page relies on: eight volunteers, randomised double-blind, laser Doppler capillary perfusion, saline and needle-stick controls; abstract states recording ran for 60 minutes after the interventions and that the injections were subcutaneous",
+        "misses": "its concentrations stop below the strength sold plain; recording stops at 60 minutes; Europe PMC records a higher citing-work count than the page's figure"
+      },
+      {
+        "pmid": "4041306",
+        "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57(10):1006-11",
+        "engine": "amass (record fetch) + europepmc",
+        "matches": "human skin; intradermal injection in 10 volunteers; double-blind; duration of action of mepivacaine measured alongside lignocaine and prilocaine in the same volunteers; page's own source list records the endpoint as pinprick until sensation returned",
+        "misses": "nothing material to the claim; the abstract itself does not use the word pinprick"
+      },
+      {
+        "pmid": "291855",
+        "citation": "Lindorf HH. Investigation of the vascular effect of newer local anesthetics and vasoconstrictors. Oral Surg Oral Med Oral Pathol 1979;48(4):292-7",
+        "engine": "europepmc",
+        "matches": "a comparative measurement of the vascular effect of mepivacaine after infiltration, by infrared thermography, indexed under Skin/blood supply, reporting mepivacaine as mildly vasoconstrictor; its reported time course for the vasoconstrictor arms extends beyond an hour",
+        "misses": "the abstract gives no concentration, does not state the route precisely, predates Guinard 1992, and does not say how long the mepivacaine arm was followed"
+      },
+      {
+        "pmid": "35377931",
+        "citation": "Thayer S, Townsend JA, Peters M, Yu Q, Odom M, Sabey KA. Kovanaze Intranasal Spray vs Traditional Injected Anesthetics: a Study of Pulpal Blood Flow Utilizing Laser Doppler Flowmetry. Anesth Prog 2022;69(1):31-8",
+        "engine": "europepmc",
+        "matches": "human, double-blind crossover in 20 subjects; plain mepivacaine at the strength sold without a vasoconstrictor given by intraoral infiltration; blood flow measured by laser Doppler flowmetry; plain mepivacaine produced no significant change from baseline while lidocaine with epinephrine did",
+        "misses": "the tissue is dental pulp, not skin, and the injection is an intraoral infiltration, not an intradermal wheal"
+      }
+    ],
+    "verdict": "narrowed",
+    "uncertain": false,
+    "evidence_pmid": "8435261",
+    "quote": "The vasoconstrictive potencies of lignocaine and mepivacaine were studied in human skin.",
+    "proposed_wording": "Mepivacaine's effect on human skin blood flow has been measured again after Guinard et al. 1992: a scanning laser Doppler study of intradermal lignocaine and mepivacaine against saline in human skin found the local anaesthetics did not raise flux as saline did (Fruhstorfer and Wagener 1993, PMID 8435261), and earlier intradermal and thermographic studies reported mepivacaine as vasoconstrictor in skin (Willatts and Reynolds 1985, PMID 4041306; Lindorf 1979, PMID 291855). A count of zero contrasting citation statements records how citing papers were classified; it does not establish that no study reaches a different conclusion.",
+    "reason": "Narrowed. The inference from the citation counts is the part that fails: a separate study published after Guinard measured mepivacaine's effect on human cutaneous blood flow by laser Doppler against a saline control, matching population, intervention and outcome, so the finding has been examined again rather than left untested. It is not a replication - the skin was pre-inflamed by a histamine prick, the concentration lower than the strengths sold, the route intradermal rather than subcutaneous - which is why this narrows rather than refutes. The page cites that study itself in another section. Two further measurements of mepivacaine's cutaneous vasoactivity predate Guinard and report vasoconstriction, so the direction of the effect is not a single unexamined result. Separately, Europe PMC records a higher count of citing works for PMID 1286052 than the page's figure, which comes from a different citation source.",
+    "needs_full_text": [],
+    "_source_line": 151,
+    "_note": "citation-standing claim about Guinard; zero contrasting citation statements is not the same as no disagreeing study"
+  }
+]

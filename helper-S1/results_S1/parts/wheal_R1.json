@@ -1,0 +1,744 @@
+[
+ {
+  "claim_id": "W-R001",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 1); 5.6; 9a.6",
+  "claim": "Nobody has measured neuropathic pain relief from an intradermal ropivacaine wheal at any concentration — but the gap is a PARTIAL one and this page previously stated it too absolutely.",
+  "elements_said_absent": {
+   "population": "people with neuropathic pain / SFN",
+   "intervention": "intradermal ropivacaine wheal, any concentration",
+   "design": "any",
+   "outcome": "neuropathic pain relief",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(TITLE:\"ropivacaine\" OR ABSTRACT:\"ropivacaine\") AND (ABSTRACT:\"intradermal\" OR TITLE:\"intradermal\" OR ABSTRACT:\"wheal\" OR TITLE:\"wheal\" OR ABSTRACT:\"intracutaneous\") AND (ABSTRACT:\"neuropathic\" OR ABSTRACT:\"neuralgia\" OR TITLE:\"neuralgia\" OR ABSTRACT:\"neuropathy\")",
+    "engine": "europepmc",
+    "count": 0,
+    "screened": 0,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ropivacaine AND (intradermal OR intracutaneous OR wheal OR \"skin infiltration\" OR \"local infiltration\") AND (neuropathic OR neuralgia OR \"small fiber neuropathy\" OR \"small fibre neuropathy\" OR postherpetic)",
+    "engine": "europepmc",
+    "count": 284,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ropivacaine AND intradermal AND (neuropathic OR neuralgia OR neuropathy)",
+    "engine": "europepmc",
+    "count": 56,
+    "screened": 10,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "intradermal ropivacaine wheal for neuropathic pain relief in patients",
+    "engine": "amass",
+    "count": 15,
+    "screened": 15,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(ropivacaine OR naropin) AND (intradermal OR intradermally OR intracutaneous OR intracutaneously OR subcutaneous OR subcutaneously OR \"local infiltration\" OR wheal OR wheals OR \"skin infiltration\" OR \"infiltration anesthesia\") AND (neuralgia OR neuropathic OR neuropathy OR neuropathies OR postherpetic OR \"herpes zoster\" OR zoster)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 7,
+    "screened": 7,
+    "date_searched": "2026-10-07T06:05:36Z"
+   },
+   {
+    "query": "ropivacaine AND (postherpetic OR \"post-herpetic\" OR \"herpes zoster\" OR zoster OR neuralgia OR \"neuropathic pain\" OR \"small fiber\" OR \"small fibre\" OR \"painful neuropathy\" OR \"diabetic neuropathy\") AND (injection OR injections OR infiltration OR intradermal OR intracutaneous OR subcutaneous OR \"local\" )",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 75,
+    "screened": 75,
+    "date_searched": "2026-10-07T06:05:55Z"
+   },
+   {
+    "query": "(intradermal OR intradermally OR intracutaneous OR intracutaneously OR \"intra-cutaneous\" OR wheal OR wheals OR mesotherapy OR \"neural therapy\" OR \"intradermal therapy\") AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\") AND (neuralgia OR neuropathic OR neuropathy OR paresthetica OR \"chronic pain\" OR \"pain relief\" OR analgesic) NOT (vaccine OR tuberculin)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 173,
+    "screened": 173,
+    "date_searched": "2026-10-07T06:06:11Z"
+   },
+   {
+    "query": "ropivacaine AND intradermal",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 16,
+    "screened": 16,
+    "date_searched": "2026-10-07T06:27:42Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "32416719",
+    "citation": "Mulkoglu C, Nacir B. Notalgia paresthetica: clinical features, radiological evaluation, and a novel therapeutic option. BMC Neurol 2020",
+    "matches": "intradermal local-anaesthetic wheals in a sensory neuropathy, repeated sessions, pain and pruritus outcome",
+    "misses": "lidocaine not ropivacaine; uncontrolled; notalgia paresthetica not SFN"
+   },
+   {
+    "pmid": "38910071",
+    "citation": "Effectiveness of Mesotherapy in Post-COVID Pain Syndrome: Retrospective Cohort Study of 96 Patients. Clin Ther 2024",
+    "matches": "intradermal mesotherapy wheals with a neuropathic-symptom score (LANSS) and a comparator group (oral therapy), n=50 treated",
+    "misses": "lidocaine plus cyanocobalamin, not ropivacaine and not anaesthetic-only; retrospective; post-COVID pain, not SFN"
+   },
+   {
+    "pmid": "27777201",
+    "citation": "Efficacy of intracutaneous methylene blue injection for moderate to severe acute thoracic herpes zoster pain and prevention of postherpetic neuralgia in elderly patients. J South Med Univ 2016",
+    "matches": "randomised, intradermal injection, zoster pain and postherpetic-neuralgia incidence; both arms received intradermal lidocaine",
+    "misses": "the anaesthetic is the common background, not the tested variable; no ropivacaine"
+   },
+   {
+    "pmid": "8067217",
+    "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38:322-327",
+    "matches": "intradermal ropivacaine wheals in man with a measured analgesic endpoint",
+    "misses": "pin-prick in healthy volunteers, not neuropathic pain relief"
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "",
+  "quote": "",
+  "proposed_wording": "Not found in searches of Europe PMC (and of the earlier worker's PubMed searches) through October 2026: no study measures neuropathic pain relief from an intradermal ropivacaine wheal at any concentration. Intradermal local-anaesthetic wheal series with a neuropathic-pain or neuropathic-symptom outcome exist for lidocaine (Mulkoglu 2020, PMID 32416719; mesotherapy cohort 2024, PMID 38910071).",
+  "reason": "The narrowing the page has already applied is the right one and is, if anything, still slightly too tight. A Europe PMC query requiring ropivacaine AND an intradermal/wheal term AND a neuropathic term in title or abstract returns 0 records; the looser full-text version returns 284, and screening the top 25 plus the whole of the earlier worker's three matching PubMed searches (7, 75 and 173 records, all screened) finds no ropivacaine wheal study with a pain endpoint. Beyond the page's own list, one further class-level hit exists: a 2024 retrospective cohort of intradermal mesotherapy (lidocaine with cyanocobalamin) in post-COVID pain scored LANSS before and after against an oral-therapy comparator, so the class of intradermal local-anaesthetic wheals with a neuropathic-symptom endpoint now has a comparator-controlled entry, not only the uncontrolled Mulkoglu series - though it is not anaesthetic-only, so the page's 'reported only once' clause survives. Counts here are Europe PMC counts, which search full text and run noisier than PubMed. The page's own convention already scopes its negatives as search-limited, so the correction needed is to the wording rather than a reversal of the page's position.",
+  "needs_full_text": [],
+  "_source_line": 2703,
+  "_note": "page states the gap is PARTIAL and that an earlier version overstated it; local-infiltration hits for neuropathic pain are listed at lines 2705-2708"
+ },
+ {
+  "claim_id": "W-R002",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 2)",
+  "claim": "Nobody has used ropivacaine wheals for small fibre neuropathy. No trial exists.",
+  "elements_said_absent": {
+   "population": "small fibre neuropathy",
+   "intervention": "ropivacaine wheals",
+   "design": "trial",
+   "outcome": "any",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(\"small fibre neuropathy\" OR \"small fiber neuropathy\") AND ropivacaine",
+    "engine": "europepmc",
+    "count": 24,
+    "screened": 24,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(TITLE:\"ropivacaine\" OR ABSTRACT:\"ropivacaine\") AND (ABSTRACT:\"intradermal\" OR TITLE:\"intradermal\" OR ABSTRACT:\"wheal\" OR TITLE:\"wheal\" OR ABSTRACT:\"intracutaneous\") AND (ABSTRACT:\"neuropathic\" OR ABSTRACT:\"neuralgia\" OR TITLE:\"neuralgia\" OR ABSTRACT:\"neuropathy\")",
+    "engine": "europepmc",
+    "count": 0,
+    "screened": 0,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ropivacaine AND (intradermal OR intracutaneous OR wheal OR \"skin infiltration\" OR \"local infiltration\") AND (neuropathic OR neuralgia OR \"small fiber neuropathy\" OR \"small fibre neuropathy\" OR postherpetic)",
+    "engine": "europepmc",
+    "count": 284,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(\"small fiber neuropathy\" OR \"small fibre neuropathy\" OR \"small-fiber neuropathy\" OR \"small-fibre neuropathy\" OR \"Small Fiber Neuropathy\"[Mesh] OR \"small fiber neuropathies\" OR \"erythromelalgia\" OR \"burning feet\") AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR \"Anesthetics, Local\"[Mesh])",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 69,
+    "screened": 68,
+    "date_searched": "2026-10-07T06:07:51Z"
+   },
+   {
+    "query": "(intradermal OR intradermally OR intracutaneous OR intracutaneously OR \"intra-cutaneous\" OR wheal OR wheals OR mesotherapy OR \"subcutaneous injection\" OR \"subcutaneous infiltration\" OR \"local infiltration\" OR \"skin infiltration\") AND (lidocaine OR lignocaine OR procaine OR bupivacaine OR ropivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (polyneuropathy OR \"diabetic neuropathy\" OR \"peripheral neuropathy\" OR \"painful neuropathy\" OR \"Diabetic Neuropathies\"[Mesh] OR \"Polyneuropathies\"[Mesh] OR \"small fiber\" OR \"small fibre\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 7,
+    "screened": 7,
+    "date_searched": "2026-10-07T06:08:10Z"
+   },
+   {
+    "query": "(ropivacaine OR naropin) AND (intradermal OR intradermally OR intracutaneous OR intracutaneously OR subcutaneous OR subcutaneously OR \"local infiltration\" OR wheal OR wheals OR \"skin infiltration\" OR \"infiltration anesthesia\") AND (neuralgia OR neuropathic OR neuropathy OR neuropathies OR postherpetic OR \"herpes zoster\" OR zoster)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 7,
+    "screened": 7,
+    "date_searched": "2026-10-07T06:05:36Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "",
+    "citation": "Europe PMC: 24 records for small fibre/fiber neuropathy AND ropivacaine, all titles screened",
+    "matches": "nothing",
+    "misses": "every record is spinal cord stimulation, sodium-channel pharmacology, capsaicin, sympathetic/trigeminal blocks, erythromelalgia case reports or congress abstract collections; none uses a ropivacaine wheal in SFN"
+   },
+   {
+    "pmid": "",
+    "citation": "Earlier worker's PubMed search of SFN/erythromelalgia AND any local anaesthetic (69 records, 68 screened)",
+    "matches": "nothing",
+    "misses": "no ropivacaine wheal trial in SFN"
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "",
+  "quote": "",
+  "proposed_wording": "Not found in searches of Europe PMC and in the earlier worker's PubMed searches through October 2026: no trial of ropivacaine wheals in small fibre neuropathy. Clinical-trial registries could not be checked in this session.",
+  "reason": "Two independent queries plus two reused PubMed searches, all screened to exhaustion, return nothing in scope: the population element (small fibre neuropathy) and the intervention element (ropivacaine wheals) never co-occur. Trials of intradermal lidocaine, and trials of ropivacaine by other routes (epidural, perineural, intrathecal, wound infiltration), are numerous but fall outside both elements and so cannot narrow the claim. The registry check the claim's design element invites could not be made: ClinicalTrials.gov is blocked by this session's network egress proxy, the ClinicalTrials MCP server failed to connect, and the Amass TrialCore tool became unavailable mid-task; no registry was reachable without a login, so the verdict rests on the published literature only. Counts are Europe PMC counts except where marked as the earlier worker's PubMed counts.",
+  "needs_full_text": [],
+  "_source_line": 2709,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R003",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 3); 4.11 item 1; 4.5",
+  "claim": "Local tissue concentration over time at a wheal in human skin has never been MEASURED — but it has been measured in rat oral mucosa (Kimi 2012, Yamashiro 2016; 4.5) and calculated, and both support the mechanism.",
+  "elements_said_absent": {
+   "population": "human skin",
+   "intervention": "ropivacaine wheal",
+   "design": "any",
+   "outcome": "local tissue concentration over time",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "ABSTRACT:\"microdialysis\" AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"prilocaine\" OR ABSTRACT:\"local anaesthetic\" OR ABSTRACT:\"local anesthetic\") AND (ABSTRACT:\"skin\" OR ABSTRACT:\"dermis\" OR ABSTRACT:\"dermal\" OR ABSTRACT:\"subcutaneous\")",
+    "engine": "europepmc",
+    "count": 28,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(ABSTRACT:\"tissue concentration\" OR ABSTRACT:\"tissue concentrations\" OR ABSTRACT:\"local concentration\" OR ABSTRACT:\"concentration at the injection site\") AND (ABSTRACT:\"human skin\" OR ABSTRACT:\"dermis\" OR ABSTRACT:\"subcutaneous\" OR ABSTRACT:\"injection site\" OR ABSTRACT:\"intradermal\") AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"local anaesthetic\" OR ABSTRACT:\"local anesthetic\")",
+    "engine": "europepmc",
+    "count": 9,
+    "screened": 9,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(microdialysis OR \"tissue concentration\") AND (lidocaine OR ropivacaine OR bupivacaine OR mepivacaine OR prilocaine) AND (dermis OR \"human skin\" OR intradermal OR subcutaneous) AND (concentration OR \"time course\")",
+    "engine": "europepmc",
+    "count": 518,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ropivacaine AND (microdialysis OR \"tissue concentration\" OR \"tissue concentrations\" OR \"tissue distribution\" OR \"tissue levels\" OR \"local pharmacokinetics\" OR \"wound fluid\" OR \"drain fluid\" OR radiolabelled OR radiolabeled OR \"3H-ropivacaine\" OR \"14C\") AND (skin OR dermal OR dermis OR subcutaneous OR subcutis OR wound OR infiltration OR intradermal OR mucosa)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 66,
+    "screened": 66,
+    "date_searched": "2026-10-07T06:10:17Z"
+   },
+   {
+    "query": "(ropivacaine OR lidocaine OR lignocaine OR bupivacaine OR mepivacaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (microdialysis OR \"Microdialysis\"[Mesh]) AND (skin OR dermal OR dermis OR subcutaneous OR intradermal OR cutaneous OR wound OR infiltration)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 48,
+    "screened": 48,
+    "date_searched": "2026-10-07T06:10:29Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "12818954",
+    "citation": "Kopacz DJ et al. A model to evaluate the pharmacokinetic and pharmacodynamic variables of extended-release products using in vivo tissue microdialysis in humans: bupivacaine-loaded microcapsules. Anesth Analg 2003;97:124-131",
+    "matches": "local tissue concentration measured over time by microdialysis at a local-anaesthetic injection site in human skin/subcutis, over 96 h, in volunteers, alongside the clinical block at the same sites",
+    "misses": "bupivacaine (aqueous and microencapsulated), not ropivacaine; a subcutaneous injection depot rather than a dermal wheal; concentration sampled at a probe, so no gradient inside the depot"
+   },
+   {
+    "pmid": "10519498",
+    "citation": "Bernards CM, Kopacz DJ. Effect of epinephrine on lidocaine clearance in vivo: a microdialysis study in humans. Anesthesiology 1999;91:962-968",
+    "matches": "tissue concentration of a local anaesthetic measured over time in humans, with cutaneous blood flow and sensory block at the same site for 5 h",
+    "misses": "lidocaine, perineural (superficial peroneal nerve), not a skin wheal; not ropivacaine"
+   },
+   {
+    "pmid": "3947493",
+    "citation": "Absorption of bupivacaine, etidocaine, lignocaine and ropivacaine into n-heptane, rat sciatic nerve, and human extradural and subcutaneous fat. 1986",
+    "matches": "ropivacaine uptake into human subcutaneous fat measured",
+    "misses": "in vitro tissue-partition study, no in vivo time course at a wheal"
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": false,
+  "evidence_pmid": "12818954",
+  "quote": "This study was performed to characterize the PKs of bupivacaine and dexamethasone released from microcapsules at a subcutaneous injection site over a 96-h period in volunteers.",
+  "proposed_wording": "Local tissue concentration over time at a local-anaesthetic injection site in human skin has been measured by in vivo microdialysis, for bupivacaine over 96 h in volunteers (Kopacz 2003, PMID 12818954) and for lidocaine perineurally over 5 h with blood flow and block at the same site (Bernards & Kopacz 1999, PMID 10519498); the ropivacaine case, and the time course inside a dermal wheal, were not found in searches of Europe PMC through October 2026.",
+  "reason": "The page's narrowing (rat oral mucosa, plus Sohn's calculation) is right as far as it goes but it stops one step short: there are two human in vivo microdialysis measurements of local-anaesthetic tissue concentration over time at an injection site, and the page cites one of them (Bernards & Kopacz 1999) for a different purpose. So the sentence 'at a wheal in human skin has never been MEASURED' overreaches in the drug and depot it rules out, and should be narrowed to ropivacaine and to a dermal wheal of wheal size with the intra-depot gradient resolved - which is exactly what section 4.11 item 1 already says and what section 13 gap 3 does not. Bernards and Kopacz state in their own abstract that no study had previously measured tissue concentrations of local anaesthetic over time in humans, which dates the gap rather than closing it. Counts are Europe PMC counts (full-text indexed, so noisier than PubMed); the two reused searches are the earlier worker's PubMed counts.",
+  "needs_full_text": [],
+  "_source_line": 2710,
+  "_note": "page already narrows this: measured in rat oral mucosa (Kimi 2012, Yamashiro 2016)"
+ },
+ {
+  "claim_id": "W-R004",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 4); 4.11 item 3; 5.8.3",
+  "claim": "Flux and block duration have never been measured in the same wheal.",
+  "elements_said_absent": {
+   "population": "human skin",
+   "intervention": "local anaesthetic wheal",
+   "design": "any",
+   "outcome": "skin blood flux AND block duration in the same wheal",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(ABSTRACT:\"intradermal\" OR ABSTRACT:\"intracutaneous\" OR ABSTRACT:\"wheal\" OR ABSTRACT:\"skin infiltration\") AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"local anaesthetic\" OR ABSTRACT:\"local anesthetic\") AND (ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"cutaneous blood flow\")",
+    "engine": "europepmc",
+    "count": 21,
+    "screened": 21,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"intradermal\" OR ABSTRACT:\"intracutaneous\" OR ABSTRACT:\"wheal\" OR ABSTRACT:\"skin infiltration\" OR ABSTRACT:\"subcutaneous infiltration\") AND (ABSTRACT:\"onset\" OR ABSTRACT:\"minutes\" OR ABSTRACT:\"pinprick\" OR ABSTRACT:\"pin-prick\" OR ABSTRACT:\"skin analgesia\" OR ABSTRACT:\"duration\")",
+    "engine": "europepmc",
+    "count": 12,
+    "screened": 12,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"cutaneous blood flow\" OR ABSTRACT:\"skin perfusion\" OR ABSTRACT:\"cutaneous microcirculation\" OR ABSTRACT:\"skin microcirculation\")",
+    "engine": "europepmc",
+    "count": 13,
+    "screened": 13,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(intradermal OR intradermally OR wheal OR wheals OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (\"laser Doppler\" OR \"blood flow\" OR perfusion OR \"skin blood flow\") AND (pinprick OR \"pin-prick\" OR \"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\" OR \"sensory block\" OR \"analgesia\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 13,
+    "screened": 13,
+    "date_searched": "2026-10-07T06:23:09Z"
+   },
+   {
+    "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\") AND (vasoconstriction OR vasoconstrictor OR \"blood flow\" OR perfusion OR blanching OR pallor) AND (duration) AND (correlation OR correlated OR correlates OR \"related to\" OR relationship) AND (skin OR cutaneous OR intradermal OR subcutaneous OR infiltration OR dermal OR pulpal OR gingival)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 51,
+    "screened": 51,
+    "date_searched": "2026-10-07T06:11:11Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "8067217",
+    "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38:322-327",
+    "matches": "duration of dermal analgesia and the local vascular response recorded at the same intradermal ropivacaine and bupivacaine wheals, in 10 volunteers, randomised and double-blind",
+    "misses": "the vascular response was scored by visual inspection (nil / pink / pale), not as laser Doppler flux; endpoint is pin-prick, not neuropathic relief"
+   },
+   {
+    "pmid": "8519713",
+    "citation": "Liu S et al. Epinephrine prolongs duration of subcutaneous infiltration of local anesthesia in a dose-related manner. Correlation with magnitude of vasoconstriction. Reg Anesth 1995;20:378-384",
+    "matches": "pin-prick duration at forearm wheals and laser Doppler flux at abdominal wheals of the same solutions in the same 6 volunteers, flux followed 6 h, and the two correlated",
+    "misses": "flux and duration at matched but different wheals, not the same wheal; lidocaine and bupivacaine, not ropivacaine"
+   },
+   {
+    "pmid": "10519498",
+    "citation": "Bernards CM, Kopacz DJ. Effect of epinephrine on lidocaine clearance in vivo: a microdialysis study in humans. Anesthesiology 1999;91:962-968",
+    "matches": "tissue concentration, laser Doppler cutaneous blood flow and sensory block all measured at one site in humans for 5 h",
+    "misses": "perineural injection along the superficial peroneal nerve, not a skin wheal; lidocaine"
+   },
+   {
+    "pmid": "4041306",
+    "citation": "Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985",
+    "matches": "vascular effects and duration of action of six local anaesthetics investigated together in 10 volunteers by intradermal injection, double-blind, with log dose-duration plots whose slopes reflect the observed vasoactivity",
+    "misses": "the abstract does not say how the vascular effect was measured; the wording ('marked vasodilatation', 'weal formation') suggests visual scoring rather than instrumented flux; no ropivacaine"
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": true,
+  "evidence_pmid": "8067217",
+  "quote": "Local vascular effects at the injected areas were determined by visual inspection (nil, pink, pale).",
+  "proposed_wording": "The local vascular response and the duration of dermal analgesia have been recorded at the same intradermal ropivacaine wheals in man (Cederholm, Akerman & Evers 1994, PMID 8067217), with the vascular response scored visually; instrumented flux and block duration at one and the same wheal were not found in searches of Europe PMC through October 2026.",
+  "reason": "The page's three partial hits are correctly characterised, and one more sits closer than any of them: Cederholm 1994 used intradermal wheals in the same volunteers to record both pin-prick duration and the local vascular response, so 'never been measured in the same wheal' is too broad for the vascular response in general and holds only for instrumented flux. Both stated reasons for the gap (Kopacz and Newton on pin-prick disturbing the flow being measured) explain exactly that residue: Cederholm avoided the problem by scoring colour by eye. A second intradermal study pairs vasoactivity with duration of action across six drugs (PMID 4041306, 1985) and its measurement method cannot be read off the abstract, which is why this is left uncertain. Counts are Europe PMC counts; two reused searches carry the earlier worker's PubMed counts.",
+  "needs_full_text": [
+   "Br J Anaesth 1985 'Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study' (PMID 4041306): whether the vascular effect was measured instrumentally (e.g. laser Doppler or plethysmography) at the same intradermal sites at which duration of action was recorded, or scored visually as Cederholm 1994 did"
+  ],
+  "_source_line": 2711,
+  "_note": "page lists three partial hits (Yamashiro 2016, Bernards & Kopacz 1999, Liu 1995)"
+ },
+ {
+  "claim_id": "W-R005",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 5); 4.11 item 2; 10.2",
+  "claim": "Skin blood flow at a ropivacaine wheal has never been recorded past 90 minutes — confirmed by independent search.",
+  "elements_said_absent": {
+   "population": "human skin",
+   "intervention": "ropivacaine wheal",
+   "design": "any",
+   "outcome": "skin blood flow beyond 90 minutes",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"cutaneous blood flow\" OR ABSTRACT:\"skin perfusion\" OR ABSTRACT:\"cutaneous microcirculation\" OR ABSTRACT:\"skin microcirculation\")",
+    "engine": "europepmc",
+    "count": 13,
+    "screened": 13,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"infiltration\" OR ABSTRACT:\"tumescent\" OR ABSTRACT:\"subcutaneous\" OR ABSTRACT:\"intradermal\") AND (ABSTRACT:\"blood flow\" OR ABSTRACT:\"perfusion\" OR ABSTRACT:\"flux\" OR ABSTRACT:\"thermography\" OR ABSTRACT:\"hyperspectral\" OR ABSTRACT:\"skin temperature\")",
+    "engine": "europepmc",
+    "count": 12,
+    "screened": 12,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(ABSTRACT:\"intradermal\" OR ABSTRACT:\"intracutaneous\" OR ABSTRACT:\"wheal\" OR ABSTRACT:\"skin infiltration\") AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"local anaesthetic\" OR ABSTRACT:\"local anesthetic\") AND (ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"cutaneous blood flow\")",
+    "engine": "europepmc",
+    "count": 21,
+    "screened": 21,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ropivacaine AND (skin OR cutaneous OR dermal OR intradermal OR fingertip OR fingerpad OR \"digital\") AND (\"blood flow\" OR perfusion OR \"laser Doppler\" OR vasoconstriction OR vasodilation OR vasodilatation OR flux OR \"microcirculation\" OR \"skin temperature\" OR \"perfusion index\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 45,
+    "screened": 45,
+    "date_searched": "2026-10-07T06:09:03Z"
+   },
+   {
+    "query": "ropivacaine AND (\"Laser-Doppler Flowmetry\"[Mesh] OR \"laser Doppler\" OR \"laser-Doppler\" OR \"Regional Blood Flow\"[Mesh] OR \"Skin\"[Mesh]) AND (injection OR injected OR infiltration OR intradermal OR subcutaneous)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 32,
+    "screened": 32,
+    "date_searched": "2026-10-07T06:09:47Z"
+   },
+   {
+    "query": "ropivacaine AND (tumescent OR \"infusion anesthesia\" OR \"infusion anaesthesia\" OR infiltration OR wheal OR intradermal OR subcutaneous) AND (perfusion OR \"blood flow\" OR thermography OR \"laser Doppler\" OR \"hyperspectral\" OR \"tissue oxygen\" OR \"flux\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 17,
+    "screened": 17,
+    "date_searched": "2026-10-07T06:10:06Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "18334782",
+    "citation": "Hafner HM et al. Changes in acral blood flux under local application of ropivacaine and lidocaine with and without an adrenaline additive: a double-blind, randomized, placebo-controlled study. Clin Hemorheol Microcirc 2008;38:279-288",
+    "matches": "ropivacaine, skin blood flux by laser Doppler followed over 24 h in 20 subjects",
+    "misses": "an Oberst (digital) block at the digit base with measurement at the fingerpad, so not a wheal and the needle trauma is not at the measurement site"
+   },
+   {
+    "pmid": "23076005",
+    "citation": "Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253",
+    "matches": "ropivacaine, skin perfusion followed for hours in 20 volunteers (80 fingers), randomised and double-blind",
+    "misses": "two-injection dorsal digital block, not an intradermal wheal"
+   },
+   {
+    "pmid": "8519713",
+    "citation": "Liu S et al. Reg Anesth 1995;20:378-384",
+    "matches": "laser Doppler flux at subcutaneous skin wheals followed for 6 hours in volunteers - i.e. a local-anaesthetic wheal recorded well past 90 minutes",
+    "misses": "lidocaine and bupivacaine, not ropivacaine"
+   },
+   {
+    "pmid": "1286053",
+    "citation": "Cederholm I, Evers H, Lofstrom JB. Skin blood flow after intradermal injection of ropivacaine in various concentrations with and without epinephrine evaluated by laser Doppler flowmetry. Reg Anesth 1992;17:322-328",
+    "matches": "the index study: intradermal ropivacaine wheals, laser Doppler",
+    "misses": "recordings stop at 90 minutes"
+   },
+   {
+    "pmid": "2751142",
+    "citation": "Kopacz DJ, Carpenter RL, Mackey DC. Effect of ropivacaine on cutaneous capillary blood flow in pigs. Anesthesiology 1989;71:69-74",
+    "matches": "ropivacaine infiltration site, laser Doppler",
+    "misses": "pig; last reading at 30 minutes"
+   },
+   {
+    "pmid": "28550902",
+    "citation": "Wenger A et al. Quantification of the vasodilatory effect of axillary plexus block. J Surg Res 2017;212:153-158",
+    "matches": "a ropivacaine-containing mixture, skin perfusion measured to 6 h postoperatively in humans",
+    "misses": "axillary plexus block, not a wheal; mepivacaine-ropivacaine mixture"
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "",
+  "quote": "",
+  "proposed_wording": "Not found in searches of Europe PMC and in the earlier worker's PubMed searches through October 2026: skin blood flow at an intradermal ropivacaine wheal has not been recorded beyond 90 minutes. Beyond 90 minutes, ropivacaine skin-flow recordings exist only after nerve blocks (Hafner 2008, PMID 18334782, to 24 h; 2013 digital-block study, PMID 23076005; axillary plexus block, PMID 28550902), and wheal recordings beyond 90 minutes exist only for other drugs (Liu 1995, PMID 8519713, 6 h).",
+  "reason": "The page's claim, and its 'confirmed by independent search' tag, both hold at the wheal-plus-ropivacaine intersection. Three Europe PMC queries aimed squarely at it - every ropivacaine record carrying a skin-blood-flow term in its abstract (13, all screened), every ropivacaine infiltration record carrying a perfusion term (12, all screened), and every intradermal local-anaesthetic record carrying a laser-Doppler term (21, all screened) - plus three reused PubMed searches turn up no wheal recording past 90 minutes for ropivacaine. What the same searches do show is that the class-level version of the sentence is false, and the page already says so: Liu 1995 followed laser Doppler flux at subcutaneously injected skin wheals for 6 hours, so 'at a local-anaesthetic wheal beyond 90 minutes' has been done, just not with ropivacaine. The three ropivacaine recordings that do run past 90 minutes are all nerve blocks, where the injection is remote from the measured skin. Counts are Europe PMC counts; the three reused searches are PubMed counts.",
+  "needs_full_text": [],
+  "_source_line": 2712,
+  "_note": "page records Haefner 2008 to 24 h at a fingerpad after a digital block as a near miss"
+ },
+ {
+  "claim_id": "W-R006",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 7); 9.2",
+  "claim": "The procaine/ropivacaine version has never been tested, in any tissue.",
+  "elements_said_absent": {
+   "population": "any tissue",
+   "intervention": "procaine followed by ropivacaine",
+   "design": "any",
+   "outcome": "ester-metabolite interference with block",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(ABSTRACT:\"procaine\" OR ABSTRACT:\"para-aminobenzoic\" OR ABSTRACT:\"aminobenzoic acid\" OR ABSTRACT:\"PABA\") AND ABSTRACT:\"ropivacaine\"",
+    "engine": "europepmc",
+    "count": 43,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ABSTRACT:\"procaine\" AND ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"duration of block\" OR ABSTRACT:\"nerve block\" OR ABSTRACT:\"compound action potential\" OR ABSTRACT:\"sequential\" OR ABSTRACT:\"subsequent\" OR ABSTRACT:\"pretreatment\" OR ABSTRACT:\"interaction\")",
+    "engine": "europepmc",
+    "count": 4,
+    "screened": 4,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(ABSTRACT:\"chloroprocaine\" OR ABSTRACT:\"procaine\") AND (ABSTRACT:\"metabolite\" OR ABSTRACT:\"antagonism\" OR ABSTRACT:\"antagonize\" OR ABSTRACT:\"antagonise\" OR ABSTRACT:\"interference\" OR ABSTRACT:\"pretreatment\") AND (ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"lidocaine\" OR ABSTRACT:\"nerve block\")",
+    "engine": "europepmc",
+    "count": 42,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(procaine OR \"para-aminobenzoic acid\" OR \"p-aminobenzoic acid\" OR \"4-aminobenzoic acid\" OR PABA OR \"4-amino-2-chlorobenzoic\") AND (ropivacaine OR bupivacaine OR levobupivacaine OR lidocaine OR mepivacaine) AND (block OR \"nerve block\" OR \"duration\" OR interaction OR pretreatment OR \"compound action potential\" OR antagonism)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 526,
+    "screened": 198,
+    "date_searched": "2026-10-07T06:20:19Z"
+   },
+   {
+    "query": "(procaine OR \"para-aminobenzoic acid\" OR \"p-aminobenzoic acid\" OR \"4-aminobenzoic acid\" OR PABA) AND ropivacaine",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 56,
+    "screened": 55,
+    "date_searched": "2026-10-07T06:20:27Z"
+   },
+   {
+    "query": "(chloroprocaine OR procaine OR tetracaine OR amethocaine OR benzocaine OR \"ester local anesthetic\" OR \"ester-type\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR etidocaine OR articaine) AND (mixture OR mixtures OR mixed OR combination OR combined OR admixture) AND (intradermal OR intradermally OR skin OR cutaneous OR infiltration OR subcutaneous OR wheal)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 154,
+    "screened": 153,
+    "date_searched": "2026-10-07T06:20:05Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "6691592",
+    "citation": "Corke BC et al. The influence of 2-chloroprocaine on the subsequent analgesic potency of bupivacaine. Anesthesiology 1984",
+    "matches": "the design the claim refers to: isolated rat sciatic nerve, blocked first with the ester or with its metabolite, allowed to recover, then blocked with the amide, with compound action potential recovery as the outcome",
+    "misses": "chloroprocaine (and its metabolite) with bupivacaine - not procaine with ropivacaine"
+   },
+   {
+    "pmid": "22383086",
+    "citation": "Takenami T et al. Intrathecally administered ropivacaine is less neurotoxic than procaine, bupivacaine, and levobupivacaine in a rat spinal model. Can J Anaesth 2012;59:456-465",
+    "matches": "procaine and ropivacaine in the same animal study",
+    "misses": "the two were compared in parallel arms for histological injury, not given in sequence, and no block-duration or interference outcome"
+   },
+   {
+    "pmid": "20356808",
+    "citation": "Simultaneous determination of procaine, lidocaine, ropivacaine, tetracaine and bupivacaine in human plasma by HPLC. 2010",
+    "matches": "procaine and ropivacaine in one paper",
+    "misses": "an analytical assay, no tissue, no block"
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "",
+  "quote": "",
+  "proposed_wording": "Not found in searches of Europe PMC and in the earlier worker's PubMed searches through October 2026: no study, in any tissue, gives procaine (or its ester metabolite) before ropivacaine and measures the effect on the ropivacaine block. The chloroprocaine-bupivacaine version of the experiment exists (Corke 1984, PMID 6691592).",
+  "reason": "The claim is scoped to any tissue and so is refutable by an animal or isolated-nerve study; none exists. Every Europe PMC record whose abstract carries both procaine (or para-aminobenzoic acid) and ropivacaine was listed (43 records, top 25 by citation screened, plus a 4-record sequential/pretreatment-restricted version screened in full), and the earlier worker's two PubMed searches on the same intersection (526 records, 198 screened; 56 records, 55 screened) likewise found nothing. Where procaine and ropivacaine appear together they are compared in parallel arms (neurotoxicity ranking, cytotoxicity panels) or measured in one assay, never administered in sequence. Corke 1984 remains the only paper with the sequential design, and it used the chloroprocaine metabolite with bupivacaine. Counts are Europe PMC counts except the two marked as the earlier worker's PubMed counts.",
+  "needs_full_text": [],
+  "_source_line": 2714,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R007",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 8); 6.8a",
+  "claim": "Whether repeated ropivacaine over months does anything to skin that has already lost fibres.",
+  "elements_said_absent": {
+   "population": "skin that has already lost nerve fibres",
+   "intervention": "repeated ropivacaine over months",
+   "design": "any",
+   "outcome": "cumulative tissue effect / IENFD",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "(ABSTRACT:\"repeated\" OR ABSTRACT:\"repeat\" OR ABSTRACT:\"long-term\" OR ABSTRACT:\"chronic\" OR ABSTRACT:\"cumulative\") AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"local anaesthetic\" OR ABSTRACT:\"local anesthetic\" OR ABSTRACT:\"mepivacaine\") AND (ABSTRACT:\"intradermal\" OR ABSTRACT:\"subcutaneous\" OR ABSTRACT:\"skin\" OR ABSTRACT:\"cutaneous\") AND (ABSTRACT:\"nerve fiber density\" OR ABSTRACT:\"nerve fibre density\" OR ABSTRACT:\"intraepidermal nerve\" OR ABSTRACT:\"skin innervation\" OR ABSTRACT:\"skin biopsy\" OR ABSTRACT:\"IENFD\")",
+    "engine": "europepmc",
+    "count": 4,
+    "screened": 4,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"Schwann\" OR ABSTRACT:\"unmyelinated\" OR ABSTRACT:\"C fibers\" OR ABSTRACT:\"C fibres\" OR ABSTRACT:\"electron microscopy\" OR ABSTRACT:\"ultrastructural\" OR ABSTRACT:\"morphometric\")",
+    "engine": "europepmc",
+    "count": 58,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine OR \"lidocaine patch\" OR \"lidocaine plaster\") AND (\"intraepidermal nerve fiber\" OR \"intraepidermal nerve fibre\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"IENFD\" OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"skin innervation\" OR \"cutaneous innervation\" OR \"PGP9.5\" OR \"PGP 9.5\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 265,
+    "screened": 200,
+    "date_searched": "2026-10-07T06:18:36Z"
+   },
+   {
+    "query": "(lidocaine OR lignocaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR EMLA OR procaine) AND (\"intraepidermal nerve\" OR \"epidermal nerve fiber\" OR \"epidermal nerve fibre\" OR \"epidermal nerve fibers\" OR \"epidermal nerve fibres\" OR IENFD OR \"nerve fiber density\" OR \"nerve fibre density\" OR \"PGP9.5\" OR \"PGP 9.5\" OR \"protein gene product 9.5\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 21,
+    "screened": 21,
+    "date_searched": "2026-10-07T06:18:47Z"
+   },
+   {
+    "query": "(\"wound infusion\" OR \"wound infiltration\" OR \"wound instillation\" OR \"incisional infusion\" OR \"continuous infiltration\" OR \"wound catheter\") AND (ropivacaine OR bupivacaine OR levobupivacaine OR lidocaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (histology OR histological OR histopathology OR innervation OR \"nerve fibers\" OR \"nerve fibres\" OR neurotoxicity OR \"wound healing\" OR \"tissue toxicity\")",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 65,
+    "screened": 65,
+    "date_searched": "2026-10-07T06:19:24Z"
+   },
+   {
+    "query": "(\"continuous wound\" OR \"wound catheter\" OR \"incisional catheter\" OR \"wound infiltration\" OR \"local infiltration\") AND (\"local anesthetic\" OR \"local anaesthetic\" OR ropivacaine OR bupivacaine) AND (\"nerve fiber density\" OR \"nerve fibre density\" OR \"intraepidermal\" OR \"PGP9.5\" OR \"PGP 9.5\" OR reinnervation OR \"cutaneous innervation\" OR \"skin innervation\" OR neurotoxicity)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 9,
+    "screened": 9,
+    "date_searched": "2026-10-07T06:27:19Z"
+   },
+   {
+    "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (infiltration OR intradermal OR intracutaneous OR \"subcutaneous injection\" OR \"skin injection\" OR \"wound infiltration\") AND (\"nerve fibers\" OR \"nerve fibres\" OR \"nerve fiber\" OR \"nerve fibre\" OR innervation OR neurites OR \"sensory nerve\" OR \"cutaneous nerves\") AND (histology OR histological OR immunohistochemistry OR immunohistochemical OR morphology OR biopsy OR density)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 286,
+    "screened": 200,
+    "date_searched": "2026-10-07T06:19:07Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "20014599",
+    "citation": "Repeated intrathecal administration of ropivacaine causes neurotoxicity in rats. Anaesth Intensive Care 2009",
+    "matches": "repeated ropivacaine dosing with histological outcome (light and electron microscopy)",
+    "misses": "intrathecal, rat, over 48 hours - not skin, not months, and not fibre-depleted tissue"
+   },
+   {
+    "pmid": "38375092",
+    "citation": "Albrecht PJ et al. Cutaneous targets for topical pain medications in patients with neuropathic pain. Pain Rep 2024;9:e1119",
+    "matches": "skin biopsies from painful and non-painful dermatomes of postherpetic neuralgia patients immunolabelled for receptors including a lidocaine target",
+    "misses": "no injected anaesthetic exposure, no repeated dosing, cross-sectional"
+   },
+   {
+    "pmid": "",
+    "citation": "Europe PMC: 4 records for repeated/long-term local anaesthetic in skin AND an intraepidermal-nerve-fibre or skin-biopsy term, all screened",
+    "matches": "nothing",
+    "misses": "none involves repeated injected local anaesthetic with an innervation-density outcome"
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "",
+  "quote": "",
+  "proposed_wording": "Not found in searches of Europe PMC and in the earlier worker's PubMed searches through October 2026: no study of repeated ropivacaine over months in skin that has already lost nerve fibres, with a cumulative tissue or intraepidermal-nerve-fibre-density outcome.",
+  "reason": "Two Europe PMC queries (repeated/long-term local anaesthetic in skin with an IENFD or skin-biopsy term, 4 records all screened; every ropivacaine record carrying a Schwann-cell, unmyelinated or electron-microscopy term, 58 records with the top 25 by citation screened) and five reused PubMed searches covering local anaesthetics against intraepidermal nerve fibre density, skin innervation histology and wound-infusion histology (265/200, 21/21, 65/65, 9/9, 286/200) return nothing matching the population, the interval or the outcome. The nearest repeated-dosing histology is intrathecal in rats over 48 hours, and the nearest human measurement remains the page's own Wehrfritz 2011 with topical lidocaine. The page's convention already scopes this negative as search-limited, so the wording stands as written. Counts are Europe PMC counts except where marked as the earlier worker's PubMed counts.",
+  "needs_full_text": [],
+  "_source_line": 2715,
+  "_note": ""
+ },
+ {
+  "claim_id": "W-R008",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 9); 6.5",
+  "claim": "Whether ropivacaine shares the unmyelinated-Schwann-cell selectivity.",
+  "elements_said_absent": {
+   "population": "unmyelinated fibres",
+   "intervention": "ropivacaine",
+   "design": "histological",
+   "outcome": "Schwann cell selectivity",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "ABSTRACT:\"ropivacaine\" AND ABSTRACT:\"unmyelinated\"",
+    "engine": "europepmc",
+    "count": 1,
+    "screened": 1,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"Schwann\" OR ABSTRACT:\"unmyelinated\" OR ABSTRACT:\"C fibers\" OR ABSTRACT:\"C fibres\" OR ABSTRACT:\"electron microscopy\" OR ABSTRACT:\"ultrastructural\" OR ABSTRACT:\"morphometric\")",
+    "engine": "europepmc",
+    "count": 58,
+    "screened": 25,
+    "date_searched": "2026-10-08T00:00:00Z"
+   },
+   {
+    "query": "(\"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\" OR lidocaine OR bupivacaine OR ropivacaine OR procaine OR chloroprocaine OR tetracaine OR mepivacaine OR levobupivacaine) AND (unmyelinated OR \"C fibers\" OR \"C fibres\" OR \"C-fibers\" OR \"C-fibres\" OR \"Remak\" OR \"small fibers\" OR \"small fibres\" OR \"intraepidermal\") AND (histology OR histological OR histopathology OR morphometry OR \"electron microscopy\" OR ultrastructural OR degeneration OR \"nerve injury\" OR neurotoxicity)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 114,
+    "screened": 114,
+    "date_searched": "2026-10-07T06:18:05Z"
+   },
+   {
+    "query": "ropivacaine AND (\"Schwann cell\" OR \"Schwann cells\" OR unmyelinated OR \"electron microscopy\" OR ultrastructure OR ultrastructural OR morphometry OR \"nerve fiber\" OR \"nerve fibre\") AND (neurotoxicity OR injury OR damage OR toxicity OR degeneration)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 52,
+    "screened": 52,
+    "date_searched": "2026-10-07T06:18:22Z"
+   },
+   {
+    "query": "(\"Schwann cell\" OR \"Schwann cells\" OR RSC96 OR \"S16\") AND (lidocaine OR bupivacaine OR ropivacaine OR levobupivacaine OR mepivacaine OR procaine OR chloroprocaine OR tetracaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\") AND (toxicity OR cytotoxicity OR apoptosis OR \"cell death\" OR viability OR necrosis)",
+    "engine": "pubmed (earlier worker, 2026-10-07)",
+    "count": 21,
+    "screened": 21,
+    "date_searched": "2026-10-07T06:25:51Z"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "21857272",
+    "citation": "Local anesthetic Schwann cell toxicity is time and concentration dependent. Reg Anesth Pain Med 2011",
+    "matches": "ropivacaine applied directly to Schwann cells cultured from rat sciatic nerve, with a cell-death readout, alongside lidocaine, mepivacaine, chloroprocaine and bupivacaine",
+    "misses": "isolated Schwann cells in culture, so no myelinated-versus-unmyelinated comparison; no histology of intact nerve for ropivacaine"
+   },
+   {
+    "pmid": "20442258",
+    "citation": "Ropivacaine-induced peripheral nerve injection injury in the rodent model. Anesth Analg 2010",
+    "matches": "ropivacaine injected into and onto rat sciatic nerve, assessed by light microscopy, quantitative histomorphometry and electron microscopy",
+    "misses": "reports demyelination, axonal loss and Wallerian degeneration; does not separate unmyelinated fibres' Schwann cells from myelinated fibres'"
+   },
+   {
+    "pmid": "23921658",
+    "citation": "Peripheral nerve injury after local anesthetic injection. Anesth Analg 2013",
+    "matches": "intrafascicular ropivacaine, lidocaine and bupivacaine in rat sciatic nerve with histomorphometry and electron microscopy, and a fibre-calibre analysis",
+    "misses": "the fibre analysis is of large-diameter (myelinated) fibres; unmyelinated fibres and their Schwann cells are not the unit of analysis"
+   },
+   {
+    "pmid": "22822189",
+    "citation": "Local neurotoxicity and myotoxicity evaluation of cyclodextrin complexes of bupivacaine and ropivacaine. Anesth Analg 2012",
+    "matches": "Schwann cell viability plus rat sciatic nerve histopathology with ropivacaine",
+    "misses": "no fibre-type selectivity analysis"
+   },
+   {
+    "pmid": "26033207",
+    "citation": "In vivo potency of different ligands on voltage-gated sodium channels. Eur J Pharmacol 2015;762:158-164",
+    "matches": "the only Europe PMC record whose abstract carries both ropivacaine and 'unmyelinated'",
+    "misses": "an electrophysiological potency study on a motor nerve, chosen precisely because it lacks unmyelinated fibres; no histology"
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": false,
+  "evidence_pmid": "21857272",
+  "quote": "",
+  "proposed_wording": "Ropivacaine has been applied directly to cultured Schwann cells (PMID 21857272, PMID 22822189) and examined histologically with quantitative histomorphometry and electron microscopy in rat peripheral nerve (PMID 20442258, PMID 23921658); the myelinated-versus-unmyelinated selectivity comparison that Kalichman 1989 made for other agents was not found for ropivacaine in searches of Europe PMC through October 2026.",
+  "reason": "The specific gap the page names holds: no study was found that compares what happens to unmyelinated fibres' Schwann cells against myelinated fibres' after ropivacaine, which is the comparison Kalichman made. But the sentence implies ropivacaine has not been looked at in this way at all, and that is too broad - ropivacaine has been tested on Schwann cells as such, and examined by electron microscopy and quantitative histomorphometry in intact nerve, in at least four studies. Only one Europe PMC record carries both 'ropivacaine' and 'unmyelinated' in its abstract, and it is an electrophysiological study on a nerve selected for containing only motor fibres, so it is the opposite of the needed design. Everything recorded here is design and existence only. Counts are Europe PMC counts except the three marked as the earlier worker's PubMed counts.",
+  "needs_full_text": [],
+  "_source_line": 2716,
+  "_note": "Kalichman 1989 tested chloroprocaine, procaine, etidocaine and lidocaine, not ropivacaine"
+ }
+]
