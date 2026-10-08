@@ -1,0 +1,67 @@
+[
+ {
+  "claim_id": "C081",
+  "paper_id": "S-686-35",
+  "pmid": "1590615",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "ten of the volunteers from the first … experiment were injected at the same body locales with … buffered [dose figure omitted] lidocaine containing epinephrine in a [dose figure omitted] … concentration.",
+  "page": 724,
+  "proposed_wording": "Collins 2013 (PMID 24431939) is not the only human intradermal study of [dose figure omitted] lidocaine with epinephrine [dose figure omitted]. Todd 1992 (PMID 1590615) raised intradermal wheals of that solution, buffered, at four body sites in volunteers (20 subjects for plain lidocaine, ten of them for the epinephrine phase) and timed anaesthesia to complete return of sensation at each site, including the calf. Christoph 1988 (PMID 2827545) gave the same solution intradermally in a randomised, prospective, double-blind study of 25 adult volunteers and recorded onset, extent and duration of skin anaesthesia. Collins 2013 remains the only one of the three that timed intradermal bupivacaine-and-lidocaine mixtures with epinephrine.",
+  "reason": "The full text settles the open question. Todd's second experiment injected buffered 1% lidocaine containing epinephrine in a 1:100,000 concentration intradermally in ten healthy volunteers, which is the same anaesthetic strength, the same epinephrine strength, the same route and the same population the claim says only Collins 2013 covers, with duration of anaesthesia timed to a score indicating essentially complete return of sensation; every element the claim says is absent is matched, so the uniqueness claim is refuted rather than merely narrowed. The calf figures the question asks for come from the Table 1 'Leg' column: mean duration of effective anaesthesia 1.2 +/- 0.1 hours with plain lidocaine against 9.9 +/- 0.9 hours with epinephrine, and mean duration of any anaesthesia 2.0 +/- 0.2 hours against 11.3 +/- 0.8 hours, the longest of the four sites in both indexes. One element Todd misses is onset: the first assessment in the epinephrine phase came a fixed 30 minutes after injection, so onset was never timed, and that gap is closed instead by Christoph 1988 from Todd's own reference list, which measured onset as well as duration of skin anaesthesia for the identical solution intradermally in 25 volunteers."
+ },
+ {
+  "claim_id": "C081",
+  "paper_id": "S-686-35",
+  "pmid": "2827545",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "",
+  "page": 726,
+  "proposed_wording": "A randomised, prospective, double-blind human study of intradermal [dose figure omitted] lidocaine with epinephrine [dose figure omitted] that recorded onset, extent and duration of skin anaesthesia exists: Christoph 1988 (PMID 2827545), 25 adult volunteers.",
+  "reason": "Christoph 1988 is reference 5 of Todd 1992, cited there only as the source of the buffering method, and it independently refutes C081: one of its three arms was lidocaine with epinephrine at exactly the strengths the claim names, given by intradermal injection in a randomised, prospective, double-blind study of 25 adult volunteers, with onset, extent and duration of skin anaesthesia all measured. It therefore matches the onset element of C081 that Todd 1992 does not. The quote field is empty because the deciding sentence is from Christoph's abstract and common/tools/quotecheck.py validates the quote in this file against texts/S-686-35.txt; the verbatim abstract sentences are recorded in S-686-35_extra_studies.json instead. Note that this record already cites Christoph 1988 at D025 and D012 without noticing the lidocaine-with-epinephrine arm."
+ },
+ {
+  "claim_id": "C044",
+  "paper_id": "S-686-35",
+  "pmid": "1590615",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "an intradermal wheal was raised on the fore- … head close to the scalp, the volar forearm just distal to the … antecubital fossa, the dorsal aspect of the n o n d o m i n a n t … hand, and the medial aspect of the leg just below the knee.",
+  "page": 724,
+  "proposed_wording": "No study has injected the same drug at the same volume into skin and into a dental site in the same people. The nearest design is a within-subject comparison across four skin sites in the same volunteers (Todd 1992, PMID 1590615), which measures how far a duration figure transfers between skin sites but includes no dental site.",
+  "reason": "C044 says nobody has given the same drug at the same volume into skin and into a dental site in the same people, and Todd 1992 does not do that: all four of its sites are skin (forehead, volar forearm, dorsum of the non-dominant hand, medial leg below the knee), so the claim stands as written. It does bear on the sentence's purpose, which is whether a duration figure transfers between sites. Todd gives a direct within-subject answer for skin: by both duration indexes the only site that differed significantly from the others was the face, and arm versus leg was not among the significant differences, so site-to-site transfer within limb skin is supported while the skin-to-mouth question remains untested."
+ },
+ {
+  "claim_id": "D040",
+  "paper_id": "S-686-35",
+  "pmid": "1590615",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "The only other significant differences observed were between hand and leg lidocaine with epinephrinefor both effective (P< .05) and any anesthesia(P< .01).",
+  "page": 724,
+  "proposed_wording": "Every intradermal duration and vasoactivity figure quoted in this hierarchy comes from normal skin in healthy volunteers. Where forearm and calf have been timed in the same volunteers with the same solution, the two sites did not differ significantly (Todd 1992, PMID 1590615), while the face was significantly briefer than every other site.",
+  "reason": "The absence D040 asserts is a measurement in neuropathic leg skin, and Todd 1992 is healthy volunteers in intact unwounded skin, so the verdict stays confirmed. Todd does settle the premise the sentence rests on: it is the study that timed forearm and calf in the same people with the same solution, and the only significant between-site differences were face versus the rest and, with epinephrine, hand versus leg, with arm versus leg not significant for either index. That strengthens rather than weakens the pages' practice of reading forearm figures across to leg skin, within the limit that all of it is non-neuropathic skin."
+ },
+ {
+  "claim_id": "C029",
+  "paper_id": "S-686-35",
+  "pmid": "1590615",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "We noted little difference in … activity on body areas other than the face.",
+  "page": 725,
+  "proposed_wording": "No duration or blood-flow measurement of any drug on this page has been made after injection into neuropathic leg skin; topical clonidine has been tested on neuropathic feet for pain (Campbell 2012). For lidocaine in normal skin, duration has been measured at forearm and calf in the same volunteers and differed little between them (Todd 1992, PMID 1590615).",
+  "reason": "C029's absence is scoped to people with neuropathy affecting leg skin, and Todd 1992 studied healthy volunteers, so it does not change the verdict, which stays refuted on the Campbell 2012 grounds already recorded. It does bear on the claim's second sentence, that every duration figure quoted comes from normal forearm, calf, foot or back skin: Todd confirms that description for lidocaine and supplies the missing comparison between those sites, finding little difference in activity on body areas other than the face. None of the drugs named on that page was tested by Todd, so the claim's own intervention element is untouched."
+ }
+]

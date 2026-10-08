@@ -1,14 +1,14 @@
 ## 2. Counts
 
 - **Papers read in full: 12 of 13.** 12 confirmed as the right paper.
-- **Claim re-judgements written: 52**, covering 28 distinct claims. **14 changed verdict.**
-  - by kind: 3 extra-study, 34 other-claim, 15 own-question
+- **Claim re-judgements written: 62**, covering 33 distinct claims. **17 changed verdict.**
+  - by kind: 4 extra-study, 40 other-claim, 18 own-question
   - still uncertain after the full text: 12
 - **New wheal-page claims extracted and tested: 49** (8 W-B, 10 W-M, 31 W-R).
   - verdicts: **19 confirmed**, **17 narrowed**, **12 refuted**, **1 out-of-scope**
   - left uncertain: 3
   - **7 further claims counted but not written out**, because their subject is a dose ceiling, a toxicity threshold, or how to mix, buffer or dilute a solution: Ropivacaine Wheals 3; mepivacaine-wheals 1; bupivacaine-wheals 3
-- **Extra studies recorded: 33**, found through the papers' reference lists and discussions.
+- **Extra studies recorded: 42**, found through the papers' reference lists and discussions.
 - **Notion findings: 45** — **20 high**, **22 medium**, **3 low**.
   - by kind: 11 overstated, 8 open-question-answered, 7 wrong-figure, 7 understated, 6 now-verified, 3 ranking-reweigh, 2 outdated, 1 citation-error
 
@@ -24,15 +24,15 @@
 
 - **S-686-04 — Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17:117-120** · own question: ? · 3 claims re-judged, 1 changed · 0 Notion findings.
 - **S-686-14 — Kim JM, Goto H, Arakawa K. Duration of bupivacaine intradermal anesthesia when the bupivacaine is mixed with chloroprocaine. Anesth Analg 1979;58:364-366** · own question: yes · 5 claims re-judged, 1 changed · 11 Notion findings.
-- **S-686-16 — Milner QJW, Guard BC, Allen JG. Alkalinization of amide local anaesthetics by addition of 1% sodium bicarbonate solution. European Journal of Anaesthesiology 2000;17:38-42** · own question: ? · 0 claims re-judged · 0 Notion findings.
+- **S-686-16 — Milner QJW, Guard BC, Allen JG. Alkalinization of amide local anaesthetics by addition of 1% sodium bicarbonate solution. European Journal of Anaesthesiology 2000;17:38-42** · own question: ? · 2 claims re-judged · 0 Notion findings.
 - **S-686-17 — Morgan M, Russell WJ. An investigation in man into the relative potency of lignocaine, bupivacaine and etidocaine. Br J Anaesth 1975;47:586-591** · own question: yes · 3 claims re-judged · 6 Notion findings.
 - **S-686-20 — Padfield A. The intradermal local analgesic action of prilocaine. A controlled double-blind comparison with lignocaine and procaine. Anaesthesia 1967;22(4):556-561** · own question: ? · 8 claims re-judged · 0 Notion findings.
-- **S-686-24 — Ramos G, Pereira E, Simonetti MPB. Does alkalinization of 0.75% ropivacaine promote a lumbar peridural block of higher quality? Regional Anesthesia and Pain Medicine 2001;26(4):357-362** · own question: ? · 0 claims re-judged · 0 Notion findings.
+- **S-686-24 — Ramos G, Pereira E, Simonetti MPB. Does alkalinization of 0.75% ropivacaine promote a lumbar peridural block of higher quality? Regional Anesthesia and Pain Medicine 2001;26(4):357-362** · own question: ? · 3 claims re-judged, 1 changed · 0 Notion findings.
 - **S-686-25 — Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent: aptocaine. Br J Anaesth 1976;48:347-354** · own question: yes · 14 claims re-judged, 5 changed · 15 Notion findings.
 - **S-686-28 — Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253** · own question: ? · 5 claims re-judged, 2 changed · 0 Notion findings.
 - **S-686-31 — Swerdlow M, Jones R. The duration of action of bupivacaine, prilocaine and lignocaine. Br J Anaesth 1970;42:335-339** · own question: yes · 11 claims re-judged, 4 changed · 13 Notion findings.
 - **S-686-33 — Tajiri K, Takahashi K, Ikeda K, Tomita K. Common Peroneal Nerve Block for Sciatica. Clin Orthop Relat Res 1998;347:203-207** · own question: yes · 1 claims re-judged · 0 Notion findings.
-- **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: ? · 0 claims re-judged · 0 Notion findings.
+- **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: ? · 5 claims re-judged, 2 changed · 0 Notion findings.
 - **S-686-39 — Wightman MA, Vaughan RW. Comparison of Compounds Used for Intradermal Anesthesia. Anesthesiology 1976;45(6):687-689** · own question: yes · 2 claims re-judged, 1 changed · 0 Notion findings.
 
 ## 4. Every verdict change
@@ -44,10 +44,13 @@
 | C066 | narrowed | refuted | S-686-25 | The full text gives duration in minutes for every agent in both trials, by two endpoints: time to 50% recovery read from the mean recovery curves, and |
 | C066 | narrowed | refuted | S-686-31 | The claim, and the source note behind it, say the only head-to-head duration figures in minutes on a skin endpoint come from a study in horses |
 | C081 | narrowed | refuted | S-686-04 | Christoph 1988 matches every element the claim states in its own words: humans, the intradermal route, and lidocaine with epinephrine at exactly the s |
+| C081 | narrowed | refuted | S-686-35 | The full text settles the open question |
+| C081 | narrowed | refuted | S-686-35 | Christoph 1988 is reference 5 of Todd 1992, cited there only as the source of the buffering method, and it independently refutes C081: one of its thre |
 | D001 | narrowed | refuted | S-686-28 | The paper settles its own open question exactly |
 | D006 | narrowed | refuted | S-686-25 | Reynolds 1976 injected [dose figure omitted] intradermally - the wheal volume the claim's own qualifier names - and timed each agent to a permanent score of 10, that |
 | D008 | confirmed | narrowed | S-686-25 | Reynolds 1976 used [dose figure omitted] per intradermal injection, not [dose figure omitted], so the claim's first sentence stands: nothing has measured intradermal bupivacaine a |
 | D009 | confirmed | refuted | S-686-31 | The full text answers the open question yes on every element |
+| D017 | confirmed | refuted | S-686-24 | Ramos matches every element D017 says is absent, within the claim's own scope |
 | D024 | confirmed | narrowed | S-686-25 | The 'six drugs at once' element holds: Reynolds 1976 covered five agents across two separate trials, never six in one |
 | D024 | confirmed | narrowed | S-686-31 | The claim bundles two uniqueness statements: intradermal duration data for six drugs at once, and the concentration-duration slopes |
 | D062 | confirmed | narrowed | S-686-25 | Reynolds 1976 contains no procaine, so the 'procaine plus five comparators in one study' element the record logs is unmatched and that part of the cla |

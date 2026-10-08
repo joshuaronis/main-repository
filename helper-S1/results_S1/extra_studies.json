@@ -406,5 +406,94 @@
   ],
   "what_it_shows": "A case series of five patients in whom sciatic nerve block relieved sciatic radicular pain; Tajiri 1998 cites it as the precedent for a distal block working on radicular pain. Europe PMC indexes it as Journal Article and Case Reports with no abstract, so it is uncontrolled and cannot serve as a sham-controlled demonstration. It is worth naming against D020 because it is the other local-anaesthetic-block-for-radicular-pain study in this citation neighbourhood, but it does not meet D020's design element, and whether its relief outlasted the block cannot be established without the full text.",
   "quote_from_abstract": ""
+ },
+ {
+  "pmid": "2827545",
+  "citation": "Christoph RA, Buchanan L, Begalla K, Schwartz S. Pain reduction in local anesthetic administration through pH buffering. Ann Emerg Med 1988;17:117-120",
+  "found_in_paper": "Reference 5 of Todd 1992 (page 726), cited by Todd as the source of the buffering method used for its own lidocaine solutions.",
+  "bears_on_claim_ids": [
+   "C081",
+   "D025",
+   "D012"
+  ],
+  "what_it_shows": "A randomised, prospective, double-blind study in 25 adult volunteers of three local anaesthetics given by intradermal injection, each plain and each buffered. The third arm was lidocaine with epinephrine at the same anaesthetic and epinephrine strengths C081 attributes to Collins 2013 alone, and onset, extent and duration of skin anaesthesia were all recorded. It is therefore a second independent human intradermal study of that solution with the onset endpoint C081 specifies, which Todd 1992 does not have. The record already cites this paper twice (D025 for its mepivacaine arm, D012 for its pH comparison) without noticing the lidocaine-with-epinephrine arm. Found via Europe PMC; engine: europepmc.",
+  "quote_from_abstract": "The effects of pH buffering on the pain of administration and efficacy of three local anesthetics ([dose figure omitted] lidocaine, [dose figure omitted] lidocaine with [dose figure omitted] epinephrine, and [dose figure omitted] mepivacaine) were investigated in a randomized, prospective, double-blind study of 25 adult volunteers. ... Onset, extent, and duration of skin anesthesia were not statistically altered by pH buffering."
+ },
+ {
+  "pmid": "4913413",
+  "citation": "Swerdlow M, Jones R. The duration of action of bupivacaine, prilocaine and lignocaine. Br J Anaesth 1970;42:335-339",
+  "found_in_paper": "Reference 4 of Todd 1992 (page 726), cited for previous work on relative duration of action at a single body locale.",
+  "bears_on_claim_ids": [
+   "C039",
+   "D009"
+  ],
+  "what_it_shows": "Europe PMC indexes it as a Randomized Controlled Trial and Clinical Trial with MeSH terms Injections, Intradermal; Skin Tests; Epinephrine administration & dosage; Lidocaine; Prilocaine; Pipecolic Acids (bupivacaine); Placebos; Analgesia; and Time Factors, in female subjects. That is a randomised intradermal skin-weal duration study of three anaesthetics with and without adrenaline, which is the paper C039 lists among the seven never opened. No abstract is indexed. It is already the primary paper of another worker in this job (S-686-31, for D009), so it is recorded here only as a reference-list confirmation, not re-judged. Engine: europepmc.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "791022",
+  "citation": "Wightman MA, Vaughan RW. Comparison of compounds used for intradermal anesthesia. Anesthesiology 1976;45:687-689",
+  "found_in_paper": "Reference 1 of Todd 1992 (page 726), the first of the papers cited for previous single-locale duration work.",
+  "bears_on_claim_ids": [
+   "C038",
+   "C039"
+  ],
+  "what_it_shows": "The human intradermal comparison of preservative-containing and preservative-free solutions that C038 and C039 turn on. It is already the primary paper of another worker in this job (S-686-39, for C038), so it is recorded here only to show that Todd 1992 cites it, which places Todd inside the same intradermal-weal tradition. Not re-judged here.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "14107177",
+  "citation": "Gramling ZW, Ellis RG Jr, Volpitto PP. Clinical experiences with mepivacaine (carbocaine). J Med Assoc Ga 1964;53:16-18",
+  "found_in_paper": "Reference 2 of Todd 1992 (page 726).",
+  "bears_on_claim_ids": [
+   "D025"
+  ],
+  "what_it_shows": "A candidate origin for an old mepivacaine duration figure, but it cannot decide D025. Europe PMC indexes no abstract and no DOI, and its MeSH terms are Mepivacaine, Anesthesia, Anesthesia Conduction, Preanesthetic Medication and Pharmacology, with no intradermal or skin term, so on the indexing available it is a conduction-anaesthesia clinical series rather than a skin-duration measurement. Recorded so the merging session knows it was looked up and found not to be a skin timing study. Engine: europepmc.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "886841",
+  "citation": "Magee C, Rodeheaver GT, Edgerton MT, Golden GT, Haury B, Edlich RF. Studies of the mechanisms by which epinephrine damages tissue defenses. J Surg Res 1977;23:126-131",
+  "found_in_paper": "Reference 9 of Todd 1992 (page 726), cited at page 725 for epinephrine's vasoconstrictive properties potentiating infection.",
+  "bears_on_claim_ids": [
+   "C075",
+   "C093"
+  ],
+  "what_it_shows": "A rabbit study of epinephrine on host defences, indexed under Phagocytosis (drug effects), Immunity (drug effects) and Blood Bactericidal Activity, with phentolamine as a blocking comparator. It measures immune defence rather than nerve or tissue histology, uses a single exposure, and no concentration appears in the indexing, so it neither refutes C075 (repeated infiltration with nerve-fibre counting or nerve histology) nor C093 (tissue damage at a stated dose). It supports the existing reading that the nearest animal work is single-exposure and about wound defence rather than innervation. Engine: europepmc.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "2644962",
+  "citation": "McCafferty DF, Woolfson AD, Boston V. In vivo assessment of percutaneous local anaesthetic preparations. Br J Anaesth 1989;62:17-21",
+  "found_in_paper": "Reference 3 of Todd 1992 (page 726).",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "A double-blind comparison of a percutaneous amethocaine preparation against EMLA and placebo. The route is topical (Administration, Cutaneous), not injection, so it does not bear on any intradermal-injection claim screened here. Recorded to show the reference was checked and set aside on route. Engine: europepmc.",
+  "quote_from_abstract": "Initially, a double-blinded trial was undertaken on each preparation individually against placebo, as the recommended method of application was different for EMLA ([dose figure omitted] applied for 60 min under an occlusive dressing) and the amethocaine formulation ([dose figure omitted] applied for 30 min)."
+ },
+ {
+  "pmid": "460344",
+  "citation": "Nattel S, Rinkenberger RL, Lehrman LL, Zipes DP. Therapeutic blood lidocaine concentrations after local anesthesia for cardiac electrophysiologic studies. N Engl J Med 1979;301:418-420",
+  "found_in_paper": "Reference 11 of Todd 1992 (page 726), cited at page 725 for blood levels after injection through intact skin.",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "A study of blood lidocaine after local anaesthesia for cardiac electrophysiologic studies, indexed under Lidocaine (blood) and Anesthesia, Local. The only claims in claims_all.json it could touch are ones whose subject is a dose ceiling or a plasma threshold, which the brief's writing rules require to be skipped and only counted, so no verdict is offered and no concentration is recorded. Engine: europepmc.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "6734090",
+  "citation": "Barone JA, Weisman R, Mangione RA, Goldfrank LR. Serum lidocaine concentrations following subcutaneous administration. Clin Pharm 1984;3:281-284",
+  "found_in_paper": "Reference 12 of Todd 1992 (page 726), cited at page 725 as the contrast to injection through intact skin: lidocaine was undetectable in patients having wounds repaired.",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Thirty patients having lacerations repaired in an emergency department, with venous samples at 15, 30, 45 and 60 minutes after subcutaneous lidocaine. The authors conclude that absorption appears altered in traumatised tissue. It is the evidence behind Todd's own caution that wounding may change duration, so it bears on how far any volunteer intact-skin duration figure transfers to wounded tissue, but the claims it would otherwise touch are dose-ceiling claims, which are skipped. Engine: europepmc.",
+  "quote_from_abstract": "Serum lidocaine concentrations were determined following subcutaneous administration for local anesthesia in the management of lacerations in the emergency room setting."
+ },
+ {
+  "pmid": "",
+  "citation": "Stevenson TR, Rodeheaver GT, Golden GT, et al. Damage to tissue defenses by vasoconstrictors. JACEP 1975;4:532-535",
+  "found_in_paper": "Reference 10 of Todd 1992 (page 726), cited alongside Magee 1977 for epinephrine potentiating infection.",
+  "bears_on_claim_ids": [
+   "C093"
+  ],
+  "what_it_shows": "Not found. Two Europe PMC title searches returned no record for this title or for Stevenson with 'tissue defenses', so no PMID could be confirmed and the abstract could not be read. JACEP issues from 1975 appear to be patchily indexed. Recorded as unresolved rather than guessed. Engine: europepmc, hitCount 0.",
+  "quote_from_abstract": ""
  }
 ]
