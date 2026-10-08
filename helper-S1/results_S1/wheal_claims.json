@@ -2068,83 +2068,39 @@
   },
   "queries": [
    {
-    "query": "(ABSTRACT:\"intradermal\" OR ABSTRACT:\"intracutaneous\" OR ABSTRACT:\"wheal\" OR ABSTRACT:\"skin infiltration\") AND (ABSTRACT:\"lidocaine\" OR ABSTRACT:\"lignocaine\" OR ABSTRACT:\"ropivacaine\" OR ABSTRACT:\"bupivacaine\" OR ABSTRACT:\"mepivacaine\" OR ABSTRACT:\"local anaesthetic\" OR ABSTRACT:\"local anesthetic\") AND (ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"cutaneous blood flow\")",
+    "query": "EXT_ID:4041306",
     "engine": "europepmc",
-    "count": 21,
-    "screened": 21,
-    "date_searched": "2026-10-08T00:00:00Z"
-   },
-   {
-    "query": "ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"intradermal\" OR ABSTRACT:\"intracutaneous\" OR ABSTRACT:\"wheal\" OR ABSTRACT:\"skin infiltration\" OR ABSTRACT:\"subcutaneous infiltration\") AND (ABSTRACT:\"onset\" OR ABSTRACT:\"minutes\" OR ABSTRACT:\"pinprick\" OR ABSTRACT:\"pin-prick\" OR ABSTRACT:\"skin analgesia\" OR ABSTRACT:\"duration\")",
-    "engine": "europepmc",
-    "count": 12,
-    "screened": 12,
-    "date_searched": "2026-10-08T00:00:00Z"
-   },
-   {
-    "query": "ABSTRACT:\"ropivacaine\" AND (ABSTRACT:\"skin blood flow\" OR ABSTRACT:\"laser Doppler\" OR ABSTRACT:\"cutaneous blood flow\" OR ABSTRACT:\"skin perfusion\" OR ABSTRACT:\"cutaneous microcirculation\" OR ABSTRACT:\"skin microcirculation\")",
-    "engine": "europepmc",
-    "count": 13,
-    "screened": 13,
-    "date_searched": "2026-10-08T00:00:00Z"
-   },
-   {
-    "query": "(intradermal OR intradermally OR wheal OR wheals OR \"skin infiltration\" OR \"subcutaneous infiltration\" OR \"infiltration anesthesia\" OR \"infiltration anaesthesia\") AND (lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\") AND (\"laser Doppler\" OR \"blood flow\" OR perfusion OR \"skin blood flow\") AND (pinprick OR \"pin-prick\" OR \"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\" OR \"sensory block\" OR \"analgesia\")",
-    "engine": "pubmed (earlier worker, 2026-10-07)",
-    "count": 13,
-    "screened": 13,
-    "date_searched": "2026-10-07T06:23:09Z"
-   },
-   {
-    "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\") AND (vasoconstriction OR vasoconstrictor OR \"blood flow\" OR perfusion OR blanching OR pallor) AND (duration) AND (correlation OR correlated OR correlates OR \"related to\" OR relationship) AND (skin OR cutaneous OR intradermal OR subcutaneous OR infiltration OR dermal OR pulpal OR gingival)",
-    "engine": "pubmed (earlier worker, 2026-10-07)",
-    "count": 51,
-    "screened": 51,
-    "date_searched": "2026-10-07T06:11:11Z"
+    "hitCount": 1,
+    "note": "record check only; the two claims below are decided from the full text in $H/texts/S-686-40.txt, not from a literature search"
    }
   ],
   "records_read": [
    {
-    "pmid": "8067217",
-    "citation": "Cederholm I, Akerman B, Evers H. Local analgesic and vascular effects of intradermal ropivacaine and bupivacaine in various concentrations with and without addition of adrenaline in man. Acta Anaesthesiol Scand 1994;38:322-327",
-    "matches": "duration of dermal analgesia and the local vascular response recorded at the same intradermal ropivacaine and bupivacaine wheals, in 10 volunteers, randomised and double-blind",
-    "misses": "the vascular response was scored by visual inspection (nil / pink / pale), not as laser Doppler flux; endpoint is pin-prick, not neuropathic relief"
-   },
-   {
-    "pmid": "8519713",
-    "citation": "Liu S et al. Epinephrine prolongs duration of subcutaneous infiltration of local anesthesia in a dose-related manner. Correlation with magnitude of vasoconstriction. Reg Anesth 1995;20:378-384",
-    "matches": "pin-prick duration at forearm wheals and laser Doppler flux at abdominal wheals of the same solutions in the same 6 volunteers, flux followed 6 h, and the two correlated",
-    "misses": "flux and duration at matched but different wheals, not the same wheal; lidocaine and bupivacaine, not ropivacaine"
-   },
-   {
-    "pmid": "10519498",
-    "citation": "Bernards CM, Kopacz DJ. Effect of epinephrine on lidocaine clearance in vivo: a microdialysis study in humans. Anesthesiology 1999;91:962-968",
-    "matches": "tissue concentration, laser Doppler cutaneous blood flow and sensory block all measured at one site in humans for 5 h",
-    "misses": "perineural injection along the superficial peroneal nerve, not a skin wheal; lidocaine"
+    "pmid": "4041306",
+    "year": "1985",
+    "first_author": "Willatts",
+    "title": "Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study",
+    "design": "double-blind within-subject volunteer study, intradermal, six agents at three concentrations each in the same 10 subjects, run in two parts",
+    "n": "10",
+    "source": "full text read in this session"
    },
    {
     "pmid": "4041306",
-    "citation": "Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985",
-    "matches": "vascular effects and duration of action of six local anaesthetics investigated together in 10 volunteers by intradermal injection, double-blind, with log dose-duration plots whose slopes reflect the observed vasoactivity",
-    "misses": "the abstract does not say how the vascular effect was measured; the wording ('marked vasodilatation', 'weal formation') suggests visual scoring rather than instrumented flux; no ropivacaine"
+    "matches": "vasoactivity and duration recorded on the same blebs, but vasoactivity scored visually (pink / nil / pale) and never instrumented, so no flux measurement exists in this paper"
    }
   ],
-  "verdict": "narrowed",
-  "uncertain": true,
-  "evidence_pmid": "8067217",
-  "quote": "Local vascular effects at the injected areas were determined by visual inspection (nil, pink, pale).",
-  "proposed_wording": "The local vascular response and the duration of dermal analgesia have been recorded at the same intradermal ropivacaine wheals in man (Cederholm, Akerman & Evers 1994, PMID 8067217), with the vascular response scored visually; instrumented flux and block duration at one and the same wheal were not found in searches of Europe PMC through October 2026.",
-  "reason": "The page's three partial hits are correctly characterised, and one more sits closer than any of them: Cederholm 1994 used intradermal wheals in the same volunteers to record both pin-prick duration and the local vascular response, so 'never been measured in the same wheal' is too broad for the vascular response in general and holds only for instrumented flux. Both stated reasons for the gap (Kopacz and Newton on pin-prick disturbing the flow being measured) explain exactly that residue: Cederholm avoided the problem by scoring colour by eye. A second intradermal study pairs vasoactivity with duration of action across six drugs (PMID 4041306, 1985) and its measurement method cannot be read off the abstract, which is why this is left uncertain. Counts are Europe PMC counts; two reused searches carry the earlier worker's PubMed counts.",
-  "needs_full_text": [
-   {
-    "pmid": "4041306",
-    "doi": "",
-    "question": "Br J Anaesth 1985 'Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study' (PMID 4041306): whether the vascular effect was measured instrumentally (e.g. laser Doppler or plethysmography) at the same intradermal sites at which duration of action was recorded, or scored visually as Cederholm 1994 did"
-   }
-  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "4041306",
+  "quote": "appearance of each bleb was noted 5—10 min after … injection, by which time the initial distension had … disappeared. Colour changes were classified as … pink, nil or pale. Any haemorrhagic changes were … recorded.",
+  "proposed_wording": "Flux and block duration have never been measured in the same wheal. The one human intradermal study that recorded vasoactivity and duration of action on the same blebs, Willatts and Reynolds 1985 (PMID 4041306), scored vasoactivity by eye as pink, nil or pale and reported it as the percentage frequency of colour change; it used no flowmeter, so it contributes a visual vasoactivity reading paired with a duration, not a flux measurement.",
+  "reason": "The claim survives as written, because it is about flux. Willatts and Reynolds 1985 does pair vasoactivity with duration in the same blebs - the same paired intradermal injections carried both the colour reading at 5-10 min and the pinprick timing to 50% recovery - but the vascular measure is entirely visual. The methods state that the appearance of each bleb was noted once the initial distension had gone and that colour changes were classified as pink, nil or pale, with haemorrhagic changes recorded; the results are given as the percentage frequency of local colour changes (figure 1). There is no laser Doppler, no flowmetry and no other instrument anywhere in the methods, the results or the figure legends, and the statistics applied to the vascular data are Chi-squared tests on proportions of colour change. So the paper narrows nothing about flux: it is a colour-versus-duration study, not a flux-versus-duration study.",
+  "needs_full_text": [],
   "_source_line": 2711,
-  "_note": "page lists three partial hits (Yamashiro 2016, Bernards & Kopacz 1999, Liu 1995)",
-  "pmid": "8067217"
+  "_note": "page lists three partial hits (Yamashiro 2016, Bernards & Kopacz 1999, Liu 1995) | S-686-40 full text read: vasoactivity scored visually, not instrumented, so the flux element of the claim is untouched.",
+  "pmid": "8067217",
+  "paper_id": "S-686-40",
+  "_resolved_by": "S-686-40 full text"
  },
  {
   "claim_id": "W-R005",
@@ -3602,76 +3558,39 @@
   },
   "queries": [
    {
-    "query": "(lidocaine OR lignocaine OR bupivacaine OR ropivacaine OR mepivacaine OR prilocaine OR articaine OR \"local anesthetic\" OR \"local anaesthetic\" OR \"local anesthetics\" OR \"local anaesthetics\") AND (vasoconstriction OR vasoconstrictor OR \"blood flow\" OR perfusion OR blanching OR pallor) AND (duration) AND (correlation OR correlated OR correlates OR \"related to\" OR relationship) AND (skin OR cutaneous OR intradermal OR subcutaneous OR infiltration OR dermal OR pulpal OR gingival)",
-    "engine": "pubmed (earlier worker, 2026-10-07)",
-    "count": 51,
-    "screened": 51,
-    "date_searched": "2026-10-07T06:11:11Z"
-   },
-   {
-    "query": "(epinephrine OR adrenaline OR vasoconstrictor OR felypressin OR levonordefrin) AND (\"pulpal blood flow\" OR \"gingival blood flow\" OR \"skin blood flow\" OR \"cutaneous blood flow\" OR \"nerve blood flow\" OR \"laser Doppler\") AND (\"duration of anesthesia\" OR \"duration of anaesthesia\" OR \"duration of analgesia\" OR \"duration of action\" OR \"block duration\" OR \"duration of block\" OR \"duration of sensory block\")",
-    "engine": "pubmed (earlier worker, 2026-10-07)",
-    "count": 27,
-    "screened": 27,
-    "date_searched": "2026-10-07T06:11:35Z"
-   },
-   {
-    "query": "TITLE_ABS:(vasoconstriction OR vasoconstrictor OR \"blood flow\" OR blanching OR pallor) AND TITLE_ABS:(duration) AND TITLE_ABS:(correlation OR correlated OR correlate OR relationship OR \"associated with\") AND TITLE_ABS:(anesthesia OR anaesthesia OR anesthetic OR anaesthetic OR analgesia)",
+    "query": "EXT_ID:4041306",
     "engine": "europepmc",
-    "count": 135,
-    "screened": 25,
-    "date_searched": "2026-10-08T00:00:00Z"
-   },
-   {
-    "query": "TITLE_ABS:(intradermal OR intracutaneous OR \"skin wheal\" OR \"skin weal\" OR \"intradermally\") AND TITLE_ABS:(\"local anaesthetics\" OR \"local anesthetics\" OR \"local anaesthetic\" OR \"local anesthetic\" OR lignocaine OR lidocaine OR mepivacaine OR prilocaine OR procaine OR bupivacaine) AND TITLE_ABS:(vasoconstrictor OR vasoconstriction OR pallor OR blanching OR vasodilatation OR vasodilation OR \"vascular effects\" OR erythema) AND TITLE_ABS:(volunteers OR subjects OR human OR comparison OR compared)",
-    "engine": "europepmc",
-    "count": 38,
-    "screened": 30,
-    "date_searched": "2026-10-08T00:00:00Z"
+    "hitCount": 1,
+    "note": "record check only; the two claims below are decided from the full text in $H/texts/S-686-40.txt, not from a literature search"
    }
   ],
   "records_read": [
    {
-    "pmid": "8519713",
-    "citation": "Liu S, Carpenter RL, Chiu AA, McGill TJ, Mantell SA. Epinephrine prolongs duration of subcutaneous infiltration of local anesthesia in a dose-related manner. Correlation with magnitude of vasoconstriction. Reg Anesth 1995;20:378-384",
-    "matches": "The claim's own source; the title itself states a correlation between duration of subcutaneous infiltration anaesthesia and the magnitude of vasoconstriction.",
-    "misses": "Not read beyond the title and record; subcutaneous infiltration rather than an intradermal wheal."
+    "pmid": "4041306",
+    "year": "1985",
+    "first_author": "Willatts",
+    "title": "Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study",
+    "design": "double-blind within-subject volunteer study, intradermal, six agents at three concentrations each in the same 10 subjects, run in two parts",
+    "n": "10",
+    "source": "full text read in this session"
    },
    {
     "pmid": "4041306",
-    "citation": "Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011",
-    "matches": "A second paper that reports the vasoactivity-duration relation directly: six local anaesthetics given by intradermal injection to 10 volunteers, double-blind, with vascular effects and duration of action both recorded, and the log dose-duration slopes reported as reflecting the observed vasoactivity.",
-    "misses": "Vasoactivity scored as observed colour change across drugs, not a measured flow magnitude correlated within a drug; no correlation coefficient is reported in the abstract."
-   },
-   {
-    "pmid": "7326166",
-    "citation": "Fairley JW, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of mepivacaine. Br J Anaesth 1981;53:1211-1216",
-    "matches": "Also tests the relation in human intradermal wheals: 23 volunteers, double-blind, isomers and racemic mepivacaine across a concentration range plus saline, with colour change and duration of analgesia to pinprick both recorded, and the relation between vasoconstrictor power and duration stated explicitly.",
-    "misses": "Reports the absence of an association rather than a correlation, so it does not itself report a direct vasoconstriction/duration correlation."
-   },
-   {
-    "pmid": "666948",
-    "citation": "Aps C, Reynolds F. An intradermal study of the local anaesthetic and vascular effects of the isomers of bupivacaine. Br J Clin Pharmacol 1978;6:63-68",
-    "matches": "17 volunteers, double-blind, eight concentrations of each bupivacaine isomer plus saline intradermally, with colour change and duration of analgesia both recorded; the isomer showing a vasoconstrictor effect was also the longer-acting one.",
-    "misses": "The pairing is observed across isomers rather than reported as a correlation."
+    "matches": "states that the steepness of each drug's log concentration-duration slope reflected its observed vasoactivity, and tests the differences between the six slopes, but reports no correlation statistic between vasoactivity and duration"
    }
   ],
   "verdict": "narrowed",
-  "uncertain": true,
+  "uncertain": false,
   "evidence_pmid": "4041306",
-  "quote": "Duration of action was concentration-dependent for all six drugs, the slopes of the log dose--duration plots reflecting the observed vasoactivity.",
-  "proposed_wording": "At least three further human intradermal studies record vasoactivity and duration in the same wheals and report the relation between them (Willatts & Reynolds 1985, PMID 4041306, six drugs, relation positive; Aps & Reynolds 1978, PMID 666948, bupivacaine isomers; Fairley & Reynolds 1981, PMID 7326166, mepivacaine isomers, relation absent); Liu 1995 (PMID 8519713) may remain the only paper correlating a measured magnitude of vasoconstriction with duration.",
-  "reason": "Willatts & Reynolds 1985 measured vasoactivity and duration in the same human wheals and reported the dose-duration slopes as reflecting the observed vasoactivity, so Liu 1995 is not the only paper reporting the relation; Aps 1978 pairs them in the same direction and Fairley 1981 reports them as unassociated. What distinguishes Liu is that it correlates a measured magnitude of vasoconstriction with duration rather than an observed colour change across drugs, so the claim is too broad as written rather than wrong in spirit. Left uncertain because the distinction between a reported correspondence and a reported correlation can only be settled in the Willatts & Reynolds full text, which the page holds.",
-  "needs_full_text": [
-   {
-    "pmid": "4041306",
-    "doi": "",
-    "question": "Willatts & Reynolds 1985 (PMID 4041306) full text: whether the paper reports a quantified correlation between vasoactivity and duration or only a qualitative correspondence of log dose-duration slopes"
-   }
-  ],
+  "quote": "There was a highly significant difference … between the slopes (P < 0.001; Ftest). In general, … the steepness of the slope reflected the observed … vasoactivity of the agent; there was a significant … difference (P < 0.05) between the slopes of … procaine and mepivacaine, cinchocaine and prilo… caine, and between those of amethocaine and … mepivacaine.",
+  "proposed_wording": "Liu 1995 is the only paper reporting a quantified vasoconstriction/duration correlation. A second paper, Willatts and Reynolds 1985 (PMID 4041306), reports the relationship qualitatively in human skin: it states that the steepness of each drug's log concentration-duration slope in general reflected that drug's observed vasoactivity, and it tests the differences between the six slopes statistically, but it reports no correlation coefficient or other statistic linking vasoactivity to duration, and it opens its discussion by calling that relationship not straightforward.",
+  "reason": "What the paper actually reports is a stated-but-unquantified correspondence, not a measured correlation, so the claim is narrowed rather than refuted. The statistics it reports are a one-way analysis of variance on the six log-transformed slopes (P < 0.001 by F test) with pairwise differences at P < 0.05, and Chi-squared tests on the proportions of colour change; no coefficient, regression or test ever links a vasoactivity score to a duration. The link is asserted in words - the summary says the slopes of the log dose-duration plots reflect the observed vasoactivity, the results say that in general the steepness of the slope reflected the observed vasoactivity of the agent, and the discussion says the vasodilatation of the two esters and the vasoconstriction of mepivacaine were associated with slope differences in the expected direction compared with the three agents whose vasoactivity was less marked and more variable. The two statements the page sets against each other are not in conflict, because they are about different outcomes: the explicit denial, that comparison of figures 1 and 2 demonstrates no relationship between vasoactivity and initial analgesic activity, concerns how well each drug blocked at the start, while the asserted correspondence concerns how steeply duration rose with concentration. The paper's own discussion opens by calling the relationship between vasoactivity and duration not straightforward, which is the authors' own calibration of how firm that correspondence is.",
+  "needs_full_text": [],
   "_source_line": 3053,
-  "_note": "only-study claim about Liu 1995",
-  "pmid": "4041306"
+  "_note": "only-study claim about Liu 1995 | S-686-40 full text read: reports a qualitative vasoactivity/duration-slope correspondence with no correlation statistic, and an explicit absence of relationship with INITIAL analgesic activity, which is a different outcome.",
+  "pmid": "4041306",
+  "paper_id": "S-686-40",
+  "_resolved_by": "S-686-40 full text"
  },
  {
   "claim_id": "W-R022",

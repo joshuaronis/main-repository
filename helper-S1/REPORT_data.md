@@ -5,12 +5,12 @@
   - by kind: 6 extra-study, 52 other-claim, 19 own-question
   - still uncertain after the full text: 15
 - **New wheal-page claims extracted and tested: 49** (8 W-B, 10 W-M, 31 W-R).
-  - verdicts: **19 confirmed**, **17 narrowed**, **12 refuted**, **1 out-of-scope**
-  - left uncertain: 3
+  - verdicts: **20 confirmed**, **16 narrowed**, **12 refuted**, **1 out-of-scope**
+  - left uncertain: 1
   - **7 further claims counted but not written out**, because their subject is a dose ceiling, a toxicity threshold, or how to mix, buffer or dilute a solution: Ropivacaine Wheals 3; mepivacaine-wheals 1; bupivacaine-wheals 3
 - **Extra studies recorded: 55**, found through the papers' reference lists and discussions.
-- **Notion findings: 93** — **31 high**, **51 medium**, **11 low**.
-  - by kind: 24 overstated, 21 understated, 13 now-verified, 10 open-question-answered, 8 wrong-figure, 7 ranking-reweigh, 7 outdated, 2 citation-error, 1 wrong-design
+- **Notion findings: 110** — **38 high**, **59 medium**, **13 low**.
+  - by kind: 25 overstated, 22 understated, 17 now-verified, 14 open-question-answered, 11 outdated, 10 wrong-figure, 8 ranking-reweigh, 2 citation-error, 1 wrong-design
 
 ### The three wheal pages
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|---|---|---|---|
 | bupivacaine-wheals | 2026-10-02T03:14:18.695Z | 8 | 8 | 3 | 2 | 1 | 5 | 0 |
 | mepivacaine-wheals | 2026-10-02T03:14:08.315Z | 10 | 10 | 1 | 2 | 4 | 4 | 0 |
-| Ropivacaine Wheals | 2026-10-02T03:14:26.511Z | 31 | 31 | 3 | 8 | 12 | 10 | 1 |
+| Ropivacaine Wheals | 2026-10-02T03:14:26.511Z | 31 | 31 | 3 | 8 | 11 | 11 | 1 |
 
 ## 3. What each paper settled
 
@@ -32,8 +32,8 @@
 - **S-686-28 — Schnabl SM, Unglaub F, Leitz Z, Breuninger H, Häfner HM. Skin perfusion and pain evaluation with different local anaesthetics in a double blind randomized study following digital nerve block anaesthesia. Clin Hemorheol Microcirc 2013;55:241-253** · own question: yes · 5 claims re-judged, 2 changed · 9 Notion findings.
 - **S-686-31 — Swerdlow M, Jones R. The duration of action of bupivacaine, prilocaine and lignocaine. Br J Anaesth 1970;42:335-339** · own question: yes · 11 claims re-judged, 4 changed · 13 Notion findings.
 - **S-686-33 — Tajiri K, Takahashi K, Ikeda K, Tomita K. Common Peroneal Nerve Block for Sciatica. Clin Orthop Relat Res 1998;347:203-207** · own question: yes · 1 claims re-judged · 0 Notion findings.
-- **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: ? · 5 claims re-judged, 2 changed · 11 Notion findings.
-- **S-686-39 — Wightman MA, Vaughan RW. Comparison of Compounds Used for Intradermal Anesthesia. Anesthesiology 1976;45(6):687-689** · own question: yes · 2 claims re-judged, 1 changed · 0 Notion findings.
+- **S-686-35 — Todd K, Berk WA, Huang R. Effect of body locale and addition of epinephrine on the duration of action of a local anesthetic agent. Ann Emerg Med 1992;21:723-726** · own question: yes · 5 claims re-judged, 2 changed · 11 Notion findings.
+- **S-686-39 — Wightman MA, Vaughan RW. Comparison of Compounds Used for Intradermal Anesthesia. Anesthesiology 1976;45(6):687-689** · own question: yes · 2 claims re-judged, 1 changed · 17 Notion findings.
 - **S-686-40 — Willatts DG, Reynolds F. Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study. Br J Anaesth 1985;57:1006-1011** · own question: ? · 15 claims re-judged, 5 changed · 0 Notion findings.
 
 ## 4. Every verdict change
@@ -63,7 +63,7 @@
 | W-R005 |  | confirmed | S-686-28 | Schnabl 2013 matches three of W-R005's four elements and misses the one that decides it |
 | W-R025 |  | narrowed | S-686-40 | The head-to-head element holds: six agents at three concentrations each plus saline went into the same 10 volunteers, double-blind, by intradermal inj |
 
-### New wheal-page claims that did not hold as written (29 of 49)
+### New wheal-page claims that did not hold as written (28 of 49)
 
 | claim | page | verdict | what exists |
 |---|---|---|---|
@@ -77,7 +77,6 @@
 | W-M009 | mepivacaine | narrowed | Resolved from the Reynolds 1976 full text, read in this same session (S-686-25) |
 | W-M010 | mepivacaine | narrowed | Narrowed |
 | W-R003 | Ropivacaine Wheals | narrowed | The page's narrowing (rat oral mucosa, plus Sohn's calculation) is right as far as it goes but it stops one step short: there are two human in vivo mi |
-| W-R004 | Ropivacaine Wheals | narrowed | The page's three partial hits are correctly characterised, and one more sits closer than any of them: Cederholm 1994 used intradermal wheals in the sa |
 | W-R008 | Ropivacaine Wheals | narrowed | The specific gap the page names holds: no study was found that compares what happens to unmyelinated fibres' Schwann cells against myelinated fibres'  |
 | W-R010 | Ropivacaine Wheals | narrowed | The open part of the page's sentence survives intact: no dermal microvessel preparation was found for ropivacaine at all, so neither brake has been we |
 | W-R011 | Ropivacaine Wheals | narrowed | The experiment the page is after is genuinely missing, and two independent Europe PMC queries plus three reused PubMed searches establish that: the wh |
@@ -88,7 +87,7 @@
 | W-R018 | Ropivacaine Wheals | refuted | Every element the claim says is absent - dermal microvessels, these drugs, any design, an ordering of vascular effect - is matched by the in vivo huma |
 | W-R019 | Ropivacaine Wheals | refuted | The claim's recorded elements - ropivacaine, any preparation, any design, the A-fibre/C-fibre concentration separation - are all matched by Bader 1989 |
 | W-R020 | Ropivacaine Wheals | refuted | Kankel 2012 matches the population (human), the intervention (an intradermal local-anaesthetic injection), the design (microneurography) and the outco |
-| W-R021 | Ropivacaine Wheals | narrowed | Willatts & Reynolds 1985 measured vasoactivity and duration in the same human wheals and reported the dose-duration slopes as reflecting the observed  |
+| W-R021 | Ropivacaine Wheals | narrowed | What the paper actually reports is a stated-but-unquantified correspondence, not a measured correlation, so the claim is narrowed rather than refuted |
 | W-R022 | Ropivacaine Wheals | refuted | The claim says this is the one histological finding in the literature selective for the fibre class at issue |
 | W-R023 | Ropivacaine Wheals | narrowed | Within the claim's recorded outcome - epidermal nerve fibre density - searches found no second human study, so the core of the claim holds |
 | W-R025 | Ropivacaine Wheals | narrowed | Reynolds 1976 matches the population (human skin), the design (double-blind intradermal head-to-head) and the outcome (vasoconstrictor activity, with  |
@@ -97,7 +96,7 @@
 | W-R030 | Ropivacaine Wheals | narrowed | Judged inside the bullet's own scope - continuous infiltration of incised subcutaneous tissue - the claim holds: the rat wound study and the animal wo |
 | W-R031 | Ropivacaine Wheals | narrowed | Within the claim's intervention element - a local anaesthetic wheal - nothing found separates the drug's flare suppression from the needle's own flare |
 
-## 5. High-importance Notion findings (31)
+## 5. High-importance Notion findings (38)
 
 - **S1-F001 · Comparing the injectable local anesthetics for intradermal wheals › The comparison itself / the ranking rationale - 'For a second option, and the drug to beat: plain lidocaine, already in the syringe'** — *overstated*, from S-686-04. This is a uniqueness statement inside the sentence that ranks plain lidocaine as the drug to beat, so part of the ordering rests on it
 - **S1-F002 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › The second reversal: bupivacaine** — *wrong-figure*, from S-686-14. The paper's abstract says only that the mixture was 'similar to' chloroprocaine alone; the page upgrades that to a null result, which the Results section contradicts
@@ -130,4 +129,11 @@
 - **S1-F029 · adjuvants-without-a-vasoconstrictor › Sources — Whether denervation changes the alpha-2 response (Yamazaki & Yuge 2011 annotation)** — *ranking-reweigh*, from S-686-35. Yamazaki measures flow responsiveness to alpha-2 and alpha-1 agonists; Todd measures duration of anaesthesia with epinephrine, a different drug and endpoint, in healthy skin
 - **S1-F030 · PiSA Lidocaína/Epinefrina 2% – 0.001% (1:100,000), dental cartridge 1.8 mL (Mexico) › Verdict; and the Why and Why For Purpose properties** — *overstated*, from S-686-35. As written the sentence is a design claim about the literature and it is wrong: Todd 1992 is an intradermal wheal study of lidocaine with epinephrine at exactly this product's epinephrine st
 - **S1-F031 · Newtheek (New Stetic) lidocaína 2 % con epinefrina 1:100,000, 50 glass cartridges × 1.8 mL — Tu Depósito Dental (Mexico) › Verdict; Why; Why For Purpose** — *overstated*, from S-686-35. Here the clause is a standalone conjunct rather than scoped by the Mülkoğlu clause, so it reads as an unrestricted claim
+- **S1-F032 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › The seven papers nobody has pulled (item 2)** — *open-question-answered*, from S-686-39. The page names this paper the highest-value item in its retrieval queue and says the preservative question turns on it and on nothing else, so the status line and the 'what it would settle' 
+- **S1-F033 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › What is still unknown — Whether methylparaben does anything for duration** — *open-question-answered*, from S-686-39. The concentration in the second sentence is replaced with [dose figure omitted] under the writing rules
+- **S1-F034 · 🔬 The intradermal wheal literature nobody cites, and the two conclusions it overturned › Is it already in what you are buying? — What follows for you, in order (item 2)** — *outdated*, from S-686-39. The clause 'it has never been opened' is out of date and the sentence it sits in is the record's own reason for treating the preservative question as unresolved
+- **S1-F035 · What is still unsettled across these pages, and what would settle each one › Which claims rest on one study nobody has repeated — Benzyl alcohol makes lidocaine both less painful and longer-lasting** — *outdated*, from S-686-39. The premise behind the words 'free gain' is wrong as applied to a lidocaine vial, and the newer wheal-literature page already carries the correction while this page still carries the old ver
+- **S1-F036 · Procaine / Novocaine › Where procaine sits against the other candidates (ranking table, injection pain row)** — *wrong-figure*, from S-686-39. The cell says the figure does not exist
+- **S1-F037 · Procaine / Novocaine › The ester question** — *ranking-reweigh*, from S-686-39. The page reads a single reassuring dataset as showing that the ester group's measured record is better than its reputation, and that reading feeds the 'gentlest' entries in its own ranking t
+- **S1-F038 · Comparing the injectable local anesthetics for intradermal wheals › What ranks where (ranking table, procaine row, injection pain column)** — *wrong-figure*, from S-686-39. The same wrong cell as on the procaine page, in this page's own ranking table
 

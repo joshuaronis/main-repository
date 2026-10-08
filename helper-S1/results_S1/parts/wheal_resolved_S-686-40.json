@@ -1,0 +1,102 @@
+[
+ {
+  "claim_id": "W-R004",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "13. The open gaps (gap 4); 4.11 item 3; 5.8.3",
+  "claim": "Flux and block duration have never been measured in the same wheal.",
+  "elements_said_absent": {
+   "population": "human skin",
+   "intervention": "local anaesthetic wheal",
+   "design": "any",
+   "outcome": "skin blood flux AND block duration in the same wheal",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "EXT_ID:4041306",
+    "engine": "europepmc",
+    "hitCount": 1,
+    "note": "record check only; the two claims below are decided from the full text in $H/texts/S-686-40.txt, not from a literature search"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "4041306",
+    "year": "1985",
+    "first_author": "Willatts",
+    "title": "Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study",
+    "design": "double-blind within-subject volunteer study, intradermal, six agents at three concentrations each in the same 10 subjects, run in two parts",
+    "n": "10",
+    "source": "full text read in this session"
+   },
+   {
+    "pmid": "4041306",
+    "matches": "vasoactivity and duration recorded on the same blebs, but vasoactivity scored visually (pink / nil / pale) and never instrumented, so no flux measurement exists in this paper"
+   }
+  ],
+  "verdict": "confirmed",
+  "uncertain": false,
+  "evidence_pmid": "4041306",
+  "quote": "appearance of each bleb was noted 5—10 min after … injection, by which time the initial distension had … disappeared. Colour changes were classified as … pink, nil or pale. Any haemorrhagic changes were … recorded.",
+  "proposed_wording": "Flux and block duration have never been measured in the same wheal. The one human intradermal study that recorded vasoactivity and duration of action on the same blebs, Willatts and Reynolds 1985 (PMID 4041306), scored vasoactivity by eye as pink, nil or pale and reported it as the percentage frequency of colour change; it used no flowmeter, so it contributes a visual vasoactivity reading paired with a duration, not a flux measurement.",
+  "reason": "The claim survives as written, because it is about flux. Willatts and Reynolds 1985 does pair vasoactivity with duration in the same blebs - the same paired intradermal injections carried both the colour reading at 5-10 min and the pinprick timing to 50% recovery - but the vascular measure is entirely visual. The methods state that the appearance of each bleb was noted once the initial distension had gone and that colour changes were classified as pink, nil or pale, with haemorrhagic changes recorded; the results are given as the percentage frequency of local colour changes (figure 1). There is no laser Doppler, no flowmetry and no other instrument anywhere in the methods, the results or the figure legends, and the statistics applied to the vascular data are Chi-squared tests on proportions of colour change. So the paper narrows nothing about flux: it is a colour-versus-duration study, not a flux-versus-duration study.",
+  "needs_full_text": [],
+  "_source_line": 2711,
+  "_note": "page lists three partial hits (Yamashiro 2016, Bernards & Kopacz 1999, Liu 1995) | S-686-40 full text read: vasoactivity scored visually, not instrumented, so the flux element of the claim is untouched.",
+  "pmid": "8067217",
+  "paper_id": "S-686-40",
+  "_resolved_by": "S-686-40 full text"
+ },
+ {
+  "claim_id": "W-R021",
+  "page": "Ropivacaine Wheals",
+  "page_url": "https://app.notion.com/p/2c010b7903aa83a0b9e3813036c9d26e",
+  "page_version": "2026-10-02T03:14:26.511Z",
+  "section": "15.7 Papers named but not obtained; Supporting literature collected by Newton 2004 (line 1071)",
+  "claim": "The only paper reporting a direct vasoconstriction/duration correlation",
+  "elements_said_absent": {
+   "population": "any",
+   "intervention": "epinephrine / local anaesthetic",
+   "design": "any",
+   "outcome": "direct vasoconstriction-duration correlation",
+   "other": ""
+  },
+  "queries": [
+   {
+    "query": "EXT_ID:4041306",
+    "engine": "europepmc",
+    "hitCount": 1,
+    "note": "record check only; the two claims below are decided from the full text in $H/texts/S-686-40.txt, not from a literature search"
+   }
+  ],
+  "records_read": [
+   {
+    "pmid": "4041306",
+    "year": "1985",
+    "first_author": "Willatts",
+    "title": "Comparison of the vasoactivity of amide and ester local anaesthetics. An intradermal study",
+    "design": "double-blind within-subject volunteer study, intradermal, six agents at three concentrations each in the same 10 subjects, run in two parts",
+    "n": "10",
+    "source": "full text read in this session"
+   },
+   {
+    "pmid": "4041306",
+    "matches": "states that the steepness of each drug's log concentration-duration slope reflected its observed vasoactivity, and tests the differences between the six slopes, but reports no correlation statistic between vasoactivity and duration"
+   }
+  ],
+  "verdict": "narrowed",
+  "uncertain": false,
+  "evidence_pmid": "4041306",
+  "quote": "There was a highly significant difference … between the slopes (P < 0.001; Ftest). In general, … the steepness of the slope reflected the observed … vasoactivity of the agent; there was a significant … difference (P < 0.05) between the slopes of … procaine and mepivacaine, cinchocaine and prilo… caine, and between those of amethocaine and … mepivacaine.",
+  "proposed_wording": "Liu 1995 is the only paper reporting a quantified vasoconstriction/duration correlation. A second paper, Willatts and Reynolds 1985 (PMID 4041306), reports the relationship qualitatively in human skin: it states that the steepness of each drug's log concentration-duration slope in general reflected that drug's observed vasoactivity, and it tests the differences between the six slopes statistically, but it reports no correlation coefficient or other statistic linking vasoactivity to duration, and it opens its discussion by calling that relationship not straightforward.",
+  "reason": "What the paper actually reports is a stated-but-unquantified correspondence, not a measured correlation, so the claim is narrowed rather than refuted. The statistics it reports are a one-way analysis of variance on the six log-transformed slopes (P < 0.001 by F test) with pairwise differences at P < 0.05, and Chi-squared tests on the proportions of colour change; no coefficient, regression or test ever links a vasoactivity score to a duration. The link is asserted in words - the summary says the slopes of the log dose-duration plots reflect the observed vasoactivity, the results say that in general the steepness of the slope reflected the observed vasoactivity of the agent, and the discussion says the vasodilatation of the two esters and the vasoconstriction of mepivacaine were associated with slope differences in the expected direction compared with the three agents whose vasoactivity was less marked and more variable. The two statements the page sets against each other are not in conflict, because they are about different outcomes: the explicit denial, that comparison of figures 1 and 2 demonstrates no relationship between vasoactivity and initial analgesic activity, concerns how well each drug blocked at the start, while the asserted correspondence concerns how steeply duration rose with concentration. The paper's own discussion opens by calling the relationship between vasoactivity and duration not straightforward, which is the authors' own calibration of how firm that correspondence is.",
+  "needs_full_text": [],
+  "_source_line": 3053,
+  "_note": "only-study claim about Liu 1995 | S-686-40 full text read: reports a qualitative vasoactivity/duration-slope correspondence with no correlation statistic, and an explicit absence of relationship with INITIAL analgesic activity, which is a different outcome.",
+  "pmid": "4041306",
+  "paper_id": "S-686-40",
+  "_resolved_by": "S-686-40 full text"
+ }
+]

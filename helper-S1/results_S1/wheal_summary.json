@@ -82,11 +82,11 @@
    }
   ],
   "verdicts": {
-   "confirmed": 10,
-   "narrowed": 12,
+   "confirmed": 11,
+   "narrowed": 11,
    "out-of-scope": 1,
    "refuted": 8
   },
-  "uncertain": 2
+  "uncertain": 0
  }
 ]
