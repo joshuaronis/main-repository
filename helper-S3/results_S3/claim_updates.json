@@ -219,5 +219,18 @@
   "page": 7,
   "proposed_wording": "",
   "reason": "One more objective skin measure besides intraepidermal fibre density: dermal and epidermal nerve fibre length by confocal PGP 9.5 immunofluorescence, shorter in diabetes and used as a treatment outcome. The claim stays refuted (see also the Hart 2004 entry)."
+ },
+ {
+  "claim_id": "C010",
+  "paper_id": "S-686-15",
+  "pmid": "25800040",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Intradermal administration with [dose figure omitted] of BTX-A or normal saline solution (placebo) … Double-blind crossover trial of intradermal BTX-A for diabetic neuropathic pain",
+  "page": 3,
+  "proposed_wording": "Wang C, Zhang Q, Wang R, Xu L. … — The largest pooled analysis whose trials were all intradermal: four randomized trials, 231 patients. Its abstract gives no route criterion; every trial it found was intradermal. An earlier meta-analysis, Lakhan 2015 (Pain Medicine, PMID 25800040), pooled two randomized placebo-controlled trials in painful diabetic neuropathy, Yuan 2009 and Ghasemi 2014, both intradermal (58 patients), to a VAS difference of −1.96 (95% CI −3.09 to −0.84).",
+  "reason": "Answer to the open question. Lakhan pooled exactly two trials: Yuan 2009 (Neurology, PMID 19246421; double-blind crossover, onabotulinumtoxinA, 18 analysed) and Ghasemi 2014 (J Res Med Sci, PMID 24778662; double-blind parallel, abobotulinumtoxinA, 40 patients). Its Table 2 describes both as intradermal, into the dorsum of the foot (p. 3), and the results restate the shared grid (p. 6). A third trial, Chen 2013 (PMID 23462284), was excluded as a duplicate report of Yuan. Route was not an inclusion criterion: the review took AAN class I/II double-blind placebo-controlled trials in painful diabetic neuropathy (pp. 2, 5). Wang 2021's abstract does not give one either ('RCTs were included if they were related to the treatment of DPN pain with BTX-A'). Both reviews are therefore restricted to the intradermal route in the same sense, by what they found, and Wang's is not the only one. Lakhan adds no trial that Wang 2021 and the Notion pages do not already cover: Ghasemi is cited on the botulinum page and both trials in Reference S150. Its pooled estimate also counts the crossover patients in both arms (58 patients, 76 treatments)."
  }
 ]

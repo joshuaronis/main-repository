@@ -1,0 +1,99 @@
+{
+ "paper_id": "S-686-15",
+ "citation": "Lakhan SE, Velasco DN, Tepper D. Botulinum toxin-A for painful diabetic neuropathy: a meta-analysis. Pain Med 2015;16(9):1773–1780",
+ "pmid": "25800040",
+ "doi": "10.1111/pme.12728",
+ "right_paper": true,
+ "text_quality": "ok: 8-page early-view PDF paginated 1–8 (published as 16(9):1773–80), two columns. In the text layer minus signs come out as '2' (e.g. '23.09' for '−3.09'), '=' as '5' and '×' as '3'; figures were checked against the PubMed abstract. Forest and funnel plots are images and were not read.",
+ "design": "Systematic review and meta-analysis of randomised, double-blind, placebo-controlled trials of BTX-A in painful diabetic neuropathy that met American Academy of Neurology class I or II criteria. Other neuropathic pain conditions were excluded; route was not an inclusion criterion. Searched MEDLINE/PubMed, EMBASE, Cochrane libraries and bibliographies with the terms 'botulinum' and 'neuropathic pain', last search 16 August 2014, and asked authors for unpublished data. 159 records gave three trials. Chen 2013 was dropped as a duplicate report of Yuan 2009, leaving Yuan 2009 (crossover) and Ghasemi 2014 (parallel). RevMan 5.3; the effect model is not stated in the text; Z test, Chi² and I², funnel plot. Reviewer's observations: the pooled analysis counts 58 patients as 76 treatments, so the crossover trial's patients sit in both arms with no stated adjustment for the paired design. A 3-week (Ghasemi) and a 4-week (Yuan) VAS change are pooled as one time point. Both trials were rated unclear risk for random sequence generation and allocation concealment, yet the overall risk of bias is called low.",
+ "population": "Adults with painful diabetic neuropathy. Yuan 2009: 20 patients with type 2 diabetes for at least 3 years and neuropathic pain in both feet, 18 analysed. Ghasemi 2014: 40 patients with diabetic neuropathy confirmed by DN4 and nerve conduction, Isfahan, Iran. Pooled: 51.7% women, mean age 62.",
+ "n": "2 trials; 58 patients contributing 76 treatment exposures (crossover patients counted in both arms).",
+ "setting": "Review by the Global Neuroscience Initiative Foundation (Los Angeles/Boston) and Cleveland Clinic. Included trials: Ghasemi from two Isfahan University hospitals; Yuan's centre not stated in the review.",
+ "intervention": "Intradermal BTX-A into the dorsum of the foot on a fixed, equally spaced grid ([dose figure omitted]): onabotulinumtoxinA in Yuan 2009 (both feet), abobotulinumtoxinA in Ghasemi 2014 (affected foot). One treatment per period.",
+ "comparator": "Normal saline placebo, injected the same way.",
+ "route": "intradermal (both included trials; not an inclusion criterion)",
+ "duration": "Single injection session per period. The pooled pain outcome is at 3 weeks (Ghasemi) and 4 weeks (Yuan); trial follow-up 3–12 weeks; Yuan crossed over at 12 weeks.",
+ "outcomes": "Primary: change in pain VAS (0–10) from baseline. Secondary: adverse effects as a 2×2 table (one injection-site infection, P=0.49). Pooled VAS difference −1.96 (95% CI −3.09 to −0.84), Z=3.43, P<0.001, I²=0%.",
+ "key_results": [
+  {
+   "quote": "This article is a meta-analysis of two studies using BTX-A in the treatment of neuropathic pain.",
+   "page": 1
+  },
+  {
+   "quote": "This review included class I and class II, prospective, double-blind, placebo controlled trials based on the criteria published by the American Academy of Neurology classification of evidence for therapeutic trials",
+   "page": 2
+  },
+  {
+   "quote": "We searched for randomized trials of botulinum toxin for diabetic neuropathy using MEDLINE/PubMed, EMBASE,",
+   "page": 4
+  },
+  {
+   "quote": "The last search date was August 16, 2014.",
+   "page": 4
+  },
+  {
+   "quote": "A randomized double-blind placebo-controlled clinical trial study.",
+   "page": 3
+  },
+  {
+   "quote": "Intradermal administration with [dose figure omitted] of BTX-A or normal saline solution (placebo)",
+   "page": 3
+  },
+  {
+   "quote": "Double-blind crossover trial of intradermal BTX-A for diabetic neuropathic pain",
+   "page": 3
+  },
+  {
+   "quote": "Combining the two qualifying studies, there were a total of 58 patients receiving a sum of 76 treatments for PDN randomly allocated to placebo or BTX-A injected on the dorsum of the foot",
+   "page": 6
+  },
+  {
+   "quote": "Both included studies used BTX-A for the injections, the Yuan et al. study used OnabotulinumA while the Ghasemi et al. study used AbobotulinumtoxinA",
+   "page": 6
+  },
+  {
+   "quote": "The excluded study, Chen et al., was a duplicate study of Yuan et al.",
+   "page": 6
+  },
+  {
+   "quote": "The randomized placebo controlled trials of BTX-A treatment compared to placebo in treatment of PDN showed a significant overall pain reduction at 3–4 weeks by 1.96 points on the 10-point VAS of pain",
+   "page": 7
+  },
+  {
+   "quote": "There were unclear risks of bias in both the Yuan et al. and Ghasemi et al. studies with regards to random sequence generation and allocation biases",
+   "page": 7
+  },
+  {
+   "quote": "The overall risk of bias is low.",
+   "page": 7
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Ultimately only two studies met criteria for inclusion. Our results could have biases, particularly given that the meta-analysis is based on assumptions of normality for tests of significance. Also, the outcomes available were only aggregate data which is also a source of potential bias.",
+   "page": 7
+  },
+  {
+   "quote": "although the improvement in pain scores was small",
+   "page": 7
+  }
+ ],
+ "funding_conflicts": "The authors state no relevant source of funding and no conflict of interest (p. 1).",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Yuan RY, Sheu JJ, Yu JM, et al. Botulinum toxin for diabetic neuropathic pain: a randomized double-blind crossover trial. Neurology 2009;72(17):1473–8",
+   "pmid": "19246421",
+   "why": "One of the two pooled trials: intradermal onabotulinumtoxinA, crossover, 18 analysed."
+  },
+  {
+   "citation": "Ghasemi M, Ansari M, Basiri K, et al. The effects of intradermal botulinum toxin type A injections on pain symptoms of patients with diabetic neuropathy. J Res Med Sci 2014;19(2):106–11",
+   "pmid": "24778662",
+   "why": "The other pooled trial: intradermal abobotulinumtoxinA, parallel, 40 patients; already cited on the botulinum page and Reference S150."
+  },
+  {
+   "citation": "Chen WT, Yuan RY, Chiang SC, et al. OnabotulinumtoxinA improves tactile and mechanical pain perception in painful diabetic polyneuropathy. Clin J Pain 2013;29(4):305–10",
+   "pmid": "23462284",
+   "why": "Excluded as a duplicate report of the Yuan trial (tactile and pain thresholds from the same patients). Count it once with Yuan, not as a separate trial."
+  }
+ ]
+}

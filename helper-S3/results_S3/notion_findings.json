@@ -343,5 +343,50 @@
   "corrected_wording": "a research letter, published without an abstract: epalrestat in 19 patients with type 2 diabetic neuropathy against 12 controls for 13 months (allocation and blinding not described), skin biopsies scored for nerve fibre length; epidermal length unchanged, dermal length up (8 of 19 against 1 of 12 beyond the control range), with ultrastructure 'compatible with regenerating nerve fibers'. It is the entire skin-biopsy literature for this class in the marketed era. Limits: a letter, 31–32 patients, non-randomised as far as reported, and null in the epidermis.",
   "importance": "low",
   "notes": "The entry and A026/A027 were written without the letter's text (the record flagged it as unread). Every element is now verified from the full text."
+ },
+ {
+  "finding_id": "S3-F024",
+  "paper_id": "S-686-15",
+  "page": "botulinum-toxin-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81e7ba6aff740e868a71",
+  "page_version": "2026-10-02T03:14:16.296Z",
+  "section": "Sources > The intradermal pooled evidence and the burning-specific result (Wang 2021 entry)",
+  "sentence_as_it_stands": "The only pooled analysis restricted to the intradermal route: four randomized trials, 231 patients, of which three reported a visual analogue score and pool to −2.52 (95 percent CI −3.06 to −1.99), p<0.001, I² = 0.",
+  "kind": "overstated",
+  "quote": "Intradermal administration with [dose figure omitted] of BTX-A or normal saline solution (placebo) … Double-blind crossover trial of intradermal BTX-A for diabetic neuropathic pain",
+  "page_in_paper": 3,
+  "corrected_wording": "The largest pooled analysis whose trials were all intradermal: four randomized trials, 231 patients, of which three reported a visual analogue score and pool to −2.52 (95 percent CI −3.06 to −1.99), p<0.001, I² = 0. An earlier meta-analysis, Lakhan 2015 (Pain Medicine, PMID 25800040), pooled two randomized placebo-controlled trials in painful diabetic neuropathy, Yuan 2009 and Ghasemi 2014, both intradermal (58 patients; −1.96, 95 percent CI −3.09 to −0.84). Neither review states a route criterion; every trial each found was intradermal.",
+  "importance": "low",
+  "notes": "Claim C010. Lakhan adds no trial the page lacks: Ghasemi 2014 is in these Sources and Yuan 2009 is in Reference S150. The 76 'treatments' come from counting the crossover patients in both arms. Wang 2021's inclusion criterion comes from its PubMed abstract only. The body paragraph headed 'The pooled evidence for the intradermal route specifically' ('One systematic review covers only trials of intradermal botulinum toxin A…') is accurate as written."
+ },
+ {
+  "finding_id": "S3-F025",
+  "paper_id": "S-686-15",
+  "page": "botulinum-toxin-wheals",
+  "page_url": "https://app.notion.com/p/3c510b7903aa81e7ba6aff740e868a71",
+  "page_version": "2026-10-02T03:14:16.296Z",
+  "section": "What the evidence shows",
+  "sentence_as_it_stands": "The trial that used the intradermal route specifically. Ranoux and colleagues (2008) gave 29 patients with focal painful neuropathies a single intradermal administration of [dose figure omitted] into the painful area.",
+  "kind": "understated",
+  "quote": "Intradermal administration with [dose figure omitted] of BTX-A or normal saline solution (placebo) … Double-blind crossover trial of intradermal BTX-A for diabetic neuropathic pain",
+  "page_in_paper": 3,
+  "corrected_wording": "A randomised trial of the intradermal route in focal painful neuropathies. Ranoux and colleagues (2008) gave 29 patients with focal painful neuropathies a single intradermal administration of [dose figure omitted] into the painful area.",
+  "importance": "low",
+  "notes": "The heading reads as if Ranoux 2008 were the only intradermal trial. Two randomised placebo-controlled intradermal trials in painful diabetic neuropathy (Yuan 2009, Ghasemi 2014) were pooled in 2015, and the page's own pooled-evidence paragraph counts four intradermal trials. Wording only."
+ },
+ {
+  "finding_id": "S3-F026",
+  "paper_id": "S-686-15",
+  "page": "1 — Product Guide — Topical Treatments for Small Fiber Neuropathy",
+  "page_url": "https://app.notion.com/p/3d410b7903aa81c0815ad3c7c6c2d17f",
+  "page_version": "2026-10-02T03:14:29.224Z",
+  "section": "Ranks 1 and 2 > 1 · Intradermal botulinum toxin A (opening paragraph)",
+  "sentence_as_it_stands": "and in the randomised trial of the intradermal route specifically, a number needed to treat of 3.03 at twelve weeks, with the response correlating with preserved thermal sensation at baseline.",
+  "kind": "understated",
+  "quote": "Intradermal administration with [dose figure omitted] of BTX-A or normal saline solution (placebo) … Double-blind crossover trial of intradermal BTX-A for diabetic neuropathic pain",
+  "page_in_paper": 3,
+  "corrected_wording": "and in a randomised trial of the intradermal route in focal painful neuropathies (Ranoux 2008), a number needed to treat of 3.03 at twelve weeks, with the response correlating with preserved thermal sensation at baseline; the other randomised intradermal trials are in painful diabetic polyneuropathy.",
+  "importance": "low",
+  "notes": "'The randomised trial' reads as one trial. Yuan 2009 and Ghasemi 2014 are also randomised, placebo-controlled and intradermal (Lakhan 2015, Table 2), and the same entry later cites the four-trial intradermal review. Wording only."
  }
 ]

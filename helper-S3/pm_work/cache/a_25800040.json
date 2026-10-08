@@ -1,0 +1,15 @@
+{
+ "pmid": "25800040",
+ "year": "2015",
+ "first_author": "Lakhan SE",
+ "title": "Botulinum Toxin-A for Painful Diabetic Neuropathy: A Meta-Analysis.",
+ "journal": "Pain Med",
+ "pubtypes": [
+  "Journal Article",
+  "Meta-Analysis"
+ ],
+ "doi": "10.1111/pme.12728",
+ "pmcid": "",
+ "abstract": "Painful diabetic neuropathy (PDN) is a debilitating complication of diabetes that greatly affects the quality of life of those afflicted. There are many treatment options for neuropathic pain. Recent studies show a promising analgesic effect using botulinum toxin-A (BTX-A) for neuropathic pain.\n\nThis article is a meta-analysis of two studies using BTX-A in the treatment of neuropathic pain. Electronic searches of MEDLINE/PubMed, EMBASE, and Cochrane Libraries using the terms \"botulinum neurotoxin\" and \"neuropathic pain\" were conducted. Only class I and class II therapeutic trials, as classified by the American Academy of Neurology were included. The primary outcome measured was the difference in visual analogue scale (VAS) from pre-intervention and post-intervention after 1 month. Data were analyzed for biases and heterogeneity following Cochrane and PRISMA guidelines.\n\nTwo studies on PDN were analyzed in the meta-analysis showing improvement of 1.96 VAS points (95% CI, -3.09 to -0.84; Z score = 3.43, P < 0.001) following treatment with BTX-A. This corresponds to clinically significant improvement of \"minimum change in pain.\" The adverse effects of infection at injection site was not statistically significant (P = 0.49). BTX-A may be effective for PDN.\n\nTests for significance, low overall risk of bias, and almost no statistical heterogeneity suggests that there is a correlation between BTX-A and improvement of pain scores in PDN. Further large-scale controlled trials are needed.",
+ "source": "PubMed connector get_article_metadata, retrieved 2026-10-08T14:48:17Z"
+}

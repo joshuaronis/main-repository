@@ -185,5 +185,38 @@
    "searched-for-and-absent",
    "Non-drug"
   ]
+ },
+ {
+  "paper_id": "S-686-15",
+  "notion_searches": [
+   "Lakhan 2015 botulinum toxin painful diabetic neuropathy meta-analysis",
+   "only pooled analysis restricted to the intradermal route botulinum",
+   "Lakhan Velasco Tepper Pain Medicine 2015",
+   "(cached pages searched for Lakhan, 25800040, pme.12728, Wang C, 34938114, Yuan, Ghasemi, 'only pooled', 'intradermal route specifically')"
+  ],
+  "pages_fetched": [
+   {
+    "page": "botulinum-toxin-wheals",
+    "url": "https://app.notion.com/p/3c510b7903aa81e7ba6aff740e868a71",
+    "as_of": "2026-10-02T03:14:16.296Z"
+   },
+   {
+    "page": "1 — Product Guide (cached copy)",
+    "url": "https://app.notion.com/p/3d410b7903aa81c0815ad3c7c6c2d17f",
+    "as_of": "2026-10-02T03:14:29.224Z"
+   },
+   {
+    "page": "2 — Reference (cached copy; §4.11 and S150)",
+    "url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
+    "as_of": "2026-10-01T02:05:48.095Z"
+   }
+  ],
+  "method": "Fetched the botulinum page and searched the cached Reference, Guide, Unsettled, Searched-absent and What-transfers copies; read the passages around each hit. Search highlights for the Botox, Dysport and intradermal-session product pages were read and match the paper; those pages were not fetched.",
+  "no_mention_found_on": [
+   "Lakhan 2015 is cited on no page found",
+   "Unsettled",
+   "Searched-absent",
+   "What transfers"
+  ]
  }
 ]
