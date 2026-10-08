@@ -102,5 +102,70 @@
   "page": 8,
   "proposed_wording": "Intraepidermal nerve fibre density is the standard objective measure of nerve loss in skin; sweat gland nerve fibre density, dermal fibre diameter, perivascular axon-Schwann ratios and quantified immunostaining area of epidermal, dermal and sweat-gland nerves are others, all requiring a biopsy.",
   "reason": "One more objective skin measure: Hart 2004 quantified the immunostaining area of PGP 9.5, CGRP and VIP fibres in epidermis, dermis and sweat glands under blinded image analysis, and cites earlier work relating such quantification to clinical neuropathy tests in diabetes and leprosy (refs 32–34). The claim's uniqueness wording stays refuted."
+ },
+ {
+  "claim_id": "A019",
+  "paper_id": "S-686-02",
+  "pmid": "32453094",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Both male and female subjects between 18 and 70 years of age with a diagnosis of idiopathic SFN were included in this study.",
+  "page": 2,
+  "proposed_wording": "That anything on this page regenerates nerve in idiopathic small fibre neuropathy. One agent here has been tested in that population with a skin endpoint, and fibre density did not move: electrical stimulation of one leg for 60 days in eight people with idiopathic SFN, the other leg serving as an untreated control (Burakgazi 2020).",
+  "reason": "The full text answers both parts of the open question. The subjects had idiopathic SFN: it is the inclusion criterion, and diabetes, abnormal HbA1c, vitamin deficiency, alcohol abuse and chemotherapy were excluded. The comparison was the subject's own contralateral leg, chosen by the subject, with no randomisation and no sham. That matches every element of 'no trial of any agent here has been run in that population with a skin endpoint': an agent on the page (electrical stimulation), idiopathic SFN, a prospective interventional study with an untreated control limb, and a skin (IENFD) endpoint. The first sentence still stands, since no regeneration was shown (1 of 8 grew)."
+ },
+ {
+  "claim_id": "A015",
+  "paper_id": "S-686-02",
+  "pmid": "32453094",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "ENS therapy for this study was delivered to 1 leg using an AvivaStim XP stimulator, with the contralateral leg serving as an untreated control.",
+  "page": 3,
+  "proposed_wording": "Two structural device studies have been run in small fibre polyneuropathy: electrical stimulation of one leg in eight people with idiopathic SFN, the other leg untreated (no growth at 60 days), and an uncontrolled 19-patient spinal cord stimulation cohort of mixed causes, nine idiopathic, in which distal skin fibre density rose 22% at 12 months.",
+  "reason": "The full text confirms the page's description (eight subjects, biopsies at 30 and 60 days, no meaningful growth; 1 of 8 grew) and adds that the population was idiopathic SFN and the control was each subject's untreated leg. The refutation itself rests on Canós-Verdecho 2025 and is unchanged."
+ },
+ {
+  "claim_id": "A017",
+  "paper_id": "S-686-02",
+  "pmid": "32453094",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "This study was sponsored by Research Acceleration Program of Carilion Clinic (intramural grant) Roanoke, VA.",
+  "page": 1,
+  "proposed_wording": "",
+  "reason": "Settles the record's 'registration unknown' for Burakgazi 2020: the full text gives no trial registration, only an intramural grant and local IRB approval. So it is not a registered interventional trial and does not bear on 'first registered trial'. The refutation rests on the cibinetide and IVIG trials and is unchanged."
+ },
+ {
+  "claim_id": "A081",
+  "paper_id": "S-686-02",
+  "pmid": "32453094",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Both male and female subjects between 18 and 70 years of age with a diagnosis of idiopathic SFN were included in this study.",
+  "page": 2,
+  "proposed_wording": "Burakgazi 2020, in eight people with idiopathic SFN, is one of only a handful of device studies in small fibre neuropathy, all small and uncontrolled: spinal cord stimulation with 12-month biopsies (Canós-Verdecho 2025, 19 patients), postural insoles (12 SFN patients), scrambler therapy, and case reports of spinal cord and DRG stimulation.",
+  "reason": "The full text shows Burakgazi's population was idiopathic SFN, so 'this exact disease' fits it if the page means idiopathic SFN. The claim stays refuted because other device studies in SFN exist, one of them a case report of spinal cord stimulation in idiopathic SFN (Mohabbati 2024)."
+ },
+ {
+  "claim_id": "A082",
+  "paper_id": "S-686-02",
+  "pmid": "32453094",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "ENS therapy for this study was delivered to 1 leg using an AvivaStim XP stimulator, with the contralateral leg serving as an untreated control.",
+  "page": 3,
+  "proposed_wording": "NCT07805057 would be the first sham-controlled device trial in skin-biopsy-proven idiopathic SFN; drugs have already been tested against placebo in this condition (IVIG, Geerts 2021, n=60, null; gabapentin and tramadol, Ho 2009; vixotrigine, CONVEY 2023), and one device has been tested without a sham, against an untreated leg (electrical stimulation, Burakgazi 2020, n=8, null).",
+  "reason": "Burakgazi 2020 tested a device in idiopathic SFN with an untreated contralateral leg rather than a sham, so 'nothing in this condition has yet been tested' is wrong for devices too. 'First sham-controlled device trial' remains true. The paper does not say whether its subjects' SFN was biopsy-proven ('previously diagnosed SFN')."
  }
 ]

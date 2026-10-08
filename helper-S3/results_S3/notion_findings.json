@@ -283,5 +283,35 @@
   "corrected_wording": "That is the only intraepidermal fibre count in the acetyl-L-carnitine literature and it is flat; the only other skin-biopsy dataset, also uncontrolled and at the same dose, measured immunostaining area and reported small-fibre increases (Hart 2004).",
   "importance": "medium",
   "notes": "The page's verdict for ALC ('DOES NOT TRANSFER — wrong fibre class') does not depend on this sentence, since neither skin dataset is controlled, but the 'only … and it is flat' wording and 'Skin measured once' are wrong."
+ },
+ {
+  "finding_id": "S3-F020",
+  "paper_id": "S-686-02",
+  "page": "Non-drug treatments for SFN — what survives blinding, and what you can get in Mexico",
+  "page_url": "https://app.notion.com/p/3d410b7903aa81459170f45b4b02f289",
+  "page_version": "2026-09-22T09:09:37.946Z",
+  "section": "Sources > The devices that failed blinding (Burakgazi entry)",
+  "sentence_as_it_stands": "Burakgazi AZ. Efficacy of electrical stimulation on nerve fiber growth in small fiber neuropathy. J Clin Neuromuscul Dis 2020;21(4):198–202.",
+  "kind": "citation-error",
+  "quote": "( J Clin Neuromusc Dis 2020;21:187–194)",
+  "page_in_paper": 1,
+  "corrected_wording": "Burakgazi AZ. Efficacy of electrical stimulation on nerve fiber growth in small fiber neuropathy. J Clin Neuromuscul Dis 2020;21(4):187–194.",
+  "importance": "medium",
+  "notes": "The page range is wrong; the Growing Back Nerves page and the Reference (S245) give 187–194 correctly."
+ },
+ {
+  "finding_id": "S3-F021",
+  "paper_id": "S-686-02",
+  "page": "Non-drug treatments for SFN — what survives blinding, and what you can get in Mexico",
+  "page_url": "https://app.notion.com/p/3d410b7903aa81459170f45b4b02f289",
+  "page_version": "2026-09-22T09:09:37.946Z",
+  "section": "The devices that failed blinding ('One more null belongs here…' paragraph); same wording in the Sources entry",
+  "sentence_as_it_stands": "Burakgazi 2020 studied eight subjects with previously diagnosed small fibre neuropathy, with punch biopsies before electrical nerve stimulation therapy and at 30 and 60 days",
+  "kind": "understated",
+  "quote": "Both male and female subjects between 18 and 70 years of age with a diagnosis of idiopathic SFN were included in this study. … ENS therapy for this study was delivered to 1 leg using an AvivaStim XP stimulator, with the contralateral leg serving as an untreated control.",
+  "page_in_paper": 2,
+  "corrected_wording": "Burakgazi 2020 studied eight subjects with idiopathic small fibre neuropathy, stimulating the calf muscles of one leg for 60 days with the other leg as an untreated control (no sham, leg chosen by the subject), with punch biopsies of both legs at baseline, 30 and 60 days",
+  "importance": "low",
+  "notes": "The quoted 'treated group compared with the untreated group' refers to the treated and untreated legs of the same eight people, not two groups. The full text confirms the population is the page's 'exact disease' if that means idiopathic SFN."
  }
 ]

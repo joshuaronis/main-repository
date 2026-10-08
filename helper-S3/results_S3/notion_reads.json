@@ -116,5 +116,36 @@
    "Product Guide (ALC passage does not discuss skin biopsies)",
    "Growing Back Nerves page cites neither Hart nor Valcour (A020–A022 cover it)"
   ]
+ },
+ {
+  "paper_id": "S-686-02",
+  "notion_searches": [
+   "Burakgazi electrical stimulation small fiber neuropathy skin biopsy",
+   "32453094"
+  ],
+  "pages_fetched": [
+   {
+    "page": "Non-drug treatments for SFN",
+    "url": "https://app.notion.com/p/3d410b7903aa81459170f45b4b02f289",
+    "as_of": "2026-09-22T09:09:37.946Z"
+   },
+   {
+    "page": "Growing Back Nerves, Reference, Product Guide, What transfers, before-and-after biopsy, unsettled, searched-for-and-absent (cached copies)",
+    "url": "",
+    "as_of": "see earlier entries"
+   }
+  ],
+  "method": "Full text of each page searched for Burakgazi, 32453094, the DOI, AvivaStim and electrical-stimulation sentences; passages around each hit read.",
+  "no_mention_found_on": [
+   "What is still unsettled",
+   "What was searched for and does not exist",
+   "Why a before-and-after skin biopsy…",
+   "What transfers (only as co-author of Khoshnoodi 2016)"
+  ],
+  "accurate_mentions": [
+   "Growing Back Nerves (Devices; Sources: 'one of only two studies here run in this exact condition')",
+   "Reference §6.12 and S245",
+   "Product Guide Part Four"
+  ]
  }
 ]

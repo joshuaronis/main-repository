@@ -1,0 +1,87 @@
+{
+ "paper_id": "S-686-02",
+ "citation": "Burakgazi AZ. Efficacy of Electrical Stimulation on Nerve Fiber Growth in Small Fiber Neuropathy. J Clin Neuromuscul Dis 2020;21(4):187–194",
+ "pmid": "32453094",
+ "doi": "10.1097/CND.0000000000000280",
+ "right_paper": true,
+ "text_quality": "ok: publisher PDF with a text layer, 8 pages, complete (Table 1, Figs 1–2 legends, references). '±' extracts as '6' and minus signs in Table 1 as '2'. Page numbers here are PDF pages (PDF 1–8 = journal pages 187–194).",
+ "design": "Prospective single-centre within-subject comparison, not randomised and not sham-controlled: each subject's ENS-treated leg against the contralateral untreated leg, the treated leg chosen by the subject. Skin biopsies read blind (Johns Hopkins Cutaneous Nerve Laboratory). Mixed-model regression and repeated-measures ANOVA.",
+ "population": "Adults 18–70 with a diagnosis of idiopathic SFN. Excluded: cancer, heart disease, diabetes, vitamin deficiency, alcohol abuse, peripheral vascular disease, abnormal HbA1c, prior chemotherapy, electronic implants. Analysed: 8 (6 women, 2 men), mean age 52 ± 7, range 44–60; 2 had no detectable IENFD at baseline. How SFN was originally diagnosed is not stated ('previously diagnosed SFN').",
+ "n": "9 recruited, 1 removed for not following the protocol, 8 analysed; treated leg vs untreated leg in each (n=8 for IENFD; NCS n=4–6 per measure, baseline NCS done in only 2, older results used for 6).",
+ "setting": "Carilion Clinic, Roanoke, Virginia, USA; recruitment January–September 2016.",
+ "intervention": "Home neuromuscular electrical stimulation (AvivaStim XP, program 3: 50 Hz, 10 s contraction / 20 s rest) with 4 electrodes on the calf muscles (gastrocnemius and tibialis anterior) of one leg, 30 minutes, 3 days a week, for 60 days.",
+ "comparator": "The subject's other, untreated leg (no sham stimulation).",
+ "route": "transcutaneous electrical stimulation (device)",
+ "duration": "60 days; assessments at baseline, day 30 and day 60.",
+ "outcomes": "IENFD (3-mm punch biopsies 10 cm above the lateral malleolus, both legs, at each visit, PGP 9.5, blinded reading); nerve conduction (sural, superficial peroneal, tibial and peroneal motor); revised Total Neuropathy Score; symptoms by report.",
+ "key_results": [
+  {
+   "quote": "IENFD measurements on day 30 and day 60 did not show statistically significant changes in the treated group compared with the untreated group.",
+   "page": 4
+  },
+  {
+   "quote": "Only 1 subject showed some degree of meaningful growth in IENFD (IENFD was 9.8 fibers/mm on day 0; 13.3 fibers/mm on day 30; and 17.1 fibers/mm on day 60)",
+   "page": 4
+  },
+  {
+   "quote": "There was no IENFD detected in 2 of the subjects with no meaningful growth.",
+   "page": 4
+  },
+  {
+   "quote": "Subjects did not report any remarkable changes in their neuropathic symptoms.",
+   "page": 3
+  },
+  {
+   "quote": "Despite the success of previous animal studies, no meaningful nerve growth and regeneration in SFN was demonstrated with ENS therapy in this study.",
+   "page": 1
+  },
+  {
+   "quote": "Both male and female subjects between 18 and 70 years of age with a diagnosis of idiopathic SFN were included in this study.",
+   "page": 2
+  },
+  {
+   "quote": "ENS therapy for this study was delivered to 1 leg using an AvivaStim XP stimulator, with the contralateral leg serving as an untreated control.",
+   "page": 3
+  },
+  {
+   "quote": "Subjects selected which leg would receive the ENS at their baseline visit.",
+   "page": 3
+  },
+  {
+   "quote": "A trained and blinded technician then assessed the intraepidermal nerve fiber density (IENFD)",
+   "page": 3
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "This is a small study, which is its biggest limitation.",
+   "page": 7
+  },
+  {
+   "quote": "This may be attributed to the small sample size, stage of neuropathy, or the limited duration of the treatment.",
+   "page": 7
+  },
+  {
+   "quote": "Of the subjects enrolled in this study, 2 underwent NCS at the baseline visit while previous NCS findings were used for 6 subjects.",
+   "page": 3
+  }
+ ],
+ "funding_conflicts": "Carilion Clinic Research Acceleration Program (intramural grant); 'The author reports no conflicts of interest.' No trial registration is given. Internal inconsistencies: the abstract says 8 subjects and the methods 9; '54 biopsies (6 per patient)' (9 × 6) against '48 different measurements' in the discussion (8 × 6); the abstract's 'treated group compared with the untreated group' refers to legs within the same 8 people.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Polydefkis M, Hauer P, Sheth S, et al. The time course of epidermal nerve fiber regeneration: studies in normal controls and people with diabetes, with and without neuropathy. Brain 2004;127:1606–1615 (ref 9)",
+   "pmid": "",
+   "why": "Reference rate of epidermal reinnervation after capsaicin denervation in healthy people, which Burakgazi used to judge 'meaningful' growth; context for how fast IENFD can rise."
+  },
+  {
+   "citation": "Thakral G, Kim PJ, LaFontaine J, et al. Electrical stimulation as an adjunctive treatment of painful and sensory diabetic neuropathy. J Diabetes Sci Technol 2013;7:1202–1209 (ref 22)",
+   "pmid": "",
+   "why": "Review of 8 electrical-stimulation studies in diabetic neuropathy (symptoms only, no structural endpoints); context for the Non-drug page's device evidence. No claim turns on it."
+  },
+  {
+   "citation": "Klassen A, Racasan S, Gherman-Caprioara M, et al. High-tone external muscle stimulation in end-stage renal disease: effects on quality of life in patients with peripheral neuropathy. Clin Nephrol 2013;79(Suppl 1):S28–S33 (ref 23)",
+   "pmid": "",
+   "why": "Device evidence in uraemic neuropathy (quality of life); no claim turns on it."
+  }
+ ]
+}
