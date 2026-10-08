@@ -1,0 +1,120 @@
+{
+ "paper_id": "S-686-14",
+ "citation": "Kim JM, Goto H, Arakawa K. Duration of bupivacaine intradermal anesthesia when the bupivacaine is mixed with chloroprocaine. Anesth Analg 1979;58:364-366",
+ "pmid": "573558",
+ "doi": "10.1213/00000539-197909000-00003",
+ "right_paper": true,
+ "text_quality": "ocr - complete: all three journal pages (364-366) are present with abstract, introduction, methods, results, the duration table, the full discussion and all 12 references; nothing is missing. Two extraction artefacts. (1) The two print columns are interleaved line by line, so no sentence is contiguous in the file; every quote below is therefore joined with ' ... ' at each print line break, and nothing is elided at those joins. (2) OCR renders the plus-minus sign as 'f' or '+-', '<' as 'c' or '-=', and produces typos ('Lhloroprocaine' in the title, 'chloropmcaine', 'has bem', 'Penwalt' for Pennwalt).",
+ "design": "Double-blind, within-subject (paired) comparison: each of the 20 volunteers received all three solutions as separate intradermal wheals on the forearm, and the three durations were compared by paired Student's t test. NOT stated to be randomised - the words random, randomised, randomized, allocation, sequence and crossover do not appear anywhere in the paper, and no allocation or site-order method is described. 'Double-blind' is asserted but never unpacked: the paper does not say who was blinded, how the solutions were masked, or whether the pinprick assessor was the injector. Approved by the University of Kansas Human Subjects Committee; written informed consent obtained from each volunteer.",
+ "population": "20 healthy young human volunteers (no age, sex or skin-type breakdown given)",
+ "n": "20 volunteers, each receiving all three solutions; paired analysis, so no per-arm split - n = 20 for every comparison",
+ "setting": "Department of Anesthesiology, University of Kansas College of Health Sciences / University of Kansas Medical Center, Kansas City, Kansas, USA. Accepted for publication 4 May 1979.",
+ "intervention": "Three intradermal solutions, each given to every volunteer as a separate wheal: (1) chloroprocaine alone, (2) bupivacaine alone, (3) a mixture of equal volumes of chloroprocaine and bupivacaine. Answering this paper's own open question, the volume was 0.2 mL of solution per wheal; the mass and concentration of each drug per wheal are at [dose figure omitted]. Commercially available preservative-free products were used, with normal saline used to dilute one of them.",
+ "comparator": "Each of the two drugs given alone, in the same volunteers, against the mixture - i.e. the mixture was compared both with bupivacaine alone and with chloroprocaine alone (two within-subject comparisons, not a parallel control group)",
+ "route": "Intradermal. Wheals were raised with a tuberculin syringe on the volar aspect of each volunteer's forearm, 0.2 mL per wheal; the authors themselves call these 'intradermal wheals'.",
+ "duration": "Single injection per site. Each site was tested by pinprick every 10 minutes until sensation had fully returned, so follow-up ran out to the longest observed duration (mean about 2.3 hours for bupivacaine alone, with an SD wide enough to imply individual sites tested well past 3 hours).",
+ "outcomes": "One outcome: duration of analgesia to pinprick at the injection site, timed from the moment of injection to the last reported analgesia - that is, timed to COMPLETE (full) recovery of sensation, not to half recovery or to the end of complete analgesia. Measured in 10-minute steps. Solution pH was also measured and reported for each of the three solutions.",
+ "key_results": [
+  {
+   "quote": "In a double-blind trial in 20 human volunteers, the duration of intradermal anesthesia with a",
+   "page": 1
+  },
+  {
+   "quote": "A double-blind study was performed on 20 healthy … young volunteers.",
+   "page": 1
+  },
+  {
+   "quote": "The Human Subjects Committee … of the University of Kansas Medical Center approved … the study. Informed consent was obtained from each … volunteer.",
+   "page": 1
+  },
+  {
+   "quote": "Using a tuberculin syringe, intradermal wheals … were raised on the volar aspect of each volunteer's … forearm with [dose figure omitted] of three local anesthetic solutions.",
+   "page": 2
+  },
+  {
+   "quote": "Following … the injections, analgesia to pinprick on the injection … site was determined every 10 minutes until full recov- … ery occurred.",
+   "page": 2
+  },
+  {
+   "quote": "The duration of analgesia was measured … from the time of injection to the last reported anal- … gesia at the site.",
+   "page": 2
+  },
+  {
+   "quote": "Statistical analysis was performed … using the Student's t test for paired data. Results are … expressed as means +- standard deviations.",
+   "page": 2
+  },
+  {
+   "quote": "In our study of intradermal anesthesia, the duration … of bupivacaine was significantly shortened when it … was added to chloroprocaine.",
+   "page": 2
+  },
+  {
+   "quote": "The dif- … ference in duration between the plain and com- … pounded bupivacaine is 103 minutes, compared to … only 12 minutes difference between the chloropro- … caine and mixture of chloropmcaine plus bupivacaine.",
+   "page": 2
+  },
+  {
+   "quote": "Statistical analysis revealed that the difference in … duration of action between bupivacaine alone and … bupivacaine plus chloroprocaine was highly signifi- … cant (p c 0.001), and that the difference in duration … of action between bupivacaine-chloroprocaine mix- … ture and chloroprocaine alone was also significant (p … -=0.01).",
+   "page": 2
+  },
+  {
+   "quote": "The difference in … duration of blockade between chloroprocaine and the … chloroprocaine-bupivacaine mixture is only 12 min- … utes; this may be compared to a difference in duration … of 103 minutes between bupivacaine alone and the … bupivacaine-chloroprocaine mixture.",
+   "page": 3
+  },
+  {
+   "quote": "Our clinical trials of a mixture of chloroprocaine … and bupivacaine for regional blocks suggested that … the duration of blockade was shorter than the same … block accomplished using bupivacaine alone.",
+   "page": 1
+  },
+  {
+   "quote": "A review of previous studies of local anes- … thetic mixtures used for this purpose indicates that … while rapid onset has bem a consistent finding, the … duration of action has been inconsistent.",
+   "page": 1
+  },
+  {
+   "quote": "For example, comparison of a mixture of bupiva- … caine, [dose figure omitted] plus chloroprocaine, [dose figure omitted] with … bupivacaine, [dose figure omitted] alone in brachial plexus block, … reveals that the mean duration of motor blockade was … 5 hours for the mixture compared to 7 hours after … bupivacaine alone.",
+   "page": 1
+  },
+  {
+   "quote": "Luduena\" reported that the duration of intradermal … block with [dose figure omitted] propoxycaine, a long-acting local … anesthetic, in guinea pigs is significantly shortened … when propoxycaine is added to [dose figure omitted] procaine.",
+   "page": 3
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Little is known of the relationship between local … anesthetic effect and drug concentration in the bio- … phase or even in the affected tissue.",
+   "page": 2
+  },
+  {
+   "quote": "A possible explanation for these results is that bupivacaine competes with … chloroprocaine for nonspecific receptors at the biophase and in the surrounding nerve tissue.",
+   "page": 1
+  },
+  {
+   "quote": "In conclusion, if competition for nonspecific recep- … tors is responsible for the short duration of the com- … pounded bupivacaine in our intradermal study, the … biophase and surrounding nerve tissue are the most … likely sites for the competition.",
+   "page": 3
+  },
+  {
+   "quote": "However, a study reported by Raj … and associates,\" showed that the peak arterial plasma … level of bupivacaine following epidural and brachial … plexus blocks with bupivacaine mixed with either … chloroprocaine or lidocaine was comparable to that of … bupivacaine used singly for the same blocks.",
+   "page": 3
+  }
+ ],
+ "funding_conflicts": "None stated. The paper carries no funding, grant, sponsor or conflict-of-interest statement. It records only the department of origin, Human Subjects Committee approval and informed consent, plus one acknowledged industry contact: a personal communication from Pennwalt Pharmaceutical Company (printed 'Penwalt') giving the pH range of its chloroprocaine product.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Cunningham NL, Kaplan JA. A rapid-onset, long-acting regional anesthetic technique. Anesthesiology 1974;41:509-511",
+   "pmid": "4429221",
+   "why": "Reference 1, and the paper's own example in its introduction: a human comparison of a chloroprocaine-plus-bupivacaine mixture against bupivacaine alone in brachial plexus block, with mean duration of motor blockade as the outcome - five years before Kim 1979. Bears directly on C033 ('whether an ester and an amide can share a syringe' was a question 'nobody had answered'), which it refutes within that claim's own scope."
+  },
+  {
+   "citation": "Defalque RJ, Stoelting VK. Latency and duration of action of some local anesthetic mixtures. Anesth Analg 1966;45:106-116",
+   "pmid": "5948743",
+   "why": "Reference 2, summarised in Kim's introduction as the tetracaine-added-to-procaine-or-lidocaine epidural work (an ester added to an amide, duration as the outcome) in dogs. Shows a 1966 published study of local anaesthetic mixtures and duration; bears on C033 and on the general mixing sections of the wheal pages."
+  },
+  {
+   "citation": "Luduena FP. Duration of local anesthesia. Annu Rev Pharmacol 1969;9:503-519",
+   "pmid": "4953096",
+   "why": "Reference 10. Kim's discussion reports it as finding that intradermal block by a long-acting agent (propoxycaine) in guinea pigs was significantly shortened when a short-acting ester (procaine) was added - the animal precedent, by the same route, for Kim's own finding. Bears on the mixing sections and on any claim that nothing has looked at intradermal mixtures shortening a block."
+  },
+  {
+   "citation": "Raj PP, Rosenblatt R, Miller J, et al. Dynamics of local-anesthetic compounds in regional anesthesia. Anesth Analg 1977;56:110-117",
+   "pmid": "",
+   "why": "Reference 11, cited by Kim against the explanation that mixing speeds systemic absorption: it found peak arterial plasma bupivacaine after epidural and brachial plexus blocks with bupivacaine mixed with chloroprocaine or lidocaine comparable to bupivacaine alone. Relevant to mixing discussion elsewhere in the record; not looked up by PMID (PubMed is unreachable this session and a title search was not run for it)."
+  }
+ ]
+}

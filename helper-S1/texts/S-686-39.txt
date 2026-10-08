@@ -1,7 +1,184 @@
+[TRANSCRIBED FROM PAGE IMAGES — the PDF is a scan with no text layer and no OCR engine is
+installed in this session. Transcribed by reading texts/scans/S-686-39-{1,2,3}.png. Page numbers
+below are the journal's own printed page numbers, which is what quotes should cite.]
 
-===== PAGE 1 =====
-
-===== PAGE 2 =====
-
-===== PAGE 3 =====
-
+===== PAGE 687 =====
+Anesthesiology
+V 45, No 6, Dec 1976
+CLINICAL REPORTS
+687
+
+Comparison of Compounds Used for Intradermal Anesthesia
+
+MARK A. WIGHTMAN, M.D.,* AND ROBERT W. VAUGHAN, M.D.†
+
+Lidocaine and procaine, the local anesthetics most commonly used for intradermal anesthesia,
+cause considerable discomfort upon injection. Physiologic saline solution has been said to be a
+satisfactory local anesthetic that is free of discomfort.1 This study compares various compounds
+used for intradermal injection with regard to discomfort and to intensity and duration of
+anesthesia. The intent was to determine which drug provides the highest patient acceptability and
+the best anesthesia.
+
+METHOD
+
+A randomized, double-blind study was carried out with 20 adult volunteers serving as their own
+controls after approval from the Human Studies Committee. Sixteen men and four women, ranging
+in age from 19 to 45 years and in weight from 54 to 95 kg, participated. None was taking
+analgesics, sedatives, or tranquilizers. All were considered A.S.A. physical status 1.
+
+Six solutions were prepared for each subject in single-dose 1-ml ampules: physiologic saline
+solution; physiologic saline solution with 0.9 per cent benzyl alcohol; lidocaine, 0.5 per cent;
+lidocaine, 0.5 per cent, with 0.1 per cent methylparaben; lidocaine, 1 per cent; procaine 1 per
+cent. No other additive was present. Water was the diluent for the local anesthetics.
+
+The dorsum of each hand was cleansed with isopropyl alcohol and allowed to dry. Using a 1-ml
+syringe with a 25-gauge needle, an intradermal wheal was raised with 0.1 ml of each test solution,
+three wheals per hand. The order of drug injections was randomized. Subjects were sitting and did
+not observe the injections.
+
+Once the needle was in place, the subject was instructed to describe the degree of discomfort and
+the sensation caused by raising the wheal. Discomfort was rated from 0 (no discomfort) to 2
+(severe discomfort).
+
+Anesthesia produced by the wheal of intradermal drug was tested by pin prick, initially 15 seconds
+after injection and at intervals thereafter to a total duration of 20 minutes. It was rated 0 (no
+anesthesia) to 3 (excellent anesthesia). Injection sites were observed for adverse local effects.
+
+Initial analysis by a two-way analysis of variance at measured values by subject and drug showed
+significant variation among subjects. Therefore, the data were adjusted‡ to eliminate individual
+variability and then analyzed by ordinary one-way analysis of variance with a priori and a
+posteriori contrasts to examine differences between specific drugs.
+
+* Fellow in Anesthesiology.
+† Associate Professor of Anesthesiology.
+Received from the Department of Anesthesiology, University of Arizona School of Medicine, Tucson,
+Arizona 85724. Accepted for publication July 23, 1976.
+Address reprint request to Dr. Wightman.
+
+‡ The basic two-way analysis of variance model was
+M_ij = u + S_i + A_j + E_ij
+where M_ij is an observed score for subject i given drug j; u is the grand mean; S_i is subject i's
+mean deviation from u; A_j is drug j's mean deviation from u; and E_ij is the error term. The
+transformation was made by defining
+M_ij' = M_ij − S_i
+so that the one-way model became
+M_ij' = u + A_j + E_ij.
+
+===== PAGE 688 =====
+688
+CLINICAL REPORTS
+Anesthesiology
+V 45, No 6, Dec 1976
+
+FIG. 1. Discomfort on injection of each drug. Each value is the mean ± SEM for 20 subjects.
+Scores: 0 (no discomfort) to 2 (severe discomfort). BA = benzyl alcohol, 0.9 per cent. MP =
+methylparaben, 0.1 per cent.
+[Figure 1, bar chart, DISCOMFORT ON INJECTION, ascending order of mean score:
+Saline + BA (approx. 0.15); Procaine (approx. 1.05); Lidocaine 0.5% + MP (approx. 1.10);
+Lidocaine 0.5% (approx. 1.35); Lidocaine 1% (approx. 1.52); Saline (approx. 1.56).]
+
+RESULTS
+
+Physiologic saline solution with 0.9 per cent benzyl alcohol caused significantly less discomfort
+on intradermal injection than any other drug tested, P < .001 (fig. 1). No discomfort was reported
+by 85 per cent of subjects following benzyl alcohol–saline solution injection, whereas absence of
+discomfort occurred in no more than 15 per cent of subjects with the other compounds studied.
+Injection of physiologic saline solution alone caused the greatest discomfort. Methylparaben
+preservative in lidocaine multidose vials did not alter the incidence of discomfort. Whenever
+discomfort was experienced with any drug, it was described as a burning, stinging sensation.
+
+Anesthesia produced by all compounds in the first 2 minutes after injection was rated good to
+excellent (anesthesia scores 2 to 3) except for physiologic saline solution, P < .001 (fig. 2). The
+latter produced poor to no anesthesia (scores 1 to 0) in 85 per cent of subjects. Satisfactory
+anesthesia began to dissipate after 2 to 3 minutes with benzyl alcohol–saline solution, after 5
+minutes with procaine, and after 20 minutes with the lidocaine preparations (fig. 2).
+Methylparaben did not alter the duration or intensity of anesthesia.
+
+Reactions, consisting of localized itching, erythema, and pseudopod formation, appeared in eight of
+20 subjects given procaine, but in no other subject.
+
+DISCUSSION
+
+The anesthesiologist requires intradermal anesthesia only for the brief period when large needles
+are passed through the sensitive dermis. The ideal drug for this purpose would provide good
+anesthesia for several minutes, be free of pain on injection, and be devoid of local toxicity as
+well as the danger of sensitivity.
+
+All drugs tested in the present study caused moderate to severe discomfort on injection except
+saline solution that contained the preservative benzyl alcohol.
+
+As expected, this study demonstrated that lidocaine and procaine provide good anes-
+
+FIG. 2. Degree of anesthesia produced by each drug plotted against time after injection. Each
+point is the mean score for 20 observations. BA = benzyl alcohol, 0.9 per cent. MP =
+methylparaben, 0.1 per cent.
+[Figure 2, line chart. Y axis DEGREE OF ANESTHESIA, 0 (inadequate) to 3 (excellent). X axis TIME
+(minutes), points at .25, .5, 1, 2, 3, 4, 5 and 20 with an axis break between 5 and 20. Series:
+Lidocaine 1%, Lidocaine 0.5% + MP, Lidocaine 0.5%, Procaine, Saline + BA, Saline. The three
+lidocaine series run together near score 2.5 and remain at or above about 2 through 5 minutes,
+falling to roughly 1 to 2 at 20 minutes. Procaine starts near 2.5 and declines through 3 to 5
+minutes. Saline + BA declines steeply after about 1 minute. Saline runs near score 0.5 to 1
+throughout.]
+
+===== PAGE 689 =====
+Anesthesiology
+V 45, No 6, Dec 1976
+CLINICAL REPORTS
+689
+
+thesia. The duration of anesthesia with lidocaine exceeded that produced by procaine, but both far
+exceeded the few minutes needed in most situations in clinical anesthesia. In contrast to saline
+solution alone, saline solution with benzyl alcohol gave good anesthesia for 2 minutes.
+
+Benzyl alcohol, the bacteriostatic compound in multidose vials of physiologic saline solution, has
+been known to have anesthetic properties since 1918.2 Indeed, solutions of 1 to 4 per cent benzyl
+alcohol have been used as an infiltration anesthetic for various surgical procedures,2 and a 4 per
+cent ointment has been employed for topical anesthesia of mucous membranes. High concentrations of
+benzyl alcohol (5 to 10 per cent) in almond oil cause local tissue damage,3 but lower
+concentrations (1 to 4 per cent) in non-oil vehicle are as safe as other local anesthetics.4 In
+animal studies, the systemic toxicity of benzyl alcohol is less than those of many other local
+anesthetics.5,6 It is believed to be equally safe in man6,7; to our knowledge, no untoward reaction
+has been reported.
+
+While adverse reactions to local anesthetics are infrequent and true allergy rare, both do occur.
+These reactions are limited primarily to the ester-linked type, of which procaine is the most
+frequent offender.8 Methylparaben, the preservative in multidose vials of amide-linked local
+anesthetics (e.g., lidocaine), has been said to be capable of producing severe local9 and
+systemic10 hypersensitivity reactions. Reactions ascribed to lidocaine have been subsequently found
+to be due to methylparaben.8 Methylparaben, a derivative of parahydroxybenzoic acid, is chemically
+related to procaine. Cross-sensitivity between these two drugs may therefore be anticipated. As an
+aromatic alcohol, benzyl alcohol differs structurally from other anesthetics and methylparaben. It
+therefore offers an alternative to the clinician wishing to avoid exposure of patients scheduled
+for minor procedures to potential allergens.
+
+Physiologic saline solution alone causes severe pain on injection and provides no anesthesia,
+despite claims to the contrary.1
+
+In conclusion, physiologic saline solution with 0.9 per cent benzyl alcohol provides good
+intradermal anesthesia of sufficient duration for many procedures anesthesiologists perform, and
+produces less discomfort on injection than any other drug. Because of low toxicity, low allergic
+potential, low cost, and ready availability in sodium chloride multidose vials, this forgotten drug
+is a useful compound for the anesthesiologist. For more prolonged anesthesia, lidocaine continues
+to be the drug of choice.
+
+REFERENCES
+
+1. Mark LC: Letter to the editor. N Engl J Med 294:614, 1976
+2. Macht DI: A pharmacological and therapeutic study of benzyl alcohol as a local anesthetic. J
+   Pharmacol Exp Ther 11:263–279, 1918
+3. Duncan D, Jarvis WH: A comparison of the actions on nerve fibers of certain anesthetic mixtures
+   and substances in oil. ANESTHESIOLOGY 4:465–474, 1943
+4. Mannheimer W, Pizzolato P, Adriani J: Mode of action and effects on tissues of long-acting local
+   anesthetics. JAMA 154:29–32, 1954
+5. Adriani J: Etiology and management of adverse reactions to local anesthetics. Int Anesth Clin
+   10:127–151 (Spring), 1972
+6. Kimura ET, Darby TD, Krause RA, et al: Parenteral toxicity studies with benzyl alcohol. Toxicol
+   Appl Pharmacol 18:60–68, 1971
+7. Novack E, Stubbs SS, Sanborn EC, et al: The tolerance and safety of intravenously administered
+   benzyl alcohol in methylprednisolone sodium succinate formulations in normal human subjects.
+   Toxicol Appl Pharmacol 23:54–61, 1972
+8. de Jong TH: Physiology and Pharmacology of Local Anesthesia. Springfield, Ill., Charles C
+   Thomas, 1970, pp 205–206
+9. Schorr WF: Paraben allergy. A cause of intractable dermatitis. JAMA 204:859–862, 1968
+10. Aeling JL, Nuss DD: Systemic eczematous "contact-type" dermatitis medicamentosa caused by
+    parabens. Arch Dermatol 110:640, 1974

@@ -1,0 +1,67 @@
+[
+ {
+  "claim_id": "C065",
+  "paper_id": "S-686-25",
+  "pmid": "776194",
+  "kind": "own-question",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Thus the time to 50% recovery … from mepivacaine and aptocaine was 60 min, and … from prilocaine 32 min. The mean time to full recovery, shown in table IHb, is significantly longer … for aptocaine and for mepivacaine (all concentrations) … than for prilocaine (all concentrations)",
+  "page": 4,
+  "proposed_wording": "Two human intradermal studies have timed prilocaine in skin: Reynolds 1976 (PMID 776194) and Willatts and Reynolds 1985 (PMID 4041306). Reynolds 1976 gives a mean duration per concentration in minutes for intradermal prilocaine in 27 double-blind volunteers, measured by pinprick over the bleb - 76.3, 71.8 and 87.8 min to full recovery at the three concentrations tested, 78.6 min pooled (n=81), and 32 min to 50% recovery. In that paper prilocaine was compared with mepivacaine and aptocaine in the same subjects; lignocaine was injected in a separate earlier trial in a different group of 28 volunteers.",
+  "reason": "Reynolds 1976 injected 0.1 ml intradermally of prilocaine at 1, 2 and 3% in 27 double-blind volunteers and timed recovery of pinprick sensation over each bleb every 10 min to a permanent score of 10, giving a mean per concentration in minutes (76.3, 71.8 and 87.8 min; pooled 78.6 min, n=81). That matches every element the claim says is absent - human volunteers, prilocaine injected intradermally, any study, duration of anaesthesia, at a wheal volume - and it also supplies the per-concentration means the claim says do not exist, so both the 'nobody beyond Willatts' and the 'gives no mean per concentration' wordings fail. On the second half of the open question: the paper ran two separate trials in different subject groups, only seven subjects overlapping, with lignocaine and bupivacaine in the first and mepivacaine and prilocaine in the second, so lignocaine was not injected in the same subjects on the same day as prilocaine."
+ },
+ {
+  "claim_id": "C066",
+  "paper_id": "S-686-25",
+  "pmid": "776194",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Thus the time to 50% recovery … from mepivacaine and aptocaine was 60 min, and … from prilocaine 32 min. The mean time to full recovery, shown in table IHb, is significantly longer … for aptocaine and for mepivacaine (all concentrations) … than for prilocaine (all concentrations)",
+  "page": 4,
+  "proposed_wording": "Head-to-head duration figures in minutes on a skin endpoint exist in humans as well as in horses. Reynolds 1976 (PMID 776194) timed prilocaine against mepivacaine and aptocaine by pinprick over an intradermal bleb in the same 27 human volunteers, reporting 32 min to 50% recovery for prilocaine against 60 min for the other two, and mean times to full recovery of 78.6, 98.6 and 98.9 min. The horse study (Harcourt 2021, PMID 34569052) is still the only one reporting means with confidence intervals, and the only one using a mechanical nociceptive threshold after a palmar digital nerve block.",
+  "reason": "The full text gives duration in minutes for every agent in both trials, by two endpoints: time to 50% recovery read from the mean recovery curves, and mean time to full recovery tabulated in minutes with SEM. So Reynolds 1976 is a human head-to-head skin measurement in minutes, not merely a ranking. Prilocaine 1, 2 and 3% was compared with mepivacaine 1, 2 and 3% and aptocaine 1%, all at 0.1 ml intradermally, in the same 27 volunteers in one session, which matches every element the claim says is absent, including 'any species'. The horse study is therefore not the only head-to-head duration measurement in minutes on a skin endpoint, although it remains the only one with confidence intervals."
+ },
+ {
+  "claim_id": "D006",
+  "paper_id": "S-686-25",
+  "pmid": "776194",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "The mean time to full recovery (permanent score of … 10) was calculated for each agent and is shown in table Ilia. The mean duration to full recovery for … aptocaine (all solutions) was significantly longer than … for lignocaine (P< 0.001) but not for bupivacaine.",
+  "page": 3,
+  "proposed_wording": "Five of the seven drugs have been timed in human skin to complete recovery at a wheal volume. Reynolds 1976 (PMID 776194) timed plain bupivacaine to full recovery at a wheal volume in 28 double-blind volunteers, mean 82.5 min, alongside lignocaine at 65.7 min, and in a second trial of 27 volunteers timed mepivacaine (98.6 min pooled) and prilocaine (78.6 min pooled) by the same endpoint. Ropivacaine has been timed to full return of sensation only at a larger intradermal volume (Moffitt 2001, PMID 11359489), and articaine has not been timed in human skin. Every wheal-volume figure so far is under two hours.",
+  "reason": "Reynolds 1976 injected 0.1 ml intradermally - the wheal volume the claim's own qualifier names - and timed each agent to a permanent score of 10, that is complete recovery of pinprick sensation over the bleb, not half recovery. For bupivacaine 0.5% that gives 82.5 +/- 8.7 min in 28 volunteers, and in the second trial mepivacaine 1, 2 and 3% gives 98.6 +/- 4.7 min and prilocaine 1, 2 and 3% gives 78.6 +/- 5.1 min pooled in 27 volunteers. Bupivacaine therefore matches every element the claim says is absent, including 'at a wheal volume', so the count of four fails and bupivacaine joins the drugs timed to complete recovery at a wheal volume; articaine remains untimed in skin and ropivacaine's only full-recovery figure is still at a larger volume."
+ },
+ {
+  "claim_id": "D008",
+  "paper_id": "S-686-25",
+  "pmid": "776194",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "The mean time to full recovery (permanent score of … 10) was calculated for each agent and is shown in table Ilia. The mean duration to full recovery for … aptocaine (all solutions) was significantly longer than … for lignocaine (P< 0.001) but not for bupivacaine.",
+  "page": 3,
+  "proposed_wording": "No study has measured intradermal bupivacaine at the smaller of the two wheal volumes this page uses. Plain intradermal bupivacaine has been timed to complete recovery at the larger wheal volume in 28 double-blind volunteers, mean 82.5 min (Reynolds 1976, PMID 776194), so a measured figure for bupivacaine in skin at a wheal volume exists and the page's duration need not be interpolated between two tissue layers with two endpoint definitions.",
+  "reason": "Reynolds 1976 used 0.1 ml per intradermal injection, not 0.05 ml, so the claim's first sentence stands: nothing has measured intradermal bupivacaine at 0.05 ml. But its endpoint was a permanent score of 10 - complete recovery of pinprick sensation over the bleb - and bupivacaine 0.5% reached it at a mean of 82.5 +/- 8.7 min in 28 volunteers, which matches the element the claim's bracketed sentence says is absent, complete recovery at 0.05-0.1 ml. 'Neither has been timed to complete recovery at a wheal volume' is therefore wrong for bupivacaine, and a directly measured wheal-volume figure in skin exists rather than only an interpolation, so the claim is narrowed rather than confirmed."
+ },
+ {
+  "claim_id": "D025",
+  "paper_id": "S-686-25",
+  "pmid": "776194",
+  "kind": "own-question",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Mepivacaine [dose figure omitted]           27       97.0 ±9.0 … 27       95.2 ±7.6 … 103.7 ±7.7 … all       81       98.6 ±4.7",
+  "page": 4,
+  "proposed_wording": "No source was found for a 2.5-hour mepivacaine duration in skin, and at least four human studies have timed mepivacaine in skin (Reynolds 1976, PMID 776194; Fairley 1981; Willatts 1985; Christoph 1988), not two. The earliest, Reynolds 1976, timed intradermal mepivacaine at three concentrations in 27 double-blind volunteers by pinprick over the bleb: mean times to full recovery of 97.0, 95.2 and 103.7 min, 98.6 min pooled (n=81), and 60 min to 50% recovery. The longest of those means is about 1.7 h, and duration did not rise with concentration.",
+  "reason": "Reynolds 1976 measured intradermal mepivacaine 1, 2 and 3% at 0.1 ml in 27 double-blind volunteers, timing recovery of pinprick sensation over each bleb to a permanent score of 10, so it is a third - and the earliest - study timing mepivacaine in human skin, which refutes the claim's 'only two such studies' element. Its longest group mean was 103.7 +/- 7.7 min at the highest concentration and 98.6 +/- 4.7 min pooled, with 60 min to 50% recovery, so nothing approaches 2.5 h; the paper also reports no significant difference in duration between the three concentrations, which removes the possibility that a higher concentration reaches 2.5 h. The substance of the claim - no source for 2.5 hours, and the measured skin durations far below it - therefore holds, but the count of studies does not."
+ }
+]

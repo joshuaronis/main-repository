@@ -1,0 +1,37 @@
+{
+ "paper_id": "S-686-39",
+ "citation": "Wightman MA, Vaughan RW. Comparison of Compounds Used for Intradermal Anesthesia. Anesthesiology 1976;45(6):687-689",
+ "pmid": "791022",
+ "doi": "10.1097/00000542-197612000-00024",
+ "right_paper": true,
+ "text_quality": "ocr — the PDF is a scan with no text layer and no OCR engine is installed in this session, so texts/S-686-39.txt is a manual transcription from the three page images in texts/scans/. Body text, both figure legends and all ten references are transcribed; the two figures are charts, and the per-timepoint values exist only as plotted points, so figure values are described rather than read off as numbers.",
+ "design": "Randomised, double-blind, within-subject comparison; volunteers served as their own controls. Two-way ANOVA by subject and drug, then subject-adjusted one-way ANOVA with a priori and a posteriori contrasts.",
+ "population": "20 adult volunteers, 16 men and 4 women, aged 19 to 45 years, ASA physical status 1, none taking analgesics, sedatives or tranquilizers. Human Studies Committee approval.",
+ "n": "20 subjects, each receiving all six solutions (six wheals per subject, three per hand); n = 20 observations per solution",
+ "setting": "Department of Anesthesiology, University of Arizona School of Medicine, Tucson; subjects seated, dorsum of each hand",
+ "intervention": "Six single-dose solutions given as intradermal wheals: physiologic saline; saline with benzyl alcohol; lidocaine at a lower strength; lidocaine at that same lower strength with methylparaben; lidocaine at a higher strength; and procaine. Water was the diluent for the local anaesthetics and no other additive was present. [dose figures omitted]",
+ "comparator": "Each solution against the other five within the same subject; physiologic saline alone served as the inactive comparator",
+ "route": "Intradermal wheal, dorsum of the hand, 25-gauge needle, order of injections randomised, subjects did not observe the injections",
+ "duration": "Anaesthesia assessed by pin prick from 15 seconds after injection at intervals to a total observation window of 20 minutes. The window bounds the study: it does not time recovery to completion for the lidocaine arms, which were still anaesthetic when observation stopped.",
+ "outcomes": "(1) Discomfort on injection, rated 0 (no discomfort) to 2 (severe discomfort); (2) degree of anaesthesia by pin prick, rated 0 (no anaesthesia) to 3 (excellent anaesthesia), plotted against time; (3) adverse local effects at injection sites",
+ "key_results": [
+  {"quote": "A randomized, double-blind study was carried out with 20 adult volunteers serving as their own controls", "page": 687},
+  {"quote": "Anesthesia produced by the wheal of intradermal drug was tested by pin prick, initially 15 seconds after injection and at intervals thereafter to a total duration of 20 minutes.", "page": 687},
+  {"quote": "Methylparaben did not alter the duration or intensity of anesthesia.", "page": 688},
+  {"quote": "Satisfactory anesthesia began to dissipate after 2 to 3 minutes with benzyl alcohol-saline solution, after 5 minutes with procaine, and after 20 minutes with the lidocaine preparations", "page": 688},
+  {"quote": "Methylparaben preservative in lidocaine multidose vials did not alter the incidence of discomfort.", "page": 688},
+  {"quote": "Injection of physiologic saline solution alone caused the greatest discomfort.", "page": 688},
+  {"quote": "The duration of anesthesia with lidocaine exceeded that produced by procaine, but both far exceeded the few minutes needed in most situations in clinical anesthesia.", "page": 689},
+  {"quote": "Reactions, consisting of localized itching, erythema, and pseudopod formation, appeared in eight of 20 subjects given procaine, but in no other subject.", "page": 688},
+  {"quote": "Physiologic saline solution alone causes severe pain on injection and provides no anesthesia, despite claims to the contrary.", "page": 689}
+ ],
+ "author_limitations": [],
+ "funding_conflicts": "None stated. Departmental affiliation only (Department of Anesthesiology, University of Arizona School of Medicine). No funding or conflict-of-interest statement appears in the paper, which is normal for a 1976 clinical report.",
+ "studies_it_cites_that_matter": [
+  {"citation": "Mark LC. Letter to the editor. N Engl J Med 1976;294:614", "pmid": "", "why": "the source of the claim that physiologic saline is a satisfactory discomfort-free local anaesthetic; Wightman tests and rejects it, which bears on any page claim that saline wheals anaesthetise"},
+  {"citation": "Macht DI. A pharmacological and therapeutic study of benzyl alcohol as a local anesthetic. J Pharmacol Exp Ther 1918;11:263-279", "pmid": "", "why": "the origin of benzyl alcohol as an infiltration anaesthetic; bears on claims about preservative vehicles having anaesthetic activity of their own"},
+  {"citation": "Duncan D, Jarvis WH. A comparison of the actions on nerve fibers of certain anesthetic mixtures and substances in oil. Anesthesiology 1943;4:465-474", "pmid": "", "why": "cited for local tissue damage from high benzyl alcohol concentrations in oil; bears on vehicle-related tissue-injury claims"},
+  {"citation": "Schorr WF. Paraben allergy. A cause of intractable dermatitis. JAMA 1968;204:859-862", "pmid": "", "why": "cited for severe local hypersensitivity to methylparaben; bears on claims about preservative-driven reactions being mistaken for lidocaine allergy"},
+  {"citation": "Aeling JL, Nuss DD. Systemic eczematous contact-type dermatitis medicamentosa caused by parabens. Arch Dermatol 1974;110:640", "pmid": "", "why": "cited for systemic hypersensitivity to parabens; same topic as above"}
+ ]
+}

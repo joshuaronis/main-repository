@@ -1,0 +1,34 @@
+[
+ {
+  "pmid": "4429221",
+  "citation": "Cunningham NL, Kaplan JA. A rapid-onset, long-acting regional anesthetic technique. Anesthesiology 1974;41:509-511",
+  "found_in_paper": "S-686-14 (Kim 1979), reference 1 and the worked example in its introduction, page 1",
+  "bears_on_claim_ids": [
+   "C033",
+   "D006"
+  ],
+  "what_it_shows": "A human comparison, five years before Kim 1979, of a chloroprocaine-plus-bupivacaine mixture against bupivacaine alone in brachial plexus block, reporting mean duration of motor blockade for each - the mixture's the shorter of the two. It is a published pre-1979 study of an ester and an amide given together, with block duration as the outcome, which is exactly what C033 says nobody had studied. Route is brachial plexus, not skin, so it leaves Kim 1979 as the first intradermal answer.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "5948743",
+  "citation": "Defalque RJ, Stoelting VK. Latency and duration of action of some local anesthetic mixtures. Anesth Analg 1966;45:106-116",
+  "found_in_paper": "S-686-14 (Kim 1979), reference 2, summarised in its introduction, page 1",
+  "bears_on_claim_ids": [
+   "C033"
+  ],
+  "what_it_shows": "A 1966 study of local anaesthetic mixtures measuring latency and duration, summarised by Kim as the work in which an ester (tetracaine) was added to procaine or to lidocaine and epidural duration tracked in dogs, with the result depending on how much tetracaine the mixture held. Supports C033's refutation by showing that mixtures of a long-acting and a short-acting agent, and their effect on duration, were an established subject before 1979; the population is animal and the route epidural, so it does not match C033's human element on its own.",
+  "quote_from_abstract": ""
+ },
+ {
+  "pmid": "4953096",
+  "citation": "Luduena FP. Duration of local anesthesia. Annu Rev Pharmacol 1969;9:503-519",
+  "found_in_paper": "S-686-14 (Kim 1979), reference 10, discussed on page 3",
+  "bears_on_claim_ids": [
+   "C033",
+   "C046"
+  ],
+  "what_it_shows": "Reported by Kim as finding that intradermal block by a long-acting agent (propoxycaine) in guinea pigs was significantly shortened when a short-acting ester (procaine) was added - the same route and the same direction of effect as Kim 1979, in animals, ten years earlier. Relevant background for any statement that nothing had looked at whether mixing shortens an intradermal block. No abstract is on record and the primary paper was not read.",
+  "quote_from_abstract": ""
+ }
+]

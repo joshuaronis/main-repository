@@ -1,0 +1,67 @@
+[
+ {
+  "claim_id": "D006",
+  "paper_id": "S-686-14",
+  "pmid": "573558",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Following … the injections, analgesia to pinprick on the injection … site was determined every 10 minutes until full recov- … ery occurred.",
+  "page": 2,
+  "proposed_wording": "Five of the seven drugs have been timed in human skin to complete recovery, not four, and the fifth did not run short: a double-blind study in 20 volunteers timed plain intradermal bupivacaine from the moment of injection to full recovery of pinprick sensation and found it the longest of the three solutions tested (Kim 1979, PMID 573558); Sweet 1982 (PMID 6751499) timed plain intradermal bupivacaine the same way, and Moffitt 2001 (PMID 11359489) timed plain intradermal ropivacaine to full return of sensation. The count of four holds only at the smaller wheal volume this page's table is built on; articaine has not been timed in skin to any endpoint.",
+  "reason": "The full text settles both halves of this paper's open question. The study raised each intradermal wheal with 0.2 mL of solution on the volar forearm using a tuberculin syringe, and its endpoint was complete recovery, not half recovery: pinprick analgesia was tested every 10 minutes 'until full recovery occurred', and duration ran 'from the time of injection to the last reported analgesia at the site'. Kim 1979 therefore matches every element of the claim's first sentence for bupivacaine - humans, bupivacaine injected into skin, any design, duration timed to complete recovery - and contradicts its 'all four ran short' rider, since plain bupivacaine was the longest of the three solutions tested. It misses only the second sentence's 'at a wheal volume' qualifier, because its per-wheal volume is above the band the page's table uses, even though the authors themselves call their injections intradermal wheals; so the claim is narrowed, not refuted, and the uncertainty is now resolved."
+ },
+ {
+  "claim_id": "C033",
+  "paper_id": "S-686-14",
+  "pmid": "4429221",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "For example, comparison of a mixture of bupiva- … caine, [dose figure omitted] plus chloroprocaine, [dose figure omitted] with … bupivacaine, [dose figure omitted] alone in brachial plexus block, … reveals that the mean duration of motor blockade was … 5 hours for the mixture compared to 7 hours after … bupivacaine alone.",
+  "page": 1,
+  "proposed_wording": "The 1979 paper answered the question for skin. The question itself was not new: a human study five years earlier compared a chloroprocaine-plus-bupivacaine mixture with bupivacaine alone in brachial plexus block and reported the mixture's mean motor block as the shorter of the two (Cunningham 1974, PMID 4429221), an epidural study of an ester added to an amide reported latency and duration in 1966 (Defalque 1966, PMID 5948743), and an obstetric epidural trial reached the same answer in 1979 (Cohen 1979). The 1979 intradermal study is the first to answer it in human skin.",
+  "reason": "The claim says that whether an ester and an amide can share a syringe was 'a question nobody had answered'. Kim 1979's own introduction refutes that within the claim's scope: it names a 1974 human study (reference 1, Cunningham & Kaplan, PMID 4429221) that compared exactly this mixture - chloroprocaine plus bupivacaine - against bupivacaine alone in brachial plexus block and reported mean duration of motor blockade for each, matching every element the claim says is absent (humans, ester mixed with amide, a study before 1979, effect of the mixture on block duration). Kim's introduction also states outright that a literature on these mixtures already existed and was inconsistent on duration, and its reference 2 is a 1966 study of latency and duration of local anaesthetic mixtures; what is new in 1979 is the intradermal route, not the question. The quote is from Kim 1979 page 1, which is where the 1974 study's design and result are reported; the 1974 paper itself has no abstract on record."
+ },
+ {
+  "claim_id": "C041",
+  "paper_id": "S-686-14",
+  "pmid": "573558",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Duration of anesthesia with chloropro- … caine alone, 24 f 11 minutes, was similar to the duration of anesthesia with chloroprocaine … plus bupivacaine.",
+  "page": 1,
+  "proposed_wording": "",
+  "reason": "The full text confirms the source-register entry as the page states it: the human intradermal chloroprocaine duration is 24 plus or minus 11 minutes (mean plus or minus 1 SD), from a double-blind study in 20 healthy volunteers in which each volunteer received all three solutions as separate forearm wheals and duration was timed to full recovery of pinprick sensation. Nothing in the paper or its 12 references points to an earlier or contemporaneous human intradermal chloroprocaine duration, so the uniqueness element is untouched and the verdict stands at confirmed. One correction for the annotation rather than the verdict: the study is paired and double-blind but nowhere states that it was randomised."
+ },
+ {
+  "claim_id": "C045",
+  "paper_id": "S-686-14",
+  "pmid": "573558",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Using a tuberculin syringe, intradermal wheals … were raised on the volar aspect of each volunteer's … forearm with [dose figure omitted] of three local anesthetic solutions.",
+  "page": 2,
+  "proposed_wording": "",
+  "reason": "This paper was one of the studies in the register whose injected volume was not readable from its abstract, so it was a live candidate for carrying a smaller-wheal duration figure. The methods settle it: the per-wheal volume is stated explicitly and is above both volume thresholds the claim names, so the paper supplies no figure at or below the smaller one and is consistent with the claim's second sentence. Verdict unchanged at confirmed; the paper narrows the remaining search rather than altering the verdict."
+ },
+ {
+  "claim_id": "D008",
+  "paper_id": "S-686-14",
+  "pmid": "573558",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": true,
+  "quote": "Using a tuberculin syringe, intradermal wheals … were raised on the volar aspect of each volunteer's … forearm with [dose figure omitted] of three local anesthetic solutions.",
+  "page": 2,
+  "proposed_wording": "",
+  "reason": "The claim scopes itself to a volume smaller than this study used, and to complete recovery at that smaller volume, so Kim 1979 falls outside it and the verdict stays confirmed. The full text does remove this paper from the open list: its stated per-wheal volume is above the claim's band, and its endpoint is complete recovery of pinprick sensation rather than half recovery, so it can neither supply the smaller-volume figure nor refute the complete-recovery rider. The claim stays uncertain because the remaining question the record flagged - whether any of the Reynolds-group intradermal studies timed complete recovery at the smaller volume - is not addressed by this paper."
+ }
+]

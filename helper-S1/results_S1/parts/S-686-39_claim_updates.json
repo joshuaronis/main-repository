@@ -1,0 +1,28 @@
+[
+ {
+  "claim_id": "C038",
+  "paper_id": "S-686-39",
+  "pmid": "791022",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Methylparaben did not alter the duration or intensity of anesthesia.",
+  "page": 688,
+  "proposed_wording": "A randomised, double-blind within-subject comparison of methylparaben-preserved lidocaine against preservative-free lidocaine, given as intradermal wheals in 20 human volunteers and assessed by pin prick over a 20-minute window, exists: Wightman and Vaughan 1976 (PMID 791022), which reported that methylparaben did not alter the duration or intensity of anaesthesia. No arm paired lidocaine with benzyl alcohol; benzyl alcohol was tested in saline.",
+  "reason": "The claim says no study compares a methylparaben-preserved lidocaine against a preservative-free or benzyl-alcohol-preserved one for intradermal duration. Wightman and Vaughan 1976 matches every element for the preservative-free limb: humans, intradermal wheals, methylparaben-preserved lidocaine against the same lidocaine without preservative, randomised and double-blind, with anaesthesia timed by pin prick from 15 seconds to 20 minutes, and it states a duration conclusion directly. Two limits belong in the correction: the observation window stops at 20 minutes while the lidocaine arms were still anaesthetic, so it bounds rather than measures duration to recovery; and the benzyl-alcohol arm was benzyl alcohol in saline, not a benzyl-alcohol-preserved lidocaine, so that limb of the claim is untouched."
+ },
+ {
+  "claim_id": "C038",
+  "paper_id": "S-686-39",
+  "pmid": "791022",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Six solutions were prepared for each subject in single-dose 1-ml ampules",
+  "page": 687,
+  "proposed_wording": "The one paper that tested benzyl alcohol, parabens, procaine, lidocaine and saline side by side intradermally is Wightman and Vaughan 1976 (PMID 791022).",
+  "reason": "The first half of the same sentence is a separate only-study claim. The full text confirms the description is accurate: the six solutions were saline, saline with benzyl alcohol, lidocaine at two strengths, lidocaine with methylparaben, and procaine, all given intradermally to the same 20 subjects. Recorded separately because the sentence carries two claims and only the second was refuted."
+ }
+]

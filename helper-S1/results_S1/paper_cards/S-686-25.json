@@ -1,0 +1,168 @@
+{
+ "paper_id": "S-686-25",
+ "citation": "Reynolds F, Bryson THL, Nicholas ADG. Intradermal study of a new local anaesthetic agent: aptocaine. Br J Anaesth 1976;48:347-354",
+ "pmid": "776194",
+ "doi": "10.1093/bja/48.4.347",
+ "right_paper": true,
+ "text_quality": "ok (PDF text layer; two-column pages are flattened line-by-line so column text interleaves, and a few OCR slips appear in tables: prilocaine 1% mean prints as '763' for 76.3, 'table Ilia/IHb' for IIIa/IIIb, 'ma-rimnl' for 'maximal'. All 8 pages present, including both tables of durations, Table IV, Table V and the reference list.)",
+ "design": "Two sequential double-blind volunteer trials of intradermal injection, each within-subject: every subject in a trial received every solution in that trial, as a pair of injections per solution at randomly varied sites on both forearms. Physiological saline served as a control in the first trial only.",
+ "population": "Healthy adult volunteers of both sexes. First trial aged 20-58 yr; second trial aged 20-51 yr, seven of whom had taken part in the first trial.",
+ "n": "First trial 28 volunteers (n=28 per comparator agent; n=56 per aptocaine concentration, because each concentration was given at two pH values, except aptocaine 3% pH 6.8 where n=27). Second trial 27 volunteers (n=27 per agent-concentration; n=81 per agent pooled across its three concentrations). Aptocaine all solutions pooled n=167.",
+ "setting": "Volunteer study on flexor forearm skin. Department of Pharmacology, St Thomas's Hospital Medical School, London, with co-authors at the Liverpool Maternity Hospital and the Jessop Hospital for Women, Sheffield.",
+ "intervention": "Intradermal aptocaine hydrochloride. First trial: 1, 2 and 3%, each at pH 5.6 and pH 6.8. Second trial: 1% only. Every solution in both trials was given as 0.1 ml per injection, two injections 4 cm apart on the flexor surfaces of both forearms, from individually coded sterile ampoules.",
+ "comparator": "First trial, in the same 28 subjects and the same session: lignocaine 2% (pH 6.5), bupivacaine 0.5% (pH 5.6) and physiological saline. Second trial, in the same 27 subjects and the same session: mepivacaine 1, 2 and 3% and prilocaine 1, 2 and 3%. The two trials used different subject groups (seven subjects overlapped), so lignocaine and bupivacaine were never injected alongside mepivacaine or prilocaine; the only agent bridging the two trials is aptocaine.",
+ "route": "intradermal (0.1 ml raising a bleb/weal in forearm skin)",
+ "duration": "Duration reported in minutes, by two endpoints. (1) Time to 50% recovery, read from the mean recovery curves: first trial lignocaine and bupivacaine about 32 min against aptocaine 60 min; second trial mepivacaine and aptocaine 60 min against prilocaine 32 min. (2) Mean time to full recovery, defined as a permanent score of 10, tabulated per agent and concentration in Table III as mean +/- SEM minutes. First trial: lignocaine 2% 65.7 +/- 5.3 (n=28); bupivacaine 0.5% 82.5 +/- 8.7 (n=28); aptocaine 1% 90.9 +/- 4.9, 2% 91.4 +/- 5.1, 3% 91.4 +/- 4.8, all solutions 91.3 +/- 2.8 (n=167). Second trial: prilocaine 1% 76.3 +/- 8.4, 2% 71.8 +/- 8.4, 3% 87.8 +/- 9.4, all 78.6 +/- 5.1 (n=81); mepivacaine 1% 97.0 +/- 9.0, 2% 95.2 +/- 7.6, 3% 103.7 +/- 7.7, all 98.6 +/- 4.7 (n=81); aptocaine 1% 98.9 +/- 8.1 (n=27). Aptocaine's mean full-recovery time was significantly longer than lignocaine's (P<0.001) but not than bupivacaine's; aptocaine and mepivacaine were both significantly longer than prilocaine (P<0.01) and were virtually identical to each other. No agent's duration varied significantly with concentration, and the longest group mean of any agent was 103.7 min (about 1.7 h). Testing was every 10 min and the tabulated percentage-recovery curves run only to 120 min.",
+ "outcomes": "Primary outcome: duration of cutaneous analgesia by pinprick over the intradermal bleb. Every 10 min the area of each bleb was tested five times with a lancet while the subject looked away, and the number of times out of 10 (two paired sites x five pricks) that the prick felt sharp was recorded, continued until sensation had returned to normal at all sites. Scores were converted to percentage recovery against time (Table II), from which time to 50% recovery was read, and mean time to full recovery (permanent score of 10) was tabulated (Table III). Secondary outcomes: diameter of the analgesic area at maximum effect as a crude potency measure (Table IV), and the incidence of local colour change read as vasoconstriction or vasodilatation plus haemorrhagic change as tissue irritancy (Table V).",
+ "key_results": [
+  {
+   "quote": "In a double-blind trial in 28 human volunteers, a new local anaesthetic agent, aptocaine, was compared intradermally at 1, 2 and 3% concentrations with lignocaine 2% and bupivacaine 0.5%. In a second trial in 27 subjects, 1% aptocaine was compared with mepivacaine and prilocaine, both 1, 2 and 3 %.",
+   "page": 1
+  },
+  {
+   "quote": "Twenty-eight adult volunteers, aged 20-58 yr, of … both sexes, received a pair of intradermal injections of … 0.1 ml of each solution. Injections were made 4 cm … apart on the flexor surfaces of both forearms in … randomly variable positions.",
+   "page": 1
+  },
+  {
+   "quote": "Every 10 min the area of … each bleb was tested five times with a lancet, while the … subject looked away, and the number of times out of … 10 that the prick felt sharp, for each solution, was … recorded. This was continued until sensation had … returned to normal at all sites.",
+   "page": 1
+  },
+  {
+   "quote": "Exactly the same procedure was followed. … Twenty-seven volunteers, aged 20-51 yr, seven of … whom participated in the previous study, received the … following seven solutions:",
+   "page": 3
+  },
+  {
+   "quote": "figure 2A the time to 50% recovery with lignocaine and bupivacaine was about 32 min, contrasting with … 60 min for aptocaine.",
+   "page": 3
+  },
+  {
+   "quote": "The mean time to full recovery (permanent score of … 10) was calculated for each agent and is shown in table Ilia. The mean duration to full recovery for … aptocaine (all solutions) was significantly longer than … for lignocaine (P< 0.001) but not for bupivacaine.",
+   "page": 3
+  },
+  {
+   "quote": "Thus the time to 50% recovery … from mepivacaine and aptocaine was 60 min, and … from prilocaine 32 min. The mean time to full recovery, shown in table IHb, is significantly longer … for aptocaine and for mepivacaine (all concentrations) … than for prilocaine (all concentrations)",
+   "page": 4
+  },
+  {
+   "quote": "TABLE III. Time to full recovery … Time (min) … Agent              n      Mean SEM",
+   "page": 4
+  },
+  {
+   "quote": "Lignocaine 2%             28      65.7 ±5.3",
+   "page": 4
+  },
+  {
+   "quote": "Bupivacaine 0.5%          28      82.5 ± 8.7",
+   "page": 4
+  },
+  {
+   "quote": "Mepivacaine 1 %           27       97.0 ±9.0 … 2%         27       95.2 ±7.6 … 3%                 103.7 ±7.7 … all       81       98.6 ±4.7",
+   "page": 4
+  },
+  {
+   "quote": "Prilocaine    1% … 27       763 ±8.4 … 2%                  71.8 ±8.4 … 3%         27       87.8 ±9.4 … all       81       78.6 ±5.1",
+   "page": 4
+  },
+  {
+   "quote": "Aptocaine all            167      91.3 ±2.8",
+   "page": 4
+  },
+  {
+   "quote": "was no significant difference in duration between any … of the aptocaine solutions",
+   "page": 3
+  },
+  {
+   "quote": "there is no significant difference in duration … between the three different concentrations of … mepivacaine and prilocaine.",
+   "page": 3
+  },
+  {
+   "quote": "Duration of action was unaffected by … concentration.",
+   "page": 1
+  },
+  {
+   "quote": "a longer duration of action was not observed with … higher drug concentrations.",
+   "page": 7
+  },
+  {
+   "quote": "In the second study, mepivacaine and aptocaine … were found to be of equal duration, while prilocaine",
+   "page": 6
+  },
+  {
+   "quote": "duration of mepivacaine analgesia (all concentrations) … is similar to that of aptocaine, while the prilocaine",
+   "page": 4
+  },
+  {
+   "quote": "profile resembles that of lignocaine and bupivacaine … in the previous series.",
+   "page": 4
+  },
+  {
+   "quote": "Physiological saline produced no analgesia or colour … changes, and was not used in the second study.",
+   "page": 3
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "The danger of extrapolating from intradermal to … other forms of local analgesia is highlighted in this … study in which the effects of bupivacaine and ligno … caine are of equal duration, although the former is … known to produce much more prolonged regional … block analgesia",
+   "page": 6
+  },
+  {
+   "quote": "Therefore it is not possible to predict the … duration of aptocaine in dental anaesthesia.",
+   "page": 6
+  },
+  {
+   "quote": "The lack of reproducibility for aptocaine in the … two studies, and the large standard errors, are a … result of considerable variation between subjects; … thus the prediction of potency from the diameter of … analgesic is unreliable.",
+   "page": 6
+  },
+  {
+   "quote": "Unfortunately, the difference between the results in … this and the first study for aptocaine [dose figure omitted] is significant … (P< 0.001).",
+   "page": 4
+  },
+  {
+   "quote": "in this study the … differences between the results for different concen … trations of the same agent and for the same concen … tration of different agents are not significant, as a … result of large variations between subjects.",
+   "page": 4
+  }
+ ],
+ "funding_conflicts": "No funding statement and no conflict-of-interest declaration. The acknowledgement names the manufacturer of the test drug as having prepared and coded the ampoules: \"We thank the Pharmaceutical Manufacturing Company for … making up and coding the ampoules for intradennal … injection and Dr J. C. P. Weber of Advisory Services … (Clinical and General) Ltd for co-ordinating activities.\" (page 7). Aptocaine (Pirothesin) is a Pharmaceutical Manufacturing Company product, so the sponsor supplied and blinded the test article.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Luduena FP. Duration of local anesthesia. Annu Rev Pharmacol 1969;9:503",
+   "pmid": "4894037",
+   "why": "Reynolds cites it for intradermal duration of the optical isomers of bupivacaine, mepivacaine and prilocaine and for their inherent vasoconstrictor activity - an earlier source of intradermal duration data on mepivacaine, prilocaine and bupivacaine, bearing on D006, D008, D025 and the mepivacaine/bupivacaine wheal pages."
+  },
+  {
+   "citation": "Mumford JM, Gray TC. Dental trial of Carbocaine - a new local anaesthetic. Br J Anaesth 1957;29:210",
+   "pmid": "",
+   "why": "Cited for mepivacaine having 'a rather short duration of action' in dental use; bears on D025, the page's unsourced 2.5-hour mepivacaine duration."
+  },
+  {
+   "citation": "Berling C. Carbocain in local anaesthesia in the oral cavity. Odont Revy 1958;9:254",
+   "pmid": "",
+   "why": "Second source cited for mepivacaine's short duration without a vasoconstrictor; bears on D025."
+  },
+  {
+   "citation": "Rubin AP, Lawson DIF. A controlled trial of bupivacaine. A comparison with lignocaine. Anaesthesia 1968;23:327",
+   "pmid": "5661224",
+   "why": "Cited as showing bupivacaine's much more prolonged regional block, the contrast Reynolds uses to warn against extrapolating intradermal duration to other routes; bears on the bupivacaine duration claims D006 and D008."
+  },
+  {
+   "citation": "Watt MJ, Ross DM, Atkinson RS. A double-blind trial of bupivacaine and lignocaine. Anaesthesia 1968;23:331",
+   "pmid": "5661225",
+   "why": "Same role as Rubin and Lawson - bupivacaine vs lignocaine duration by a non-intradermal route; bears on D006 and D008."
+  },
+  {
+   "citation": "Brustier V, Podesta M, Anselem A. Etude pharmacodynamique de l'aptocaine. Prod Prob Pharmaceut 1970:281",
+   "pmid": "",
+   "why": "The only prior pharmacodynamic study of aptocaine, in animals; establishes that the 1976 human trial was the first human intradermal study of the agent."
+  },
+  {
+   "citation": "Reynolds F. MD Thesis, London University, 1971",
+   "pmid": "",
+   "why": "Cited for bupivacaine's high lipid solubility; the Reynolds group's own earlier intradermal work, relevant to tracing the lineage of the intradermal method used across Reynolds 1976, Aps and Reynolds 1978, Fairley and Reynolds 1981 and Willatts and Reynolds 1985."
+  },
+  {
+   "citation": "Goldman V, Killey HC, Wright C. Effects of local analgesic agents and vasoconstrictors on rabbits' ears. Acta Anaesthesiol Scand Suppl 1966;23:35",
+   "pmid": "",
+   "why": "Cited for prilocaine-with-felypressin causing prolonged soft tissue anaesthesia; animal data, bears only weakly on prilocaine duration claims C065/C066."
+  }
+ ]
+}
