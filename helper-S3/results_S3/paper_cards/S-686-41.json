@@ -1,0 +1,71 @@
+{
+ "paper_id": "S-686-41",
+ "citation": "Yasuda H, Hirai A, Joko M, Terada M, Kawabata T, Maeda K, Haneda M, Kashiwagi A, Maeda T, Kikkawa R. Effect of aldose reductase inhibitor on cutaneous nerve fiber length in diabetic patients (Letter). Diabetes Care 2000;23(5):705",
+ "pmid": "10834436",
+ "doi": "10.2337/diacare.23.5.705b",
+ "right_paper": true,
+ "text_quality": "ok: the letter is complete on PDF page 7 (journal page 705) of a 17-page Letters section; pages 6 and 8 were read to confirm it neither starts earlier nor continues. The other 16 pages are unrelated letters. No abstract, figures or tables; one paragraph of results.",
+ "design": "Controlled treatment comparison reported as a research letter: epalrestat group against a control group over 13 months. Allocation, randomisation, blinding and what the controls received are not described; baseline backgrounds said to be similar. Skin biopsies quantified by PGP 9.5 immunofluorescence under confocal microscopy (the authors' own published method, Hirai 2000), with electron microscopy of the upper dermis.",
+ "population": "Japanese patients with type 2 diabetes and neuropathy (Shiga University of Medical Science); 32 stated, but the arms given are 19 + 12 = 31.",
+ "n": "19 epalrestat, 12 control (32 stated in the text).",
+ "setting": "Third Department of Medicine and Department of Anatomy, Shiga University of Medical Science, Otsu, Japan.",
+ "intervention": "Oral epalrestat 50 mg three times a day for 13 months.",
+ "comparator": "Control subjects (treatment, if any, not stated; not described as placebo).",
+ "route": "oral",
+ "duration": "13 months",
+ "outcomes": "Percent change in epidermal and dermal nerve fibre length (NFL) on skin biopsy (PGP 9.5, confocal); number exceeding the control mean + 2 SD; HbA1c; dermal fibre ultrastructure.",
+ "key_results": [
+  {
+   "quote": "Using this technique, we evaluated the therapeutic effect of aldose reductase inhibitor (ARI) epalrestat in 32 type 2 diabetic patients with neuropathy.",
+   "page": 7
+  },
+  {
+   "quote": "Nineteen patients were treated with epalrestat … for 13 months (ARI group) and 12 patients served as control subjects (control group).",
+   "page": 7
+  },
+  {
+   "quote": "The percent change of … epidermal NFL was not different between the 2 groups, whereas the percent change of dermal NFL was significantly greater in the ARI group (249 ± 478%) than in the control group (29 ± 40%).",
+   "page": 7
+  },
+  {
+   "quote": "The number of patients whose percent change of dermal NFL exceeded its mean ± 2 SD (109%) in control group was significantly higher in the ARI group than in the control group (P < 0.05, 8/19 vs. 1/12).",
+   "page": 7
+  },
+  {
+   "quote": "Ultrastructurally, the fine fibers proliferating in the upper dermis of the patients with increased NFL proved to be composed of an increased number of axons with incomplete Schwann cell coverage, a finding compatible with regenerating nerve fibers.",
+   "page": 7
+  },
+  {
+   "quote": "Unlike dermal innervation, epidermal innervation was not improved with ARI.",
+   "page": 7
+  },
+  {
+   "quote": "No significant change in HbA1c was found in either group during the trial.",
+   "page": 7
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Since NFL was highly variable but reproducible for individual patients, the effect of epalrestat on NFL was evaluated by its percent change during the trial.",
+   "page": 7
+  }
+ ],
+ "funding_conflicts": "None stated (letter format). Not noted by the authors: the arms sum to 31 against 32 stated; dermal change is 249 ± 478%, so the distribution is extremely skewed, and the statistical test is not named.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Hirai A, Yasuda H, Joko M, Maeda T, Kikkawa R. Evaluation of diabetic neuropathy through the quantitation of cutaneous nerves. J Neurol Sci 2000;172:55–62 (ref 2)",
+   "pmid": "10620661",
+   "why": "The method paper (dermal nerve fibre length shorter in diabetes); cross-sectional, no treatment. Already in A027's records."
+  },
+  {
+   "citation": "Sima AA, Bril V, Nathaniel V, et al. Regeneration and repair of myelinated fibers in sural-nerve biopsy specimens from patients with diabetic neuropathy treated with sorbinil. N Engl J Med 1988;319:548–555 (ref 3)",
+   "pmid": "",
+   "why": "The sorbinil sural-biopsy RCT that the Growing Back Nerves page and Reference S238 already cite."
+  },
+  {
+   "citation": "Anand P, Terenghi G, Warner G, et al. The role of endogenous nerve growth factor in human diabetic neuropathy. Nat Med 1996;2:703–707 (ref 7)",
+   "pmid": "",
+   "why": "Skin NGF depletion in diabetes; mechanism only."
+  }
+ ]
+}

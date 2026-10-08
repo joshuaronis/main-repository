@@ -165,5 +165,25 @@
   "no_mention_found_on": [
    "Polydefkis 2015 is not cited anywhere found; ranirestat only in Reference §6.12.4"
   ]
+ },
+ {
+  "paper_id": "S-686-41",
+  "notion_searches": [
+   "(cached pages searched for Yasuda, 10834436, diacare.23.5.705, epalrestat, Kinedak)"
+  ],
+  "pages_fetched": [
+   {
+    "page": "Growing Back Nerves (ARI section, Sources), Reference §6.12.4, table and S238, Product Guide (cached copies)",
+    "url": "",
+    "as_of": "see earlier entries"
+   }
+  ],
+  "method": "Full-text search of the cached pages; passages around each hit read.",
+  "no_mention_found_on": [
+   "What transfers",
+   "unsettled",
+   "searched-for-and-absent",
+   "Non-drug"
+  ]
  }
 ]

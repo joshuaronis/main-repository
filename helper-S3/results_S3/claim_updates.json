@@ -180,5 +180,44 @@
   "page": 7,
   "proposed_wording": "",
   "reason": "Answer to the open question: the ranirestat phase II/III trial (NCT00927914, 800 randomised) did not include skin biopsy or IENFD among any of its endpoints. The authors say skin biopsy was considered and dropped because regulators did not accept it as an approval criterion, and they list the secondary and exploratory measures without it (p. 4). So this trial does not add to the class's skin-biopsy literature. The other half of the claim's uncertainty, what the 2000 letter is, is answered in the Yasuda 2000 entry (S-686-41)."
+ },
+ {
+  "claim_id": "A026",
+  "paper_id": "S-686-41",
+  "pmid": "10834436",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "Nineteen patients were treated with epalrestat … for 13 months (ARI group) and 12 patients served as control subjects (control group).",
+  "page": 7,
+  "proposed_wording": "Its only fibre trial is a 2000 research letter: 19 patients with type 2 diabetic neuropathy on epalrestat for 13 months against 12 controls, with no randomisation or blinding described, measuring skin nerve fibre length by biopsy. Epidermal fibre length did not change and dermal fibre length rose (Yasuda 2000). It has no randomised fibre-density trial.",
+  "reason": "The full text answers the open question. The agent was epalrestat; there was a control group (12, not stated to be randomised or placebo); and cutaneous nerve fibre length, a skin fibre-quantity measure from PGP 9.5 biopsies, was the treatment outcome over 13 months. That matches the claim's population (diabetic neuropathy), intervention, design (a controlled trial) and outcome (skin fibre measure), so 'no fibre-density trial' is refuted. The result was null in the epidermis, the layer IENFD counts, and positive only in the dermis."
+ },
+ {
+  "claim_id": "A027",
+  "paper_id": "S-686-41",
+  "pmid": "10834436",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Using this technique, we evaluated the therapeutic effect of aldose reductase inhibitor (ARI) epalrestat in 32 type 2 diabetic patients with neuropathy.",
+  "page": 7,
+  "proposed_wording": "The entire skin-biopsy literature for this class in the marketed era is a single 2000 research letter in Diabetes Care, published without an abstract: 19 patients on epalrestat against 12 controls for 13 months, dermal nerve fibre length up and epidermal unchanged.",
+  "reason": "The letter is the epalrestat skin-biopsy study the claim describes (agent, journal, year and letter format all confirmed), and Polydefkis 2015 (S-686-22) shows that the 800-patient ranirestat trial took no skin biopsies. Nothing found extends the class's skin literature, so the claim stands; the added wording only says what the letter contains."
+ },
+ {
+  "claim_id": "C076",
+  "paper_id": "S-686-41",
+  "pmid": "10834436",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "We reported that dermal nerve fiber length (NFL), which was obtained by measuring nerve fiber PGP 9.5, immunostained, and labeled with streptavidin fluorescein isothiocyanate under confocal laser scanning microscopy, was significantly shorter in diabetic patients than in control subjects (2).",
+  "page": 7,
+  "proposed_wording": "",
+  "reason": "One more objective skin measure besides intraepidermal fibre density: dermal and epidermal nerve fibre length by confocal PGP 9.5 immunofluorescence, shorter in diabetes and used as a treatment outcome. The claim stays refuted (see also the Hart 2004 entry)."
  }
 ]

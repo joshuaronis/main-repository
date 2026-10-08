@@ -313,5 +313,35 @@
   "corrected_wording": "Burakgazi 2020 studied eight subjects with idiopathic small fibre neuropathy, stimulating the calf muscles of one leg for 60 days with the other leg as an untreated control (no sham, leg chosen by the subject), with punch biopsies of both legs at baseline, 30 and 60 days",
   "importance": "low",
   "notes": "The quoted 'treated group compared with the untreated group' refers to the treated and untreated legs of the same eight people, not two groups. The full text confirms the population is the page's 'exact disease' if that means idiopathic SFN."
+ },
+ {
+  "finding_id": "S3-F022",
+  "paper_id": "S-686-41",
+  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
+  "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
+  "page_version": "2026-10-01T02:05:48.095Z",
+  "section": "§6.12 structural-evidence table, row 11 'Sorbinil and zenarestat' (also §6.12.4 'Epalrestat is the only survivor and it is the one without the evidence.')",
+  "sentence_as_it_stands": "no — both withdrawn for toxicity; epalrestat has no fibre-density evidence and no COFEPRIS registration",
+  "kind": "overstated",
+  "quote": "The percent change of … epidermal NFL was not different between the 2 groups, whereas the percent change of dermal NFL was significantly greater in the ARI group (249 ± 478%) than in the control group (29 ± 40%).",
+  "page_in_paper": 7,
+  "corrected_wording": "no — both withdrawn for toxicity; epalrestat's only fibre evidence is a 2000 research letter, 19 treated against 12 controls for 13 months, with epidermal nerve fibre length unchanged and dermal length up, and it has no COFEPRIS registration",
+  "importance": "medium",
+  "notes": "Same point as the A026 update on the Growing Back Nerves page ('It has no fibre-density trial'). §6.12.4's 'the one without the evidence' overstates in the same way. The Reference's 'Its entire skin-biopsy literature is a 2000 research letter … without an abstract' is correct."
+ },
+ {
+  "finding_id": "S3-F023",
+  "paper_id": "S-686-41",
+  "page": "Alternative Treatments For Growing Back Nerves In SFN",
+  "page_url": "https://app.notion.com/p/1d410b7903aa80b684fce440ab72ee3d",
+  "page_version": "2026-09-26T18:25:56.958Z",
+  "section": "Sources > Aldose reductase inhibitors (Yasuda 2000 entry)",
+  "sentence_as_it_stands": "a research letter, published without an abstract. It is the entire skin-biopsy literature for this class in the marketed era. Limits: A letter. It cannot carry the weight that is put on it.",
+  "kind": "now-verified",
+  "quote": "Nineteen patients were treated with epalrestat … for 13 months (ARI group) and 12 patients served as control subjects (control group).",
+  "page_in_paper": 7,
+  "corrected_wording": "a research letter, published without an abstract: epalrestat in 19 patients with type 2 diabetic neuropathy against 12 controls for 13 months (allocation and blinding not described), skin biopsies scored for nerve fibre length; epidermal length unchanged, dermal length up (8 of 19 against 1 of 12 beyond the control range), with ultrastructure 'compatible with regenerating nerve fibers'. It is the entire skin-biopsy literature for this class in the marketed era. Limits: a letter, 31–32 patients, non-randomised as far as reported, and null in the epidermis.",
+  "importance": "low",
+  "notes": "The entry and A026/A027 were written without the letter's text (the record flagged it as unread). Every element is now verified from the full text."
  }
 ]
