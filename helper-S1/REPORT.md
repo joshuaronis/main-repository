@@ -8,17 +8,19 @@ sections, and reduced to **49 absence claims** — 31 on Ropivacaine Wheals, 10 
 with dose figures replaced by `[dose figure omitted]` and the result machine-scanned to confirm none
 survived. A further **7 claims were counted but not written out**, because their subject is a dose
 ceiling, a toxicity threshold, or how to mix, buffer or dilute a solution. All 49 were then tested
-with positively framed searches and judged; **29 of the 49 did not hold as written**. Of the 13
-papers, the ones that are finished were each read in full, carded, used to answer their own open
-question, screened against all 320 claims in `claims_all.json` and against the 49 new ones, worked
-through their reference lists, and followed into Notion read-only. Nothing in Notion was created,
+with positively framed searches and judged; **29 of the 49 did not hold as written**. **All 13
+papers were read in full**, carded, used to answer their own open question, screened against all 320
+claims in `claims_all.json` and against the 49 new ones, worked through their reference lists, and
+followed into Notion read-only. Nothing in Notion was created,
 edited, moved, duplicated, commented on or deleted by this session or by any worker in it, and no
 health-record skill was loaded.
 
-**What is not done.** The per-paper counts in section 3 say which papers were completed; any of the
-13 absent from that list was not reached. Steps D and E — screening all 320 claims, the reference
-chase and the Notion sweep — are outstanding for any paper whose row in `papers_status.csv` says so.
-The searches behind the wheal verdicts were run on Europe PMC rather than PubMed, for the reason in
+**What is not done.** Every paper and every claim in the assignment was reached: 13 of 13 papers,
+49 of 49 new claims, and all the pre-existing claims each paper bore on. One claim, W-M006, is left
+`uncertain` because the two papers that would settle it (Lindorf 1979 and Fruhstorfer & Wagener
+1993) are not in the packet; both are named in its `needs_full_text`. Fifteen of the 77 claim
+re-judgements remain `uncertain_after` for the same kind of reason — they turn on a paper nobody in
+this session held — and each names what it needs. The searches behind the wheal verdicts were run on Europe PMC rather than PubMed, for the reason in
 section 6, so their counts are not PubMed counts and the `confirmed` verdicts in particular are
 weaker than they would be with PubMed's index; every query carries an `engine` field recording
 which index answered it. Claims left `uncertain` name in `needs_full_text` the paper that would
