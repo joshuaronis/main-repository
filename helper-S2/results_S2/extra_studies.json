@@ -437,5 +437,112 @@
   ],
   "what_it_shows": "Not cited by Varghese 2024; looked up while answering D068's question about the review Varghese's meta-analysis follows. The notice says the review group withdrew the 2006 review on 23 May 2013 because the authors were no longer available to complete an update, with no error alleged: it verifies the half of D068's wording that stays ('The withdrawal is administrative rather than a finding of error'). It does not bear on the 'nothing has replaced it' element, so it carries no claim update.",
   "quote_from_abstract": "At 23 May 2013, The Cochrane Pain, Palliative and Supportive Care Review Group (PaPaS) withdrew this review as the authors were no longer available to complete the update."
+ },
+ {
+  "pmid": "20171359",
+  "citation": "Batista da Silva C, Berto LA, Volpato MC, Ramacciato JC, Motta RH, Ranali J, Groppo FC. Anesthetic efficacy of articaine and lidocaine for incisive/mental nerve block. J Endod 2010;36(3):438-41",
+  "found_in_paper": "S-686-01",
+  "bears_on_claim_ids": [
+   "C053"
+  ],
+  "what_it_shows": "Randomised double-blind crossover trial in 40 volunteers: articaine vs lidocaine (both with epinephrine) deposited around the incisive/mental nerve; onset, success and duration of pulpal anaesthesia measured (articaine more successful and longer for most teeth). A perineural articaine injection in people with a measured outcome; no examination of the nerve. Baroni's ref 9.",
+  "quote_from_abstract": "This prospective randomized double-blind crossover study compared the anesthetic efficacy of [dose figure omitted] articaine and [dose figure omitted] lidocaine, both with [dose figure omitted] epinephrine administered as IMNB to 40 volunteers in two sessions."
+ },
+ {
+  "pmid": "26826985",
+  "citation": "Silva CB, Groppo FC, Santos CP, Serpe L, Franz-Montan M, de Paula E, Ranali J, Volpato MC. Anaesthetic efficacy of unilamellar and multilamellar liposomal formulations of articaine in inflamed and uninflamed tissue. Br J Oral Maxillofac Surg 2016;54(3):295-300",
+  "found_in_paper": "S-686-01",
+  "bears_on_claim_ids": [
+   "C053"
+  ],
+  "what_it_shows": "Rat experiment: articaine with epinephrine and two liposomal articaine formulations injected near the infraorbital foramen (infraorbital nerve block) in uninflamed tissue, and into a paw incision in inflamed tissue; success and duration of anaesthesia measured. A perineural articaine injection in animals with a measured outcome; no examination of the nerve. Found by a PubMed search run for Baroni, not in its reference list.",
+  "quote_from_abstract": "Anaesthetic formulations ([dose figure omitted]) were injected near the right infraorbital foramen in uninflamed tissue, where success and duration of anaesthesia were assessed by pinching the upper lip every 5 minutes."
+ },
+ {
+  "pmid": "21531935",
+  "citation": "Hillerup S, Jensen RH, Ersbøll BK. Trigeminal nerve injury associated with injection of local anesthetics: needle lesion or neurotoxicity? J Am Dent Assoc 2011;142(5):531-9",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [
+   "C050"
+  ],
+  "what_it_shows": "Hopman's only Hillerup reference (ref 21): Danish national registry data (local-anaesthetic sales 1995-2007, 292 adverse-reaction reports to the Danish Medicines Agency) plus a clinical sample of 115 patients with neurosensory disturbance; over-representation of articaine, especially after mandibular blocks, attributed to neurotoxicity rather than needle penetration. It is a different paper from the rat sciatic-nerve study (PMID 21467556) that C050 is about, so it does not make Hopman a citing paper.",
+  "quote_from_abstract": "The authors used comprehensive national registry and clinical data to conduct a study of adverse drug reactions (ADRs), in particular neurosensory disturbance (NSD), associated with local anesthetics used in dentistry"
+ },
+ {
+  "pmid": "14515234",
+  "citation": "Saray A, Apan A, Kisa U. Free radical-induced damage in experimental peripheral nerve injection injury. J Reconstr Microsurg 2003;19(6):401-6",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [
+   "D005",
+   "C049"
+  ],
+  "what_it_shows": "Controlled rat experiment (three randomised groups): one intrafascicular injection of lidocaine at a marketed strength, phenol, or saline into the sciatic nerve; an oxidative-damage marker (TBARS) rose with injury severity and walking-track impairment lasted until about 8 weeks after lidocaine, against transient impairment after saline. Another demonstration of weeks-long nerve damage from a single injection of a non-articaine anaesthetic (D005 refuted, standing verdict kept); function and a biochemical marker only, no fibre morphometry (C049 would only be narrowed).",
+  "quote_from_abstract": "Lidocaine and phenol were injected into the sciatic nerves of the rats in Groups 1 and 2, respectively. Physiologic saline was used in the controls (Group 3). All the agents were injected intrafascicularly."
+ },
+ {
+  "pmid": "19700777",
+  "citation": "Werdehausen R, Fazeli S, Braun S, Hermanns H, Essmann F, Hollmann MW, Bauer I, Stevens MF. Apoptosis induction by different local anaesthetics in a neuroblastoma cell line. Br J Anaesth 2009;103(5):711-8",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [
+   "C063"
+  ],
+  "what_it_shows": "University laboratory (Düsseldorf), human neuroblastoma (SHEP) cells, eight anaesthetics, 24-hour incubation, flow cytometry: every anaesthetic including articaine was neurotoxic in a concentration-dependent way, with articaine (equal to procaine) the least toxic. Harm to nerve cells from articaine outside any nerve sheath, so C063 is refuted; also independent support for articaine's low in-vitro toxicity (articaine-wheals laboratory section, Notion finding F02).",
+  "quote_from_abstract": "All local anaesthetics were neurotoxic in a concentration-dependent manner."
+ },
+ {
+  "pmid": "22012177",
+  "citation": "Werdehausen R, Braun S, Fazeli S, Hermanns H, Hollmann MW, Bauer I, Stevens MF. Lipophilicity but not stereospecificity is a major determinant of local anaesthetic-induced cytotoxicity in human T-lymphoma cells. Eur J Anaesthesiol 2012;29(1):35-41",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [
+   "C063"
+  ],
+  "what_it_shows": "Same group, non-neuronal (Jurkat T-lymphoma) cells, eight anaesthetics: concentration-dependent cytotoxicity for all, articaine second least toxic (only mepivacaine less). Supports C063's refutation only as harm to a non-nerve cell type; a second independent ranking of articaine at the gentle end.",
+  "quote_from_abstract": "Concentration-dependent cytotoxicity was observed for all investigated local anaesthetics."
+ },
+ {
+  "pmid": "25514420",
+  "citation": "Malet A, Faure MO, Deletage N, Pereira B, Haas J, Lambert G. The comparative cytotoxic effects of different local anesthetics on a human neuroblastoma cell line. Anesth Analg 2015;120(3):589-96",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [
+   "C061",
+   "C063"
+  ],
+  "what_it_shows": "SH-SY5Y neuroblastoma cells exposed for 20 minutes to six anaesthetics: all induced concentration-dependent cell death; three toxicity bands with ropivacaine and articaine least toxic. The study C061 is about (Hopman cites it without contesting it); also neuronal cell death from articaine outside a nerve sheath (C063). Cached abstract has its lethal-concentration values redacted.",
+  "quote_from_abstract": "As expected, all LAs induced cell death in a concentration-dependent manner."
+ },
+ {
+  "pmid": "14959905",
+  "citation": "Ribeiro PD, Sanches MG, Okamoto T. Comparative analysis of tissue reactions to anesthetic solutions: histological analysis in subcutaneous tissue of rats. Anesth Prog 2003;50(4):169-80",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [
+   "C063",
+   "C054"
+  ],
+  "what_it_shows": "Rats: absorbent paper cones soaked in lidocaine, bupivacaine, articaine, mepivacaine or saline and implanted subcutaneously, histology at 1, 2, 5 and 10 days; all anaesthetics irritated the tissue, articaine and mepivacaine less than bupivacaine, lidocaine least. Tissue reaction to articaine outside a nerve sheath (supports C063's refutation); an implant under the skin rather than an injection into skin, so it does not touch C054's operative element. Hopman's summary ('higher inflammatory reaction than lidocaine but … comparable with the other anaesthetics') differs slightly from this abstract.",
+  "quote_from_abstract": "Sterilized absorbent paper cones packed inside polyethylene tubes were soaked in the solutions and implanted in the subcutaneous region."
+ },
+ {
+  "pmid": "7736335",
+  "citation": "Haas DA, Lennon D. A 21 year retrospective study of reports of paresthesia following local anesthetic administration. J Can Dent Assoc 1995;61(4):319-20, 323-6, 329-30",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Ontario liability reports 1973-1993: 143 non-surgical paraesthesia reports over 21 years, but the incidence projection rests on the 14 reports of 1993 alone, all of which involved articaine or prilocaine. Decides no claim; it underlies the Notion findings on how articaine-wheals and prilocaine-wheals describe the basis of the Ontario rates (F03, F09).",
+  "quote_from_abstract": "In 1993 alone, there were 14 reports of paresthesia not associated with surgery. … Articaine was administered in 10 of these cases or prilocaine in the other four."
+ },
+ {
+  "pmid": "25420896",
+  "citation": "Piccinni C, Gissi DB, Gabusi A, Montebugnoli L, Poluzzi E. Paraesthesia after local anaesthetics: an analysis of reports to the FDA Adverse Event Reporting System. Basic Clin Pharmacol Toxicol 2015;117(1):52-6",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "A case/non-case disproportionality analysis of FAERS reports 2004-2011 (reporting odds ratios against all other reports of the same drug), not a comparison with sales; only articaine and prilocaine gave a paraesthesia signal. Decides no claim; it underlies the Notion finding on the articaine-wheals Sources entry 'Limits: as above' (F04).",
+  "quote_from_abstract": "A case/non-case study of spontaneous adverse events recorded in FAERS (FDA Adverse Event Reporting System) between 2004 and 2011 was performed. Cases were represented by the reports of reactions grouped under the term 'Paraesthesias and dysaesthesias' involving local anaesthetics (ATC: N01B*); non-cases were all other reports of the same drugs."
+ },
+ {
+  "pmid": "9435991",
+  "citation": "Oertel R, Rahn R, Kirch W. Clinical pharmacokinetics of articaine. Clin Pharmacokinet 1997;33(6):417-25",
+  "found_in_paper": "S-686-12",
+  "bears_on_claim_ids": [],
+  "what_it_shows": "Review of articaine pharmacokinetics (Hopman ref 19): articaine is an amide carrying an additional ester group that esterases hydrolyse quickly, with blood and serum the sites of metabolism. Decides no claim; it underlies the Notion finding on the Procaine / Novocaine page's statement that the amides, articaine included, are not cut in plasma (F11). Cached abstract has its dose, plasma-level and toxicity passages redacted.",
+  "quote_from_abstract": "The amide structure of articaine is similar to that of other local anaesthetics, but it contains an additional ester group which is quickly hydrolysed by esterases."
  }
 ]

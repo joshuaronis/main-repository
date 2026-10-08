@@ -1,0 +1,16 @@
+{
+ "query": "(\"anesthetic cream\"[tiab] OR \"anaesthetic cream\"[tiab] OR \"local anesthetic cream\"[tiab] OR \"local anaesthetic cream\"[tiab] OR \"topical anesthesia\"[tiab] OR \"topical anaesthesia\"[tiab] OR \"cutaneous anesthesia\"[tiab] OR \"cutaneous anaesthesia\"[tiab]) AND (neuropathic[tiab] OR neuralgia[tiab] OR neuropathy[tiab] OR \"complex regional\"[tiab] OR CRPS[tiab] OR phantom[tiab] OR \"nerve injury\"[tiab] OR allodynia[tiab]) AND (placebo[tiab] OR sham[tiab] OR vehicle[tiab])",
+ "max_results": 40,
+ "count": 5,
+ "translation": "(\"anesthetic cream\"[Title/Abstract] OR \"anaesthetic cream\"[Title/Abstract] OR \"local anesthetic cream\"[Title/Abstract] OR \"local anaesthetic cream\"[Title/Abstract] OR \"topical anesthesia\"[Title/Abstract] OR \"topical anaesthesia\"[Title/Abstract] OR \"cutaneous anesthesia\"[Title/Abstract] OR \"cutaneous anaesthesia\"[Title/Abstract]) AND (\"neuropathic\"[Title/Abstract] OR \"neuralgia\"[Title/Abstract] OR \"neuropathy\"[Title/Abstract] OR \"complex regional\"[Title/Abstract] OR \"CRPS\"[Title/Abstract] OR \"phantom\"[Title/Abstract] OR \"nerve injury\"[Title/Abstract] OR \"allodynia\"[Title/Abstract]) AND (\"placebo\"[Title/Abstract] OR \"sham\"[Title/Abstract] OR \"vehicle\"[Title/Abstract])",
+ "pmids": [
+  "39545073",
+  "27403887",
+  "26270587",
+  "19597277",
+  "19033877"
+ ],
+ "date_searched": "2026-10-07T23:59:57Z",
+ "searched_for": "S-686-43",
+ "source": "PubMed MCP connector (search_articles); eutils blocked by the session's network policy"
+}

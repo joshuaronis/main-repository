@@ -1,0 +1,240 @@
+{
+ "paper_id": "S-686-01",
+ "citation": "Baroni DB, Franz-Montan M, Cogo K, Berto LA, Volpato MC, Novaes PD, Groppo FC. Effect of articaine on mental nerve anterior portion: histological analysis in rats. Acta Odontol Scand 2013;71(1):82-87 (epub 29 Mar 2012)",
+ "pmid": "22458536",
+ "doi": "10.3109/00016357.2011.654243",
+ "right_paper": true,
+ "text_quality": "ok (6 PDF pages, published version; micro, degree and multiplication signs dropped in extraction; 'Mental nerve' is printed 'Metal nerve' in the figure labels; Figures 3-8 are qualitative photomicrographs, Figure 2 repeats Table I)",
+ "design": "Controlled animal experiment, split-mouth (injected right side vs saline-injected left side of the same rat), three parallel groups, qualitative histopathology; Kruskal-Wallis and Dunn tests",
+ "population": "Healthy male Wistar rats, 60 days old",
+ "n": "24 rats, 8 per group: articaine with epinephrine (G1), lidocaine with epinephrine (G2), epinephrine alone (G3); every rat also had a contralateral saline control side",
+ "setting": "Laboratory, Piracicaba Dental School, University of Campinas (UNICAMP), Brazil; animal ethics protocol CEEA-Unicamp #830-1",
+ "intervention": "One injection under thiopental anaesthesia into the alveolar mucosa beside the lower right first molar, near the mental nerve (Figure 1) - not into the nerve: G1 articaine with epinephrine, G2 lidocaine with epinephrine, G3 epinephrine alone, each at the standard marketed dental formulation (the paper gives volumes and concentrations on PDF p3; not repeated here). Only one articaine concentration was tested.",
+ "comparator": "Saline injected into the contralateral mucosa of every rat; comparisons between the three groups",
+ "route": "Submucosal infiltration beside the mental nerve in the rat mandible (extraneural); not intraneural, not intradermal",
+ "duration": "Single injection; one time point - animals killed 24 h after injection",
+ "outcomes": "H&E light microscopy of serial sections where the mental nerve crosses the cortical bone: qualitative 1-5 score of leucocyte (inflammatory) infiltration in the soft tissue and nerve near the injection site, and presence of necrosis. No nerve morphometry or stereology, no electrophysiology, no sensory or behavioural testing, no later time point.",
+ "key_results": [
+  {
+   "quote": "The rats were divided into three groups (n = 8).",
+   "page": 3
+  },
+  {
+   "quote": "The previous described solutions ([dose figure omitted]) were injected in the alveolar mucosa close to the lowerright first molar of rats (Figure 1)",
+   "page": 3
+  },
+  {
+   "quote": "After 24 h, the animals were killed and the samples (mandible and the soft tissue adhered) were removed.",
+   "page": 3
+  },
+  {
+   "quote": "The images were submitted to qualitative analysis in order to evaluate the intensity of leucocytes infiltration and/or any possible necrosis area.",
+   "page": 3
+  },
+  {
+   "quote": "An inflammatory infiltration was found around mental nerve, classified as intense for G3, moderate for G1 and light for both G2 and control groups. No injuries were found in nervous structure, despite the inflammatory reaction observed around it.",
+   "page": 1
+  },
+  {
+   "quote": "The mental nerve was not histologically affected by the treatments. However, higher scores (p < 0.05) of inflammation in connective tissue were observed when epinephrine was administered alone (Group 3) than associated with the local anesthetics (Groups 1 and 2).",
+   "page": 5
+  },
+  {
+   "quote": "Similarly, in the present study no significant increase in score inflammation was observed 24 h after articaine injection. Microscopic analysis of nervous structure showed no difference between the treated and the control sides.",
+   "page": 5
+  },
+  {
+   "quote": "Similarly, the present study demonstrated that lidocaine was similar to saline solution and less toxic then articaine, although no statistical difference was observed.",
+   "page": 5
+  },
+  {
+   "quote": "Despite the intense inflammation observed in this group, there was no evidence of injury to the nervous structure.",
+   "page": 5
+  },
+  {
+   "quote": "So, it was suggested that an important cause of paresthesia could be related to the local anesthetic dosedependent neurotoxicity. Some in vitro studies support this hypothesis [27,28].",
+   "page": 5
+  },
+  {
+   "quote": "Although the higher incidence of paresthesia associated to the use of [dose figure omitted] articaine formulation in comparison to other local anesthetics [10–13], the hypothesis that this local anesthetic may be neurotoxic was not confirmed in the present study.",
+   "page": 5
+  },
+  {
+   "quote": "The results of the present study suggest that articaine is not toxic to the nervous structure and that further studies are necessary to explain the possible relation between articaine injection and paresthesia.",
+   "page": 5
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "further studies are necessary to explain the possible relation between articaine injection and paresthesia",
+   "page": 5
+  },
+  {
+   "quote": "less toxic then articaine, although no statistical difference was observed",
+   "page": 5
+  }
+ ],
+ "funding_conflicts": "Funded by CNPq (Brazilian National Council for Scientific and Technological Development), Acknowledgments PDF p5. 'The authors report no conflicts of interest.' (PDF p6). No limitations section in the paper.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "[28] Hillerup S, Bakke M, Larsen JO, Thomsen CE, Gerds TA. Concentration-dependent neurotoxicity of articaine: an electrophysiological and stereological study of the rat sciatic nerve. Anesth Analg 2011;112(6):1330-8",
+   "pmid": "21467556",
+   "why": "The intraneural rat sciatic-nerve study the articaine-wheals page rests on (C049-C052, D005; C050 asks whether citing papers contradict it). Baroni cites it once (PDF p5) as one of 'some in vitro studies' supporting dose-dependent neurotoxicity - it is an in vivo study - and never describes it; Baroni's own conclusion runs the other way."
+  },
+  {
+   "citation": "[13] Hillerup S, Jensen R. Nerve injury caused by mandibular block analgesia. Int J Oral Maxillofac Surg 2006;35:437-43",
+   "pmid": "16343853",
+   "why": "Danish case series of 52 patients with injection nerve injuries after mandibular block, a majority associated with articaine; the paraesthesia signal behind the articaine pages (C056 context). Cited four times (PDF p2, p5) as background, never disputed."
+  },
+  {
+   "citation": "[10] Haas DA, Lennon D. A 21 year retrospective study of reports of paresthesia following local anesthetic administration. J Can Dent Assoc 1995;61:319-30",
+   "pmid": "7736335",
+   "why": "Voluntary paraesthesia reports by drug (Ontario); report-based incidence data (C056: no prospective study)."
+  },
+  {
+   "citation": "[11] Gaffen AS, Haas DA. Retrospective review of voluntary reports of nonsurgical paresthesia in dentistry. J Can Dent Assoc 2009;75:579",
+   "pmid": "19840499",
+   "why": "Voluntary paraesthesia reports by drug; report-based incidence data (C056)."
+  },
+  {
+   "citation": "[3] and [12] (listed twice) Garisto GA, Gaffen AS, Lawrence HP, Tenenbaum HC, Haas DA. Occurrence of paresthesia after dental local anesthetic administration in the United States. J Am Dent Assoc 2010;141:836-44",
+   "pmid": "20592403",
+   "why": "US FDA adverse-event reports of paraesthesia by anaesthetic (articaine and prilocaine signal); report-based design (C056)."
+  },
+  {
+   "citation": "[2] Haas DA. Articaine and paresthesia: epidemiological studies. J Am Coll Dent 2006;73:5-10",
+   "pmid": "17477212",
+   "why": "Review of articaine paraesthesia epidemiology (articaine-wheals 'reports from dental practice')."
+  },
+  {
+   "citation": "[22] Haas DA. An update on local anesthetics in dentistry. J Can Dent Assoc 2002;68:546-51",
+   "pmid": "12366885",
+   "why": "Review cited among 'other follow-up studies' of paraesthesia by drug."
+  },
+  {
+   "citation": "[27] Werdehausen R, Fazeli S, Braun S, Hermanns H, Essmann F, Hollmann MW, et al. Apoptosis induction by different local anaesthetics in a neuroblastoma cell line. Br J Anaesth 2009;103:711-18",
+   "pmid": "19700777",
+   "why": "In vitro neurotoxicity ranking of eight anaesthetics (incl. articaine, lidocaine, mepivacaine, prilocaine, ropivacaine, bupivacaine, procaine); all concentration-dependent, articaine and procaine least apoptotic. Bears on cell-culture rankings on the articaine, mepivacaine, ropivacaine, bupivacaine and procaine pages."
+  },
+  {
+   "citation": "[29] Lambert LA, Lambert DH, Strichartz GR. Irreversible conduction block in isolated nerve by high concentrations of local anesthetics. Anesthesiology 1994;80:1082-93",
+   "pmid": "8017646",
+   "why": "Isolated-nerve evidence that high anaesthetic concentrations cause irreversible conduction block (local-anaesthetic neurotoxicity)."
+  },
+  {
+   "citation": "[30] Johnson ME, Saenz JA, DaSilva AD, Uhl CB, Gores GJ. Effect of local anesthetic on neuronal cytoplasmic calcium and plasma membrane lysis (necrosis) in a cell culture model. Anesthesiology 2002;97:1466-76",
+   "pmid": "12459673",
+   "why": "Cell-culture mechanism of local-anaesthetic neurotoxicity (lidocaine)."
+  },
+  {
+   "citation": "[31] Radwan IAM, Saito S, Goto F. The neurotoxicity of local anesthetics on growing neurons: a comparative study of lidocaine, bupivacaine, mepivacaine, and ropivacaine. Anesth Analg 2002;94:319-24",
+   "pmid": "11812691",
+   "why": "In vitro growth-cone collapse in chick-embryo DRG neurons with lidocaine, bupivacaine, mepivacaine and ropivacaine (mepivacaine, ropivacaine and bupivacaine wheal pages). Baroni cites it for prilocaine and lidocaine being equally neurotoxic in rats, which this paper does not test (citation error in Baroni)."
+  },
+  {
+   "citation": "[23] Leuschner J, Leblanc D. Studies on the toxicological profile of the local anaesthetic articaine. Arzneimittelforschung 1999;49:126-32",
+   "pmid": "10083981",
+   "why": "Preclinical toxicology of articaine (repeated subcutaneous dosing in rats and dogs, reproduction, mutagenicity, local tolerance); Baroni's main supporting citation. The abstract carries no-effect levels and a maximum human dose (not copied); it does not state the route of the local-tolerance tests."
+  },
+  {
+   "citation": "[35] Ribeiro PD Jr, Sanches MG, Okamoto T. Comparative analysis of tissue reactions to anesthetic solutions: histological analysis in subcutaneous tissue of rats. Anesth Prog 2003;50:169-80",
+   "pmid": "14959905",
+   "why": "Rat subcutaneous tissue reaction (H&E, days 1-10) to lidocaine, bupivacaine, articaine and mepivacaine solutions; free in PMC (PMC2007452). It implanted solution-soaked paper cones, not an injection, although Baroni calls it 'subcutaneous articaine injection'. Bears on tissue reaction to anaesthetic solutions (C054, C063, C093 context; mepivacaine and bupivacaine pages)."
+  },
+  {
+   "citation": "[9] Batista da Silva C, Berto LA, Volpato MC, Ramacciato JC, Motta RH, Ranali J, et al. Anesthetic efficacy of articaine and lidocaine for incisive/mental nerve block. J Endod 2010;36:438-41",
+   "pmid": "20171359",
+   "why": "Randomised double-blind crossover trial in 40 volunteers of articaine vs lidocaine deposited around the incisive/mental nerve; onset, success and duration of pulpal anaesthesia. A perineural articaine injection with a measured outcome (C053, extra-study entry); articaine duration in mouth tissue (D007 context)."
+  },
+  {
+   "citation": "[7] Kanaa MD, Whitworth JM, Corbett IP, Meechan JG. Articaine and lidocaine mandibular buccal infiltration anesthesia: a prospective randomized double-blind cross-over study. J Endod 2006;32:296-8",
+   "pmid": "16554198",
+   "why": "Randomised crossover of articaine vs lidocaine infiltration (success and duration in mouth tissue; articaine duration rows, D007 context)."
+  },
+  {
+   "citation": "[8] Robertson D, Nusstein J, Reader A, Beck M, McCartney M. The anesthetic efficacy of articaine in buccal infiltration of mandibular posterior teeth. J Am Dent Assoc 2007;138:1104-12",
+   "pmid": "17670879",
+   "why": "Articaine vs lidocaine buccal infiltration efficacy and duration (articaine duration rows, D007 context)."
+  },
+  {
+   "citation": "[4] Oertel R, Rahn R, Kirch W. Clinical pharmacokinetics of articaine. Clin Pharmacokinet 1997;33:417-25",
+   "pmid": "9435991",
+   "why": "Articaine pharmacokinetics, ester hydrolysis and plasma levels (systemic exposure topics)."
+  },
+  {
+   "citation": "[24] Pitkanen MT, Xu M, Haasio J, Rosenberg PH. Comparison of [dose figure omitted] articaine and [dose figure omitted] prilocaine in intravenous regional anesthesia of the arm: a cross-over study in volunteers. Reg Anesth Pain Med 1999;24:131-5",
+   "pmid": "10204898",
+   "why": "Volunteer crossover of articaine vs prilocaine by intravenous regional anaesthesia (prilocaine and articaine systemic exposure and side effects)."
+  },
+  {
+   "citation": "[26] Simon MA, Vree TB, Gielen MJ, Booij LH. Comparison of the effects and disposition kinetics of articaine and lidocaine in 20 patients undergoing intravenous regional anaesthesia during day case surgery. Pharm World Sci 1998;20:88-92",
+   "pmid": "9584343",
+   "why": "Articaine vs lidocaine disposition kinetics (plasma levels) in 20 patients."
+  },
+  {
+   "citation": "[6] Becker DE, Reed KL. Essentials of local anesthetic pharmacology. Anesth Prog 2006;53:98-109",
+   "pmid": "17175824",
+   "why": "Review of local-anaesthetic pharmacology, vasoconstrictors and systemic toxicity; cited for articaine's lower systemic toxicity."
+  },
+  {
+   "citation": "[1] Malamed SF. Local anesthetics: dentistry's most important drugs, clinical update 2006. J Calif Dent Assoc 2006;34:971-6",
+   "pmid": "17260521",
+   "why": "Review of dental local anaesthetics."
+  },
+  {
+   "citation": "[36] Malamed SF. Handbook of local anesthesia. 5th ed. St Louis: CV Mosby; 2004",
+   "pmid": "",
+   "why": "Textbook (no PMID), cited for local-anaesthetic vasodilation offsetting epinephrine-induced hypoxia (epinephrine and tissue oxygen topics, C084/C085 context)."
+  },
+  {
+   "citation": "[5] Nizharadze N, Mamaladze M, Chipashvili N, Vadachkoria D. Articaine - the best choice of local anesthetic in contemporary dentistry. Georgian Med News 2011;(190):15-23",
+   "pmid": "21346262",
+   "why": "Narrative review promoting articaine in dentistry (abstract carries maximum-dose material, not copied)."
+  },
+  {
+   "citation": "[25] Ruetsch YA, Boni T, Borgeat A. From cocaine to ropivacaine: the history of local anesthetic drugs. Curr Top Med Chem 2001;1:175-82",
+   "pmid": "11895133",
+   "why": "History review of local anaesthetics (ropivacaine page background)."
+  },
+  {
+   "citation": "[32] El-Qutob D, Morales C, Pelaez A. Allergic reaction caused by articaine. Allergol Immunopathol 2005;33:115-16",
+   "pmid": "15808120",
+   "why": "Case report of articaine allergy confirmed by skin prick testing (articaine applied to skin in allergy testing; C054/D007 context)."
+  },
+  {
+   "citation": "[33] Finsterer J, Haberler C, Schmiedel J. Deterioration of Kearns-Sayre syndrome following articaine administration for local anesthesia. Clin Neuropharmacol 2005;28:148-9",
+   "pmid": "15965317",
+   "why": "Adverse-event case report after articaine."
+  },
+  {
+   "citation": "[34] Magliocca KR, Kessel NC, Cortright GW. Transient diplopia following maxillary local anesthetic injection. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 2006;101:730-3",
+   "pmid": "16731391",
+   "why": "Adverse-event case report after a dental anaesthetic injection."
+  },
+  {
+   "citation": "[14] Arreto CD, Robert C, Limoge A, Gaudy JF. Use of the jaw opening reflex for assessing the effects of local anaesthetics in freely moving rats. J Pharmacol Toxicol Methods 2002;48:45-51",
+   "pmid": "12750041",
+   "why": "Rat model for measuring local-anaesthetic effect (cited only for group size)."
+  },
+  {
+   "citation": "[15] Baliki M, Al-Amin HA, Atweh SF, Jaber M, Hawwa N, Jabbur SJ, et al. Attenuation of neuropathic manifestations by local block of the activities of the ventrolateral orbitofrontal area in the rat. Neuroscience 2003;120:1093-104",
+   "pmid": "12927214",
+   "why": "Rat neuropathic-pain model with a local block of a brain area (neuropathic pain topic; cited only for group size)."
+  },
+  {
+   "citation": "[17] Rifai K, Chidiac JJ, Hawwa N, Baliki M, Jabbur SJ, Saade NE. Occlusion of dentinal tubules and selective block of pulp innervation prevent the nociceptive behaviour induced in rats by intradental application of irritants. Arch Oral Biol 2004;49:457-68",
+   "pmid": "15099803",
+   "why": "Rat nociception model with selective nerve block (nociceptor topic; cited only for group size)."
+  },
+  {
+   "citation": "[20] Scheib SA, Garner WH. Anti-inflammatory effects of topical ocular MAXIDEX administration to rabbits following vitrectomy or lensectomy. Exp Eye Res 2004;79:893-902",
+   "pmid": "15642327",
+   "why": "Topical ocular dexamethasone (steroid) in rabbits; marginal - cited only as a model for the inflammation scoring."
+  },
+  {
+   "citation": "[18] Naftel JP, Richards LP, Pan M, Bernanke JM. Course and composition of the nerves that supply the mandibular teeth of the rat. Anat Rec 1999;256:433-47",
+   "pmid": "10589029",
+   "why": "Rat mandibular nerve anatomy behind the injection-site figure; marginal (locates the injection relative to the mental nerve)."
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+[
+ {
+  "claim_id": "C050",
+  "paper_id": "S-686-01",
+  "pmid": "22458536",
+  "kind": "own-question",
+  "old_verdict": "narrowed",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "So, it was suggested that an important cause of paresthesia could be related to the local anesthetic dosedependent neurotoxicity. Some in vitro studies support this hypothesis [27,28]. … the hypothesis that this local anesthetic may be neurotoxic was not confirmed in the present study.",
+  "page": 5,
+  "proposed_wording": "At least one paper citing it reaches the opposite conclusion from a different design: Baroni 2013 (rats, injection into the mucosa beside the mental nerve, light microscopy at 24 hours; PMID 22458536) cites Hillerup 2011 as support for the neurotoxicity hypothesis and concludes that articaine is not toxic to the nervous structure. It did not inject into a nerve, tested a single concentration and did not measure conduction or fibre size, so it does not test Hillerup's intraneural measurement.",
+  "reason": "Answer: yes. Baroni cites Hillerup 2011 (PMID 21467556, confirmed in PubMed) as its ref 28, once, on PDF p5, grouped with a neuroblastoma-cell study as 'some in vitro studies' supporting dose-dependent neurotoxicity (Hillerup is in fact an in vivo rat study); it never describes Hillerup's design or results and never names it when stating its own result. It then sets its result against that hypothesis - it sides with Leuschner 'unlike studies that support the hypothesis that articaine has neurotoxic potential' and concludes that the neurotoxicity hypothesis 'was not confirmed' and that 'articaine is not toxic to the nervous structure' - so it presents a contrary conclusion without saying it refutes Hillerup, and without addressing the design differences: injection into the mucosa beside the mental nerve rather than into the sciatic nerve, one marketed concentration rather than a concentration series, and a qualitative H&E inflammation score at 24 h rather than evoked potentials and stereology of fibre area and myelin thickness at 3 weeks. On the elements as recorded (a citing paper with a finding or conclusion contradicting concentration-dependent articaine neurotoxicity) Baroni's stated conclusion matches, so 'None of them contradicts it' is refuted; its finding (no nerve injury after an extraneural injection) is compatible with Hillerup's, so if 'contradicts' is read as disputing Hillerup's measurement Baroni does not, and the standing narrowed would remain. The wording covers only that element: Baroni does not bear on the citation count or the retraction status (the PubMed record for 21467556 carries no retraction publication type). Baroni also cites Hillerup & Jensen 2006 (ref 13, PMID 16343853) four times (PDF p2, p5) as background for the paraesthesia signal, without disputing it."
+ },
+ {
+  "claim_id": "C053",
+  "paper_id": "S-686-01",
+  "pmid": "22458536",
+  "kind": "other-claim",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Figure 2 and Table I show the scores obtained for the inflammatory cells 24 h after local injections (Groups 1–3). The mental nerve was not histologically affected by the treatments.",
+  "page": 5,
+  "proposed_wording": "The only study found that injected articaine into the tissue around a nerve and then examined the nerve (Baroni 2013, rats, PMID 22458536) looked at 24 hours with light microscopy and found no injury to the nerve, with an inflammatory infiltrate around it that the authors did not find significantly greater than on the saline side; other perineural articaine injections, in animals and in people, were studied for anaesthetic effect only.",
+  "reason": "The full text verifies the page's description of Baroni: the solutions went into the alveolar mucosa beside the lower first molar, near the mental nerve (PDF p3, Figure 1), not into the nerve; the rats were killed at 24 h; sections were H&E-stained and scored qualitatively for leucocyte infiltration and necrosis. 'Found nothing' holds for the nerve (PDF p5) but not quite for the tissue around it: the abstract and Figure 3 legend describe a moderate inflammatory infiltrate around the nerve on the articaine side (Table I median one score point above the saline side), which the authors report as not a significant increase (PDF p5). Baroni alone leaves the standing verdict unchanged; the two extra-study entries test the word 'one'."
+ },
+ {
+  "claim_id": "C052",
+  "paper_id": "S-686-01",
+  "pmid": "22458536",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "After 24 h, the animals were killed and the samples (mandible and the soft tissue adhered) were removed. … The images were submitted to qualitative analysis in order to evaluate the intensity of leucocytes infiltration and/or any possible necrosis area.",
+  "page": 3,
+  "proposed_wording": "No study has repeated Hillerup's stereological measurements at three weeks after an injection of articaine into tissue rather than into a nerve; the closest, Baroni 2013 (rats, PMID 22458536), examined the nerve by light microscopy at 24 hours.",
+  "reason": "Baroni, the closest study in the claim's record (articaine injected into tissue beside a nerve), examined the nerve only at 24 h, with H&E light microscopy and a qualitative 1-5 inflammation score - no stereology, no fibre area or myelin thickness, no three-week endpoint (PDF p3). PubMed searches for articaine with nerve histology, morphometry or stereology in animals (3 hits: Baroni, Hillerup 2011, Hoffmeister 1991) and for perineural articaine in animals (10 hits, efficacy or in vitro conduction studies) found no study that matches, so the claim stays confirmed."
+ },
+ {
+  "claim_id": "C062",
+  "paper_id": "S-686-01",
+  "pmid": "22458536",
+  "kind": "other-claim",
+  "old_verdict": "refuted",
+  "new_verdict": "refuted",
+  "uncertain_after": false,
+  "quote": "However, higher scores (p < 0.05) of inflammation in connective tissue were observed when epinephrine was administered alone (Group 3) than associated with the local anesthetics (Groups 1 and 2). … Despite the intense inflammation observed in this group, there was no evidence of injury to the nervous structure.",
+  "page": 5,
+  "proposed_wording": "The only study found to inject epinephrine alone beside a nerve in the jaw (Baroni 2013, rats, PMID 22458536) found more inflammation in the surrounding connective tissue at 24 hours than with either anaesthetic, and no injury to the nerve; rat intrathecal studies with an epinephrine-alone arm found no histological change compared with saline (Hashimoto 2001, Komatsu 2013).",
+  "reason": "The full text verifies the page's description of Baroni's epinephrine-alone arm (the group the claim calls 'the only animal study to inject epinephrine alone'): connective-tissue inflammation scores at 24 h were significantly higher than with either anaesthetic, and the nerve in that group showed no injury (PDF p5); the injection was into the mucosa beside the mental nerve. It does not change the standing verdict, which rests on Hashimoto 2001 and Komatsu 2013. Only the literature half of the claim is judged; its first sentence, a preference between epinephrine presentations, is not re-judged."
+ },
+ {
+  "claim_id": "C053",
+  "paper_id": "",
+  "pmid": "20171359",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "This prospective randomized double-blind crossover study compared the anesthetic efficacy of [dose figure omitted] articaine and [dose figure omitted] lidocaine, both with [dose figure omitted] epinephrine administered as IMNB to 40 volunteers in two sessions.",
+  "page": 0,
+  "proposed_wording": "The only study found that injected articaine into the tissue around a nerve and then examined the nerve for damage (Baroni 2013, rats, PMID 22458536) looked at 24 hours and found no injury to the nerve; perineural articaine injections have otherwise been studied for anaesthetic effect only, in people (Batista da Silva 2010, incisive/mental nerve block, PMID 20171359) and in animals (Silva 2016, rats; Peña 2020, rabbits).",
+  "reason": "Found in Baroni's reference list (ref 9, cited on PDF p2). A randomised double-blind crossover trial in 40 volunteers in which articaine was deposited around the incisive/mental nerve and anaesthetic onset, success and duration were measured. On the elements as recorded (any species; articaine injected into the tissue around a nerve, not into it; any measured outcome; uniqueness) it matches every element, so 'the one study' is refuted (Peña 2020 in the claim's record already matched on the same reading). It did not examine the nerve for damage: if the claim is read as 'the one study to examine a nerve after a perineural articaine injection', Baroni remains the only one found and the standing narrowed (on 'found nothing') fits. Review note (orchestrating session): verdict set to narrowed. The main session already had a perineural articaine study with a measured outcome (Peña 2020) and still judged the claim narrowed, reading its scope as the one study that injected articaine beside a nerve and then examined the nerve; on that reading this study, which measured anaesthetic effect only, corrects the word 'one' without matching the claim's substance. Read literally ('any measured outcome'), every perineural articaine block study would refute it, which is not what the sentence means."
+ },
+ {
+  "claim_id": "C053",
+  "paper_id": "",
+  "pmid": "26826985",
+  "kind": "extra-study",
+  "old_verdict": "narrowed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "Anaesthetic formulations ([dose figure omitted]) were injected near the right infraorbital foramen in uninflamed tissue, where success and duration of anaesthesia were assessed by pinching the upper lip every 5 minutes.",
+  "page": 0,
+  "proposed_wording": "The only study found that injected articaine into the tissue around a nerve and then examined the nerve for damage (Baroni 2013, rats, PMID 22458536) looked at 24 hours and found no injury to the nerve; perineural articaine injections have otherwise been studied for anaesthetic effect only, in people (Batista da Silva 2010, PMID 20171359) and in animals (Silva 2016, rat infraorbital nerve block, PMID 26826985; Peña 2020, rabbits).",
+  "reason": "Found by a PubMed search run for Baroni ('(articaine OR carticaine) AND (perineural OR \"nerve block\" OR ...) AND (rat OR ...)', 10 hits); not in Baroni's reference list but from the same Piracicaba group. Rats; articaine formulations (plain-epinephrine and two liposomal) injected near the infraorbital foramen as an infraorbital nerve block, with success and duration of anaesthesia measured - an animal perineural articaine injection with a measured outcome, so it matches every element as recorded and 'the one study' is refuted. No nerve was examined, so on the narrower reading (a study that examined the nerve) Baroni remains the only one found. Review note (orchestrating session): verdict set to narrowed. The main session already had a perineural articaine study with a measured outcome (Peña 2020) and still judged the claim narrowed, reading its scope as the one study that injected articaine beside a nerve and then examined the nerve; on that reading this study, which measured anaesthetic effect only, corrects the word 'one' without matching the claim's substance. Read literally ('any measured outcome'), every perineural articaine block study would refute it, which is not what the sentence means."
+ }
+]

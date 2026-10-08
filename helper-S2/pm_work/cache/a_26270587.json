@@ -1,0 +1,18 @@
+{
+ "pmid": "26270587",
+ "year": "2015",
+ "first_author": "Strauss",
+ "title": "Inhibition of the primary sensorimotor cortex by topical anesthesia of the forearm in patients with complex regional pain syndrome.",
+ "journal": "Pain",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1097/j.pain.0000000000000324",
+ "pmcid": "",
+ "abstract": "Complex regional pain syndrome (CRPS) type I is characterized by somatosensory and motor deficits, and abnormalities have been reported for primary somatosensory (S1) and motor cortex (M1) excitability. For the latter, reduced short-latency intracortical inhibition (SICI) has been demonstrated in the somatotopic representation of the affected side. Recently, an intervention of applying anesthetic cream to the forearm has been shown to modulate both somatosensory deficits (eg, spatial tactile resolution [STR]) and SICI measured in hand muscles. We examined the efficacy of this intervention in patients with CRPS I. Cutaneous anesthesia of the forearm of the affected side was used to increase SICI of hand muscles and decrease impaired STR of the affected limb. In a double-blinded placebo-controlled study, we enrolled 12 patients with unilateral CRPS I of the hand in the chronic state. Before and after intervention, we measured motor evoked potentials of the first dorsal interosseus to obtain SICI and STR of both hand sides. Patients showed decreased STR on the tip of the thumb of their affected side, which improved after anesthetic cream but not after placebo application. Hand motor function of the affected side improved after anesthetic cream but not after placebo. Pain intensity was not modulated after intervention. At both hemispheres, SICI was decreased compared with reference values but selectively increased at the intervention side only after analgesic cream and not after placebo. Temporary deafferentation of an area neighbouring the CRPS-affected region can modulate neuropathological characteristics of CRPS and might be a promising strategy for therapeutic interventions.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:59:57Z",
+ "retrieved_for": "S-686-43",
+ "redacted": false
+}

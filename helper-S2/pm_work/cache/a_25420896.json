@@ -1,0 +1,18 @@
+{
+ "pmid": "25420896",
+ "year": "2014",
+ "first_author": "Piccinni",
+ "title": "Paraesthesia after local anaesthetics: an analysis of reports to the FDA Adverse Event Reporting System.",
+ "journal": "Basic Clin Pharmacol Toxicol",
+ "pubtypes": [
+  "Journal Article",
+  "Research Support, Non-U.S. Gov't"
+ ],
+ "doi": "10.1111/bcpt.12357",
+ "pmcid": "",
+ "abstract": "This study was aimed to evaluate the possible alert signals of paraesthesia by local anaesthetics, focusing on those used in dentistry. A case/non-case study of spontaneous adverse events recorded in FAERS (FDA Adverse Event Reporting System) between 2004 and 2011 was performed. Cases were represented by the reports of reactions grouped under the term 'Paraesthesias and dysaesthesias' involving local anaesthetics (ATC: N01B*); non-cases were all other reports of the same drugs. Reporting odds ratios (ROR) with the relevant 95% confidence intervals (95CI) were calculated. Alert signal was considered when number of cases >3 and lower limit of ROR 95CI > 1. To estimate the specificity of signals for dentistry, the analysis was restricted to the specific term \"Oral Paraesthesia\" and to reports concerning dental practice. Overall, 528 reports of 'Paraesthesias and dysaesthesias' were retrieved, corresponding to 573 drug-reaction pairs (247 lidocaine, 99 bupivacaine, 85 articaine, 30 prilocaine, 112 others). The signal was significant only for articaine (ROR=18.38; 95CI = 13.95-24.21) and prilocaine (2.66; 1.82-3.90). The analysis of the specific term \"Oral Paraesthesia\" retrieved 82 reports corresponding to 90 drug-reaction pairs (37 articaine, 19 lidocaine, 14 prilocaine, 7 bupivacaine, 13 others) and confirmed the signal for articaine (58.77; 37.82-91.31) and prilocaine (8.73; 4.89-15.57). The analysis of reports concerning dental procedures retrieved a signal for articaine, both for any procedures (8.84; 2.79-27.97) and for non-surgical ones (15.79; 1.87-133.46). In conclusion, among local anaesthetics, only articaine and prilocaine generated a signal of paraesthesia, especially when used in dentistry.",
+ "source": "PubMed MCP connector (get_article_metadata); eutils blocked by the session's network policy",
+ "retrieved": "2026-10-07T23:58:26Z",
+ "retrieved_for": "S-686-12",
+ "redacted": false
+}
