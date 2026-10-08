@@ -257,6 +257,15 @@ on, and nothing was written from it:
   reader, plus imperatives such as "Read the composition panel on the physical box before buying".
 - The Amass usage-limit error, described above, which carried an instruction not to use other tools.
 
+**Page attributions were checked too, and a few are loose.** `tools/check_pages.py` locates every
+quote in its paper's text and compares the page it is actually on with the page the entry cites.
+Papers split between two conventions — some workers cited the journal's printed page, others the
+sequential PDF page — so the check finds each paper's own modal offset and flags only quotes that
+break it. **452 attributions were checked and 14 deviate**, all of them by one page or against a
+fragment short enough to match several pages; no quote is wrong, only its page label. The deviations
+are listed by running that script. The conventions themselves are worth knowing at merge time:
+S-686-16, S-686-17, S-686-24 and S-686-35 cite journal pages, the rest cite sequential PDF pages.
+
 **Compliance.** Every output file was scanned mechanically (`tools/compliance_scan.py`) for a drug
 amount, a safety judgement or an imperative left in a field the rules do not exempt — the exemption
 covers only the paper cards and a claim update's `reason`. **It reports zero breaches.** Six lines
