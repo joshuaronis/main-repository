@@ -1,0 +1,134 @@
+{
+  "paper_id": "S-686-31",
+  "citation": "Swerdlow M, Jones R. The duration of action of bupivacaine, prilocaine and lignocaine. Br J Anaesth 1970;42:335-339",
+  "pmid": "4913413",
+  "doi": "10.1093/bja/42.4.335",
+  "right_paper": true,
+  "text_quality": "ocr - all 5 pages present (text pages 1-5 = journal pages 335-339), body, all five tables, references and the French/German summaries. OCR substitutes 'di' for 'th' in many words ('die'/'the', 'widi'/'with', 'dian'/'than', 'significandy'/'significantly') and garbles a few table cell labels ('Concen- tiation', 'trauon'); the two-column body is interleaved line by line, so body sentences are not contiguous in the file and quotes below are taken as contiguous fragments. All numbers needed were legible.",
+  "design": "Four successive double-blind, randomised-code, within-subject volunteer trials of skin-weal (intradermal) testing; each volunteer received every preparation in that trial as a separate coded weal, allocation by random code, preparations supplied as 'blind' coded ampoules/vials prepared by the hospital chief pharmacist and by BDH Pharmaceuticals. Method follows Foldes and McNall (1952). No placebo arm in Trials 1-3; Trial 4 is the saline control trial.",
+  "population": "Healthy adult female volunteers (nursing staff of the Salford Group of Hospitals). No patients, no neuropathy, no disease population.",
+  "n": "20 volunteers per trial (four trials, 20 each). Trial 1 n=20 for each of 6 preparations (within-subject, 6 weals per volunteer); Trial 2 n=20 for each of 3 hospital-prepared preparations; Trial 3 n=20 for each of 3 double-strength preparations; Trial 4 n=20 for saline and saline-with-adrenaline.",
+  "setting": "Department of Anaesthesia, Salford Hospital Group, UK; volunteer (non-clinical) skin testing, 1970.",
+  "intervention": "Intradermal skin weals of local anaesthetic solutions. Volume per weal 0.25 ml, given from a 1 ml polyethylene tuberculin syringe with a 27 s.w.g. needle (recorded here only because the paper's own open question asks what this study injected). Trial 1: bupivacaine HCl 0.25 per cent, bupivacaine HCl 0.25 per cent with adrenaline, lignocaine HCl 1 per cent, lignocaine HCl 1 per cent with adrenaline, prilocaine 1 per cent, prilocaine 1 per cent with adrenaline. Trial 2: hospital-pharmacy multidose vials of bupivacaine 0.25 per cent with adrenaline, lignocaine 1 per cent with adrenaline and prilocaine 1 per cent with adrenaline, against the commercial ampoules of Trial 1. Trial 3: commercial double-strength solutions without adrenaline - bupivacaine 0.5 per cent, lignocaine 2 per cent, prilocaine 2 per cent. Trial 4: normal saline and normal saline with adrenaline.",
+  "comparator": "Within-trial head-to-head: the three agents against each other; each agent with adrenaline against the same agent without adrenaline; hospital-prepared against commercially prepared solution of the same agent; double-strength against single-strength solution of the same agent; and, in Trial 4, intradermal saline with and without adrenaline as the distension control.",
+  "route": "Intradermal. Skin weals raised in the ventral aspect of the left forearm; not subcutaneous, not intramuscular, not a nerve block.",
+  "duration": "Each weal followed until sensation had fully recovered; longest means around 8 hours, with testing at 5-10 minute intervals throughout. Single session per volunteer per trial; no follow-up beyond recovery of sensation.",
+  "outcomes": "Two timed sensory endpoints per weal, measured by touching each weal with the fingertip at 5-10 minute intervals and confirming loss of effect by dropping a needle-loaded empty 1 ml syringe from a height of 0.5 cm on to the weal: (1) duration of analgesia, the time until some sensation returned in the weal; (2) duration of hypoaesthesia, the time until the sensory change had completely disappeared ('regression time'). Also pH of each solution, acid-base titration for ionic dissociation, variance of individual results between agents, and adverse effects. Times of onset were planned but could not be measured.",
+  "key_results": [
+    {
+      "quote": "The duration of analgesia and of hypoaesthesia produced by a variety of solutions has been examined by skin weal testing; each separate study was carried out in twenty female volunteers under double-blind conditions.",
+      "page": 1
+    },
+    {
+      "quote": "the left forearm by intradermal injection of",
+      "page": 1
+    },
+    {
+      "quote": "First, bupivacaine, lignocaine and prilocaine were compared with and without",
+      "page": 1
+    },
+    {
+      "quote": "Prilocaine* 1        20       288.7 ± 10.2       349.1 ±13.2",
+      "page": 2
+    },
+    {
+      "quote": "Prilocaine 1         20        99.1 ±19.1       172.9 ±22.2",
+      "page": 2
+    },
+    {
+      "quote": "Adrenaline significantly lengthened the action of all three drugs, this prolongation being greatest with lignocaine.",
+      "page": 1
+    },
+    {
+      "quote": "found to give significantly longer analgesia than prilocaine and significantly longer hypo-",
+      "page": 1
+    },
+    {
+      "quote": "Adrenaline resulted in a significantly longer pro-",
+      "page": 2
+    },
+    {
+      "quote": "and twenty nurses received intradermal weals of",
+      "page": 3
+    },
+    {
+      "quote": "These times are significantly shorter (P<0.001)",
+      "page": 3
+    }
+  ],
+  "author_limitations": [
+    {
+      "quote": "results are not strictly comparable with the clinical",
+      "page": 4
+    },
+    {
+      "quote": "skin weal testing in volunteers does allow the",
+      "page": 4
+    },
+    {
+      "quote": "trial was planned it was hoped to include a study",
+      "page": 4
+    },
+    {
+      "quote": "impossible because each skin weal was analgesic",
+      "page": 4
+    },
+    {
+      "quote": "No previous similar trial has been found",
+      "page": 4
+    }
+  ],
+  "funding_conflicts": "No funding statement and no conflict-of-interest statement (1970 journal practice). Acknowledgements thank the Salford Group of Hospitals nursing staff who volunteered, Mr B. A. Moore of the Department of Mathematics, Salford University for the statistical analysis, Mr A. Williams (Chief Pharmacist, Salford Hospital Group) and Mr G. W. Williams of BDH Pharmaceuticals for preparing the 'blind' preparations. Solution assays were done by Dr E. Power, Department of Chemistry, Salford University. A commercial manufacturer therefore supplied the blinded study material, which is relevant to the Trial 2 finding favouring commercial ampoules over hospital-prepared vials.",
+  "studies_it_cites_that_matter": [
+    {
+      "citation": "Padfield A. The intradermal local analgesic action of prilocaine. Anaesthesia 1967;22:556 (cited in the paper as 'Anaesthesia, 12, 556' - volume appears to be an OCR or citation error)",
+      "pmid": "",
+      "why": "The only earlier intradermal prilocaine weal study the authors could find; bears directly on D009 and on any claim that intradermal prilocaine timing is unstudied, and on the intradermal-saline/distension question."
+    },
+    {
+      "citation": "Albert J, Lofstrom B. Effects of epinephrine in solutions of local anaesthetic agents. Acta Anaesth Scand 1965;Suppl 16:71",
+      "pmid": "",
+      "why": "Bilateral ulnar nerve blocks in volunteers with pinch-testing; quantified how much adrenaline prolongs lignocaine and prilocaine. Bears on the C013-C030 adjuvant/vasoconstrictor block and on duration-with-vasoconstrictor claims, though the route is nerve block, not intradermal."
+    },
+    {
+      "citation": "Astrom A. Factors affecting the action of Citanest in vivo. Acta Anaesth Scand 1965;Suppl 16:23",
+      "pmid": "",
+      "why": "Postulates an anti-adrenaline action for prilocaine; the mechanism the authors invoke for prilocaine gaining least from adrenaline. Bears on any claim that prilocaine-plus-vasoconstrictor interaction is unstudied."
+    },
+    {
+      "citation": "Dhuner KG, Lewis DH. Effects of local anaesthetics and vasoconstrictors upon regional blood flow. Acta Anaesth Scand 1966;Suppl 23:347",
+      "pmid": "",
+      "why": "Showed adrenaline prolonged subcutaneous but not intramuscular local-anaesthetic injections, and that lignocaine and bupivacaine raise regional blood flow intramuscularly but not subcutaneously. Bears on vasoconstrictor-adjuvant and route-dependence claims."
+    },
+    {
+      "citation": "Widman B. Clinical trial of a new local anaesthetic (LAC-43) with the aid of the pin-prick and ninhydrin methods in finger blocks. Acta Anaesth Scand 1964;8:219",
+      "pmid": "",
+      "why": "Digital nerve block in volunteers, bupivacaine with adrenaline timed by pinprick; a comparator duration for bupivacaine-with-vasoconstrictor claims, by nerve block rather than intradermally."
+    },
+    {
+      "citation": "Hollmen A. Axillary plexus block: a double blind study of 59 cases using mepivacaine and LAC-43. Acta Anaesth Scand 1966;Suppl 21(10):53",
+      "pmid": "",
+      "why": "Double-blind mepivacaine vs bupivacaine durations by axillary plexus block; bears on mepivacaine and bupivacaine duration claims, but the route is plexus block, not intradermal."
+    },
+    {
+      "citation": "Ekblom L, Widman B. A comparison of the properties of LAC-43, prilocaine and mepivacaine in extradural anaesthesia. Acta Anaesth Scand 1966;Suppl 21(10):33",
+      "pmid": "",
+      "why": "Head-to-head bupivacaine/prilocaine/mepivacaine durations, extradural route; bears on mepivacaine and prilocaine duration claims but not on intradermal ones."
+    },
+    {
+      "citation": "Foldes FF, McNall PG. Chloroprocaine - a new local anesthetic agent. Anesthesiology 1952;13:287",
+      "pmid": "",
+      "why": "Source of the intradermal skin-weal timing method this paper used; establishes that intradermal weal timing of local anaesthetics existed as a published method by 1952."
+    },
+    {
+      "citation": "Halstead WS. Water as a local anaesthetic. N Y Med J 1885;42:327",
+      "pmid": "",
+      "why": "Quoted by the authors as the earliest report that cutaneous injection of water alone anaesthetises skin; bears on claims about intradermal saline/diluent effects being unmeasured."
+    },
+    {
+      "citation": "Watt MJ, Ross DM, Atkinson RS. A clinical trial of bupivacaine. Anaesthesia 1968;23:2",
+      "pmid": "",
+      "why": "One of the early bupivacaine clinical trials the paper cites as context; bears on bupivacaine duration claims by clinical routes."
+    }
+  ]
+}

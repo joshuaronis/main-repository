@@ -1,0 +1,43 @@
+{
+ "Ropivacaine Wheals": [
+  {
+   "line": 2024,
+   "section": "9.3 pH decides the outcome of a mixture",
+   "reason": "solution preparation / pH of mixtures"
+  },
+  {
+   "line": 2528,
+   "section": "10.5 What argues against, honestly",
+   "reason": "dilution of an ampoule"
+  },
+  {
+   "line": 2656,
+   "section": "11.2 Dilution arithmetic",
+   "reason": "mixing and dilution"
+  }
+ ],
+ "mepivacaine-wheals": [
+  {
+   "line": 186,
+   "section": "What has no source",
+   "reason": "sterility of a dilution procedure"
+  }
+ ],
+ "bupivacaine-wheals": [
+  {
+   "line": 402,
+   "section": "The dose ceiling",
+   "reason": "dose ceiling"
+  },
+  {
+   "line": 363,
+   "section": "What is still unknown",
+   "reason": "lethal-concentration figure (toxicity threshold)"
+  },
+  {
+   "line": 414,
+   "section": "What has no source",
+   "reason": "lethal-concentration figure (toxicity threshold)"
+  }
+ ]
+}
