@@ -1,0 +1,17 @@
+{
+ "pmid": "12218500",
+ "year": "2002",
+ "first_author": "Galer",
+ "title": "The lidocaine patch 5% effectively treats all neuropathic pain qualities: results of a randomized, double-blind, vehicle-controlled, 3-week efficacy study with use of the neuropathic pain scale.",
+ "journal": "Clin J Pain",
+ "pubtypes": [
+  "Clinical Trial",
+  "Comparative Study",
+  "Journal Article",
+  "Randomized Controlled Trial"
+ ],
+ "doi": "10.1097/00002508-200209000-00004",
+ "pmcid": "",
+ "abstract": "Several controlled clinical trials have demonstrated the efficacy and safety of the lidocaine patch 5% (LP) for the treatment of postherpetic neuralgia (PHN).\nTo assess the effects of the LP on distinct neuropathic pain qualities common to all neuropathic pain conditions, the authors analyzed data from one of the vehicle-controlled trials in which the Neuropathic Pain Scale (NPS), the only assessment tool specifically designed to measure the distinct components of neuropathic pain, was administered.\nTo improve the sensitivity of the NPS to treatment effects, only patients who, at the time of enrollment in the study, reported moderate-to-severe pain on the NPS (as defined by a score > or =4/10 reported for at least 6 of the 10 individual NPS items) were included in the analysis. Thus, 96 patients were included in this analysis. After a 3-week, vehicle-controlled study, LP improved all assessed pain qualities to a greater extent than the placebo patch, as measured by the NPS 10, a sum score including all 10 NPS item scores ( = 0.043), and an NPS 8 score, which included scores for all 8 pain descriptors, excluding \"unpleasantness\" and \"global intensity\" ( = 0.042). Separate analysis of all 8 items believed not to reflect allodynia (NPS NA; excluding \"skin sensitivity\" and \"surface pain\") also demonstrated superiority ( = 0.022), as did analysis of the subitems that are believed not to be primarily related to peripheral pathophysiological events (the \"NPS 4\": \"sharp,\" \"hot,\" \"dull,\" and \"deep\" pains; = 0.013).\nThis study demonstrates that LP reduces the intensity of all common neuropathic pain qualities and thus may be of potential benefit for nonallodynic neuropathic pain states. Furthermore, these findings suggest that peripheral mechanisms may play a role in the pathophysiological development of pain qualities that heretofore have been assumed not to involve peripheral mechanisms, such as \"dull,\" \"deep,\" \"sharp,\" and \"burning\" pains.",
+ "source": "PubMed connector get_article_metadata, retrieved 2026-10-08T14:24:06Z"
+}

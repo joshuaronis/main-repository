@@ -1,0 +1,28 @@
+{
+ "query": "Davies SJ[Author] AND peppermint oil AND postherpetic neuralgia",
+ "retmax": 100,
+ "count": 1,
+ "translation": "(davies, sj[Author] OR davies sj[Author]) AND (\"peppermint oil\"[Supplementary Concept] OR \"peppermint oil\"[All Fields]) AND (\"neuralgia, postherpetic\"[MeSH Terms] OR (\"neuralgia\"[All Fields] AND \"postherpetic\"[All Fields]) OR \"postherpetic neuralgia\"[All Fields] OR (\"postherpetic\"[All Fields] AND \"neuralgia\"[All Fields]))",
+ "errors": {},
+ "warnings": {},
+ "date_searched": "2026-10-08T14:18:17Z",
+ "records": [
+  {
+   "pmid": "12048423",
+   "year": "2002",
+   "first_author": "Davies",
+   "title": "A novel treatment of postherpetic neuralgia using peppermint oil.",
+   "journal": "Clin J Pain",
+   "pubtypes": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "doi": "10.1097/00002508-200205000-00011",
+   "pmcid": "",
+   "abstract": "Postherpetic neuralgia remains a difficult problem to treat. A number of therapies have been shown to be effective, but some patients have intractable pain.\nThe case of a 76-year-old woman whose pain had been resistant to standard therapies is described. The pattern of quantitative sensory testing results for this patient led the authors to believe that she had an \"irritable nociceptor\" type of pathophysiology.\nThe patient was instructed to apply neat peppermint oil (containing 10% menthol) to her skin, resulting in an almost immediate improvement in her pain. This pain relief persisted for 4-6 hours after application of the oil.\nThe patient was successfully treated with topical peppermint oil. During 2 months of follow-up she has had only a minor side effect, with continuing analgesia. The authors believe this is the first evidence of peppermint oil (or menthol) having a strong analgesic effect on neuropathic pain. The possible mechanisms of action of peppermint oil are discussed.",
+   "source": "PubMed connector get_article_metadata, retrieved 2026-10-08T14:18:17Z"
+  }
+ ],
+ "source": "PubMed connector search_articles (eutils blocked by the container's network policy)",
+ "note": "lookup of Petramfar 2016 reference 29"
+}

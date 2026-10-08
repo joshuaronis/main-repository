@@ -1,0 +1,14 @@
+{
+ "pmid": "12200946",
+ "year": "2002",
+ "first_author": "Haeseler",
+ "title": "Voltage-dependent block of neuronal and skeletal muscle sodium channels by thymol and menthol.",
+ "journal": "Eur J Anaesthesiol",
+ "pubtypes": [
+  "Journal Article"
+ ],
+ "doi": "10.1017/s0265021502000923",
+ "pmcid": "",
+ "abstract": "Thymol is a naturally occurring phenol derivative used in anaesthetic practice as a stabilizer and preservative of halothane, usually at a concentration of 0.01%. Although analgesic effects have long been described for thymol and its structural homologue menthol, a molecular basis for these effects is still lacking. We studied the blocking effects of thymol and menthol on voltage-activated sodium currents in vitro as possible molecular target sites.\nWhole cell sodium inward currents via heterologously (HEK293 cells) expressed rat neuronal (rat type IIA) and human skeletal muscle (hSkM1) sodium channels were recorded in the absence and presence of definite concentrations of either thymol or menthol.\nWhen depolarizing pulses to 0 mV were started from a holding potential of -70 mV, half-maximum blocking concentrations (IC50) for the skeletal muscle and the neuronal sodium channel were 104 and 149 mumol for thymol and 376 and 571 mumol for menthol. The blocking potency of both compounds increased at depolarized holding potentials with the fraction of inactivated channels. The estimated dissociation constant Kd for thymol and menthol from the inactivated state was 22 and 106 mumol for the neuronal and 23 and 97 mumol for the skeletal muscle sodium channel, respectively.\nThe results suggest that antinociceptive and local anaesthetic effects of thymol and menthol might be mediated via blockade of voltage-operated sodium channels with the phenol derivative thymol being as potent as the local anaesthetic lidocaine.",
+ "source": "PubMed connector get_article_metadata, retrieved 2026-10-08T14:18:17Z"
+}

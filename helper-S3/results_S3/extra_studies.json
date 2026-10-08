@@ -1,0 +1,12 @@
+[
+ {
+  "pmid": "12048423",
+  "citation": "Davies SJ, Harding LM, Baranowski AP. A novel treatment of postherpetic neuralgia using peppermint oil. Clin J Pain 2002;18(3):200–202. doi:10.1097/00002508-200205000-00011",
+  "found_in_paper": "S-686-46",
+  "bears_on_claim_ids": [
+   "E043"
+  ],
+  "what_it_shows": "Single case report, postherpetic neuralgia, 76-year-old woman resistant to standard therapies: QST suggested an 'irritable nociceptor' pathophysiology; she was then treated with neat peppermint oil containing menthol, with almost immediate pain relief lasting 4–6 hours per application, continuing over 2 months of follow-up, with one minor side effect. Not a trial; no cold-hyperalgesia subgroup.",
+  "quote_from_abstract": "The pattern of quantitative sensory testing results for this patient led the authors to believe that she had an \"irritable nociceptor\" type of pathophysiology."
+ }
+]

@@ -1,0 +1,128 @@
+{
+ "paper_id": "S-686-46",
+ "citation": "Petramfar P, Moein M, Samani SM, Tabatabaei SH, Zarshenas MM. Trachyspermum ammi [dose figure omitted] topical cream versus placebo on neuropathic pain, a randomized, double-blind, placebo-controlled trial. Neurol Sci 2016;37(9):1449–1455",
+ "pmid": "27166709",
+ "doi": "10.1007/s10072-016-2600-3",
+ "right_paper": true,
+ "text_quality": "ok: publisher PDF with a text layer, 7 pages, complete with tables, CONSORT figure and references. Page numbers in this card are PDF pages (PDF 1–7 = journal pages 1449–1455). texts/S-686-46.txt holds each page twice: pdftotext -layout, then reading order.",
+ "design": "Randomised (simple randomisation), double-blind, placebo-controlled, two-arm parallel trial, 4 weeks, single centre. Registered IRCT201201248815N1. Eleven randomised patients who were lost or did not meet criteria (5 Ajwain, 6 placebo) were replaced by newly enrolled patients 'with similar conditions' who were put into the dropout's arm rather than randomised, and all 92 were analysed (CONSORT: excluded from analysis 0). The analysis named is the paired t test of pre-to-post change.",
+ "population": "Adults with chronic neuropathic pain who specifically reported daily and nocturnal burning feet: moderate to severe pain for at least 6 months with dynamic tactile allodynia or hyperalgesia at the site. Neuropathy type was diabetic in 22 (placebo 10 / Ajwain 12) and 'unknown' in 70 (36/34). Also recorded: history of operation 18, of stroke (CVA) 21, multiple sclerosis 8, Parkinsonism or Alzheimer's 11, radiculopathy 7. Diagnosis rested on 'previously established historical diagnosis as well as clinical examination such as nerve conduction studies'; no skin biopsy, QST or other small-fibre test is reported, and no result is given by aetiology. Sex is given as 41 male / 52 female, which sums to 93, and age as mean 57.4 (range 40–92) although enrolment was planned for ages 18–90.",
+ "n": "92 analysed: 46 Ajwain, 46 placebo (each arm includes its substitutes: 5 Ajwain, 6 placebo). 102 assessed for eligibility, 10 excluded before randomisation.",
+ "setting": "Imam Reza polyclinic, Shiraz University of Medical Sciences, Shiraz, Iran; September 2011 to December 2012.",
+ "intervention": "Ajwain (Trachyspermum ammi Sprague) seed essential oil [dose figure omitted] in an O/W cream (cetomacrogol, cetostearyl alcohol, Vaseline, almond oil, butylated hydroxytoluene), standardised on thymol content; GC-MS major constituents thymol, p-cymene and gamma-terpinene. Applied [dose figure omitted]; where and how much cream was applied is not stated.",
+ "comparator": "Placebo cream with the same base and no essential oil (more almond oil), white, in tubes rinsed with Ajwain distillate to match the smell.",
+ "route": "topical",
+ "duration": "4 weeks (28 days), visits at days 14 and 28; monthly clinic visits for at least 2 months afterwards for delayed adverse effects and recurrence (no scores reported from these).",
+ "outcomes": "Primary: change in feet burning on a 0–10 cm VAS (VAS-PI), final week against baseline week. Secondary: numbness, allodynia and tingling on the same scale (from a slightly modified McGill questionnaire), in the patients who had them; side effects.",
+ "key_results": [
+  {
+   "quote": "Ajwain group showed significant reduction in feet burning compared to the placebo and considering the baseline or pretreatment data (P < 0.001).",
+   "page": 5
+  },
+  {
+   "quote": "Mean change in pain 3.55 ± 0.31 (absolute value) 0.76 ± 0.23 (absolute value)",
+   "page": 5
+  },
+  {
+   "quote": "The mean effectiveness of Ajwain group was calculated as 53 % compared to that of placebo group (11.5 %).",
+   "page": 5
+  },
+  {
+   "quote": "No adverse or undesirable effects were reported by patients receiving either Ajwain or placebo.",
+   "page": 5
+  },
+  {
+   "quote": "Most of the patients requested additional cream (Ajwain) after a period of 2 months.",
+   "page": 5
+  },
+  {
+   "quote": "Neuropathy types were diabetic and unknown.",
+   "page": 4
+  },
+  {
+   "quote": "Patients with unknown neuropathy 70 (Placebo/Ajwain as 36/34)",
+   "page": 3
+  },
+  {
+   "quote": "In regard of the neuropathic pain, previously established historical diagnosis as well as clinical examination such as nerve conduction studies was considered.",
+   "page": 2
+  },
+  {
+   "quote": "As it was considered before the intervention, excluded participants were … substituted with those with similar conditions.",
+   "page": 3
+  },
+  {
+   "quote": "The substitution was corresponded with the patients in respective group (Ajwain or placebo) and excluded numbers.",
+   "page": 4
+  },
+  {
+   "quote": "For each parameter, the average amounts of changes from pre-treatment to post-treatment were tested in groups with paired t test.",
+   "page": 3
+  }
+ ],
+ "author_limitations": [
+  {
+   "quote": "Due to the low sample size, we were unable to categorize types of neuropathy into detailed groups.",
+   "page": 6
+  },
+  {
+   "quote": "Moreover, intervention duration was limited to 4 weeks.",
+   "page": 6
+  },
+  {
+   "quote": "It was revealed that Ajwain cream can alleviate the pain only during administration.",
+   "page": 6
+  },
+  {
+   "quote": "The intervention was a symptomatic therapy and did not cure the disease.",
+   "page": 6
+  },
+  {
+   "quote": "Patients’ descriptions of neuropathic pain are not limited to these parameters.",
+   "page": 6
+  }
+ ],
+ "funding_conflicts": "Acknowledgements thank Shiraz University of Medical Sciences (Project No. 5802); declaration: 'Authors of this manuscript have no conflicts of interest.' No commercial sponsor named. The registry's sponsor field and any patent were not checked here.",
+ "studies_it_cites_that_matter": [
+  {
+   "citation": "Davies SJ, Harding LM, Baranowski AP. A novel treatment of postherpetic neuralgia using peppermint oil. Clin J Pain 2002;18(3):200–202 (ref 29)",
+   "pmid": "12048423",
+   "why": "Case report: quantitative sensory testing classed a postherpetic neuralgia patient as an 'irritable nociceptor' type before she was treated with neat peppermint oil containing menthol. Narrows Menthol-page claim E043 ('Nobody has phenotyped patients before treating them with it'). Its menthol content is below 30%, so E032, E034 and E039 are unaffected. In Petramfar's text the ref-29 citation is attached to an amitriptyline/ketamine sentence, so the paper's reference numbering is off by at least one there."
+  },
+  {
+   "citation": "Lynch ME, Clark AJ, Sawynok J, Sullivan MJ. Topical [dose figure omitted] amitriptyline and [dose figure omitted] ketamine in neuropathic pain syndromes: a randomized, double-blind, placebo-controlled trial. Anesthesiology 2005;103(1):140–146 (ref 30)",
+   "pmid": "15983466",
+   "why": "Four-arm topical RCT: active creams and their combination did no better than placebo. It bears on Pain-biology claim E023 (no pair of topicals has shown additive magnitude) and is consistent with it. Petramfar's inclusion criteria, primary-outcome wording ('baseline week vs final week'), n=92 and closing sentence closely follow this paper."
+  },
+  {
+   "citation": "Galer BS, Jensen MP, Ma T, Davies PS, Rowbotham MC. The lidocaine patch [dose figure omitted] effectively treats all neuropathic pain qualities. Clin J Pain 2002;18(5):297–301 (ref 32)",
+   "pmid": "12218500",
+   "why": "Vehicle-controlled lidocaine patch analysis in postherpetic neuralgia (96 patients, NPS sum p=0.043). Already used on the Pain-biology page (10.2.1); not small fibre neuropathy, so E006 is unaffected."
+  },
+  {
+   "citation": "Wasner G, Naleschinski D, Binder A, et al. The effect of menthol on cold allodynia in patients with neuropathic pain. Pain Med 2008;9:354–358 (ref 37)",
+   "pmid": "18366513",
+   "why": "Menthol probe in neuropathic patients; already a source on the Menthol page (E031, E032, E039)."
+  },
+  {
+   "citation": "Gaudioso C, Hao J, Martin-Eauclaire MF, et al. Menthol pain relief through cumulative inactivation of voltage-gated sodium channels. Pain 2012;153:473–484 (ref 38)",
+   "pmid": "22172548",
+   "why": "Mechanism for menthol's sodium-channel block (Menthol page mechanism sections)."
+  },
+  {
+   "citation": "Haeseler G, Maue D, Grosskreutz J, et al. Voltage-dependent block of neuronal and skeletal muscle sodium channels by thymol and menthol. Eur J Anaesthesiol 2002;19(8):571–579 (ref 40)",
+   "pmid": "12200946",
+   "why": "Thymol and menthol block heterologously expressed rat neuronal and human skeletal-muscle sodium channels; supports the Reference and Guide statement that thymol has local-anaesthetic activity. No claim's verdict turns on it."
+  },
+  {
+   "citation": "Derry S, Moore RA. Topical capsaicin (low concentration) for chronic neuropathic pain in adults. Cochrane Database Syst Rev 2012 (ref 34)",
+   "pmid": "",
+   "why": "The Cochrane review behind the Guide's low-concentration capsaicin entries; PMID not resolved here (citation lookup ambiguous)."
+  },
+  {
+   "citation": "Brunelli B, Gorson KC. The use of complementary and alternative medicines by patients with peripheral neuropathy. J Neurol Sci 2004;218:59–66 (ref 12)",
+   "pmid": "14759634",
+   "why": "Context for complementary-medicine use in neuropathy; no claim depends on it."
+  }
+ ]
+}

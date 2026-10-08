@@ -1,0 +1,72 @@
+[
+ {
+  "paper_id": "S-686-46",
+  "notion_searches": [
+   "Petramfar",
+   "Ajwain Trachyspermum ammi cream",
+   "27166709",
+   "10.1007/s10072-016-2600-3",
+   "randomised topical trial burning feet entry criterion",
+   "essential oil cream neuropathic pain placebo trial Iran"
+  ],
+  "pages_fetched": [
+   {
+    "page": "Trachyspermum ammi (ajwain) … compounded (Mexico)",
+    "url": "https://app.notion.com/p/3e010b7903aa8155b958cb7f198cf966",
+    "as_of": "2026-09-24T19:48:08.740Z"
+   },
+   {
+    "page": "1 — Product Guide",
+    "url": "https://app.notion.com/p/3d410b7903aa81c0815ad3c7c6c2d17f",
+    "as_of": "2026-10-02T03:14:29.224Z"
+   },
+   {
+    "page": "2 — Reference (source register S1–S457)",
+    "url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
+    "as_of": "2026-10-01T02:05:48.095Z"
+   },
+   {
+    "page": "Who paid for the evidence behind each topical",
+    "url": "https://app.notion.com/p/3d410b7903aa81a4ba46dad6327565f3",
+    "as_of": "2026-09-22T09:09:32.928Z"
+   },
+   {
+    "page": "5 — Soft ground in these documents",
+    "url": "https://app.notion.com/p/3d410b7903aa81e88fbdc2ab883b1403",
+    "as_of": "2026-09-26T18:26:13.509Z"
+   },
+   {
+    "page": "What is still unsettled across these pages",
+    "url": "https://app.notion.com/p/3d410b7903aa819f8300e976a62577db",
+    "as_of": "2026-09-26T18:23:10.973Z"
+   },
+   {
+    "page": "What was searched for and does not exist",
+    "url": "https://app.notion.com/p/3d410b7903aa8169b833f5997631cc82",
+    "as_of": "2026-09-27T00:27:49.877Z"
+   },
+   {
+    "page": "Pain biology, ion channels, and topical anesthetics for SFN",
+    "url": "https://app.notion.com/p/34210b7903aa8002aad4eba9787cb947",
+    "as_of": "2026-09-26T18:29:03.713Z"
+   },
+   {
+    "page": "What transfers from diabetic neuropathy trials to idiopathic SFN",
+    "url": "https://app.notion.com/p/3d410b7903aa813681e9c27892149a17",
+    "as_of": "2026-09-26T18:27:17.888Z"
+   },
+   {
+    "page": "Menthol Formulations & Science",
+    "url": "https://app.notion.com/p/34610b7903aa80129954f58e0385b05e",
+    "as_of": "2026-10-02T03:14:32.680Z"
+   }
+  ],
+  "method": "Each fetched page's full text was searched by keyword (author, title words, PMID, DOI, drug and symptom terms) and every passage around each hit was read; pages were not read end to end. No fetch reported truncation or unknown blocks.",
+  "no_mention_found_on": [
+   "5 — Soft ground (no Petramfar/ajwain evidence statements; only a sourcing line)",
+   "What was searched for and does not exist",
+   "What transfers…",
+   "Menthol Formulations & Science"
+  ]
+ }
+]

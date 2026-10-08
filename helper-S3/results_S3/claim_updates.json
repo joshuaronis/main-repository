@@ -1,0 +1,54 @@
+[
+ {
+  "claim_id": "E005",
+  "paper_id": "S-686-46",
+  "pmid": "27166709",
+  "kind": "own-question",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Patients with unknown neuropathy 70 (Placebo/Ajwain as 36/34) … In regard of the neuropathic pain, previously established historical diagnosis as well as clinical examination such as nerve conduction studies was considered.",
+  "page": 3,
+  "proposed_wording": "No topical treatment has a positive randomised result in idiopathic small fibre neuropathy. The nearest is a randomised placebo-controlled trial of Ajwain (Trachyspermum ammi) cream in 92 patients enrolled on burning feet, 70 of them with neuropathy of unknown cause and 22 diabetic. It was positive on burning, but no small-fibre test was done and no result was reported by cause.",
+  "reason": "The full text answers the open question. Aetiology was diabetic in 22 and 'unknown' in 70 (Table 2, p. 3), and the work-up was history plus clinical examination 'such as nerve conduction studies' (p. 2): no skin biopsy, QST or other small-fibre test. The sample also included patients with a history of stroke (21), multiple sclerosis (8), Parkinsonism or Alzheimer's (11) and radiculopathy (7), and the authors could not analyse by type of neuropathy (p. 6). So the trial overlaps idiopathic SFN only clinically, through burning feet of unknown cause, and gives no result in that subgroup; within the claim's scope (idiopathic SFN) it neither refutes nor narrows it."
+ },
+ {
+  "claim_id": "E004",
+  "paper_id": "S-686-46",
+  "pmid": "27166709",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Due to the low sample size, we were unable to categorize types of neuropathy into detailed groups.",
+  "page": 6,
+  "proposed_wording": "",
+  "reason": "The one randomised topical trial with a mixed diabetic and unknown-cause burning-feet population (Petramfar 2016) reports no response by aetiology: its authors say they could not split the sample by type of neuropathy. That population was not shown to be SFN, so the trial confirms the claim rather than touching its scope."
+ },
+ {
+  "claim_id": "E030",
+  "paper_id": "S-686-46",
+  "pmid": "27166709",
+  "kind": "other-claim",
+  "old_verdict": "confirmed",
+  "new_verdict": "confirmed",
+  "uncertain_after": false,
+  "quote": "Similar proportions of Cetomacrogol, Cetostearyl alcohol, Vaseline and Butylated hydroxytoluene were employed in Ajwain and placebo creams.",
+  "page": 2,
+  "proposed_wording": "",
+  "reason": "The full text confirms that the burning-feet trial named as the nearest miss contained no menthol. The active was Ajwain seed essential oil (major constituents thymol, p-cymene, gamma-terpinene) and both creams shared a menthol-free base, so it is not a placebo-controlled trial of topical menthol with burning feet as the entry criterion."
+ },
+ {
+  "claim_id": "E043",
+  "paper_id": "",
+  "pmid": "12048423",
+  "kind": "extra-study",
+  "old_verdict": "confirmed",
+  "new_verdict": "narrowed",
+  "uncertain_after": false,
+  "quote": "The pattern of quantitative sensory testing results for this patient led the authors to believe that she had an \"irritable nociceptor\" type of pathophysiology.",
+  "page": 0,
+  "proposed_wording": "That menthol at [dose figure omitted] is safe or unsafe specifically in a cold-hyperalgesic phenotype. No trial or series has phenotyped patients before treating them with it; one case report (Davies 2002) used quantitative sensory testing to class a patient with postherpetic neuralgia as an 'irritable nociceptor' type before treating her with peppermint oil, which contains menthol, and reports no cold-hyperalgesia subgroup or result.",
+  "reason": "Found in Petramfar 2016's reference list (ref 29). Davies 2002 is a single case in postherpetic neuralgia: QST phenotyping came first and led the authors to treat with neat peppermint oil containing menthol, with pain relief and one minor side effect over 2 months. It matches 'phenotyped before treating', a neuropathic population and a menthol concentration inside the claim's range. It misses the cold-hyperalgesic subgroup (the phenotype named is 'irritable nociceptor') and the trial-or-series design, so the safety question stays open, but 'Nobody has phenotyped patients before treating them with it' is too broad. Page 0 = abstract."
+ }
+]

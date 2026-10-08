@@ -1,0 +1,28 @@
+{
+ "query": "Petramfar[Author] AND Trachyspermum",
+ "retmax": 100,
+ "count": 1,
+ "translation": "Petramfar[Author] AND \"Trachyspermum\"[All Fields]",
+ "errors": {},
+ "warnings": {},
+ "date_searched": "2026-10-08T14:18:17Z",
+ "records": [
+  {
+   "pmid": "27166709",
+   "year": "2016",
+   "first_author": "Petramfar",
+   "title": "Trachyspermum ammi 10 % topical cream versus placebo on neuropathic pain, a randomized, double-blind, placebo-controlled trial.",
+   "journal": "Neurol Sci",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "doi": "10.1007/s10072-016-2600-3",
+   "pmcid": "",
+   "abstract": "A four-week, double-blind, randomized, placebo-controlled trial was conducted to assay the effectiveness of Ajwain 10 % (Trachyspermum ammi Sprague) topical cream on neuropathic pain. Intervention encompassed Ajwain 10 % and placebo creams. Ninety-two patients who specifically mentioned daily and nocturnal burning feet were randomly assigned to receive one of those interventions. Presence and decline in patients' numbness, tingling and allodynia were also evaluated. Major outcome measure was alteration in feet burning intensity (final week versus baseline week) regarding to a visual analog scale on a 0-10 cm scale (0 being \"no pain\", 10 being \"worst pain\"). Significant reduction in feet burning scores as well as numbness, tingling and allodynia were found in Ajwain group compared to placebo. This trial examining a cream of Ajwain essential oil versus placebo revealed the significance difference between two groups. This medicament can be a good candidate for the alleviation of feet burning, a neuropathic complication.",
+   "source": "PubMed connector get_article_metadata, retrieved 2026-10-08T14:18:17Z"
+  }
+ ],
+ "source": "PubMed connector search_articles (eutils blocked by the container's network policy)",
+ "note": "identity check of S-686-46"
+}
