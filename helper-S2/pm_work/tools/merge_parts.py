@@ -24,6 +24,16 @@ for pid in ORDER:
         nf.append(f)
     if os.path.exists(f"{d}/status.json"):
         st.append(json.load(open(f"{d}/status.json", encoding="utf-8")))
+# the same Notion sentence flagged from two papers: cross-reference the findings in their notes
+import re as _re
+def _norm(t):
+    return _re.sub(r"[^a-z0-9]", "", _re.sub(r"\[[^\]]*\]", "", (t or "").lower()))
+for a in nf:
+    for b in nf:
+        if a is not b and a["page_url"].split("?")[0] == b["page_url"].split("?")[0] \
+                and _norm(a["sentence_as_it_stands"]) == _norm(b["sentence_as_it_stands"]):
+            src = b.get("paper_id") or f"PMID {b.get('pmid')}"
+            a["notes"] = (a.get("notes") or "") + f" Same sentence also flagged as {b['finding_id']} (from {src})."
 os.makedirs("results_S2", exist_ok=True)
 for name, items in (("claim_updates", cu), ("extra_studies", es), ("notion_findings", nf)):
     json.dump(items, open(f"results_S2/{name}.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)

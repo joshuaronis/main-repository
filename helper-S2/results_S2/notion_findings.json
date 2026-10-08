@@ -858,9 +858,9 @@
   "kind": "now-verified",
   "quote": "Lidocaine solution diluted with saline was prepared. For this, [dose figure omitted] lidocaine ampoule and [dose figure omitted] saline were used. … We also did not have a control group with NP who did not undergo lidocaine treatment.",
   "page_in_paper": 3,
-  "corrected_wording": "…and the only wheal series found with its parameters and a pain outcome, in notalgia paresthetica, used plain lidocaine diluted with saline and was uncontrolled (Mülkoğlu 2020, PMID 32416719; full text).",
+  "corrected_wording": "…and the only wheal series found with its parameters and a pain outcome, in notalgia paresthetica, used plain lidocaine and was uncontrolled (Mülkoğlu 2020, PMID 32416719; full text).",
   "importance": "low",
-  "notes": "The page's Sources line reads 'Mülkoğlu 2020, BMC Neurol, PMID 32416719 — abstract read by the pain-evidence audit, 2026-09-22.' The abstract alone shows neither the absence of a control group nor that no vasoconstrictor was used; the full text does (p3: only a lidocaine ampoule and saline are named; p7: no NP control without lidocaine). The second part of the quote is on p7. The same Why For Purpose sentence and Sources line appear, by search highlight only (not fetched), on the other dental-depot cartridge rows: Dentiprime Supply, Dentalmex, Dental Shop (two rows), Depósito Dental Gómez Farías (two rows), Tu Depósito Dental (two rows), Paradentum, Depósito Dental VQ, Depósito Dental Juárez, Tu Universo Dental. For 'the one wheal protocol' see F03."
+  "notes": "The page's Sources line reads 'Mülkoğlu 2020, BMC Neurol, PMID 32416719 — abstract read by the pain-evidence audit, 2026-09-22.' The abstract alone shows neither the absence of a control group nor that no vasoconstrictor was used; the full text does (p3: only a lidocaine ampoule and saline are named; p7: no NP control without lidocaine). The second part of the quote is on p7. The same Why For Purpose sentence and Sources line appear, by search highlight only (not fetched), on the other dental-depot cartridge rows: Dentiprime Supply, Dentalmex, Dental Shop (two rows), Depósito Dental Gómez Farías (two rows), Tu Depósito Dental (two rows), Paradentum, Depósito Dental VQ, Depósito Dental Juárez, Tu Universo Dental. For 'the one wheal protocol' see F03. Review note (orchestrating session): the dilution was removed from the corrected wording (preparation detail is kept out of wording)."
  },
  {
   "finding_id": "S2-F057",
@@ -873,9 +873,9 @@
   "kind": "now-verified",
   "quote": "We planned local lidocaine injections for 22 patients. Since 2 patients did not come to the second injection, they were excluded from the study and the evaluation … was made on 20 patients.",
   "page_in_paper": 4,
-  "corrected_wording": "The only wheal series found with its parameters and a pain outcome in a chronic neuropathic condition used plain lidocaine diluted with saline [dose figure omitted], in 22 people with notalgia paresthetica of whom 20 were evaluated, and was uncontrolled (Mülkoğlu 2020, PMID 32416719; full text).",
+  "corrected_wording": "The only wheal series found with its parameters and a pain outcome in a chronic neuropathic condition used plain lidocaine, in 22 people with notalgia paresthetica of whom 20 were evaluated, and was uncontrolled (Mülkoğlu 2020, PMID 32416719; full text).",
   "importance": "low",
-  "notes": "Sources line: 'abstract read by the pain-evidence audit, 2026-09-22.' The figure of 20, the dilution and the absence of a control come from the full text, which verifies them (p3, p4–5, p7); the masked dilution figure on the page matches p3. Also fetched with the same 'abstract read' line: Zingo row (https://app.notion.com/p/3e310b7903aa81e6b472ede6a8dbcee6, as of 2026-09-24T01:39:32.694Z), whose Why For Purpose gives the per-wheal volume, spacing and session schedule, all matching p3. Same template by search highlight only (not fetched): PiSA Lidocaína/Epinefrina cartridge, Lidocaína FD Zeyco (with epinephrine) dental cartridges, Anestésico lidocaína FD Zeyco glass cartridges, Pisacaína con epinefrina (Curitek; Farmacias Guadalajara; Farmacia La Paz), Turbocaína (two rows), Ropiconest — Farmacia La Paz, Pisacaina lidocaína — San Pablo, Pisacaina lidocaína — Farmacia La Paz. For 'The one wheal protocol' see F03."
+  "notes": "Sources line: 'abstract read by the pain-evidence audit, 2026-09-22.' The figure of 20, the dilution and the absence of a control come from the full text, which verifies them (p3, p4–5, p7); the masked dilution figure on the page matches p3. Also fetched with the same 'abstract read' line: Zingo row (https://app.notion.com/p/3e310b7903aa81e6b472ede6a8dbcee6, as of 2026-09-24T01:39:32.694Z), whose Why For Purpose gives the per-wheal volume, spacing and session schedule, all matching p3. Same template by search highlight only (not fetched): PiSA Lidocaína/Epinefrina cartridge, Lidocaína FD Zeyco (with epinephrine) dental cartridges, Anestésico lidocaína FD Zeyco glass cartridges, Pisacaína con epinefrina (Curitek; Farmacias Guadalajara; Farmacia La Paz), Turbocaína (two rows), Ropiconest — Farmacia La Paz, Pisacaina lidocaína — San Pablo, Pisacaina lidocaína — Farmacia La Paz. For 'The one wheal protocol' see F03. Review note (orchestrating session): the dilution was removed from the corrected wording (preparation detail is kept out of wording)."
  },
  {
   "finding_id": "S2-F058",
@@ -955,7 +955,7 @@
  {
   "finding_id": "S2-F063",
   "paper_id": "S-686-18",
-  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy (source register S1–S457 at the end)",
+  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
   "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
   "page_version": "2026-10-01T02:05:48.095Z",
   "section": "4.9 · Injected local anaesthetics — the current regimen",
@@ -971,7 +971,7 @@
   "finding_id": "S2-F064",
   "paper_id": "",
   "pmid": "26115657",
-  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy (source register S1–S457 at the end)",
+  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
   "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
   "page_version": "2026-10-01T02:05:48.095Z",
   "section": "4.9 · Injected local anaesthetics — the current regimen",
@@ -987,7 +987,7 @@
   "finding_id": "S2-F065",
   "paper_id": "",
   "pmid": "26115657",
-  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy (source register S1–S457 at the end)",
+  "page": "2 — Reference — Topical Treatments for Small Fiber Neuropathy",
   "page_url": "https://app.notion.com/p/3d410b7903aa81a4ada4c3830a567c65",
   "page_version": "2026-10-01T02:05:48.095Z",
   "section": "4.9 · Injected local anaesthetics — the current regimen (header line)",
@@ -1133,7 +1133,7 @@
   "page_in_paper": 5,
   "corrected_wording": "Articaine shares the field’s one clinical argument that concentration itself is neurotoxic with the other high-concentration dental solution, prilocaine: reports of persistent paraesthesia after dental blocks are over-represented for both.",
   "importance": "low",
-  "notes": "Ambiguous rather than plainly wrong: the paragraph continues with the Danish registry study, in which articaine was the only high-concentration product. Baroni's background (refs 10-13: Haas & Lennon 1995, Gaffen & Haas 2009, Garisto 2010, Hillerup & Jensen 2006) reports the signal for both the articaine and prilocaine dental solutions, and the record's own prilocaine-wheals page (as of 2026-10-02T03:14:12.541Z, section 'What does the evidence say about prilocaine irritating nerves?') says 'the [dose figure omitted] dental solution carries the strongest paresthesia signal of any local anesthetic'. The concentration argument rests on both drugs. The Reference has no entry for Baroni or Hillerup."
+  "notes": "Ambiguous rather than plainly wrong: the paragraph continues with the Danish registry study, in which articaine was the only high-concentration product. Baroni's background (refs 10-13: Haas & Lennon 1995, Gaffen & Haas 2009, Garisto 2010, Hillerup & Jensen 2006) reports the signal for both the articaine and prilocaine dental solutions, and the record's own prilocaine-wheals page (as of 2026-10-02T03:14:12.541Z, section 'What does the evidence say about prilocaine irritating nerves?') says 'the [dose figure omitted] dental solution carries the strongest paresthesia signal of any local anesthetic'. The concentration argument rests on both drugs. The Reference has no entry for Baroni or Hillerup. Same sentence also flagged as S2-F083 (from S-686-12)."
  },
  {
   "finding_id": "S2-F075",
@@ -1269,7 +1269,7 @@
   "page_in_paper": 5,
   "corrected_wording": "Articaine does not carry the clinical argument that concentration itself is neurotoxic alone: in the dental reporting data the over-representation of articaine, sold at a higher concentration than most dental anaesthetics, is matched by prilocaine at its higher marketed strength, while prilocaine at a lower strength was under-represented in the Danish registry (Hopman 2017, reviewing Haas and Lennon 1995, Pogrel 2012 and Hillerup, Jensen and Ersbøll 2011).",
   "importance": "low",
-  "notes": "Hopman's Discussion (PDF p5) makes the concentration argument from both drugs: articaine's higher concentration as 'A possible explanation', supported by the prilocaine strength contrast (refs 13, 17 = Haas & Lennon 1995, Pogrel 2012; ref 21 = Hillerup, Jensen & Ersbøll 2011). Garisto 2010, which the record cites elsewhere, also found the higher-strength prilocaine over-represented. Only the first sentence of the Reference paragraph is reproduced; the rest of that paragraph (a trial, an umbrella review and a concentration recommendation) and the section's dose lines are left out under the filter rule. The Reference does not cite Hopman."
+  "notes": "Hopman's Discussion (PDF p5) makes the concentration argument from both drugs: articaine's higher concentration as 'A possible explanation', supported by the prilocaine strength contrast (refs 13, 17 = Haas & Lennon 1995, Pogrel 2012; ref 21 = Hillerup, Jensen & Ersbøll 2011). Garisto 2010, which the record cites elsewhere, also found the higher-strength prilocaine over-represented. Only the first sentence of the Reference paragraph is reproduced; the rest of that paragraph (a trial, an umbrella review and a concentration recommendation) and the section's dose lines are left out under the filter rule. The Reference does not cite Hopman. Same sentence also flagged as S2-F074 (from S-686-01)."
  },
  {
   "finding_id": "S2-F084",
