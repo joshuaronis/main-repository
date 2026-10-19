@@ -1,0 +1,36 @@
+{
+  "env": {
+    "BASH_MAX_TIMEOUT_MS": "43200000"
+  },
+  "hooks": {
+    "PostToolBatch": [
+      {
+        "hooks": [
+          {"type": "command", "command": "sh", "args": ["-c", "python3 \"$0\" \"$1\"; exit 0", "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py", "watch"], "timeout": 10}
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {"type": "command", "command": "sh", "args": ["-c", "python3 \"$0\" \"$1\"; exit 0", "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py", "watch"], "timeout": 10}
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "compact",
+        "hooks": [
+          {"type": "command", "command": "sh", "args": ["-c", "python3 \"$0\" \"$1\"; exit 0", "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py", "after-compact"], "timeout": 10}
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {"type": "command", "command": "sh", "args": ["-c", "python3 \"$0\" \"$1\"; exit 0", "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py", "footer"], "timeout": 10}
+        ]
+      }
+    ]
+  }
+}
