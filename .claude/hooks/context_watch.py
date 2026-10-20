@@ -12,7 +12,9 @@ Hook modes read the hook's JSON on stdin and always exit 0, so they never block:
                  found by its session id) and prints the newest handoff.md whole,
                  flagged as already used when it ends with a Resumed line; with no
                  handoff, the start of the newest progress file, else of the newest
-                 note. Output stays under the 10,000 characters a hook may add.
+                 note. It also asks Claude to read the owner's skill again before
+                 acting on a keyword, since an invoked skill may not come back.
+                 Output stays under the 10,000 characters a hook may add.
 Manual mode:
   check          Run by Claude or the owner, from the working folder. Prints the
                  transcript's path, the context size, where automatic compaction
@@ -21,9 +23,11 @@ Manual mode:
                  compaction the size is the summary's alone; the overhead comes on
                  top with the next request.
   recommend      One line: size, point and the leave recommendation (alias status).
-  away <dur>     Print the ping/compact plan for an absence: 3h, 90m, 2h30m,
-                 overnight (=12h), or a bare number of hours. Claude follows the
-                 printout, so the per-turn thinking stays trivial.
+  away [long]    Print the plan for an absence: pings until the owner is back,
+                 or with "long" (past the limit the footer states) a handoff and
+                 /compact first, or below 60% no pings at all. A duration (3h, 90m,
+                 overnight) still works. Claude follows the printout, so the
+                 per-turn thinking stays trivial.
   footer         Stop hook: emit the recommendation as a systemMessage, shown to
                  the owner after the reply and NOT added to Claude's context, so
                  it costs no tokens on any turn.
@@ -243,7 +247,8 @@ def watch(d):
     if compacted:   # the newest entry is a compaction: start the count again, say nothing
         save_state(p, {"stage": 0})
         return
-    if not ctx:
+    if not ctx:   # no size yet (a new session's first prompt): still record that the hooks run, for check
+        save_state(p, load_state(p))
         return
     window, trigger, remind, final, rearm, _ = thresholds(ctx, model)
     st = load_state(p)
@@ -252,13 +257,16 @@ def watch(d):
     note = None
     if ctx >= final and st.get("stage", 0) < 2:
         st["stage"] = 2
+        left = max(trigger - ctx, 0)
         note = ("Context check (the owner's long-session watcher): about {:,} tokens; automatic compaction is "
                 "expected near {:,}, roughly {:,} tokens away, and its summary will replace the conversation. "
                 "Write the handoff file now, in either mode (session-notes/<topic>/handoff.md, outside the "
-                "checkout, by the skill's Recommendations and keywords), and keep it current with one-line "
-                "edits until the compaction. If the owner is following the session, also end this turn with "
-                "the one line that compaction is near; working alone, carry on."
-                ).format(ctx, trigger, max(trigger - ctx, 0))
+                "checkout, by the owner's ai-best-practices skill, Recommendations and keywords, read again if "
+                "it is not in your context), and keep it current with one-line edits until the compaction. If "
+                "the owner is following the session, also end this turn with the line \"About {:,} tokens "
+                "before automatic compaction. If this is a good break, send `wrap` (I save a handoff file so "
+                "nothing is lost), then type /compact.\"; working alone, carry on."
+                ).format(ctx, trigger, left, left // 1000 * 1000)
     elif remind and ctx >= remind and st.get("stage", 0) < 1:
         st["stage"] = 1
         note = ("Context check (the owner's long-session watcher): this conversation is about {:,} tokens, {}% of "
@@ -293,6 +301,11 @@ def scratchpads(session_id):
     return sorted(p for p in glob.glob(os.path.join("/tmp", "claude-*", "*", sid, "scratchpad")) if os.path.isdir(p))
 
 
+RELOAD = ("A skill invoked before a compaction may not come back with it (in a cloud session none did after two "
+          "compactions, 2026-10-19 and 20): before acting on one of the owner's keywords (away, away long, wrap) "
+          "or on this watcher's next note, read the owner's ai-best-practices skill again in full.")
+
+
 def after_compact(d):
     if d.get("agent_id"):
         return
@@ -307,7 +320,8 @@ def after_compact(d):
     if not files:
         emit("SessionStart", "Context check (the owner's long-session watcher): the conversation was just compacted. "
              "No %s/ folder was found under %s; if the session kept notes elsewhere, they are the reliable "
-             "record of what was decided and what remains." % (NOTES_DIR, " or ".join(dirs) or "the working folder"))
+             "record of what was decided and what remains. %s"
+             % (NOTES_DIR, " or ".join(dirs) or "the working folder", RELOAD))
         return
     now = time.time()
     base = dirs[0].rstrip(os.sep) + os.sep
@@ -332,12 +346,12 @@ def after_compact(d):
             advice = ("Read it first and continue from it, even if the compaction came well after it was "
                       "written; after acting on it, add a line \"Resumed <UTC time>\" at its end.")
         emit("SessionStart", "Context check (the owner's long-session watcher): the conversation was just compacted. "
-             "The handoff, %s, follows. %s Working notes on disk, newest first: %s.\n\n%s"
-             % (show(lead), advice, listing, text[:6000]))
+             "The handoff, %s, follows. %s %s Working notes on disk, newest first: %s.\n\n%s"
+             % (show(lead), advice, RELOAD, listing, text[:6000]))
         return
     emit("SessionStart", "Context check (the owner's long-session watcher): the conversation was just compacted. "
-         "Working notes on disk, newest first: %s. The start of %s follows.\n\n%s"
-         % (listing, show(lead), text[:4000]))
+         "%s Working notes on disk, newest first: %s. The start of %s follows.\n\n%s"
+         % (RELOAD, listing, show(lead), text[:4000]))
 
 
 def find_transcript():
@@ -404,45 +418,59 @@ def band_reco(ctx, window, trigger, final, verbose=False):
     """Return (band, leave recommendation) for the current size, as prepared text
     so the decision is a lookup, not a computation. verbose gives the footer's
     several-sentence version, which the owner reads and Claude's context never
-    holds; the short form is for Claude's own in-context use. The owner sends
-    "away", or "away long" past the limit the text states:
+    holds; the short form is for Claude's own in-context use. Both name only the
+    keywords the owner may need at that size, each with what it does in the same
+    breath (owner's rule, 2026-10-20). The owner sends "away" (or says they are
+    leaving), or "away long" past the limit the text states:
       band 0  below 60% of the window: pings until back, which pay for ~33 h;
               "away long" past that: let the cache go cold (no compaction, decision 3)
       band 1  60% up to the note point: pings beat compacting for ~8 h (4 with
-              two-read pings, decision 4); "away long" past that: handoff + /compact
-      band 2  within the note margin of the point: handoff + /compact for any absence."""
+              two-read pings, decision 4); "away long" past that: handoff + /compact;
+              "wrap" to compact now at a break
+      band 2  within the note margin of the point: "wrap" at a break, and handoff +
+              /compact before any absence."""
     c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
     limit = 8 if one_read_pings() else 4
+    head = "Long-session advisor (free: you see it after each reply, and it never enters my context). "
+    leaving = ('Leaving this chat for more than an hour, idle or still working? Send "away" (or just say you '
+               'are leaving): ')
+    compact = "/compact (Claude Code's command that shrinks the chat to a summary; I cannot run it myself)"
+    back = "When you are back, just write as usual: your first message cancels the pings left."
     if ctx >= final:
-        band, short = 2, '%dk/%dk · compaction near; leaving over 1h: "away", then /compact at this break' % (c, p)
-        long = ("Long-session advisor (free; it shows after each reply). Automatic compaction is close: %dk "
-                "tokens of %dk, about %d%%, and it will soon summarise this chat in place. Good moment to compact "
-                "now, while you are here? Send \"wrap\": I save a handoff file with everything needed to carry on "
-                "(the task, what is done, what is next), then you type /compact, so it happens at this clean "
-                "break rather than mid-task. Leaving it alone for more than an hour? Send \"away\" instead: the "
-                "same handoff and /compact, then I keep the smaller chat warm with pings until you are back. "
-                "Otherwise just carry on: it will compact on its own, and the handoff file I keep means nothing "
-                "is lost. When you are back, just write as usual." % (c, p, pct))
+        band = 2
+        short = ('%dk/%dk · compaction near · at a break, "wrap" (I save a handoff file, then you type /compact) '
+                 '· leaving over 1h, "away" (the same, then pings until you are back)' % (c, p))
+        long = (head + "Automatic compaction is close: the chat is at %dk tokens of %dk, about %d%%, and will "
+                "soon be summarised in place. At a clean break? Send \"wrap\": I save a handoff file with "
+                "everything needed to carry on (the task, what is done, what is next), then you type " + compact
+                + ", so it happens at this break rather than mid-task. " + leaving + "the same handoff file and "
+                "/compact, then a ping every 50 minutes keeps the smaller chat warm until you are back. "
+                "Otherwise just carry on: it compacts on its own, and the handoff file I keep means nothing is "
+                "lost. " + back) % (c, p, pct)
     elif ctx >= window * 60 // 100:
-        band, short = 1, ('%dk/%dk · leaving over 1h: back within ~%dh "away" (pings); longer "away long" '
-                          '(handoff, then /compact)' % (c, p, limit))
-        long = ("Long-session advisor (free; it shows after each reply). Leaving this chat alone for more than "
-                "an hour? At this size, keeping it warm with pings is cheaper than compacting for absences up "
-                "to about %d hours. Back within that? Send \"away\" and I ping it every 50 minutes until you "
-                "return. Gone longer, say overnight? Send \"away long\": I save a handoff file and ask you to "
-                "type /compact before you go, since I cannot compact myself, then keep the smaller chat warm. "
-                "It is at %dk tokens, about %d%% of the way to automatic compaction near %dk. Want to compact "
-                "now anyway, at a clean break? Send \"wrap\": I save the handoff file so nothing is lost, then "
-                "you type /compact. When you are back, just write as usual." % (limit, c, pct, p))
+        band = 1
+        short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; cheaper than compacting for up to '
+                 '~%dh) · longer, "away long" (a handoff file, you type /compact, then pings) · at a break, '
+                 '"wrap" (a handoff file, then you type /compact)' % (c, p, limit))
+        long = (head + leaving + "I keep it warm with a ping every 50 minutes until you are back, and make the "
+                "calls on pings and compaction myself meanwhile; at this size that is cheaper than compacting "
+                "for absences up to about %d hours. Gone longer, say overnight? Send \"away long\": I save a "
+                "handoff file (the task, what is done, what is next) and ask you to type " + compact + " before "
+                "you go, then keep the smaller chat warm. Staying, and at a clean break? Send \"wrap\" to compact "
+                "now: I save the handoff file, then you type /compact, and nothing is lost. " + back + " The chat "
+                "is at %dk tokens, about %d%% of the way to automatic compaction near %dk.") % (limit, c, pct, p)
     else:
-        band, short = 0, '%dk/%dk · leaving over 1h: "away" (pings); compacting not worth it yet' % (c, p)
-        long = ("Long-session advisor (free; it shows after each reply). Leaving this chat alone for more than "
-                "an hour? Send \"away\" and I keep its memory cache warm with a cheap ping every 50 minutes "
-                "until you are back, so your next message is not a costly cold reload. That pays for absences "
-                "up to about 33 hours; gone longer than that, say for days? Send \"away long\" and I let it go "
-                "cold instead, since nothing is worth paying for that long. It is at %dk tokens, about %d%% of "
-                "the way to automatic compaction near %dk; compacting is not worth it below 600k, where it "
-                "saves little and the summary loses detail. When you are back, just write as usual." % (c, pct, p))
+        band = 0
+        floor = window * 60 // 100 // 1000
+        short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; worth it for up to ~33h) · longer, '
+                 '"away long" (I let it go cold) · compacting not worth it below %dk' % (c, p, floor))
+        long = (head + leaving + "I keep its memory cache warm with a cheap ping every 50 minutes until you are "
+                "back, so your next message is not a costly cold reload, and make the calls on pings and "
+                "compaction myself meanwhile. That pays for absences up to about 33 hours; gone longer, say for "
+                "days? Send \"away long\": I let it go cold instead, since nothing is worth paying for that long. "
+                + back + " The chat is at %dk tokens, about %d%% of the way to automatic compaction near %dk; "
+                "compacting is not worth it below %dk, where it saves little and the summary loses detail."
+                ) % (c, pct, p, floor)
     return band, (long if verbose else short)
 
 
