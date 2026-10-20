@@ -376,18 +376,43 @@ def check():
     print("recommendation: %s" % reco)
 
 
-def band_reco(ctx, window, trigger, final):
-    """Return (band, one-line leave recommendation) for the current size, as
-    prepared text so the decision is a lookup, not a computation:
+def band_reco(ctx, window, trigger, final, verbose=False):
+    """Return (band, leave recommendation) for the current size, as prepared text
+    so the decision is a lookup, not a computation. verbose gives the footer's
+    several-sentence version, which the owner reads and Claude's context never
+    holds; the short form is for Claude's own in-context use.
       band 0  below 60% of the window: pings keep it warm; compacting not worth it
       band 1  60% up to the note point: leave <= ~8h -> pings, longer -> wrap+compact
       band 2  within the note margin of the point: compaction is near either way."""
-    c, p = ctx // 1000, trigger // 1000
+    c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
     if ctx >= final:
-        return 2, '%dk/%dk · compaction near; say "wrap", then /compact at a good break' % (c, p)
-    if ctx >= window * 60 // 100:
-        return 1, '%dk/%dk · leaving? ≤8h say "away"; longer say "wrap" then /compact' % (c, p)
-    return 0, '%dk/%dk · leaving? say "away 6h" for pings; compacting not worth it yet' % (c, p)
+        band, short = 2, '%dk/%dk · compaction near; say "wrap", then /compact at a good break' % (c, p)
+        long = ("Long-session advisor (shown after each reply, at no token cost). You're at %dk tokens — "
+                "automatic compaction is close (%dk, about %d%%) and will soon summarise this chat in place, "
+                "whatever you do. Leaving for more than about an hour? Type \"wrap\" and then /compact at a "
+                "clean break, so it happens on your terms rather than mid-task. I have already saved a handoff "
+                "file, so nothing is lost if it compacts while you are gone. Just a short break? Carry on — "
+                "it will compact on its own." % (c, p, pct))
+    elif ctx >= window * 60 // 100:
+        band, short = 1, '%dk/%dk · leaving? ≤8h say "away"; longer say "wrap" then /compact' % (c, p)
+        long = ("Long-session advisor (shown after each reply, at no token cost). You're at %dk tokens, about "
+                "%d%% of the way to automatic compaction near %dk (a summary that replaces the chat). Leaving "
+                "for up to about 8 hours? Type \"away 6h\" (any duration) and I keep the chat's memory cache "
+                "warm with a cheap ping every 50 minutes, so your return is not a costly cold reload. Longer "
+                "than that? Type \"wrap\": I write a short handoff file and you type /compact, summarising now "
+                "while the cache is warm — cheaper than an automatic compaction later. Either way, do not "
+                "leave with neither pings nor a compaction: the cold reload on return is the expensive case." % (c, pct, p))
+    else:
+        band, short = 0, '%dk/%dk · leaving? say "away 6h" for pings; compacting not worth it yet' % (c, p)
+        long = ("Long-session advisor (this shows after each reply and costs no tokens). You're at %dk tokens, "
+                "about %d%% of the way to automatic compaction near %dk, where the chat reloads itself as a "
+                "summary. Leaving for more than about an hour? Type \"away 6h\" (any duration) and I keep the "
+                "memory cache warm with one cheap ping every 50 minutes, so your next message is not a costly "
+                "cold reload; pings stay worth it for absences up to about 33 hours, so use them however long "
+                "you are gone. I am not suggesting /compact yet — below 600k it saves little and the "
+                "summary loses detail — but above 600k I switch to suggesting you compact before a long "
+                "absence." % (c, pct, p))
+    return band, (long if verbose else short)
 
 
 def footer(d):
@@ -400,7 +425,7 @@ def footer(d):
     if not ctx or compacted:
         return
     window, trigger, remind, final, _, _ = thresholds(ctx, model)
-    _, reco = band_reco(ctx, window, trigger, final)
+    _, reco = band_reco(ctx, window, trigger, final, verbose=True)
     print(json.dumps({"systemMessage": reco}))
 
 
@@ -413,7 +438,7 @@ def recommend():
         print("context size not found yet%s." % (" since the compaction" if compacted else ""))
         return
     window, trigger, remind, final, _, _ = thresholds(ctx, model)
-    _, reco = band_reco(ctx, window, trigger, final)
+    _, reco = band_reco(ctx, window, trigger, final, verbose=True)
     print(reco)
 
 
