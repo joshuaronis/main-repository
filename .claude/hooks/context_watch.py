@@ -2,12 +2,14 @@
 """Context watcher for long Claude Code sessions.
 
 Hook modes read the hook's JSON on stdin and always exit 0, so they never block:
-  start          SessionStart, any source but compact. Asks Claude to load the
-                 owner's ai-best-practices skill, which applies to every session.
-                 Locally it first brings the installed watcher in step with the
-                 skill's copy synced from claude.ai (install_watcher.py --sync)
-                 and says so when it changed anything; in a cloud session it
-                 tells Claude when the repository's copy differs from that one.
+  start          SessionStart, any source but compact. Locally it brings the
+                 installed watcher in step with the skill's copy synced from
+                 claude.ai (install_watcher.py --sync) and says what it found or
+                 changed; in a cloud session it compares the repository's copy
+                 with that one and tells Claude to update main when they differ.
+                 With no synced copy it says so, with how to act on the notice's
+                 keywords without the skill. Loading the skill is the owner's
+                 preferences' job, which reach every session.
   watch          PostToolBatch and UserPromptSubmit. Once the context comes
                  within 60,000 tokens of compaction, adds one short note to
                  Claude's context asking for the handoff file; silent otherwise,
@@ -19,7 +21,8 @@ Hook modes read the hook's JSON on stdin and always exit 0, so they never block:
                  flagged as already used when it ends with a Resumed line; with no
                  handoff, the start of the newest progress file, else of the newest
                  note. It also asks Claude to load the owner's skill again with the
-                 Skill tool, since an invoked skill may not come back.
+                 Skill tool, as the owner's preferences ask after every compaction,
+                 since an invoked skill may not come back.
                  Output stays under the 10,000 characters a hook may add.
 Manual mode:
   check          Run by Claude or the owner, from the working folder. Prints the
@@ -30,7 +33,7 @@ Manual mode:
                  version, and the one-line leave recommendation. Just after a
                  compaction the size is the summary's alone; the overhead comes on
                  top with the next request.
-  recommend      The footer's paragraph, for Claude to relay in chat (alias status).
+  recommend      The footer's options, for Claude to relay in chat (alias status).
   away [long|<time>]  Print the plan for an absence: pings until the owner is back;
                  with "long" (past the limit the footer states), from 60% a handoff
                  and /compact first, below 60% no pings at all. A stated time (3h,
@@ -38,7 +41,8 @@ Manual mode:
                  Claude follows the printout, so the per-turn thinking stays trivial.
   footer         Stop hook: emit the recommendation as a systemMessage, shown to
                  the owner after the reply and NOT added to Claude's context, so
-                 it costs no tokens on any turn.
+                 it costs no tokens on any turn: the size, then the owner's
+                 options at that size as bullets, each with why.
 
 Context = input + cache_creation + cache_read tokens of the newest main-chain
 assistant message in the transcript, skipping synthetic and zero-usage ones.
@@ -81,7 +85,7 @@ SUMMARY_RESERVE = 20_000     # held back for the summary; fits every compaction 
 AUTOCOMPACT_BUFFER = 13_000  # with the reserve, the documented ~967,000 on a 1M window
 MIN_WINDOW = 100_000         # the smallest auto-compact window Claude Code takes
 FOOTER_HEAD = "Long-session advisor (free: you see it after each reply, and it never enters my context). "
-VERSION = "2026-10-20.3"     # this release; install_watcher.py compares the files themselves
+VERSION = "2026-10-20.4"     # this release; install_watcher.py compares the files themselves
 SKILL_NAME = "ai-best-practices"
 
 
@@ -388,13 +392,27 @@ def scratchpads(session_id):
     return sorted(p for p in glob.glob(os.path.join("/tmp", "claude-*", "*", sid, "scratchpad")) if os.path.isdir(p))
 
 
-RELOAD = ("A skill invoked before a compaction may not come back with it (in a cloud session none did after two "
-          "compactions, 2026-10-19 and 20), and the owner's ai-best-practices skill applies to every session: load "
-          "it again with the Skill tool before acting on the handoff or on the owner's next message (on a "
-          "keep-warm ping's turn, leave it for that message).")
-LOAD = ("The owner's ai-best-practices skill applies to every Claude Code session (the owner's standing rule, "
-        "2026-10-20): load it now with the Skill tool, before your first reply, unless its text is already in your "
-        "context; on a keep-warm ping's turn, reply with only ✓ and leave this note for the owner's next message.")
+RELOAD = ("The owner's preferences ask for their ai-best-practices skill again after every compaction: load it with "
+          "the Skill tool before acting on the handoff or on the owner's next message (on a keep-warm ping's turn, "
+          "leave it for that message), since a skill invoked before a compaction may not come back with it (in one "
+          "cloud session three invoked on 2026-10-19 never did, while one invoked on 2026-10-20 came back after the "
+          "next two).")
+KEYWORDS_WITHOUT_SKILL = ("The after-reply notice works without it: on \"away\" or \"away long\", run python3 %s "
+                          "away (or away long) and follow what it prints; on \"wrap\", save a handoff file in "
+                          "session-notes/<topic>/handoff.md and ask the owner to type /compact; on the owner's next "
+                          "ordinary message, cancel any pings left.")
+NO_SKILL = ("No copy of the owner's ai-best-practices skill synced from claude.ai was found (it may not be uploaded "
+            "there, or Claude Code may still be downloading it), so the watcher's installed copies were not checked. "
+            "If the Skill tool cannot load the skill either, tell the owner once (on a keep-warm ping's turn, leave "
+            "this for their next message). " + KEYWORDS_WITHOUT_SKILL)
+
+
+def reload_text():
+    """RELOAD, and where no synced copy of the skill is found, how to act on the notice's keywords without it, since
+    the start note that said so may not have come through the compaction."""
+    if skill_folder():
+        return RELOAD
+    return RELOAD + " If the Skill tool cannot load it: " + KEYWORDS_WITHOUT_SKILL % os.path.abspath(__file__)
 
 
 def after_compact(d):
@@ -412,7 +430,7 @@ def after_compact(d):
         emit("SessionStart", "Context check (the owner's long-session watcher): the conversation was just compacted. "
              "No %s/ folder was found under %s; if the session kept notes elsewhere, they are the reliable "
              "record of what was decided and what remains. %s"
-             % (NOTES_DIR, " or ".join(dirs) or "the working folder", RELOAD))
+             % (NOTES_DIR, " or ".join(dirs) or "the working folder", reload_text()))
         return
     now = time.time()
     base = dirs[0].rstrip(os.sep) + os.sep
@@ -445,37 +463,45 @@ def after_compact(d):
                       "its <!-- end --> marker.")
         emit("SessionStart", "Context check (the owner's long-session watcher): the conversation was just compacted. "
              "The handoff, %s, follows. %s %s Working notes on disk, newest first: %s.\n\n%s"
-             % (show(lead), advice, RELOAD, listing, text[:6000]))
+             % (show(lead), advice, reload_text(), listing, text[:6000]))
         return
     emit("SessionStart", "Context check (the owner's long-session watcher): the conversation was just compacted. "
          "%s Working notes on disk, newest first: %s. The start of %s follows.\n\n%s"
-         % (RELOAD, listing, show(lead), text[:4000]))
+         % (reload_text(), listing, show(lead), text[:4000]))
 
 
 def start(d):
-    """SessionStart, any source but compact (after-compact covers that): ask for the skill, and keep the watcher's
-    installed copies in step with the skill's copy synced from claude.ai."""
+    """SessionStart, any source but compact (after-compact covers that): keep the watcher's installed copies in step
+    with the skill's copy synced from claude.ai, or say that none was found. The owner's preferences, which reach
+    every session, have Claude load the skill (the owner, 2026-10-20)."""
     if d.get("agent_id") or d.get("source") == "compact":
         return
-    lines, shown = [LOAD], None
+    lines, shown = [], None
     skill = skill_folder()
-    if skill and is_cloud():
+    if not skill:
+        lines.append(NO_SKILL % os.path.abspath(__file__))
+    elif is_cloud():
         repo = os.environ.get("CLAUDE_PROJECT_DIR") or d.get("cwd")
         r = installer(skill, ["--check", "--repo", repo]) if isinstance(repo, str) and repo else {}
         if r.get("installed") and r.get("differences"):
             lines.append("This repository's watcher differs from the skill's version %s (%s): update main now as the "
                          "skill's session rules say (in a worktree of origin/main, python3 %s --repo <worktree>, "
                          "then commit only .claude/ and push it to main, under the owner's standing go-ahead of "
-                         "2026-10-20), and tell the owner in one line." % (r.get("version"), ", ".join(r["differences"]),
-                                                                         os.path.join(skill, "scripts", "install_watcher.py")))
+                         "2026-10-20), and tell the owner in one line; on a keep-warm ping's turn, leave this for "
+                         "their next message." % (r.get("version"), ", ".join(r["differences"]),
+                                                  os.path.join(skill, "scripts", "install_watcher.py")))
         elif r.get("current"):
             lines.append("This repository's watcher matches the skill (version %s)." % r.get("version"))
-    elif skill and installed_copy():
+        elif r.get("error"):
+            lines.append("The watcher could not compare this repository's copy with the skill's (%s); run check."
+                         % r["error"])
+    elif installed_copy():
         r = installer(skill, ["--sync"])
         save_state(state_path(d.get("session_id")), load_state(state_path(d.get("session_id"))))   # for check
         line, shown = sync_line(r, r.get("version"))
         lines.append(line)
-    emit("SessionStart", " ".join(lines), shown)
+    if lines:
+        emit("SessionStart", " ".join(lines), shown)
 
 
 def find_transcript():
@@ -621,11 +647,13 @@ def pings_that_pay():
 def band_reco(ctx, window, trigger, final, verbose=False):
     """Return (band, leave recommendation) for the current size, as prepared text
     so the decision is a lookup, not a computation. verbose gives the footer's
-    several-sentence version, which the owner reads and Claude's context never
-    holds; the short form is for Claude's own in-context use. Both name only the
-    keywords the owner may need at that size, each with what it does in the same
-    breath (owner's rule, 2026-10-20). The owner sends "away" (or says they are
-    leaving), or "away long" past the limit the text states:
+    version, which the owner reads and Claude's context never holds: the size,
+    then the owner's options at that size as bullets, each with why (the owner's
+    request, 2026-10-20); the short form is for Claude's own in-context use. Both
+    name only the keywords the owner may need at that size, each with what it
+    does in the same breath (owner's rule, 2026-10-20). The owner sends "away" (or
+    says they are leaving), "away long" past the limit the text states, or either
+    with a task, which Claude does first, deciding at the size then reached:
       band 0  below 60% of the window: pings until back, which pay for ~33 h;
               "away long" past that: let the cache go cold (no compaction, decision 3)
       band 1  60% up to the note point: pings beat compacting for ~8 h (4 with
@@ -635,45 +663,72 @@ def band_reco(ctx, window, trigger, final, verbose=False):
               /compact before any absence."""
     c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
     limit = 8 if one_read_pings() else 4
-    leaving = ('Leaving this chat for more than an hour? Send "away", or just say you are leaving (you can add a '
-               'task for me in the same message): ')
     compact = "/compact (Claude Code's command that shrinks the chat to a summary; I cannot run it myself)"
-    back = "When you are back, just write as usual: your first message cancels the pings left."
+    where = (" This cloud session needs nothing from your computer meanwhile." if is_cloud() else
+             " Keep the computer awake and this session open meanwhile: the pings run there.")
+    hour = ("- Gone under an hour: nothing to send, since within your plan's usage the chat's memory cache stays "
+            "warm that long.")
+    timed = ('- "away" with a time, such as "away 10h" or "away overnight", when unsure which fits: I compare it '
+             'with the limit above and choose for you.')
+    back = "- Back: just write as usual; your first message cancels the pings left."
     if ctx >= final:
         band = 2
         short = ('%dk/%dk · compaction near · at a break, "wrap" (I save a handoff file, then you type /compact) '
                  '· leaving over 1h, "away" (the same, then pings until you are back)' % (c, p))
-        long = ("Automatic compaction is close: the chat is at %dk tokens of %dk, about %d%%, and will "
-                "soon be summarised in place. At a clean break? Send \"wrap\": I save a handoff file with "
-                "everything needed to carry on (the task, what is done, what is next), then you type " + compact
-                + ", so it happens at this break rather than mid-task. " + leaving + "the same handoff file and "
-                "/compact, then a ping every 50 minutes keeps the smaller chat warm until you are back. "
-                "Otherwise just carry on: it compacts on its own, and the handoff file I keep means nothing is "
-                "lost. " + back) % (c, p, pct)
+        long = ("Automatic compaction is close: the chat is at %dk tokens of %dk, about %d%%, and will soon be "
+                "summarised in place. Your options:\n" % (c, p, pct) + "\n".join([
+                    '- "wrap", at a clean break: I save a handoff file with everything needed to carry on (the '
+                    'task, what is done, what is next), then you type ' + compact + ', so it happens at this break '
+                    'rather than mid-task.',
+                    '- "away" (or just say you are leaving), for over an hour: the same handoff file and /compact, '
+                    'then a ping every 50 minutes keeps the smaller chat warm until you are back.' + where,
+                    '- A task in the same message as "away": I do the task first, keeping the handoff file current, '
+                    'so nothing is lost if the chat compacts on its own meanwhile; then I keep it warm while that pays.',
+                    "- Otherwise just carry on: it compacts on its own, and the handoff file I keep means nothing "
+                    "is lost.",
+                    back]))
     elif ctx >= window * 60 // 100:
         band = 1
         short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; cheaper than compacting for up to '
                  '~%dh) · longer, "away long" (a handoff file, you type /compact, then pings) · at a break, '
                  '"wrap" (a handoff file, then you type /compact)' % (c, p, limit))
-        long = (leaving + "I keep it warm with a ping every 50 minutes until you are back, and if compaction "
-                "comes near meanwhile I save the handoff file first; at this size that is cheaper than compacting "
-                "for absences up to about %d hours. Gone longer, say overnight? Send \"away long\": I save a "
-                "handoff file (the task, what is done, what is next) and ask you to type " + compact + " before "
-                "you go, then keep the smaller chat warm. Staying, and at a clean break? Send \"wrap\" to compact "
-                "now: I save the handoff file, then you type /compact, and nothing is lost. " + back + " The chat "
-                "is at %dk tokens, about %d%% of the way to automatic compaction near %dk.") % (limit, c, pct, p)
+        long = ("The chat is at %dk tokens, about %d%% of the way to automatic compaction near %dk. Your options:\n"
+                % (c, pct, p) + "\n".join([
+                    hour,
+                    '- "away" (or just say you are leaving), for longer: I keep the chat warm with a ping every 50 '
+                    'minutes until you are back, saving the handoff file first if compaction comes near; at this '
+                    'size that is cheaper than compacting for absences up to about %d hours.' % limit + where,
+                    '- "away long", for longer than that, say overnight: I save a handoff file (the task, what is '
+                    'done, what is next) and ask you to type ' + compact + ' before you go, then keep the smaller '
+                    'chat warm.',
+                    timed,
+                    '- A task in the same message as "away" or "away long": I do the task first, then decide by the '
+                    'size the chat has reached; with you gone I cannot ask for /compact, so where one is due I save the '
+                    'handoff file instead, and keep the chat warm only while that pays.',
+                    '- "wrap", staying but at a clean break: I save the handoff file, then you type /compact, so the '
+                    'chat compacts at this break rather than mid-task, and nothing is lost.',
+                    back]))
     else:
         band = 0
         floor = window * 60 // 100 // 1000
         hours = round(pings_that_pay() * 50 / 60)
         short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; worth it for up to ~%dh) · longer, '
                  '"away long" (I let it go cold) · compacting not worth it below %dk' % (c, p, hours, floor))
-        long = (leaving + "I keep its memory cache warm with a cheap ping every 50 minutes until you are back, "
-                "so your next message is not a costly cold reload. That pays for absences up to about %d hours; "
-                "gone longer, say for days? Send \"away long\": I let it go cold instead, since nothing is worth "
-                "paying for that long. " + back + " The chat is at %dk tokens, about %d%% of the way to "
-                "automatic compaction near %dk; compacting is not worth it below %dk, where it saves little and "
-                "the summary loses detail.") % (hours, c, pct, p, floor)
+        long = ("The chat is at %dk tokens, about %d%% of the way to automatic compaction near %dk. Your options:\n"
+                % (c, pct, p) + "\n".join([
+                    hour,
+                    '- "away" (or just say you are leaving), for longer: I keep the cache warm with a cheap ping '
+                    'every 50 minutes until you are back, so your next message is not a costly cold reload. That '
+                    'pays for absences up to about %d hours.' % hours + where,
+                    '- "away long", for longer than that, say days: I let the cache go cold instead, since nothing '
+                    'is worth paying for that long; if your next task is unrelated, a new session is cheaper still.',
+                    timed,
+                    '- A task in the same message as "away" or "away long": I do the task first, then decide by the '
+                    'size the chat has reached whether pings still pay, and start them only if they do, since no '
+                    'one can know beforehand how much a task adds.',
+                    back,
+                    "- /compact (Claude Code's command that shrinks the chat to a summary) is not worth it below "
+                    "%dk: it saves little, and the summary loses detail." % floor]))
     return band, (long if verbose else short)
 
 
@@ -692,7 +747,7 @@ def footer(d):
 
 
 def recommend():
-    """The footer's paragraph for the owner's `status`, for Claude to relay in chat
+    """The footer's options for the owner's `status`, for Claude to relay in chat
     where the footer is not installed; without the footer's opening line, which
     says it costs nothing, true only of the notice."""
     path, _ = find_transcript()
@@ -770,6 +825,9 @@ def away(arg):
     print("context: %s tokens (%d%% of %s); compaction near %s; %s"
           % (format(ctx, ","), ctx * 100 // window, format(window, ","), format(trigger, ","),
              "away long" if long_away else "away"))
+    print("if work is under way, or the owner left a task with this: do it first; when it is done, run away again, "
+          "which decides afresh at the size then reached (pings, a handoff first, or letting the cache go cold), and "
+          "follow that, leaving out any step the owner would have to take, such as /compact")
     if band == 0 and long_away:
         print("plan: no pings and no compaction. Past about %d hours pings cost more than one cold return, and "
               "below 60%% compacting is not worth the lost detail, so let the cache go cold (a fresh session is "
@@ -781,8 +839,6 @@ def away(arg):
     cloud = is_cloud()
     hours = (12 if long_background() else 2) if cloud else 33
     batch = min(pay, (hours * 60 - 55 + 49) // 50)
-    print("if work is under way: finish it first, then run away again for fresh times, leaving out any step the "
-          "owner would have to take")
     if band == 2 or (band == 1 and long_away):
         print("plan: handoff and /compact first, then pings at the smaller size")
         print("  1. write or refresh the handoff file (session-notes/<topic>/handoff.md) and say in one line where it "
