@@ -19,7 +19,8 @@ Manual mode:
   check          Run by Claude or the owner, from the working folder. Prints the
                  transcript's path, the context size, where automatic compaction
                  is expected, where the note comes, whether the hooks have run in
-                 this session, and the one-line leave recommendation. Just after a
+                 this session and which settings files (the user's, this folder's)
+                 hold them, and the one-line leave recommendation. Just after a
                  compaction the size is the summary's alone; the overhead comes on
                  top with the next request.
   recommend      The footer's paragraph, for Claude to relay in chat (alias status).
@@ -404,24 +405,55 @@ def find_transcript():
     return (hits[0], os.path.basename(hits[0])[:-6]) if hits else (None, None)
 
 
+def installed_in():
+    """The settings files, the user's and this folder's, that hold a hook running this script."""
+    proj = os.environ.get("CLAUDE_PROJECT_DIR") or os.getcwd()
+    found, seen = [], set()
+    for p in (os.path.join(config_dir(), "settings.json"), os.path.join(proj, ".claude", "settings.json"),
+              os.path.join(proj, ".claude", "settings.local.json")):
+        real = os.path.realpath(p)
+        if real in seen:
+            continue
+        seen.add(real)
+        try:
+            hooks = json.load(open(p)).get("hooks")
+        except (OSError, ValueError, AttributeError):
+            continue
+        if "context_watch.py" in json.dumps(hooks):
+            found.append(p.replace(os.path.expanduser("~"), "~", 1))
+    return found
+
+
+def hooks_line(sid):
+    """Whether the watcher's hooks have run in this session, and where they are installed."""
+    p, where = state_path(sid), installed_in()
+    if os.path.exists(p):
+        return "yes, last ran %d s ago%s" % (time.time() - os.path.getmtime(p),
+                                              " (installed in %s)" % ", ".join(where) if where else "")
+    if where:
+        return ("installed in %s, but none has run in this session yet: they run on the next prompt or tool call, "
+                "so check again after one; if they still have not, restart the session (a cloud session loads "
+                "them only when it starts or its worker restarts)" % ", ".join(where))
+    return "none has run in this session, and none is installed in the user settings or this folder's .claude/"
+
+
 def check():
     path, sid = find_transcript()
     if not path:
         print("No Claude Code transcript found under %s." % os.path.join(config_dir(), "projects"))
         return
     ctx, model, compacted = read_tail_usage(path)
+    print("transcript: %s" % path)
     if not ctx:
-        print("transcript: %s\nNo context size found yet%s." % (path, " since the compaction" if compacted else ""))
+        print("No context size found yet%s." % (" since the compaction" if compacted else ""))
+        print("watcher hooks: %s" % hooks_line(sid))
         return
     window, trigger, remind, final, _, src = thresholds(ctx, model)
-    p = state_path(sid)
-    seen = os.path.exists(p) and "yes, last ran %d s ago" % (time.time() - os.path.getmtime(p)) or "not in this session"
-    print("transcript: %s" % path)
     print("context: %s tokens (%d%% of a %s window)%s" % (format(ctx, ","), ctx * 100 // window,
           format(window, ","), ", just compacted (summary only; overhead comes on top)" if compacted else ""))
     print("automatic compaction expected near: %s (%s)" % (format(trigger, ","), src))
     print("note at: %s%s" % (format(final, ","), "; earlier note at: %s" % format(remind, ",") if remind else ""))
-    print("watcher hooks: %s" % seen)
+    print("watcher hooks: %s" % hooks_line(sid))
     _, reco = band_reco(ctx, window, trigger, final)
     print("recommendation: %s" % reco)
 
