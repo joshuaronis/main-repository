@@ -416,11 +416,13 @@ def band_reco(ctx, window, trigger, final, verbose=False):
     if ctx >= final:
         band, short = 2, '%dk/%dk · compaction near; leaving over 1h: "away", then /compact at this break' % (c, p)
         long = ("Long-session advisor (free; it shows after each reply). Automatic compaction is close: %dk "
-                "tokens of %dk, about %d%%, and it will soon summarise this chat in place. Leaving it alone for "
-                "more than an hour, however long? Send \"away\": I save a handoff file and ask you to type "
-                "/compact before you go, so it happens at this clean break rather than mid-task, then I keep "
-                "the smaller chat warm with pings until you are back. Short break? Carry on — it will "
-                "compact on its own. When you are back, just write as usual." % (c, p, pct))
+                "tokens of %dk, about %d%%, and it will soon summarise this chat in place. Good moment to compact "
+                "now, while you are here? Send \"wrap\": I save a handoff file with everything needed to carry on "
+                "(the task, what is done, what is next), then you type /compact, so it happens at this clean "
+                "break rather than mid-task. Leaving it alone for more than an hour? Send \"away\" instead: the "
+                "same handoff and /compact, then I keep the smaller chat warm with pings until you are back. "
+                "Otherwise just carry on: it will compact on its own, and the handoff file I keep means nothing "
+                "is lost. When you are back, just write as usual." % (c, p, pct))
     elif ctx >= window * 60 // 100:
         band, short = 1, ('%dk/%dk · leaving over 1h: back within ~%dh "away" (pings); longer "away long" '
                           '(handoff, then /compact)' % (c, p, limit))
@@ -429,8 +431,9 @@ def band_reco(ctx, window, trigger, final, verbose=False):
                 "to about %d hours. Back within that? Send \"away\" and I ping it every 50 minutes until you "
                 "return. Gone longer, say overnight? Send \"away long\": I save a handoff file and ask you to "
                 "type /compact before you go, since I cannot compact myself, then keep the smaller chat warm. "
-                "It is at %dk tokens, about %d%% of the way to automatic compaction near %dk. When you are "
-                "back, just write as usual." % (limit, c, pct, p))
+                "It is at %dk tokens, about %d%% of the way to automatic compaction near %dk. Want to compact "
+                "now anyway, at a clean break? Send \"wrap\": I save the handoff file so nothing is lost, then "
+                "you type /compact. When you are back, just write as usual." % (limit, c, pct, p))
     else:
         band, short = 0, '%dk/%dk · leaving over 1h: "away" (pings); compacting not worth it yet' % (c, p)
         long = ("Long-session advisor (free; it shows after each reply). Leaving this chat alone for more than "
