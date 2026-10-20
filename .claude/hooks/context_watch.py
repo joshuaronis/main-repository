@@ -387,31 +387,31 @@ def band_reco(ctx, window, trigger, final, verbose=False):
     c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
     if ctx >= final:
         band, short = 2, '%dk/%dk · compaction near; say "wrap", then /compact at a good break' % (c, p)
-        long = ("Long-session advisor (shown after each reply, at no token cost). You're at %dk tokens — "
-                "automatic compaction is close (%dk, about %d%%) and will soon summarise this chat in place, "
-                "whatever you do. Leaving for more than about an hour? Type \"wrap\" and then /compact at a "
-                "clean break, so it happens on your terms rather than mid-task. I have already saved a handoff "
-                "file, so nothing is lost if it compacts while you are gone. Just a short break? Carry on — "
-                "it will compact on its own." % (c, p, pct))
+        long = ("Long-session advisor (free; it shows after each reply). Automatic compaction is close: %dk "
+                "tokens of %dk, about %d%%, and it will soon summarise this chat in place. Leaving it alone for "
+                "more than an hour? Send \"away 3h\" first (any duration, your best guess), then type /compact "
+                "at this clean break, so it happens on your terms rather than mid-task; I have already saved a "
+                "handoff file, so nothing is lost either way, and I keep the chat warm with pings afterwards. "
+                "Short break? Carry on — it will compact on its own. When you are back, just write as usual."
+                % (c, p, pct))
     elif ctx >= window * 60 // 100:
         band, short = 1, '%dk/%dk · leaving? ≤8h say "away"; longer say "wrap" then /compact' % (c, p)
-        long = ("Long-session advisor (shown after each reply, at no token cost). You're at %dk tokens, about "
-                "%d%% of the way to automatic compaction near %dk (a summary that replaces the chat). Leaving "
-                "for up to about 8 hours? Type \"away 6h\" (any duration) and I keep the chat's memory cache "
-                "warm with a cheap ping every 50 minutes, so your return is not a costly cold reload. Longer "
-                "than that? Type \"wrap\": I write a short handoff file and you type /compact, summarising now "
-                "while the cache is warm — cheaper than an automatic compaction later. Either way, do not "
-                "leave with neither pings nor a compaction: the cold reload on return is the expensive case." % (c, pct, p))
+        long = ("Long-session advisor (free; it shows after each reply). Leaving this chat alone for more than "
+                "an hour? Send \"away 3h\" first (any duration, your best guess), and I decide the rest myself: "
+                "for up to about 8 hours I keep it warm with a cheap ping every 50 minutes; for longer I write a "
+                "handoff file and ask you to type /compact before you go, since I cannot compact myself, then "
+                "keep pinging. Right now it is at %dk tokens, about %d%% of the way to automatic compaction "
+                "near %dk. Above 600k, compacting before a long absence pays, and leaving with neither pings "
+                "nor a compaction is the expensive case. When you are back, just write as usual." % (c, pct, p))
     else:
         band, short = 0, '%dk/%dk · leaving? say "away 6h" for pings; compacting not worth it yet' % (c, p)
-        long = ("Long-session advisor (this shows after each reply and costs no tokens). You're at %dk tokens, "
-                "about %d%% of the way to automatic compaction near %dk, where the chat reloads itself as a "
-                "summary. Leaving for more than about an hour? Type \"away 6h\" (any duration) and I keep the "
-                "memory cache warm with one cheap ping every 50 minutes, so your next message is not a costly "
-                "cold reload; pings stay worth it for absences up to about 33 hours, so use them however long "
-                "you are gone. I am not suggesting /compact yet — below 600k it saves little and the "
-                "summary loses detail — but above 600k I switch to suggesting you compact before a long "
-                "absence." % (c, pct, p))
+        long = ("Long-session advisor (free; it shows after each reply). Leaving this chat alone for more than "
+                "an hour? Send \"away 3h\" first (any duration, your best guess), and I look after it myself: I "
+                "keep its memory cache warm with a cheap ping every 50 minutes, so your next message is not a "
+                "costly cold reload, which is worth it for absences up to about 33 hours. Right now it is at "
+                "%dk tokens, about %d%% of the way to automatic compaction near %dk. Compacting is not worth it "
+                "yet: below 600k it saves little and the summary loses detail. When you are back, just write as "
+                "usual." % (c, pct, p))
     return band, (long if verbose else short)
 
 
