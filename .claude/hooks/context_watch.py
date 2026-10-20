@@ -746,8 +746,29 @@ def footer(d):
     if not ctx or compacted:
         return
     window, trigger, remind, final, _, _ = thresholds(ctx, model)
-    _, reco = band_reco(ctx, window, trigger, final, verbose=True)
-    print(json.dumps({"systemMessage": FOOTER_HEAD + reco}))
+    print(json.dumps({"systemMessage": notice_line(ctx, window, trigger, final)}))
+
+
+def notice_line(ctx, window, trigger, final):
+    """The notice, on one line: the apps print "Stop says:" before every line of a hook's message, any line break
+    included, and render no markdown (seen 2026-10-20), so the full list of options, formatted, comes on `status`."""
+    c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
+    limit = 8 if one_read_pings() else 4
+    status = 'Send "status" to see every option, formatted, with why.'
+    if ctx >= final:
+        return ('Long-session advisor (free, never in my context): %dk of %dk tokens, %d%%; automatic compaction is '
+                'close. At a clean break, send "wrap": I save a handoff file, then you type /compact (Claude Code\'s '
+                'command that shrinks the chat to a summary). Leaving for over an hour? Send "away": the same, then '
+                'pings keep it warm. ' % (c, p, pct) + status)
+    if ctx >= window * 60 // 100:
+        return ('Long-session advisor (free, never in my context): %dk of %dk tokens, %d%%. Leaving for over an hour? '
+                'Send "away": pings keep the chat warm, cheaper than compacting for up to ~%d h. Longer, send "away '
+                'long": a handoff file, then you type /compact (Claude Code\'s command that shrinks the chat to a '
+                'summary). ' % (c, p, pct, limit) + status)
+    hours = round(pings_that_pay() * 50 / 60)
+    return ('Long-session advisor (free, never in my context): %dk of %dk tokens, %d%%. Leaving for over an hour? '
+            'Send "away": pings keep the chat warm, worth it for up to ~%d h. Longer, send "away long": I let it go '
+            'cold. ' % (c, p, pct, hours) + status)
 
 
 def recommend():
