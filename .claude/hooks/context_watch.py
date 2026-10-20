@@ -84,7 +84,7 @@ ONE_M_MODELS = ("opus-5", "sonnet-5", "haiku-5", "fable", "mythos", "opus-4-7", 
 SUMMARY_RESERVE = 20_000     # held back for the summary; fits every compaction seen
 AUTOCOMPACT_BUFFER = 13_000  # with the reserve, the documented ~967,000 on a 1M window
 MIN_WINDOW = 100_000         # the smallest auto-compact window Claude Code takes
-NOTICE_BREAK = "\u2028"    # parts the notice's options without a newline (see band_reco)
+NOTICE_BREAK = " "    # the options stay on one line, parted by bullets (see band_reco)
 FOOTER_HEAD = "Long-session advisor (free: you see it after each reply, and it never enters my context). "
 VERSION = "2026-10-20.4"     # this release; install_watcher.py compares the files themselves
 SKILL_NAME = "ai-best-practices"
@@ -730,8 +730,8 @@ def band_reco(ctx, window, trigger, final, verbose=False):
                     back,
                     "- /compact (Claude Code's command that shrinks the chat to a summary) is not worth it below "
                     "%dk: it saves little, and the summary loses detail." % floor]))
-    # The apps show each line of a hook's systemMessage as its own "Stop says: …" line (seen 2026-10-20), so the
-    # options are parted by U+2028, a line separator that is no newline, each marked with a bullet.
+    # The apps show each line of a hook's systemMessage as its own "Stop says: …" line, U+2028 line separators
+    # included (seen 2026-10-20), so the options stay on one line, each marked with a bullet.
     long = long.replace("\n- ", NOTICE_BREAK + "• ")
     return band, (long if verbose else short)
 
