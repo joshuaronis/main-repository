@@ -376,42 +376,70 @@ def check():
     print("recommendation: %s" % reco)
 
 
+def one_read_pings():
+    """True when a keep-warm ping costs one read of the context, so decision 4's
+    limit is about 8 hours rather than 4: prompt suggestions off (the variable,
+    else the user settings' promptSuggestionEnabled), and in a cloud session a
+    background command allowed past 2 hours, so the keep-awake command needs no
+    restart every 2 hours."""
+    sugg = os.environ.get("CLAUDE_CODE_ENABLE_PROMPT_SUGGESTION", "").strip().lower()
+    off = sugg in ("false", "0", "no", "off")
+    if not sugg:
+        try:
+            with open(os.path.join(config_dir(), "settings.json"), encoding="utf-8") as f:
+                s = json.load(f)
+            off = isinstance(s, dict) and s.get("promptSuggestionEnabled") is False
+        except Exception:
+            pass
+    if not os.environ.get("CLAUDE_CODE_REMOTE"):
+        return off
+    try:
+        long_bg = int(float(os.environ.get("BASH_MAX_TIMEOUT_MS") or 0)) > 2 * 3600 * 1000
+    except ValueError:
+        long_bg = False
+    return off and long_bg
+
+
 def band_reco(ctx, window, trigger, final, verbose=False):
     """Return (band, leave recommendation) for the current size, as prepared text
     so the decision is a lookup, not a computation. verbose gives the footer's
     several-sentence version, which the owner reads and Claude's context never
-    holds; the short form is for Claude's own in-context use.
-      band 0  below 60% of the window: pings keep it warm; compacting not worth it
-      band 1  60% up to the note point: leave <= ~8h -> pings, longer -> wrap+compact
-      band 2  within the note margin of the point: compaction is near either way."""
+    holds; the short form is for Claude's own in-context use. The owner sends
+    "away", or "away long" past the limit the text states:
+      band 0  below 60% of the window: pings until back, which pay for ~33 h;
+              "away long" past that: let the cache go cold (no compaction, decision 3)
+      band 1  60% up to the note point: pings beat compacting for ~8 h (4 with
+              two-read pings, decision 4); "away long" past that: handoff + /compact
+      band 2  within the note margin of the point: handoff + /compact for any absence."""
     c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
+    limit = 8 if one_read_pings() else 4
     if ctx >= final:
-        band, short = 2, '%dk/%dk · compaction near; say "wrap", then /compact at a good break' % (c, p)
+        band, short = 2, '%dk/%dk · compaction near; leaving over 1h: "away", then /compact at this break' % (c, p)
         long = ("Long-session advisor (free; it shows after each reply). Automatic compaction is close: %dk "
                 "tokens of %dk, about %d%%, and it will soon summarise this chat in place. Leaving it alone for "
-                "more than an hour? Send \"away 3h\" first (any duration, your best guess), then type /compact "
-                "at this clean break, so it happens on your terms rather than mid-task; I have already saved a "
-                "handoff file, so nothing is lost either way, and I keep the chat warm with pings afterwards. "
-                "Short break? Carry on — it will compact on its own. When you are back, just write as usual."
-                % (c, p, pct))
+                "more than an hour, however long? Send \"away\": I save a handoff file and ask you to type "
+                "/compact before you go, so it happens at this clean break rather than mid-task, then I keep "
+                "the smaller chat warm with pings until you are back. Short break? Carry on — it will "
+                "compact on its own. When you are back, just write as usual." % (c, p, pct))
     elif ctx >= window * 60 // 100:
-        band, short = 1, '%dk/%dk · leaving? ≤8h say "away"; longer say "wrap" then /compact' % (c, p)
+        band, short = 1, ('%dk/%dk · leaving over 1h: back within ~%dh "away" (pings); longer "away long" '
+                          '(handoff, then /compact)' % (c, p, limit))
         long = ("Long-session advisor (free; it shows after each reply). Leaving this chat alone for more than "
-                "an hour? Send \"away 3h\" first (any duration, your best guess), and I decide the rest myself: "
-                "for up to about 8 hours I keep it warm with a cheap ping every 50 minutes; for longer I write a "
-                "handoff file and ask you to type /compact before you go, since I cannot compact myself, then "
-                "keep pinging. Right now it is at %dk tokens, about %d%% of the way to automatic compaction "
-                "near %dk. Above 600k, compacting before a long absence pays, and leaving with neither pings "
-                "nor a compaction is the expensive case. When you are back, just write as usual." % (c, pct, p))
+                "an hour? At this size, keeping it warm with pings is cheaper than compacting for absences up "
+                "to about %d hours. Back within that? Send \"away\" and I ping it every 50 minutes until you "
+                "return. Gone longer, say overnight? Send \"away long\": I save a handoff file and ask you to "
+                "type /compact before you go, since I cannot compact myself, then keep the smaller chat warm. "
+                "It is at %dk tokens, about %d%% of the way to automatic compaction near %dk. When you are "
+                "back, just write as usual." % (limit, c, pct, p))
     else:
-        band, short = 0, '%dk/%dk · leaving? say "away 6h" for pings; compacting not worth it yet' % (c, p)
+        band, short = 0, '%dk/%dk · leaving over 1h: "away" (pings); compacting not worth it yet' % (c, p)
         long = ("Long-session advisor (free; it shows after each reply). Leaving this chat alone for more than "
-                "an hour? Send \"away 3h\" first (any duration, your best guess), and I look after it myself: I "
-                "keep its memory cache warm with a cheap ping every 50 minutes, so your next message is not a "
-                "costly cold reload, which is worth it for absences up to about 33 hours. Right now it is at "
-                "%dk tokens, about %d%% of the way to automatic compaction near %dk. Compacting is not worth it "
-                "yet: below 600k it saves little and the summary loses detail. When you are back, just write as "
-                "usual." % (c, pct, p))
+                "an hour? Send \"away\" and I keep its memory cache warm with a cheap ping every 50 minutes "
+                "until you are back, so your next message is not a costly cold reload. That pays for absences "
+                "up to about 33 hours; gone longer than that, say for days? Send \"away long\" and I let it go "
+                "cold instead, since nothing is worth paying for that long. It is at %dk tokens, about %d%% of "
+                "the way to automatic compaction near %dk; compacting is not worth it below 600k, where it "
+                "saves little and the summary loses detail. When you are back, just write as usual." % (c, pct, p))
     return band, (long if verbose else short)
 
 
@@ -470,9 +498,13 @@ def ping_times(n, gap=50):
 
 
 def away(arg):
-    """Print the whole leave plan for an absence, so Claude only has to follow it:
-    the pings (count, times, prompt, keep-awake), or a handoff + /compact first,
-    chosen from the band and the duration by decisions 3 and 4."""
+    """Print the whole leave plan, so Claude only has to follow it. No duration is
+    needed: pings run until the owner's next message, which cancels the rest, so
+    only those sent while away are paid for. The owner adds "long" only when the
+    absence will pass the limit the footer states; by decisions 3 and 4, below 60%
+    that means letting the cache go cold, from 60% to the note a handoff and
+    /compact first, and within the note's margin plain "away" already means that.
+    A duration still works: it counts as long when it passes the band's limit."""
     path, _ = find_transcript()
     ctx, model, compacted = read_tail_usage(path) if path else (None, None, False)
     if not ctx:
@@ -480,52 +512,50 @@ def away(arg):
         return
     window, trigger, remind, final, _, _ = thresholds(ctx, model)
     band, reco = band_reco(ctx, window, trigger, final)
-    mins = parse_duration(arg)
-    print("context: %s tokens (%d%% of %s); compaction near %s"
-          % (format(ctx, ","), ctx * 100 // window, format(window, ","), format(trigger, ",")))
-    if mins is None:
-        print('duration not given ("away 3h", "90m", "overnight"); ask how long, or treat as short.')
-        mins = 0
+    limit = 8 if one_read_pings() else 4
+    a = (arg or "").strip().lower()
+    if a in ("", "away", "short"):
+        long_away = False
+    elif a in ("long", "longer", "overnight", "night", "days"):
+        long_away = True
     else:
-        print("away: about %d min" % mins)
-    n = 0 if mins <= 55 else (mins - 55 + 49) // 50
-    cap = 40   # one-read pings from the session's own scheduler, prompt suggestions off
+        mins = parse_duration(a)
+        long_away = bool(mins) and mins > (33 if band == 0 else limit) * 60
+    print("context: %s tokens (%d%% of %s); compaction near %s; %s"
+          % (format(ctx, ","), ctx * 100 // window, format(window, ","), format(trigger, ","),
+             "away long" if long_away else "away"))
+    if band == 0 and long_away:
+        print("plan: no pings and no compaction. Past about 33 hours pings cost more than one cold return, and "
+              "below 60% compacting is not worth the lost detail, so let the cache go cold (a fresh session is "
+              "cheaper if the next task is unrelated). Say so in one line.")
+        print("recommendation line: %s" % reco)
+        return
+    cloud = bool(os.environ.get("CLAUDE_CODE_REMOTE"))
     try:
         bms = int(float(os.environ.get("BASH_MAX_TIMEOUT_MS") or 0))
     except ValueError:
         bms = 0
-    limit_h = 12 if bms > 2 * 3600 * 1000 else 2
-    compact_first, expire = False, False
-    if band == 0:
-        plan = "pings only (below 60%; compacting not worth the lost detail)"
-        if n > cap:
-            plan, expire = "let the cache expire, or start fresh if the next task is unrelated (too long to ping)", True
-    elif band == 1:
-        if mins <= 8 * 60 and n <= cap:
-            plan = "pings (keeping warm beats a cold return under ~8h)"
-        else:
-            compact_first = True
-            plan = "handoff + /compact now, then pings (each ping is cheap after a compaction)"
+    hours = (12 if bms > 2 * 3600 * 1000 else 2) if cloud else 33
+    batch = min(40, (hours * 60 - 55 + 49) // 50)
+    if band == 2 or (band == 1 and long_away):
+        print("plan: handoff and /compact first, then pings at the smaller size")
+        print("  1. write or refresh the handoff file (session-notes/<topic>/handoff.md) and show it as the last chat line")
+        print('  2. end the reply with: "Ready: type /compact before you go."')
+        print("  3. in the same turn, schedule the pings below; they keep the compacted chat warm")
     else:
-        if mins > 60:
-            compact_first = True
-            plan = "handoff + /compact now (it compacts on return anyway), then pings"
-        else:
-            plan = "pings (short absence; no compaction yet)"
-    print("plan: %s" % plan)
-    if compact_first:
-        print("  1. write the handoff as the turn's last chat line AND to session-notes/<topic>/handoff.md")
-        print('  2. end the reply with: "Ready: type /compact"')
-        print("  3. schedule the pings below; they keep whatever context is left warm")
-    if n > 0 and not expire:
-        print("pings: %d, 50 min apart: %s" % (n, ", ".join(ping_times(n))))
-        print('  prompt each (one-shot tasks): "// Keep-warm ping. Reply with only ✓."')
-        print("  cloud: also start a keep-awake background command, timeout %dh; restart it at its limit if still away"
-              % limit_h)
-        if n > cap:
-            print("  note: %d pings exceed the ~%d that pay before one cold return; consider compacting first" % (n, cap))
-    elif n == 0 and not expire:
-        print("pings: none needed under ~55 min (the cache lasts an hour)")
+        print("plan: pings until the owner is back (pinging beats %s)"
+              % ("a cold return for up to about 33 hours" if band == 0
+                 else "compacting at this size for up to about %d hours" % limit))
+    print("pings: %d one-shot tasks, 50 minutes apart, covering the next %d hours: %s"
+          % (batch, hours, ", ".join(ping_times(batch))))
+    print('  each prompt: "// Keep-warm ping. Reply with only ✓."; create the whole batch in one message')
+    if cloud:
+        print("  cloud: also start the keep-awake background command with a %d-hour timeout; when it ends with the "
+              "owner still away, restart it and schedule the next %d hours, up to 40 pings (about 33 hours) in all"
+              % (hours, hours))
+    else:
+        print("  local: keep the computer awake while away")
+    print("  on the owner's next ordinary message: cancel the pings left and stop the keep-awake command")
     print("recommendation line: %s" % reco)
 
 
