@@ -289,8 +289,26 @@ def installer(skill, args):
         return {"error": "the installer did not run (%s)" % e, "differences": [], "current": False}
 
 
+def version_key(v):
+    """A VERSION such as 2026-10-20.5 as a pair that sorts by release; None when absent or unreadable."""
+    m = re.match(r"^(\d{4}-\d{2}-\d{2})\.(\d+)$", str(v or ""))
+    return (m.group(1), int(m.group(2))) if m else None
+
+
+def newer_installed(r):
+    """True when an installer's report shows the installed watcher newer than the copy it compared it with, worked
+    out here from the two versions, since an older installer does not report it."""
+    have, new = version_key(r.get("installed_version")), version_key(r.get("version"))
+    return bool(r.get("newer_installed") or (have and new and have > new))
+
+
 def sync_line(r, version_shown):
     """(line for Claude, line shown to the owner) after a local --sync."""
+    if newer_installed(r) and not r.get("updated"):
+        return ("The installed watcher, version %s, is newer than the skill synced from claude.ai, version %s, so it "
+                "was left as it is: tell the owner once that the newer skill has not reached claude.ai yet (on a "
+                "keep-warm ping's turn, leave this for their next message)." % (r.get("installed_version"),
+                                                                                 r.get("version")), None)
     if r.get("updated"):
         names = {"script": "the watcher script", "hooks": "its hooks", "BASH_MAX_TIMEOUT_MS": "BASH_MAX_TIMEOUT_MS",
                  "skill copy": "your personal copy of the skill, moved to ~/.ai-best-practices-backups"}
@@ -467,7 +485,12 @@ def start(d):
     elif is_cloud():
         repo = os.environ.get("CLAUDE_PROJECT_DIR") or d.get("cwd")
         r = installer(skill, ["--check", "--repo", repo]) if isinstance(repo, str) and repo else {}
-        if r.get("installed") and r.get("differences"):
+        if r.get("installed") and r.get("differences") and newer_installed(r):
+            lines.append("This repository's watcher, version %s, is newer than the skill synced from claude.ai, "
+                         "version %s: leave main as it is, and tell the owner once that the newer skill has not "
+                         "reached claude.ai yet (on a keep-warm ping's turn, leave this for their next message)."
+                         % (r.get("installed_version"), r.get("version")))
+        elif r.get("installed") and r.get("differences"):
             lines.append("This repository's watcher differs from the skill's version %s (%s): update main now as the "
                          "skill's session rules say (in a worktree of origin/main, python3 %s --repo <worktree>, "
                          "then commit only .claude/ and push it to main, under the owner's standing go-ahead of "
@@ -480,7 +503,9 @@ def start(d):
             lines.append("The watcher could not compare this repository's copy with the skill's (%s); run check."
                          % r["error"])
     elif installed_copy():
-        r = installer(skill, ["--sync"])
+        r = installer(skill, ["--check"])
+        if not newer_installed(r):   # an older installer's --sync would replace a newer copy
+            r = installer(skill, ["--sync"])
         save_state(state_path(d.get("session_id")), load_state(state_path(d.get("session_id"))))   # for check
         line, shown = sync_line(r, r.get("version"))
         lines.append(line)
@@ -549,6 +574,9 @@ def copies_line():
         return "installed copies: not compared (%s)" % r["error"]
     if not r.get("installed"):
         return "installed copies: no watcher installed for %s (install it only at the owner's word)" % where
+    if r.get("differences") and newer_installed(r):
+        return ("installed copies: newer than this skill's version %s (%s, at %s): leave them as they are; the newer "
+                "skill has not reached claude.ai yet" % (r.get("version"), r.get("installed_version"), where))
     if r.get("differences"):
         fix = ("update main from a worktree of origin/main with python3 %s --repo <worktree>, commit .claude/ and "
                "push it" % inst) if repo else "run python3 %s" % inst
