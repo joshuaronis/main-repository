@@ -22,12 +22,12 @@ Manual mode:
                  this session, and the one-line leave recommendation. Just after a
                  compaction the size is the summary's alone; the overhead comes on
                  top with the next request.
-  recommend      One line: size, point and the leave recommendation (alias status).
-  away [long]    Print the plan for an absence: pings until the owner is back,
-                 or with "long" (past the limit the footer states) a handoff and
-                 /compact first, or below 60% no pings at all. A duration (3h, 90m,
-                 overnight) still works. Claude follows the printout, so the
-                 per-turn thinking stays trivial.
+  recommend      The footer's paragraph, for Claude to relay in chat (alias status).
+  away [long|<time>]  Print the plan for an absence: pings until the owner is back;
+                 with "long" (past the limit the footer states), from 60% a handoff
+                 and /compact first, below 60% no pings at all. A stated time (3h,
+                 90m, overnight = 12h, 2d) is compared with that limit instead.
+                 Claude follows the printout, so the per-turn thinking stays trivial.
   footer         Stop hook: emit the recommendation as a systemMessage, shown to
                  the owner after the reply and NOT added to Claude's context, so
                  it costs no tokens on any turn.
@@ -71,6 +71,7 @@ ONE_M_MODELS = ("opus-5", "sonnet-5", "haiku-5", "fable", "mythos", "opus-4-7", 
 SUMMARY_RESERVE = 20_000     # held back for the summary; fits every compaction seen
 AUTOCOMPACT_BUFFER = 13_000  # with the reserve, the documented ~967,000 on a 1M window
 MIN_WINDOW = 100_000         # the smallest auto-compact window Claude Code takes
+FOOTER_HEAD = "Long-session advisor (free: you see it after each reply, and it never enters my context). "
 
 
 def config_dir():
@@ -252,6 +253,10 @@ def watch(d):
         return
     window, trigger, remind, final, rearm, _ = thresholds(ctx, model)
     st = load_state(p)
+    if str(d.get("prompt") or "").lstrip().startswith("// Keep-warm ping"):
+        st["ctx"] = ctx   # a ping's turn replies ✓ only, so a note given now would be used up unread
+        save_state(p, st)
+        return
     if ctx < rearm:
         st["stage"] = 0
     note = None
@@ -264,8 +269,9 @@ def watch(d):
                 "checkout, by the owner's ai-best-practices skill, Recommendations and keywords, read again if "
                 "it is not in your context), and keep it current with one-line edits until the compaction. If "
                 "the owner is following the session, also end this turn with the line \"About {:,} tokens "
-                "before automatic compaction. If this is a good break, send `wrap` (I save a handoff file so "
-                "nothing is lost), then type /compact.\"; working alone, carry on."
+                "before automatic compaction. The handoff file is saved; if this is a good break, type /compact "
+                "(Claude Code's command that shrinks the chat to a summary; I can't run it myself).\"; working "
+                "alone, carry on."
                 ).format(ctx, trigger, left, left // 1000 * 1000)
     elif remind and ctx >= remind and st.get("stage", 0) < 1:
         st["stage"] = 1
@@ -277,6 +283,28 @@ def watch(d):
     save_state(p, st)
     if note:
         emit(d.get("hook_event_name") or "PostToolBatch", note)
+
+
+def last_compact_trigger(path, max_bytes=4 << 20):
+    """The newest compaction's trigger, "manual" or "auto", from the transcript's tail; None if unknown."""
+    try:
+        size = os.path.getsize(path)
+        with open(path, "rb") as f:
+            f.seek(max(0, size - max_bytes))
+            tail = f.read()
+    except (OSError, TypeError, ValueError):
+        return None
+    for raw in reversed(tail.split(b"\n")):
+        if b"compact_boundary" not in raw:
+            continue
+        try:
+            d = json.loads(raw)
+        except ValueError:
+            continue
+        if isinstance(d, dict) and d.get("subtype") == "compact_boundary":
+            meta = d.get("compactMetadata")
+            return meta.get("trigger") if isinstance(meta, dict) else None
+    return None
 
 
 def find_notes(dirs):
@@ -302,8 +330,9 @@ def scratchpads(session_id):
 
 
 RELOAD = ("A skill invoked before a compaction may not come back with it (in a cloud session none did after two "
-          "compactions, 2026-10-19 and 20): before acting on one of the owner's keywords (away, away long, wrap) "
-          "or on this watcher's next note, read the owner's ai-best-practices skill again in full.")
+          "compactions, 2026-10-19 and 20): before acting on one of the owner's keywords (away, away long, wrap), "
+          "on the owner's first ordinary message while keep-warm pings are scheduled (it means back: cancel "
+          "them), or on this watcher's next note, read the owner's ai-best-practices skill again in full.")
 
 
 def after_compact(d):
@@ -311,7 +340,7 @@ def after_compact(d):
         return
     dirs = []
     for x in [d.get("cwd"), os.environ.get("CLAUDE_PROJECT_DIR"), d.get("scratchpad_dir")] \
-            + scratchpads(d.get("session_id")):
+            + scratchpads(d.get("session_id")) + [config_dir()]:
         if isinstance(x, str) and x and x not in dirs:
             dirs.append(x)
     notes = find_notes(dirs)
@@ -342,9 +371,16 @@ def after_compact(d):
         if last.lstrip("-* ").lower().startswith("resumed"):
             advice = ("It ends with a Resumed line, so it was already used after an earlier compaction: "
                       "treat it as history unless the summary says otherwise.")
+        elif last_compact_trigger(d.get("transcript_path")) == "manual":
+            advice = ("Read it first. The owner compacted by hand, at a break, so act only on their next message, "
+                      "not on the handoff's next step: if it is away, just set up the pings; on a keep-warm ping "
+                      "turn reply with only ✓. Once you act on it, add a line \"Resumed <UTC time>\" just before "
+                      "its <!-- end --> marker.")
         else:
             advice = ("Read it first and continue from it, even if the compaction came well after it was "
-                      "written; after acting on it, add a line \"Resumed <UTC time>\" at its end.")
+                      "written; but if this turn is a keep-warm ping, reply with only ✓ and leave it for the "
+                      "owner's next message. After acting on it, add a line \"Resumed <UTC time>\" just before "
+                      "its <!-- end --> marker.")
         emit("SessionStart", "Context check (the owner's long-session watcher): the conversation was just compacted. "
              "The handoff, %s, follows. %s %s Working notes on disk, newest first: %s.\n\n%s"
              % (show(lead), advice, RELOAD, listing, text[:6000]))
@@ -390,28 +426,50 @@ def check():
     print("recommendation: %s" % reco)
 
 
+def is_cloud():
+    """True in a Claude Code cloud session, which sets CLAUDE_CODE_REMOTE."""
+    return os.environ.get("CLAUDE_CODE_REMOTE", "").strip().lower() in ("1", "true", "yes")
+
+
+def suggestions_off():
+    """Prompt suggestions off: the variable, which overrides the user settings'
+    promptSuggestionEnabled (decision 7)."""
+    sugg = os.environ.get("CLAUDE_CODE_ENABLE_PROMPT_SUGGESTION", "").strip().lower()
+    if sugg:
+        return sugg in ("false", "0", "no", "off")
+    try:
+        with open(os.path.join(config_dir(), "settings.json"), encoding="utf-8") as f:
+            s = json.load(f)
+        return isinstance(s, dict) and s.get("promptSuggestionEnabled") is False
+    except Exception:
+        return False
+
+
+def long_background():
+    """A cloud session's background command may run past 2 hours, so one keep-awake
+    command covers 12 hours; a local session has no such limit."""
+    if not is_cloud():
+        return True
+    try:
+        return int(float(os.environ.get("BASH_MAX_TIMEOUT_MS") or 0)) > 2 * 3600 * 1000
+    except ValueError:
+        return False
+
+
 def one_read_pings():
     """True when a keep-warm ping costs one read of the context, so decision 4's
-    limit is about 8 hours rather than 4: prompt suggestions off (the variable,
-    else the user settings' promptSuggestionEnabled), and in a cloud session a
-    background command allowed past 2 hours, so the keep-awake command needs no
-    restart every 2 hours."""
-    sugg = os.environ.get("CLAUDE_CODE_ENABLE_PROMPT_SUGGESTION", "").strip().lower()
-    off = sugg in ("false", "0", "no", "off")
-    if not sugg:
-        try:
-            with open(os.path.join(config_dir(), "settings.json"), encoding="utf-8") as f:
-                s = json.load(f)
-            off = isinstance(s, dict) and s.get("promptSuggestionEnabled") is False
-        except Exception:
-            pass
-    if not os.environ.get("CLAUDE_CODE_REMOTE"):
-        return off
-    try:
-        long_bg = int(float(os.environ.get("BASH_MAX_TIMEOUT_MS") or 0)) > 2 * 3600 * 1000
-    except ValueError:
-        long_bg = False
-    return off and long_bg
+    limit is about 8 hours rather than 4: prompt suggestions off and, in a cloud
+    session, no keep-awake restart every 2 hours."""
+    return suggestions_off() and long_background()
+
+
+def pings_that_pay():
+    """How many pings, 50 minutes apart, cost as much as one cold return (#807.2):
+    about 40 with one-read pings, 22 where 2-hour keep-awake restarts add a turn,
+    20 with prompt suggestions on, 12 with both."""
+    if suggestions_off():
+        return 40 if long_background() else 22
+    return 20 if long_background() else 12
 
 
 def band_reco(ctx, window, trigger, final, verbose=False):
@@ -431,16 +489,15 @@ def band_reco(ctx, window, trigger, final, verbose=False):
               /compact before any absence."""
     c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
     limit = 8 if one_read_pings() else 4
-    head = "Long-session advisor (free: you see it after each reply, and it never enters my context). "
-    leaving = ('Leaving this chat for more than an hour, idle or still working? Send "away" (or just say you '
-               'are leaving): ')
+    leaving = ('Leaving this chat for more than an hour? Send "away", or just say you are leaving (you can add a '
+               'task for me in the same message): ')
     compact = "/compact (Claude Code's command that shrinks the chat to a summary; I cannot run it myself)"
     back = "When you are back, just write as usual: your first message cancels the pings left."
     if ctx >= final:
         band = 2
         short = ('%dk/%dk · compaction near · at a break, "wrap" (I save a handoff file, then you type /compact) '
                  '· leaving over 1h, "away" (the same, then pings until you are back)' % (c, p))
-        long = (head + "Automatic compaction is close: the chat is at %dk tokens of %dk, about %d%%, and will "
+        long = ("Automatic compaction is close: the chat is at %dk tokens of %dk, about %d%%, and will "
                 "soon be summarised in place. At a clean break? Send \"wrap\": I save a handoff file with "
                 "everything needed to carry on (the task, what is done, what is next), then you type " + compact
                 + ", so it happens at this break rather than mid-task. " + leaving + "the same handoff file and "
@@ -452,8 +509,8 @@ def band_reco(ctx, window, trigger, final, verbose=False):
         short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; cheaper than compacting for up to '
                  '~%dh) · longer, "away long" (a handoff file, you type /compact, then pings) · at a break, '
                  '"wrap" (a handoff file, then you type /compact)' % (c, p, limit))
-        long = (head + leaving + "I keep it warm with a ping every 50 minutes until you are back, and make the "
-                "calls on pings and compaction myself meanwhile; at this size that is cheaper than compacting "
+        long = (leaving + "I keep it warm with a ping every 50 minutes until you are back, and if compaction "
+                "comes near meanwhile I save the handoff file first; at this size that is cheaper than compacting "
                 "for absences up to about %d hours. Gone longer, say overnight? Send \"away long\": I save a "
                 "handoff file (the task, what is done, what is next) and ask you to type " + compact + " before "
                 "you go, then keep the smaller chat warm. Staying, and at a clean break? Send \"wrap\" to compact "
@@ -462,15 +519,15 @@ def band_reco(ctx, window, trigger, final, verbose=False):
     else:
         band = 0
         floor = window * 60 // 100 // 1000
-        short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; worth it for up to ~33h) · longer, '
-                 '"away long" (I let it go cold) · compacting not worth it below %dk' % (c, p, floor))
-        long = (head + leaving + "I keep its memory cache warm with a cheap ping every 50 minutes until you are "
-                "back, so your next message is not a costly cold reload, and make the calls on pings and "
-                "compaction myself meanwhile. That pays for absences up to about 33 hours; gone longer, say for "
-                "days? Send \"away long\": I let it go cold instead, since nothing is worth paying for that long. "
-                + back + " The chat is at %dk tokens, about %d%% of the way to automatic compaction near %dk; "
-                "compacting is not worth it below %dk, where it saves little and the summary loses detail."
-                ) % (c, pct, p, floor)
+        hours = round(pings_that_pay() * 50 / 60)
+        short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; worth it for up to ~%dh) · longer, '
+                 '"away long" (I let it go cold) · compacting not worth it below %dk' % (c, p, hours, floor))
+        long = (leaving + "I keep its memory cache warm with a cheap ping every 50 minutes until you are back, "
+                "so your next message is not a costly cold reload. That pays for absences up to about %d hours; "
+                "gone longer, say for days? Send \"away long\": I let it go cold instead, since nothing is worth "
+                "paying for that long. " + back + " The chat is at %dk tokens, about %d%% of the way to "
+                "automatic compaction near %dk; compacting is not worth it below %dk, where it saves little and "
+                "the summary loses detail.") % (hours, c, pct, p, floor)
     return band, (long if verbose else short)
 
 
@@ -485,12 +542,13 @@ def footer(d):
         return
     window, trigger, remind, final, _, _ = thresholds(ctx, model)
     _, reco = band_reco(ctx, window, trigger, final, verbose=True)
-    print(json.dumps({"systemMessage": reco}))
+    print(json.dumps({"systemMessage": FOOTER_HEAD + reco}))
 
 
 def recommend():
-    """One line for the owner's `status`/`recommend`, when the footer is not
-    installed: the band's prepared recommendation, from the transcript tail."""
+    """The footer's paragraph for the owner's `status`, for Claude to relay in chat
+    where the footer is not installed; without the footer's opening line, which
+    says it costs nothing, true only of the notice."""
     path, _ = find_transcript()
     ctx, model, compacted = read_tail_usage(path) if path else (None, None, False)
     if not ctx:
@@ -502,29 +560,34 @@ def recommend():
 
 
 def parse_duration(s):
-    """Minutes from '3h', '90m', '2h30m', 'overnight'/'night' (=12h), or a bare
-    number of hours. None when nothing usable is given (a bare 'away')."""
+    """Minutes from '3h', '90m', '2h30m', '2d' or '2 days', '1w', 'overnight'/'night'
+    (=12h), or a bare number of hours. None when nothing usable is given (a bare 'away')."""
     s = (s or "").strip().lower()
     if not s or s == "away":
         return None
-    if s in ("overnight", "night"):
-        return 12 * 60
+    per = {"m": 1, "h": 60, "d": 24 * 60, "w": 7 * 24 * 60, "": 60}
     total, found = 0, False
-    for n, unit in re.findall(r"(\d+)\s*([hm]?)", s):
-        n = int(n)
-        total += n if unit == "m" else n * 60
+    for n, unit in re.findall(r"(\d+)\s*([hmdw]?)", s):
+        total += int(n) * per[unit]
         found = True
-    return total if found and total > 0 else None
+    if found and total > 0:
+        return total
+    for word, mins in (("weekend", 60 * 60), ("week", 7 * 24 * 60), ("tomorrow", 16 * 60),
+                       ("overnight", 12 * 60), ("night", 12 * 60), ("day", 24 * 60)):
+        if word in s:
+            return mins
+    return None
 
 
 def ping_times(n, gap=50):
-    """n UTC clock times, gap minutes apart from now, none on :00 or :30."""
+    """n times, gap minutes apart from now, none on :00 or :30: each a UTC date and time,
+    with the machine's local time beside it for a scheduler that takes local time."""
     now = datetime.datetime.now(datetime.timezone.utc).replace(second=0, microsecond=0)
     out, t = [], now
     for _ in range(max(0, n)):
         t += datetime.timedelta(minutes=gap)
         show = t + datetime.timedelta(minutes=2) if t.minute in (0, 30) else t
-        out.append(show.strftime("%H:%MZ"))
+        out.append("%s (local %s)" % (show.strftime("%Y-%m-%d %H:%MZ"), show.astimezone().strftime("%a %Y-%m-%d %H:%M")))
     return out
 
 
@@ -544,50 +607,63 @@ def away(arg):
     window, trigger, remind, final, _, _ = thresholds(ctx, model)
     band, reco = band_reco(ctx, window, trigger, final)
     limit = 8 if one_read_pings() else 4
+    pay = pings_that_pay()
+    pay_hours = round(pay * 50 / 60)
     a = (arg or "").strip().lower()
     if a in ("", "away", "short"):
         long_away = False
-    elif a in ("long", "longer", "overnight", "night", "days"):
+    elif a in ("long", "longer", "days", "for days", "a long time"):
         long_away = True
     else:
         mins = parse_duration(a)
-        long_away = bool(mins) and mins > (33 if band == 0 else limit) * 60
+        if not mins:
+            print('not understood: "%s". Run "away", "away long", or "away" with a time such as 10h, overnight, '
+                  'tomorrow, weekend or 3d.' % a)
+            return
+        long_away = mins > (pay_hours if band == 0 else limit) * 60
     print("context: %s tokens (%d%% of %s); compaction near %s; %s"
           % (format(ctx, ","), ctx * 100 // window, format(window, ","), format(trigger, ","),
              "away long" if long_away else "away"))
     if band == 0 and long_away:
-        print("plan: no pings and no compaction. Past about 33 hours pings cost more than one cold return, and "
-              "below 60% compacting is not worth the lost detail, so let the cache go cold (a fresh session is "
-              "cheaper if the next task is unrelated). Say so in one line.")
-        print("recommendation line: %s" % reco)
+        print("plan: no pings and no compaction. Past about %d hours pings cost more than one cold return, and "
+              "below 60%% compacting is not worth the lost detail, so let the cache go cold (a fresh session is "
+              "cheaper if the next task is unrelated). Say so in one line." % pay_hours)
+        if not is_cloud() and not os.environ.get("CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS"):
+            print("  terminal: a session of 200,000 tokens or more compacts itself after about 54 idle minutes unless "
+                  "CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS is set (the installer sets 600000, decision 3); say so if it applies")
         return
-    cloud = bool(os.environ.get("CLAUDE_CODE_REMOTE"))
-    try:
-        bms = int(float(os.environ.get("BASH_MAX_TIMEOUT_MS") or 0))
-    except ValueError:
-        bms = 0
-    hours = (12 if bms > 2 * 3600 * 1000 else 2) if cloud else 33
-    batch = min(40, (hours * 60 - 55 + 49) // 50)
+    cloud = is_cloud()
+    hours = (12 if long_background() else 2) if cloud else 33
+    batch = min(pay, (hours * 60 - 55 + 49) // 50)
+    print("if work is under way: finish it first, then run away again for fresh times, leaving out any step the "
+          "owner would have to take")
     if band == 2 or (band == 1 and long_away):
         print("plan: handoff and /compact first, then pings at the smaller size")
-        print("  1. write or refresh the handoff file (session-notes/<topic>/handoff.md) and show it as the last chat line")
-        print('  2. end the reply with: "Ready: type /compact before you go."')
+        print("  1. write or refresh the handoff file (session-notes/<topic>/handoff.md) and say in one line where it "
+              "is and what it covers")
+        print('  2. end the reply with: "Ready: type /compact (Claude Code\'s command that shrinks the chat to a '
+              'summary; I can\'t run it myself) before you go."')
         print("  3. in the same turn, schedule the pings below; they keep the compacted chat warm")
     else:
         print("plan: pings until the owner is back (pinging beats %s)"
-              % ("a cold return for up to about 33 hours" if band == 0
+              % ("a cold return for up to about %d hours" % pay_hours if band == 0
                  else "compacting at this size for up to about %d hours" % limit))
-    print("pings: %d one-shot tasks, 50 minutes apart, covering the next %d hours: %s"
-          % (batch, hours, ", ".join(ping_times(batch))))
+    print("pings: %d one-shot tasks, 50 minutes apart, covering about %d hours: %s"
+          % (batch, round(batch * 50 / 60), ", ".join(ping_times(batch))))
     print('  each prompt: "// Keep-warm ping. Reply with only ✓."; create the whole batch in one message')
     if cloud:
-        print("  cloud: also start the keep-awake background command with a %d-hour timeout; when it ends with the "
-              "owner still away, restart it and schedule the next %d hours, up to 40 pings (about 33 hours) in all"
-              % (hours, hours))
+        print("  cloud: also start, with run_in_background and a timeout of %d ms, the keep-awake command "
+              "`while :; do date -u +%%FT%%TZ >> /tmp/keep-awake.log; sleep 60; done`; when it ends with the "
+              "owner still away, start it again and schedule the next batch, up to %d pings (about %d hours) "
+              "in all" % (hours * 3600 * 1000, pay, pay_hours))
     else:
-        print("  local: keep the computer awake while away")
-    print("  on the owner's next ordinary message: cancel the pings left and stop the keep-awake command")
-    print("recommendation line: %s" % reco)
+        print("  local: say in the reply that the pings need the computer awake and this session left open (desktop "
+              "app: Settings > This computer > System > Keep computer awake)")
+        if not os.environ.get("CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS"):
+            print("  terminal: a session of 200,000 tokens or more compacts itself after about 54 idle minutes "
+                  "unless CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS is set (the installer sets 600000); the pings prevent it")
+    print("  on the owner's next ordinary message: cancel the pings left (list the scheduled tasks and delete "
+          "each), stop the keep-awake command, read /tmp/keep-awake.log if there is one, and report in one line")
 
 
 def main():
@@ -602,7 +678,7 @@ def main():
         recommend()
         return
     if mode == "away":
-        away(sys.argv[2] if len(sys.argv) > 2 else "")
+        away(" ".join(sys.argv[2:]))
         return
     try:
         d = json.load(sys.stdin)
