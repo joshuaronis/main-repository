@@ -2,6 +2,12 @@
 """Context watcher for long Claude Code sessions.
 
 Hook modes read the hook's JSON on stdin and always exit 0, so they never block:
+  start          SessionStart, any source but compact. Asks Claude to load the
+                 owner's ai-best-practices skill, which applies to every session.
+                 Locally it first brings the installed watcher in step with the
+                 skill's copy synced from claude.ai (install_watcher.py --sync)
+                 and says so when it changed anything; in a cloud session it
+                 tells Claude when the repository's copy differs from that one.
   watch          PostToolBatch and UserPromptSubmit. Once the context comes
                  within 60,000 tokens of compaction, adds one short note to
                  Claude's context asking for the handoff file; silent otherwise,
@@ -12,15 +18,16 @@ Hook modes read the hook's JSON on stdin and always exit 0, so they never block:
                  found by its session id) and prints the newest handoff.md whole,
                  flagged as already used when it ends with a Resumed line; with no
                  handoff, the start of the newest progress file, else of the newest
-                 note. It also asks Claude to read the owner's skill again before
-                 acting on a keyword, since an invoked skill may not come back.
+                 note. It also asks Claude to load the owner's skill again with the
+                 Skill tool, since an invoked skill may not come back.
                  Output stays under the 10,000 characters a hook may add.
 Manual mode:
   check          Run by Claude or the owner, from the working folder. Prints the
                  transcript's path, the context size, where automatic compaction
                  is expected, where the note comes, whether the hooks have run in
                  this session and which settings files (the user's, this folder's)
-                 hold them, and the one-line leave recommendation. Just after a
+                 hold them, whether the installed copies match this skill's
+                 version, and the one-line leave recommendation. Just after a
                  compaction the size is the summary's alone; the overhead comes on
                  top with the next request.
   recommend      The footer's paragraph, for Claude to relay in chat (alias status).
@@ -64,6 +71,7 @@ import glob
 import json
 import os
 import re
+import subprocess
 import sys
 import time
 
@@ -73,6 +81,8 @@ SUMMARY_RESERVE = 20_000     # held back for the summary; fits every compaction 
 AUTOCOMPACT_BUFFER = 13_000  # with the reserve, the documented ~967,000 on a 1M window
 MIN_WINDOW = 100_000         # the smallest auto-compact window Claude Code takes
 FOOTER_HEAD = "Long-session advisor (free: you see it after each reply, and it never enters my context). "
+VERSION = "2026-10-20.3"     # this release; install_watcher.py compares the files themselves
+SKILL_NAME = "ai-best-practices"
 
 
 def config_dir():
@@ -237,8 +247,56 @@ def save_state(p, st):
     os.replace(tmp, p)
 
 
-def emit(event, text):
-    print(json.dumps({"hookSpecificOutput": {"hookEventName": event, "additionalContext": text}}))
+def emit(event, text, shown=None):
+    out = {"hookSpecificOutput": {"hookEventName": event, "additionalContext": text}}
+    if shown:
+        out["systemMessage"] = shown   # shown to the owner, never added to Claude's context
+    print(json.dumps(out))
+
+
+def skill_folder():
+    """The skill's folder: the one this script sits in, when it is the skill's own copy, else the newest copy
+    synced from claude.ai into the configuration folder's skills/synced/, else None."""
+    own = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    if os.path.isfile(os.path.join(own, "SKILL.md")) and os.path.isfile(os.path.join(own, "scripts", "install_watcher.py")):
+        return own
+    hits = [os.path.dirname(p) for p in glob.glob(os.path.join(glob.escape(config_dir()), "skills", "synced", "*",
+                                                               SKILL_NAME, "SKILL.md"))]
+    hits = [h for h in hits if os.path.isfile(os.path.join(h, "scripts", "install_watcher.py"))]
+    return max(hits, key=os.path.getmtime) if hits else None
+
+
+def installer(skill, args):
+    """install_watcher.py from the skill's folder, with --json: its report, or one carrying an error."""
+    try:
+        r = subprocess.run([sys.executable, os.path.join(skill, "scripts", "install_watcher.py")] + args + ["--json"],
+                           capture_output=True, text=True, timeout=25)
+        return json.loads(r.stdout.strip().splitlines()[-1])
+    except Exception as e:   # an installer that cannot run is reported, never raised
+        return {"error": "the installer did not run (%s)" % e, "differences": [], "current": False}
+
+
+def sync_line(r, version_shown):
+    """(line for Claude, line shown to the owner) after a local --sync."""
+    if r.get("updated"):
+        names = {"script": "the watcher script", "hooks": "its hooks", "BASH_MAX_TIMEOUT_MS": "BASH_MAX_TIMEOUT_MS",
+                 "skill copy": "your personal copy of the skill, moved to ~/.ai-best-practices-backups"}
+        what = ", ".join(names.get(x, x) for x in r.get("differences") or []) or "its files"
+        return ("The watcher was just updated to the skill's version %s (%s)." % (r.get("version"), what),
+                "ai-best-practices: the watcher updated itself to the version on claude.ai, %s (changed: %s)." % (r.get("version"), what))
+    if r.get("error"):
+        return ("The watcher could not update itself (%s); its old copies keep running. Tell the owner in one line "
+                "and offer to look into it with the skill's repair guide; do not run the installer again unasked." % r["error"],
+                "ai-best-practices: the watcher could not update itself; Claude can say why.")
+    return ("The watcher's installed copies match the skill (version %s)." % version_shown, None)
+
+
+def installed_copy():
+    """True when this script is the copy the user settings' hooks run, <config>/hooks/context_watch.py, the one a
+    local session's start hook keeps in step; never the skill's own copy, nor a repository's, whose start hook in a
+    local session must not install anything into the user settings."""
+    return os.path.realpath(os.path.abspath(__file__)) == os.path.realpath(os.path.join(config_dir(), "hooks",
+                                                                                     "context_watch.py"))
 
 
 def watch(d):
@@ -331,9 +389,12 @@ def scratchpads(session_id):
 
 
 RELOAD = ("A skill invoked before a compaction may not come back with it (in a cloud session none did after two "
-          "compactions, 2026-10-19 and 20): before acting on one of the owner's keywords (away, away long, wrap), "
-          "on the owner's first ordinary message while keep-warm pings are scheduled (it means back: cancel "
-          "them), or on this watcher's next note, read the owner's ai-best-practices skill again in full.")
+          "compactions, 2026-10-19 and 20), and the owner's ai-best-practices skill applies to every session: load "
+          "it again with the Skill tool before acting on the handoff or on the owner's next message (on a "
+          "keep-warm ping's turn, leave it for that message).")
+LOAD = ("The owner's ai-best-practices skill applies to every Claude Code session (the owner's standing rule, "
+        "2026-10-20): load it now with the Skill tool, before your first reply, unless its text is already in your "
+        "context; on a keep-warm ping's turn, reply with only ✓ and leave this note for the owner's next message.")
 
 
 def after_compact(d):
@@ -391,6 +452,32 @@ def after_compact(d):
          % (RELOAD, listing, show(lead), text[:4000]))
 
 
+def start(d):
+    """SessionStart, any source but compact (after-compact covers that): ask for the skill, and keep the watcher's
+    installed copies in step with the skill's copy synced from claude.ai."""
+    if d.get("agent_id") or d.get("source") == "compact":
+        return
+    lines, shown = [LOAD], None
+    skill = skill_folder()
+    if skill and is_cloud():
+        repo = os.environ.get("CLAUDE_PROJECT_DIR") or d.get("cwd")
+        r = installer(skill, ["--check", "--repo", repo]) if isinstance(repo, str) and repo else {}
+        if r.get("installed") and r.get("differences"):
+            lines.append("This repository's watcher differs from the skill's version %s (%s): update main now as the "
+                         "skill's session rules say (in a worktree of origin/main, python3 %s --repo <worktree>, "
+                         "then commit only .claude/ and push it to main, under the owner's standing go-ahead of "
+                         "2026-10-20), and tell the owner in one line." % (r.get("version"), ", ".join(r["differences"]),
+                                                                         os.path.join(skill, "scripts", "install_watcher.py")))
+        elif r.get("current"):
+            lines.append("This repository's watcher matches the skill (version %s)." % r.get("version"))
+    elif skill and installed_copy():
+        r = installer(skill, ["--sync"])
+        save_state(state_path(d.get("session_id")), load_state(state_path(d.get("session_id"))))   # for check
+        line, shown = sync_line(r, r.get("version"))
+        lines.append(line)
+    emit("SessionStart", " ".join(lines), shown)
+
+
 def find_transcript():
     projects = os.path.join(config_dir(), "projects")
     sid = os.environ.get("CLAUDE_CODE_SESSION_ID")
@@ -437,6 +524,31 @@ def hooks_line(sid):
     return "none has run in this session, and none is installed in the user settings or this folder's .claude/"
 
 
+def copies_line():
+    """Whether the installed watcher matches the skill's copy: the repository's in a cloud session, else the
+    user settings' and the hooks folder's; with the command that brings it in step."""
+    skill = skill_folder()
+    if not skill:
+        return ("installed copies: not compared, since this script is not in the skill's folder and no copy of the "
+                "skill synced from claude.ai is under %s" % os.path.join(config_dir(), "skills", "synced"))
+    inst = os.path.join(skill, "scripts", "install_watcher.py")
+    repo = (os.environ.get("CLAUDE_PROJECT_DIR") or os.getcwd()) if is_cloud() else None
+    r = installer(skill, ["--check"] + (["--repo", repo] if repo else []))
+    where = repo or r.get("settings") or "the user settings"
+    if r.get("error"):
+        return "installed copies: not compared (%s)" % r["error"]
+    if not r.get("installed"):
+        return "installed copies: no watcher installed for %s (install it only at the owner's word)" % where
+    if r.get("differences"):
+        fix = ("update main from a worktree of origin/main with python3 %s --repo <worktree>, commit .claude/ and "
+               "push it" % inst) if repo else "run python3 %s" % inst
+        return ("installed copies: differ from this skill's version %s in %s, at %s: %s%s"
+                % (r.get("version"), ", ".join(r["differences"]), where, fix,
+                   "".join("; note: " + n for n in r.get("notes") or [])))
+    return ("installed copies: the same as this skill's version %s, at %s%s"
+            % (r.get("version"), where, "".join("; note: " + n for n in r.get("notes") or [])))
+
+
 def check():
     path, sid = find_transcript()
     if not path:
@@ -447,6 +559,7 @@ def check():
     if not ctx:
         print("No context size found yet%s." % (" since the compaction" if compacted else ""))
         print("watcher hooks: %s" % hooks_line(sid))
+        print(copies_line())
         return
     window, trigger, remind, final, _, src = thresholds(ctx, model)
     print("context: %s tokens (%d%% of a %s window)%s" % (format(ctx, ","), ctx * 100 // window,
@@ -454,6 +567,7 @@ def check():
     print("automatic compaction expected near: %s (%s)" % (format(trigger, ","), src))
     print("note at: %s%s" % (format(final, ","), "; earlier note at: %s" % format(remind, ",") if remind else ""))
     print("watcher hooks: %s" % hooks_line(sid))
+    print(copies_line())
     _, reco = band_reco(ctx, window, trigger, final)
     print("recommendation: %s" % reco)
 
@@ -718,6 +832,8 @@ def main():
             return
         if mode == "watch":
             watch(d)
+        elif mode == "start":
+            start(d)
         elif mode == "after-compact":
             after_compact(d)
         elif mode == "footer":

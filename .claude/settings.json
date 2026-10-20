@@ -6,14 +6,34 @@
     "PostToolBatch": [
       {
         "hooks": [
-          {"type": "command", "command": "sh", "args": ["-c", "python3 \"$0\" \"$1\"; exit 0", "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py", "watch"], "timeout": 10}
+          {
+            "type": "command",
+            "command": "sh",
+            "args": [
+              "-c",
+              "python3 \"$0\" \"$1\"; exit 0",
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py",
+              "watch"
+            ],
+            "timeout": 10
+          }
         ]
       }
     ],
     "UserPromptSubmit": [
       {
         "hooks": [
-          {"type": "command", "command": "sh", "args": ["-c", "python3 \"$0\" \"$1\"; exit 0", "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py", "watch"], "timeout": 10}
+          {
+            "type": "command",
+            "command": "sh",
+            "args": [
+              "-c",
+              "python3 \"$0\" \"$1\"; exit 0",
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py",
+              "watch"
+            ],
+            "timeout": 10
+          }
         ]
       }
     ],
@@ -21,14 +41,49 @@
       {
         "matcher": "compact",
         "hooks": [
-          {"type": "command", "command": "sh", "args": ["-c", "python3 \"$0\" \"$1\"; exit 0", "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py", "after-compact"], "timeout": 10}
+          {
+            "type": "command",
+            "command": "sh",
+            "args": [
+              "-c",
+              "python3 \"$0\" \"$1\"; exit 0",
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py",
+              "after-compact"
+            ],
+            "timeout": 10
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh",
+            "args": [
+              "-c",
+              "python3 \"$0\" \"$1\"; exit 0",
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py",
+              "start"
+            ],
+            "timeout": 30
+          }
         ]
       }
     ],
     "Stop": [
       {
         "hooks": [
-          {"type": "command", "command": "sh", "args": ["-c", "python3 \"$0\" \"$1\"; exit 0", "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py", "footer"], "timeout": 10}
+          {
+            "type": "command",
+            "command": "sh",
+            "args": [
+              "-c",
+              "python3 \"$0\" \"$1\"; exit 0",
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/context_watch.py",
+              "footer"
+            ],
+            "timeout": 10
+          }
         ]
       }
     ]
