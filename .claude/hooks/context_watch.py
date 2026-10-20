@@ -33,7 +33,8 @@ Manual mode:
                  version, and the one-line leave recommendation. Just after a
                  compaction the size is the summary's alone; the overhead comes on
                  top with the next request.
-  recommend      The footer's options, for Claude to relay in chat (alias status).
+  recommend      Every option at this size, formatted and explained, for Claude to
+                 relay in chat (alias status); the notice points to it.
   away [long|<time>]  Print the plan for an absence: pings until the owner is back;
                  with "long" (past the limit the footer states), from 60% a handoff
                  and /compact first, below 60% no pings at all. A stated time (3h,
@@ -41,8 +42,8 @@ Manual mode:
                  Claude follows the printout, so the per-turn thinking stays trivial.
   footer         Stop hook: emit the recommendation as a systemMessage, shown to
                  the owner after the reply and NOT added to Claude's context, so
-                 it costs no tokens on any turn: the size, then the owner's
-                 options at that size as bullets, each with why.
+                 it costs no tokens on any turn: one line, the tokens used and, for
+                 each situation, the keyword to send, with `status` for the rest.
 
 Context = input + cache_creation + cache_read tokens of the newest main-chain
 assistant message in the transcript, skipping synthetic and zero-usage ones.
@@ -84,9 +85,7 @@ ONE_M_MODELS = ("opus-5", "sonnet-5", "haiku-5", "fable", "mythos", "opus-4-7", 
 SUMMARY_RESERVE = 20_000     # held back for the summary; fits every compaction seen
 AUTOCOMPACT_BUFFER = 13_000  # with the reserve, the documented ~967,000 on a 1M window
 MIN_WINDOW = 100_000         # the smallest auto-compact window Claude Code takes
-NOTICE_BREAK = " "    # the options stay on one line, parted by bullets (see band_reco)
-FOOTER_HEAD = "Long-session advisor (free: you see it after each reply, and it never enters my context). "
-VERSION = "2026-10-20.4"     # this release; install_watcher.py compares the files themselves
+VERSION = "2026-10-20.5"     # this release; install_watcher.py compares the files themselves
 SKILL_NAME = "ai-best-practices"
 
 
@@ -646,15 +645,13 @@ def pings_that_pay():
 
 
 def band_reco(ctx, window, trigger, final, verbose=False):
-    """Return (band, leave recommendation) for the current size, as prepared text
-    so the decision is a lookup, not a computation. verbose gives the footer's
-    version, which the owner reads and Claude's context never holds: the size,
-    then the owner's options at that size as bullets, each with why (the owner's
-    request, 2026-10-20); the short form is for Claude's own in-context use. Both
-    name only the keywords the owner may need at that size, each with what it
-    does in the same breath (owner's rule, 2026-10-20). The owner sends "away" (or
-    says they are leaving), "away long" past the limit the text states, or either
-    with a task, which Claude does first, deciding at the size then reached:
+    """Return (band, recommendation) for the current size, as prepared text so the decision is a lookup, not a
+    computation. The short form is one line for Claude's own in-context use (`check`'s last line). verbose gives the
+    full list for `status`, in markdown, which Claude relays in chat: the size and what the band means, then every
+    option at that size as a bullet, explained in indented ones; the notice after each reply is notice_line(), one
+    line that points to it (the owner's request, 2026-10-20). The owner sends "away" (or says they are leaving),
+    "away long" past the limit the text states, or either with a task, which Claude does first, deciding at the
+    size then reached:
       band 0  below 60% of the window: pings until back, which pay for ~33 h;
               "away long" past that: let the cache go cold (no compaction, decision 3)
       band 1  60% up to the note point: pings beat compacting for ~8 h (4 with
@@ -664,82 +661,95 @@ def band_reco(ctx, window, trigger, final, verbose=False):
               /compact before any absence."""
     c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
     limit = 8 if one_read_pings() else 4
-    compact = "/compact (Claude Code's command that shrinks the chat to a summary; I cannot run it myself)"
-    where = (" This cloud session needs nothing from your computer meanwhile." if is_cloud() else
-             " Keep the computer awake and this session open meanwhile: the pings run there.")
-    hour = ("- Gone under an hour: nothing to send, since within your plan's usage the chat's memory cache stays "
-            "warm that long.")
-    timed = ('- "away" with a time, such as "away 10h" or "away overnight", when unsure which fits: I compare it '
-             'with the limit above and choose for you.')
-    back = "- Back: just write as usual; your first message cancels the pings left."
+    reads = "one cached read" if one_read_pings() else "about two cached reads"
+    gloss = "Claude Code's command that shrinks the chat to a summary, which I cannot run myself"
+    machine = ("  - This cloud session needs nothing from your computer meanwhile; it can be off." if is_cloud() else
+               "  - Keep the computer awake and this session open meanwhile, since the pings run there (desktop app: "
+               "Settings > This computer > System > Keep computer awake).")
+    head = "**Long-session advisor** · %dk of %dk tokens used (%d%% of the way to automatic compaction)" % (c, p, pct)
+    free = ("_The one-line notice under each reply is free: you see it, and it never enters my context. Its limits "
+            "were worked out on 18–20 October 2026 from this account's own measurements._")
+    hour = ["- **Gone under an hour** → send nothing",
+            "  - Within your plan's usage the chat's memory cache stays warm for an hour, so your next message is a "
+            "cheap warm read."]
+    back = ["- **Back** → just write as usual",
+            "  - Your first message cancels the pings left, and I tell you in one line whether the chat stayed warm."]
+
+    def timed(hours):
+        return ['- **"away" with a time**, such as "away 10h", "away overnight" or "away 2d" → when you are unsure '
+                'which fits',
+                "  - I compare it with the %d-hour limit above and do whichever fits." % hours]
+
     if ctx >= final:
         band = 2
         short = ('%dk/%dk · compaction near · at a break, "wrap" (I save a handoff file, then you type /compact) '
                  '· leaving over 1h, "away" (the same, then pings until you are back)' % (c, p))
-        long = ("Automatic compaction is close: the chat is at %dk tokens of %dk, about %d%%, and will soon be "
-                "summarised in place. Your options:\n" % (c, p, pct) + "\n".join([
-                    '- "wrap", at a clean break: I save a handoff file with everything needed to carry on (the '
-                    'task, what is done, what is next), then you type ' + compact + ', so it happens at this break '
-                    'rather than mid-task.',
-                    '- "away" (or just say you are leaving), for over an hour: the same handoff file and /compact, '
-                    'then a ping every 50 minutes keeps the smaller chat warm until you are back.' + where,
-                    '- A task in the same message as "away": I do the task first, keeping the handoff file current, '
-                    'so nothing is lost if the chat compacts on its own meanwhile; then I keep it warm while that pays.',
-                    "- Otherwise just carry on: it compacts on its own, and the handoff file I keep means nothing "
-                    "is lost.",
-                    back]))
+        long = [head, "", "Automatic compaction is close: it will summarise the chat in place soon, mid-task if it "
+                "comes to that.", "",
+                '- **"wrap"** → suggested, at a clean break',
+                "  - I save a handoff file with everything needed to carry on (the task, what is done, what is next), "
+                "then you type /compact (%s), so it happens at this break rather than mid-task." % gloss,
+                '- **"away"**, or just say you are leaving → for over an hour',
+                "  - The same handoff file and /compact first, then a ping every 50 minutes keeps the smaller chat warm "
+                "until you are back.",
+                machine,
+                '- **A task in the same message as "away"** → task first',
+                "  - I do the task, keeping the handoff file current, so nothing is lost if the chat compacts on its "
+                "own meanwhile; then I keep it warm while that pays.",
+                "- **Otherwise** → just carry on",
+                "  - It compacts on its own, and the handoff file I keep means nothing is lost."] + back
     elif ctx >= window * 60 // 100:
         band = 1
         short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; cheaper than compacting for up to '
                  '~%dh) · longer, "away long" (a handoff file, you type /compact, then pings) · at a break, '
                  '"wrap" (a handoff file, then you type /compact)' % (c, p, limit))
-        long = ("The chat is at %dk tokens, about %d%% of the way to automatic compaction near %dk. Your options:\n"
-                % (c, pct, p) + "\n".join([
-                    hour,
-                    '- "away" (or just say you are leaving), for longer: I keep the chat warm with a ping every 50 '
-                    'minutes until you are back, saving the handoff file first if compaction comes near; at this '
-                    'size that is cheaper than compacting for absences up to about %d hours.' % limit + where,
-                    '- "away long", for longer than that, say overnight: I save a handoff file (the task, what is '
-                    'done, what is next) and ask you to type ' + compact + ' before you go, then keep the smaller '
-                    'chat warm.',
-                    timed,
-                    '- A task in the same message as "away" or "away long": I do the task first, then decide by the '
-                    'size the chat has reached; with you gone I cannot ask for /compact, so where one is due I save the '
-                    'handoff file instead, and keep the chat warm only while that pays.',
-                    '- "wrap", staying but at a clean break: I save the handoff file, then you type /compact, so the '
-                    'chat compacts at this break rather than mid-task, and nothing is lost.',
-                    back]))
+        long = [head, "", "This chat is past 60% of its window, where compacting starts to pay against a long "
+                "absence.", ""] + hour + [
+                '- **"away"**, or just say you are leaving → I keep the chat warm',
+                "  - A one-character ping every 50 minutes until you are back; each costs about %s of the context."
+                % reads,
+                "  - At this size that is cheaper than compacting for absences up to about %d hours." % limit,
+                "  - If automatic compaction comes near while you are gone, I save the handoff file first.",
+                machine,
+                '- **"away long"** → for longer absences, say overnight',
+                "  - I save a handoff file (the task, what is done, what is next) and ask you to type /compact before "
+                "you go (%s)." % gloss,
+                "  - Then I keep the smaller chat warm, which costs far less per ping."] + timed(limit) + [
+                '- **A task in the same message as "away" or "away long"** → task first',
+                "  - I do the task, then decide by the size the chat has reached, since no one can know beforehand "
+                "how much a task adds.",
+                "  - With you gone I cannot ask for /compact, so where one is due I save the handoff file instead, and "
+                "keep the chat warm only while that pays.",
+                '- **"wrap"** → staying, but at a clean break',
+                "  - I save the handoff file, then you type /compact, so the chat compacts at this break rather than "
+                "mid-task, and nothing is lost."] + back
     else:
         band = 0
         floor = window * 60 // 100 // 1000
         hours = round(pings_that_pay() * 50 / 60)
         short = ('%dk/%dk · leaving over 1h, "away" (pings until you are back; worth it for up to ~%dh) · longer, '
                  '"away long" (I let it go cold) · compacting not worth it below %dk' % (c, p, hours, floor))
-        long = ("The chat is at %dk tokens, about %d%% of the way to automatic compaction near %dk. Your options:\n"
-                % (c, pct, p) + "\n".join([
-                    hour,
-                    '- "away" (or just say you are leaving), for longer: I keep the cache warm with a cheap ping '
-                    'every 50 minutes until you are back, so your next message is not a costly cold reload. That '
-                    'pays for absences up to about %d hours.' % hours + where,
-                    '- "away long", for longer than that, say days: I let the cache go cold instead, since nothing '
-                    'is worth paying for that long; if your next task is unrelated, a new session is cheaper still.',
-                    timed,
-                    '- A task in the same message as "away" or "away long": I do the task first, then decide by the '
-                    'size the chat has reached whether pings still pay, and start them only if they do, since no '
-                    'one can know beforehand how much a task adds.',
-                    back,
-                    "- /compact (Claude Code's command that shrinks the chat to a summary) is not worth it below "
-                    "%dk: it saves little, and the summary loses detail." % floor]))
-    # The apps show each line of a hook's systemMessage as its own "Stop says: …" line, U+2028 line separators
-    # included (seen 2026-10-20), so the options stay on one line, each marked with a bullet.
-    long = long.replace("\n- ", NOTICE_BREAK + "• ")
-    return band, (long if verbose else short)
+        long = [head, "", "This chat is below 60% of its window, so compacting is not worth it yet.", ""] + hour + [
+                '- **"away"**, or just say you are leaving → I keep the chat warm',
+                "  - A one-character ping every 50 minutes until you are back, so your next message is not a costly "
+                "cold reload; each costs about %s of the context." % reads,
+                "  - That pays for absences up to about %d hours: past that, the pings cost more than one cold reload."
+                % hours,
+                machine,
+                '- **"away long"** → for longer absences, say days',
+                "  - I let the cache go cold instead, since nothing is worth paying for that long.",
+                "  - If your next task is unrelated to this chat, a new session is cheaper still."] + timed(hours) + [
+                '- **A task in the same message as "away" or "away long"** → task first',
+                "  - I do the task, then decide by the size the chat has reached whether pings still pay, since no "
+                "one can know beforehand how much a task adds."] + back + [
+                "- **/compact** → not yet",
+                "  - Compacting saves little below %dk, and the summary loses detail." % floor]
+    return band, ("\n".join(long + ["", free]) if verbose else short)
 
 
 def footer(d):
-    """Stop hook: show the owner the recommendation without spending any tokens.
-    A hook's systemMessage reaches the owner on any platform and is not added to
-    Claude's context; only async hooks feed Claude, and this one is not async."""
+    """Stop hook: show the owner the notice without spending any tokens. A hook's systemMessage reaches the owner on
+    any platform and is not added to Claude's context; only async hooks feed Claude, and this one is not async."""
     if d.get("agent_id"):
         return
     ctx, model, compacted = read_tail_usage(d.get("transcript_path") or "")
@@ -750,31 +760,35 @@ def footer(d):
 
 
 def notice_line(ctx, window, trigger, final):
-    """The notice, on one line: the apps print "Stop says:" before every line of a hook's message, any line break
-    included, and render no markdown (seen 2026-10-20), so the full list of options, formatted, comes on `status`."""
+    """The notice, on one line: the apps print "Stop says:" before every line of a hook's message, whatever the line
+    break, and render no markdown (seen 2026-10-20). So it gives the size and, for each situation, the keyword it
+    suggests in a few words, and `status` gives the full list, formatted (the owner's request, 2026-10-20)."""
     c, p, pct = ctx // 1000, trigger // 1000, min(ctx * 100 // max(trigger, 1), 99)
     limit = 8 if one_read_pings() else 4
-    status = 'Send "status" to see every option, formatted, with why.'
+    awake = "" if is_cloud() else "; keep the computer awake"
+    unsure = 'Unsure how long → "away 10h" (I pick)'
+    task = 'Leaving a task → "away" + the task (task first)'
+    status = 'All options, explained → "status"'
     if ctx >= final:
-        return ('Long-session advisor (free, never in my context): %dk of %dk tokens, %d%%; automatic compaction is '
-                'close. At a clean break, send "wrap": I save a handoff file, then you type /compact (Claude Code\'s '
-                'command that shrinks the chat to a summary). Leaving for over an hour? Send "away": the same, then '
-                'pings keep it warm. ' % (c, p, pct) + status)
-    if ctx >= window * 60 // 100:
-        return ('Long-session advisor (free, never in my context): %dk of %dk tokens, %d%%. Leaving for over an hour? '
-                'Send "away": pings keep the chat warm, cheaper than compacting for up to ~%d h. Longer, send "away '
-                'long": a handoff file, then you type /compact (Claude Code\'s command that shrinks the chat to a '
-                'summary). ' % (c, p, pct, limit) + status)
-    hours = round(pings_that_pay() * 50 / 60)
-    return ('Long-session advisor (free, never in my context): %dk of %dk tokens, %d%%. Leaving for over an hour? '
-            'Send "away": pings keep the chat warm, worth it for up to ~%d h. Longer, send "away long": I let it go '
-            'cold. ' % (c, p, pct, hours) + status)
+        parts = ['Tokens used: %dk of %dk (%d%%), compaction close' % (c, p, pct),
+                 'Suggested, at a clean break → "wrap" (handoff, then you type /compact)',
+                 'Leaving over 1 h → "away" (the same, then pings%s)' % awake, task, status]
+    elif ctx >= window * 60 // 100:
+        parts = ['Tokens used: %dk of %dk (%d%%)' % (c, p, pct),
+                 'Leaving over 1 h → "away" (pings, up to ~%d h%s)' % (limit, awake),
+                 'Longer → "away long" (handoff, then you type /compact)',
+                 'At a clean break → "wrap" (compact now)', unsure, task, status]
+    else:
+        hours = round(pings_that_pay() * 50 / 60)
+        parts = ['Tokens used: %dk of %dk (%d%%)' % (c, p, pct),
+                 'Leaving over 1 h → "away" (pings, up to ~%d h%s)' % (hours, awake),
+                 'Longer → "away long" (let it go cold)', unsure, task, status]
+    return " · ".join(parts)
 
 
 def recommend():
-    """The footer's options for the owner's `status`, for Claude to relay in chat
-    where the footer is not installed; without the footer's opening line, which
-    says it costs nothing, true only of the notice."""
+    """`status`: every option at this size, formatted in markdown and explained, for Claude to relay in chat as
+    printed; the notice after each reply gives only a line of it."""
     path, _ = find_transcript()
     ctx, model, compacted = read_tail_usage(path) if path else (None, None, False)
     if not ctx:
