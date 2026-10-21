@@ -38,18 +38,18 @@ Manual mode:
   recommend      Everything the advice rests on at this size, formatted and
                  explained, with list-price costs, for Claude to relay in chat
                  (alias status); the notice points to it.
-  away           Print the plan for an absence: any work finished first, the
+  away [long]    Print the plan for an absence: any work finished first, the
                  handoff written when compaction is near, then pings until the
-                 owner is back, for up to about 33 hours; never a step of the
-                 owner's, who has left. Words after it, such as a time, change
-                 nothing. Claude follows the printout, so the per-turn thinking
+                 owner is back, for up to about 33 hours, or with "long", for an
+                 absence past that, no pings; never a step of the owner's, who
+                 has left. Other words after it, such as a time, change nothing. Claude follows the printout, so the per-turn thinking
                  stays trivial.
   footer         Stop hook: emit the recommendation as a systemMessage, shown to
                  the owner after the reply and NOT added to Claude's context, so
                  it costs no tokens on any turn: one line, the tokens used; near
                  compaction, whether the handoff is saved, with the suggestion to
-                 type /compact at a break or on return; and what "away" does and
-                 costs; `status` gives the rest.
+                 type /compact at a break or on return; and what "away" and "away
+                 long" do and cost; `status` gives the rest.
 
 Context = input + cache_creation + cache_read tokens of the newest main-chain
 assistant message in the transcript, skipping synthetic and zero-usage ones.
@@ -91,7 +91,7 @@ ONE_M_MODELS = ("opus-5", "sonnet-5", "haiku-5", "fable", "mythos", "opus-4-7", 
 SUMMARY_RESERVE = 20_000     # held back for the summary; fits every compaction seen
 AUTOCOMPACT_BUFFER = 13_000  # with the reserve, the documented ~967,000 on a 1M window
 MIN_WINDOW = 100_000         # the smallest auto-compact window Claude Code takes
-VERSION = "2026-10-21.1"     # this release; install_watcher.py compares the files themselves
+VERSION = "2026-10-21.2"     # this release; install_watcher.py compares the files themselves
 SKILL_NAME = "ai-best-practices"
 PING_GAP = 50                # minutes between keep-warm pings, inside the cache's one-hour lifetime
 READ_PRICE = 0.20            # $ per million tokens read from the cache, Opus 5.5's list price (#805)
@@ -409,8 +409,9 @@ RELOAD = ("The owner wants their ai-best-practices skill loaded again after ever
           "leave it for that message), since a skill invoked before a compaction may not come back with it (in one "
           "cloud session three invoked on 2026-10-19 never did, while one invoked on 2026-10-20 came back after the "
           "next two).")
-KEYWORDS_WITHOUT_SKILL = ("The after-reply notice works without it: on \"away\", run python3 %s away and follow "
-                          "what it prints; on the owner's next ordinary message, cancel any pings left.")
+KEYWORDS_WITHOUT_SKILL = ("The after-reply notice works without it: on \"away\" or \"away long\", run python3 %s "
+                          "away (or away long) and follow what it prints; on the owner's next ordinary message, cancel "
+                          "any pings left.")
 NO_SKILL = ("No copy of the owner's ai-best-practices skill synced from claude.ai was found (it may not be uploaded "
             "there, or Claude Code may still be downloading it), so the watcher's installed copies were not checked. "
             "If the Skill tool cannot load the skill either, tell the owner once (on a keep-warm ping's turn, leave "
@@ -757,7 +758,8 @@ def band_reco(ctx, window, trigger, final, verbose=False, ready=False):
             "$8.40 on Max 20x, $0.42 on Pro); a compaction's cost varies by about half either way. The one-line notice "
             "under each reply is free: you see it, and it never enters my context. Worked out from this account's "
             "measurements, 17–21 October 2026._")
-    pings = "pings until you are back, ~%s/h; cheaper than a cold start for ~%dh" % (money(k["hour"]), hours)
+    pings = ('pings until you are back, ~%s/h; cheaper than a cold start for ~%dh) · longer, "away long" (no pings; '
+             'one cold start on return, ~%s' % (money(k["hour"]), hours, money(k["cold"])))
     leave = [
         '- **"away"**, or just say you are leaving → pings until you are back',
         "  - If I am working, I finish first. Then a one-character ping every 50 minutes; each %s, about %s at this "
@@ -765,11 +767,13 @@ def band_reco(ctx, window, trigger, final, verbose=False, ready=False):
         "  - They stop by themselves after %d pings, about %d hours, when they have cost what one cold start would. "
         "That holds at any size: a ping reads the chat from the cache and a cold start writes it all again, at 40 "
         "times a read's price, so both grow with the chat." % (n, hours),
-        "  - Away for longer, such as a weekend: send nothing. Your first message back then pays one cold start, "
-        "about %s at this size; if the next task is unrelated to this chat, a new session is cheaper still."
-        % money(k["cold"]),
         machine,
-        "  - You can leave as soon as you send it: nothing in the plan waits for you."]
+        "  - You can leave as soon as you send it: nothing in the plan waits for you.",
+        '- **"away long"** → for an absence of more than about %d hours, such as a weekend' % hours,
+        "  - No pings: your first message back pays one cold start, about %s at this size, less than pinging that long "
+        "would; if the next task is unrelated to this chat, a new session is cheaper still." % money(k["cold"]),
+        "  - As with \"away\", I finish any work first, and near the compaction point I still save the handoff, so you "
+        "can type /compact when you are back."]
     if is_cloud():
         leave.append("  - If the cloud machine restarts while you are away, it stops my keep-awake command and drops "
                      "the scheduled pings; its notice wakes me, and I schedule the rest again (about 40–50¢ each "
@@ -836,6 +840,7 @@ def notice_line(ctx, window, trigger, final, ready=False):
                       "Handoff not saved yet: I write it, then you type /compact at a break (~%s)") % money(k["compact"]))
     parts += ['Leaving: "away" → pings until you\'re back, ~%s/h%s, cheaper than a cold start for ~%d h'
               % (money(k["hour"]), awake, k["cold_hours"]),
+              'Longer: "away long" → no pings, one cold start on return (~%s)' % money(k["cold"]),
               'All explained: "status"']
     return " | ".join(parts)
 
@@ -871,8 +876,8 @@ def away(arg):
     """Print the whole leave plan, so Claude only has to follow it. The owner leaves as soon as they send "away" (the
     owner, 2026-10-20), so the plan never has a step of theirs: Claude finishes any work first, writes the handoff when
     compaction is near, so that the owner can type /compact when back, and pings until the owner's next message, for
-    at most the pings that cost one cold return (the owner, 2026-10-21). Words after "away", such as a time, change
-    nothing."""
+    at most the pings that cost one cold return, or, with "long", for an absence past that, no pings at all (the owner,
+    2026-10-21). Other words after "away", such as a time, change nothing."""
     path, sid = find_transcript()
     ctx, model, compacted = read_tail_usage(path) if path else (None, None, False)
     pay = pings_that_pay()
@@ -882,15 +887,17 @@ def away(arg):
               "is back, at most %d (about %d hours)." % (pay, pay_hours))
         return
     window, trigger, remind, final, _, _ = thresholds(ctx, model)
-    print("context: %s tokens (%d%% of %s); compaction near %s; away: pings"
-          % (format(ctx, ","), ctx * 100 // window, format(window, ","), format(trigger, ",")))
+    extra = (arg or "").strip()
+    long_away = extra.lower() in ("long", "longer", "days", "for days", "a long time")
+    print("context: %s tokens (%d%% of %s); compaction near %s; %s"
+          % (format(ctx, ","), ctx * 100 // window, format(window, ","), format(trigger, ","),
+             "away long: no pings" if long_away else "away: pings"))
     print("if work is under way, or the owner left a task with this: finish it first, then run away again, which "
           "plans from the size then reached; the owner left when they sent it, so ask nothing of them and plan no "
           "step of theirs")
-    extra = (arg or "").strip()
-    if extra.lower() not in ("", "away"):
-        print('  "%s" after "away" changes nothing: the pings stop by themselves after about %d hours, and for a '
-              "longer absence the owner sends nothing" % (extra, pay_hours))
+    if extra.lower() not in ("", "away") and not long_away:
+        print('  "%s" after "away" changes nothing: the pings stop by themselves after about %d hours; an absence '
+              'past that is "away long"' % (extra, pay_hours))
     if ctx >= final:
         if handoff_ready({"cwd": os.getcwd(), "session_id": sid}):
             print("handoff: saved since the note; add a line for anything done since, so that it is current when the "
@@ -900,6 +907,15 @@ def away(arg):
                   "(session-notes/<topic>/handoff.md, outside the checkout) before the pings; the notice then tells "
                   "the owner it is saved and to type /compact when back. Never wait for that compaction"
                   % format(final, ","))
+    if long_away:
+        print("plan: no pings: the cache goes cold, and the owner's first message back pays one cold start, about %s "
+              "at this size, less than pinging past about %d hours. Say so in one line, with a new session as the "
+              "cheaper choice if the next task is unrelated." % (money(costs(ctx, window)["cold"]), pay_hours))
+        if not is_cloud() and not os.environ.get("CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS"):
+            print("  terminal: a session of 200,000 tokens or more compacts itself after about 54 idle minutes unless "
+                  "CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS is set (the installer sets 600000, decision 3); say so if it "
+                  "applies")
+        return
     cloud = is_cloud()
     hours = (12 if long_background() else 2) if cloud else 33
     batch = min(pay, (hours * 60 - 55 + 49) // 50)
