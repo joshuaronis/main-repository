@@ -91,7 +91,7 @@ ONE_M_MODELS = ("opus-5", "sonnet-5", "haiku-5", "fable", "mythos", "opus-4-7", 
 SUMMARY_RESERVE = 20_000     # held back for the summary; fits every compaction seen
 AUTOCOMPACT_BUFFER = 13_000  # with the reserve, the documented ~967,000 on a 1M window
 MIN_WINDOW = 100_000         # the smallest auto-compact window Claude Code takes
-VERSION = "2026-10-21.3"     # this release; install_watcher.py compares the files themselves
+VERSION = "2026-10-21.4"     # this release; install_watcher.py compares the files themselves
 SKILL_NAME = "ai-best-practices"
 PING_GAP = 50                # minutes between keep-warm pings, inside the cache's one-hour lifetime
 READ_PRICE = 0.20            # $ per million tokens read from the cache, Opus 5.5's list price (#805)
@@ -362,14 +362,13 @@ def watch(d):
         left = max(trigger - ctx, 0)
         note = ("Context check (the owner's long-session watcher): about {:,} tokens; automatic compaction is "
                 "expected near {:,}, roughly {:,} tokens away, and its summary will replace the conversation. "
-                "Write the handoff file now, in either mode (session-notes/<topic>/handoff.md, outside the "
-                "checkout, by the owner's ai-best-practices skill, Recommendations and keywords, read again if "
-                "it is not in your context), and keep it current with one-line edits until the compaction. If "
-                "the owner is following the session, also end this turn with the line \"About {:,} tokens "
-                "before automatic compaction. The handoff file is saved; if this is a good break, type /compact "
-                "(Claude Code's command that shrinks the chat to a summary; I can't run it myself).\"; working "
-                "alone, carry on."
-                ).format(ctx, trigger, left, left // 1000 * 1000)
+                "Write the handoff file now (session-notes/<topic>/handoff.md, outside the checkout, by the owner's "
+                "ai-best-practices skill, Recommendations and keywords, read again if it is not in your context), "
+                "then carry on with the work: never stop, end a turn or wait for the compaction, and never ask the "
+                "owner to compact, since the notice under each reply tells them. Until the compaction, keep the "
+                "handoff current in every turn that moves the work on and after each step of a long one, with "
+                "small, targeted edits sent alongside tool calls the work already makes."
+                ).format(ctx, trigger, left)
     elif remind and ctx >= remind and st.get("stage", 0) < 1:
         st["stage"] = 1
         note = ("Context check (the owner's long-session watcher): this conversation is about {:,} tokens, {}% of "
@@ -900,8 +899,8 @@ def away(arg):
               'past that is "away long"' % (extra, pay_hours))
     if ctx >= final:
         if handoff_ready({"cwd": os.getcwd(), "session_id": sid}):
-            print("handoff: saved since the note; add a line for anything done since, so that it is current when the "
-                  "owner types /compact on return")
+            print("handoff: saved since the note; keep it current with a small, targeted edit for anything done since, so "
+                  "that it is right whenever the compaction comes, the owner's /compact or the automatic one")
         else:
             print("handoff first: compaction is near (the note is at %s), so write the handoff file "
                   "(session-notes/<topic>/handoff.md, outside the checkout) before the pings; the notice then tells "
