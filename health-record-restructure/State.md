@@ -1,6 +1,6 @@
 # health-record 2026-10-24 — State
 
-**Claims**: the skill health-record (its 2026-10-24 release, `SKILL.md` md5 `267a832da408ed34ede1abd289e94645`, the copy Josh uploaded to this session, identical to `Skills/health-record/Releases/health-record 2026-10-24.zip`). No instruction of the folder is rewritten. Running in a Claude Code cloud session (branch `claude/elegant-newton-yd228c` of joshuaronis/main-repository). **Status: running**, 2026-10-24 (UTC).
+**Claims**: the skill health-record (its 2026-10-24 release, `SKILL.md` md5 `267a832da408ed34ede1abd289e94645`, the copy Josh uploaded to this session, identical to `Skills/health-record/Releases/health-record 2026-10-24.zip`). No instruction of the folder is rewritten. Running in a Claude Code cloud session (branch `claude/elegant-newton-yd228c` of joshuaronis/main-repository). **Status: closed**, 2026-10-24 (UTC): released as `health-record-2026-10-24-0858` (`SKILL.md` md5 `a559cab3d323e7fe85189c9a61577d1d`); the notes for `Skills/health-record/` delivered as a zip; nothing moved in Josh's own folder, which was attached as a copy.
 
 The folder was attached as a copy (`Skill Updates copy.zip`, with `Skills/health-record/` sent separately as `health-record copy.zip`), so nothing here is written into it: the write-back is delivered as the files that would sit under `Skills/health-record/`, and the release zip, for Josh to place.
 
@@ -102,15 +102,15 @@ Additions: the files paragraph, file table and reopen rule after line 12; one ro
 - [x] Build the files by script; manifest of moves and edits (build_split.py; out/manifest.json).
 - [x] Script checks: coverage, reassembled diff, xref_check, cross-file resolver, positional pointers, reachability, sizes, description, no other skill named, fences (check_split.py: 0 problems; xref_check on the concatenation: none unresolved).
 - [x] Per-route load table (route_loads.md): mean 47% of the original; product routes 66%; the sweep 77%; the light routes 18–23%. SKILL.md's cross-task rules end at 19,983 characters.
-- [ ] Readers (Opus 5.5): two, old and new text, task walks including a mid-task switch and a post-compaction resume (running since 2026-10-24 about 07:40 UTC); judge every finding against the text and the judged list; repair only what survives.
-- [ ] Repairs already queued from my own passes, to apply in one rebuild once the readers have returned: F1 ("that table" → the table under *What you are probably being asked*, in the files block and in every header's common sentence); F3 (items.md header and the table of files name *Band A*, *Band B*, *Band C* and *Band D*); F4 (menu.md header and the table of files: *Before you pick* is inside the menu block, not beside it).
-- [ ] Convergence round (Josh, 2026-10-24: more than two helpers at a time is fine): three fresh Opus readers at once on the repaired text — task walks forward; task walks reversed; every new or changed line with its parallels and premises across files, and the headers. Stop when what they confirm is nothing or a few narrow cases; otherwise another round.
-- [ ] Own passes between rounds, each with its own lens, notes here.
-- [ ] Folder advice, as a prompt for another session (Josh, 2026-10-24): what this job found wanting in the folder — single-text scripts and briefs against a multi-file skill, the md5 listing doubled across About and the changelog for ten files, release.py's stamped title, where cloud sessions keep working files, prompts that predate the stamping rule.
-- [ ] Cold read of SKILL.md and each header.
-- [ ] Release with release.py in a replica of the folder; md5s.
-- [ ] Write back: About, Changelog, Lessons, Open items, Decisions (the calls above), Judged list (findings set aside).
-- [ ] Deliver: the notes files, the zip, Josh's own steps.
+- [x] Readers (Opus 5.5): two, old and new text, task walks including a mid-task switch and a post-compaction resume (running since 2026-10-24 about 07:40 UTC); judge every finding against the text and the judged list; repair only what survives.
+- [x] Repairs already queued from my own passes, to apply in one rebuild once the readers have returned: F1 ("that table" → the table under *What you are probably being asked*, in the files block and in every header's common sentence); F3 (items.md header and the table of files name *Band A*, *Band B*, *Band C* and *Band D*); F4 (menu.md header and the table of files: *Before you pick* is inside the menu block, not beside it).
+- [x] Convergence round (Josh, 2026-10-24: more than two helpers at a time is fine): three fresh Opus readers at once on the repaired text — task walks forward; task walks reversed; every new or changed line with its parallels and premises across files, and the headers. Stop when what they confirm is nothing or a few narrow cases; otherwise another round.
+- [x] Own passes between rounds (cold read; seams by search; every-run obligations; headers by script; the changed-lines re-read).
+- [x] Folder advice, as a prompt for another session (`folder_advice_prompt.md`, delivered) (Josh, 2026-10-24): what this job found wanting in the folder — single-text scripts and briefs against a multi-file skill, the md5 listing doubled across About and the changelog for ten files, release.py's stamped title, where cloud sessions keep working files, prompts that predate the stamping rule.
+- [x] Cold read of SKILL.md and each header.
+- [x] Release with release.py in a replica of the folder; md5s (finalize.py).
+- [x] Write back: About, Changelog, Lessons, Open items, Decisions, Judged list — verify_notes.py and check_folder.py pass on the replica.
+- [x] Deliver: the notes zip, the skill zip, the folder-advice prompt, Josh's own steps (the final message).
 
 ## Lessons as they happen
 
@@ -169,3 +169,11 @@ Set-asides agree with C's and round 1's: the headers' "§1 and §11" (queued for
 - All scripts pass on the rebuilt text (SKILL.md md5 before stamping 79439afd…). Round 3 = reader F, a targeted check of the round-2 repairs only (SKILL.md and record.md whole, headers, search the rest). Stop after F unless it finds something broader than a loose end.
 
 Stopping rule applied: round 2 (three fresh readers repeating round 1's lenses plus a new one on the fixed text) confirmed one narrow case; fixed; its check is round 3.
+
+### Round 3, reader F (targeted check of the round-2 repairs): 0 findings (about 214,000 tokens, 11 minutes). Stopped.
+
+Helper cost in all: six readers, about 3.1 million tokens on Opus 5.5.
+
+### After the release: the stamp adds 32 characters
+
+`release.py` stamps the `name:` line and the title of `SKILL.md` (16 characters each), so the released `SKILL.md` is 41,303 characters: the files block ends at 6,548, the routing table at 14,430, the cross-task rules at 20,037 (20,465 bytes). The notes were first filled from the build (41,271 / 6,516 / 14,398 / 20,005) and corrected; `finalize.py` now measures the released zip and asserts that the release differs from the build only in those two lines. Lesson: measure what is uploaded, not what was checked, whenever a release step rewrites anything.

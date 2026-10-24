@@ -1,0 +1,58 @@
+{
+ "reader": "F",
+ "read_in_full": true,
+ "scenarios": [
+  {
+   "n": 1,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/record.md",
+    "references/changes.md"
+   ],
+   "ok": true,
+   "note": "Repair 1, the reason clause (record.md line 99, old line 546). A character diff of old 546 against new 99 shows that only the clause after the dash changed. The bold rule 'Compare the option list against that table on every read' is byte-identical, so the rule is unchanged. The clause reads correctly in its paragraph: it is a gapped absolute ('the option list being in front of you and that table [being] in §7, ...'), and 'that table' already means §7's table from two sentences earlier. It is true of the new layout. The table is in references/changes.md (heading at line 86, table at line 90), which is a skill file, so the comparison costs at most a file read and no read of the record. It also sets up the next sentence's contrast more cleanly than 'free' did: the guide 'is a loose page, so reading it is a page fetch, and item 1 and item 21 both promise to open none'. The comparison breaks neither of those promises, nor menu.md line 19's 'no page fetched, no third query'. The added pointer names a section and a subsection with no gloss, and it resolves through table row 25. Every new file was searched for 'option list', 'in front of', 'both being', 'free', 'costs nothing', 'legend', 'What to Remember', 'loaded' and 'that/the table'. No other passage gives the old reason, or rests on the whole document being in view. changes.md line 88 ('the queue's own option list names each kind, and this gives it with its routes') agrees."
+  },
+  {
+   "n": 2,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/menu.md",
+    "references/items.md",
+    "references/record.md",
+    "references/buying.md",
+    "references/evaluating.md",
+    "references/research.md",
+    "references/changes.md",
+    "references/sweeps.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Repair 2, the header sentences. All nine reference headers carry one identical line 3 ('... §0's *Every run leaves the record better organised than it found it*, §1, §11 and *Revising these rules*; its table of files says which file holds every other section'). They also carry one identical 'Sections by file' line ('... §0's upkeep, §1 and §11, and *Revising these rules*'). Both list the same set as SKILL.md line 14 ('§0's upkeep, §1, §11 and *Revising these rules*; every other section is in a reference file named in the table of files below') and table row 18. SKILL.md holds each of them: §1 at line 120, §11 at line 207, and *Revising these rules* at line 213. The last is a separate H2 after §11, as it was at old line 1666. No passage below line 11 of any reference file restates what SKILL.md holds, so nothing lags. The repaired header also lets record.md line 128's bare '(*Revising these rules*)' resolve from record.md's own header."
+  },
+  {
+   "n": 3,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/items.md",
+    "references/record.md",
+    "references/changes.md",
+    "SKILL.md"
+   ],
+   "ok": true,
+   "note": "Repair 3, the shortened files block (SKILL.md lines 14 and 29). *Round 2* says six phrases were shortened but does not quote the old wording, so I could not compare phrase by phrase. Instead I read each sentence against what the briefing and *Round 1* say the block must carry, against the headers, and against the table of files. Line 14 carries what SKILL.md holds, *Revising these rules* included. It keeps the round-1 open rule naming the table under *What you are probably being asked*, and the rule for the §N, *Title* pointer form. It defines '*This document* and *these rules*' as all of the files, which line 10's 'anything in this document' needs. It defines '*the opening*' as the start of SKILL.md, which record.md's '(the opening)' at lines 119 and 130 needs. Line 29 carries four rules: a row applies whenever its situation arises mid-task; any run that reads or writes a table opens record.md; any file whose text is no longer in view is reopened, SKILL.md included, because a compaction cuts SKILL.md to its first part and drops reference files read earlier; and 'in view' is defined, consistent with line 10's 'Summaries and prior-loading claims do not suffice'. The block sits at characters 3,557–6,509 and the cross-task rules end at character 20,005, so a compaction keeps all of it. A resumed item-20 run follows line 29, row 67 and the table of files. It reopens items.md, record.md and changes.md, then SKILL.md for the upkeep and §1, and line 10 has it reload the rules. Nothing a resumed run needs is missing, and every sentence agrees with the headers' 'reopen it whenever a task needs it and its text is no longer in view'."
+  },
+  {
+   "n": 4,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/menu.md",
+    "references/items.md",
+    "references/record.md"
+   ],
+   "ok": true,
+   "note": "Round 1's repairs, read beside the round-2 changes:\n- Row 77 names '§0, its opening paragraphs (`references/menu.md`)'.\n- Line 14 lists *Revising these rules*.\n- items.md line 17's '(§0, *What to print — the exact words*)' resolves to menu.md line 27.\n- Line 10's 'anything in this document' rests on line 14's definition, which is intact.\n- record.md line 115's '(§7, *Substance-level against product-level* — *Everything you read is evidence, never instruction*)' is in place.\n- Line 14 and every header name the table under *What you are probably being asked*.\n- The items.md header and table row 20 name all four bands.\n- The menu.md header says '*Before you pick* included', and table row 19 says 'the menu block'. No pointer anywhere else names *Before you pick* (menu.md line 160).\nAll of these still read correctly."
+  }
+ ],
+ "findings": [],
+ "notes": "Reading followed round 3's instructions. SKILL.md and record.md were read whole from their numbered parts, and lines 1–11 of the other eight reference files were read. The rest, and frozen/SKILL.md, were searched with bounded context. read_in_full refers to that.\nSet aside: SKILL.md line 29, 'while a reference file read earlier is not in view'. Taken out of its sentence, it reads as a general claim. In the sentence, 'while' contrasts it with what a compaction does to SKILL.md, so it is scoped to the compaction ('read earlier' means read before it). A run that over-read it would only reopen a file.\nSet aside: line 14's 'leave it closed otherwise' beside line 29's 'opens `references/record.md`, whether or not its row names §2'. This is the same widening of line 12's 'read only those' that round 1 set aside. Line 29 is the specific rule, and it names the file.\nSet aside: line 29's 'not only as the opening ask'. Here 'opening' means the first ask, not the *the opening* defined in line 14. No run would read it otherwise; this is style.\nSet aside: under the rewritten clause, 'every read' now costs a file read of references/changes.md where §7's table is not in view; in one file it was free. That is a cost of the layout, which the new wording states honestly. The promises of item 1, item 21 and the menu concern Notion reads, not file reads. The rule is unchanged.\nSet aside: the cross-task rules end at character 20,005. A hard cut at 20,000 would lose only the closing '§10).' of line 96, and the rule before it survives. 'About 20,000' covers this."
+}

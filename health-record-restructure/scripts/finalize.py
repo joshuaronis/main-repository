@@ -14,6 +14,7 @@ import os, re, shutil, subprocess, sys, zipfile
 
 S = sys.argv[1]
 DRY = "--dry-run" in sys.argv
+SKIP = "--skip-release" in sys.argv   # the newest release in Releases/ was already cut; reuse it
 JOB = os.path.join(S, "hr_job")
 OUT = os.path.join(JOB, "out", "health-record")
 REPL = os.path.join(S, "replica", "Skill Updates")
@@ -27,21 +28,42 @@ def run(cmd, cwd):
     return r
 
 # ---- 1. release ---------------------------------------------------------------
-r = run([sys.executable, "-I", "release.py", OUT] + (["--dry-run"] if DRY else []), REPL)
-if r.returncode != 0:
-    sys.exit("release.py failed")
-m = re.search(r"(?:wrote|would write) Skills/health-record/Releases/(health-record-(\d{4}-\d{2}-\d{2}-\d{4}))\.zip", r.stdout)
-stamp_name, stamp = m.group(1), m.group(2)
-md5 = dict(re.findall(r"^  (\S+)  ([0-9a-f]{32})$", r.stdout, re.M))
+if SKIP:
+    import hashlib
+    rd = os.path.join(NOTES, "Releases")
+    newest = sorted(z for z in os.listdir(rd) if re.fullmatch(r"health-record-\d{4}-\d{2}-\d{2}-\d{4}\.zip", z))[-1]
+    stamp_name = newest[:-4]; stamp = stamp_name[len("health-record-"):]
+    md5 = {}
+    with zipfile.ZipFile(os.path.join(rd, newest)) as zf:
+        for n in zf.namelist():
+            if not n.endswith("/"):
+                md5[n.split("/", 1)[1]] = hashlib.md5(zf.read(n)).hexdigest()
+    print("reusing", newest)
+else:
+    r = run([sys.executable, "-I", "release.py", OUT] + (["--dry-run"] if DRY else []), REPL)
+    if r.returncode != 0:
+        sys.exit("release.py failed")
+    m = re.search(r"(?:wrote|would write) Skills/health-record/Releases/(health-record-(\d{4}-\d{2}-\d{2}-\d{4}))\.zip", r.stdout)
+    stamp_name, stamp = m.group(1), m.group(2)
+    md5 = dict(re.findall(r"^  (\S+)  ([0-9a-f]{32})$", r.stdout, re.M))
 assert set(md5) == set(FILES), (set(md5) ^ set(FILES))
 print("stamp:", stamp, "| SKILL.md md5:", md5["SKILL.md"])
 if DRY:
     sys.exit(0)
 
 # ---- 2. the notes -------------------------------------------------------------
-sizes = {f: len(open(os.path.join(OUT, f), encoding="utf-8").read()) for f in FILES}
+# Measure the RELEASED files, not the build: release.py stamps the name and the title of SKILL.md
+# (two lines, 32 characters more), and the notes quote the sizes and offsets of what Josh uploads.
+with zipfile.ZipFile(os.path.join(NOTES, "Releases", stamp_name + ".zip")) as zf:
+    released = {n.split("/", 1)[1]: zf.read(n).decode("utf-8") for n in zf.namelist() if not n.endswith("/")}
+assert set(released) == set(FILES), (set(released) ^ set(FILES))
+for f in FILES:   # the release differs from the build only in SKILL.md's name line and title line
+    a = open(os.path.join(OUT, f), encoding="utf-8").read().split("\n"); b = released[f].split("\n")
+    differing = [i + 1 for i, (x, y) in enumerate(zip(a, b)) if x != y] + ([] if len(a) == len(b) else ["length"])
+    assert differing == ([2, 6] if f == "SKILL.md" else []), (f, differing)
+sizes = {f: len(released[f]) for f in FILES}
 total = sum(sizes.values())
-skill = open(os.path.join(OUT, "SKILL.md"), encoding="utf-8").read()
+skill = released["SKILL.md"]
 i = skill.find("**Some further rules override everything else in this document"); end_rules = skill.find("\n", i)
 end_block = skill.find("## What you are probably being asked")
 j = skill.find("| The ask |"); end_table = skill.find("\n\n", j)
@@ -56,7 +78,8 @@ def edit(name, pairs):
             t, n = old.subn(new, t)
         else:
             n = t.count(old); t = t.replace(old, new)
-        assert n >= 1, (name, old if isinstance(old, str) else old.pattern)
+        if isinstance(old, re.Pattern) or old not in ("<STAMP-NAME>", "<STAMP>", "<SKILL-MD5>"):
+            assert n >= 1, (name, old if isinstance(old, str) else old.pattern)
     open(p, "w", encoding="utf-8").write(t)
 
 common = [("<STAMP-NAME>", stamp_name), ("<STAMP>", stamp), ("<SKILL-MD5>", md5["SKILL.md"])]
