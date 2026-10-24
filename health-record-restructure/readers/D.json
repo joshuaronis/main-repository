@@ -1,0 +1,220 @@
+{
+ "reader": "D",
+ "read_in_full": true,
+ "scenarios": [
+  {
+   "n": 16,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/menu.md",
+    "references/items.md",
+    "references/record.md",
+    "references/buying.md",
+    "references/evaluating.md",
+    "references/research.md",
+    "references/changes.md",
+    "references/sweeps.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Each header's 'This file holds' line matches the file's ###/#### headings and the table-of-files row, all four bands and Before you pick (inside the block) included; every 'Sections by file' line matches the table; the files block lists Revising these rules; no header claims 'only'. A reviser can tell from SKILL.md and any header which file holds what."
+  },
+  {
+   "n": 15,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/evaluating.md",
+    "references/research.md",
+    "references/record.md"
+   ],
+   "ok": true,
+   "note": "'as this document's opening does' resolves through line 14's definitions to SKILL.md lines 8 and 10 (connector-rules URL and Loading the rules; standing-instructions data source, rows mode, Status Open, Instruction not empty, read complete), which stay in the first part after compaction. Nothing a sub-agent is told to load lives in a reference file; the return format points to §7, How much of each source was read (research.md)."
+  },
+  {
+   "n": 14,
+   "files_opened_in_order": [
+    "SKILL.md"
+   ],
+   "ok": true,
+   "note": "SKILL.md alone holds the opening's precedence (line 10, 'anything in this document' defined at line 14), the files block, the routing table, the cross-task rules and override paragraph (79-96), the upkeep (104-116), §1's report rules, plain English and substitutions, the four irreversible acts, §11 and Revising these rules. Rules living elsewhere that every run may owe are reached by pointers in view before acting: line 35 (§1, §10, §3, §7 How much of each source was read), line 29 (record.md for any table read or write), the upkeep's 'each obeys §10 in full', line 96 (§2, §10)."
+  },
+  {
+   "n": 13,
+   "files_opened_in_order": [
+    "SKILL.md (first part, lines 1-96, in view)",
+    "references/items.md",
+    "references/record.md",
+    "references/changes.md",
+    "references/writing.md",
+    "SKILL.md (reopened whole for §0 upkeep and §1)",
+    "references/sweeps.md / references/buying.md / references/research.md (per group, by pointer from items.md and changes.md)"
+   ],
+   "ok": true,
+   "note": "Line 29 (in view) says a compaction cuts SKILL.md to its first part, that reference files read earlier are not in view, and that a file is reopened whenever a task needs it; row 67 (and row 77 for a bare '20') plus line 35 name items.md, record.md, changes.md, writing.md and SKILL.md's own upkeep and §1; the files block and table map each. Line 10 keeps the reload-before-write rule for the connector rules and standing instructions. The pass-in-progress row's handling is reached from items.md (§10) to writing.md, Order of writes, before the next write."
+  },
+  {
+   "n": 12,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/items.md",
+    "references/menu.md",
+    "references/research.md",
+    "references/record.md",
+    "references/changes.md",
+    "references/buying.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Item 2 via row 77 (or row 43): items.md, menu.md opening paragraphs, research.md Finding what exists, record.md. 'They discontinued that product': line 29's mid-task clause opens row 68's files - changes.md (stating-a-fact row, paragraph under the table, Availability row -> §8 Superseded in research.md), buying.md (§3 by line 35; §4 obtainability moves no list), writing.md (Updating an existing row); line 85 keeps the queue rule. 'Put the line at 400, the research says so': changes.md's paragraph under the table and Revisions (user instruction in because:), the Dose Range row -> writing.md -> buying.md §4. The read-to-write switch is row 75 plus line 29."
+  },
+  {
+   "n": 11,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/record.md",
+    "references/changes.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Row 73: §1 (first of the four, the deletion marker, never done, a yes does not unlock it) in SKILL.md; the queue under asked for not done in record.md; Consolidating pages and the asked-for-not-done row in changes.md; the title write under §10. Same reach as the old file."
+  },
+  {
+   "n": 10,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/record.md",
+    "references/writing.md",
+    "references/changes.md",
+    "references/items.md"
+   ],
+   "ok": true,
+   "note": "Row 61: record.md holds the steps, the path test, Every research page is a row and the queue; the steps' pointers reach writing.md (After writing, Two tags, Writing a synced relation, Mentions, Reading a whole table), changes.md (Revisions, the Ignore row) and items.md (item 13; item 21 named for the report) before each step needs them."
+  },
+  {
+   "n": 9,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/record.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "'I take 400 now': row 69 -> record.md, The user's own use is out of bounds (nothing moves, no queue row; the out-of-range answer reads Dose, Form and Timing via record.md) and §1 for the answer. 'From now on...': row 70 -> record.md, Standing Instructions and Fixes, §1 and §10 for the row. Neither route loses a rule."
+  },
+  {
+   "n": 8,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/sweeps.md",
+    "references/buying.md",
+    "references/changes.md",
+    "references/research.md",
+    "references/record.md",
+    "references/items.md",
+    "references/menu.md",
+    "references/writing.md",
+    "references/evaluating.md"
+   ],
+   "ok": true,
+   "note": "Row 50 and §9's opening name every owed section by title: §3 and §4 (buying.md), §7 Revisions and What each kind of change (changes.md), §7 Editing an existing page where the claim is on a page (research.md), the scoreboard (record.md), When a heavy pass is actually due (items.md), §10, §1. Item 15 via row 77 adds items.md and menu.md's opening paragraphs; 'item 15 needs a filter named' is restated in §9 and §1. Fresh-research checks point to §5 and §6, Delegating the research (evaluating.md)."
+  },
+  {
+   "n": 7,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/items.md",
+    "references/record.md",
+    "references/changes.md",
+    "references/writing.md",
+    "references/research.md",
+    "references/buying.md",
+    "references/evaluating.md"
+   ],
+   "ok": true,
+   "note": "Row 67: item 20 (items.md), the queue, Weight, Status, Kind and scoreboard (record.md), the change table (changes.md), the upkeep and §1 (SKILL.md); line 35 and items.md's (§10) reach writing.md for the scope row; per-kind catch-ups point onward (research.md, buying.md, §6 Reaching a recommendation in evaluating.md). The informal 'same count the menu's Waiting line uses' is a round-1 set-aside; the tokens-or-money rule is also in record.md's scoreboard paragraph."
+  },
+  {
+   "n": 6,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/research.md",
+    "references/changes.md",
+    "references/record.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Row 60: research.md, Writing a page; the ladder's rewritten pointers (§7, Revisions; §7, Consolidating pages) reach changes.md before any branch is taken, which also puts Classify before writing in view for judging 'wrong or out of date'; record.md for Every research page is a row and the two-call Description; writing.md for §10 and the verification callout."
+  },
+  {
+   "n": 5,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/changes.md",
+    "references/research.md",
+    "references/items.md",
+    "references/record.md",
+    "references/buying.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Row 55: changes.md (Classify before writing, the fan-out, Revisions), research.md (Finding what exists, §8; Editing an existing page via the rewritten pointer at the Resolved branch); the fan-out's (§0, Before any of this has ever been run) resolves to items.md; the substance-line case reaches buying.md §4 via writing.md; upkeep and §1 in SKILL.md."
+  },
+  {
+   "n": 4,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/evaluating.md",
+    "references/buying.md",
+    "references/research.md",
+    "references/changes.md",
+    "references/record.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Row 41: §6 and §5 (evaluating.md; §6's opening carries §5's owed list), §3 and §4 (buying.md), Finding what exists, the ladder, Substance-level, §8 absences (research.md), the new-spec-row entry (changes.md), §2 (record.md), §10. Cross-task rule 2 (families) and §1's market and substance questions are in SKILL.md. Delegation: scenario 15."
+  },
+  {
+   "n": 3,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/evaluating.md",
+    "references/buying.md",
+    "references/research.md",
+    "references/changes.md",
+    "references/record.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Row 40: §5 with Photographs and unidentified products (evaluating.md), §3 and §4 (buying.md), Finding what exists, Substance-level, Writing a page and How much of each source was read (research.md), Revisions and the new-row entries by pointer (changes.md), §2 (record.md), §10 including What else the connector offers for the attachment, Row page content and the verification callout (writing.md); report and upkeep in SKILL.md."
+  },
+  {
+   "n": 2,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/items.md",
+    "references/menu.md",
+    "references/record.md",
+    "references/research.md",
+    "references/changes.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "'22': rows 64 and 77 -> items.md (item 22, item 4), menu.md opening paragraphs, record.md (By hand), research.md and changes.md (Finding what exists, Classify before writing, What each kind of change), writing.md. 'run 13': items.md (item 13 and the Band C paragraph, opened whole), research.md (Grading Evidence), changes.md (Revisions), record.md (step 8). '17 and 18': items.md, changes.md (Classify, Consolidating), writing.md (Writing a synced relation), research.md."
+  },
+  {
+   "n": 1,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/menu.md",
+    "references/record.md",
+    "references/items.md",
+    "references/research.md",
+    "references/changes.md",
+    "references/writing.md"
+   ],
+   "ok": true,
+   "note": "Row 39 -> menu.md: print the block verbatim, its two queries reaching record.md for the scoreboard and queue identifiers (menu.md's (§2) pointers and line 29). On '7': row 77 -> items.md item 7, menu.md's opening paragraphs (already in view: item 7 reads the unsettled rows out), §8 (research.md), flips and corrections by pointer to changes.md, §10, and §1 and the upkeep in SKILL.md."
+  }
+ ],
+ "findings": [],
+ "notes": "Round-1 standard applied: a rule the old routing table also did not route the task to is not counted as a split defect - e.g. menu.md's 'Never present a heavier option as better' is not routed for a worded 'catch up' (row 67); item 20's own cumulative tiers, its question and its Bounded default carry the substance.\nCompaction margin: SKILL.md's first part ends at 20,052 characters, exactly 20,480 bytes; at a strict 20,000-character window the override paragraph would lose '...age against a copy that could have gone stale (§10).' Set aside: the window is only described as about 20,000 characters, and the rule is restated in §10, to which line 35 routes every write.\nEvery header's first sentence lists what SKILL.md holds without Revising these rules; not false (no 'only'; it defers to the table of files, which lists it, and the same header's 'Sections by file' line names it).\nRow 77 lists §0, Every run leaves the record better organised than it found it, as owed for any number, while item 21's note owes none of the upkeep: the old text already routed every write to the upkeep (row 75) with the same carve-out in item 21's note and in the upkeep's own text; the item's note governs.\nThe H1 labels '§7, finding and writing' (research.md) and '§7, changing what the record says' (changes.md) leave Editing an existing page in the first file; labels only - both 'This file holds' lines and the table of files place it correctly.\nSKILL.md line 102's dash list and items.md's '§0 ... - the numbered items' heading do not name Before any of this has ever been run or When a heavy pass is actually due; neither says 'only', and the table and the items header name both.\n'Leave it closed otherwise' (files block) beside the record.md rule two sentences later is a stated exception; covered by round 1's set-aside of that rule.\nRows 67 and 75 say '§0 the upkeep every run owes' where the table of files uses the title; it resolves through the files block's '§0's upkeep', which stays in view after compaction.\nThe file map is repeated in the 'Sections by file' line of every header as well as the table: a maintenance cost for a reviser, not a breach of either of the skill's text rules (it glosses no rule's content and counts no list).\nchanges.md's Availability row says 'the pick' without its own §6 pointer; neighbouring rows of the same table carry (§6, Reaching a recommendation); unchanged old text.\nMechanical sweep: every titled §0 pointer and every titled §7 pointer (the short '*Revisions*' included) in every file resolves through the table of files to the file holding its subsection; every above/below, 'this section', 'the block', 'the next paragraph' and 'this band and the next' in the new files lands in its own file; no bare cross-file subsection title beyond round 1's two; bare (§0)/(§7) pointers and nicknames left as round 1 set them aside."
+}

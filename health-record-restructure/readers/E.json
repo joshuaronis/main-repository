@@ -1,0 +1,62 @@
+{
+ "reader": "E",
+ "read_in_full": true,
+ "scenarios": [
+  {
+   "n": 1,
+   "files_opened_in_order": [
+    "briefing.md",
+    "SKILL.md",
+    "references/menu.md",
+    "references/items.md",
+    "references/record.md",
+    "references/buying.md",
+    "references/evaluating.md",
+    "references/research.md",
+    "references/changes.md",
+    "references/sweeps.md",
+    "references/writing.md",
+    "old part1.md … part9.md",
+    "frozen/SKILL.md (search)"
+   ],
+   "ok": false,
+   "note": "Changed-lines lens. A line-set diff of the old file against the ten new files matches the briefing's list exactly: SKILL.md 10, 14, 16–27, 29, 77, 100, 102; each reference file's lines 1–9 (where present); items.md 13, changes.md 13; and the pointer lines menu 21, 23, 29; items 17, 39, 45, 47, 89, 110; record 115; research 39, 55, 65, 69, 70, 71, 92, 122, 135; changes 29, 30, 61, 93, 98, 166. Nothing else changed. Each new line reads correctly in its paragraph. Every header's 'This file holds' line matches that file's headings, and so do the table of files and the 'Sections by file' line. No old wording is left anywhere ('end of this section', 'further down', 'the block', the uncrossed '(*Title*, below/above)'). Every §N, *Title* pointer resolves to a heading, and every §7 pointer names a §7 subsection heading. Every untitled and titled 'above'/'below', 'this section', 'the opening', 'here' and 'this document' lands in its own file or means what the files block defines it to mean. Only one reason now rests on a premise the split made false: record.md 99 (finding below)."
+  },
+  {
+   "n": 2,
+   "files_opened_in_order": [
+    "SKILL.md lines 1–96 only (through the 'Some further rules override everything else' paragraph, 20,052 characters)"
+   ],
+   "ok": true,
+   "note": "Yes. With only lines 1–96 in view, a run three steps into a task can see the following. Line 14 and table row 18 say SKILL.md holds §0's upkeep, §1, §11 and *Revising these rules*, and give the file for every other section. Line 29 says a file is reopened whenever a task needs it and its text is not in view, 'this file included, which a compaction cuts to its first part', and that a summary is not in view. Each routing row names what its task owes, and row 77 covers bare numbers. Line 35 says a write owes §1 and §10, and line 83 says every run finishes with the upkeep in §0. The opening's reload rule for the connector rules and the standing instructions is at line 10. So it can tell which files to reopen. §1 (from char 26,390) and the upkeep (from char 20,314) are visibly absent, so it reopens SKILL.md for them before reporting."
+  },
+  {
+   "n": 3,
+   "files_opened_in_order": [
+    "SKILL.md",
+    "references/*.md (new lines only)"
+   ],
+   "ok": true,
+   "note": "The new text never writes the number of members of a growable list. It says 'several files', names all four bands, and its 'two markers' bound one block. Every new cross-reference names a section and a subsection, or gives a file path, and glosses no rule's content. The 'only'/'never'/'every' claims in the new text hold against the files ('the one every run reads first', 'every other section is in a reference file', 'its table of files says which file holds every other section', research.md 7 and changes.md 7). One exception, 'leave it closed otherwise' (SKILL.md 14) against line 29's record.md rule, is set aside under round 1's entry (see notes)."
+  }
+ ],
+ "findings": [
+  {
+   "scenario": 1,
+   "category": "cut whole",
+   "grade": "minor",
+   "old_lines": [
+    546
+   ],
+   "new_file": "references/record.md",
+   "new_lines": [
+    99
+   ],
+   "quote": "**Compare the option list against that table on every read** — that comparison is free, both being in front of you.",
+   "problem": "'That table' is §7, *What each kind of change makes possibly wrong*, named earlier in the same paragraph. It is now in references/changes.md, while this rule sits in references/record.md. In the single file the check really was free: the queue's option list came with the read and §7's table was in the loaded text. After the split the table is in view only on runs routed to changes.md: item 20, item 22, a disagreement, a correction. Every other run that reads the queue still meets this sentence through §2, and it says the check costs nothing because the table is 'in front of you' when it is not. Those runs are the pre-verdict queue read of an evaluation or a sourcing run (research.md 29, '(§2)'), item 1's read, the menu's count (whose row says 'nothing else'), and a band C item's opening queue query, item 12's for one. To obey the rule on every queue read, such a run must open changes.md (56,518 characters) on each one, which is exactly the load the split exists to avoid. Or, trusting the stated premise, it skips a comparison the old text had it make at no cost. I tried to refute this. The pointer to the table is in the same paragraph, so the rule is reachable, and opening a reference file costs no Notion call, so 'free' still holds in the record's own cost terms. What fails is 'both being in front of you', the reason the sentence gives for running the check on every read.",
+   "fix": "references/record.md line 99: '— that comparison is free, both being in front of you.' → '— that comparison costs no read of the record, the option list being in front of you and that table in §7, *What each kind of change makes possibly wrong*.' (If the author would rather not have every queue read open changes.md, narrowing 'on every read' is a rule decision for them, not a layout fix.)",
+   "confidence": "medium"
+  }
+ ],
+ "notes": "SKILL.md 14 'leave it closed otherwise' is overridden by SKILL.md 29 'A run that reads or writes any table of the record opens references/record.md'. It reaches the same outcome as round 1's set-aside: it adds a file and loses no rule. The menu row's 'nothing else' is in the same position, and the menu text's own '(§2)' pointers open record.md anyway.\nEvery header's line 3 lists SKILL.md's contents without *Revising these rules*. It then says the table of files places every other section, which is true, and line 9 of the same header lists it. Incomplete, not false.\nSKILL.md 102 ('its opening paragraphs and the menu, and the numbered items') leaves out *Before any of this has ever been run* and *When a heavy pass is actually due*. Table row 20, which survives compaction, places both in items.md. Nothing is said to be where it is not.\nThe H1 titles '§7, finding and writing' (research.md) and '§7, changing what the record says' (changes.md) put *Editing an existing page* in the first file although it changes the record. The 'This file holds' lines and the table of files name it correctly. The H1s are labels, not claims.\nThe items.md 13 heading '— the numbered items' also covers two subsections that are not numbered items. The header's line 5 lists them.\n'§7, *Revisions*' (research.md 65, 70, 92) is a short form of *Revisions: the chain of edits*. The old text used the same short form, it resolves by prefix, and the routing table says '§7 Revisions'.\nRow 77 sends every number to the upkeep, item 21 included, though item 21 does 'none of the upkeep'. The old 'Anything ending in a write' row and 'Every run … finishes with the upkeep' did the same, and item 21's own note governs.\n'the item's own note' (row 77) sits beside the defined term 'a page's own note'. The old text already calls item entries notes ('The note on each item'), and the context settles which is meant.\nitems.md 47: the rewritten pointer sits inside the Band A heading. It reads correctly, and the table of files still sends the upkeep to SKILL.md.\nSKILL.md's first part ends at character 20,052 (byte 20,480). A cut at exactly 20,000 characters would fall inside the 'Some further rules override' paragraph. Nothing lens 2 relies on is near that boundary: the files block, the table and the reopen rule end by character 6,608.\nBriefing: *What you are checking* says 'twenty-four pointer rewrites', but its list says twenty-seven. The diff agrees with the list."
+}
